@@ -6,7 +6,9 @@ Catálogo abierto de **12565 ítems de construcción de España** con precios de
 
 ## Para personas
 
-Navegá los capítulos en [`chapters/`](./chapters): cada capítulo es una tabla con id, resumen, unidad, precio y descomposición.
+**Web con buscador y fichas por ítem: <https://cerp-items-web.vercel.app>**
+
+También podés navegar los capítulos en [`chapters/`](./chapters): cada capítulo es una tabla con id, resumen, unidad, precio y descomposición.
 
 | Capítulo | Ítems | |
 |----------|------:|--|
