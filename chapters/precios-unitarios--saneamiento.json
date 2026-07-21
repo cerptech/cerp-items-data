@@ -1,0 +1,6049 @@
+{
+  "attributions": [
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Precios Unitarios > SANEAMIENTO",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-acometida-alcantarillado-s-normas",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "VARIOS",
+          "Acometidas",
+          "Acometidas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-acometida-a-la-red-general-de-alcantarillado",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04WAA00001",
+          "value": 1600.55
+        }
+      ],
+      "sources": [
+        {
+          "code": "04WAA00001",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ACOMETIDA A LA RED GENERAL DE ALCANTARILLADO",
+      "text": "Acometida a la red general de alcantarillado, construida según Ordenanza Municipal. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-ddac2518a862b903"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 8,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.624,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.103,
+          "ref": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.649,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.432,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.255,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.21,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Elementos complementarios",
+          "Elementos complementarios"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-de-bombeo-1x1-m-y-profundidad-1-80-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EEE90056",
+          "value": 619.96
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EEE90056",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA DE BOMBEO 1x1 m Y PROFUNDIDAD 1,80 m.",
+      "text": "Arqueta de bombeo de 1x1 m y 1,80 de profundidad, formada por solera de hormigón HM-20 de 15 cm de espesor fábrica de ladrillo perforado por tabla de 1 pie, enfoscada y bruñida por el interior, bancada formada por dado de hormigón tapa de hormigón armado con cerco de perfil laminado L 50.5, conexión de tubos de alcantarillado, incluso excavación entierras y relleno; construido según CTE y Ordenanza Municipal. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-c85932c9574bba60"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 3.84,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.12,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.031,
+          "ref": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.137,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.174,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.252,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Elementos complementarios",
+          "Elementos complementarios"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-de-bombeo-de-63x63-cm-y-profundidad-1-20-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EEE90051",
+          "value": 308.35
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EEE90051",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA DE BOMBEO DE 63X63 cm Y PROFUNDIDAD 1,20 m.",
+      "text": "Arqueta de bombeo de 63x63 cm y 1,20 m de profundidad, formada por solera de hormigón HM-20 de15 cm de espesor, fábrica de ladrillo perforado por tabla de 1/2 pie, enfoscada y bruñida por el interior, bancada formada por dado de hormigón, tapa de hormigón armado con cerco de perfil laminado y L 50.5, conexión de tubos de alcantarillado, incluso excavación en tierras y relleno; construido según CTE y Ordenanza Municipal. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-67ead44689b2d11d"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.9,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.4,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.015,
+          "ref": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.066,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.11,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.123,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mq-compresor-dos-martillos",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Arquetas",
+          "De paso"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-de-paso-de-51x51-cm-0-70-m-prof-exc-en-roca",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EAP90110",
+          "value": 181.7
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EAP90110",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA DE PASO DE 51X51 cm 0,70 m PROF. EXC. EN ROCA.",
+      "text": "Arqueta de paso de 51x51 cm y 0,70 m de profundidad media, formada por solera de hormigón HM-20 de 15 cm de espesor con formación de pendientes, fábrica de ladrillo perforado por tabla de 1/2 pie, enfoscada y bruñida por el interior, tapa de hormigón armado, con cerco de perfil laminado L 50.5 y conexión de tubos de entrada y salida, incluso excavación en roca y relleno; construida según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-4e605c92cbc187d6",
+          "duplicate_candidate-81969c22ede227b0",
+          "stale_edition-dd8b1a0c1026ddaa"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.9,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.015,
+          "ref": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.066,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.11,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.123,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Arquetas",
+          "De paso"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-de-paso-de-51x51-cm-0-70-m-prof-exc-en-tierras",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EAP90100",
+          "value": 149.61
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EAP90100",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA DE PASO DE 51X51 cm 0,70 m PROF. EXC. EN TIERRAS.",
+      "text": "Arqueta de paso de 51x51 cm y 0,70 m de profundidad media, formada por solera de hormigón HM-20 de 15 cm de espesor con formación de pendientes, fábrica de ladrillo perforado por tabla de 1/2 pie, enfoscada y bruñida por el interior, tapa de hormigón armado, con cerco de perfil laminado L 50.5 y conexión de tubos de entrada y salida, incluso excavación en tierra y relleno; construido según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-a9b4db2a39f47189",
+          "duplicate_candidate-adcee1b11dca44cf",
+          "stale_edition-8ae7560d12519b47"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.67,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 5.36,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.021,
+          "ref": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.094,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.11,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.176,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.82,
+          "ref": "mq-compresor-dos-martillos",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Arquetas",
+          "De paso"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-de-paso-de-51x51-cm-1-m-prof-exc-en-roca",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EAP90011",
+          "value": 290.8
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EAP90011",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA DE PASO DE 51X51 cm 1 m PROF. EXC. EN ROCA.",
+      "text": "Arqueta de paso de 51x51 cm y 1 m de profundidad media, formada por solera de hormigón HM-20 de 15 cm de espesor con formación de pendientes, fábrica de ladrillo perforado por tabla de 1/2 pie, enfoscada y bruñida por el interior, tapa de hormigón armado, con cerco de perfil laminado L 50.5 y conexión de tubos de entrada y salida, incluso excavación en roca y relleno; construida según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-e1a54e0559bad20d"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.67,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.021,
+          "ref": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.094,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.11,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.176,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Arquetas",
+          "De paso"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-de-paso-de-51x51-cm-1-m-prof-exc-en-tierras",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EAP90001",
+          "value": 209.09
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EAP90001",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA DE PASO DE 51X51 cm 1 m PROF. EXC. EN TIERRAS.",
+      "text": "Arqueta de paso de 51x51 cm y 1 m de profundidad media, formada por solera de hormigón HM-20 de 15 cm de espesor con formación de pendientes, fábrica de ladrillo perforado por tabla de 1/2 pie, enfoscada y bruñida por el interior, tapa de hormigón armado, con cerco de perfil laminado L 50.5 y conexión de tubos de entrada y salida, incluso excavación en tierras y relleno; construido según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-1ea5f0e3f3ec11d1",
+          "stale_edition-e6a99a486bfd8a6b"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.85,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.018,
+          "ref": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.079,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.174,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.147,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.95,
+          "ref": "mq-compresor-dos-martillos",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Arquetas",
+          "De paso"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-de-paso-de-63x63-cm-0-70-m-prof-exc-en-roca",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EAP90210",
+          "value": 277.62
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EAP90210",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA DE PASO DE 63X63 cm 0,70 m PROF. EXC. EN ROCA.",
+      "text": "Arqueta de paso de 63x63 cm y 0,70 m de profundidad media, formada por solera de hormigón HM-20 de 15 cm de espesor con formación de pendientes, fábrica de ladrillo perforado por tabla de 1/2 pie, enfoscada y bruñida por el interior; tapa de hormigón armado con cerco de perfil laminado L 50.5 y conexión de tubos de entrada y salida, incluso excavación en roca y relleno; construida según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-79f1b06e53e1ba67",
+          "stale_edition-54985dc09560b904"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.85,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.1,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.018,
+          "ref": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.079,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.174,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.147,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Arquetas",
+          "De paso"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-de-paso-de-63x63-cm-0-70-m-prof-exc-en-tierras",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EAP90200",
+          "value": 226.81
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EAP90200",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA DE PASO DE 63X63 cm 0,70 m PROF. EXC. EN TIERRAS.",
+      "text": "Arqueta de paso de 63x63 cm y 0,70 m de profundidad media, formada por solera de hormigón HM-20 de 15 cm de espesor con formación de pendientes, fábrica de ladrillo perforado por tabla de 1/2 pie, enfoscada y bruñida por el interior; tapa de hormigón armado con cerco de perfil laminado l50:5 y conexión de tubos de entrada y salida, incluso excavación en tierras y relleno; construido según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-57b90fe297c0f62f",
+          "stale_edition-1226e42d86ff57aa"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 3.2,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 6.75,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.026,
+          "ref": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.113,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.147,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.21,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.3,
+          "ref": "mq-compresor-dos-martillos",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Arquetas",
+          "De paso"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-de-paso-de-63x63-cm-1-m-prof-exc-en-roca",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EAP90021",
+          "value": 363.35
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EAP90021",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA DE PASO DE 63X63 cm 1 m PROF. EXC. EN ROCA.",
+      "text": "Arqueta de paso de 63x63 cm y 1 m de profundidad media, formada por solera de hormigón HM-20 de 15 cm de espesor con formación de pendientes, fábrica de ladrillo perforado por tabla de 1/2 pie, enfoscada y bruñida por el interior; tapa de hormigón armado con cerco de perfil laminado L 50.5 y conexión de tubos de entrada y salida, incluso excavación en roca y relleno; construida según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-62fbb59e73ddcb77"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 3.2,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.6,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.026,
+          "ref": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.113,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.147,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.21,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Arquetas",
+          "De paso"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-de-paso-de-63x63-cm-1-m-prof-exc-en-tierras",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EAP90002",
+          "value": 259.71
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EAP90002",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA DE PASO DE 63X63 cm 1 m PROF. EXC. EN TIERRAS.",
+      "text": "Arqueta de paso de 63x63 cm y 1 m de profundidad media, formada por solera de hormigón HM-20 de 15 cm de espesor con formación de pendientes, fábrica de ladrillo perforado por tabla de 1/2 pie, enfoscada y bruñida por el interior; tapa de hormigón armado con cerco de perfil laminado l50:5 y conexión de tubos de entrada y salida, incluso excavación en tierras y relleno; construido según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-7dc703fafb6f982f"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.013,
+          "ref": "mt-arena-fina",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.04,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-arqueta-poliester-reforzado-0-40x0-40x0-60-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.16,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 5,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Arquetas",
+          "Varios"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-de-paso-o-pie-bajante-de-poliester-de-40x40-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EAW00051",
+          "value": 253.64
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EAW00051",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA DE PASO O PIE BAJANTE DE POLIÉSTER DE 40X40 cm",
+      "text": "Arqueta de paso o a pie de bajante de fibra de poliéster reforzado, de 4ox40 cm y 60 cm de profundidad media, incluso asiento formado por solera de hormigón HM-20 de 15 cm de espesor, lecho de arena de 5 cm de espesor, tapa de hormigón armado, con cerco de perfil L 50.5, conexión de tubos, incluso excavación en tierras relleno; construido según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-49d4684ce7311576",
+          "stale_edition-75c5a5b949e87ed5"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.73,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.024,
+          "ref": "mt-arena-fina",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.081,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-arqueta-poliester-reforzado-0-60x0-60x1-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.366,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 7,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Arquetas",
+          "Varios"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-de-paso-o-pie-bajante-de-poliester-de-60x60-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EAW00061",
+          "value": 343.04
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EAW00061",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA DE PASO O PIE BAJANTE DE POLIÉSTER DE 60X60 cm",
+      "text": "Arqueta de paso o a pie de bajante de fibra de poliéster reforzado, de 60x60 cm y 100 cm de profundidad media, incluso asiento formado por solera de hormigón HM-20 de 15 cm de espesor, lecho de arena de 5 cm de espesor, tapa de hormigón armado, con cerco de perfil L 50.5, conexión de tubos, incluso excavación en tierras relleno; construido según CTE Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-713c745ba1ffd3fa"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.9,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.015,
+          "ref": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.066,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.137,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.123,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-codo-pvc-diam-125-mm",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Arquetas",
+          "A pie de bajante"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-pie-bajante-51x51-cm-0-70-m-prof-exc-tierras",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EAB90100",
+          "value": 157.48
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EAB90100",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA PIE BAJANTE 51X51 cm 0,70 m PROF. EXC. TIERRAS.",
+      "text": "Arqueta a pie de bajante de 51x51 cm y 0,70 m de profundidad media, formada por solera de hormigón HM-20 de 15 cm de espesor, fábrica de ladrillo perforado por tabla de 1/2 pie, enfoscada y bruñida por el interior, dado de hormigón en masa, codo de 125 mm de diámetro y tapa de hormigón armado con cerco de perfil laminado L 50.5, incluso excavación en tierras y relleno; construida según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-f45be0fbcb21290b",
+          "duplicate_candidate-fc4cda7919db9d21",
+          "stale_edition-921c3a3d15e8fd3b"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.67,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.021,
+          "ref": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.094,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.137,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.176,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-codo-pvc-diam-125-mm",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Arquetas",
+          "A pie de bajante"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-pie-bajante-51x51-cm-1-m-prof-exc-tierras",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EAB90001",
+          "value": 216.96
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EAB90001",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA PIE BAJANTE 51X51 cm 1 m PROF. EXC. TIERRAS.",
+      "text": "Arqueta a pie de bajante de 51x51 cm y 1 m de profundidad media, formada por solera de hormigón HM-20 de 15 cm de espesor, fábrica de ladrillo perforado por tabla de 1/2 pie, enfoscada y bruñida por el interior, dado de hormigón en masa, codo de 125 mm de diámetro y tapa de hormigón armado con cerco de perfil laminado L 50.5, incluso excavación en tierras y relleno; construida según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-e54b9b0086f532f9"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.85,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.05,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.018,
+          "ref": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.079,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.174,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.147,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-codo-pvc-diam-125-mm",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Arquetas",
+          "A pie de bajante"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-pie-bajante-63x63-cm-0-70-m-prof-exc-tierras",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EAB90200",
+          "value": 231.06
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EAB90200",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA PIE BAJANTE 63X63 cm 0,70 m PROF. EXC. TIERRAS.",
+      "text": "Arqueta a pie de bajante de 63x63 cm y 0,70 m de profundidad media, formada por solera de hormigón HM-20 de 15 cm de espesor, fábrica de ladrillo perforado por tabla de 1/2 pie, enfoscada y bruñida por el interior, dado de hormigón en masa, codo de 125 mm de diámetro y tapa de hormigón armado con cerco de perfil laminado L 50.5, incluso excavación en tierras y relleno; construida según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-7b54aa5857a0085a",
+          "stale_edition-47fe27b252f17783"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 3.2,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.6,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.026,
+          "ref": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.113,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.174,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.21,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-codo-pvc-diam-125-mm",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Arquetas",
+          "A pie de bajante"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-pie-bajante-63x63-cm-1-m-prof-exc-tierras",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EAB90002",
+          "value": 267.57
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EAB90002",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA PIE BAJANTE 63X63 cm 1 m PROF. EXC. TIERRAS.",
+      "text": "Arqueta a pie de bajante de 63x63 cm y 1 m de profundidad media, formada por solera de hormigón HM-20 de 15 cm de espesor, fábrica de ladrillo perforado por tabla de 1/2 pie, enfoscada y bruñida por el interior, dado de hormigón en masa, codo de 125 mm de diámetro y tapa de hormigón armado con cerco de perfil laminado L 50.5, incluso excavación en tierras y relleno; construida según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-8784f49cef5ba480"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 8,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 24.8,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.062,
+          "ref": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.458,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.846,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.084,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.21,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mt-pate-acero-galvanizado-diam-30-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-tapa-interior-y-cadenilla",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4.9,
+          "ref": "mq-compresor-dos-martillos",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Arquetas",
+          "Sifónicas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-sifonica-1x1-m-exc-en-roca",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EAS00012",
+          "value": 1244.62
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EAS00012",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA SIFÓNICA 1x1 m EXC. EN ROCA",
+      "text": "Arqueta sifónica de 1 x 1 m y 1,50 m de profundidad, formada por solera de hormigón HM-20 de 15 cm de espesor, fábrica de ladrillo perforado por tabla de 1/2 pie, enfoscada y bruñida por el interior; formación de sifón con tapa interior y cadenilla, tapa de hormigón armado con cerco de perfil laminada L 50.5 y conexión de tubos de entrada y salida, incluso excavación en roca; construida según CTE y ordenanza munucipal. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-aad9cc0ab3ddd658"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 8,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.45,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.062,
+          "ref": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.458,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.486,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.084,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.21,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mt-pate-acero-galvanizado-diam-30-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-tapa-interior-y-cadenilla",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.56,
+          "ref": "mq-retroexcavadora",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Arquetas",
+          "Sifónicas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-sifonica-1x1-m-exc-en-tierras",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EAS00002",
+          "value": 679.91
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EAS00002",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA SIFÓNICA 1x1 m EXC. EN TIERRAS",
+      "text": "Arqueta sifónica de 1x1 m y 1,50 m de profundidad, formada por solera de hormigón HM-20 de 20 cm de espesor, fábrica de ladrillo perforado por tabla de 1 pie, enfoscada y bruñida por el interior; formación de sifón y tapa de hormigón armado con cerco de perfil laminado L 50.5 y patés de acero galvanizado, incluso excavación en tierras y relleno; construida según CTE y Ordenanza Municipal. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-95bd8ced331985d6"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 3.5,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.7,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-arqueta-sifonica-poliester-reforzado-1x1x1-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 25,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 7,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES COLGADAS",
+          "Arquetas",
+          "Sifónicas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-sifonica-colgada-de-poliester-de-1x1-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04CAS00002",
+          "value": 538.34
+        }
+      ],
+      "sources": [
+        {
+          "code": "04CAS00002",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA SIFÓNICA COLGADA DE POLIÉSTER DE 1x1 m",
+      "text": "Arqueta sifónica colgada de fibra de poliéster reforzada de 1x1 m y 1 m de profundidad, incluso conexiones con colectores de entrada y salida, elementos metálicos de cuelgue, accesorios y ayudas de albañilería; construida según Ordenanza Municipal. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-ea0fc294fb1c8ae1"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.5,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-arqueta-sifonica-poliester-reforzado-0-60x0-60x1-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 20,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 5,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES COLGADAS",
+          "Arquetas",
+          "Sifónicas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-sifonica-colgada-de-poliester-de-60x60-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04CAS00001",
+          "value": 380.58
+        }
+      ],
+      "sources": [
+        {
+          "code": "04CAS00001",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA SIFÓNICA COLGADA DE POLIÉSTER DE 60X60 cm",
+      "text": "Arqueta sifónica colgada de fibra de poliéster reforzada de 60x60 cm y 1 m de profundidad, incluso conexiones con colectores de entrada y salida, elementos metálicos de cuelgue, accesorios y ayudas de albañilería; construida según Ordenanza Municipal. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-710cceea14059a38"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 6.96,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.036,
+          "ref": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.134,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.147,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.236,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-tapa-interior-y-cadenilla",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.3,
+          "ref": "mq-compresor-dos-martillos",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Arquetas",
+          "Sifónicas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-sifonica-de-63x63-cm-exc-en-roca",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EAS00011",
+          "value": 416.91
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EAS00011",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA SIFÓNICA DE 63X63 cm EXC. EN ROCA",
+      "text": "Arqueta sifónica de 63x63 cm y 1 m de profundidad, formada por solera de hormigón HM-20 de 15 cm de espesor, fábrica de ladrillo perforado por tabla de 1/2 pie, enfoscada y bruñida por el interior; formación de sifón con tapa interior y cadenilla, tapa de hormigón armado con cerco de perfil laminada L 50.5 y conexión de tubos de entrada y salida, incluso excavación en roca; construida según CTE y Ordenanza Municipal. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-13a660c8b5625ea2"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.05,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.036,
+          "ref": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.134,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.147,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.236,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-tapa-interior-y-cadenilla",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Arquetas",
+          "Sifónicas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-sifonica-de-63x63-cm-exc-en-tierras",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EAS00001",
+          "value": 318.55
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EAS00001",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA SIFÓNICA DE 63X63 cm EXC. EN TIERRAS",
+      "text": "Arqueta sifónica de 63x63 cm y 1 m de profundidad, formada por solera de hormigón HM-20 de 15 cm de espesor, fábrica de ladrillo perforado por tabla de 1/2 pie, enfoscada y bruñida por el interior; formación de sifón con tapa interior y cadenilla, tapa de hormigón armado con cerco de perfil laminado L 50.5 y conexión de tubos de entrada y salida, incluso excavación en tierras y relleno; construida según CTE y Ordenanza Municipal. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-ac0b1df27c89e517"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.7,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.005,
+          "ref": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.021,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.076,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.035,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-rejilla-plana-fundicion-desmontable-de-50x20-cm",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Arquetas",
+          "Varios"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-sumidero-20-cm-de-ancho-y-25-cm-de-prof",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EAW00001",
+          "value": 113.23
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EAW00001",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA SUMIDERO 20 cm DE ANCHO Y 25 cm DE PROF.",
+      "text": "Arqueta sumidero de 20 cm de ancho y 25 cm de profundidad, formada por solera de hormigón HM-20 de 15 cm de espesor con formación de pendientes, fábrica de ladrillo perforado por tabla de 1/2 pie, enfoscada y bruñida por el interior, cerco de perfil laminado y rejilla plana desmontable de hierro fundido, incluso excavación en tierras y relleno; construida según CTE. Medida la longitud libre por el interior.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-fe060188247386c2",
+          "stale_edition-14d86c0857252f40"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.5,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.64,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.007,
+          "ref": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.034,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.054,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.064,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Arquetas",
+          "Varios"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-arqueta-sumidero-38x38-cm-y-50-cm-de-prof-media",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EAW00006",
+          "value": 100.68
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EAW00006",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ARQUETA SUMIDERO 38X38 cm Y 50 cm DE PROF. MEDIA",
+      "text": "Arqueta para sumidero de 38x38 cm y 50 cm de profundidad media, formada por solera de hormigón HM-20 de 15 cm de espesor, fábrica de ladrillo perforado por tabla de 1/2 pie, enfoscada y bruñida por el interior, tapa de hormigón armado, con cerco de perfil laminado L 50.5 y conexión de tubo de salida, incluso excavación en tierras y relleno; construido según CTE Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-2b3f5b0a59ae0090"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-bajante-chapa-galvanizada-diam-125-3-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4.25,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.15,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES VERTICALES",
+          "Bajantes",
+          "Metálicas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-bajante-chapa-acero-gal-diam-125-mm-espesor-3-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04VBM00002",
+          "value": 48.49
+        }
+      ],
+      "sources": [
+        {
+          "code": "04VBM00002",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BAJANTE CHAPA ACERO GAL. DIÁM. 125 mm, ESPESOR 3 mm",
+      "text": "Bajante de chapa de acero galvanizado de 3 mm de espesor y de 125 mm de diámetro nominal, incluso uniones, paso de forjados, abrazaderas y p.p. de piezas especiales; construido según CTE Medida la longitud ejecutada.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-7ef06b68fc749636",
+          "stale_edition-df0ffa061e99af68"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.39,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-bajante-chapa-galvanizada-diam-75-3-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4.25,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.15,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES VERTICALES",
+          "Bajantes",
+          "Metálicas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-bajante-chapa-acero-gal-diam-75-mm-espesor-3-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04VBM00003",
+          "value": 34.13
+        }
+      ],
+      "sources": [
+        {
+          "code": "04VBM00003",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BAJANTE CHAPA ACERO GAL. DIÁM. 75 mm, ESPESOR 3 mm",
+      "text": "Bajante de chapa de acero galvanizado de 3 mm de espesor y de 75 mm de diámetro nominal, incluso uniones, paso de forjados, abrazaderas y p.p. de piezas especiales; construido según CTE. Medida la longitud ejecutada.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-361cfa875f5354b5"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.36,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-bajante-cinc-diam-100-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 6.5,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.15,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES VERTICALES",
+          "Bajantes",
+          "Metálicas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-bajante-chapa-de-cinc-diam-100-mm-espesor-1-5-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04VBM00001",
+          "value": 71.87
+        }
+      ],
+      "sources": [
+        {
+          "code": "04VBM00001",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BAJANTE CHAPA DE CINC DIÁM. 100 mm, ESPESOR 1,5 mm",
+      "text": "Bajante de chapa cinc de 1,5 mm de espesor, de 100 mm de diámetro nominal, incluso sellado de uniones, pasos de forjados, abrazaderas y p.p. de piezas especiales; construido según CTE. Medida la longitud ejecutada.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-a77772177cf41d1b"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-bajante-pvc-diam-110-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4.5,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES VERTICALES",
+          "Bajantes",
+          "P.V.C."
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-bajante-de-pvc-reforzado-diam-110-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04VBP00002",
+          "value": 23.33
+        }
+      ],
+      "sources": [
+        {
+          "code": "04VBP00002",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BAJANTE DE PVC REFORZADO, DIÁM. 110 mm",
+      "text": "Bajante de PVC reforzado, de 110 mm de diámetro nominal, incluso sellado de uniones, paso de forjados, abrazaderas y p.p. de piezas especiales; construido según CTE. Medida la longitud ejecutada.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-0ffa50f59b8c4036",
+          "duplicate_candidate-c1e44949cee23d9f",
+          "stale_edition-637abed8475de9ab"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.38,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-bajante-pvc-diam-125-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4.5,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES VERTICALES",
+          "Bajantes",
+          "P.V.C."
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-bajante-de-pvc-reforzado-diam-125-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04VBP00001",
+          "value": 25.91
+        }
+      ],
+      "sources": [
+        {
+          "code": "04VBP00001",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BAJANTE DE PVC REFORZADO, DIÁM. 125 mm",
+      "text": "Bajante de PVC reforzado, de 125 mm de diámetro nominal, incluso sellado de uniones, paso de forjados, abrazaderas y p.p. de piezas especiales; construido según CTE. Medida la longitud ejecutada.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-d787ae5748d33117",
+          "stale_edition-ed6da10ef454adde"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-bajante-pvc-diam-160-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 5.5,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES VERTICALES",
+          "Bajantes",
+          "P.V.C."
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-bajante-de-pvc-reforzado-diam-160-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04VBP00021",
+          "value": 28.57
+        }
+      ],
+      "sources": [
+        {
+          "code": "04VBP00021",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BAJANTE DE PVC REFORZADO, DIÁM. 160 mm",
+      "text": "Bajante de PVC reforzado de 160 mm de diámetro nominal, incluso sellado de uniones, pasos de forjado, abrazaderas y p.p. de piezas especiales, construido según CTE. Medida la longitud ejecutada.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-79d3c7004aef7523"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.33,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-bajante-fibrocemento-nt-diam-100-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.5,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES VERTICALES",
+          "Bajantes",
+          "Fibrocemento"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-bajante-fibrocemento-nt-diam-100-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04VBF00011",
+          "value": 23.94
+        }
+      ],
+      "sources": [
+        {
+          "code": "04VBF00011",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BAJANTE FIBROCEMENTO NT, DIÁM. 100 mm",
+      "text": "Bajante de fibrocemento NT, de 100 mm de diámetro nominal, incluso sellado de uniones, pasos de forjados, abrazaderas y p.p. de piezas especiales; construido según CTE. Medida la longitud ejecutada.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-a756c91019223800",
+          "duplicate_candidate-cc679af2d3277b0f",
+          "stale_edition-536eb4711a092714"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.36,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tuberia-fibrocemento-nt-sanitario-diam-125-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.15,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES VERTICALES",
+          "Bajantes",
+          "Fibrocemento"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-bajante-fibrocemento-nt-diam-125-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04VBF00001",
+          "value": 23.92
+        }
+      ],
+      "sources": [
+        {
+          "code": "04VBF00001",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BAJANTE FIBROCEMENTO NT, DIÁM. 125 mm",
+      "text": "Bajante de fibrocemento NT, de 125 mm de diámetro nominal, incluso sellado de uniones, pasos de forjados, abrazaderas y p.p. de piezas especiales; construido según CTE. Medida la longitud ejecutada.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-b945e3b4d853175d",
+          "stale_edition-d477e0d339a501df"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-bajante-fibrocemento-nt-diam-150-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES VERTICALES",
+          "Bajantes",
+          "Fibrocemento"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-bajante-fibrocemento-nt-diam-150-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04VBF00016",
+          "value": 31.3
+        }
+      ],
+      "sources": [
+        {
+          "code": "04VBF00016",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BAJANTE FIBROCEMENTO NT, DIÁM. 150 mm",
+      "text": "Bajante de fibrocemento NT, de 150 mm de diámetro nominal, incluso sellado de uniones, pasos de forjados, abrazaderas y p.p. de piezas especiales; construido según CTE. Medida la longitud ejecutada.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-c272e604a6813975"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 10,
+          "ref": "mt-plomo-en-planchas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-cazoleta-plomo-de-20x-20-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-sumidero-sifonico-h-fundicion-diam-140-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES VERTICALES",
+          "Cazoletas",
+          "Cazoletas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-cazoleta-con-sumidero-sifonico-de-plomo-para-azoteas",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2017-07",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04VCC00001",
+          "value": 169.8
+        }
+      ],
+      "sources": [
+        {
+          "code": "04VCC00001",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "CAZOLETA CON SUMIDERO SIFÓNICO DE PLOMO PARA AZOTEAS",
+      "text": "Cazoleta con sumidero sifónico de plomo para azoteas, formado por: manguetón de plomo de 100 mm de diámetro\r\nnominal, cazoleta de plomo de 20x 20 cm y sumidero sifónico diám. 140 mm, incluso soldaduras, contratubo, pequeño material y ayudas de albañilería; construida según CTE. Medida la unidad terminada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-f509ff6bb6d3f816"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.218,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-cazoleta-sifonica-pvc-diam-160-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-rejilla-de-fundicion-de-diam-150-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES VERTICALES",
+          "Cazoletas",
+          "Cazoletas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-cazoleta-sifonica-de-pvc-con-rejilla-de-fundicion",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04VCC00021",
+          "value": 65.11
+        }
+      ],
+      "sources": [
+        {
+          "code": "04VCC00021",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "CAZOLETA SIFÓNICA DE PVC CON REJILLA DE FUNDICIÓN",
+      "text": "Cazoleta sifónica de PVC de 160 mm de diámetro, salida de 110 mm de diámetro, incluso rejilla de fundición conexión a bajante, sellado de uniones, paso de forjados y p.p. de piezas especiales; construida según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-6aab50526931efa9"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-cazoleta-sifonica-pvc-diam-160-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES VERTICALES",
+          "Cazoletas",
+          "Cazoletas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-cazoleta-sifonica-de-pvc-con-rejilla-de-pvc",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04VCC00011",
+          "value": 54.12
+        }
+      ],
+      "sources": [
+        {
+          "code": "04VCC00011",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "CAZOLETA SIFÓNICA DE PVC CON REJILLA DE PVC",
+      "text": "Cazoleta sifónica de PVC de 160 mm de diámetro, salida de 110 mm de diámetro, incluso rejilla de PVC conexión a bajante, sellado de uniones, paso de forjados y p.p. de piezas especiales; construida según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-797e1eb46f3b69a4"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-pvc-diam-110-mm-4-kg-cm2",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES COLGADAS",
+          "Colectores",
+          "P.V.C."
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-colgado-de-pvc-diam-110-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04CCP00003",
+          "value": 26.46
+        }
+      ],
+      "sources": [
+        {
+          "code": "04CCP00003",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR COLGADO DE PVC DIÁM. 110 mm",
+      "text": "Colector colgado de PVC, presión 4 kg/cm2, de 110 mm de diámetro nominal, incluso p.p. de piezas especiales, abrazaderas, contratubo, pequeño material y ayudas de albañilería; construido según CTE. Medida la longitud ejecutada.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-29e09622df449cd3",
+          "duplicate_candidate-69fa55ead253f984",
+          "duplicate_candidate-7709a8e42a0c2d9f",
+          "duplicate_candidate-d2cf61b2ab7e394c",
+          "duplicate_candidate-fb85bfbb0c8d9f6d",
+          "duplicate_candidate-ffe7ceccd0fd7988",
+          "stale_edition-2ee2b1bb169867db"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-pvc-diam-125-mm-4-kg-cm2",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES COLGADAS",
+          "Colectores",
+          "P.V.C."
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-colgado-de-pvc-diam-125-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04CCP00004",
+          "value": 27.13
+        }
+      ],
+      "sources": [
+        {
+          "code": "04CCP00004",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR COLGADO DE PVC DIÁM. 125 mm",
+      "text": "Colector colgado de PVC, presión 4 kg/cm2, de 125 mm de diámetro nominal, incluso p.p. de piezas especiales, abrazaderas, contratubo,pequeño material y ayudas de albañilería; construido según CTE. Medida la longitud ejecutada.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-30e687ad02cb99f8",
+          "duplicate_candidate-a96664bcb7827bac",
+          "duplicate_candidate-c7d1890dac6d0ffe",
+          "stale_edition-a85d39a7f9083b6f"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.8,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-pvc-diam-160-mm-4-kg-cm2",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES COLGADAS",
+          "Colectores",
+          "P.V.C."
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-colgado-de-pvc-diam-160-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04CCP00001",
+          "value": 33.45
+        }
+      ],
+      "sources": [
+        {
+          "code": "04CCP00001",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR COLGADO DE PVC DIÁM. 160 mm",
+      "text": "Colector colgado de PVC, presión 4 kg/cm2, de 160 mm de diámetro nominal, incluso p.p. de piezas especiales, abrazaderas, contratubo, pequeño material y ayudas de albañilería; construido según CTE. Medida la longitud ejecutada.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-3746c8838a850628",
+          "duplicate_candidate-3f9e8140e37ef98b",
+          "duplicate_candidate-d7e2d904d6b57a3b",
+          "stale_edition-9b27df2fd7d36693"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.8,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-pvc-diam-200-mm-4-kg-cm2",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 5,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES COLGADAS",
+          "Colectores",
+          "P.V.C."
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-colgado-de-pvc-diam-200-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04CCP00002",
+          "value": 37.57
+        }
+      ],
+      "sources": [
+        {
+          "code": "04CCP00002",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR COLGADO DE PVC DIÁM. 200 mm",
+      "text": "Colector colgado de PVC, presión 4 kg/cm2, de 200 mm de diámetro nominal, incluso p.p. de piezas especiales, abrazaderas, contratubo, pequeño material y ayudas de albañilería; construido según CTE. Medida la longitud ejecutada.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-d6a7192dd648f5c4",
+          "duplicate_candidate-fd621dce307185ba",
+          "stale_edition-e6218e3fe4983e07"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-pvc-diam-250-mm-4-kg-cm2",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 7,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES COLGADAS",
+          "Colectores",
+          "P.V.C."
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-colgado-de-pvc-diam-250-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04CCP00021",
+          "value": 46.18
+        }
+      ],
+      "sources": [
+        {
+          "code": "04CCP00021",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR COLGADO DE PVC DIÁM. 250 mm",
+      "text": "Colector colgado de PVC, presión 4 kg/cm2, de 250 mm de diámetro nominal, incluso p.p. de piezas especiales, abrazaderas, contratubo, pequeño material y ayudas de albañilería; construida según CTE. Medida la longitud ejecutada.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-7a67928b04c04afb",
+          "stale_edition-0ef221afb005020f"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-pvc-diam-315-mm-4-kg-cm2",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 10,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES COLGADAS",
+          "Colectores",
+          "P.V.C."
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-colgado-de-pvc-diam-315-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04CCP00031",
+          "value": 64.71
+        }
+      ],
+      "sources": [
+        {
+          "code": "04CCP00031",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR COLGADO DE PVC DIÁM. 315 mm",
+      "text": "Colector colgado de PVC, presión 4 kg/cm2, de 315 mm de diámetro nominal, incluso p.p. de piezas especiales, abrazaderas, contratubo, pequeño material y ayudas de albañilería; construido según CTE. Medida la longitud ejecutada.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-bef980805b14a549"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-pvc-diam-90-mm-4-kg-cm2",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES COLGADAS",
+          "Colectores",
+          "P.V.C."
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-colgado-de-pvc-diam-90-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04CCP00011",
+          "value": 19.96
+        }
+      ],
+      "sources": [
+        {
+          "code": "04CCP00011",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR COLGADO DE PVC DIÁM. 90 mm",
+      "text": "Colector colgado de PVC, presión 4 kg/cm2, de 90 mm de diámetro nominal, incluso p.p. de piezas especiales, abrazaderas, contratubo, pequeño material y ayudas de albañilería; construido según CTE. Medida la longitud ejecutada.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-ba35c72ed36b507d"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.84,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.119,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mt-cinta-senalizacion",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-hormigon-diam-150-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.16,
+          "ref": "mq-pison-mecanico-manual",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Colectores",
+          "Hormigón"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-enterr-horm-diam-150-mm-con-recalce-en-tierras",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04ECH90001",
+          "value": 47.28
+        }
+      ],
+      "sources": [
+        {
+          "code": "04ECH90001",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR ENTERR. HORM. DIÁM. 150 mm CON RECALCE, EN TIERRAS",
+      "text": "Colector enterrado de hormigón, de 150 mm de diámetro nominal, colocado sobre solera de hormigón HM-20 de 10 cm de espesor y recalce de hormigón HM-20 hasta eje horizontal, incluso p.p. de corchetes de hormigón, cinta de señalización, apisonado, excavación en tierras y relleno; construido según CTE. Medida la longitud entre ejes de arquetas.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-68eecd83cd505e84",
+          "duplicate_candidate-aacb2cceeee8e348",
+          "duplicate_candidate-d5eb8d6bae9eecea",
+          "stale_edition-79e852e56c7d60b2"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.95,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.13,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mt-cinta-senalizacion",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-hormigon-diam-200-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.165,
+          "ref": "mq-pison-mecanico-manual",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Colectores",
+          "Hormigón"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-enterr-horm-diam-200-mm-con-recalce-en-tierras",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04ECH90002",
+          "value": 51.3
+        }
+      ],
+      "sources": [
+        {
+          "code": "04ECH90002",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR ENTERR. HORM. DIÁM. 200 mm CON RECALCE, EN TIERRAS",
+      "text": "Colector enterrado de hormigón, de 200 mm de diámetro nominal, colocado sobre solera de hormigón HM-20 de 10 cm de espesor y recalce de hormigón HM-20 hasta eje horizontal, incluso p.p. de corchetes de hormigón, cinta de señalización, apisonado, excavación en tierras y relleno; construido según CTE. Medida la longitud entre ejes de arquetas.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-1477915ae1ff9274",
+          "duplicate_candidate-f7ce6f38bbaefacb",
+          "stale_edition-974c908183ca61a7"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.157,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mt-cinta-senalizacion",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-hormigon-diam-250-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.181,
+          "ref": "mq-pison-mecanico-manual",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Colectores",
+          "Hormigón"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-enterr-horm-diam-250-mm-con-recalce-en-tierras",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04ECH90003",
+          "value": 58.09
+        }
+      ],
+      "sources": [
+        {
+          "code": "04ECH90003",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR ENTERR. HORM. DIÁM. 250 mm CON RECALCE, EN TIERRAS",
+      "text": "Colector enterrado de hormigón de 250 mm de diámetro nominal, colocado sobre solera de hormigón HM-20 de 10 cm de espesor y recalce de hormigón HM-20 hasta eje horizontal, incluso p.p. de corchetes de hormigón, cinta de señalización, apisonado, excavación en tierras y relleno; construido según CTE. Medida la longitud entre ejes de arquetas.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-bbd7e747f5f82d82",
+          "stale_edition-6f9665a03e286d54"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.267,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.4,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.178,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mt-cinta-senalizacion",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-hormigon-diam-300-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.203,
+          "ref": "mq-pison-mecanico-manual",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Colectores",
+          "Hormigón"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-enterr-horm-diam-300-mm-con-recalce-en-tierras",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04ECH90004",
+          "value": 67.76
+        }
+      ],
+      "sources": [
+        {
+          "code": "04ECH90004",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR ENTERR. HORM. DIÁM. 300 mm CON RECALCE, EN TIERRAS",
+      "text": "Colector enterrado de hormigón, de 300 mm de diámetro nominal, colocado sobre solera de hormigón HM-20 de 10 cm de espesor y recalce de hormigón HM-20 hasta eje horizontal, incluso p.p. de corchetes de hormigón, cinta de señalización, apisonado, excavación en tierras y relleno; construido CTE. Medida la longitud entre ejes de arquetas.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-191e6216c9a689d0"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.26,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.13,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mt-cinta-senalizacion",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-hormigon-diam-200-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.47,
+          "ref": "mq-compresor-dos-martillos",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.165,
+          "ref": "mq-pison-mecanico-manual",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Colectores",
+          "Hormigón"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-enterr-hormig-diam-200-mm-con-recalce-en-roca",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04ECH90052",
+          "value": 62.57
+        }
+      ],
+      "sources": [
+        {
+          "code": "04ECH90052",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR ENTERR. HORMIG. DIÁM. 200 mm CON RECALCE, EN ROCA",
+      "text": "Colector enterrado de hormigón, de 200 mm de diámetro nominal, colocado sobre solera de hormigón HM-20 de 10 cm espesor y recalce de hormigón HM-20 hasta eje horizontal, incluso p.p. de corchetes de hormigón, cinta de señalización, apisonado, excavación en roca y relleno; construido según CTE. Medida la longitud entre ejes de arquetas.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-090d2fb8633bf2ae",
+          "duplicate_candidate-e4826e2c964d9bc8",
+          "stale_edition-2aa0bc2709b38760"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.48,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.157,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mt-cinta-senalizacion",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-hormigon-diam-250-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.59,
+          "ref": "mq-compresor-dos-martillos",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.181,
+          "ref": "mq-pison-mecanico-manual",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Colectores",
+          "Hormigón"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-enterr-hormig-diam-250-mm-con-recalce-en-roca",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04ECH90053",
+          "value": 72.03
+        }
+      ],
+      "sources": [
+        {
+          "code": "04ECH90053",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR ENTERR. HORMIG. DIÁM. 250 mm CON RECALCE, EN ROCA",
+      "text": "Colector enterrado de hormigón, de 250 mm de diámetro nominal, colocado sobre solera de hormigón HM-20 de 10 cm de espesor y recalce de hormigón HM-20 hasta eje horizontal, incluso p.p. de corchetes de hormigón, cinta de señalización, apisonado, excavación en roca y relleno; construido según CTE. Medida la longitud entre ejes de arquetas.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-cd34feccc739ef6c",
+          "stale_edition-52ba1b67f1a92f7b"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.267,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.8,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.178,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mt-cinta-senalizacion",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-hormigon-diam-300-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.67,
+          "ref": "mq-compresor-dos-martillos",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.203,
+          "ref": "mq-pison-mecanico-manual",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Colectores",
+          "Hormigón"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-enterr-hormig-diam-300-mm-con-recalce-en-roca",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04ECH90054",
+          "value": 82.91
+        }
+      ],
+      "sources": [
+        {
+          "code": "04ECH90054",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR ENTERR. HORMIG. DIÁM. 300 mm CON RECALCE, EN ROCA",
+      "text": "Colector enterrado de hormigón, de 300 mm de diámetro nominal, colocado sobre solera de hormigón HM-20 de 10 cm de espesor y recalce de hormigón HM-20 hasta eje horizontal, incluso p.p. de corchetes de hormigón, cinta de señalización, apisonado, excavación en roca; construido según CTE. Medida la longitud entre ejes de arquetas.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-121e7684a82dd482"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.84,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.268,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mt-cinta-senalizacion",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-hormigon-diam-150-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.084,
+          "ref": "mq-pison-mecanico-manual",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Colectores",
+          "Hormigón"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-enterrado-hormigon-diam-150-mm-con-refuerzo",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04ECH90005",
+          "value": 67.61
+        }
+      ],
+      "sources": [
+        {
+          "code": "04ECH90005",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR ENTERRADO, HORMIGÓN, DIÁM. 150 mm CON REFUERZO",
+      "text": "Colector enterrado de hormigón, de 150 mm de diámetro nominal, colocado sobre solera de 10 cm de espesor y con refuerzo de hormigón HM-20, incluso p.p. de cinta de señalización, apisonado, excavación en tierras y relleno; construido según CTE. Medida la longitud entre ejes de arquetas.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-211adef181dc49df",
+          "duplicate_candidate-5a3dd820d1ced774",
+          "duplicate_candidate-91af30eb6eb24ee9",
+          "stale_edition-2bbb9688dbe292a2"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.95,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.281,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mt-cinta-senalizacion",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-hormigon-diam-200-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.085,
+          "ref": "mq-pison-mecanico-manual",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Colectores",
+          "Hormigón"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-enterrado-hormigon-diam-200-mm-con-refuerzo",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04ECH90006",
+          "value": 71.8
+        }
+      ],
+      "sources": [
+        {
+          "code": "04ECH90006",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR ENTERRADO, HORMIGÓN, DIÁM. 200 mm CON REFUERZO",
+      "text": "Colector enterrado de hormigón, de 200 mm de diámetro nominal, colocado sobre solera de 10 cm de espesor y con refuerzo de hormigón HM-20, incluso p.p. de cinta de señalización, apisonado, excavación en tierras y relleno; construido según CTE. Medida la longitud entre ejes de arquetas.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-2b79eac64e6eece8",
+          "duplicate_candidate-f5eb4aad9f4f1a07",
+          "stale_edition-54676db5449f1d60"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.09,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.327,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mt-cinta-senalizacion",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-hormigon-diam-250-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.094,
+          "ref": "mq-pison-mecanico-manual",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Colectores",
+          "Hormigón"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-enterrado-hormigon-diam-250-mm-con-refuerzo",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04ECH90007",
+          "value": 80.11
+        }
+      ],
+      "sources": [
+        {
+          "code": "04ECH90007",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR ENTERRADO, HORMIGÓN, DIÁM. 250 mm CON REFUERZO",
+      "text": "Colector enterrado de hormigón, de 250 mm de diámetro nominal, colocado sobre solera de 10 cm de espesor y con refuerzo de hormigón HM-20, incluso p.p. de cinta de señalización, apisonado, excavación en tierras y relleno; construido según CTE. Medida la longitud entre ejes de arquetas.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-b9248755f3fc7c47",
+          "stale_edition-2c76bf447381321e"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.437,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.35,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.356,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mt-cinta-senalizacion",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-hormigon-diam-300-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.113,
+          "ref": "mq-pison-mecanico-manual",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Colectores",
+          "Hormigón"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-enterrado-hormigon-diam-300-mm-con-refuerzo",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04ECH90008",
+          "value": 90.54
+        }
+      ],
+      "sources": [
+        {
+          "code": "04ECH90008",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR ENTERRADO, HORMIGÓN, DIÁM. 300 mm CON REFUERZO",
+      "text": "Colector enterrado de hormigón, de 300 mm de diámetro nominal, colocado sobre solera de 10 cm de espesor y con refuerzo de hormigón HM-20, incluso p.p. de cinta de señalización, apisonado, excavación en tierras y relleno; construido según CTE. Medida la longitud entre ejes de arquetas.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-80ad8b588aa5e4ab"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.08,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.08,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.66,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.09,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-pvc-diam-125-mm-4-kg-cm2",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.125,
+          "ref": "mq-pison-mecanico-manual",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Colectores",
+          "P.V.C."
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-enterrado-tuberia-pres-pvc-diam-125-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04ECP90005",
+          "value": 27.11
+        }
+      ],
+      "sources": [
+        {
+          "code": "04ECP90005",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR ENTERRADO TUBERIA PRES. PVC DIÁM. 125 mm.",
+      "text": "Colector enterrado de tubería presión de PVC 4 kg/cm2, de 125 mm de diámetro nominal, colocado sobre lecho de arena de 10 cm de espesor, incluso p.p. de cinta de señalización, apisonado, piezas especiales, excavación entierras y relleno; construido según CTE. Medida la longitud entre ejes de arquetas.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-1a935a35b6d367b6",
+          "duplicate_candidate-cbf18cc3b1ec9c5e",
+          "duplicate_candidate-dc7668dd9f9e4af4",
+          "duplicate_candidate-fc66ef3ae7a93087",
+          "stale_edition-102747b07208c488"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.8,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-pvc-diam-160-mm-4-kg-cm2",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mq-pison-mecanico-manual",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Colectores",
+          "P.V.C."
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-enterrado-tuberia-pres-pvc-diam-160-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04ECP90007",
+          "value": 33.5
+        }
+      ],
+      "sources": [
+        {
+          "code": "04ECP90007",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR ENTERRADO TUBERIA PRES. PVC DIÁM. 160 mm.",
+      "text": "Colector enterrado de tubería presión de PVC 4 kg/cm2, de 164 mm de diámetro nominal, colocado sobre lecho de arena de 10 cm de espesor, incluso p.p. de cinta de señalización, piezas especiales, apisonado, excavación en tierras y relleno; construido según CTE. Medida la longitud entre ejes de arquetas.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-0373d03793ac99b0",
+          "duplicate_candidate-aa9096b5412ecabd",
+          "duplicate_candidate-e9f6ad33aae76e10",
+          "stale_edition-00ff869395c4ea67"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.9,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.12,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-pvc-diam-200-mm-4-kg-cm2",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.16,
+          "ref": "mq-pison-mecanico-manual",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Colectores",
+          "P.V.C."
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-enterrado-tuberia-pres-pvc-diam-200-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04ECP90009",
+          "value": 38.39
+        }
+      ],
+      "sources": [
+        {
+          "code": "04ECP90009",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR ENTERRADO TUBERIA PRES. PVC DIÁM. 200 mm.",
+      "text": "Colector enterrado de tubería presión de PVC 4 kg/cm2, de 200 mm de diámetro nominal, colocado sobre lecho de arena de 10 cm de espesor, incluso p.p. de cinta de señalización, piezas especiales, apisonado, excavación en tierras y relleno; construido según CTE. Medida la longitud entre ejes de arquetas.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-64b3943653481571",
+          "duplicate_candidate-d801dd4577fc915f",
+          "stale_edition-9efe9d1d8083635c"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.12,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.12,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.07,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-pvc-diam-250-mm-4-kg-cm2",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.18,
+          "ref": "mq-pison-mecanico-manual",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.5,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Colectores",
+          "P.V.C."
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-enterrado-tuberia-pres-pvc-diam-250-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04ECP90010",
+          "value": 45.92
+        }
+      ],
+      "sources": [
+        {
+          "code": "04ECP90010",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR ENTERRADO TUBERIA PRES. PVC DIÁM. 250 mm.",
+      "text": "Colector enterrado de tubería presión de PVC 4 kg/cm2, de 250 mm de diámetro nominal, colocado sobre lecho de arena de 10 cm de espesor, incluso p.p. de cinta de señalización, piezas especiales, apisonado, excavación en tierras y relleno; construido según CTE. Medida la longitud entre ejes de arquetas.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-8c1036b7da565235",
+          "stale_edition-c0ac9a2c39878aaf"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.33,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.16,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-pvc-diam-315-mm-4-kg-cm2",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mq-pison-mecanico-manual",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Colectores",
+          "P.V.C."
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-enterrado-tuberia-pres-pvc-diam-315-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04ECP90011",
+          "value": 62.51
+        }
+      ],
+      "sources": [
+        {
+          "code": "04ECP90011",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR ENTERRADO TUBERIA PRES. PVC DIÁM. 315 mm.",
+      "text": "Colector enterrado de tubería presión de PVC 4 kg/cm2, de 315 mm de diámetro nominal, colocado sobre lecho de arena de 10 cm de espesor, incluso p.p. de cinta de señalización, piezas especiales, apisonado, excavación en tierras y relleno; construido según CTE. Medida la longitud entre ejes de arquetas.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-2930d00ec24335b1"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.84,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mt-grava-diam-30-40-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.032,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-poroso-hormigon-diam-150-mm",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Colectores",
+          "Hormigón"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-drenaje-con-tubo-de-hormigon-poroso-diam-150-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04ECH90010",
+          "value": 44.42
+        }
+      ],
+      "sources": [
+        {
+          "code": "04ECH90010",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "DRENAJE CON TUBO DE HORMIGÓN POROSO, DIÁM. 150 mm",
+      "text": "Drenaje con tubo de hormigón poroso, de 150 mm de diámetro nominal, colocado sobre lecho de hormigón y bajo relleno de gravas, incluso excavación en tierras y relleno filtrante con grava gruesa; construido según CTE. Medida la longitud ejecutada.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-6160ed6eb4427d3a"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.06,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-pvc-diam-50x2-4-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.8,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES VERTICALES",
+          "Elementos complementarios",
+          "Elementos complementarios"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-red-secundaria-para-ventilacion-tubo-de-pvc-diam-50-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04VEE00101",
+          "value": 13.21
+        }
+      ],
+      "sources": [
+        {
+          "code": "04VEE00101",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "RED SECUNDARIA PARA VENTILACIÓN TUBO DE PVC DIÁM. 50 mm",
+      "text": "Red secundaria para ventilación de bajantes, realizada en tubería de PVC diámetro nominal 50 mm, incluso piezas especiales, sellado de uniones, pasos de forjados, abrazaderas; construida según CTE. Medida la cantidad ejecutada.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-5a92d26cbc4c392a"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 8,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.52,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.541,
+          "ref": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.486,
+          "ref": "mt-hormigon-hm-20-p-20-x0-suministrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.046,
+          "ref": "mt-ladrillo-ceram-perf-taladro-pequeno-revestir-24x11-5x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.21,
+          "ref": "mt-tapa-de-hormigon-armado-con-cerco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 10,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Elementos complementarios",
+          "Elementos complementarios"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-separador-de-grasas-y-fangos-1x1-m-y-prof-1-50-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EEE90001",
+          "value": 592.25
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EEE90001",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "SEPARADOR DE GRASAS Y FANGOS 1x1 m Y PROF. 1,50 m.",
+      "text": "Separador de grasas y fangos de 1x1 m y 1,50 m de profundidad, formado por solera de hormigón HM-20 de 20 cm de espesor, fábrica de ladrillo perforado por tabla de 1 pie, enfoscada y bruñida por el interior y tapa de hormigón armado con cerco de perfil laminado L 50.5, incluso excavación en tierras y relleno; construido según CTE y Ordenanza Municipal. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-b21522f5786b4053"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 10,
+          "ref": "mt-plomo-en-planchas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-rejilla-cilindrica",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-cazoleta-plomo-de-20x-20-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES VERTICALES",
+          "Cazoletas",
+          "Cazoletas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-sumidero-de-plomo-para-azotea-no-transitable",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2017-07",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04VCC00002",
+          "value": 145.4
+        }
+      ],
+      "sources": [
+        {
+          "code": "04VCC00002",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "SUMIDERO DE PLOMO PARA AZOTEA NO TRANSITABLE",
+      "text": "Sumidero de plomo para azotea no transitable formado por: manguetón de plomo de 100 mm de diámetro nominal,\r\ncazoleta de plomo de 20x 20 cm y rejilla cilíndrica, incluso soldaduras, contratubo, pequeño material y ayudas de albañilería; construido según nte/iss-38. Medida la unidad terminada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-29f35db7ae1f4e56"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-sumidero-sifonico-h-fundicion-diam-140-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Elementos complementarios",
+          "Elementos complementarios"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-sumidero-sifonico-hierro-fund-sal-horiz-diam-140-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EEE00101",
+          "value": 42.47
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EEE00101",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "SUMIDERO SIFÓNICO HIERRO FUND. SAL. HORIZ. DIÁM. 140 mm",
+      "text": "Sumidero sifónico de salida horizontal de 140 mm de diámetro, con rejilla de hierro fundido, incluso pequeño material de recibido; construido según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-ed24f31c0309722b"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-sumidero-sifonico-pvc-diam-110-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES ENTERRADAS",
+          "Elementos complementarios",
+          "Elementos complementarios"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-sumidero-sifonico-pvc-salida-de-diam-110-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04EEE00102",
+          "value": 51.57
+        }
+      ],
+      "sources": [
+        {
+          "code": "04EEE00102",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "SUMIDERO SIFÓNICO PVC SALIDA DE DIÁM. 110 mm",
+      "text": "Sumidero sifónico de PVC con salida de 110 mm de diámetro, con rejilla plana de PVC, incluso pequeño material de recibido y colocación; construido según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-ba6b522ee568c6d3"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.5,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-tubo-fundicion-ductil-diam-200-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-valvula-de-compuerta-h-fund-diam-200-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 20,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 5,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES COLGADAS",
+          "Elementos complementarios",
+          "Elementos complementarios"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-valvula-de-compuerta-brida-fundicion-ductil-diam-200-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04CEE00011",
+          "value": 468.8
+        }
+      ],
+      "sources": [
+        {
+          "code": "04CEE00011",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "VÁLVULA DE COMPUERTA BRIDA, FUNDICIÓN DÚCTIL DIÁM. 200 mm",
+      "text": "Válvula de compuerta de brida, de fundición dúctil de 200 mm de diámetro, incluso tubo de 1 m de longitud del mismo diámetro y material, elementos de cuelgue y conexión, accesorios, contratubo y ayudas de albañilería; construida según Ordenanza Municipal. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-593bcd3c38fceaff",
+          "stale_edition-490522c5c9c9de52"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.5,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-tubo-fundicion-ductil-diam-250-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-valvula-de-compuerta-h-fund-diam-250-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 20,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 5,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "SANEAMIENTO",
+          "REDES COLGADAS",
+          "Elementos complementarios",
+          "Elementos complementarios"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-valvula-de-compuerta-brida-fundicion-ductil-diam-250-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "04CEE00021",
+          "value": 704.55
+        }
+      ],
+      "sources": [
+        {
+          "code": "04CEE00021",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "VÁLVULA DE COMPUERTA BRIDA, FUNDICIÓN DÚCTIL DIÁM. 250 mm",
+      "text": "Válvula de compuerta de brida, de fundición dúctil de 250 mm de diámetro, incluso tubo de 1 m de longitud del mismo diámetro y material, elementos de cuelgue y conexión, accesorios, contratubo y ayudas de albañilería; construida según Ordenanza Municipal. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-317df03b6b04eb9c"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.1.0"
+}

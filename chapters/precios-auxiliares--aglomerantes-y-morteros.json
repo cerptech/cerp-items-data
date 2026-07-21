@@ -1,0 +1,2818 @@
+{
+  "attributions": [
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Precios Auxiliares > AGLOMERANTES Y MORTEROS",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 4.12,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.397,
+          "ref": "mt-cal-viva",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.793,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Cales"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-cal-aerea-apagada-en-pasta-cl-90",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGK00100",
+          "value": 247.26
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGK00100",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "CAL AÉREA APAGADA EN PASTA CL 90",
+      "text": "Cal aérea apagada en pasta CL 90, confeccionada a mano, según UNE-EN 459-1:2002.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-d9848086a9d3e8f2"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 4.12,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.309,
+          "ref": "mt-cal-viva",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.876,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Lechadas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-lechada-de-cal-aerea-cl-90",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGL00200",
+          "value": 212.86
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGL00200",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "LECHADA DE CAL AÉREA CL 90",
+      "text": "Lechada de cal aérea CL 90, confeccionada a mano, según UNE-EN 459-1:2002.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-13de54abb7f1694c"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 3.605,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.515,
+          "ref": "mt-cemento-blanco-bl-22-5-x-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.891,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Lechadas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-lechada-de-cemento-blanco-bl-22-5-x",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGL80600",
+          "value": 220.64
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGL80600",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "LECHADA DE CEMENTO BLANCO BL 22,5 X",
+      "text": "Lechada de cemento blanco BL 22,5 X, envasado, confeccionada a mano, según UNE-EN 197-1:2000.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-229aee494748aeac"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 3.605,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.515,
+          "ref": "mt-cemento-blanco-bl-ii-a-l-42-5-r-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.891,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Lechadas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-lechada-de-cemento-blanco-bl-ii-a-l-42-5-r",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGL80500",
+          "value": 239.46
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGL80500",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "LECHADA DE CEMENTO BLANCO BL II/A-L 42,5 R",
+      "text": "Lechada de cemento blanco BL II/A-L 42,5 R, envasado, confeccionada a mano, según UNE-EN 197-1:2000.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-b86def557d1d1a3c"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 3.605,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.515,
+          "ref": "mt-cemento-con-colorante",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.891,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Lechadas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-lechada-de-cemento-c-colorante",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGL80700",
+          "value": 80.7
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGL80700",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "LECHADA DE CEMENTO C/COLORANTE",
+      "text": "Lechada de cemento con colorante para revestimientos, confeccionado a mano.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-418507a0b02e8c20"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 3.605,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.515,
+          "ref": "mt-cemento-cem-ii-a-l-32-5-n-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.891,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Lechadas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-lechada-de-cemento-cem-ii-a-l-32-5-n",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGL00100",
+          "value": 163.42
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGL00100",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "LECHADA DE CEMENTO CEM II/A-L 32,5 N",
+      "text": "Lechada de cemento CEM II/A-L 32,5 N, envasado, confeccionada a mano, según UNE-EN 197-1:2000.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-c8249d145f2d595b"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.236,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.38,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.38,
+          "ref": "mt-cemento-cem-ii-a-l-32-5-n-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.19,
+          "ref": "mt-cal-aerea-apagada-en-polvo-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-bastardo-m10-1-0-5-4-cem-ii-a-l-32-5-n-y-cal",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM01600",
+          "value": 174.79
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM01600",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO BASTARDO M10 (1:0,5:4) CEM II/A-L 32,5 N Y CAL",
+      "text": "Mortero bastardo de cemento CEM II/A-L 32,5 N, cal aérea apagada y arena de río, tipo M10 (1:0,5:4), con una resistencia a compresión de 5 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-aff4a177b64c36ee",
+          "stale_edition-602708a494a6fceb"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.236,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.53,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mt-cemento-cem-ii-a-l-32-5-n-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mt-cal-aerea-apagada-en-polvo-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-bastardo-m2-5-1-2-10-cem-ii-a-l-32-5-n-y-cal",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM01700",
+          "value": 221.81
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM01700",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO BASTARDO M2,5 (1:2:10) CEM II/A-L 32,5 N Y CAL",
+      "text": "Mortero bastardo de cemento CEM II/A-L 32,5 N, cal aérea apagada y arena de río, tipo M2,5 (1:2:10), con una resistencia a compresión de 2,5 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-d331041523f60787"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.236,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.98,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.27,
+          "ref": "mt-cemento-blanco-bl-ii-a-l-42-5-r-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.27,
+          "ref": "mt-cal-aerea-apagada-en-polvo-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-bastardo-m5-1-1-7-cem-bl-ii-a-l-42-5-r-y-cal",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM81760",
+          "value": 219.53
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM81760",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO BASTARDO M5 (1:1:7) CEM BL II/A-L 42,5 R Y CAL",
+      "text": "Mortero bastardo de cemento blanco BL-II/A-L 42,5 R, cal aérea apagada y arena de río, tipo M5 (1:1:7), con una resistencia a compresión de 5 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-9123e9314458b805"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.236,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.5,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mt-cemento-cem-ii-a-l-32-5-n-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mt-cal-aerea-apagada-en-polvo-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-bastardo-m5-1-1-7-cem-ii-a-l-32-5-n-y-cal",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM01605",
+          "value": 176.63
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM01605",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO BASTARDO M5 (1:1:7) CEM II/A-L 32,5 N Y CAL",
+      "text": "Mortero bastardo de cemento CEM II/A-L 32,5 N, cal aérea apagada y arena de río, tipo M5 (1:1:7), con una resistencia a compresión de 10 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-cf19408816e0a17f"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.236,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.86,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.42,
+          "ref": "mt-cemento-blanco-bl-ii-a-l-42-5-r-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mt-cal-aerea-apagada-en-polvo-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.188,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-bastardo-m7-5-1-0-5-5-cem-bl-ii-a-l-42-5-r-y-cal",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM81750",
+          "value": 292.36
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM81750",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO BASTARDO M7,5 (1:0,5:5) CEM BL II/A-L 42,5 R Y CAL",
+      "text": "Mortero bastardo de cemento blanco BL-II/A-L 42,5 R, cal aérea apagada y arena de río, tipo M7,5 (1:0,5:7), con una resistencia a compresión de 7,5 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-c76a19cc80a53d6d"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.236,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.86,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.42,
+          "ref": "mt-cemento-cem-ii-a-l-32-5-n-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mt-cal-aerea-apagada-en-polvo-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-bastardo-m7-5-1-0-5-5-cem-ii-a-l-32-5-n-y-cal",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM81000",
+          "value": 230.35
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM81000",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO BASTARDO M7,5 (1:0,5:5) CEM II/A-L 32,5 N Y CAL",
+      "text": "Mortero bastardo de cemento CEM II/A-L 32,5 N, cal aérea apagada y arena de río, tipo M7,5 (1:0,5:5), con una resistencia a compresión de 10 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-8eeb024cf2dc7fee"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.38,
+          "ref": "mt-cemento-blanco-bl-ii-a-l-42-5-r-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.26,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-cem-blanco-m10-1-4-bl-ii-a-l-42-5-r",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM80990",
+          "value": 154.67
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM80990",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO CEM. BLANCO M10 (1:4) BL II/A-L 42,5 R",
+      "text": "Mortero de cemento BL II/A-L 42,5 R, tipo M10 (1:4), con una resistencia a compresión de 10 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-c2f4ef2eda344b7a"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.102,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.288,
+          "ref": "mt-plastificante",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.258,
+          "ref": "mt-cemento-blanco-bl-ii-a-l-42-5-r-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.263,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-cem-blanco-m5-1-6-bl-ii-a-l-42-5-r-plast",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM01000",
+          "value": 121.5
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM01000",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO CEM. BLANCO M5 (1:6) BL II/A-L 42,5 R + PLAST.",
+      "text": "Mortero de cemento BL II/A-L 42,5 R, tipo M5 (1:6), con adición de plastificante, con una resistencia a compresión de 5 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-330e922f91cd906a"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.06,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.133,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.196,
+          "ref": "mt-cal-aerea-apagada-en-polvo-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.278,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-de-cal-aerea-apagada-m10-1-4",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM81560",
+          "value": 130.43
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM81560",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO DE CAL AÉREA APAGADA M10 (1:4)",
+      "text": "Mortero de cal aérea apagada y arena de río, tipo M10 (1:4), con una resistencia a compresión de 10 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-027e817da608e9ce",
+          "stale_edition-e0c33d0d587a2d68"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.06,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.082,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.247,
+          "ref": "mt-cal-aerea-apagada-en-polvo-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.283,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-de-cal-aerea-apagada-m15-1-3",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM81550",
+          "value": 147.69
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM81550",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO DE CAL AÉREA APAGADA M15 (1:3)",
+      "text": "Mortero de cal aérea apagada y arena de río, tipo M15 (1:3), con una resistencia a compresión de 15 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-459a7533c01a6208"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.06,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.144,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.165,
+          "ref": "mt-cal-aerea-apagada-en-polvo-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.273,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-de-cal-aerea-apagada-m7-5-1-5",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM81570",
+          "value": 105.76
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM81570",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO DE CAL AÉREA APAGADA M7,5 (1:5)",
+      "text": "Mortero de cal aérea apagada y arena de río, tipo M7,5 (1:5), con una resistencia a compresión de 7,5 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-5497eb8567976b33"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.06,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.803,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.556,
+          "ref": "mt-cal-hidraulica-apagada-en-polvo-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.33,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-de-cal-hidraulica-1-1",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM01100",
+          "value": 280.56
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM01100",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO DE CAL HIDRÁULICA (1:1)",
+      "text": "Mortero de cal hidráhulica y arena de río (1:1), según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-67c2206ab7838d1d",
+          "stale_edition-cf09ff73879ccc5e"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.06,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.989,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.345,
+          "ref": "mt-cal-hidraulica-apagada-en-polvo-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.299,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-de-cal-hidraulica-1-2",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM01200",
+          "value": 198.23
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM01200",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO DE CAL HIDRÁULICA (1:2)",
+      "text": "Mortero de cal hidráhulica y arena de río (1:2), según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-1e980fd5d5d65c57"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.06,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.133,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.196,
+          "ref": "mt-cal-hidraulica-apagada-en-polvo-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.278,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-de-cal-hidraulica-m10-1-4",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM01400",
+          "value": 140.26
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM01400",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO DE CAL HIDRÁULICA M10 (1:4)",
+      "text": "Mortero de cal hidráhulica y arena de río, tipo M10 (1:4), con una resistencia a compresión de 10 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-4fb396fd3404e74a",
+          "stale_edition-5d7be78222e78410"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.06,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.082,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.247,
+          "ref": "mt-cal-hidraulica-apagada-en-polvo-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.283,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-de-cal-hidraulica-m15-1-3",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM01300",
+          "value": 160.08
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM01300",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO DE CAL HIDRÁULICA M15 (1:3)",
+      "text": "Mortero de cal hidráhulica y arena de río, tipo M15 (1:3), con una resistencia a compresión de 15 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-28d20abac738341c"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.06,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.144,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.165,
+          "ref": "mt-cal-hidraulica-apagada-en-polvo-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.273,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-de-cal-hidraulica-m7-5-1-5",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM01500",
+          "value": 114.04
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM01500",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO DE CAL HIDRÁULICA M7,5 (1:5)",
+      "text": "Mortero de cal hidráhulica y arena de río, tipo M7,5 (1:5), con una resistencia a compresión de 7,5 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-23cb282cc99e317b"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.339,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mt-plastificante",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.175,
+          "ref": "mt-cemento-cem-ii-a-l-32-5-n-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.052,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.133,
+          "ref": "mt-perlita-en-sacos-b-10",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-de-cemento-aligerado-cem-ii-a-l-32-5-n-y-perlita-b-1",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM00900",
+          "value": 734.78
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM00900",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO DE CEMENTO ALIGERADO CEM II/A-L 32.5 N Y PERLITA B-10",
+      "text": "Mortero aligerado formado con cemento CEM II/A-L 32,5 N y perlita B-10.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-02ed52b593ded7f4"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.7,
+          "ref": "mt-arena-fina",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.948,
+          "ref": "mt-cemento-cem-ii-a-l-32-5-n-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.278,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-de-cemento-cem-ii-a-l-32-5-n-1-1",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM00100",
+          "value": 188.35
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM00100",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO DE CEMENTO CEM II/A-L 32,5 N (1:1)",
+      "text": "Mortero de cemento CEM II/A-L 32,5 N (1:1), según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-3d6ff26d66422da6"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.061,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.361,
+          "ref": "mt-cemento-cem-ii-a-l-32-5-n-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.268,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-de-cemento-m10-1-4-cem-ii-a-l-32-5-n",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM00300",
+          "value": 95.94
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM00300",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO DE CEMENTO M10 (1:4) CEM II/A-L 32,5 N",
+      "text": "Mortero de cemento CEM II/A-L 32,5 N, tipo M10 (1:4), con una resistencia a compresión de 10 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-01048c3814e3965b",
+          "duplicate_candidate-0d3f5412d5ce2021",
+          "stale_edition-aa6c6c6fae5af0a3"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.061,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.803,
+          "ref": "mt-plastificante",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.361,
+          "ref": "mt-cemento-cem-ii-a-l-32-5-n-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.263,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-de-cemento-m10-1-4-cem-ii-a-l-32-5-n-plast",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM00700",
+          "value": 100.84
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM00700",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO DE CEMENTO M10 (1:4) CEM II/A-L 32,5 N + PLAST.",
+      "text": "Mortero de cemento CEM II/A-L 32,5 N, tipo M10 (1:4), con adición de plastificante, con una resistencia a compresión de 10 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-fedf453b7c1f9826",
+          "stale_edition-c365c2480c7dbaa9"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.004,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.453,
+          "ref": "mt-cemento-cem-ii-a-l-32-5-n-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.268,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-de-cemento-m15-1-3-cem-ii-a-l-32-5-n",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM00200",
+          "value": 109.98
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM00200",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO DE CEMENTO M15 (1:3) CEM II/A-L 32,5 N",
+      "text": "Mortero de cemento CEM II/A-L 32,5 N, tipo M15 (1:3), con una resistencia a compresión de 15 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-b26d16bcc9fe2c49",
+          "duplicate_candidate-cb7126650a9bc781",
+          "duplicate_candidate-e9001bb04032f3be",
+          "stale_edition-ad94771602ee8b6c"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.174,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.196,
+          "ref": "mt-cemento-cem-ii-a-l-32-5-n-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.258,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-de-cemento-m2-5-1-8-cem-ii-a-l-32-5-n",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM00600",
+          "value": 70.89
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM00600",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO DE CEMENTO M2,5 (1:8) CEM II/A-L 32,5 N",
+      "text": "Mortero de cemento CEM II/A-L 32,5 N, tipo M2,5 (1:8), con una resistencia a compresión de 2,5 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-ad87dd8358c8510c",
+          "duplicate_candidate-caa13a827a508328",
+          "stale_edition-3b397b3c431ec2be"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.102,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.258,
+          "ref": "mt-cemento-cem-ii-a-l-32-5-n-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.263,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM00500",
+          "value": 79.9
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM00500",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO DE CEMENTO M5 (1:6) CEM II/A-L 32,5 N",
+      "text": "Mortero de cemento CEM II/A-L 32,5 N, tipo M5 (1:6), con una resistencia a compresión de 5 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-cd9613871088a642",
+          "stale_edition-69f324bb26978152"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.102,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.288,
+          "ref": "mt-plastificante",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.258,
+          "ref": "mt-cemento-cem-ii-a-l-32-5-n-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.263,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n-plast",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM00800",
+          "value": 83.4
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM00800",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO DE CEMENTO M5 (1:6) CEM II/A-L 32,5 N + PLAST.",
+      "text": "Mortero de cemento CEM II/A-L 32,5 N, tipo M5 (1:6), con adición de plastificante, con una resistencia a compresión de 5 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-e165ed5f783a149b"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.102,
+          "ref": "mt-arena-gruesa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.299,
+          "ref": "mt-cemento-cem-ii-a-l-32-5-n-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.263,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-de-cemento-m7-5-1-5-cem-ii-a-l-32-5-n",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM00400",
+          "value": 86.51
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM00400",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO DE CEMENTO M7,5 (1:5) CEM II/A-L 32,5 N",
+      "text": "Mortero de cemento CEM II/A-L 32,5 N, tipo M7,5 (1:5), con una resistencia a compresión de 7,5 N/mm2, según UNE-EN 998-2:2004.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-fdf69b554a6deb4f"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 3.605,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.824,
+          "ref": "mt-mezcla-prefabr-escayola-y-perlita",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.824,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-de-perlita-y-escayola",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM01900",
+          "value": 319.27
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM01900",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO DE PERLITA Y ESCAYOLA",
+      "text": "Mortero de escayola E-30 envasada y perlita.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-3ad156569d024265"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.215,
+          "ref": "mt-arido-silice-tratado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.341,
+          "ref": "mt-resina-epoxi",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-de-resinas-epoxi-y-arido-de-silice",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM01800",
+          "value": 8.33
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM01800",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO DE RESINAS EPOXI Y ARIDO DE SILICE",
+      "text": "Mortero de resinas epoxi y árido de silice.",
+      "unit": "l",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-e06ad094ec95d159"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.8,
+          "ref": "mt-arena-cernida",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.27,
+          "ref": "mt-cemento-cem-ii-a-l-32-5-n-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.65,
+          "ref": "mt-arcilla-expandida-arlita-f-3-3-10-mm-granel",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mortero-ligero-de-arlita-y-cemento-m5",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGM82000",
+          "value": 118.41
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGM82000",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MORTERO LIGERO DE ARLITA Y CEMENTO M5",
+      "text": "Mortero ligero M5 de cemento CEM II/B-P 32,5 N, arena de río y arcilla expandida Arlita tipo G-3 o F-3.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-fd1f47ddd1f45f78"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 3,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.74,
+          "ref": "mt-cemento-blanco-bl-ii-a-l-42-5-r-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.74,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Pastas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-pasta-de-cemento-blanco-bl-ii-a-l-42-5-r-1-1",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGP80100",
+          "value": 295.48
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGP80100",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "PASTA DE CEMENTO BLANCO BL-II/A-L 42,5 R (1:1)",
+      "text": "Pasta de cemento blanco BL II/A-L 42,5 R envasado, dosificación (1:1), cofecccionada a mano, según UNE-EN 197-1:2000.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-38e110745862d407"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 3,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.74,
+          "ref": "mt-cemento-cem-ii-a-l-32-5-n-en-sacos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.74,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Pastas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-pasta-de-cemento-cem-ii-a-l-32-5-n-1-1",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGP80000",
+          "value": 186.21
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGP80000",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "PASTA DE CEMENTO CEM II/A-L 32,5 N (1:1)",
+      "text": "Pasta de cemento CEM II/A-L 32,5 N envasado, dosificación (1:1), cofecccionada a mano, según UNE-EN 197-1:2000.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-45de132666f61e65"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 6.594,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.814,
+          "ref": "mt-escayola-e-30-envasada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.721,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Pastas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-pasta-de-escayola",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGP00100",
+          "value": 276.21
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGP00100",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "PASTA DE ESCAYOLA",
+      "text": "Pasta de escayola E-30 envasada, confeccionada a mano.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-750e0ec04b496761"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 3,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.618,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.876,
+          "ref": "mt-yeso-blanco-yf",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Yesos"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-pasta-de-yeso-blanco-yf",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGY00200",
+          "value": 355.83
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGY00200",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "PASTA DE YESO BLANCO YF",
+      "text": "Pasta de yeso blanco YF, confeccionadaa mano, según UNE-EN 13279-1:2000.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-57e16584af6a7ec2"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 3,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.618,
+          "ref": "mt-agua-potable",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.876,
+          "ref": "mt-yeso-negro-yg",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "AGLOMERANTES Y MORTEROS",
+          "Yesos"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-pasta-de-yeso-negro-yg",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AGY00100",
+          "value": 206.91
+        }
+      ],
+      "sources": [
+        {
+          "code": "AGY00100",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "PASTA DE YESO NEGRO YG",
+      "text": "Pasta de yeso negro YG, confeccionada a mano, según UNE-EN 13279-1:2000.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-c7edc1647f4dc7a0"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.1.0"
+}

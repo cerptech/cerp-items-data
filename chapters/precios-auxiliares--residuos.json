@@ -1,0 +1,207 @@
+{
+  "attributions": [
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Precios Auxiliares > RESIDUOS",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.018,
+          "ref": "mq-retroexcavadora",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.11,
+          "ref": "mq-carretilla-mecanica-basculante-1-m3",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "RESIDUOS",
+          "Metales y aleaciones"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-transporte-interior-mecanico-de-residuos-metalicos-a-100-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AEA00100",
+          "value": 5.94
+        }
+      ],
+      "sources": [
+        {
+          "code": "AEA00100",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "TRANSPORTE INTERIOR MECANICO DE RESIDUOS METALICOS A 100 m",
+      "text": "Transporte interior mecánico de residuos metálicos a 100 m.",
+      "unit": "t",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-7d81fa68d44b774e"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.017,
+          "ref": "mq-retroexcavadora",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.11,
+          "ref": "mq-carretilla-mecanica-basculante-1-m3",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "RESIDUOS",
+          "Residuos metálicos"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-transporte-interior-mecanico-de-residuos-mixtos-a-100-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AER00100",
+          "value": 3.69
+        }
+      ],
+      "sources": [
+        {
+          "code": "AER00100",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "TRANSPORTE INTERIOR MECANICO DE RESIDUOS MIXTOS A 100 m",
+      "text": "Transporte interior mecánico de residuos mixtos a 100 m.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-285afa288e46d5de"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.017,
+          "ref": "mq-retroexcavadora",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.11,
+          "ref": "mq-carretilla-mecanica-basculante-1-m3",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Auxiliares",
+          "RESIDUOS",
+          "Hormigones, ladrillos, tejas, materiales derivados del yeso"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-transporte-interior-mecanico-de-residuos-petreos-seleccionad",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "AEH00100",
+          "value": 5.89
+        }
+      ],
+      "sources": [
+        {
+          "code": "AEH00100",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "TRANSPORTE INTERIOR MECANICO DE RESIDUOS PETREOS SELECCIONADOS A",
+      "text": "Transporte interior mecánico de residuos pétreos seleccionados a 100 m.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-b993b6abcab628e3"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.1.0"
+}

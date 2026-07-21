@@ -1,0 +1,3782 @@
+{
+  "attributions": [
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Precios Unitarios > EQUIPAMIENTO",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-asidero-angular-ducha-plastico-abs-blanco-45x25-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-asidero-angular-ducha-plastico-abs-blanco-45x25-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB90174",
+          "value": 99.1
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB90174",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ASIDERO ANGULAR DUCHA, PLASTICO ABS BLANCO 45x25 cm",
+      "text": " De asidero angular para ducha, de forma tubular, en plástico ABS blanco, de 45x25 cm para cuarto de baño o aseo accesible para personas con discapacidad, incluso tornillos de fijación y material complementario; según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-04e87fa0840d2276"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-asidero-curvo-de-plastico-abs-blanco-72-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-asidero-curvo-en-plastico-abs-blanco-72-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB90177",
+          "value": 44.26
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB90177",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ASIDERO CURVO EN PLASTICO ABS BLANCO 72 cm",
+      "text": " De asidero curvo para bañera o ducha, perfil ranurado de forma tubular, en plástico ABS blanco, de 72 cm para cuarto de baño o aseo accesible para personas con discapacidad, incluso tornillos de fijación y material complementario; según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-c47d497a5b4923e3"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-asidero-de-plastico-abs-blanco-70-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-asidero-plastico-abs-blanco-70-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB90176",
+          "value": 50.43
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB90176",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ASIDERO PLASTICO ABS BLANCO 70 cm",
+      "text": " De asidero para bañera o ducha, perfil ranurado de forma tubular, en plástico ABS blanco, de 70 cm para cuarto de baño o aseo accesible para personas con discapacidad, incluso tornillos de fijación y material complementario; según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-4179d702b94bdcdd"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-asiento-abatible-acero-inox-satinado-p-max-120kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 5,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-asiento-abatible-ac-inoxidable-satinado",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB90210",
+          "value": 47.98
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB90210",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ASIENTO ABATIBLE AC. INOXIDABLE SATINADO",
+      "text": "De asiento abatible para ducha, bañera y vestidor, en acero inoxidable de 1,7 mm de espesor, acabado satinado. Peso máximo 120 kg. incluso p.p. replanteo y de pequeño material de agarre; según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-1f0aece69a4c71a3"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-barra-abatible-pared-pie-regulable-acero-inox",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-barra-abatible-apoyo-pared-con-pie-regulable-acero-inox",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB90131",
+          "value": 125.74
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB90131",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BARRA ABATIBLE APOYO PARED CON PIE REGULABLE, ACERO INOX.",
+      "text": "De barra abatible apoyo pared, con pier regulable, en acero inoxidable y aluminio, longitud máxima 735 mm, diam. exterior 30 mm, acero de espesor 1,5 mm, para aseo o baño accesible para personas con discapacidad, incluso tornillos de fijación y material complementario. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-9504170c29a4e5cd"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-barra-asidero-banera-tre-niveles-plastico-abs-blanco-70-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-barra-asidero-banera-plastico-abs-blanco-70-cm-tres-niveles",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB90173",
+          "value": 32.36
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB90173",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BARRA ASIDERO BAÑERA, PLASTICO ABS BLANCO 70 cm TRES NIVELES",
+      "text": "Barra asidero para bañera, tre niveles, en plástico ABS blanco, de 70 cm para cuarto de baño o aseo accesible para personas con discapacidad, incluso tornillos de fijación y material complementario; según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-917d25ee4acad317"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-barra-asidero-banera-pvc-70-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-barra-asidero-banera-pvc-70-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB00170",
+          "value": 78.07
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB00170",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BARRA ASIDERO BAÑERA, PVC, 70 cm",
+      "text": "Barra asidero para bañera, en PVC, de 70 cm para cuarto de baño accesible para personas con discapacidad, incluso tornillos de fijación y material complementario; según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-25adb3eca73df121"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-barra-asidero-pared-angulo-recto-acero-cromado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-barra-asidero-inodoro-pared-angulo-recto-acero-cromado",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB00110",
+          "value": 110.75
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB00110",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BARRA ASIDERO INODORO PARED, ANGULO RECTO, ACERO CROMADO",
+      "text": "Barra asidero inodoro para colocar en pared, de ángulo recto, en acero cromado de 40 mm de diám., para aseo accesible para personas con discapacidad, incluso tornillos de fijación y material complementario; según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-d583cadfe5195520"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-barra-asidero-pared-angulo-recto-plastificada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-barra-asidero-inodoro-pared-angulo-recto-plastificada",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB00120",
+          "value": 75.23
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB00120",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BARRA ASIDERO INODORO PARED, ANGULO RECTO, PLASTIFICADA",
+      "text": "Barra asidero inodoro para colocar en pared, de ángulo recto, plastificada, para aseo accesible para personas con discapacidad, incluso tornillos de fijación y material complementario; según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-e964da8328181646"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-barra-asidero-recto-5o-cm-acero-cromado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-barra-asidero-inodoro-pared-recto-acero-cromado",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB00150",
+          "value": 95.1
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB00150",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BARRA ASIDERO INODORO PARED, RECTO, ACERO CROMADO",
+      "text": "Barra asidero inodoro para colocar en pared, recto de 50 cm, en acero cromado, para aseo accesible para personas con discapacidad, incluso tornillo de fijación y material complementario; según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-18cbc4fb5c922b53"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-barra-asidero-recto-5o-cm-plastificada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-barra-asidero-inodoro-pared-recto-plastificada",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB00160",
+          "value": 56.95
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB00160",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BARRA ASIDERO INODORO PARED, RECTO, PLASTIFICADA",
+      "text": "Barra asidero inodoro para colocar en pared, recto de 50 cm, plastificada, para aseo accesible para personas con discapacidad, incluso tornillo de fijación y material complementario; según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-4c4ffaf8d284338b"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-barra-asidero-pared-angulo-recto-acero-inox-70-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-barra-de-apoyo-pared-angulo-recto-acero-inoxidable-60-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB90113",
+          "value": 101.63
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB90113",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BARRA DE APOYO PARED, ANGULO RECTO, ACERO INOXIDABLE 60 cm",
+      "text": "Barra de apoyo para colocar en pared, de ángulo recto, en acero cromado de 70 cm de longitud y 32 mm de diám., para aseo o baño accesible para personas con discapacidad, incluso tornillos de fijación y material complementario; según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-9acf72fb071496aa",
+          "stale_edition-6c19087a474a621d"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-barra-asidero-pared-angulo-recto-acero-inox-90-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-barra-de-apoyo-pared-angulo-recto-acero-inoxidable-90-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB90114",
+          "value": 111.74
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB90114",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BARRA DE APOYO PARED, ANGULO RECTO, ACERO INOXIDABLE 90 cm",
+      "text": "Barra de apoyo para colocar en pared, de ángulo recto, en acero cromado de 90 cm de longitud y 32 mm de diám., para aseo o baño accesible para personas con discapacidad, incluso tornillos de fijación y material complementario; según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-727f5b483bf6e577"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-barra-asidero-pared-angulo-recto-pint-epoxy-70-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-barra-de-apoyo-pared-angulo-recto-pint-epoxy-blanco-60-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB90163",
+          "value": 38.97
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB90163",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BARRA DE APOYO PARED, ANGULO RECTO, PINT. EPOXY BLANCO 60 cm",
+      "text": "Barra de apoyo para colocar en pared, de ángulo recto, en acero cromado de 70 cm de longitud y 32 mm de diám., para aseo o baño accesible para personas con discapacidad, incluso tornillos de fijación y material complementario; según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-de32c2ab038d4a5b",
+          "stale_edition-5ff10f92589f85c2"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-barra-asidero-pared-angulo-recto-pint-epoxy-90-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-barra-de-apoyo-pared-angulo-recto-pint-epoxy-blanco-90-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB90164",
+          "value": 41.02
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB90164",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BARRA DE APOYO PARED, ANGULO RECTO, PINT. EPOXY BLANCO 90 cm",
+      "text": "Barra de apoyo para colocar en pared, de ángulo recto, en acero cromado de 90 cm de longitud y 32 mm de diám., para aseo o baño accesible para personas con discapacidad, incluso tornillos de fijación y material complementario; según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-0a113434c8aebda5"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-buzon-carteria",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "VARIOS",
+          "Buzones",
+          "Buzones"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-buzon-para-correspondencia",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14WBB00001",
+          "value": 38.51
+        }
+      ],
+      "sources": [
+        {
+          "code": "14WBB00001",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BUZÓN PARA CORRESPONDENCIA",
+      "text": "Buzón para recogida de correspondencia de chapa metálica esmaltada al fuego, incluso cerradura, llave, herrajes, pequeño material y ayudas de albiñileria colocado según normas D.G.C. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-69ec04dc1aa53655"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-buzon-carteria-de-vivienda-unifamiliar",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "VARIOS",
+          "Buzones",
+          "Buzones"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-buzon-para-correspondencia-en-vivienda-unifamiliar",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14WBB00005",
+          "value": 44.96
+        }
+      ],
+      "sources": [
+        {
+          "code": "14WBB00005",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "BUZÓN PARA CORRESPONDENCIA EN VIVIENDA UNIFAMILIAR",
+      "text": "Buzón para recogida de correspondencia en vivienda unifamiliar, de chapa metálica esmaltada al fuego, incluso cerradura, llave, herrajes, pequeño material y ayudas de albañilería colocado según norma de la D.G.C. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-2aec938eb9708a47"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.001,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-dispensador-toallas-a-inox",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-dispensador-toallas-acero-c-cerr",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB90216",
+          "value": 85.02
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB90216",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "DISPENSADOR TOALLAS ACERO C/CERR.",
+      "text": "Dispensador de toallas de papel Mediclinics FEF. DT0106CS de acero inox idable AISI304 Acabado satinado 18/10 de capacidad de 400 a 600 unidades y cerradura de seguridad. Instalado con tacos de plástico y tornillos a la pared.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-1927dbb717fb201e"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-doble-barra-abatible-pared-acero-cromado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-doble-barra-abatible-apoyo-pared-acero-cromado",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB00130",
+          "value": 169.34
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB00130",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "DOBLE BARRA ABATIBLE APOYO PARED, ACERO CROMADO",
+      "text": "Doble barra abatible para inodoro, apoyo pared, en acero cromado, para aseo accesible para personas con discapacidad, incluso tornillos de fijación y material complementario; según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-0b4c109bcc0a5cf0"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-doble-barra-abatible-pared-acero-inox-diam-30mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-doble-barra-abatible-apoyo-pared-acero-inoxidable-diam-30-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB90130",
+          "value": 106.91
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB90130",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "DOBLE BARRA ABATIBLE APOYO PARED, ACERO INOXIDABLE DIAM. 30 mm",
+      "text": "Doble barra abatible apoyo pared, en acero inoxidable, longitud máxima 735 mm, diam. exterior 30 mm, acero de espesor 1,5 mm, y pletina de anclaje de 300x100x3 mm, para aseo o baño accesible para personas con discapacidad, incluso tornillos de fijación y material complementario; según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-fc515c50a254815f"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-doble-barra-abatible-pared-plastificada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-doble-barra-abatible-apoyo-pared-plastificada",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB00140",
+          "value": 121.31
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB00140",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "DOBLE BARRA ABATIBLE APOYO PARED, PLASTIFICADA",
+      "text": "Doble barra abatible para inodoro, apoyo pared, plastificada, para aseo accesible para personas con discapacidad, incluso tornillos de fijación y material complementario; según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-d30e508fcc867fb3"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-doble-barra-abatible-auto-pared-acero-pint-epoxy-32-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-doble-barra-abatible-auto-pared-pint-epoxy-blanco-diam-32-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB90165",
+          "value": 114.97
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB90165",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "DOBLE BARRA ABATIBLE AUTO, PARED, PINT. EPOXY BLANCO DIAM. 32 mm",
+      "text": "Doble barra abatible apoyo pared automática con muelle interior de subida y bajada, en pintura epoxy blanca, longitud máxima 735 mm, diam. exterior 32 mm, acero de espesor 1,5 mm, y pletina de anclaje de 300x100x3 mm, para aseo o baño accesible para personas con discapacidad, incluso tornillos de fijación y material complementario; según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-737dac1b54066165"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-doble-barra-abatible-sobre-mastil-acero-pint-epoxy-32-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-doble-barra-abatible-sobre-mastil-pint-epoxy-blanco",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB90166",
+          "value": 178.76
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB90166",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "DOBLE BARRA ABATIBLE SOBRE MASTIL, PINT. EPOXY BLANCO",
+      "text": "Doble barra abatible sobre mastil, en pintura epoxy blanca, longitud máxima 735 mm, diam. exterior 32 mm, acero de espesor 1,5 mm, y pletina de anclaje de 300x100x3 mm, para aseo o baño accesible para personas con discapacidad, incluso tornillos de fijación y material complementario; según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-263cc7d13bd5ee6e"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-dosificador-jabon-inox",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-dosificador-jabon-acero-colocado",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB90212",
+          "value": 51.12
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB90212",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "DOSIFICADOR JABON ACERO COLOCADO",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-2706b3797e968532"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-espejo-aseos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-espejos-aseos",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB90215",
+          "value": 163.48
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB90215",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ESPEJOS ASEOS",
+      "text": "ESPEJO PARA BAÑOS INCLUSO TABLERO INTERIOR Y BASTIDOR EN U DE ALUMINIO ANODIZADO EN SU COLOR",
+      "unit": "m2",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-ddf885e7ad92bbc3"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.5,
+          "ref": "mo-of-1-fontanero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-fuente-bebedero-acero-inoxidable",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "VARIOS",
+          "Varios",
+          "Varios"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-fuente-mueble-bebedero",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14WWW00050",
+          "value": 569.55
+        }
+      ],
+      "sources": [
+        {
+          "code": "14WWW00050",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "FUENTE-MUEBLE BEBEDERO",
+      "text": "Fuente-mueble bebedero construida en lámina de acero precincada, plastificada anticorrosión, bandeja superior, depósito refrigerador y conducciones en acero inoxidable 18/8, pulsador manual y grifo en bronce cromado, medias exteriores 31x31x102 cm, conexionado de agua, desagüe y electricidad, y colocación. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-f9b4755bb7f9c803"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-jabonera-porcelana-blanca-empotrar",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-jabonera-de-porcelana-vitrificada-blanco",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB00008",
+          "value": 19.66
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB00008",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "JABONERA DE PORCELANA VITRIFICADA BLANCO",
+      "text": "Jabonera de porcelana vitrificada de color blanco para empotrar, recibida con mortero de cemento M5 (1:6). Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-9509782f6ae7d911"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-mueble-soporte-fregadero-metalico-0-70-m",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Cocinas",
+          "Cocinas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mueble-soporte-fregadero-metalico-es-maltado-0-70-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MCC00001",
+          "value": 94.68
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MCC00001",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MUEBLE SOPORTE FREGADERO METÁLICO ES MALTADO 0,70 m",
+      "text": "Mueble soporte de fregadero metálico esmaltado al fuego de 0,70 m de longitud, con dos puertas abatibles y balda inferior, incluso herrajes, colocación y ayudas de albañilería. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-1904a7f070398ec0",
+          "duplicate_candidate-d90fc99a42d47a46",
+          "stale_edition-b69c1b61f9d33a1c"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-mueble-soporte-fregadero-metalico-1-20-m",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Cocinas",
+          "Cocinas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mueble-soporte-fregadero-metalico-es-maltado-1-20-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MCC00003",
+          "value": 125.27
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MCC00003",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MUEBLE SOPORTE FREGADERO METÁLICO ES MALTADO 1,20 m",
+      "text": "Mueble soporte de fregadero metálico esmaltado al fuego de 1,20 m de longitud, con dos puertas abatibles y balda inferior, incluso herrajes, colocación y ayudas de albañilería. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-e87d103ad9d83257",
+          "stale_edition-317f67814d1d8a16"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-mueble-soporte-fregadero-metalico-1-00-m",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Cocinas",
+          "Cocinas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mueble-soporte-fregadero-metalico-es-maltado-1-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MCC00002",
+          "value": 102.12
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MCC00002",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MUEBLE SOPORTE FREGADERO METÁLICO ES MALTADO 1 m",
+      "text": "Mueble soporte de fregadero metálico esmaltado al fuego de 1 m, de longitud, con dos puertas abatibles y balda inferior, incluso herrajes, colocación y ayudas de albañilería. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-b27cc2ebe410c59d"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-mueble-soporte-fregadero-aglom-plast-0-70-mm",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Cocinas",
+          "Cocinas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mueble-soporte-fregadero-tablero-aglomerado-0-70-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MCC00009",
+          "value": 143.4
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MCC00009",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MUEBLE SOPORTE FREGADERO TABLERO AGLOMERADO 0,70 m",
+      "text": "Mueble soporte de fregadero, construido con tablero aglomerado, forrado con laminado plastificado, de 0,70 m de longitud, con dos puertas abatibles y balda inferior, incluso herrajes, colocación y ayudas de albañilería. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-06bbeab6ec074c8c",
+          "duplicate_candidate-770638037b817b13",
+          "stale_edition-3f2e5df153dfd4cc"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-mueble-soporte-fregadero-aglom-plast-1-20-mm",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Cocinas",
+          "Cocinas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mueble-soporte-fregadero-tablero-aglomerado-1-20-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MCC00011",
+          "value": 151.05
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MCC00011",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MUEBLE SOPORTE FREGADERO TABLERO AGLOMERADO 1,20 m",
+      "text": "Mueble soporte de fregadero, construido con tablero aglomerado, forrado con laminado plastificado, de 1,20 m de longitud, con dos puertas abatibles y balda inferior, incluso herrajes, colocación y ayudas de albañilería. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-a1d8e8e35829bdf7",
+          "stale_edition-9e0fb6588f990823"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-mueble-soporte-fregadero-aglom-plast-1-mm",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Cocinas",
+          "Cocinas"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-mueble-soporte-fregadero-tablero-aglomerado-1-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MCC00010",
+          "value": 135.74
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MCC00010",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "MUEBLE SOPORTE FREGADERO TABLERO AGLOMERADO 1 m",
+      "text": "Mueble soporte de fregadero, construido con tablero aglomerado, forrado con laminado plastificado, de 1 m de longitud, con dos puertas abatibles y balda inferior, incluso herrajes, colocación y ayudas de albañilería. Medida la unidad la unidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-519b7424e68d8a6a"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.05,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-percha-acero",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-percha-acero-inox-colocado",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB90214",
+          "value": 16.16
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB90214",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "PERCHA ACERO INOX COLOCADO",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-2220b81a23610b6f"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-percha-porcelana-blanca-empotrar",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-percha-de-porcelana-vitrificada-blanco",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB00005",
+          "value": 14.51
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB00005",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "PERCHA DE PORCELANA VITRIFICADA BLANCO",
+      "text": "Percha de porcelana vitrificada de color blanco para empotrar, recibida con mortero de cemento M5 (1:6). Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-8619315a83280435"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-portarrollos-acero",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-portarrollos-acero-colocado",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB90213",
+          "value": 33.12
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB90213",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "PORTARROLLOS ACERO COLOCADO",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-25194cafb8c245bd"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-portarrollos-porcelana-blanco-empotrar",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-portarrollos-de-porcelana-vitrificada-blanco",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB00001",
+          "value": 18.52
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB00001",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "PORTARROLLOS DE PORCELANA VITRIFICADA BLANCO",
+      "text": "Portarrollos de porcelana vitrificada de color blanco para empotrar, recibido con mortero M5 (1:6). Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-1b0c2293feec19ba"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-rotulo-denominador-bloque-metacrilato",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.5,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "VARIOS",
+          "Señalizaciones",
+          "Señalizaciones"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-rotulo-de-bloque-con-placa-de-metacrilato",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14WSS00015",
+          "value": 23.87
+        }
+      ],
+      "sources": [
+        {
+          "code": "14WSS00015",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "RÓTULO DE BLOQUE, CON PLACA DE METACRILATO",
+      "text": "Rotulo denominador de bloque, con placa de metacrilato de metilo de 5 mm de espesor, incluso pequeño material, colocación y ayudas de albañilería. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-207a86bf2625dfbb"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-rotulo-denominador-bloque-ceramico",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.5,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "VARIOS",
+          "Señalizaciones",
+          "Señalizaciones"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-rotulo-de-bloque-de-ceramica-vidriada",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14WSS00016",
+          "value": 42.77
+        }
+      ],
+      "sources": [
+        {
+          "code": "14WSS00016",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "RÓTULO DE BLOQUE, DE CERÁMICA VIDRIADA",
+      "text": "Rotulo denominador de bloque, de cerámica vidriada, recibido con mortero de cemento M5 (1:6), incluso preparación del paramento y limpieza. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-eea1294abc30fa19"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-rotulo-denominador-de-dependencias-laton-pulido",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "VARIOS",
+          "Señalizaciones",
+          "Señalizaciones"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-rotulo-de-dependencia-con-placa-de-laton-pulido",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14WSS00040",
+          "value": 29.98
+        }
+      ],
+      "sources": [
+        {
+          "code": "14WSS00040",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "RÓTULO DE DEPENDENCIA CON PLACA DE LATON PULIDO",
+      "text": "Rotulo denominador de dependencia (archivo, aseos) con placa de latón pulido de 30x6 cm, incluso pequeño material, colocación y ayudas de albañilería. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-cffca36b8275391c"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-rotulo-denominador-de-dependencias-en-metacrilato",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "VARIOS",
+          "Señalizaciones",
+          "Señalizaciones"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-rotulo-de-dependencia-son-placa-de-metacrilato",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14WSS00030",
+          "value": 26.78
+        }
+      ],
+      "sources": [
+        {
+          "code": "14WSS00030",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "RÓTULO DE DEPENDENCIA SON PLACA DE METACRILATO",
+      "text": "Rotulo denominador de dependencia, (archivo, aseos) con placa de metacrilato de metilo de 30x6cm, y 5 m de espesor, incluso pequeño material, colocación y ayuda de albañilería. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-eb634aea4694431b"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-rotulo-denominador-de-planta-metacrilato",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "VARIOS",
+          "Señalizaciones",
+          "Señalizaciones"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-rotulo-de-planta-con-placa-de-metacrilato",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14WSS00008",
+          "value": 37.9
+        }
+      ],
+      "sources": [
+        {
+          "code": "14WSS00008",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "RÓTULO DE PLANTA, CON PLACA DE METACRILATO",
+      "text": "Rotulo denominador de planta, con placa de metacrilato de metilo de 5 mm de espesor, incluso pequeño material, colocación y ayudas de albañilería. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-547b5602e6cc0f30"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-rotulo-denominador-de-planta-ceramico",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "VARIOS",
+          "Señalizaciones",
+          "Señalizaciones"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-rotulo-de-planta-de-ceramica-vidriada",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14WSS00009",
+          "value": 50.16
+        }
+      ],
+      "sources": [
+        {
+          "code": "14WSS00009",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "RÓTULO DE PLANTA, DE CERÁMICA VIDRIADA",
+      "text": "Rotulo denominador de planta, de cerámica vidriada, recibido con mortero de cemento M5 (1:6), incluso preparación del paramento y limpieza. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-8ceb8ad4e84eb699"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-rotulo-denominador-de-planta-en-laton-pulido",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "VARIOS",
+          "Señalizaciones",
+          "Señalizaciones"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-rotulo-de-planta-en-placa-de-laton-pulido",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14WSS00012",
+          "value": 29.98
+        }
+      ],
+      "sources": [
+        {
+          "code": "14WSS00012",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "RÓTULO DE PLANTA EN PLACA DE LATÓN PULIDO",
+      "text": "Rotulo denominador de planta en placa de latón pulido de 30x6 cm, incluso pequeño material, colocación y ayudas de albañilería. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-a81292915014fce8"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-rotulo-denominador-de-piso-metacrilato",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "VARIOS",
+          "Señalizaciones",
+          "Señalizaciones"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-rotulo-de-vivienda-con-placa-de-metacrilato",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14WSS00001",
+          "value": 17.54
+        }
+      ],
+      "sources": [
+        {
+          "code": "14WSS00001",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "RÓTULO DE VIVIENDA, CON PLACA DE METACRILATO",
+      "text": "Rotulo denominador de vivienda, con placa de metacrilato de metilo de 5 mm de espesor, incluso pequeño material, colocación y ayudas de albañilería. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-9508b57c8bb1fcaf"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-rotulo-denominador-de-piso-ceramico",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "VARIOS",
+          "Señalizaciones",
+          "Señalizaciones"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-rotulo-de-vivienda-de-ceramica-vidriada",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14WSS00002",
+          "value": 20.41
+        }
+      ],
+      "sources": [
+        {
+          "code": "14WSS00002",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "RÓTULO DE VIVIENDA, DE CERÁMICA VIDRIADA",
+      "text": "Rotulo denominador de vivienda, de cerámica vidriada, recibido con mortero de cemento M5 (1:6), incluso preparación del paramento y limpieza. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-a3a12ef694b70673"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-secamanos-automatico-instalado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "VARIOS",
+          "Varios",
+          "Varios"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-secamanos-automatico-electronico-por-aire-caliente",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14WWW00010",
+          "value": 161.6
+        }
+      ],
+      "sources": [
+        {
+          "code": "14WWW00010",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "SECAMANOS AUTOMÁTICO ELECTRÓNICO POR AIRE CALIENTE",
+      "text": "Secamanos automático electronico por aire caliente de chapa metálica esmaltada, con regulador de tiempos, motor de 100 W y resistencia eléctrica de 2000 W, con relé térmico de protección y un caudal de 3 m3 por minuto, p.p. de pequeño material, colocación y ayuda de albañilería. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-0fd131e566f971ea"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-senal-de-advertencia-chapa-de-aluminio-400x300-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "VARIOS",
+          "Señalizaciones",
+          "Señalizaciones"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-senal-de-advertencia-en-chapa-de-aluminio",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14WSS00090",
+          "value": 54.5
+        }
+      ],
+      "sources": [
+        {
+          "code": "14WSS00090",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "SEÑAL DE ADVERTENCIA, EN CHAPA DE ALUMINIO",
+      "text": "Señal de advertencia, en chapa de aluminio de 400x300 mm, colocada en paramento vertical, incluso pequeño material y ayudas de albañilería; construido según real decreto 485/97. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-c025774265d5d7b3"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-senal-de-obligacion-chapa-de-aluminio-400x300-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "VARIOS",
+          "Señalizaciones",
+          "Señalizaciones"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-senal-de-obligacion-en-chapa-de-aluminio",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14WSS00095",
+          "value": 54.5
+        }
+      ],
+      "sources": [
+        {
+          "code": "14WSS00095",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "SEÑAL DE OBLIGACIÓN, EN CHAPA DE ALUMINIO",
+      "text": "Señal de obligación, en chapa de aluminio de 400x300 mm, colocada en paramento vertical, incluso pequeño material y ayudas de albañilería; construido según real decreto 485/97. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-109e717fc10df7e4"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-senal-de-prohibicion-chapa-de-aluminio-400x300-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "VARIOS",
+          "Señalizaciones",
+          "Señalizaciones"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-senal-de-prohibicion-en-chapa-de-aluminio",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14WSS00085",
+          "value": 54.5
+        }
+      ],
+      "sources": [
+        {
+          "code": "14WSS00085",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "SEÑAL DE PROHIBICION, EN CHAPA DE ALUMINIO",
+      "text": "Señal de prohibición, en chapa de aluminio de 400x300 mm, colocada en paramento vertical, incluso pequeño material y ayudas de albañilería; construido según real decreto 485/97. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-866b2cfc2635fb81"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-senal-de-salvamento-chapa-de-aluminio-400x300-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "VARIOS",
+          "Señalizaciones",
+          "Señalizaciones"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-senal-de-salvamiento-en-chapa-de-aluminio",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-01",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14WSS00080",
+          "value": 54.5
+        }
+      ],
+      "sources": [
+        {
+          "code": "14WSS00080",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "SEÑAL DE SALVAMIENTO, EN CHAPA DE ALUMINIO",
+      "text": "Señal de salvamento, en chapa de aluminio de 400x300 mm, colocada en paramento vertical, incluso pequeño material y ayuda de albañilería; construido según real decreto 485/97. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-b8615259c8243b61"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-toallero-acero-inox",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-toallero-acero-inox",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB90211",
+          "value": 31.12
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB90211",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "TOALLERO ACERO INOX",
+      "text": "INSTALACIÓN TOALLERO DE ACERO INOXIDABLE. MEDIDA LA UD COLOCADA",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-6b6d9e9799397313"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-toallero-de-porcelana-blanca-empotrar",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-toallero-de-porcelana-vitrificada-blanco",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB00010",
+          "value": 20.87
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB00010",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "TOALLERO DE PORCELANA VITRIFICADA BLANCO",
+      "text": "Toallero de porcelana vitrificada de color blanco para empotrar, recibido con mortero de cemento M5 (1:6). Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-d34595fb08a0432e"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-tubo-acero-inoxidable-diam-35-mm-y-1-5-m-largo",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-material-complementario-o-pzas-especiales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "EQUIPAMIENTO",
+          "MOBILIARIO",
+          "Aseos y baños",
+          "Baños"
+        ]
+      },
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-tubo-ac-inox-agarrador-bano-pers-con-disc",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "14MAB00100",
+          "value": 79.2
+        }
+      ],
+      "sources": [
+        {
+          "code": "14MAB00100",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "TUBO AC. INOX AGARRADOR BAÑO PERS CON DISC",
+      "text": "Tubo de acero inoxidable, diám. 35 mm y 1,50 m de longitud en formación de agarrador para cuarto de baño accesibles para personas con discapacida, para empotrar en suelo o pared, recibido con mortero de cemento M5 (1:6), p.p. de material complementario y pequeño material; según CTE. Medida la cantidad ejecutada.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-417f411676740e4c"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.1.0"
+}

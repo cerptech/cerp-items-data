@@ -1,0 +1,186 @@
+{
+  "attributions": [
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "basicos": {
+    "count": 6055,
+    "file": "basicos.json"
+  },
+  "chapters": [
+    {
+      "items": 39,
+      "json": "chapters/precios-auxiliares--aglomerantes-y-morteros.json",
+      "key": "precios-auxiliares--aglomerantes-y-morteros",
+      "md": "chapters/precios-auxiliares--aglomerantes-y-morteros.md",
+      "title": "Precios Auxiliares > AGLOMERANTES Y MORTEROS"
+    },
+    {
+      "items": 3,
+      "json": "chapters/precios-auxiliares--residuos.json",
+      "key": "precios-auxiliares--residuos",
+      "md": "chapters/precios-auxiliares--residuos.md",
+      "title": "Precios Auxiliares > RESIDUOS"
+    },
+    {
+      "items": 137,
+      "json": "chapters/precios-unitarios--acondicionamiento-de-terrenos.json",
+      "key": "precios-unitarios--acondicionamiento-de-terrenos",
+      "md": "chapters/precios-unitarios--acondicionamiento-de-terrenos.md",
+      "title": "Precios Unitarios > ACONDICIONAMIENTO DE TERRENOS"
+    },
+    {
+      "items": 147,
+      "json": "chapters/precios-unitarios--aislamientos.json",
+      "key": "precios-unitarios--aislamientos",
+      "md": "chapters/precios-unitarios--aislamientos.md",
+      "title": "Precios Unitarios > AISLAMIENTOS"
+    },
+    {
+      "items": 322,
+      "json": "chapters/precios-unitarios--albanileria.json",
+      "key": "precios-unitarios--albanileria",
+      "md": "chapters/precios-unitarios--albanileria.md",
+      "title": "Precios Unitarios > ALBAÑILERÍA"
+    },
+    {
+      "items": 475,
+      "json": "chapters/precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion.json",
+      "key": "precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion",
+      "md": "chapters/precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion.md",
+      "title": "Precios Unitarios > CARPINTERÍA Y ELEMENTOS DE SEGURIDAD Y PROTECCIÓN"
+    },
+    {
+      "items": 181,
+      "json": "chapters/precios-unitarios--cimentaciones.json",
+      "key": "precios-unitarios--cimentaciones",
+      "md": "chapters/precios-unitarios--cimentaciones.md",
+      "title": "Precios Unitarios > CIMENTACIONES"
+    },
+    {
+      "items": 335,
+      "json": "chapters/precios-unitarios--control-de-calidad-pruebas-y-ensayos.json",
+      "key": "precios-unitarios--control-de-calidad-pruebas-y-ensayos",
+      "md": "chapters/precios-unitarios--control-de-calidad-pruebas-y-ensayos.md",
+      "title": "Precios Unitarios > CONTROL DE CALIDAD, PRUEBAS Y ENSAYOS"
+    },
+    {
+      "items": 120,
+      "json": "chapters/precios-unitarios--cubiertas.json",
+      "key": "precios-unitarios--cubiertas",
+      "md": "chapters/precios-unitarios--cubiertas.md",
+      "title": "Precios Unitarios > CUBIERTAS"
+    },
+    {
+      "items": 490,
+      "json": "chapters/precios-unitarios--demoliciones-y-trabajos-previos.json",
+      "key": "precios-unitarios--demoliciones-y-trabajos-previos",
+      "md": "chapters/precios-unitarios--demoliciones-y-trabajos-previos.md",
+      "title": "Precios Unitarios > DEMOLICIONES Y TRABAJOS PREVIOS"
+    },
+    {
+      "items": 54,
+      "json": "chapters/precios-unitarios--equipamiento.json",
+      "key": "precios-unitarios--equipamiento",
+      "md": "chapters/precios-unitarios--equipamiento.md",
+      "title": "Precios Unitarios > EQUIPAMIENTO"
+    },
+    {
+      "items": 187,
+      "json": "chapters/precios-unitarios--estructuras.json",
+      "key": "precios-unitarios--estructuras",
+      "md": "chapters/precios-unitarios--estructuras.md",
+      "title": "Precios Unitarios > ESTRUCTURAS"
+    },
+    {
+      "items": 104,
+      "json": "chapters/precios-unitarios--gestion-de-residuos.json",
+      "key": "precios-unitarios--gestion-de-residuos",
+      "md": "chapters/precios-unitarios--gestion-de-residuos.md",
+      "title": "Precios Unitarios > GESTIÓN DE RESIDUOS"
+    },
+    {
+      "items": 1989,
+      "json": "chapters/precios-unitarios--instalaciones.json",
+      "key": "precios-unitarios--instalaciones",
+      "md": "chapters/precios-unitarios--instalaciones.md",
+      "title": "Precios Unitarios > INSTALACIONES"
+    },
+    {
+      "items": 288,
+      "json": "chapters/precios-unitarios--mantenimiento.json",
+      "key": "precios-unitarios--mantenimiento",
+      "md": "chapters/precios-unitarios--mantenimiento.md",
+      "title": "Precios Unitarios > MANTENIMIENTO"
+    },
+    {
+      "items": 97,
+      "json": "chapters/precios-unitarios--pinturas.json",
+      "key": "precios-unitarios--pinturas",
+      "md": "chapters/precios-unitarios--pinturas.md",
+      "title": "Precios Unitarios > PINTURAS"
+    },
+    {
+      "items": 525,
+      "json": "chapters/precios-unitarios--revestimientos.json",
+      "key": "precios-unitarios--revestimientos",
+      "md": "chapters/precios-unitarios--revestimientos.md",
+      "title": "Precios Unitarios > REVESTIMIENTOS"
+    },
+    {
+      "items": 68,
+      "json": "chapters/precios-unitarios--saneamiento.json",
+      "key": "precios-unitarios--saneamiento",
+      "md": "chapters/precios-unitarios--saneamiento.md",
+      "title": "Precios Unitarios > SANEAMIENTO"
+    },
+    {
+      "items": 243,
+      "json": "chapters/precios-unitarios--seguridad-y-salud.json",
+      "key": "precios-unitarios--seguridad-y-salud",
+      "md": "chapters/precios-unitarios--seguridad-y-salud.md",
+      "title": "Precios Unitarios > SEGURIDAD Y SALUD"
+    },
+    {
+      "items": 604,
+      "json": "chapters/precios-unitarios--urbanizaciones.json",
+      "key": "precios-unitarios--urbanizaciones",
+      "md": "chapters/precios-unitarios--urbanizaciones.md",
+      "title": "Precios Unitarios > URBANIZACIONES"
+    },
+    {
+      "items": 95,
+      "json": "chapters/precios-unitarios--vidrieria-y-elaborados-sinteticos.json",
+      "key": "precios-unitarios--vidrieria-y-elaborados-sinteticos",
+      "md": "chapters/precios-unitarios--vidrieria-y-elaborados-sinteticos.md",
+      "title": "Precios Unitarios > VIDRIERÍA Y ELABORADOS SINTÉTICOS"
+    },
+    {
+      "items": 7,
+      "json": "chapters/sin-clasificar.json",
+      "key": "sin-clasificar",
+      "md": "chapters/sin-clasificar.md",
+      "title": "Sin clasificar"
+    }
+  ],
+  "generatedAt": "2026-07-21T11:29:00.682Z",
+  "stats": {
+    "byKind": {
+      "auxiliary": 12,
+      "labor": 36,
+      "machinery": 71,
+      "material": 5639,
+      "other": 297,
+      "work_item": 6510
+    },
+    "bySources": {
+      "bcca": 12565
+    },
+    "byStatus": {
+      "auto_ok": 8505,
+      "conflicted": 4060
+    },
+    "quarantined": 43,
+    "total": 12565
+  },
+  "version": "0.1.0"
+}

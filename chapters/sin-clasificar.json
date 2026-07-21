@@ -1,0 +1,370 @@
+{
+  "attributions": [
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Sin clasificar",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.65,
+          "ref": "mo-of-1-cristalero",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-luna-pulida-flotada-incolora-4-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 5,
+          "ref": "mt-perfil-en-u-de-neopreno",
+          "role": "material"
+        }
+      ],
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-acrist-luna-pulida-incolora-4-mm-colocada-perfil-cont",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2017-07",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "12LIS80015",
+          "value": 30.27
+        }
+      ],
+      "sources": [
+        {
+          "code": "12LIS80015",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "ACRIST. LUNA PULIDA, INCOLORA, 4 mm, COLOCADA PERFIL CONT.",
+      "text": "Acristalamiento con luna pulida flotada incolora de 4 mm de espesor, colocada con perfil continuo, incluso perfil en U de neopreno, cortes, y colocación de junquillos; construido según instrucciones del fabricante. Medida la superficie acristalada en multiplos de 30 mm.",
+      "unit": "m2",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-0836525e450123eb",
+          "duplicate_candidate-564c8b1b6cf01840",
+          "duplicate_candidate-afbb40869a5e221d",
+          "duplicate_candidate-dafbf74aa9e7bf7e",
+          "stale_edition-7b10cb6c2b31c1d6"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 4.45,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        }
+      ],
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-apertura-de-caja-en-fabrica-de-ladrillo-hueco",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "06RLC00050",
+          "value": 132.7
+        }
+      ],
+      "sources": [
+        {
+          "code": "06RLC00050",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "APERTURA DE CAJA EN FÁBRICA DE LADRILLO HUECO",
+      "text": "Apertura de caja en fábrica de ladrillo hueco, realizada con medios manuales. Medido el volumen teórico inicial.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-2a020cf867b7695f"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.5,
+          "ref": "mo-oficial-1",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 9.45,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        }
+      ],
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-apertura-de-cajas-en-fabrica-de-l-macizo-medios-manuales",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "06RLC00100",
+          "value": 242.75
+        }
+      ],
+      "sources": [
+        {
+          "code": "06RLC00100",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "APERTURA DE CAJAS EN FÁBRICA DE L. MACIZO, MEDIOS MANUALES",
+      "text": "Apertura de cajas en fábrica de ladrillo macizo, realizada con medios manuales. Medido el volumen teórico inicial.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-78d7ab40443f713d"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-of-1-albanileria",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.415,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-tubo-hormigon-diam-200-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.165,
+          "ref": "mq-pison-mecanico-manual",
+          "role": "machinery"
+        }
+      ],
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-colector-enterrado-de-hormigon-de-200-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2021-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "ASC00100",
+          "value": 21.67
+        }
+      ],
+      "sources": [
+        {
+          "code": "ASC00100",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "COLECTOR ENTERRADO DE HORMIGÓN, DE 200 mm",
+      "text": "Colector enterrado de hormigón, de 200 mm de diámetro interior. colocado sobre solera de hormigón en masa HM-20 de 10 cm de espesor y recalce de hormigón en masa HM-20 hasta el eje horizontal, incluso p.p. de corchetes de hormigón en masa y relleno. Medida la longitud entre ejes de arquetas.",
+      "unit": "m",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-fc93fef951829e3a"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-ensayo-de-inclusiones-calcareas-en-tejas-ceramicas",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "18RTC00060",
+          "value": 47
+        }
+      ],
+      "sources": [
+        {
+          "code": "18RTC00060",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Ensayo de inclusiones calcáreas en tejas cerámicas",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "missing_bom-631836ce0d83bd84",
+          "stale_edition-7b5806a8b0564981"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-ensayo-en-laboratorio-del-indice-cbr-a-1-4-y-7-dias",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "18ALF00081",
+          "value": 161
+        }
+      ],
+      "sources": [
+        {
+          "code": "18ALF00081",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Ensayo en laboratorio del índice CBR a 1, 4 y 7 días.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "missing_bom-14b5ec28eafaf76a",
+          "stale_edition-d7c89079f27342df"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "ot-prueba-de-funcionamiento-de-ascensores",
+          "role": "other"
+        }
+      ],
+      "createdAt": "2026-07-21T11:25:32.116Z",
+      "id": "wi-prueba-de-funcionamiento-de-ascensores",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2024-01",
+          "kind": "list",
+          "scope": {
+            "country": "ES",
+            "region": "AND"
+          },
+          "source": "bcca",
+          "sourceCode": "10IAS00010",
+          "value": 250
+        }
+      ],
+      "sources": [
+        {
+          "code": "10IAS00010",
+          "edition": "2024-01",
+          "matchedBy": "seed",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Prueba de funcionamiento de ascensores",
+      "text": "Prueba de funcionamiento de ascensores. Cumpliendo con RD 88/2013 y ITC MIE-AEM1. Medida la unidad a probar.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "verification": {
+        "findings": [
+          "stale_edition-b6995c58950e3d64"
+        ],
+        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.1.0"
+}
