@@ -1,0 +1,51 @@
+{
+  "key": "precios-auxiliares--trabajo-mano-de-obra",
+  "rows": [
+    {
+      "d": "2022-12",
+      "g": [
+        "cuadrillas"
+      ],
+      "id": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+      "m": 2,
+      "p": 45.18,
+      "s": "CUADRILLA ALBAÑILERÍA, FORMADA POR OFICIAL 1ª Y PEÓN ESP.",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cuadrillas"
+      ],
+      "id": "mo-cuadrilla-albanileria-formada-por-oficial-2-y-peon-esp",
+      "m": 2,
+      "p": 44.6,
+      "s": "CUADRILLA ALBAÑILERÍA, FORMADA POR OFICIAL 2ª Y PEÓN ESP.",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cuadrillas"
+      ],
+      "id": "mo-cuadrilla-formada-por-oficial-1-carpinteria-y-ayudante",
+      "m": 2,
+      "p": 45.53,
+      "s": "CUADRILLA FORMADA POR OFICIAL 1ª CARPINTERÍA Y AYUDANTE",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cuadrillas"
+      ],
+      "id": "mo-cuadrilla-formada-por-oficial-1-instalador-y-ayudante",
+      "m": 2,
+      "p": 45.53,
+      "s": "CUADRILLA FORMADA POR OFICIAL 1ª INSTALADOR Y AYUDANTE",
+      "u": "h"
+    }
+  ],
+  "title": "Precios Auxiliares > TRABAJO (MANO DE OBRA)",
+  "version": "0.1.0"
+}

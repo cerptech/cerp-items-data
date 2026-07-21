@@ -2,6 +2,134 @@
   "attributions": [
     "Información obtenida del Portal de la Junta de Andalucía"
   ],
+  "basicoChapters": [
+    {
+      "items": 75,
+      "key": "precios-basicos--aglomerantes-y-morteros",
+      "outline": "outlines/precios-basicos--aglomerantes-y-morteros.json",
+      "title": "Precios Básicos > AGLOMERANTES Y MORTEROS"
+    },
+    {
+      "items": 237,
+      "key": "precios-basicos--aislamientos",
+      "outline": "outlines/precios-basicos--aislamientos.json",
+      "title": "Precios Básicos > AISLAMIENTOS"
+    },
+    {
+      "items": 28,
+      "key": "precios-basicos--analisis-pruebas-y-ensayos",
+      "outline": "outlines/precios-basicos--analisis-pruebas-y-ensayos.json",
+      "title": "Precios Básicos > ANÁLISIS PRUEBAS Y ENSAYOS"
+    },
+    {
+      "items": 30,
+      "key": "precios-basicos--aridos-y-piedras",
+      "outline": "outlines/precios-basicos--aridos-y-piedras.json",
+      "title": "Precios Básicos > ÁRIDOS Y PIEDRAS"
+    },
+    {
+      "items": 697,
+      "key": "precios-basicos--carpinteria-y-elementos-de-seguridad-y-proteccion",
+      "outline": "outlines/precios-basicos--carpinteria-y-elementos-de-seguridad-y-proteccion.json",
+      "title": "Precios Básicos > CARPINTERÍA Y ELEMENTOS DE SEGURIDAD Y PROTECCIÓN"
+    },
+    {
+      "items": 165,
+      "key": "precios-basicos--cimentaciones-y-estructuras",
+      "outline": "outlines/precios-basicos--cimentaciones-y-estructuras.json",
+      "title": "Precios Básicos > CIMENTACIONES Y ESTRUCTURAS"
+    },
+    {
+      "items": 78,
+      "key": "precios-basicos--cubiertas",
+      "outline": "outlines/precios-basicos--cubiertas.json",
+      "title": "Precios Básicos > CUBIERTAS"
+    },
+    {
+      "items": 68,
+      "key": "precios-basicos--decoracion-y-equipamiento",
+      "outline": "outlines/precios-basicos--decoracion-y-equipamiento.json",
+      "title": "Precios Básicos > DECORACIÓN Y EQUIPAMIENTO"
+    },
+    {
+      "items": 134,
+      "key": "precios-basicos--fabricas-albanileria",
+      "outline": "outlines/precios-basicos--fabricas-albanileria.json",
+      "title": "Precios Básicos > FÁBRICAS (ALBAÑILERÍA)"
+    },
+    {
+      "items": 2093,
+      "key": "precios-basicos--instalaciones",
+      "outline": "outlines/precios-basicos--instalaciones.json",
+      "title": "Precios Básicos > INSTALACIONES"
+    },
+    {
+      "items": 57,
+      "key": "precios-basicos--maquinaria-y-equipos-de-obras",
+      "outline": "outlines/precios-basicos--maquinaria-y-equipos-de-obras.json",
+      "title": "Precios Básicos > MAQUINARIA Y EQUIPOS DE OBRAS"
+    },
+    {
+      "items": 70,
+      "key": "precios-basicos--pinturas",
+      "outline": "outlines/precios-basicos--pinturas.json",
+      "title": "Precios Básicos > PINTURAS"
+    },
+    {
+      "items": 8,
+      "key": "precios-basicos--residuos",
+      "outline": "outlines/precios-basicos--residuos.json",
+      "title": "Precios Básicos > RESIDUOS"
+    },
+    {
+      "items": 503,
+      "key": "precios-basicos--revestimientos",
+      "outline": "outlines/precios-basicos--revestimientos.json",
+      "title": "Precios Básicos > REVESTIMIENTOS"
+    },
+    {
+      "items": 74,
+      "key": "precios-basicos--saneamiento",
+      "outline": "outlines/precios-basicos--saneamiento.json",
+      "title": "Precios Básicos > SANEAMIENTO"
+    },
+    {
+      "items": 167,
+      "key": "precios-basicos--seguridad-y-salud",
+      "outline": "outlines/precios-basicos--seguridad-y-salud.json",
+      "title": "Precios Básicos > SEGURIDAD Y SALUD"
+    },
+    {
+      "items": 855,
+      "key": "precios-basicos--sin-clasificar",
+      "outline": "outlines/precios-basicos--sin-clasificar.json",
+      "title": "Precios Básicos > SIN CLASIFICAR"
+    },
+    {
+      "items": 32,
+      "key": "precios-basicos--trabajo-mano-de-obra",
+      "outline": "outlines/precios-basicos--trabajo-mano-de-obra.json",
+      "title": "Precios Básicos > TRABAJO (MANO DE OBRA)"
+    },
+    {
+      "items": 530,
+      "key": "precios-basicos--urbanizacion",
+      "outline": "outlines/precios-basicos--urbanizacion.json",
+      "title": "Precios Básicos > URBANIZACIÓN"
+    },
+    {
+      "items": 17,
+      "key": "precios-basicos--varios",
+      "outline": "outlines/precios-basicos--varios.json",
+      "title": "Precios Básicos > VARIOS"
+    },
+    {
+      "items": 133,
+      "key": "precios-basicos--vidrios-y-sinteticos",
+      "outline": "outlines/precios-basicos--vidrios-y-sinteticos.json",
+      "title": "Precios Básicos > VIDRIOS Y SINTÉTICOS"
+    }
+  ],
   "basicos": {
     "count": 6055,
     "file": "basicos.json"
@@ -12,6 +140,7 @@
       "json": "chapters/precios-auxiliares--aglomerantes-y-morteros.json",
       "key": "precios-auxiliares--aglomerantes-y-morteros",
       "md": "chapters/precios-auxiliares--aglomerantes-y-morteros.md",
+      "outline": "outlines/precios-auxiliares--aglomerantes-y-morteros.json",
       "title": "Precios Auxiliares > AGLOMERANTES Y MORTEROS"
     },
     {
@@ -19,6 +148,7 @@
       "json": "chapters/precios-auxiliares--residuos.json",
       "key": "precios-auxiliares--residuos",
       "md": "chapters/precios-auxiliares--residuos.md",
+      "outline": "outlines/precios-auxiliares--residuos.json",
       "title": "Precios Auxiliares > RESIDUOS"
     },
     {
@@ -26,6 +156,7 @@
       "json": "chapters/precios-unitarios--acondicionamiento-de-terrenos.json",
       "key": "precios-unitarios--acondicionamiento-de-terrenos",
       "md": "chapters/precios-unitarios--acondicionamiento-de-terrenos.md",
+      "outline": "outlines/precios-unitarios--acondicionamiento-de-terrenos.json",
       "title": "Precios Unitarios > ACONDICIONAMIENTO DE TERRENOS"
     },
     {
@@ -33,6 +164,7 @@
       "json": "chapters/precios-unitarios--aislamientos.json",
       "key": "precios-unitarios--aislamientos",
       "md": "chapters/precios-unitarios--aislamientos.md",
+      "outline": "outlines/precios-unitarios--aislamientos.json",
       "title": "Precios Unitarios > AISLAMIENTOS"
     },
     {
@@ -40,6 +172,7 @@
       "json": "chapters/precios-unitarios--albanileria.json",
       "key": "precios-unitarios--albanileria",
       "md": "chapters/precios-unitarios--albanileria.md",
+      "outline": "outlines/precios-unitarios--albanileria.json",
       "title": "Precios Unitarios > ALBAÑILERÍA"
     },
     {
@@ -47,6 +180,7 @@
       "json": "chapters/precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion.json",
       "key": "precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion",
       "md": "chapters/precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion.md",
+      "outline": "outlines/precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion.json",
       "title": "Precios Unitarios > CARPINTERÍA Y ELEMENTOS DE SEGURIDAD Y PROTECCIÓN"
     },
     {
@@ -54,6 +188,7 @@
       "json": "chapters/precios-unitarios--cimentaciones.json",
       "key": "precios-unitarios--cimentaciones",
       "md": "chapters/precios-unitarios--cimentaciones.md",
+      "outline": "outlines/precios-unitarios--cimentaciones.json",
       "title": "Precios Unitarios > CIMENTACIONES"
     },
     {
@@ -61,6 +196,7 @@
       "json": "chapters/precios-unitarios--control-de-calidad-pruebas-y-ensayos.json",
       "key": "precios-unitarios--control-de-calidad-pruebas-y-ensayos",
       "md": "chapters/precios-unitarios--control-de-calidad-pruebas-y-ensayos.md",
+      "outline": "outlines/precios-unitarios--control-de-calidad-pruebas-y-ensayos.json",
       "title": "Precios Unitarios > CONTROL DE CALIDAD, PRUEBAS Y ENSAYOS"
     },
     {
@@ -68,6 +204,7 @@
       "json": "chapters/precios-unitarios--cubiertas.json",
       "key": "precios-unitarios--cubiertas",
       "md": "chapters/precios-unitarios--cubiertas.md",
+      "outline": "outlines/precios-unitarios--cubiertas.json",
       "title": "Precios Unitarios > CUBIERTAS"
     },
     {
@@ -75,6 +212,7 @@
       "json": "chapters/precios-unitarios--demoliciones-y-trabajos-previos.json",
       "key": "precios-unitarios--demoliciones-y-trabajos-previos",
       "md": "chapters/precios-unitarios--demoliciones-y-trabajos-previos.md",
+      "outline": "outlines/precios-unitarios--demoliciones-y-trabajos-previos.json",
       "title": "Precios Unitarios > DEMOLICIONES Y TRABAJOS PREVIOS"
     },
     {
@@ -82,6 +220,7 @@
       "json": "chapters/precios-unitarios--equipamiento.json",
       "key": "precios-unitarios--equipamiento",
       "md": "chapters/precios-unitarios--equipamiento.md",
+      "outline": "outlines/precios-unitarios--equipamiento.json",
       "title": "Precios Unitarios > EQUIPAMIENTO"
     },
     {
@@ -89,6 +228,7 @@
       "json": "chapters/precios-unitarios--estructuras.json",
       "key": "precios-unitarios--estructuras",
       "md": "chapters/precios-unitarios--estructuras.md",
+      "outline": "outlines/precios-unitarios--estructuras.json",
       "title": "Precios Unitarios > ESTRUCTURAS"
     },
     {
@@ -96,6 +236,7 @@
       "json": "chapters/precios-unitarios--gestion-de-residuos.json",
       "key": "precios-unitarios--gestion-de-residuos",
       "md": "chapters/precios-unitarios--gestion-de-residuos.md",
+      "outline": "outlines/precios-unitarios--gestion-de-residuos.json",
       "title": "Precios Unitarios > GESTIÓN DE RESIDUOS"
     },
     {
@@ -103,6 +244,7 @@
       "json": "chapters/precios-unitarios--instalaciones.json",
       "key": "precios-unitarios--instalaciones",
       "md": "chapters/precios-unitarios--instalaciones.md",
+      "outline": "outlines/precios-unitarios--instalaciones.json",
       "title": "Precios Unitarios > INSTALACIONES"
     },
     {
@@ -110,6 +252,7 @@
       "json": "chapters/precios-unitarios--mantenimiento.json",
       "key": "precios-unitarios--mantenimiento",
       "md": "chapters/precios-unitarios--mantenimiento.md",
+      "outline": "outlines/precios-unitarios--mantenimiento.json",
       "title": "Precios Unitarios > MANTENIMIENTO"
     },
     {
@@ -117,6 +260,7 @@
       "json": "chapters/precios-unitarios--pinturas.json",
       "key": "precios-unitarios--pinturas",
       "md": "chapters/precios-unitarios--pinturas.md",
+      "outline": "outlines/precios-unitarios--pinturas.json",
       "title": "Precios Unitarios > PINTURAS"
     },
     {
@@ -124,6 +268,7 @@
       "json": "chapters/precios-unitarios--revestimientos.json",
       "key": "precios-unitarios--revestimientos",
       "md": "chapters/precios-unitarios--revestimientos.md",
+      "outline": "outlines/precios-unitarios--revestimientos.json",
       "title": "Precios Unitarios > REVESTIMIENTOS"
     },
     {
@@ -131,6 +276,7 @@
       "json": "chapters/precios-unitarios--saneamiento.json",
       "key": "precios-unitarios--saneamiento",
       "md": "chapters/precios-unitarios--saneamiento.md",
+      "outline": "outlines/precios-unitarios--saneamiento.json",
       "title": "Precios Unitarios > SANEAMIENTO"
     },
     {
@@ -138,6 +284,7 @@
       "json": "chapters/precios-unitarios--seguridad-y-salud.json",
       "key": "precios-unitarios--seguridad-y-salud",
       "md": "chapters/precios-unitarios--seguridad-y-salud.md",
+      "outline": "outlines/precios-unitarios--seguridad-y-salud.json",
       "title": "Precios Unitarios > SEGURIDAD Y SALUD"
     },
     {
@@ -145,6 +292,7 @@
       "json": "chapters/precios-unitarios--urbanizaciones.json",
       "key": "precios-unitarios--urbanizaciones",
       "md": "chapters/precios-unitarios--urbanizaciones.md",
+      "outline": "outlines/precios-unitarios--urbanizaciones.json",
       "title": "Precios Unitarios > URBANIZACIONES"
     },
     {
@@ -152,6 +300,7 @@
       "json": "chapters/precios-unitarios--vidrieria-y-elaborados-sinteticos.json",
       "key": "precios-unitarios--vidrieria-y-elaborados-sinteticos",
       "md": "chapters/precios-unitarios--vidrieria-y-elaborados-sinteticos.md",
+      "outline": "outlines/precios-unitarios--vidrieria-y-elaborados-sinteticos.json",
       "title": "Precios Unitarios > VIDRIERÍA Y ELABORADOS SINTÉTICOS"
     },
     {
@@ -159,6 +308,7 @@
       "json": "chapters/sin-clasificar.json",
       "key": "sin-clasificar",
       "md": "chapters/sin-clasificar.md",
+      "outline": "outlines/sin-clasificar.json",
       "title": "Sin clasificar"
     }
   ],
@@ -182,5 +332,6 @@
     "quarantined": 43,
     "total": 12565
   },
+  "tree": "tree.json",
   "version": "0.1.0"
 }

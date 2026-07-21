@@ -1,0 +1,95 @@
+{
+  "key": "precios-basicos--residuos",
+  "rows": [
+    {
+      "d": "2021-12",
+      "g": [
+        "hormigones-ladrillos-tejas-materiales-de"
+      ],
+      "id": "mt-canon-gestion-de-residuos-petreos",
+      "m": 0,
+      "p": 9.67,
+      "s": "CANON GESTION DE RESIDUOS PETREOS",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "maderas-papeles-cartones-plasticos-vidri"
+      ],
+      "id": "mt-canon-gestion-de-residuos-de-madera",
+      "m": 0,
+      "p": 1.07,
+      "s": "CANON GESTION DE RESIDUOS DE MADERA",
+      "u": "t"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-metalicos"
+      ],
+      "id": "mt-canon-gestion-de-residuos-mixtos",
+      "m": 0,
+      "p": 13.44,
+      "s": "CANON GESTION DE RESIDUOS MIXTOS",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "terrenos"
+      ],
+      "id": "mt-canon-gestion-de-tierras",
+      "m": 0,
+      "p": 2.42,
+      "s": "CANON GESTION DE TIERRAS",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "terrenos"
+      ],
+      "id": "mt-canon-vertido-tierras-inertes",
+      "m": 0,
+      "p": 1.07,
+      "s": "CANON VERTIDO TIERRAS INERTES",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-contenedor-1-m3",
+      "m": 0,
+      "p": 3.22,
+      "s": "CONTENEDOR 1 m3",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-transporte-interior-manual",
+      "m": 0,
+      "p": 13.94,
+      "s": "TRANSPORTE INTERIOR MANUAL",
+      "u": "t"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-transporte-interior-mecanico",
+      "m": 0,
+      "p": 4.01,
+      "s": "TRANSPORTE INTERIOR MECÁNICO",
+      "u": "t"
+    }
+  ],
+  "title": "Precios Básicos > RESIDUOS",
+  "version": "0.1.0"
+}

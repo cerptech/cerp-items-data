@@ -1,0 +1,1822 @@
+{
+  "key": "precios-basicos--cimentaciones-y-estructuras",
+  "rows": [
+    {
+      "d": "2022-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-b-400-s",
+      "m": 0,
+      "p": 0.8,
+      "s": "ACERO B 400 S",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-b-500-s",
+      "m": 0,
+      "p": 0.95,
+      "s": "ACERO B 500 S",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-chapa-colaborante-0-75-cm-espesor",
+      "m": 0,
+      "p": 34.13,
+      "s": "ACERO CHAPA COLABORANTE 0,75 cm ESPESOR",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-electrosoldado-me-b-500-s-en-malla",
+      "m": 0,
+      "p": 1.2,
+      "s": "ACERO ELECTROSOLDADO ME B 500 S EN MALLA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-electrosoldado-me-b-500-t-en-malla",
+      "m": 0,
+      "p": 1.2,
+      "s": "ACERO ELECTROSOLDADO ME B 500 T EN MALLA",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-galvanizado-en-caliente",
+      "m": 0,
+      "p": 4.66,
+      "s": "ACERO GALVANIZADO EN CALIENTE",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-perfil-tubular-laminado-frio-s-275-jr",
+      "m": 0,
+      "p": 1.65,
+      "s": "ACERO PERFIL TUBULAR LAMINADO FRIO S 275 JR",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-perfil-tubular-laminado-frio-s-275-jr-26c7",
+      "m": 0,
+      "p": 1.5,
+      "s": "ACERO PERFIL TUBULAR LAMINADO FRIO S 275 JR",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-perfiles-s-275-jr",
+      "m": 0,
+      "p": 1.1,
+      "s": "ACERO PERFILES S 275 JR",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-perfiles-s-275-jr-estruc-triang-ator",
+      "m": 0,
+      "p": 1.15,
+      "s": "ACERO PERFILES S 275 JR, ESTRUC. TRIANG. ATOR.",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-perfiles-s-275-jr-para-uniones-soldadas",
+      "m": 0,
+      "p": 1.2,
+      "s": "ACERO PERFILES S 275 JR, PARA UNIONES SOLDADAS",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-perfiles-s-275-jr-soportes-compuestos",
+      "m": 0,
+      "p": 1.1,
+      "s": "ACERO PERFILES S 275 JR, SOPORTES COMPUESTOS",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-perfiles-s-275-jr-soportes-simples",
+      "m": 0,
+      "p": 1.05,
+      "s": "ACERO PERFILES S 275 JR, SOPORTES SIMPLES",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-perfiles-s-275-jr-vigas-estruct-ator",
+      "m": 0,
+      "p": 1.1,
+      "s": "ACERO PERFILES S 275 JR VIGAS ESTRUCT ATOR.",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-perfiles-s-275-jr-vigas-estruct-sold",
+      "m": 0,
+      "p": 1.1,
+      "s": "ACERO PERFILES S 275 JR VIGAS ESTRUCT SOLD.",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-perfiles-s-275-jr-viguetas",
+      "m": 0,
+      "p": 0.96,
+      "s": "ACERO PERFILES S 275 JR, VIGUETAS",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-s-275-jr-en-chapa-elaborado-y-pintado",
+      "m": 0,
+      "p": 1.45,
+      "s": "ACERO S 275 JR, EN CHAPA ELABORADO Y PINTADO",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-s-275-jr-en-perfiles-en-elementos-met",
+      "m": 0,
+      "p": 1.08,
+      "s": "ACERO S 275 JR EN PERFILES EN ELEMENTOS MET.",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-s-275-jr-en-perfiles-tubulares",
+      "m": 0,
+      "p": 1.45,
+      "s": "ACERO S 275 JR EN PERFILES TUBULARES",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-alambre-de-atar",
+      "m": 0,
+      "p": 1.5,
+      "s": "ALAMBRE DE ATAR",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-angular-ac-galvanizado-25x25x3-mm",
+      "m": 0,
+      "p": 1.93,
+      "s": "ANGULAR AC. GALVANIZADO 25X25X3 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-angular-ac-galvanizado-30x30x3-mm",
+      "m": 0,
+      "p": 2.41,
+      "s": "ANGULAR AC. GALVANIZADO 30X30X3 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-angular-ac-galvanizado-40x40x4-mm",
+      "m": 0,
+      "p": 4.16,
+      "s": "ANGULAR AC. GALVANIZADO 40X40X4 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-armadura-triangulada-de-acero-aht-500",
+      "m": 0,
+      "p": 4.76,
+      "s": "ARMADURA TRIANGULADA DE ACERO AHT-500",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-camisa-acero-s-375-jr-diam-100-mm-y-esp-10-mm",
+      "m": 0,
+      "p": 70.79,
+      "s": "CAMISA ACERO S 375 JR DIÁM. 100 mm Y ESP. 10 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-camisa-acero-s-375-jr-diam-120-mm-y-esp-10-mm",
+      "m": 0,
+      "p": 81.33,
+      "s": "CAMISA ACERO S 375 JR DIÁM. 120 mm Y ESP. 10 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-camisa-acero-s-375-jr-diam-48-mm-y-esp-3-10-mm",
+      "m": 0,
+      "p": 31.74,
+      "s": "CAMISA ACERO S 375 JR DIÁM. 48 mm Y ESP. 3,10 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-camisa-acero-s-375-jr-diam-60-mm-y-esp-3-30-mm",
+      "m": 0,
+      "p": 33.32,
+      "s": "CAMISA ACERO S 375 JR DIÁM. 60 mm Y ESP. 3,30 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-camisa-acero-s-375-jr-diam-75-5-mm-y-esp-10-mm",
+      "m": 0,
+      "p": 40.34,
+      "s": "CAMISA ACERO S 375 JR DIÁM. 75,5 mm Y ESP. 10 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-estabilizador-fachada-con-entramado-metalico",
+      "m": 0,
+      "p": 264.47,
+      "s": "ESTABILIZADOR FACHADA CON ENTRAMÁDO METALICO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-estabilizador-fachada-con-entramado-metalico-6-meses",
+      "m": 0,
+      "p": 45.97,
+      "s": "ESTABILIZADOR FACHADA CON ENTRAMÁDO METALICO (6 MESES)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-placa-de-apoyo-estabilizador",
+      "m": 0,
+      "p": 35.26,
+      "s": "PLACA DE APOYO ESTABILIZADOR",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-reticula-de-pletina-25x2x50x50-mm",
+      "m": 0,
+      "p": 66.52,
+      "s": "RETÍCULA DE PLETINA 25x2x50x50 mm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-reticula-de-pletina-50x8x50x50-mm",
+      "m": 0,
+      "p": 103.89,
+      "s": "RETÍCULA DE PLETINA 50x8x50x50 mm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-tornillo-pasante",
+      "m": 0,
+      "p": 3.59,
+      "s": "TORNILLO PASANTE",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-zunchos-metalicos-en-estabilizacion-fachada-de-6-a-12-meses",
+      "m": 0,
+      "p": 102.01,
+      "s": "ZUNCHOS METÁLICOS EN ESTABILIZACIÓN FACHADA DE 6 A 12 MESES",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-zunchos-metalicos-en-estabilizacion-fachada-hasta-6-meses",
+      "m": 0,
+      "p": 34,
+      "s": "ZUNCHOS METÁLICOS EN ESTABILIZACIÓN FACHADA HASTA 6 MESES",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "bovedillas"
+      ],
+      "id": "mt-bloque-ceramico-forjado-reticular",
+      "m": 0,
+      "p": 2.15,
+      "s": "BLOQUE CERÁMICO FORJADO RETICULAR",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "bovedillas"
+      ],
+      "id": "mt-bloque-hormigon-forjado-reticular",
+      "m": 0,
+      "p": 2.35,
+      "s": "BLOQUE HORMIGÓN FORJADO RETICULAR",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "bovedillas"
+      ],
+      "id": "mt-bloque-reticular-ceramico-0-60x0-20-m",
+      "m": 0,
+      "p": 1.82,
+      "s": "BLOQUE RETICULAR CERÁMICO 0,60x0,20 m",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "bovedillas"
+      ],
+      "id": "mt-bloque-reticular-de-poliestireno-0-60x0-60-m",
+      "m": 0,
+      "p": 5.74,
+      "s": "BLOQUE RETICULAR DE POLIESTIRENO 0,60x0,60 m",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "bovedillas"
+      ],
+      "id": "mt-bovedilla-ceramica",
+      "m": 0,
+      "p": 2.37,
+      "s": "BOVEDILLA CERÁMICA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "bovedillas"
+      ],
+      "id": "mt-bovedillla-de-mortero-cemento",
+      "m": 0,
+      "p": 1.08,
+      "s": "BOVEDILLLA DE MORTERO CEMENTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "bovedillas"
+      ],
+      "id": "mt-caseton-pvc-recuperable",
+      "m": 0,
+      "p": 62.45,
+      "s": "CASETÓN PVC RECUPERABLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "elementos-auxiliares"
+      ],
+      "id": "mt-puntal-de-madera",
+      "m": 0,
+      "p": 7.5,
+      "s": "PUNTAL DE MADERA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "elementos-auxiliares"
+      ],
+      "id": "mt-puntal-metalico-de-3-m",
+      "m": 0,
+      "p": 21.87,
+      "s": "PUNTAL METÁLICO DE 3 m",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "elementos-auxiliares"
+      ],
+      "id": "mt-puntal-metalico-telesc-hasta-3-m-para-150-usos",
+      "m": 0,
+      "p": 21.87,
+      "s": "PUNTAL METÁLICO TELESC. HASTA 3 m (PARA 150 USOS)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-25-b-15-xc1-suministrado",
+      "m": 0,
+      "p": 100.25,
+      "s": "HORMIGÓN HA-25/B/15/XC1, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-25-b-15-xc2-suministrado",
+      "m": 0,
+      "p": 100.25,
+      "s": "HORMIGÓN HA-25/B/15/XC2, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-25-b-20-xc1-suministrado",
+      "m": 0,
+      "p": 97.1,
+      "s": "HORMIGÓN HA-25/B/20/XC1, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-25-b-20-xc2-suministrado",
+      "m": 0,
+      "p": 97.1,
+      "s": "HORMIGÓN HA-25/B/20/XC2, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-25-b-40-xc1-suministrado",
+      "m": 0,
+      "p": 97.1,
+      "s": "HORMIGÓN HA-25/B/40/XC1, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-25-b-40-xc2-suministrado",
+      "m": 0,
+      "p": 97.1,
+      "s": "HORMIGÓN HA-25/B/40/XC2, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-25-f-20-xc1-suministrado",
+      "m": 0,
+      "p": 100.15,
+      "s": "HORMIGÓN HA-25/F/20/XC1, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-25-f-20-xc2-suministrado",
+      "m": 0,
+      "p": 100.15,
+      "s": "HORMIGÓN HA-25/F/20/XC2, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-25-f-40-xc1-suministrado",
+      "m": 0,
+      "p": 10.15,
+      "s": "HORMIGÓN HA-25/F/40/XC1, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-25-f-40-xc2-suministrado",
+      "m": 0,
+      "p": 100.15,
+      "s": "HORMIGÓN HA-25/F/40/XC2, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-25-p-15-xc1-suministrado",
+      "m": 0,
+      "p": 100.1,
+      "s": "HORMIGÓN HA-25/P/15/XC1, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-25-p-15-xc2-suministrado",
+      "m": 0,
+      "p": 100.1,
+      "s": "HORMIGÓN HA-25/P/15/XC2, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-25-p-20-ix0-suministrado",
+      "m": 0,
+      "p": 97.1,
+      "s": "HORMIGÓN HA-25/P/20/IX0, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-25-p-20-xc1-suministrado",
+      "m": 0,
+      "p": 97.1,
+      "s": "HORMIGÓN HA-25/P/20/XC1, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-25-p-20-xc2-suministrado",
+      "m": 0,
+      "p": 97.1,
+      "s": "HORMIGÓN HA-25/P/20/XC2, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-25-p-40-xc1-suministrado",
+      "m": 0,
+      "p": 97.1,
+      "s": "HORMIGÓN HA-25/P/40/XC1, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-25-p-40-xc2-suministrado",
+      "m": 0,
+      "p": 97.1,
+      "s": "HORMIGÓN HA-25/P/40/XC2, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-b-15-xc1-suministrado",
+      "m": 0,
+      "p": 105.25,
+      "s": "HORMIGÓN HA-30/B/15/XC1, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-b-15-xc2-suministrado",
+      "m": 0,
+      "p": 105.25,
+      "s": "HORMIGÓN HA-30/B/15/XC2, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-b-20-xc1-suministrado",
+      "m": 0,
+      "p": 102,
+      "s": "HORMIGÓN HA-30/B/20/XC1, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-b-20-xc2-suministrado",
+      "m": 0,
+      "p": 102,
+      "s": "HORMIGÓN HA-30/B/20/XC2, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-b-20-xc3-suministrado",
+      "m": 0,
+      "p": 102.8,
+      "s": "HORMIGÓN HA-30/B/20/XC3, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-b-20-xc4-suministrado",
+      "m": 0,
+      "p": 102.8,
+      "s": "HORMIGÓN HA-30/B/20/XC4, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-b-40-xc1-suministrado",
+      "m": 0,
+      "p": 102,
+      "s": "HORMIGÓN HA-30/B/40/XC1, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-b-40-xc2-suministrado",
+      "m": 0,
+      "p": 102,
+      "s": "HORMIGÓN HA-30/B/40/XC2, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-b-40-xc3-suministrado",
+      "m": 0,
+      "p": 102.8,
+      "s": "HORMIGÓN HA-30/B/40/XC3, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-b-40-xc4-suministrado",
+      "m": 0,
+      "p": 102.8,
+      "s": "HORMIGÓN HA-30/B/40/XC4, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-f-20-xc1-suministrado",
+      "m": 0,
+      "p": 105,
+      "s": "HORMIGÓN HA-30/F/20/XC1, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-f-20-xc2-suministrado",
+      "m": 0,
+      "p": 105,
+      "s": "HORMIGÓN HA-30/F/20/XC2, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-f-20-xc3-suministrado",
+      "m": 0,
+      "p": 105.9,
+      "s": "HORMIGÓN HA-30/F/20/XC3, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-f-20-xc4-suministrado",
+      "m": 0,
+      "p": 105.9,
+      "s": "HORMIGÓN HA-30/F/20/XC4, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-f-40-xc3-suministrado",
+      "m": 0,
+      "p": 105.9,
+      "s": "HORMIGÓN HA-30/F/40/XC3, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-f-40-xc4-suministrado",
+      "m": 0,
+      "p": 105.9,
+      "s": "HORMIGÓN HA-30/F/40/XC4, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-p-20-xc1-suministrado",
+      "m": 0,
+      "p": 102.8,
+      "s": "HORMIGÓN HA-30/P/20/XC1, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-p-20-xc2-suministrado",
+      "m": 0,
+      "p": 102.8,
+      "s": "HORMIGÓN HA-30/P/20/XC2, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-p-20-xc3-suministrado",
+      "m": 0,
+      "p": 102.8,
+      "s": "HORMIGÓN HA-30/P/20/XC3, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-p-20-xc4-suministrado",
+      "m": 0,
+      "p": 102.8,
+      "s": "HORMIGÓN HA-30/P/20/XC4, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-p-40-xc1-suministrado",
+      "m": 0,
+      "p": 102,
+      "s": "HORMIGÓN HA-30/P/40/XC1, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-p-40-xc2-suministrado",
+      "m": 0,
+      "p": 102,
+      "s": "HORMIGÓN HA-30/P/40/XC2, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-p-40-xc3-suministrado",
+      "m": 0,
+      "p": 102.8,
+      "s": "HORMIGÓN HA-30/P/40/XC3, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-30-p-40-xc4-suministrado",
+      "m": 0,
+      "p": 102.8,
+      "s": "HORMIGÓN HA-30/P/40/XC4, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-b-15-xc1-suministrado",
+      "m": 0,
+      "p": 110,
+      "s": "HORMIGÓN HA-35/B/15/XC1, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-b-15-xc2-suministrado",
+      "m": 0,
+      "p": 110,
+      "s": "HORMIGÓN HA-35/B/15/XC2, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-b-20-xc1-suministrado",
+      "m": 0,
+      "p": 107,
+      "s": "HORMIGÓN HA-35/B/20/XC1, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-b-20-xc2-suministrado",
+      "m": 0,
+      "p": 107,
+      "s": "HORMIGÓN HA-35/B/20/XC2, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-b-20-xc3-suministrado",
+      "m": 0,
+      "p": 107.25,
+      "s": "HORMIGÓN HA-35/B/20/XC3, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-b-20-xc4-suministrado",
+      "m": 0,
+      "p": 107.25,
+      "s": "HORMIGÓN HA-35/B/20/XC4, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-b-40-xc1-suministrado",
+      "m": 0,
+      "p": 107,
+      "s": "HORMIGÓN HA-35/B/40/XC1, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-b-40-xc2-suministrado",
+      "m": 0,
+      "p": 107,
+      "s": "HORMIGÓN HA-35/B/40/XC2, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-b-40-xc3-suministrado",
+      "m": 0,
+      "p": 107.25,
+      "s": "HORMIGÓN HA-35/B/40/XC3, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-b-40-xc4-suministrado",
+      "m": 0,
+      "p": 107.25,
+      "s": "HORMIGÓN HA-35/B/40/XC4, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-f-20-xc3-suministrado",
+      "m": 0,
+      "p": 110.25,
+      "s": "HORMIGÓN HA-35/F/20/XC3, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-f-20-xc4-suministrado",
+      "m": 0,
+      "p": 110.25,
+      "s": "HORMIGÓN HA-35/F/20/XC4, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-f-40-xc3-suministrado",
+      "m": 0,
+      "p": 110.25,
+      "s": "HORMIGÓN HA-35/F/40/XC3, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-f-40-xc4-suministrado",
+      "m": 0,
+      "p": 110.25,
+      "s": "HORMIGÓN HA-35/F/40/XC4, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-p-20-xc1-suministrado",
+      "m": 0,
+      "p": 107,
+      "s": "HORMIGÓN HA-35/P/20/XC1, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-p-20-xc2-suministrado",
+      "m": 0,
+      "p": 107,
+      "s": "HORMIGÓN HA-35/P/20/XC2, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-p-20-xc3-suministrado",
+      "m": 0,
+      "p": 107.25,
+      "s": "HORMIGÓN HA-35/P/20/XC3, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-p-20-xc4-suministrado",
+      "m": 0,
+      "p": 107.25,
+      "s": "HORMIGÓN HA-35/P/20/XC4, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-p-40-xc1-suministrado",
+      "m": 0,
+      "p": 107,
+      "s": "HORMIGÓN HA-35/P/40/XC1, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-p-40-xc2-suministrado",
+      "m": 0,
+      "p": 107,
+      "s": "HORMIGÓN HA-35/P/40/XC2, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-p-40-xc3-suministrado",
+      "m": 0,
+      "p": 107.25,
+      "s": "HORMIGÓN HA-35/P/40/XC3, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ha-35-p-40-xc4-suministrado",
+      "m": 0,
+      "p": 107.25,
+      "s": "HORMIGÓN HA-35/P/40/XC4, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-hm-20-b-20-x0-suministrado",
+      "m": 0,
+      "p": 93.3,
+      "s": "HORMIGÓN HM-20/B/20/X0, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-hm-20-b-40-x0-suministrado",
+      "m": 0,
+      "p": 93.3,
+      "s": "HORMIGÓN HM-20/B/40/X0, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-hm-20-b-40-xc4-suministrado",
+      "m": 0,
+      "p": 128.48,
+      "s": "HORMIGÓN HM-20/B/40/XC4, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-hm-20-f-20-x0-suministrado",
+      "m": 0,
+      "p": 96.3,
+      "s": "HORMIGÓN HM-20/F/20/X0, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-hm-20-f-40-x0-suministrado",
+      "m": 0,
+      "p": 96.3,
+      "s": "HORMIGÓN HM-20/F/40/X0, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-hm-20-p-20-x0-suministrado",
+      "m": 0,
+      "p": 93.3,
+      "s": "HORMIGÓN HM-20/P/20/X0, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-hm-20-p-40-x0-suministrado",
+      "m": 0,
+      "p": 93.3,
+      "s": "HORMIGÓN HM-20/P/40/X0, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-hm-25-b-40-xc4-suministrado",
+      "m": 0,
+      "p": 128.48,
+      "s": "HORMIGÓN HM-25/B/40/XC4, SUMINISTRADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-ligero-aislante-hl-25",
+      "m": 0,
+      "p": 180,
+      "s": "HORMIGÓN LIGERO AISLANTE HL-25",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones"
+      ],
+      "id": "mt-hormigon-poroso-permeabilidad-3-m3-m2-h",
+      "m": 0,
+      "p": 134.1,
+      "s": "HORMIGON POROSO PERMEABILIDAD 3 m3/m2/h",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-encof-carton-liso-pilar-circular-diam-30-cm",
+      "m": 0,
+      "p": 15.28,
+      "s": "ENCOF. CARTÓN LISO PILAR CIRCULAR DIÁM. 30 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-encof-carton-liso-pilar-circular-diam-35-cm",
+      "m": 0,
+      "p": 17.19,
+      "s": "ENCOF. CARTÓN LISO PILAR CIRCULAR DIÁM. 35 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-encof-carton-liso-pilar-circular-diam-40-cm",
+      "m": 0,
+      "p": 18.54,
+      "s": "ENCOF. CARTÓN LISO PILAR CIRCULAR DIÁM. 40 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-encofrado-madera-zapatas-y-vigas",
+      "m": 0,
+      "p": 17.7,
+      "s": "ENCOFRADO MADERA ZAPATAS Y VIGAS",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-encofrado-perd-zunchos-zapatas-y-encep-c-tabla-madera",
+      "m": 0,
+      "p": 21.21,
+      "s": "ENCOFRADO PERD. ZUNCHOS ZAPATAS Y ENCEP. C/TABLA MADERA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-madera-de-pino-en-tabla",
+      "m": 0,
+      "p": 412.45,
+      "s": "MADERA DE PINO EN TABLA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-madera-de-pino-en-tablon",
+      "m": 0,
+      "p": 443.12,
+      "s": "MADERA DE PINO EN TABLON",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-madera-de-pino-en-tabloncillo",
+      "m": 0,
+      "p": 424.53,
+      "s": "MADERA DE PINO EN TABLONCILLO",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-madera-laminada-tratada",
+      "m": 0,
+      "p": 1628.62,
+      "s": "MADERA LAMINADA TRATADA",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-molde-escayola-encofrado-cornisa-30x30-cm",
+      "m": 0,
+      "p": 19.22,
+      "s": "MOLDE ESCAYOLA ENCOFRADO CORNISA 30x30 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-molde-escayola-encofrado-cornisa-50x50-cm",
+      "m": 0,
+      "p": 35.83,
+      "s": "MOLDE ESCAYOLA ENCOFRADO CORNISA 50x50 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-molde-escayola-hasta-30-cm-de-desarrollo",
+      "m": 0,
+      "p": 20.96,
+      "s": "MOLDE ESCAYOLA HASTA 30 cm DE DESARROLLO.",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-panel-metalico-50x250-cm",
+      "m": 0,
+      "p": 248.75,
+      "s": "PANEL METÁLICO 50x250 cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-panel-metalico-50x300-cm",
+      "m": 0,
+      "p": 298.5,
+      "s": "PANEL METÁLICO 50x300 cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-panel-metalico-50x50-cm",
+      "m": 0,
+      "p": 50,
+      "s": "PANEL METÁLICO 50x50 cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-panel-metalico-encofrado-circular-diam-35-cm",
+      "m": 0,
+      "p": 411.81,
+      "s": "PANEL METÁLICO ENCOFRADO CIRCULAR DIÁM. 35 cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-panel-metalico-revestimiento-tablero-fenolico",
+      "m": 0,
+      "p": 199,
+      "s": "PANEL METÁLICO REVESTIMIENTO TABLERO FENOLICO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-rastrel-pino-flandes-60x30-mm",
+      "m": 0,
+      "p": 2.01,
+      "s": "RASTREL PINO FLANDES 60x30 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-tablero-aglomerado-protegido",
+      "m": 0,
+      "p": 10.42,
+      "s": "TABLERO AGLOMERADO PROTEGIDO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "pilotes"
+      ],
+      "id": "mt-bentonita",
+      "m": 0,
+      "p": 0.22,
+      "s": "BENTONITA",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "pilotes"
+      ],
+      "id": "mt-camisa-de-acero-diam-450",
+      "m": 0,
+      "p": 46.83,
+      "s": "CAMISA DE ACERO DIÁM. 450",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pilotes"
+      ],
+      "id": "mt-pilote-prefabricado-cpp-1-diam-e-35-cm",
+      "m": 0,
+      "p": 52.42,
+      "s": "PILOTE PREFABRICADO CPP-1 DIÁM. E-35 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pilotes"
+      ],
+      "id": "mt-pilote-prefabricado-seccion-200x200-mm",
+      "m": 0,
+      "p": 70.99,
+      "s": "PILOTE PREFABRICADO SECCIÓN 200x200 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pilotes"
+      ],
+      "id": "mt-pilote-prefabricado-seccion-235x235-mm",
+      "m": 0,
+      "p": 78.11,
+      "s": "PILOTE PREFABRICADO SECCIÓN 235x235 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pilotes"
+      ],
+      "id": "mt-pilote-prefabricado-seccion-270x270-mm",
+      "m": 0,
+      "p": 85.91,
+      "s": "PILOTE PREFABRICADO SECCIÓN 270x270 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pilotes"
+      ],
+      "id": "mt-pilote-prefabricado-seccion-300x300-mm",
+      "m": 0,
+      "p": 103.09,
+      "s": "PILOTE PREFABRICADO SECCIÓN 300x300 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pilotes"
+      ],
+      "id": "mt-pilote-prefabricado-seccion-350x350-mm",
+      "m": 0,
+      "p": 123.7,
+      "s": "PILOTE PREFABRICADO SECCIÓN 350x350 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "pilotes"
+      ],
+      "id": "mt-pilote-prefabricado-seccion-400x400-mm",
+      "m": 0,
+      "p": 109.94,
+      "s": "PILOTE PREFABRICADO SECCIÓN 400x400 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-banda-de-neopreno",
+      "m": 0,
+      "p": 12.08,
+      "s": "BANDA DE NEOPRENO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-cable-4-torones-0-6-anclaje-permanente",
+      "m": 0,
+      "p": 37.08,
+      "s": "CABLE 4 TORONES 0,6 ANCLAJE PERMANENTE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-caperuza-proteccion-anclaje-permanente-50-mm",
+      "m": 0,
+      "p": 80.46,
+      "s": "CAPERUZA PROTECCIÓN ANCLAJE PERMANENTE 50 mm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-chapa-nervada-de-acero-galvanizado",
+      "m": 0,
+      "p": 4.07,
+      "s": "CHAPA NERVADA DE ACERO GALVANIZADO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-chapa-nervada-troquelada-de-acero-galvanizado",
+      "m": 0,
+      "p": 4.96,
+      "s": "CHAPA NERVADA TROQUELADA DE ACERO GALVANIZADO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-desencofrante",
+      "m": 0,
+      "p": 1.85,
+      "s": "DESENCOFRANTE",
+      "u": "l"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-juego-de-cunas-para-anclaje-permanente",
+      "m": 0,
+      "p": 4.71,
+      "s": "JUEGO DE CUÑAS PARA ANCLAJE PERMANENTE",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-junta-neopreno-cabeza-anclaje-permanente",
+      "m": 0,
+      "p": 14.55,
+      "s": "JUNTA NEOPRENO CABEZA ANCLAJE PERMANENTE",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-malla-fibra-de-vidrio-rev-pvc-de-152-g-m2",
+      "m": 0,
+      "p": 1.65,
+      "s": "MALLA FIBRA DE VIDRIO REV. PVC DE 152 g/m2",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-malla-fibra-de-vidrio-rev-pvc-de-217-g-m2",
+      "m": 0,
+      "p": 1.95,
+      "s": "MALLA FIBRA DE VIDRIO REV. PVC DE 217 g/m2",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-malla-tipo-gallinero",
+      "m": 0,
+      "p": 2.51,
+      "s": "MALLA TIPO GALLINERO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-placa-alveolar-prefabr-horm-pret-canto-20-cm",
+      "m": 0,
+      "p": 40.24,
+      "s": "PLACA ALVEOLAR PREFABR. HORM. PRET. CANTO 20 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-tejido-de-fibra-de-vidrio",
+      "m": 0,
+      "p": 2.45,
+      "s": "TEJIDO DE FIBRA DE VIDRIO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "viguetas"
+      ],
+      "id": "mt-vigueta-autorresistente-de-armadura-rigida",
+      "m": 0,
+      "p": 5.07,
+      "s": "VIGUETA AUTORRESISTENTE DE ARMADURA RÍGIDA",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "viguetas"
+      ],
+      "id": "mt-vigueta-autorresistente-pretensada",
+      "m": 0,
+      "p": 6.77,
+      "s": "VIGUETA AUTORRESISTENTE PRETENSADA",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "viguetas"
+      ],
+      "id": "mt-vigueta-semirresistente-de-armadura-rigida",
+      "m": 0,
+      "p": 5.33,
+      "s": "VIGUETA SEMIRRESISTENTE DE ARMADURA RÍGIDA",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "viguetas"
+      ],
+      "id": "mt-vigueta-semirresistente-pretensada",
+      "m": 0,
+      "p": 5.53,
+      "s": "VIGUETA SEMIRRESISTENTE PRETENSADA",
+      "u": "m"
+    }
+  ],
+  "title": "Precios Básicos > CIMENTACIONES Y ESTRUCTURAS",
+  "version": "0.1.0"
+}

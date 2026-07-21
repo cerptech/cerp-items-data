@@ -1,0 +1,777 @@
+{
+  "key": "precios-basicos--pinturas",
+  "rows": [
+    {
+      "d": "2021-12",
+      "g": [
+        "acrilicas-y-petreas"
+      ],
+      "id": "mt-emulsion-acrilica-incolora",
+      "m": 0,
+      "p": 22.69,
+      "s": "EMULSIÓN ACRÍLICA INCOLORA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "acrilicas-y-petreas"
+      ],
+      "id": "mt-pasta-petrea-lisa",
+      "m": 0,
+      "p": 2.44,
+      "s": "PASTA PÉTREA LISA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "acrilicas-y-petreas"
+      ],
+      "id": "mt-pasta-petrea-para-rayar",
+      "m": 0,
+      "p": 2.24,
+      "s": "PASTA PÉTREA PARA RAYAR",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "acrilicas-y-petreas"
+      ],
+      "id": "mt-pasta-petrea-rugosa",
+      "m": 0,
+      "p": 2.64,
+      "s": "PASTA PÉTREA RUGOSA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "acrilicas-y-petreas"
+      ],
+      "id": "mt-pintura-acrilica",
+      "m": 0,
+      "p": 2.1,
+      "s": "PINTURA ACRÍLICA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "acrilicas-y-petreas"
+      ],
+      "id": "mt-pintura-elastomera-acriiica-rugosa",
+      "m": 0,
+      "p": 4.91,
+      "s": "PINTURA ELASTÓMERA ACRIÍICA RUGOSA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "acrilicas-y-petreas"
+      ],
+      "id": "mt-pintura-elastomera-acrilica-lisa",
+      "m": 0,
+      "p": 3.61,
+      "s": "PINTURA ELASTÓMERA ACRÍLICA LISA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "acrilicas-y-petreas"
+      ],
+      "id": "mt-pintura-elastomera-acrilica-lisa-incolora",
+      "m": 0,
+      "p": 4.64,
+      "s": "PINTURA ELASTÓMERA ACRÍLICA LISA INCOLORA",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "acrilicas-y-petreas"
+      ],
+      "id": "mt-resina-acrilica",
+      "m": 0,
+      "p": 3.76,
+      "s": "RESINA ACRÍLICA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "barnices"
+      ],
+      "id": "mt-aceite-de-linaza",
+      "m": 0,
+      "p": 6.6,
+      "s": "ACEITE DE LINAZA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "barnices"
+      ],
+      "id": "mt-aceite-teka-para-maderas",
+      "m": 0,
+      "p": 9.2,
+      "s": "ACEITE TEKA PARA MADERAS",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "barnices"
+      ],
+      "id": "mt-barniz-graso",
+      "m": 0,
+      "p": 5.74,
+      "s": "BARNÍZ GRASO",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "barnices"
+      ],
+      "id": "mt-barniz-hidrofugo-de-silicona",
+      "m": 0,
+      "p": 3.76,
+      "s": "BARNÍZ HIDROFUGO DE SILICONA",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "barnices"
+      ],
+      "id": "mt-barniz-hidrogugo-antioxidante",
+      "m": 0,
+      "p": 3.48,
+      "s": "BARNIZ HIDRÓGUGO ANTIOXIDANTE",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "barnices"
+      ],
+      "id": "mt-barniz-poliester",
+      "m": 0,
+      "p": 4.32,
+      "s": "BARNIZ POLIESTER",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "barnices"
+      ],
+      "id": "mt-barniz-sintetico",
+      "m": 0,
+      "p": 12.25,
+      "s": "BARNÍZ SINTETICO",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "barnices"
+      ],
+      "id": "mt-barniz-sintetico-962c",
+      "m": 0,
+      "p": 7.87,
+      "s": "BARNIZ SINTETICO",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "barnices"
+      ],
+      "id": "mt-barniz-tapaporos",
+      "m": 0,
+      "p": 9,
+      "s": "BARNÍZ TAPAPOROS",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "barnices"
+      ],
+      "id": "mt-barnizado-de-cerco-y-tapajuntas",
+      "m": 0,
+      "p": 2.47,
+      "s": "BARNIZADO DE CERCO Y TAPAJUNTAS",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "barnices"
+      ],
+      "id": "mt-negro-de-humo-betun-judea",
+      "m": 0,
+      "p": 9.87,
+      "s": "NEGRO DE HUMO-BETÚN JUDEA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cales"
+      ],
+      "id": "mt-cal-lechada",
+      "m": 0,
+      "p": 1.5,
+      "s": "CAL LECHADA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "esmaltes"
+      ],
+      "id": "mt-esmalte-al-martele",
+      "m": 0,
+      "p": 17.69,
+      "s": "ESMALTE AL MARTELÉ",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "esmaltes"
+      ],
+      "id": "mt-esmalte-graso",
+      "m": 0,
+      "p": 5.03,
+      "s": "ESMALTE GRASO",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "esmaltes"
+      ],
+      "id": "mt-esmalte-sintetico",
+      "m": 0,
+      "p": 10.5,
+      "s": "ESMALTE SINTÉTICO",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "esmaltes"
+      ],
+      "id": "mt-esmalte-sintetico-con-partiulas-metalicas",
+      "m": 0,
+      "p": 10.5,
+      "s": "ESMALTE SINTÉTICO CON PARTÍULAS METÁLICAS",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "esmaltes"
+      ],
+      "id": "mt-esmalte-sintetico-resistente-al-calor",
+      "m": 0,
+      "p": 25.33,
+      "s": "ESMALTE SINTÉTICO RESISTENTE AL CALOR",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "especiales"
+      ],
+      "id": "mt-pintura-al-clorocaucho-c1c4",
+      "m": 0,
+      "p": 6.29,
+      "s": "PINTURA AL CLOROCAUCHO",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "especiales"
+      ],
+      "id": "mt-pintura-consolidante-inc-ester-acido-silicico",
+      "m": 0,
+      "p": 4.9,
+      "s": "PINTURA CONSOLIDANTE INC. ESTER ACIDO SILICICO",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "especiales"
+      ],
+      "id": "mt-pintura-ignifuga",
+      "m": 0,
+      "p": 18.96,
+      "s": "PINTURA IGNÍFUGA",
+      "u": "l"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "especiales"
+      ],
+      "id": "mt-pintura-insecticida-fungicida-aceite-con-resinas-color",
+      "m": 0,
+      "p": 14.67,
+      "s": "PINTURA INSECTICIDA-FUNGICIDA ACEITE CON RESINAS, COLOR",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "especiales"
+      ],
+      "id": "mt-pintura-insecticida-fungicida-aceite-con-resinas-incol",
+      "m": 0,
+      "p": 9.6,
+      "s": "PINTURA INSECTICIDA-FUNGICIDA ACEITE CON RESINAS, INCOL.",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "especiales"
+      ],
+      "id": "mt-pintura-intumescente-de-resinas-y-cargas-color-blanco",
+      "m": 0,
+      "p": 6.93,
+      "s": "PINTURA INTUMESCENTE DE RESINAS Y CARGAS COLOR BLANCO",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "especiales"
+      ],
+      "id": "mt-pintura-resinas-epoxi-dos-componentes-con-disolventes",
+      "m": 0,
+      "p": 6.83,
+      "s": "PINTURA RESINAS EPOXI DOS COMPONENTES CON DISOLVENTES",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "especiales"
+      ],
+      "id": "mt-pintura-resinas-epoxi-sin-disolventes",
+      "m": 0,
+      "p": 10.66,
+      "s": "PINTURA RESINAS EPOXI SIN DISOLVENTES",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "especiales"
+      ],
+      "id": "mt-pintura-resinas-poliuretano-dos-componentes",
+      "m": 0,
+      "p": 6.45,
+      "s": "PINTURA RESINAS POLIURETANO, DOS COMPONENTES",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "especiales"
+      ],
+      "id": "mt-polimero-de-resina-dos-comp-latex-al-agua",
+      "m": 0,
+      "p": 4.11,
+      "s": "POLÍMERO DE RESINA DOS COMP. LÁTEX AL AGUA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "imprimaciones"
+      ],
+      "id": "mt-fondo-fijador-de-silicatos-y-resina-acrilica",
+      "m": 0,
+      "p": 9.34,
+      "s": "FONDO FIJADOR DE SILICATOS Y RESINA ACRÍLICA",
+      "u": "l"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "imprimaciones"
+      ],
+      "id": "mt-imprimacion-antioxidante",
+      "m": 0,
+      "p": 10.75,
+      "s": "IMPRIMACIÓN ANTIOXIDANTE",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "imprimaciones"
+      ],
+      "id": "mt-imprimacion-fosfatante",
+      "m": 0,
+      "p": 2.79,
+      "s": "IMPRIMACIÓN FOSFATANTE",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "imprimaciones"
+      ],
+      "id": "mt-imprimacion-intumescente",
+      "m": 0,
+      "p": 5.58,
+      "s": "IMPRIMACIÓN INTUMESCENTE",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "imprimaciones"
+      ],
+      "id": "mt-wash-primmer",
+      "m": 0,
+      "p": 4.87,
+      "s": "WASH PRIMMER",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "lacas"
+      ],
+      "id": "mt-laca-nitrocelulosica-color",
+      "m": 0,
+      "p": 25.8,
+      "s": "LACA NITROCELULÓSICA COLOR",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "lacas"
+      ],
+      "id": "mt-laca-nitrocelulosica-incolora",
+      "m": 0,
+      "p": 14.5,
+      "s": "LACA NITROCELULÓSICA INCOLORA",
+      "u": "l"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "oleos"
+      ],
+      "id": "mt-pintura-oleo",
+      "m": 0,
+      "p": 2.57,
+      "s": "PINTURA ÓLEO",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "plasticos"
+      ],
+      "id": "mt-pintura-plastica",
+      "m": 0,
+      "p": 2.27,
+      "s": "PINTURA PLÁSTICA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "plasticos"
+      ],
+      "id": "mt-resina-plastica",
+      "m": 0,
+      "p": 2.85,
+      "s": "RESINA PLÁSTICA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "silicatos"
+      ],
+      "id": "mt-pintura-al-silicato",
+      "m": 0,
+      "p": 1.97,
+      "s": "PINTURA AL SILICATO",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "silicatos"
+      ],
+      "id": "mt-pintura-transpirable-a-base-de-silicatos",
+      "m": 0,
+      "p": 5.46,
+      "s": "PINTURA TRANSPIRABLE A BASE DE SILICATOS",
+      "u": "l"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "temples"
+      ],
+      "id": "mt-temple",
+      "m": 0,
+      "p": 0.35,
+      "s": "TEMPLE",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-acido-muriatico",
+      "m": 0,
+      "p": 0.85,
+      "s": "ACIDO MURIÁTICO",
+      "u": "l"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-acidos-acetico",
+      "m": 0,
+      "p": 0.63,
+      "s": "ACIDOS ACÉTICO",
+      "u": "l"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-bandas-de-papel-o-plastico-adhesivo",
+      "m": 0,
+      "p": 0.07,
+      "s": "BANDAS DE PAPEL O PLASTICO ADHESIVO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-catalizador-transparente",
+      "m": 0,
+      "p": 7.02,
+      "s": "CATALIZADOR TRANSPARENTE",
+      "u": "l"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-cola-vegetal-para-papel-pint",
+      "m": 0,
+      "p": 0.95,
+      "s": "COLA VEGETAL PARA PAPEL PINT",
+      "u": "l"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-colorante-adecuado-carta",
+      "m": 0,
+      "p": 3.27,
+      "s": "COLORANTE ADECUADO CARTA",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-decapante-pinturas",
+      "m": 0,
+      "p": 6.58,
+      "s": "DECAPANTE PINTURAS",
+      "u": "l"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-detergente-no-agresivo",
+      "m": 0,
+      "p": 0.79,
+      "s": "DETERGENTE NO AGRESIVO",
+      "u": "l"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-disolvente",
+      "m": 0,
+      "p": 1.96,
+      "s": "DISOLVENTE",
+      "u": "l"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-fijativo-de-pinturas-y-geles",
+      "m": 0,
+      "p": 6.38,
+      "s": "FIJATIVO DE PINTURAS Y GELES",
+      "u": "l"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-masilla-caucho-silicona",
+      "m": 0,
+      "p": 26.35,
+      "s": "MASILLA CAUCHO-SILICONA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-masilla-de-poliuretano-monocomponente-bajo-mod-elasticidad",
+      "m": 0,
+      "p": 11.07,
+      "s": "MASILLA DE POLIURETANO MONOCOMPONENTE BAJO MÓD. ELASTICIDAD",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-papel-pintado-t-medio",
+      "m": 0,
+      "p": 2.32,
+      "s": "PAPEL PINTADO T. MEDIO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-papel-pintado-t-tela-terciopelo",
+      "m": 0,
+      "p": 9.59,
+      "s": "PAPEL PINTADO T. TELA TERCIOPELO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-papel-pintado-t-vinilico",
+      "m": 0,
+      "p": 4.06,
+      "s": "PAPEL PINTADO T. VINILICO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-pintura-resina-epoxidica-dos-componentes",
+      "m": 0,
+      "p": 8.77,
+      "s": "PINTURA RESINA EPOXIDICA DOS COMPONENTES",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-resina-de-silicona-incolora-transparente",
+      "m": 0,
+      "p": 6.44,
+      "s": "RESINA DE SILICONA INCOLORA, TRANSPARENTE",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-secativo-de-cobalto",
+      "m": 0,
+      "p": 7.9,
+      "s": "SECATIVO DE COBALTO",
+      "u": "l"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-selladora",
+      "m": 0,
+      "p": 4.42,
+      "s": "SELLADORA",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-solucion-fungicida",
+      "m": 0,
+      "p": 0.95,
+      "s": "SOLUCION FUNGICIDA",
+      "u": "l"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-tapaporos-y-pasta-niveladora-paredes",
+      "m": 0,
+      "p": 1.16,
+      "s": "TAPAPOROS Y PASTA NIVELADORA PAREDES",
+      "u": "l"
+    }
+  ],
+  "title": "Precios Básicos > PINTURAS",
+  "version": "0.1.0"
+}

@@ -1,0 +1,2360 @@
+{
+  "key": "precios-unitarios--cimentaciones",
+  "rows": [
+    {
+      "d": "2022-01",
+      "g": [
+        "armaduras",
+        "barras-corrugadas",
+        "barras-corrugadas"
+      ],
+      "id": "wi-acero-en-barras-corrugadas-b400s-en-ciment",
+      "m": 4,
+      "p": 1.35,
+      "s": "ACERO EN BARRAS CORRUGADAS B400S EN CIMENT.",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "armaduras",
+        "barras-corrugadas",
+        "barras-corrugadas"
+      ],
+      "id": "wi-acero-en-barras-corrugadas-b500s-en-ciment",
+      "m": 4,
+      "p": 1.52,
+      "s": "ACERO EN BARRAS CORRUGADAS B500S EN CIMENT.",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "armaduras",
+        "mallas-electrosoldadas",
+        "mallas-electrosoldadas"
+      ],
+      "id": "wi-acero-me-b500s-en-malla-electrosoldada",
+      "m": 3,
+      "p": 1.61,
+      "s": "ACERO ME B500S EN MALLA ELECTROSOLDADA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "armaduras",
+        "mallas-electrosoldadas",
+        "mallas-electrosoldadas"
+      ],
+      "id": "wi-acero-me-b500t-en-malla-electrosoldada",
+      "m": 3,
+      "p": 1.61,
+      "s": "ACERO ME B500T EN MALLA ELECTROSOLDADA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "cimentaciones-especiales",
+        "consolidaciones",
+        "jet-grouting"
+      ],
+      "id": "wi-columna-suelo-tratado-de-diam-1-m",
+      "m": 5,
+      "p": 340.89,
+      "s": "COLUMNA SUELO TRATADO DE DIÁM. 1 m",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "cimentaciones-especiales",
+        "micropilotes",
+        "in-situ"
+      ],
+      "id": "wi-micropilote-in-situ-aire-a-presion-120-mm-14-33-t",
+      "m": 5,
+      "p": 219.28,
+      "s": "MICROPILOTE \"IN SITU\" AIRE A PRESIÓN 120 mm 14,33 t",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "micropilotes",
+        "in-situ"
+      ],
+      "id": "wi-micropilote-in-situ-aire-a-presion-150-mm",
+      "m": 5,
+      "p": 243.86,
+      "s": "MICROPILOTE \"IN SITU\" AIRE A PRESIÓN 150 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "cimentaciones-especiales",
+        "micropilotes",
+        "in-situ"
+      ],
+      "id": "wi-micropilote-in-situ-aire-a-presion-150-mm-18-t",
+      "m": 5,
+      "p": 253.33,
+      "s": "MICROPILOTE \"IN SITU\" AIRE A PRESIÓN 150 mm 18 t",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "cimentaciones-especiales",
+        "micropilotes",
+        "in-situ"
+      ],
+      "id": "wi-micropilote-in-situ-aire-a-presion-150-mm-22-t",
+      "m": 5,
+      "p": 255.73,
+      "s": "MICROPILOTE \"IN SITU\" AIRE A PRESIÓN 150 mm 22 t",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "cimentaciones-especiales",
+        "micropilotes",
+        "in-situ"
+      ],
+      "id": "wi-micropilote-in-situ-aire-a-presion-170-mm-34-5-t",
+      "m": 5,
+      "p": 308.73,
+      "s": "MICROPILOTE \"IN SITU\" AIRE A PRESIÓN 170 mm 34,5 t",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "micropilotes",
+        "in-situ"
+      ],
+      "id": "wi-micropilote-in-situ-c-camisa-acero-diam-100-mm",
+      "m": 8,
+      "p": 220.71,
+      "s": "MICROPILOTE \"IN SITU\" C/CAMISA ACERO DIÁM. 100 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "micropilotes",
+        "in-situ"
+      ],
+      "id": "wi-micropilote-in-situ-c-camisa-acero-diam-150-mm",
+      "m": 6,
+      "p": 289.22,
+      "s": "MICROPILOTE \"IN SITU\" C/CAMISA ACERO DIÁM. 150 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "micropilotes",
+        "in-situ"
+      ],
+      "id": "wi-micropilote-in-situ-c-camisa-acero-diam-150-mm-e4e1",
+      "m": 8,
+      "p": 274.83,
+      "s": "MICROPILOTE \"IN SITU\" C/CAMISA ACERO DIÁM. 150 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "micropilotes",
+        "in-situ"
+      ],
+      "id": "wi-micropilote-in-situ-c-camisa-acero-diam-48-mm",
+      "m": 8,
+      "p": 135.6,
+      "s": "MICROPILOTE \"IN SITU\" C/CAMISA ACERO DIÁM. 48 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "micropilotes",
+        "in-situ"
+      ],
+      "id": "wi-micropilote-in-situ-c-camisa-acero-diam-60-mm",
+      "m": 8,
+      "p": 141.26,
+      "s": "MICROPILOTE \"IN SITU\" C/CAMISA ACERO DIÁM. 60 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "micropilotes",
+        "in-situ"
+      ],
+      "id": "wi-micropilote-in-situ-c-camisa-acero-diam-75-50-mm",
+      "m": 8,
+      "p": 168.67,
+      "s": "MICROPILOTE \"IN SITU\" C/CAMISA ACERO DIÁM. 75,50 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "muros-pantalla",
+        "muros-pantalla"
+      ],
+      "id": "wi-muro-pantalla-45-cm-esp-cuch-mec-y-6-m-prof-ha-25",
+      "m": 13,
+      "p": 209.44,
+      "s": "MURO PANTALLA 45 cm ESP. CUCH. MEC. Y 6 m PROF. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "muros-pantalla",
+        "muros-pantalla"
+      ],
+      "id": "wi-muro-pantalla-45-cm-esp-cuch-mec-y-6-m-prof-ha-30",
+      "m": 13,
+      "p": 212.44,
+      "s": "MURO PANTALLA 45 cm ESP. CUCH. MEC. Y 6 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "muros-pantalla",
+        "muros-pantalla"
+      ],
+      "id": "wi-muro-pantalla-45-cm-esp-cuch-mec-y-de-6-a-15-m-prof-ha-25",
+      "m": 13,
+      "p": 177.59,
+      "s": "MURO PANTALLA 45 cm ESP. CUCH. MEC. Y DE 6 A 15 m PROF. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "muros-pantalla",
+        "muros-pantalla"
+      ],
+      "id": "wi-muro-pantalla-45-cm-esp-cuch-mec-y-de-6-a-15-m-prof-ha-30",
+      "m": 13,
+      "p": 180.49,
+      "s": "MURO PANTALLA 45 cm ESP. CUCH. MEC. Y DE 6 A 15 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "muros-pantalla",
+        "muros-pantalla"
+      ],
+      "id": "wi-muro-pantalla-45-cm-esp-cuch-mec-y-mas-de-15-m-prof-ha-25",
+      "m": 13,
+      "p": 163.87,
+      "s": "MURO PANTALLA 45 cm ESP. CUCH. MEC. Y MÁS DE 15 m PROF. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "muros-pantalla",
+        "muros-pantalla"
+      ],
+      "id": "wi-muro-pantalla-45-cm-esp-cuch-mec-y-mas-de-15-m-prof-ha-30",
+      "m": 15,
+      "p": 172,
+      "s": "MURO PANTALLA 45 cm ESP. CUCH. MEC. Y MÁS DE 15 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "muros-pantalla",
+        "muros-pantalla"
+      ],
+      "id": "wi-muro-pantalla-50-cm-esp-cuch-hidr-y-6-m-prof-ha-30",
+      "m": 13,
+      "p": 220.89,
+      "s": "MURO PANTALLA 50 cm ESP. CUCH. HIDR. Y 6 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "muros-pantalla",
+        "muros-pantalla"
+      ],
+      "id": "wi-muro-pantalla-50-cm-esp-cuch-hidr-y-de-6-a-15-m-prof-ha-30",
+      "m": 13,
+      "p": 188.65,
+      "s": "MURO PANTALLA 50 cm ESP. CUCH. HIDR. Y DE 6 A 15 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "muros-pantalla",
+        "muros-pantalla"
+      ],
+      "id": "wi-muro-pantalla-50-cm-esp-cuch-hidr-y-mas-de-15-m-prof-ha-30",
+      "m": 13,
+      "p": 174.77,
+      "s": "MURO PANTALLA 50 cm ESP. CUCH. HIDR. Y MÁS DE 15 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "muros-pantalla",
+        "muros-pantalla"
+      ],
+      "id": "wi-muro-pantalla-60-cm-esp-cuch-hidr-y-6-m-prof-ha-30",
+      "m": 13,
+      "p": 262.14,
+      "s": "MURO PANTALLA 60 cm ESP. CUCH. HIDR. Y 6 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "muros-pantalla",
+        "muros-pantalla"
+      ],
+      "id": "wi-muro-pantalla-60-cm-esp-cuch-hidr-y-de-6-a-15-m-prof-ha-30",
+      "m": 13,
+      "p": 225.32,
+      "s": "MURO PANTALLA 60 cm ESP. CUCH. HIDR. Y DE 6 A 15 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "muros-pantalla",
+        "muros-pantalla"
+      ],
+      "id": "wi-muro-pantalla-60-cm-esp-cuch-hidr-y-mas-de-15-m-prof-ha-30",
+      "m": 13,
+      "p": 208.59,
+      "s": "MURO PANTALLA 60 cm ESP. CUCH. HIDR. Y MÁS DE 15 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "muros-pantalla",
+        "muros-pantalla"
+      ],
+      "id": "wi-muro-pantalla-65-cm-esp-cuch-mec-y-6-m-prof-ha-25",
+      "m": 13,
+      "p": 265.49,
+      "s": "MURO PANTALLA 65 cm ESP. CUCH. MEC. Y 6 m PROF. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "muros-pantalla",
+        "muros-pantalla"
+      ],
+      "id": "wi-muro-pantalla-65-cm-esp-cuch-mec-y-6-m-prof-ha-30",
+      "m": 13,
+      "p": 269.83,
+      "s": "MURO PANTALLA 65 cm ESP. CUCH. MEC. Y 6 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "muros-pantalla",
+        "muros-pantalla"
+      ],
+      "id": "wi-muro-pantalla-65-cm-esp-cuch-mec-y-de-6-a-15-m-prof-ha-25",
+      "m": 13,
+      "p": 228.39,
+      "s": "MURO PANTALLA 65 cm ESP. CUCH. MEC. Y DE 6 A 15 m PROF. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "muros-pantalla",
+        "muros-pantalla"
+      ],
+      "id": "wi-muro-pantalla-65-cm-esp-cuch-mec-y-de-6-a-15-m-prof-ha-30",
+      "m": 13,
+      "p": 232.59,
+      "s": "MURO PANTALLA 65 cm ESP. CUCH. MEC. Y DE 6 A 15 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "muros-pantalla",
+        "muros-pantalla"
+      ],
+      "id": "wi-muro-pantalla-65-cm-esp-cuch-mec-y-mas-de-15-m-prof-ha-25",
+      "m": 13,
+      "p": 211.82,
+      "s": "MURO PANTALLA 65 cm ESP. CUCH. MEC. Y MÁS DE 15 m PROF. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "muros-pantalla",
+        "muros-pantalla"
+      ],
+      "id": "wi-muro-pantalla-65-cm-esp-cuch-mec-y-mas-de-15-m-prof-ha-30",
+      "m": 13,
+      "p": 215.96,
+      "s": "MURO PANTALLA 65 cm ESP. CUCH. MEC. Y MÁS DE 15 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "muros-pantalla",
+        "muros-pantalla"
+      ],
+      "id": "wi-muro-pantalla-70-cm-esp-cuch-mec-y-mas-de-15-m-prof-ha-30",
+      "m": 13,
+      "p": 221.84,
+      "s": "MURO PANTALLA 70 cm ESP. CUCH. MEC. Y MÁS DE 15 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "muros-pantalla",
+        "varios"
+      ],
+      "id": "wi-picado-paramentos-muros-pantalla",
+      "m": 2,
+      "p": 34.44,
+      "s": "PICADO PARAMENTOS MUROS PANTALLA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-barren-ha-25-f-20-xc2-diam-35-cm",
+      "m": 9,
+      "p": 63.7,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-25/F/20/XC2 DIÁM. 35 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-barren-ha-25-f-20-xc2-diam-45-cm",
+      "m": 9,
+      "p": 76.58,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-25/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-barren-ha-25-f-20-xc2-diam-55-cm",
+      "m": 9,
+      "p": 95.8,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-25/F/20/XC2 DIÁM. 55 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-barren-ha-25-f-20-xc2-diam-65-cm",
+      "m": 9,
+      "p": 116.55,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-25/F/20/XC2 DIÁM. 65 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-barren-ha-25-f-20-xc2-diam-75-cm",
+      "m": 9,
+      "p": 146.67,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-25/F/20/XC2 DIÁM. 75 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-barren-ha-25-f-20-xc2-diam-85-cm",
+      "m": 9,
+      "p": 173.86,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-25/F/20/XC2 DIÁM. 85 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-barren-ha-30-f-20-xc2-diam-35-cm",
+      "m": 9,
+      "p": 64.33,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-30/F/20/XC2 DIÁM. 35 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-barren-ha-30-f-20-xc2-diam-45-cm",
+      "m": 9,
+      "p": 77.61,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-30/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-barren-ha-30-f-20-xc2-diam-55-cm",
+      "m": 9,
+      "p": 97.31,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-30/F/20/XC2 DIÁM. 55 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-barren-ha-30-f-20-xc2-diam-65-cm",
+      "m": 9,
+      "p": 118.63,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-30/F/20/XC2 DIÁM. 65 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-barren-ha-30-f-20-xc2-diam-75-cm",
+      "m": 9,
+      "p": 149.3,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-30/F/20/XC2 DIÁM. 75 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-barren-ha-30-f-20-xc2-diam-85-cm",
+      "m": 9,
+      "p": 176.93,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-30/F/20/XC2 DIÁM. 85 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-ent-perd-ha-25-f-20-xc2-diam-45-cm",
+      "m": 11,
+      "p": 220.46,
+      "s": "PILOTE \"IN SITU\" ENT. PERD. HA-25/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-ent-perd-ha-30-f-20-xc2-diam-45-cm",
+      "m": 10,
+      "p": 215.21,
+      "s": "PILOTE \"IN SITU\" ENT. PERD HA-30/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-ent-rec-azuche-ha-25-f-20-xc2-diam-45-cm",
+      "m": 8,
+      "p": 167.55,
+      "s": "PILOTE \"IN SITU\" ENT. REC/AZUCHE HA-25/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-ent-rec-azuche-ha-30-f-20-xc2-diam-45-cm",
+      "m": 8,
+      "p": 168.37,
+      "s": "PILOTE \"IN SITU\" ENT. REC/AZUCHE HA-30/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-ent-rec-azuche-ha-30-f-20-xc2-diam-55-cm",
+      "m": 8,
+      "p": 205.01,
+      "s": "PILOTE \"IN SITU\" ENT. REC/AZUCHE HA-30/F/20/XC2 DIÁM. 55 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-ent-rec-azuche-ha-30-f-20-xc2-diam-65-cm",
+      "m": 8,
+      "p": 235.36,
+      "s": "PILOTE \"IN SITU\" ENT. REC/AZUCHE HA-30/F/20/XC2 DIÁM. 65 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-ent-rec-ha-25-f-20-xc2-diam-45-cm",
+      "m": 9,
+      "p": 189.47,
+      "s": "PILOTE \"IN SITU\" ENT. REC. HA-25/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-ent-rec-ha-30-f-20-xc2-diam-100-cm",
+      "m": 9,
+      "p": 425.03,
+      "s": "PILOTE \"IN SITU\" ENT. REC HA-30/F/20/XC2 DIÁM. 100 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-ent-rec-ha-30-f-20-xc2-diam-45-cm",
+      "m": 9,
+      "p": 190.29,
+      "s": "PILOTE \"IN SITU\" ENT. REC HA-30/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-ent-rec-ha-30-f-20-xc2-diam-55-cm",
+      "m": 9,
+      "p": 218.91,
+      "s": "PILOTE \"IN SITU\" ENT. REC HA-30/F/20/XC2 DIÁM. 55 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-ent-rec-ha-30-f-20-xc2-diam-65-cm",
+      "m": 9,
+      "p": 269.11,
+      "s": "PILOTE \"IN SITU\" ENT. REC HA-30/F/20/XC2 DIÁM. 65 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-ent-rec-ha-30-f-20-xc2-diam-80-cm",
+      "m": 9,
+      "p": 334.26,
+      "s": "PILOTE \"IN SITU\" ENT. REC HA-30/F/20/XC2 DIÁM. 80 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-ent-rec-tapon-gr-ha-25-f-20-xc2-diam-45-cm",
+      "m": 8,
+      "p": 148.9,
+      "s": "PILOTE \"IN SITU\" ENT. REC/TAPON GR. HA-25/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-ent-rec-tapon-gr-ha-30-f-20-xc2-diam-45-cm",
+      "m": 8,
+      "p": 149.94,
+      "s": "PILOTE \"IN SITU\" ENT. REC/TAPON GR HA-30/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-lodos-ha-25-f-20-xc2-diam-45-cm",
+      "m": 10,
+      "p": 148.3,
+      "s": "PILOTE \"IN SITU\" LODOS HA-25/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-lodos-ha-25-f-20-xc2-diam-55-cm",
+      "m": 10,
+      "p": 183.87,
+      "s": "PILOTE \"IN SITU\" LODOS HA-25/F/20/XC2 DIÁM. 55 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-lodos-ha-30-f-20-xc2-diam-45-cm",
+      "m": 10,
+      "p": 149.12,
+      "s": "PILOTE \"IN SITU\" LODOS HA-30/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-lodos-ha-30-f-20-xc2-diam-55-cm",
+      "m": 10,
+      "p": 185.08,
+      "s": "PILOTE \"IN SITU\" LODOS HA-30/F/20/XC2 DIÁM. 55 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-sin-ent-ha-25-f-20-xc2-diam-45-cm",
+      "m": 7,
+      "p": 67.84,
+      "s": "PILOTE \"IN SITU\" SIN ENT. HA-25/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-pilote-in-situ-sin-ent-ha-30-f-20-xc2-diam-45-cm",
+      "m": 8,
+      "p": 73.18,
+      "s": "PILOTE \"IN SITU\" SIN ENT. HA-30/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-02",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "prefabricados"
+      ],
+      "id": "wi-pilote-prefabric-prof-hasta-12-m-diam-30-cm",
+      "m": 6,
+      "p": 87.01,
+      "s": "PILOTE PREFABRIC. PROF. HASTA 12 m DIÁM. 30 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "prefabricados"
+      ],
+      "id": "wi-pilote-prefabric-prof-hasta-12-m-diam-35-cm",
+      "m": 6,
+      "p": 108.53,
+      "s": "PILOTE PREFABRIC. PROF. HASTA 12 m DIÁM. 35 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-02",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "prefabricados"
+      ],
+      "id": "wi-pilote-prefabric-prof-mayor-de-12-m-diam-30-cm",
+      "m": 6,
+      "p": 87.01,
+      "s": "PILOTE PREFABRIC. PROF. MAYOR DE 12 m DIÁM. 30 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "prefabricados"
+      ],
+      "id": "wi-pilote-prefabric-prof-mayor-de-12-m-diam-35-cm",
+      "m": 6,
+      "p": 108.53,
+      "s": "PILOTE PREFABRIC. PROF. MAYOR DE 12 m DIÁM. 35 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "prefabricados"
+      ],
+      "id": "wi-pilote-prefabricado-seccion-200x200-mm",
+      "m": 6,
+      "p": 133.82,
+      "s": "PILOTE PREFABRICADO SECCIÓN 200X200 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "prefabricados"
+      ],
+      "id": "wi-pilote-prefabricado-seccion-235x235-mm",
+      "m": 6,
+      "p": 142.01,
+      "s": "PILOTE PREFABRICADO SECCIÓN 235X235 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "prefabricados"
+      ],
+      "id": "wi-pilote-prefabricado-seccion-270x270-mm",
+      "m": 6,
+      "p": 150.98,
+      "s": "PILOTE PREFABRICADO SECCIÓN 270X270 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "prefabricados"
+      ],
+      "id": "wi-pilote-prefabricado-seccion-300x300-mm",
+      "m": 6,
+      "p": 170.73,
+      "s": "PILOTE PREFABRICADO SECCIÓN 300X300 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "prefabricados"
+      ],
+      "id": "wi-pilote-prefabricado-seccion-350x350-mm",
+      "m": 6,
+      "p": 194.44,
+      "s": "PILOTE PREFABRICADO SECCIÓN 350X350 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "prefabricados"
+      ],
+      "id": "wi-pilote-prefabricado-seccion-400x400-mm",
+      "m": 6,
+      "p": 178.61,
+      "s": "PILOTE PREFABRICADO SECCIÓN 400X400 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones-especiales",
+        "pilotes",
+        "varios"
+      ],
+      "id": "wi-demolicion-cabeza-pilote-hormigon-armado",
+      "m": 2,
+      "p": 168.26,
+      "s": "DEMOLICIÓN CABEZA PILOTE HORMIGÓN ARMADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "cimentaciones-especiales",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-anclaje-inyeccion-permanente-hasta-45-t",
+      "m": 11,
+      "p": 187.48,
+      "s": "ANCLAJE INYECCIÓN PERMANENTE HASTA 45 t",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "cimentaciones-especiales",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-arriostramiento-pantallas-entramado-met-hasta-200-kn",
+      "m": 3,
+      "p": 24,
+      "s": "ARRIOSTRAMIENTO PANTALLAS ENTRAMADO MET. HASTA 200 kN",
+      "u": "m2"
+    },
+    {
+      "d": "2017-07",
+      "g": [
+        "cimentaciones-especiales",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-enlace-forj-losa-a-muro-pantalla-c-resina-inyeccion",
+      "m": 5,
+      "p": 7.03,
+      "s": "ENLACE FORJ/LOSA A MURO PANTALLA C/RESINA INYECCIÓN",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "encofrados",
+        "perdidos",
+        "fabricas"
+      ],
+      "id": "wi-encofrado-perd-zunchos-zapatas-y-encep-tabicon-l-gafa",
+      "m": 4,
+      "p": 18.79,
+      "s": "ENCOFRADO PERD. ZUNCHOS, ZAPATAS Y ENCEP. TABICÓN L. GAFA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "encofrados",
+        "perdidos",
+        "fabricas"
+      ],
+      "id": "wi-encofrado-perd-zunchos-zapatas-y-encep-tabicon-l-h-d",
+      "m": 4,
+      "p": 23.48,
+      "s": "ENCOFRADO PERD. ZUNCHOS, ZAPATAS Y ENCEP. TABICÓN L. H.D",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "encofrados",
+        "perdidos",
+        "varios"
+      ],
+      "id": "wi-encofrado-perd-zunchos-zapatas-y-encep-c-tabla-madera",
+      "m": 4,
+      "p": 29.24,
+      "s": "ENCOFRADO PERD. ZUNCHOS ZAPATAS Y ENCEP. C/TABLA MADERA",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "encofrados",
+        "perdidos",
+        "varios"
+      ],
+      "id": "wi-protec-zunchos-zapatas-y-encep-c-plancha-poliester",
+      "m": 4,
+      "p": 9.91,
+      "s": "PROTEC. ZUNCHOS, ZAPATAS Y ENCEP. C/PLANCHA POLIÉSTER",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "encofrados",
+        "recuperables",
+        "madera"
+      ],
+      "id": "wi-encofrado-de-madera-en-zunchos-zapatas-y-encepados",
+      "m": 6,
+      "p": 20.01,
+      "s": "ENCOFRADO DE MADERA EN ZUNCHOS, ZAPATAS Y ENCEPADOS",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "encofrados",
+        "recuperables",
+        "madera"
+      ],
+      "id": "wi-encofrado-mad-aglom-trat-1-c-en-muro-de-contencion",
+      "m": 7,
+      "p": 44.64,
+      "s": "ENCOFRADO MAD. AGLOM. TRAT. 1 C. EN MURO DE CONTENCIÓN",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "encofrados",
+        "recuperables",
+        "madera"
+      ],
+      "id": "wi-encofrado-mad-aglom-trat-fenol-2-c-en-muro-de-contencion",
+      "m": 7,
+      "p": 52.04,
+      "s": "ENCOFRADO MAD. AGLOM. TRAT. FENOL. 2 C. EN MURO DE CONTENCIÓN",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "encofrados",
+        "recuperables",
+        "metalicos"
+      ],
+      "id": "wi-encofrado-metalico-1-c-en-muro-de-contencion",
+      "m": 7,
+      "p": 64.53,
+      "s": "ENCOFRADO METÁLICO 1 C. EN MURO DE CONTENCIÓN",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "encofrados",
+        "recuperables",
+        "metalicos"
+      ],
+      "id": "wi-encofrado-metalico-2-c-en-muro-de-contencion",
+      "m": 7,
+      "p": 87.29,
+      "s": "ENCOFRADO METÁLICO 2 C. EN MURO DE CONTENCIÓN",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "encofrados",
+        "recuperables",
+        "metalicos"
+      ],
+      "id": "wi-encofrado-metalico-en-zunchos-zapatas-y-encepados",
+      "m": 7,
+      "p": 18.13,
+      "s": "ENCOFRADO METÁLICO EN ZUNCHOS, ZAPATAS Y ENCEPADOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "arriostramientos"
+      ],
+      "id": "wi-horm-arm-ha-25-b-15-xc2-b400s-en-vigas-zuncho-v-bomba",
+      "m": 3,
+      "p": 181.13,
+      "s": "HORM. ARM. HA-25/B/15/XC2 B400S EN VIGAS/ZUNCHO V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "arriostramientos"
+      ],
+      "id": "wi-horm-arm-ha-25-b-20-xc2-b400s-en-vigas-zuncho-v-bomba",
+      "m": 3,
+      "p": 180.09,
+      "s": "HORM. ARM. HA-25/B/20/XC2 B400S EN VIGAS/ZUNCHO V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "arriostramientos"
+      ],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-b400s-en-vigas-zuncho-v-grua",
+      "m": 2,
+      "p": 165.38,
+      "s": "HORM. ARM. HA-25/P/20/XC2 B400S EN VIGAS/ZUNCHO V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "arriostramientos"
+      ],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-b400s-en-vigas-zunchos-cim-v-man",
+      "m": 2,
+      "p": 165.38,
+      "s": "HORM. ARM. HA-25/P/20/XC2 B400S EN VIGAS/ZUNCHOS CIM. V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "arriostramientos"
+      ],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-b400s-vigas-zunch-cim-v-m-enc-perd",
+      "m": 3,
+      "p": 223.86,
+      "s": "HORM. ARM. HA-25/P/20/XC2 B400S VIGAS/ZUNCH. CIM. V/M ENC. PERD.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "arriostramientos"
+      ],
+      "id": "wi-horm-arm-ha-25-p-40-xc2-b400s-en-vigas-zuncho-v-grua",
+      "m": 2,
+      "p": 165.38,
+      "s": "HORM. ARM. HA-25/P/40/XC2 B400S EN VIGAS/ZUNCHO V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "arriostramientos"
+      ],
+      "id": "wi-horm-arm-ha-25-p-40-xc2-b400s-en-vigas-zunchos-cim-v-man",
+      "m": 2,
+      "p": 165.38,
+      "s": "HORM. ARM. HA-25/P/40/XC2 B400S EN VIGAS/ZUNCHOS CIM. V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "arriostramientos"
+      ],
+      "id": "wi-horm-arm-ha-25-p-40-xc2-b400s-vigas-zunch-cim-v-m-enc-perd",
+      "m": 3,
+      "p": 223.86,
+      "s": "HORM. ARM. HA-25/P/40/XC2 B400S VIGAS/ZUNCH. CIM. V/M ENC. PERD.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "arriostramientos"
+      ],
+      "id": "wi-horm-arm-ha-30-b-15-xc2-b500s-en-vigas-zuncho-v-bomba",
+      "m": 3,
+      "p": 195.29,
+      "s": "HORM. ARM. HA-30/B/15/XC2 B500S EN VIGAS/ZUNCHO V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "arriostramientos"
+      ],
+      "id": "wi-horm-arm-ha-30-b-20-xc2-b500s-en-vigas-zuncho-v-bomba",
+      "m": 3,
+      "p": 191.94,
+      "s": "HORM. ARM. HA-30/B/20/XC2 B500S EN VIGAS/ZUNCHO V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "arriostramientos"
+      ],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-b500s-en-vigas-zunchos-cim-v-man",
+      "m": 2,
+      "p": 178.05,
+      "s": "HORM. ARM. HA-30/P/20/XC2 B500S EN VIGAS/ZUNCHOS CIM. V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "arriostramientos"
+      ],
+      "id": "wi-horm-arm-ha-30-p-40-xc2-b500s-en-vigas-zuncho-v-grua",
+      "m": 2,
+      "p": 177.23,
+      "s": "HORM. ARM. HA-30/P/40/XC2 B500S EN VIGAS/ZUNCHO V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "arriostramientos"
+      ],
+      "id": "wi-horm-arm-ha-30-p-40-xc2-b500s-en-vigas-zunchos-cim-v-man",
+      "m": 2,
+      "p": 177.23,
+      "s": "HORM. ARM. HA-30/P/40/XC2 B500S EN VIGAS/ZUNCHOS CIM. V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "arriostramientos"
+      ],
+      "id": "wi-horm-arm-ha-30-p-40-xc2-b500s-vigas-zunch-cim-v-m-enc-perd",
+      "m": 3,
+      "p": 235.71,
+      "s": "HORM. ARM. HA-30/P/40/XC2 B500S VIGAS/ZUNCH. CIM. V/M ENC. PERD.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "losas"
+      ],
+      "id": "wi-horm-arm-ha-25-b-15-xc2-b400s-en-losas-cim-v-bomba",
+      "m": 3,
+      "p": 195.76,
+      "s": "HORM. ARM. HA-25/B/15/XC2 B400S EN LOSAS CIM. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "losas"
+      ],
+      "id": "wi-horm-arm-ha-25-b-20-xc2-b400s-en-losas-cim-v-bomba",
+      "m": 3,
+      "p": 192.51,
+      "s": "HORM. ARM. HA-25/B/20/XC2 B400S EN LOSAS CIM. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "losas"
+      ],
+      "id": "wi-horm-arm-ha-25-p-40-xc2-b400s-en-losas-cim-v-grua",
+      "m": 2,
+      "p": 177.8,
+      "s": "HORM. ARM. HA-25/P/40/XC2 B400S EN LOSAS CIM. V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "losas"
+      ],
+      "id": "wi-horm-arm-ha-25-p-40-xc2-b400s-en-losas-cim-v-man",
+      "m": 2,
+      "p": 177.8,
+      "s": "HORM. ARM. HA-25/P/40/XC2 B400S EN LOSAS CIM. V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "losas"
+      ],
+      "id": "wi-horm-arm-ha-30-b-15-xc2-b500s-en-losas-cim-v-bomba",
+      "m": 3,
+      "p": 209.41,
+      "s": "HORM. ARM. HA-30/B/15/XC2 B500S EN LOSAS CIM. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "losas"
+      ],
+      "id": "wi-horm-arm-ha-30-b-20-xc2-b500s-en-losas-cim-v-bomba",
+      "m": 3,
+      "p": 206.06,
+      "s": "HORM. ARM. HA-30/B/20/XC2 B500S EN LOSAS CIM. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "losas"
+      ],
+      "id": "wi-horm-arm-ha-30-p-40-xc2-b500s-en-losas-cim-v-grua",
+      "m": 2,
+      "p": 191.35,
+      "s": "HORM. ARM. HA-30/P/40/XC2 B500S EN LOSAS CIM. V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "losas"
+      ],
+      "id": "wi-horm-arm-ha-30-p-40-xc2-b500s-en-losas-cim-v-man",
+      "m": 2,
+      "p": 191.35,
+      "s": "HORM. ARM. HA-30/P/40/XC2 B500S EN LOSAS CIM. V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "muros"
+      ],
+      "id": "wi-horm-arm-ha-25-b-15-xc2-b400s-en-muro-cont-i-enc-1c-v-bomba",
+      "m": 4,
+      "p": 400.81,
+      "s": "HORM. ARM. HA-25/B/15/XC2 B400S EN MURO CONT. I/ENC. 1C. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "muros"
+      ],
+      "id": "wi-horm-arm-ha-25-b-15-xc2-b400s-en-muro-cont-i-enc-2c-v-bomba",
+      "m": 4,
+      "p": 719.95,
+      "s": "HORM. ARM. HA-25/B/15/XC2 B400S EN MURO CONT. I/ENC. 2C. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "muros"
+      ],
+      "id": "wi-horm-arm-ha-25-b-20-xc2-b400s-en-muro-cont-i-enc-1c-v-bomba",
+      "m": 4,
+      "p": 397.56,
+      "s": "HORM. ARM. HA-25/B/20/XC2 B400S EN MURO CONT. I/ENC. 1C. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "muros"
+      ],
+      "id": "wi-horm-arm-ha-25-b-20-xc2-b400s-en-muro-cont-i-enc-2c-v-bomba",
+      "m": 4,
+      "p": 716.7,
+      "s": "HORM. ARM. HA-25/B/20/XC2 B400S EN MURO CONT. I/ENC. 2C. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "muros"
+      ],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-b400s-en-muro-cont-i-enc-1c-v-grua",
+      "m": 3,
+      "p": 382.85,
+      "s": "HORM. ARM. HA-25/P/20/XC2 B400S EN MURO CONT. I/ENC. 1C. V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "muros"
+      ],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-b400s-en-muro-cont-i-enc-1c-v-man",
+      "m": 3,
+      "p": 382.85,
+      "s": "HORM. ARM. HA-25/P/20/XC2 B400S EN MURO CONT. I/ENC. 1C. V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "muros"
+      ],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-b400s-en-muro-cont-i-enc-2c-v-grua",
+      "m": 3,
+      "p": 701.99,
+      "s": "HORM. ARM. HA-25/P/20/XC2 B400S EN MURO CONT. I/ENC. 2C. V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "muros"
+      ],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-b400s-en-muro-cont-i-enc-2c-v-man",
+      "m": 3,
+      "p": 701.99,
+      "s": "HORM. ARM. HA-25/P/20/XC2 B400S EN MURO CONT. I/ENC. 2C. V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "muros"
+      ],
+      "id": "wi-horm-arm-ha-30-b-15-xc2-b500s-en-muro-cont-i-enc-1c-v-bomba",
+      "m": 4,
+      "p": 416.16,
+      "s": "HORM. ARM. HA-30/B/15/XC2 B500S EN MURO CONT. I/ENC. 1C. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "muros"
+      ],
+      "id": "wi-horm-arm-ha-30-b-15-xc2-b500s-en-muro-cont-i-enc-2c-v-bomba",
+      "m": 4,
+      "p": 735.3,
+      "s": "HORM. ARM. HA-30/B/15/XC2 B500S EN MURO CONT. I/ENC. 2C. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "muros"
+      ],
+      "id": "wi-horm-arm-ha-30-b-20-xc2-b500s-en-muro-cont-i-enc-1c-v-bomba",
+      "m": 4,
+      "p": 412.81,
+      "s": "HORM. ARM. HA-30/B/20/XC2 B500S EN MURO CONT. I/ENC. 1C. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "muros"
+      ],
+      "id": "wi-horm-arm-ha-30-b-20-xc2-b500s-en-muro-cont-i-enc-2c-v-bomba",
+      "m": 4,
+      "p": 731.95,
+      "s": "HORM. ARM. HA-30/B/20/XC2 B500S EN MURO CONT. I/ENC. 2C. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "muros"
+      ],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-b500s-en-muro-cont-i-enc-1c-v-grua",
+      "m": 3,
+      "p": 398.92,
+      "s": "HORM. ARM. HA-30/P/20/XC2 B500S EN MURO CONT. I/ENC. 1C. V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "muros"
+      ],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-b500s-en-muro-cont-i-enc-1c-v-man",
+      "m": 3,
+      "p": 398.92,
+      "s": "HORM. ARM. HA-30/P/20/XC2 B500S EN MURO CONT. I/ENC. 1C. V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "muros"
+      ],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-b500s-en-muro-cont-i-enc-2c-v-grua",
+      "m": 3,
+      "p": 718.06,
+      "s": "HORM. ARM. HA-30/P/20/XC2 B500S EN MURO CONT. I/ENC. 2C. V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "muros"
+      ],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-b500s-en-muro-cont-i-enc-2c-v-man",
+      "m": 3,
+      "p": 718.06,
+      "s": "HORM. ARM. HA-30/P/20/XC2 B500S EN MURO CONT. I/ENC. 2C. V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "zapatas"
+      ],
+      "id": "wi-horm-arm-ha-25-b-15-xc2-b400s-en-zapatas-y-encepados-v-bomba",
+      "m": 3,
+      "p": 182.14,
+      "s": "HORM. ARM. HA-25/B/15/XC2 B400S EN ZAPATAS Y ENCEPADOS V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "zapatas"
+      ],
+      "id": "wi-horm-arm-ha-25-b-20-xc2-b400s-en-zapatas-y-encepados-v-bomba",
+      "m": 3,
+      "p": 178.89,
+      "s": "HORM. ARM. HA-25/B/20/XC2 B400S EN ZAPATAS Y ENCEPADOS V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "zapatas"
+      ],
+      "id": "wi-horm-arm-ha-25-p-40-xc2-b400s-en-zapatas-y-encepados-v-grua",
+      "m": 2,
+      "p": 164.18,
+      "s": "HORM. ARM. HA-25/P/40/XC2 B400S EN ZAPATAS Y ENCEPADOS V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "zapatas"
+      ],
+      "id": "wi-horm-arm-ha-25-p-40-xc2-b400s-en-zapatas-y-encepados-v-man",
+      "m": 2,
+      "p": 164.18,
+      "s": "HORM. ARM. HA-25/P/40/XC2 B400S EN ZAPATAS Y ENCEPADOS V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "zapatas"
+      ],
+      "id": "wi-horm-arm-ha-30-b-15-xc2-b500s-en-zapatas-y-encepados-v-bomba",
+      "m": 3,
+      "p": 194.09,
+      "s": "HORM. ARM. HA-30/B/15/XC2 B500S EN ZAPATAS Y ENCEPADOS V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "zapatas"
+      ],
+      "id": "wi-horm-arm-ha-30-b-20-xc2-b500s-en-zapatas-y-encepados-v-bomba",
+      "m": 3,
+      "p": 190.74,
+      "s": "HORM. ARM. HA-30/B/20/XC2 B500S EN ZAPATAS Y ENCEPADOS V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "zapatas"
+      ],
+      "id": "wi-horm-arm-ha-30-p-40-xc2-b500s-en-zapatas-y-encepados-v-grua",
+      "m": 2,
+      "p": 176.03,
+      "s": "HORM. ARM. HA-30/P/40/XC2 B500S EN ZAPATAS Y ENCEPADOS V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones",
+        "armados",
+        "zapatas"
+      ],
+      "id": "wi-horm-arm-ha-30-p-40-xc2-b500s-en-zapatas-y-encepados-v-man",
+      "m": 2,
+      "p": 176.03,
+      "s": "HORM. ARM. HA-30/P/40/XC2 B500S EN ZAPATAS Y ENCEPADOS V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "en-masa",
+        "en-masa"
+      ],
+      "id": "wi-hormigon-en-masa-hm-20-p-40-x0-en-cimientos",
+      "m": 3,
+      "p": 110.9,
+      "s": "HORMIGÓN EN MASA HM-20/P/40/X0 EN CIMIENTOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "en-masa",
+        "varios"
+      ],
+      "id": "wi-hormigon-ciclopeo-hm-20-p-40-x0-en-cimientos",
+      "m": 3,
+      "p": 95.73,
+      "s": "HORMIGÓN CICLOPEO HM-20/P/40/X0 EN CIMIENTOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "arriostramientos"
+      ],
+      "id": "wi-hormigon-ha-25-b-15-xc2-en-vigas-zunchos-de-ciment",
+      "m": 3,
+      "p": 112.42,
+      "s": "HORMIGÓN HA-25/B/15/XC2 EN VIGAS/ZUNCHOS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "arriostramientos"
+      ],
+      "id": "wi-hormigon-ha-25-b-20-xc2-en-vigas-zunchos-de-ciment",
+      "m": 3,
+      "p": 111.38,
+      "s": "HORMIGÓN HA-25/B/20/XC2 EN VIGAS/ZUNCHOS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "arriostramientos"
+      ],
+      "id": "wi-hormigon-ha-25-p-15-xc2-en-vigas-zunchos-de-ciment",
+      "m": 3,
+      "p": 112.26,
+      "s": "HORMIGÓN HA-25/P/15/XC2 EN VIGAS/ZUNCHOS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "arriostramientos"
+      ],
+      "id": "wi-hormigon-ha-25-p-20-xc2-en-vigas-zunchos-de-ciment",
+      "m": 3,
+      "p": 111.38,
+      "s": "HORMIGÓN HA-25/P/20/XC2 EN VIGAS/ZUNCHOS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "arriostramientos"
+      ],
+      "id": "wi-hormigon-ha-25-p-40-xc2-en-vigas-zunchos-de-ciment",
+      "m": 3,
+      "p": 111.38,
+      "s": "HORMIGÓN HA-25/P/40/XC2 EN VIGAS/ZUNCHOS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "arriostramientos"
+      ],
+      "id": "wi-hormigon-ha-30-b-15-xc2-en-vigas-zunchos-de-ciment",
+      "m": 3,
+      "p": 119.78,
+      "s": "HORMIGÓN HA-30/B/15/XC2 EN VIGAS/ZUNCHOS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "arriostramientos"
+      ],
+      "id": "wi-hormigon-ha-30-b-20-xc2-en-vigas-zunchos-de-ciment",
+      "m": 3,
+      "p": 116.43,
+      "s": "HORMIGÓN HA-30/B/20/XC2 EN VIGAS/ZUNCHOS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "arriostramientos"
+      ],
+      "id": "wi-hormigon-ha-30-p-20-xc2-en-vigas-zunchos-de-ciment",
+      "m": 3,
+      "p": 117.25,
+      "s": "HORMIGÓN HA-30/P/20/XC2 EN VIGAS/ZUNCHOS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "arriostramientos"
+      ],
+      "id": "wi-hormigon-ha-30-p-40-xc2-en-vigas-zunchos-de-ciment",
+      "m": 3,
+      "p": 116.43,
+      "s": "HORMIGÓN HA-30/P/40/XC2 EN VIGAS/ZUNCHOS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "losas"
+      ],
+      "id": "wi-hormigon-ha-25-b-15-xc2-en-losas-de-ciment",
+      "m": 4,
+      "p": 113.55,
+      "s": "HORMIGÓN HA-25/B/15/XC2 EN LOSAS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "losas"
+      ],
+      "id": "wi-hormigon-ha-25-b-20-xc2-en-losas-de-ciment",
+      "m": 4,
+      "p": 110.3,
+      "s": "HORMIGÓN HA-25/B/20/XC2 EN LOSAS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "losas"
+      ],
+      "id": "wi-hormigon-ha-25-b-40-xc2-en-losas-de-ciment",
+      "m": 4,
+      "p": 114.71,
+      "s": "HORMIGÓN HA-25/B/40/XC2 EN LOSAS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "losas"
+      ],
+      "id": "wi-hormigon-ha-25-p-20-xc2-en-losas-de-ciment",
+      "m": 4,
+      "p": 110.3,
+      "s": "HORMIGÓN HA-25/P/20/XC2 EN LOSAS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "losas"
+      ],
+      "id": "wi-hormigon-ha-25-p-40-xc2-en-losas-de-ciment",
+      "m": 4,
+      "p": 110.3,
+      "s": "HORMIGÓN HA-25/P/40/XC2 EN LOSAS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "losas"
+      ],
+      "id": "wi-hormigon-ha-30-b-15-xc2-en-losas-de-ciment",
+      "m": 4,
+      "p": 118.7,
+      "s": "HORMIGÓN HA-30/B/15/XC2 EN LOSAS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "losas"
+      ],
+      "id": "wi-hormigon-ha-30-b-20-xc2-en-losas-de-ciment",
+      "m": 4,
+      "p": 115.35,
+      "s": "HORMIGÓN HA-30/B/20/XC2 EN LOSAS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "losas"
+      ],
+      "id": "wi-hormigon-ha-30-b-40-xc2-en-losas-de-ciment",
+      "m": 4,
+      "p": 119.76,
+      "s": "HORMIGÓN HA-30/B/40/XC2 EN LOSAS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "losas"
+      ],
+      "id": "wi-hormigon-ha-30-p-20-xc2-en-losas-de-ciment",
+      "m": 4,
+      "p": 116.17,
+      "s": "HORMIGÓN HA-30/P/20/XC2 EN LOSAS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "losas"
+      ],
+      "id": "wi-hormigon-ha-30-p-40-xc2-en-losas-de-ciment",
+      "m": 4,
+      "p": 115.35,
+      "s": "HORMIGÓN HA-30/P/40/XC2 EN LOSAS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "muros"
+      ],
+      "id": "wi-hormigon-ha-25-b-15-xc2-en-muros-de-contencion",
+      "m": 4,
+      "p": 117.96,
+      "s": "HORMIGÓN HA-25/B/15/XC2 EN MUROS DE CONTENCIÓN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "muros"
+      ],
+      "id": "wi-hormigon-ha-25-b-20-xc2-en-muros-de-contencion",
+      "m": 4,
+      "p": 114.71,
+      "s": "HORMIGÓN HA-25/B/20/XC2 EN MUROS DE CONTENCIÓN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "muros"
+      ],
+      "id": "wi-hormigon-ha-25-p-20-xc2-en-muros-de-contencion",
+      "m": 4,
+      "p": 114.71,
+      "s": "HORMIGÓN HA-25/P/20/XC2 EN MUROS DE CONTENCIÓN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "muros"
+      ],
+      "id": "wi-hormigon-ha-25-p-40-xc2-en-muros-de-contencion",
+      "m": 4,
+      "p": 114.9,
+      "s": "HORMIGÓN HA-25/P/40/XC2 EN MUROS DE CONTENCIÓN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "muros"
+      ],
+      "id": "wi-hormigon-ha-30-b-15-xc2-en-muros-de-contencion",
+      "m": 4,
+      "p": 123.11,
+      "s": "HORMIGÓN HA-30/B/15/XC2 EN MUROS DE CONTENCIÓN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "muros"
+      ],
+      "id": "wi-hormigon-ha-30-b-20-xc2-en-muros-de-contencion",
+      "m": 4,
+      "p": 119.76,
+      "s": "HORMIGÓN HA-30/B/20/XC2 EN MUROS DE CONTENCIÓN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "muros"
+      ],
+      "id": "wi-hormigon-ha-30-p-20-xc2-en-muros-de-contencion",
+      "m": 4,
+      "p": 120.58,
+      "s": "HORMIGÓN HA-30/P/20/XC2 EN MUROS DE CONTENCIÓN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "muros"
+      ],
+      "id": "wi-hormigon-ha-30-p-40-xc2-en-muros-de-contencion",
+      "m": 4,
+      "p": 119.95,
+      "s": "HORMIGÓN HA-30/P/40/XC2 EN MUROS DE CONTENCIÓN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "zapatas"
+      ],
+      "id": "wi-hormigon-ha-25-b-15-xc2-en-zapatas-y-encepados",
+      "m": 4,
+      "p": 113.43,
+      "s": "HORMIGÓN HA-25/B/15/XC2 EN ZAPATAS Y ENCEPADOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "zapatas"
+      ],
+      "id": "wi-hormigon-ha-25-b-20-xc2-en-zapatas-y-encepados",
+      "m": 4,
+      "p": 110.18,
+      "s": "HORMIGÓN HA-25/B/20/XC2 EN ZAPATAS Y ENCEPADOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "zapatas"
+      ],
+      "id": "wi-hormigon-ha-25-p-40-xc2-en-zapatas-y-encepados",
+      "m": 4,
+      "p": 110.18,
+      "s": "HORMIGÓN HA-25/P/40/XC2 EN ZAPATAS Y ENCEPADOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "zapatas"
+      ],
+      "id": "wi-hormigon-ha-30-b-15-xc2-en-zapatas-y-encepados",
+      "m": 4,
+      "p": 118.58,
+      "s": "HORMIGÓN HA-30/B/15/XC2 EN ZAPATAS Y ENCEPADOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "zapatas"
+      ],
+      "id": "wi-hormigon-ha-30-b-20-xc2-en-zapatas-y-encepados",
+      "m": 4,
+      "p": 115.23,
+      "s": "HORMIGÓN HA-30/B/20/XC2 EN ZAPATAS Y ENCEPADOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones",
+        "para-armar",
+        "zapatas"
+      ],
+      "id": "wi-hormigon-ha-30-p-40-xc2-en-zapatas-y-encepados",
+      "m": 4,
+      "p": 115.23,
+      "s": "HORMIGÓN HA-30/P/40/XC2 EN ZAPATAS Y ENCEPADOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios",
+        "sub-bases",
+        "sub-bases"
+      ],
+      "id": "wi-capa-de-hormigon-de-limpieza-10-cm-esp-medio",
+      "m": 3,
+      "p": 13.04,
+      "s": "CAPA DE HORMIGÓN DE LIMPIEZA 10 cm ESP. MEDIO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios",
+        "sub-bases",
+        "sub-bases"
+      ],
+      "id": "wi-capa-de-hormigon-de-limpieza-10-cm-resist-sulfatos",
+      "m": 2,
+      "p": 2.78,
+      "s": "CAPA DE HORMIGÓN DE LIMPIEZA 10 cm RESIST. SULFATOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios",
+        "sub-bases",
+        "sub-bases"
+      ],
+      "id": "wi-relleno-de-grava-gruesa-limpia-en-elem-ciment",
+      "m": 4,
+      "p": 40.92,
+      "s": "RELLENO DE GRAVA GRUESA LIMPIA EN ELEM. CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios",
+        "sub-bases",
+        "sub-bases"
+      ],
+      "id": "wi-relleno-de-grava-gruesa-limpia-en-losas",
+      "m": 4,
+      "p": 35.62,
+      "s": "RELLENO DE GRAVA GRUESA LIMPIA EN LOSAS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios",
+        "sub-bases",
+        "sub-bases"
+      ],
+      "id": "wi-relleno-de-grava-gruesa-limpia-en-trasdosado",
+      "m": 2,
+      "p": 31.91,
+      "s": "RELLENO DE GRAVA GRUESA LIMPIA EN TRASDOSADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios",
+        "sub-bases",
+        "sub-bases"
+      ],
+      "id": "wi-sub-base-de-albero-en-rama",
+      "m": 4,
+      "p": 26.12,
+      "s": "SUB-BASE DE ALBERO EN RAMA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios",
+        "sub-bases",
+        "sub-bases"
+      ],
+      "id": "wi-sub-base-de-zahorra-natural",
+      "m": 4,
+      "p": 25.27,
+      "s": "SUB-BASE DE ZAHORRA NATURAL",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-lamina-de-polietileno-sobre-sub-bases-de-cimentacion",
+      "m": 2,
+      "p": 1.43,
+      "s": "LAMINA DE POLIETILENO SOBRE SUB-BASES DE CIMENTACIÓN",
+      "u": "m2"
+    }
+  ],
+  "title": "Precios Unitarios > CIMENTACIONES",
+  "version": "0.1.0"
+}

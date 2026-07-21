@@ -7,6 +7,8 @@ Atribución obligatoria al reutilizar: "Información obtenida del Portal de la J
 ## Datos
 
 - [index.json](./index.json): índice máquina de todos los chunks con conteos
+- [tree.json](./tree.json): árbol de navegación jerárquico completo (labels, slugs, conteos)
+- outlines/<chunk>.json: filas livianas por capítulo (id, resumen, unidad, precio, subgrupos) — para listados sin cargar el capítulo entero
 - [basicos.json](./basicos.json): los 6055 conceptos simples (materiales, mano de obra, maquinaria) — resuelve cualquier ref de BOM
 - [catalog.json](./catalog.json): catálogo completo en un archivo (~22 MB)
 

@@ -1,0 +1,6374 @@
+{
+  "key": "precios-unitarios--demoliciones-y-trabajos-previos",
+  "rows": [
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "arcos-y-bovedas-de-ladrillo",
+        "bovedas"
+      ],
+      "id": "wi-demolicion-de-boveda-a-la-catalana-incluso-carga-manual",
+      "m": 2,
+      "p": 15.89,
+      "s": "DEMOLICIÓN DE BÓVEDA A LA CATALANA, INCLUSO CARGA MANUAL",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "arcos-y-bovedas-de-ladrillo",
+        "bovedas"
+      ],
+      "id": "wi-demolicion-de-boveda-a-la-catalana-incluso-carga-mecanica",
+      "m": 3,
+      "p": 12.4,
+      "s": "DEMOLICIÓN DE BÓVEDA A LA CATALANA, INCLUSO CARGA MECÁNICA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "arcos-y-bovedas-de-ladrillo",
+        "bovedas"
+      ],
+      "id": "wi-demolicion-masiva-m-manuales-de-boveda-a-la-catalana",
+      "m": 1,
+      "p": 11.01,
+      "s": "DEMOLICIÓN MASIVA M. MANUALES DE BÓVEDA A LA CATALANA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "distribuciones-de-ladrillo",
+        "tabicones"
+      ],
+      "id": "wi-demolicion-de-particion-interior-de-tabicon-de-l-gafa-sencil",
+      "m": 3,
+      "p": 9.56,
+      "s": "DEMOLICIÓN DE PARTICIÓN INTERIOR DE TABICÓN DE L/GAFA SENCILLO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "distribuciones-de-ladrillo",
+        "tabicones"
+      ],
+      "id": "wi-demolicion-de-tabicon-de-lad-gafa-c-mecanica-t-vertedero",
+      "m": 2,
+      "p": 9.24,
+      "s": "DEMOLICIÓN DE TABICÓN DE LAD. GAFA, C. MECÁNICA, T. VERTEDERO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "distribuciones-de-ladrillo",
+        "tabicones"
+      ],
+      "id": "wi-demolicion-de-tabicon-de-ladrillo-c-manual-t-vert-contened",
+      "m": 3,
+      "p": 17.1,
+      "s": "DEMOLICIÓN DE TABICÓN DE LADRILLO, C. MANUAL, T. VERT. CONTENED.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "distribuciones-de-ladrillo",
+        "tabicones"
+      ],
+      "id": "wi-demolicion-de-tabicon-de-ladrillo-c-mecanica-t-vertedero",
+      "m": 3,
+      "p": 7.75,
+      "s": "DEMOLICIÓN DE TABICÓN DE LADRILLO, C. MECÁNICA T. VERTEDERO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "distribuciones-de-ladrillo",
+        "tabicones"
+      ],
+      "id": "wi-demolicion-de-tabicon-de-ladrillo-gafa-t-a-contenedor",
+      "m": 2,
+      "p": 15.87,
+      "s": "DEMOLICIÓN DE TABICÓN DE LADRILLO GAFA, T. A CONTENEDOR",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "distribuciones-de-ladrillo",
+        "tabicones"
+      ],
+      "id": "wi-demolicion-masiva-m-manuales-de-particion-interior-de-tabico",
+      "m": 1,
+      "p": 8.91,
+      "s": "DEMOLICIÓN MASIVA M. MANUALES DE PARTICIÓN INTERIOR DE TABICÓN",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "distribuciones-de-ladrillo",
+        "tabicones"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-tabicon-de-l-gafa",
+      "m": 1,
+      "p": 8.36,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE TABICÓN DE L/GAFA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "distribuciones-de-ladrillo",
+        "tabicones"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-tabicon-de-ladrillo",
+      "m": 1,
+      "p": 7.26,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE TABICÓN DE LADRILLO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "distribuciones-de-ladrillo",
+        "tabiques-sencillos"
+      ],
+      "id": "wi-demolicion-de-particion-interior-de-tabique-l-hueco-sencillo",
+      "m": 3,
+      "p": 95.67,
+      "s": "DEMOLICIÓN DE PARTICIÓN INTERIOR DE TABIQUE L/HUECO SENCILLO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "distribuciones-de-ladrillo",
+        "tabiques-sencillos"
+      ],
+      "id": "wi-demolicion-de-tabique-de-l-hueco-sencillo-c-manual-t-vert",
+      "m": 2,
+      "p": 60.13,
+      "s": "DEMOLICIÓN DE TABIQUE DE L/ HUECO SENCILLO, C. MANUAL, T. VERT.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "distribuciones-de-ladrillo",
+        "tabiques-sencillos"
+      ],
+      "id": "wi-demolicion-de-tabique-de-l-hueco-sencillo-c-mecanica-t-vert",
+      "m": 3,
+      "p": 95.67,
+      "s": "DEMOLICIÓN DE TABIQUE DE L/HUECO SENCILLO, C. MECÁNICA, T. VERT.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "distribuciones-de-ladrillo",
+        "tabiques-sencillos"
+      ],
+      "id": "wi-demolicion-masiva-m-manuales-de-particion-interior-de-tabiqu",
+      "m": 1,
+      "p": 7.48,
+      "s": "DEMOLICIÓN MASIVA M. MANUALES DE PARTICIÓN INTERIOR DE TABIQUE",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "distribuciones-de-ladrillo",
+        "tabiques-sencillos"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-tabique-de-l-hueco-sencil",
+      "m": 1,
+      "p": 5.94,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE TABIQUE DE L/HUECO SENCILLO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "huecos"
+      ],
+      "id": "wi-demolicion-de-citara-de-l-h-con-m-manuales",
+      "m": 2,
+      "p": 20.43,
+      "s": "DEMOLICIÓN DE CITARA DE L/H CON M. MANUALES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "huecos"
+      ],
+      "id": "wi-demolicion-de-citara-de-l-h-con-m-mecanicos",
+      "m": 3,
+      "p": 2.77,
+      "s": "DEMOLICIÓN DE CITARA DE L/H CON M. MECÁNICOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "huecos"
+      ],
+      "id": "wi-demolicion-de-citara-de-l-h-m-manuales-c-mecanica-t-vert",
+      "m": 3,
+      "p": 10.87,
+      "s": "DEMOLICIÓN DE CITARA DE L/H M. MANUALES, C. MECÁNICA, T. VERT.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "huecos"
+      ],
+      "id": "wi-demolicion-de-doble-tabique-a-la-capuchina",
+      "m": 2,
+      "p": 13.25,
+      "s": "DEMOLICIÓN DE DOBLE TABIQUE A LA CAPUCHINA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "huecos"
+      ],
+      "id": "wi-demolicion-de-muro-de-l-h-con-m-manuales",
+      "m": 2,
+      "p": 108.98,
+      "s": "DEMOLICIÓN DE MURO DE L/H CON M. MANUALES",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "huecos"
+      ],
+      "id": "wi-demolicion-de-muro-de-l-h-con-m-mecanicos",
+      "m": 3,
+      "p": 18.85,
+      "s": "DEMOLICIÓN DE MURO DE L/H CON M. MECÁNICOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "huecos"
+      ],
+      "id": "wi-demolicion-de-muro-de-l-h-m-manuales-c-manual-t-contenedor",
+      "m": 3,
+      "p": 130.2,
+      "s": "DEMOLICIÓN DE MURO DE L/H M. MANUALES, C. MANUAL, T. CONTENEDOR",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "huecos"
+      ],
+      "id": "wi-demolicion-de-muro-de-l-h-m-manuales-c-mecanica-t-vert",
+      "m": 3,
+      "p": 87.32,
+      "s": "DEMOLICIÓN DE MURO DE L/H M. MANUALES, C. MECÁNICA, T. VERT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "huecos"
+      ],
+      "id": "wi-demolicion-de-muro-de-l-h-m-manuales-t-contenedor",
+      "m": 2,
+      "p": 108.1,
+      "s": "DEMOLICIÓN DE MURO DE L/H M. MANUALES T. CONTENEDOR",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "huecos"
+      ],
+      "id": "wi-demolicion-de-particion-interior-de-citara-de-ladrillo-hueco",
+      "m": 3,
+      "p": 14.41,
+      "s": "DEMOLICIÓN DE PARTICIÓN INTERIOR DE CITARA DE LADRILLO HUECO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "huecos"
+      ],
+      "id": "wi-demolicion-masiva-m-manuales-de-particion-interior-citara-l",
+      "m": 1,
+      "p": 11.12,
+      "s": "DEMOLICIÓN MASIVA M. MANUALES DE PARTICIÓN INTERIOR CITARA L/H",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "huecos"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-citara-de-l-h",
+      "m": 1,
+      "p": 8.8,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE CITARA DE L/H",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "huecos"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-doble-tabique-a-la-capuch",
+      "m": 1,
+      "p": 9.79,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE DOBLE TABIQUE A LA CAPUCHINA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "huecos"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-muro-de-l-h",
+      "m": 1,
+      "p": 66.58,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE MURO DE L/H",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "huecos"
+      ],
+      "id": "wi-demolicion-selectiva-m-mecanicos-de-citara-de-l-h",
+      "m": 2,
+      "p": 1.91,
+      "s": "DEMOLICIÓN SELECTIVA M. MECÁNICOS DE CITARA DE L/H",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "huecos"
+      ],
+      "id": "wi-demolicion-selectiva-m-mecanicos-de-muro-de-l-h",
+      "m": 2,
+      "p": 11.62,
+      "s": "DEMOLICIÓN SELECTIVA M. MECÁNICOS DE MURO DE L/H",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "macizos"
+      ],
+      "id": "wi-demolicion-de-citara-de-l-m-con-medios-manuales",
+      "m": 2,
+      "p": 14.82,
+      "s": "DEMOLICIÓN DE CITARA DE L/M CON MEDIOS MANUALES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "macizos"
+      ],
+      "id": "wi-demolicion-de-citara-de-l-m-con-medios-mecanicos",
+      "m": 3,
+      "p": 3.31,
+      "s": "DEMOLICIÓN DE CITARA DE L/M CON MEDIOS MECÁNICOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "macizos"
+      ],
+      "id": "wi-demolicion-de-muro-de-l-m-con-medios-manuales",
+      "m": 2,
+      "p": 130.95,
+      "s": "DEMOLICIÓN DE MURO DE L/M CON MEDIOS MANUALES",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "macizos"
+      ],
+      "id": "wi-demolicion-de-muro-de-l-m-con-medios-mecanicos",
+      "m": 3,
+      "p": 20.03,
+      "s": "DEMOLICIÓN DE MURO DE L/M CON MEDIOS MECÁNICOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "macizos"
+      ],
+      "id": "wi-demolicion-de-muro-de-l-m-m-manuales-t-vertedero-contenedor",
+      "m": 3,
+      "p": 151.45,
+      "s": "DEMOLICIÓN DE MURO DE L/M M. MANUALES, T. VERTEDERO, CONTENEDOR",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "macizos"
+      ],
+      "id": "wi-demolicion-de-muro-de-l-m-medios-manuales-t-contenedor",
+      "m": 2,
+      "p": 130.99,
+      "s": "DEMOLICIÓN DE MURO DE L/M MEDIOS MANUALES T. CONTENEDOR",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "macizos"
+      ],
+      "id": "wi-demolicion-de-particion-interior-de-citara-de-ladrillo-maciz",
+      "m": 3,
+      "p": 13.42,
+      "s": "DEMOLICIÓN DE PARTICIÓN INTERIOR DE CITARA DE LADRILLO MACIZO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "macizos"
+      ],
+      "id": "wi-demolicion-masiva-m-manuales-de-particion-interior-citara-l-e7f9",
+      "m": 1,
+      "p": 12.33,
+      "s": "DEMOLICIÓN MASIVA M. MANUALES DE PARTICIÓN INTERIOR CITARA L/M",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "macizos"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-citara-de-l-m",
+      "m": 1,
+      "p": 9.86,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE CITARA DE L/M",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "macizos"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-muro-de-l-m",
+      "m": 1,
+      "p": 91.34,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE MURO DE L/M",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "macizos"
+      ],
+      "id": "wi-demolicion-selectiva-m-mecanicos-de-citara-de-l-m",
+      "m": 2,
+      "p": 2.45,
+      "s": "DEMOLICIÓN SELECTIVA M. MECÁNICOS DE CITARA DE L/M",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "paredes-de-ladrillo",
+        "macizos"
+      ],
+      "id": "wi-demolicion-selectiva-medios-mecanicos-de-muro-de-l-m",
+      "m": 2,
+      "p": 13.08,
+      "s": "DEMOLICIÓN SELECTIVA MEDIOS MECÁNICOS DE MURO DE L/M",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "varios",
+        "dinteles"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-dintel-doble-vigueta-horm",
+      "m": 1,
+      "p": 8.25,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE DINTEL DOBLE VIGUETA HORM.",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "varios",
+        "dinteles"
+      ],
+      "id": "wi-desmontado-de-dintel-de-doble-vigueta-de-hormigon",
+      "m": 2,
+      "p": 11.96,
+      "s": "DESMONTADO DE DINTEL DE DOBLE VIGUETA DE HORMIGÓN",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "varios",
+        "formaciones-de-pendientes"
+      ],
+      "id": "wi-demolicion-de-formacion-de-pendiente",
+      "m": 2,
+      "p": 17.36,
+      "s": "DEMOLICIÓN DE FORMACIÓN DE PENDIENTE",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "varios",
+        "formaciones-de-pendientes"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-formacion-de-pendiente",
+      "m": 1,
+      "p": 10.45,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE FORMACIÓN DE PENDIENTE",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "varios",
+        "peldanos"
+      ],
+      "id": "wi-demolicion-de-formacion-de-peldano-de-ladrillo-hueco",
+      "m": 2,
+      "p": 5.35,
+      "s": "DEMOLICIÓN DE FORMACIÓN DE PELDAÑO DE LADRILLO HUECO",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "varios",
+        "peldanos"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-formacion-de-peldano-l-h",
+      "m": 1,
+      "p": 3.04,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE FORMACIÓN DE PELDAÑO L/H",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-de-doble-tablero-de-ladrillo-hueco",
+      "m": 2,
+      "p": 10.71,
+      "s": "DEMOLICIÓN DE DOBLE TABLERO DE LADRILLO HUECO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-de-tablero-de-ladrillo-hueco",
+      "m": 2,
+      "p": 6.83,
+      "s": "DEMOLICIÓN DE TABLERO DE LADRILLO HUECO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-doble-tablero-de-ladrillo",
+      "m": 1,
+      "p": 6.05,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE DOBLE TABLERO DE LADRILLO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "albanileria",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-tablero-de-ladrillo-hueco",
+      "m": 1,
+      "p": 3.85,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE TABLERO DE LADRILLO HUECO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "acero",
+        "puertas"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-cancela-de-acero",
+      "m": 1,
+      "p": 13.21,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE CANCELA DE ACERO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "acero",
+        "puertas"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-puerta-de-acero",
+      "m": 1,
+      "p": 8.8,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE PUERTA DE ACERO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "acero",
+        "puertas"
+      ],
+      "id": "wi-desmontado-de-cancela-de-acero",
+      "m": 1,
+      "p": 13.21,
+      "s": "DESMONTADO DE CANCELA DE ACERO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "acero",
+        "puertas"
+      ],
+      "id": "wi-desmontado-de-puerta-de-acero",
+      "m": 1,
+      "p": 8.8,
+      "s": "DESMONTADO DE PUERTA DE ACERO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "acero",
+        "ventanas"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-ventana-de-acero",
+      "m": 1,
+      "p": 7.7,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE VENTANA DE ACERO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "acero",
+        "ventanas"
+      ],
+      "id": "wi-desmontado-de-hojas-de-ventana-no-carpinteria-completa",
+      "m": 1,
+      "p": 11.01,
+      "s": "DESMONTADO DE HOJAS DE VENTANA (No carpintería completa)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "acero",
+        "ventanas"
+      ],
+      "id": "wi-desmontado-de-ventana-de-acero",
+      "m": 1,
+      "p": 7.7,
+      "s": "DESMONTADO DE VENTANA DE ACERO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "aleaciones-ligeras",
+        "mamparas"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-de-mampara-con-perfiles-de-alum",
+      "m": 1,
+      "p": 4.84,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. DE MAMPARA CON PERFILES DE ALUM.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "aleaciones-ligeras",
+        "mamparas"
+      ],
+      "id": "wi-desmontado-de-mampara-con-perfiles-de-aluminio",
+      "m": 1,
+      "p": 4.84,
+      "s": "DESMONTADO DE MAMPARA CON PERFILES DE ALUMINIO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "aleaciones-ligeras",
+        "puertas"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-puerta-con-perfiles-de-al",
+      "m": 1,
+      "p": 4.84,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE PUERTA CON PERFILES DE ALUM.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "aleaciones-ligeras",
+        "puertas"
+      ],
+      "id": "wi-desmontado-de-puerta-con-perfiles-de-aluminio",
+      "m": 1,
+      "p": 4.84,
+      "s": "DESMONTADO DE PUERTA CON PERFILES DE ALUMINIO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "aleaciones-ligeras",
+        "ventanas"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-de-ventana-con-perfiles-de-alum",
+      "m": 1,
+      "p": 6.6,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. DE VENTANA CON PERFILES DE ALUM.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "aleaciones-ligeras",
+        "ventanas"
+      ],
+      "id": "wi-desmontado-de-ventana-con-perfiles-de-aluminio",
+      "m": 1,
+      "p": 6.6,
+      "s": "DESMONTADO DE VENTANA CON PERFILES DE ALUMINIO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "madera",
+        "armarios"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-armario-de-madera",
+      "m": 1,
+      "p": 4.4,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE ARMARIO DE MADERA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "madera",
+        "armarios"
+      ],
+      "id": "wi-desmontado-de-armario-de-madera-con-precerco",
+      "m": 1,
+      "p": 4.4,
+      "s": "DESMONTADO DE ARMARIO DE MADERA CON PRECERCO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "madera",
+        "puertas"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-puerta-de-madera",
+      "m": 1,
+      "p": 4.4,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE PUERTA DE MADERA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "madera",
+        "puertas"
+      ],
+      "id": "wi-desmontado-de-puerta-de-madera-con-precerco",
+      "m": 1,
+      "p": 4.4,
+      "s": "DESMONTADO DE PUERTA DE MADERA CON PRECERCO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "madera",
+        "ventanas"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-ventana-de-madera",
+      "m": 1,
+      "p": 6.6,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE VENTANA DE MADERA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "madera",
+        "ventanas"
+      ],
+      "id": "wi-desmontado-de-ventana-de-madera",
+      "m": 1,
+      "p": 6.6,
+      "s": "DESMONTADO DE VENTANA DE MADERA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "seguridad-y-proteccion",
+        "barandillas"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-barandilla-metalica",
+      "m": 2,
+      "p": 5.96,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE BARANDILLA METALICA",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "seguridad-y-proteccion",
+        "barandillas"
+      ],
+      "id": "wi-desmontado-de-barandilla-metalica",
+      "m": 2,
+      "p": 5.96,
+      "s": "DESMONTADO DE BARANDILLA METÁLICA",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "seguridad-y-proteccion",
+        "celosias"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-celosia-de-lamas-metalica",
+      "m": 2,
+      "p": 4.83,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE CELOSÍA DE LAMAS METÁLICAS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "seguridad-y-proteccion",
+        "celosias"
+      ],
+      "id": "wi-desmontado-de-celosia-de-lamas-metalicas",
+      "m": 2,
+      "p": 5.49,
+      "s": "DESMONTADO DE CELOSÍA DE LAMAS METÁLICAS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "seguridad-y-proteccion",
+        "persianas"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-de-caja-enrollamiento-de-persiana",
+      "m": 1,
+      "p": 4.4,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. DE CAJA ENROLLAMIENTO DE PERSIANA",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "seguridad-y-proteccion",
+        "persianas"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-cierre-enrollable",
+      "m": 1,
+      "p": 4.4,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE CIERRE ENROLLABLE",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "seguridad-y-proteccion",
+        "persianas"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-persiana-enrollable-de-pv",
+      "m": 1,
+      "p": 1.1,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE PERSIANA ENROLLABLE DE PVC",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "seguridad-y-proteccion",
+        "persianas"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-persianas-de-celosia-corr",
+      "m": 1,
+      "p": 4.4,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE PERSIANAS DE CELOSÍA CORRED.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "seguridad-y-proteccion",
+        "persianas"
+      ],
+      "id": "wi-desmontado-de-caja-de-enrollamiento-de-persiana",
+      "m": 1,
+      "p": 4.4,
+      "s": "DESMONTADO DE CAJA DE ENROLLAMIENTO DE PERSIANA",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "seguridad-y-proteccion",
+        "persianas"
+      ],
+      "id": "wi-desmontado-de-cierre-enrollable",
+      "m": 1,
+      "p": 4.4,
+      "s": "DESMONTADO DE CIERRE ENROLLABLE",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "seguridad-y-proteccion",
+        "persianas"
+      ],
+      "id": "wi-desmontado-de-persianas-de-celosia-corredera",
+      "m": 1,
+      "p": 4.4,
+      "s": "DESMONTADO DE PERSIANAS DE CELOSÍA CORREDERA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "seguridad-y-proteccion",
+        "persianas"
+      ],
+      "id": "wi-desmontado-de-persianas-enrollable-de-pvc",
+      "m": 1,
+      "p": 1.1,
+      "s": "DESMONTADO DE PERSIANAS ENROLLABLE DE PVC",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "seguridad-y-proteccion",
+        "rejas"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-cierre-extensible",
+      "m": 1,
+      "p": 7.7,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE CIERRE EXTENSIBLE",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "seguridad-y-proteccion",
+        "rejas"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-reja-metalica",
+      "m": 1,
+      "p": 7.7,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE REJA METÁLICA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "seguridad-y-proteccion",
+        "rejas"
+      ],
+      "id": "wi-desmontado-de-cierre-extensible",
+      "m": 1,
+      "p": 7.7,
+      "s": "DESMONTADO DE CIERRE EXTENSIBLE",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "seguridad-y-proteccion",
+        "rejas"
+      ],
+      "id": "wi-desmontado-de-reja-metalica",
+      "m": 1,
+      "p": 7.7,
+      "s": "DESMONTADO DE REJA METÁLICA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "seguridad-y-proteccion",
+        "varios"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-pasamanos-de-madera",
+      "m": 1,
+      "p": 1.1,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE PASAMANOS DE MADERA",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-seguridad-y-proteccion",
+        "seguridad-y-proteccion",
+        "varios"
+      ],
+      "id": "wi-desmontado-de-pasamanos-de-madera",
+      "m": 1,
+      "p": 1.1,
+      "s": "DESMONTADO DE PASAMANOS DE MADERA",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-armado",
+        "hormigon-armado"
+      ],
+      "id": "wi-cajeado-de-5-cm-con-m-mecanicos-de-losas-de-hormigon-armado",
+      "m": 3,
+      "p": 19.89,
+      "s": "CAJEADO DE 5 cm, CON M. MECÁNICOS DE LOSAS DE HORMIGÓN ARMADO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-armado",
+        "hormigon-armado"
+      ],
+      "id": "wi-demolicion-con-m-manuales-hormigon-armado-carga-mecanica",
+      "m": 3,
+      "p": 225.25,
+      "s": "DEMOLICIÓN CON M. MANUALES HORMIGÓN ARMADO, CARGA MECÁNICA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-armado",
+        "hormigon-armado"
+      ],
+      "id": "wi-demolicion-con-medios-manuales-de-hormigon-armado-carga-manu",
+      "m": 2,
+      "p": 251.48,
+      "s": "DEMOLICIÓN CON MEDIOS MANUALES DE HORMIGÓN ARMADO, CARGA MANUAL",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-armado",
+        "hormigon-armado"
+      ],
+      "id": "wi-demolicion-con-medios-mecanicos-hormigon-armado-carga-mecani",
+      "m": 4,
+      "p": 144.35,
+      "s": "DEMOLICIÓN CON MEDIOS MECÁNICOS HORMIGÓN ARMADO, CARGA MECÁNICA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-armado",
+        "hormigon-armado"
+      ],
+      "id": "wi-demolicion-masiva-m-mecanicos-de-horm-arm-exc-tierras-c-m",
+      "m": 3,
+      "p": 117.18,
+      "s": "DEMOLICIÓN MASIVA M. MECÁNICOS DE HORM. ARM. EXC. TIERRAS C/M",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-armado",
+        "hormigon-armado"
+      ],
+      "id": "wi-demolicion-masiva-m-mecanicos-de-losas-de-hormigon-armado",
+      "m": 2,
+      "p": 161.21,
+      "s": "DEMOLICIÓN MASIVA M. MECÁNICOS DE LOSAS DE HORMIGÓN ARMADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-armado",
+        "hormigon-armado"
+      ],
+      "id": "wi-demolicion-masiva-m-mecanicos-de-vigas-zunchos-horm-arm",
+      "m": 3,
+      "p": 198.85,
+      "s": "DEMOLICIÓN MASIVA M. MECÁNICOS DE VIGAS/ZUNCHOS HORM. ARM.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-armado",
+        "hormigon-armado"
+      ],
+      "id": "wi-demolicion-masiva-m-mecanicos-de-zapatas-encep-horm-arm",
+      "m": 3,
+      "p": 192.09,
+      "s": "DEMOLICIÓN MASIVA M. MECÁNICOS DE ZAPATAS/ENCEP. HORM. ARM.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-armado",
+        "hormigon-armado"
+      ],
+      "id": "wi-demolicion-masiva-m-mecanicos-hormigon-armado",
+      "m": 3,
+      "p": 115.31,
+      "s": "DEMOLICIÓN MASIVA M. MECÁNICOS HORMIGÓN ARMADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-armado",
+        "hormigon-armado"
+      ],
+      "id": "wi-demolicion-masiva-m-mecanicos-para-cajeado-de-5-cm-losas-h-a",
+      "m": 2,
+      "p": 17.59,
+      "s": "DEMOLICIÓN MASIVA M. MECÁNICOS PARA CAJEADO DE 5 cm LOSAS H.A.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-armado",
+        "hormigon-armado"
+      ],
+      "id": "wi-demolicion-masiva-m-mecanicos-para-rebaje-de-10-cm-losas-h-a",
+      "m": 3,
+      "p": 31.7,
+      "s": "DEMOLICIÓN MASIVA M. MECÁNICOS PARA REBAJE DE 10 cm LOSAS H.A.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-armado",
+        "hormigon-armado"
+      ],
+      "id": "wi-demolicion-parcial-con-m-mecanicos-de-losas-de-hormigon-arma",
+      "m": 3,
+      "p": 209.1,
+      "s": "DEMOLICIÓN PARCIAL CON M. MECÁNICOS DE LOSAS DE HORMIGÓN ARMADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-armado",
+        "hormigon-armado"
+      ],
+      "id": "wi-demolicion-parcial-con-m-mecanicos-de-vigas-zunchos-horm-arm",
+      "m": 4,
+      "p": 243.98,
+      "s": "DEMOLICIÓN PARCIAL CON M. MECÁNICOS DE VIGAS/ZUNCHOS HORM. ARM.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-armado",
+        "hormigon-armado"
+      ],
+      "id": "wi-demolicion-parcial-con-m-mecanicos-de-zapatas-encep-horm-arm",
+      "m": 4,
+      "p": 237.23,
+      "s": "DEMOLICIÓN PARCIAL CON M. MECÁNICOS DE ZAPATAS/ENCEP. HORM. ARM.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-armado",
+        "hormigon-armado"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-hormigon-armado",
+      "m": 1,
+      "p": 206.34,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE HORMIGÓN ARMADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-armado",
+        "hormigon-armado"
+      ],
+      "id": "wi-rebaje-de-10-cm-con-m-mecanicos-de-losas-de-hormigon-armado",
+      "m": 4,
+      "p": 36.3,
+      "s": "REBAJE DE 10 cm, CON M. MECÁNICOS DE LOSAS DE HORMIGÓN ARMADO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-en-masa",
+        "hormigon-en-masa"
+      ],
+      "id": "wi-cajeado-de-5-cm-con-m-mecanicos-de-losas-de-hormigon-en-masa",
+      "m": 3,
+      "p": 17.17,
+      "s": "CAJEADO DE 5 cm, CON M. MECÁNICOS DE LOSAS DE HORMIGÓN EN MASA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-en-masa",
+        "hormigon-en-masa"
+      ],
+      "id": "wi-demolicion-con-m-manuales-de-hormigon-en-masa-carga-manual",
+      "m": 2,
+      "p": 207.46,
+      "s": "DEMOLICIÓN CON M. MANUALES DE HORMIGÓN EN MASA CARGA MANUAL",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-en-masa",
+        "hormigon-en-masa"
+      ],
+      "id": "wi-demolicion-con-m-manuales-de-hormigon-en-masa-carga-mecanica",
+      "m": 3,
+      "p": 181.23,
+      "s": "DEMOLICIÓN CON M. MANUALES DE HORMIGÓN EN MASA CARGA MECÁNICA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-en-masa",
+        "hormigon-en-masa"
+      ],
+      "id": "wi-demolicion-parcial-con-m-mecanicos-de-macizos-de-horm-en-mas",
+      "m": 4,
+      "p": 177.1,
+      "s": "DEMOLICIÓN PARCIAL CON M. MECÁNICOS DE MACIZOS DE HORM. EN MASA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-en-masa",
+        "hormigon-en-masa"
+      ],
+      "id": "wi-demolicion-parcial-con-m-mecanicos-losas-de-hormigon-en-masa",
+      "m": 3,
+      "p": 175.68,
+      "s": "DEMOLICIÓN PARCIAL CON M. MECÁNICOS LOSAS DE HORMIGÓN EN MASA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-en-masa",
+        "hormigon-en-masa"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-hormigon-en-masa",
+      "m": 1,
+      "p": 162.32,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE HORMIGÓN EN MASA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-en-masa",
+        "hormigon-en-masa"
+      ],
+      "id": "wi-demolicion-selectiva-m-mec-para-cajeado-de-5-cm-losas-h-m",
+      "m": 2,
+      "p": 14.87,
+      "s": "DEMOLICIÓN SELECTIVA M. MEC. PARA CAJEADO DE 5 cm LOSAS H.M.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-en-masa",
+        "hormigon-en-masa"
+      ],
+      "id": "wi-demolicion-selectiva-m-mec-para-rebaje-de-10-cm-losas-h-m",
+      "m": 2,
+      "p": 22.14,
+      "s": "DEMOLICIÓN SELECTIVA M. MEC. PARA REBAJE DE 10 cm LOSAS H.M.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-en-masa",
+        "hormigon-en-masa"
+      ],
+      "id": "wi-demolicion-selectiva-m-mecanicos-de-hormigon-en-masa",
+      "m": 3,
+      "p": 78.51,
+      "s": "DEMOLICIÓN SELECTIVA M. MECÁNICOS DE HORMIGÓN EN MASA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-en-masa",
+        "hormigon-en-masa"
+      ],
+      "id": "wi-demolicion-selectiva-m-mecanicos-de-macizos-de-horm-en-masa",
+      "m": 3,
+      "p": 131.97,
+      "s": "DEMOLICIÓN SELECTIVA M. MECÁNICOS DE MACIZOS DE HORM. EN MASA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-en-masa",
+        "hormigon-en-masa"
+      ],
+      "id": "wi-demolicion-selectiva-m-mecanicos-horm-en-masa-exc-tierras-c",
+      "m": 3,
+      "p": 85.33,
+      "s": "DEMOLICIÓN SELECTIVA M. MECÁNICOS HORM. EN MASA EXC.TIERRAS C/M",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-en-masa",
+        "hormigon-en-masa"
+      ],
+      "id": "wi-demolicion-selectiva-m-mecanicos-losas-de-hormigon-en-masa",
+      "m": 2,
+      "p": 130.54,
+      "s": "DEMOLICIÓN SELECTIVA M. MECÁNICOS LOSAS DE HORMIGÓN EN MASA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "hormigon-en-masa",
+        "hormigon-en-masa"
+      ],
+      "id": "wi-rebaje-de-10-cm-con-m-mecanicos-de-losas-de-hormigon-en-masa",
+      "m": 3,
+      "p": 26.74,
+      "s": "REBAJE DE 10 cm, CON M. MECÁNICOS DE LOSAS DE HORMIGÓN EN MASA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-con-m-mecanicos-fabr-ladrillo-exc-tierra-c-med",
+      "m": 4,
+      "p": 106.92,
+      "s": "DEMOLICIÓN CON M. MECÁNICOS FABR. LADRILLO EXC. TIERRA C. MED.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-masiva-m-mec-de-fabr-ladrillo-exc-y-rell-tierras",
+      "m": 3,
+      "p": 89.04,
+      "s": "DEMOLICIÓN MASIVA M. MEC. DE FABR. LADRILLO EXC. Y RELL. TIERRAS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-masiva-m-mecanicos-de-pantallas-de-hormigon-armad",
+      "m": 2,
+      "p": 163.96,
+      "s": "DEMOLICIÓN MASIVA M. MECÁNICOS DE PANTALLAS DE HORMIGÓN ARMADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-masiva-m-mecanicos-de-pilotes-de-hormigon-armado",
+      "m": 2,
+      "p": 142.58,
+      "s": "DEMOLICIÓN MASIVA M. MECÁNICOS DE PILOTES DE HORMIGÓN ARMADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "cimentaciones",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-masiva-m-mecanicos-por-bataches-de-ciment-de-h-m",
+      "m": 5,
+      "p": 286.53,
+      "s": "DEMOLICIÓN MASIVA M. MECÁNICOS POR BATACHES DE CIMENT. DE H.M.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-parcial-con-m-mecanicos-de-cimientos-de-mamposter",
+      "m": 3,
+      "p": 195.73,
+      "s": "DEMOLICIÓN PARCIAL CON M. MECÁNICOS DE CIMIENTOS DE MAMPOSTERÍA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-parcial-con-m-mecanicos-de-cimientos-fabr-ladrill",
+      "m": 3,
+      "p": 168.99,
+      "s": "DEMOLICIÓN PARCIAL CON M. MECÁNICOS DE CIMIENTOS FABR. LADRILLO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-parcial-con-m-mecanicos-de-pantallas-de-horm-arma",
+      "m": 3,
+      "p": 209.1,
+      "s": "DEMOLICIÓN PARCIAL CON M. MECÁNICOS DE PANTALLAS DE HORM. ARMADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-parcial-con-m-mecanicos-de-pilotes-de-horm-armado",
+      "m": 3,
+      "p": 187.71,
+      "s": "DEMOLICIÓN PARCIAL CON M. MECÁNICOS DE PILOTES DE HORM. ARMADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "cimentaciones",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-por-bataches-de-cimentacion-de-hormigon-en-masa",
+      "m": 7,
+      "p": 296.71,
+      "s": "DEMOLICIÓN POR BATACHES DE CIMENTACIÓN DE HORMIGÓN EN MASA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-selectiva-m-mecanicos-de-cimientos-de-fabr-de-lad",
+      "m": 2,
+      "p": 123.86,
+      "s": "DEMOLICIÓN SELECTIVA M. MECÁNICOS DE CIMIENTOS DE FABR. DE LAD.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-selectiva-m-mecanicos-de-cimientos-de-mamposteria",
+      "m": 2,
+      "p": 150.6,
+      "s": "DEMOLICIÓN SELECTIVA M. MECÁNICOS DE CIMIENTOS DE MAMPOSTERÍA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentaciones",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-selectiva-m-mecanicos-de-fabrica-de-ladrillo-maci",
+      "m": 2,
+      "p": 82.59,
+      "s": "DEMOLICIÓN SELECTIVA M. MECÁNICOS DE FABRICA DE LADRILLO MACIZO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "ajardinadas"
+      ],
+      "id": "wi-demolicion-azotea-ajardinada-carga-manual",
+      "m": 2,
+      "p": 26.63,
+      "s": "DEMOLICIÓN AZOTEA AJARDINADA, CARGA MANUAL",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "ajardinadas"
+      ],
+      "id": "wi-demolicion-azotea-ajardinada-carga-mecanica",
+      "m": 3,
+      "p": 18.45,
+      "s": "DEMOLICIÓN AZOTEA AJARDINADA, CARGA MECÁNICA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "ajardinadas"
+      ],
+      "id": "wi-demolicion-masiva-m-manuales-de-azotea-ajardinada",
+      "m": 1,
+      "p": 15.63,
+      "s": "DEMOLICIÓN MASIVA M. MANUALES DE AZOTEA AJARDINADA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "no-transitables"
+      ],
+      "id": "wi-demolicion-azotea-no-transitable-sobre-horm-alig-carga-manua",
+      "m": 2,
+      "p": 14.51,
+      "s": "DEMOLICIÓN AZOTEA NO TRANSITABLE SOBRE HORM. ALIG., CARGA MANUAL",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "no-transitables"
+      ],
+      "id": "wi-demolicion-azotea-no-transitable-sobre-horm-alig-carga-mec",
+      "m": 2,
+      "p": 10.77,
+      "s": "DEMOLICIÓN AZOTEA NO TRANSITABLE SOBRE HORM. ALIG., CARGA MEC.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "no-transitables"
+      ],
+      "id": "wi-demolicion-azotea-no-transitable-sobre-tableros-carga-manual",
+      "m": 2,
+      "p": 14.51,
+      "s": "DEMOLICIÓN AZOTEA NO TRANSITABLE SOBRE TABLEROS, CARGA MANUAL",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "no-transitables"
+      ],
+      "id": "wi-demolicion-azotea-no-transitable-sobre-tableros-carga-mecani",
+      "m": 3,
+      "p": 10.64,
+      "s": "DEMOLICIÓN AZOTEA NO TRANSITABLE SOBRE TABLEROS, CARGA MECÁNICA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "no-transitables"
+      ],
+      "id": "wi-demolicion-masiva-m-man-de-azotea-no-transitable-s-horm-alig",
+      "m": 1,
+      "p": 14.46,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DE AZOTEA NO TRANSITABLE S/HORM. ALIG.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "no-transitables"
+      ],
+      "id": "wi-demolicion-masiva-m-man-de-azotea-no-transitable-s-tab-conej",
+      "m": 1,
+      "p": 14.24,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DE AZOTEA NO TRANSITABLE S/TAB. CONEJ.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "transitables"
+      ],
+      "id": "wi-demolicion-azotea-tradicional-con-carbonilla-carga-manual",
+      "m": 2,
+      "p": 22.8,
+      "s": "DEMOLICIÓN AZOTEA TRADICIONAL CÓN CARBONILLA, CARGA MANUAL",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "transitables"
+      ],
+      "id": "wi-demolicion-azotea-tradicional-con-carbonilla-carga-mecanica",
+      "m": 3,
+      "p": 17.56,
+      "s": "DEMOLICIÓN AZOTEA TRADICIONAL CÓN CARBONILLA, CARGA MECÁNICA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "transitables"
+      ],
+      "id": "wi-demolicion-azotea-transitable-sobre-horm-alig-carga-manual",
+      "m": 2,
+      "p": 18.93,
+      "s": "DEMOLICIÓN AZOTEA TRANSITABLE SOBRE HORM. ALIG., CARGA MANUAL",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "transitables"
+      ],
+      "id": "wi-demolicion-azotea-transitable-sobre-horm-alig-carga-mecanica",
+      "m": 3,
+      "p": 14.92,
+      "s": "DEMOLICIÓN AZOTEA TRANSITABLE SOBRE HORM. ALIG., CARGA MECÁNICA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "transitables"
+      ],
+      "id": "wi-demolicion-azotea-transitable-sobre-tableros-carga-manual",
+      "m": 2,
+      "p": 20.85,
+      "s": "DEMOLICIÓN AZOTEA TRANSITABLE SOBRE TABLEROS, CARGA MANUAL",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "transitables"
+      ],
+      "id": "wi-demolicion-azotea-transitable-sobre-tableros-carga-mecanica",
+      "m": 3,
+      "p": 15.78,
+      "s": "DEMOLICIÓN AZOTEA TRANSITABLE SOBRE TABLEROS, CARGA MECÁNICA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "transitables"
+      ],
+      "id": "wi-demolicion-masiva-m-man-de-azotea-tradicional-con-carbonilla",
+      "m": 1,
+      "p": 16,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DE AZOTEA TRADICIONAL CÓN CARBONILLA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "transitables"
+      ],
+      "id": "wi-demolicion-masiva-m-man-de-azotea-transitable-s-horm-alig",
+      "m": 1,
+      "p": 13.69,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DE AZOTEA TRANSITABLE S/HORM. ALIG.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "transitables"
+      ],
+      "id": "wi-demolicion-masiva-m-man-de-azotea-transitable-s-tab-conej",
+      "m": 1,
+      "p": 14.11,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DE AZOTEA TRANSITABLE S/TAB. CONEJ.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "transitables"
+      ],
+      "id": "wi-demolicion-masiva-m-manuales-de-azotea-soleria-general",
+      "m": 1,
+      "p": 6.32,
+      "s": "DEMOLICIÓN MASIVA M. MANUALES DE AZOTEA SOLERÍA GENERAL",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "transitables"
+      ],
+      "id": "wi-demolicion-masiva-m-manuales-de-azotea-soleria-perdida",
+      "m": 1,
+      "p": 11.23,
+      "s": "DEMOLICIÓN MASIVA M. MANUALES DE AZOTEA SOLERÍA PERDIDA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "transitables"
+      ],
+      "id": "wi-levantado-azotea-soleria-general-carga-manual",
+      "m": 2,
+      "p": 8.28,
+      "s": "LEVANTADO AZOTEA SOLERÍA GENERAL, CARGA MANUAL",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "transitables"
+      ],
+      "id": "wi-levantado-azotea-soleria-general-carga-mecanica",
+      "m": 3,
+      "p": 6.8,
+      "s": "LEVANTADO AZOTEA SOLERÍA GENERAL, CARGA MECÁNICA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "transitables"
+      ],
+      "id": "wi-levantado-azotea-soleria-perdida-y-soleria-general-carga-man",
+      "m": 2,
+      "p": 21.53,
+      "s": "LEVANTADO AZOTEA SOLERÍA PERDIDA Y SOLERÍA GENERAL, CARGA MANUAL",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "horizontales",
+        "transitables"
+      ],
+      "id": "wi-levantado-azotea-soleria-perdida-y-soleria-general-carga-mec",
+      "m": 3,
+      "p": 12.17,
+      "s": "LEVANTADO AZOTEA SOLERÍA PERDIDA Y SOLERÍA GENERAL, CARGA MEC.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "aleaciones-ligeras"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-cubierta-chapa-conf-aluminio",
+      "m": 1,
+      "p": 3.96,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. CUBIERTA CHAPA CONF. ALUMINIO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "aleaciones-ligeras"
+      ],
+      "id": "wi-desmontado-cubierta-de-chapa-conf-aluminio-anodizado",
+      "m": 2,
+      "p": 4.59,
+      "s": "DESMONTADO CUBIERTA DE CHAPA CONF. ALUMINIO ANODIZADO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-02",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "fibrocemento"
+      ],
+      "id": "wi-demol-cubierta-fibrocemento-amianto-4m",
+      "m": 3,
+      "p": 53.39,
+      "s": "DEMOL. CUBIERTA FIBROCEMENTO/AMIANTO <4m",
+      "u": "m2"
+    },
+    {
+      "d": "2022-02",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "fibrocemento"
+      ],
+      "id": "wi-demol-cubierta-fibrocemento-amianto-4m-7145",
+      "m": 4,
+      "p": 61.95,
+      "s": "DEMOL. CUBIERTA FIBROCEMENTO/AMIANTO >4m",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "fibrocemento"
+      ],
+      "id": "wi-demolicion-cubierta-de-chapa-ond-de-fibrocemento",
+      "m": 2,
+      "p": 2.62,
+      "s": "DEMOLICIÓN CUBIERTA DE CHAPA OND. DE FIBROCEMENTO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "fibrocemento"
+      ],
+      "id": "wi-desmontaje-de-cobertura-de-placas-de-fibrocemento",
+      "m": 4,
+      "p": 16.21,
+      "s": "DESMONTAJE DE COBERTURA DE PLACAS DE FIBROCEMENTO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "galvanizadas"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-de-cubierta-chapa-conf-ac-galv",
+      "m": 1,
+      "p": 3.96,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. DE CUBIERTA CHAPA CONF. AC. GALV.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "galvanizadas"
+      ],
+      "id": "wi-desmontado-cubierta-de-chapa-conf-acero-galvanizado",
+      "m": 2,
+      "p": 4.59,
+      "s": "DESMONTADO CUBIERTA DE CHAPA CONF. ACERO GALVANIZADO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "pizarra"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-cubierta-de-pizarra-reutiliz-40",
+      "m": 3,
+      "p": 11.73,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. CUBIERTA DE PIZARRA REUTILIZ. 40%",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "pizarra"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-cubierta-de-pizarra-reutiliz-70",
+      "m": 2,
+      "p": 13.24,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. CUBIERTA DE PIZARRA REUTILIZ. 70%",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "pizarra"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-cubierta-de-pizarra",
+      "m": 1,
+      "p": 8.03,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE CUBIERTA DE PIZARRA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "pizarra"
+      ],
+      "id": "wi-desmontado-cubierta-de-pizarra",
+      "m": 2,
+      "p": 10.82,
+      "s": "DESMONTADO CUBIERTA DE PIZARRA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "pizarra"
+      ],
+      "id": "wi-desmontado-cubierta-de-pizarra-aprov-hasta-un-40-carga-manua",
+      "m": 3,
+      "p": 12.83,
+      "s": "DESMONTADO CUBIERTA DE PIZARRA, APROV. HASTA UN 40% CARGA MANUAL",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "pizarra"
+      ],
+      "id": "wi-desmontado-cubierta-de-pizarra-aprov-hasta-un-40-carga-mec",
+      "m": 4,
+      "p": 11.38,
+      "s": "DESMONTADO CUBIERTA DE PIZARRA, APROV. HASTA UN 40% CARGA MEC.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "pizarra"
+      ],
+      "id": "wi-desmontado-cubierta-de-pizarra-aprov-hasta-un-70-carga-manua",
+      "m": 3,
+      "p": 14.13,
+      "s": "DESMONTADO CUBIERTA DE PIZARRA, APROV. HASTA UN 70% CARGA MANUAL",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "pizarra"
+      ],
+      "id": "wi-desmontado-cubierta-de-pizarra-aprov-hasta-un-70-carga-mec",
+      "m": 4,
+      "p": 13.43,
+      "s": "DESMONTADO CUBIERTA DE PIZARRA, APROV. HASTA UN 70% CARGA MEC.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "pizarra"
+      ],
+      "id": "wi-desmontado-cubierta-de-pizarra-carga-mecanica",
+      "m": 3,
+      "p": 8.74,
+      "s": "DESMONTADO CUBIERTA DE PIZARRA, CARGA MECÁNICA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "sinteticas"
+      ],
+      "id": "wi-demolicion-masiva-m-man-cubierta-de-chapa-ondulada-mat-sint",
+      "m": 1,
+      "p": 3.85,
+      "s": "DEMOLICIÓN MASIVA M. MAN. CUBIERTA DE CHAPA ONDULADA MAT. SINT.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "sinteticas"
+      ],
+      "id": "wi-desmontado-cubierta-de-chapa-ondulada-mat-sinteticos",
+      "m": 2,
+      "p": 4.59,
+      "s": "DESMONTADO CUBIERTA DE CHAPA ONDULADA MAT. SINTÉTICOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "tejas"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-cub-teja-curva-cer-reutiliz-40",
+      "m": 2,
+      "p": 14.24,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. CUB. TEJA CURVA CER. REUTILIZ. 40%",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "tejas"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-cub-teja-curva-cer-teja-tablazon",
+      "m": 2,
+      "p": 17.63,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. CUB. TEJA CURVA CER.TEJA/TABLAZON",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "tejas"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-cub-teja-plana-cer-reutiliz-40",
+      "m": 2,
+      "p": 13.69,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. CUB. TEJA PLANA CER. REUTILIZ. 40%",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "tejas"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-cub-teja-plana-cer-reutiliz-70",
+      "m": 2,
+      "p": 15.95,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. CUB. TEJA PLANA CER. REUTILIZ. 70%",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "tejas"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-cubierta-teja-curva-reutiliz-70",
+      "m": 2,
+      "p": 14.16,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. CUBIERTA TEJA CURVA REUTILIZ. 70%",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "tejas"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-cubierta-de-teja-curva",
+      "m": 1,
+      "p": 9.29,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES CUBIERTA DE TEJA CURVA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "tejas"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-cubierta-de-teja-plana",
+      "m": 1,
+      "p": 8.47,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES CUBIERTA DE TEJA PLANA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "tejas"
+      ],
+      "id": "wi-desmontado-cubierta-de-teja-curva",
+      "m": 2,
+      "p": 11.37,
+      "s": "DESMONTADO CUBIERTA DE TEJA CURVA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "tejas"
+      ],
+      "id": "wi-desmontado-cubierta-de-teja-curva-ceramica-carga-mecanica",
+      "m": 3,
+      "p": 9.29,
+      "s": "DESMONTADO CUBIERTA DE TEJA CURVA CERÁMICA, CARGA MECÁNICA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "tejas"
+      ],
+      "id": "wi-desmontado-cubierta-de-teja-curva-con-recuperacion",
+      "m": 3,
+      "p": 17.29,
+      "s": "DESMONTADO CUBIERTA DE TEJA CURVA CÓN RECUPERACIÓN",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "tejas"
+      ],
+      "id": "wi-desmontado-cubierta-de-teja-plana",
+      "m": 2,
+      "p": 10.49,
+      "s": "DESMONTADO CUBIERTA DE TEJA PLANA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "tejas"
+      ],
+      "id": "wi-desmontado-cubierta-teja-curva-cer-aprov-hasta-40-carga-man",
+      "m": 3,
+      "p": 16.47,
+      "s": "DESMONTADO CUBIERTA TEJA CURVA CER., APROV. HASTA 40% CARGA MAN.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "tejas"
+      ],
+      "id": "wi-desmontado-cubierta-teja-curva-cer-aprov-hasta-70-carga-mec",
+      "m": 4,
+      "p": 15.23,
+      "s": "DESMONTADO CUBIERTA TEJA CURVA CER., APROV. HASTA 70% CARGA MEC.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "tejas"
+      ],
+      "id": "wi-desmontado-cubierta-teja-curva-cer-y-tablazon-aprov-hasta-70",
+      "m": 3,
+      "p": 19,
+      "s": "DESMONTADO CUBIERTA TEJA CURVA CER. Y TABLAZÓN APROV. HASTA 70%",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "tejas"
+      ],
+      "id": "wi-desmontado-cubierta-teja-plana-cer-aprov-hasta-40-carga-man",
+      "m": 3,
+      "p": 15.92,
+      "s": "DESMONTADO CUBIERTA TEJA PLANA CER., APROV. HASTA 40% CARGA MAN.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "tejas"
+      ],
+      "id": "wi-desmontado-cubierta-teja-plana-cer-aprov-hasta-70-carga-man",
+      "m": 3,
+      "p": 16.74,
+      "s": "DESMONTADO CUBIERTA TEJA PLANA CER., APROV. HASTA 70% CARGA MAN.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "tejas"
+      ],
+      "id": "wi-desmontado-cubierta-teja-plana-cer-aprov-hasta-70-carga-mec",
+      "m": 4,
+      "p": 14.68,
+      "s": "DESMONTADO CUBIERTA TEJA PLANA CER., APROV. HASTA 70% CARGA MEC.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "tejas"
+      ],
+      "id": "wi-desmontado-cubierta-teja-plana-mortero-de-cemento-carga-mec",
+      "m": 3,
+      "p": 8.52,
+      "s": "DESMONTADO CUBIERTA TEJA PLANA MORTERO DE CEMENTO, CARGA MEC.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "varios"
+      ],
+      "id": "wi-demolicion-masiva-m-manuales-de-canalon",
+      "m": 1,
+      "p": 3.3,
+      "s": "DEMOLICIÓN MASIVA M. MANUALES DE CANALÓN",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "inclinadas",
+        "varios"
+      ],
+      "id": "wi-desmontado-de-canalon",
+      "m": 2,
+      "p": 4.01,
+      "s": "DESMONTADO DE CANALÓN",
+      "u": "m"
+    },
+    {
+      "d": "2022-02",
+      "g": [
+        "cubiertas",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-chimeneas-en-cubierta-fibrocemento-amianto",
+      "m": 3,
+      "p": 38.97,
+      "s": "DEMOLICIÓN CHIMENEAS EN CUBIERTA FIBROCEMENTO/AMIANTO",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-de-claraboya-de-mat-sintetico",
+      "m": 1,
+      "p": 3.3,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. DE CLARABOYA DE MAT. SINTÉTICO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cubiertas",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-de-lucernario-de-horm-translucido",
+      "m": 2,
+      "p": 5.68,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. DE LUCERNARIO DE HORM. TRANSLÚCIDO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "edificaciones",
+        "a-brazo",
+        "a-brazo"
+      ],
+      "id": "wi-demolicion-edificio-exento-estruc-metalica-m-manuales",
+      "m": 6,
+      "p": 15.96,
+      "s": "DEMOLICIÓN EDIFICIO EXENTO, ESTRUC. METÁLICA, M. MANUALES",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "edificaciones",
+        "a-brazo",
+        "a-brazo"
+      ],
+      "id": "wi-demolicion-edificio-exento-muros-de-fabrica-m-manuales",
+      "m": 4,
+      "p": 14.94,
+      "s": "DEMOLICIÓN EDIFICIO EXENTO, MUROS DE FÁBRICA, M. MANUALES",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "edificaciones",
+        "a-brazo",
+        "a-brazo"
+      ],
+      "id": "wi-demolicion-edificio-medianeras-estruc-metalica-m-manuales",
+      "m": 6,
+      "p": 16.92,
+      "s": "DEMOLICIÓN EDIFICIO MEDIANERAS, ESTRUC. METÁLICA, M. MANUALES",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "edificaciones",
+        "a-brazo",
+        "a-brazo"
+      ],
+      "id": "wi-demolicion-edificio-medianeras-muros-de-fabrica-m-manuales",
+      "m": 4,
+      "p": 15.98,
+      "s": "DEMOLICIÓN EDIFICIO MEDIANERAS, MUROS DE FÁBRICA, M. MANUALES",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "edificaciones",
+        "a-brazo",
+        "a-brazo"
+      ],
+      "id": "wi-demolicion-masiva-m-man-de-nave-exenta-muros-fabr-cub-mad",
+      "m": 2,
+      "p": 5.3,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DE NAVE EXENTA MUROS FÁBR. CUB. MAD.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "edificaciones",
+        "a-brazo",
+        "a-brazo"
+      ],
+      "id": "wi-demolicion-masiva-m-man-de-nave-exenta-muros-fabr-cub-met",
+      "m": 4,
+      "p": 5.53,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DE NAVE EXENTA MUROS FÁBR. CUB. MET.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "edificaciones",
+        "a-brazo",
+        "a-brazo"
+      ],
+      "id": "wi-demolicion-masiva-m-manuales-de-edificio-exento-estr-met",
+      "m": 4,
+      "p": 15.17,
+      "s": "DEMOLICIÓN MASIVA M. MANUALES DE EDIFICIO EXENTO ESTR. MET.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "edificaciones",
+        "a-brazo",
+        "a-brazo"
+      ],
+      "id": "wi-demolicion-masiva-m-manuales-de-edificio-exento-muros-fabr",
+      "m": 2,
+      "p": 14.16,
+      "s": "DEMOLICIÓN MASIVA M. MANUALES DE EDIFICIO EXENTO MUROS FÁBR.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "edificaciones",
+        "a-brazo",
+        "a-brazo"
+      ],
+      "id": "wi-demolicion-masiva-m-manuales-de-edificio-medianero-estr-met",
+      "m": 4,
+      "p": 16.05,
+      "s": "DEMOLICIÓN MASIVA M. MANUALES DE EDIFICIO MEDIANERO ESTR. MET.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "edificaciones",
+        "a-brazo",
+        "a-brazo"
+      ],
+      "id": "wi-demolicion-masiva-m-manuales-de-edificio-medianero-muros-fab",
+      "m": 2,
+      "p": 15.05,
+      "s": "DEMOLICIÓN MASIVA M. MANUALES DE EDIFICIO MEDIANERO MUROS FÁBR.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "edificaciones",
+        "a-brazo",
+        "a-brazo"
+      ],
+      "id": "wi-demolicion-masiva-m-manuales-de-nave-exenta-estr-metalica",
+      "m": 4,
+      "p": 4.46,
+      "s": "DEMOLICIÓN MASIVA M. MANUALES DE NAVE EXENTA ESTR. METÁLICA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "edificaciones",
+        "a-brazo",
+        "a-brazo"
+      ],
+      "id": "wi-demolicion-nave-exenta-estructura-metalica-m-manuales",
+      "m": 6,
+      "p": 4.98,
+      "s": "DEMOLICIÓN NAVE EXENTA, ESTRUCTURA METÁLICA, M. MANUALES",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "edificaciones",
+        "a-brazo",
+        "a-brazo"
+      ],
+      "id": "wi-demolicion-nave-exenta-muro-de-fabrica-cub-madera-m-man",
+      "m": 4,
+      "p": 5.97,
+      "s": "DEMOLICIÓN NAVE EXENTA, MURO DE FÁBRICA, CUB. MADERA, M. MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "edificaciones",
+        "a-brazo",
+        "a-brazo"
+      ],
+      "id": "wi-demolicion-nave-exenta-muro-de-fabrica-cub-metalica-m-man",
+      "m": 6,
+      "p": 6.2,
+      "s": "DEMOLICIÓN NAVE EXENTA, MURO DE FÁBRICA, CUB. METÁLICA, M. MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "edificaciones",
+        "mecanicos",
+        "mecanicos"
+      ],
+      "id": "wi-demolicion-edificio-exento-estruc-hormigon-m-mecanicos",
+      "m": 5,
+      "p": 10.85,
+      "s": "DEMOLICIÓN EDIFICIO EXENTO, ESTRUC. HORMIGÓN, M. MECÁNICOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "edificaciones",
+        "mecanicos",
+        "mecanicos"
+      ],
+      "id": "wi-demolicion-edificio-exento-estruc-metalica-m-mecanicos",
+      "m": 7,
+      "p": 9.53,
+      "s": "DEMOLICIÓN EDIFICIO EXENTO, ESTRUC. METÁLICA, M. MECÁNICOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "edificaciones",
+        "mecanicos",
+        "mecanicos"
+      ],
+      "id": "wi-demolicion-edificio-exento-muros-de-fabrica-m-mecanicos",
+      "m": 5,
+      "p": 8.88,
+      "s": "DEMOLICIÓN EDIFICIO EXENTO, MUROS DE FÁBRICA, M. MECÁNICOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "edificaciones",
+        "mecanicos",
+        "mecanicos"
+      ],
+      "id": "wi-demolicion-edificio-medianeras-estruc-hormigon-m-mecanicos",
+      "m": 6,
+      "p": 12.07,
+      "s": "DEMOLICIÓN EDIFICIO MEDIANERAS, ESTRUC. HORMIGÓN, M. MECÁNICOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "edificaciones",
+        "mecanicos",
+        "mecanicos"
+      ],
+      "id": "wi-demolicion-edificio-medianeras-estruc-metalica-m-mecanicos",
+      "m": 7,
+      "p": 10.83,
+      "s": "DEMOLICIÓN EDIFICIO MEDIANERAS, ESTRUC. METÁLICA, M. MECÁNICOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "edificaciones",
+        "mecanicos",
+        "mecanicos"
+      ],
+      "id": "wi-demolicion-edificio-medianeras-muros-de-fabrica-m-mecanicos",
+      "m": 6,
+      "p": 8.54,
+      "s": "DEMOLICIÓN EDIFICIO MEDIANERAS, MUROS DE FÁBRICA, M. MECÁNICOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "edificaciones",
+        "mecanicos",
+        "mecanicos"
+      ],
+      "id": "wi-demolicion-masiva-m-mec-de-edificio-exento-estructura-horm",
+      "m": 3,
+      "p": 10.28,
+      "s": "DEMOLICIÓN MASIVA M. MEC. DE EDIFICIO EXENTO ESTRUCTURA HORM.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "edificaciones",
+        "mecanicos",
+        "mecanicos"
+      ],
+      "id": "wi-demolicion-masiva-m-mec-de-edificio-exento-estructura-met",
+      "m": 5,
+      "p": 8.74,
+      "s": "DEMOLICIÓN MASIVA M. MEC. DE EDIFICIO EXENTO ESTRUCTURA MET.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "edificaciones",
+        "mecanicos",
+        "mecanicos"
+      ],
+      "id": "wi-demolicion-masiva-m-mec-de-edificio-exento-muros-de-fabrica",
+      "m": 3,
+      "p": 8.06,
+      "s": "DEMOLICIÓN MASIVA M. MEC. DE EDIFICIO EXENTO MUROS DE FABRICA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "edificaciones",
+        "mecanicos",
+        "mecanicos"
+      ],
+      "id": "wi-demolicion-masiva-m-mec-de-edificio-medianero-estructura-hor",
+      "m": 4,
+      "p": 11.32,
+      "s": "DEMOLICIÓN MASIVA M. MEC. DE EDIFICIO MEDIANERO ESTRUCTURA HORM.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "edificaciones",
+        "mecanicos",
+        "mecanicos"
+      ],
+      "id": "wi-demolicion-masiva-m-mec-de-edificio-medianero-estructura-met",
+      "m": 5,
+      "p": 9.84,
+      "s": "DEMOLICIÓN MASIVA M. MEC. DE EDIFICIO MEDIANERO ESTRUCTURA MET.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "edificaciones",
+        "mecanicos",
+        "mecanicos"
+      ],
+      "id": "wi-demolicion-masiva-m-mec-de-edificio-medianero-muros-de-fabri",
+      "m": 4,
+      "p": 7.46,
+      "s": "DEMOLICIÓN MASIVA M. MEC. DE EDIFICIO MEDIANERO MUROS DE FÁBRICA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "edificaciones",
+        "mecanicos",
+        "mecanicos"
+      ],
+      "id": "wi-demolicion-masiva-m-mec-de-nave-exenta-estructura-metalica",
+      "m": 4,
+      "p": 1.61,
+      "s": "DEMOLICIÓN MASIVA M. MEC. DE NAVE EXENTA ESTRUCTURA METÁLICA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "edificaciones",
+        "mecanicos",
+        "mecanicos"
+      ],
+      "id": "wi-demolicion-masiva-m-mec-de-nave-exenta-muros-fabr-cub-mad",
+      "m": 2,
+      "p": 1.26,
+      "s": "DEMOLICIÓN MASIVA M. MEC. DE NAVE EXENTA MUROS FÁBR. CUB. MAD.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "edificaciones",
+        "mecanicos",
+        "mecanicos"
+      ],
+      "id": "wi-demolicion-masiva-m-mec-de-nave-exenta-muros-fabr-cub-met",
+      "m": 4,
+      "p": 1.52,
+      "s": "DEMOLICIÓN MASIVA M. MEC. DE NAVE EXENTA MUROS FÁBR. CUB. MET.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "edificaciones",
+        "mecanicos",
+        "mecanicos"
+      ],
+      "id": "wi-demolicion-nave-exenta-estructura-metalica-m-mecanicos",
+      "m": 6,
+      "p": 2.24,
+      "s": "DEMOLICIÓN NAVE EXENTA, ESTRUCTURA METÁLICA, M. MECÁNICOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "edificaciones",
+        "mecanicos",
+        "mecanicos"
+      ],
+      "id": "wi-demolicion-nave-exenta-muro-de-fabrica-cub-madera-m-mec",
+      "m": 4,
+      "p": 2.08,
+      "s": "DEMOLICIÓN NAVE EXENTA, MURO DE FÁBRICA, CUB. MADERA, M. MEC.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "edificaciones",
+        "mecanicos",
+        "mecanicos"
+      ],
+      "id": "wi-demolicion-nave-exenta-muro-de-fabrica-cub-metalica-m-mec",
+      "m": 6,
+      "p": 2.34,
+      "s": "DEMOLICIÓN NAVE EXENTA, MURO DE FABRICA, CUB. METÁLICA, M. MEC.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "estructuras",
+        "acero",
+        "laminados-en-caliente"
+      ],
+      "id": "wi-demolicion-masiva-m-mecanicos-de-estruc-met-con-forj-horm",
+      "m": 4,
+      "p": 30.68,
+      "s": "DEMOLICIÓN MASIVA M. MECANICOS DE ESTRUC. MET. CON FORJ. HORM.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "estructuras",
+        "acero",
+        "laminados-en-caliente"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-de-estruc-met-ac-lam-caliente",
+      "m": 3,
+      "p": 0.47,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. DE ESTRUC. MET. AC. LAM. CALIENTE",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "estructuras",
+        "acero",
+        "laminados-en-caliente"
+      ],
+      "id": "wi-demolicion-selectiva-m-mecanicos-de-estruc-met-con-forj-met",
+      "m": 4,
+      "p": 23.9,
+      "s": "DEMOLICIÓN SELECTIVA M. MECANICOS DE ESTRUC. MET. CON FORJ. MET.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "estructuras",
+        "acero",
+        "laminados-en-caliente"
+      ],
+      "id": "wi-desmontado-estruc-metalica-ac-laminado-en-caliente",
+      "m": 4,
+      "p": 0.51,
+      "s": "DESMONTADO ESTRUC. METÁLICA AC. LAMINADO EN CALIENTE",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "estructuras",
+        "acero",
+        "laminados-en-caliente"
+      ],
+      "id": "wi-desmontado-estruc-metalica-con-forjados-hormigon",
+      "m": 6,
+      "p": 32.03,
+      "s": "DESMONTADO ESTRUC. METÁLICA CON FORJADOS HORMIGÓN",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "estructuras",
+        "acero",
+        "laminados-en-caliente"
+      ],
+      "id": "wi-desmontado-estruc-metalica-con-forjados-metalicos",
+      "m": 6,
+      "p": 25.25,
+      "s": "DESMONTADO ESTRUC. METÁLICA CON FORJADOS METÁLICOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "estructuras",
+        "acero",
+        "laminados-en-frio"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-de-estruc-met-ac-lam-en-frio",
+      "m": 3,
+      "p": 0.82,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. DE ESTRUC. MET. AC. LAM. EN FRIO",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "estructuras",
+        "acero",
+        "laminados-en-frio"
+      ],
+      "id": "wi-desmontado-estruc-metalica-ac-laminado-en-frio",
+      "m": 4,
+      "p": 0.86,
+      "s": "DESMONTADO ESTRUC. METÁLICA AC. LAMINADO EN FRIO",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras",
+        "forjados",
+        "bidireccionales"
+      ],
+      "id": "wi-demolicion-de-forjados-reticulares-carga-mecanica",
+      "m": 4,
+      "p": 27.59,
+      "s": "DEMOLICIÓN DE FORJADOS RETICULARES. CARGA MECÁNICA.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras",
+        "forjados",
+        "bidireccionales"
+      ],
+      "id": "wi-demolicion-masiva-m-mecanicos-de-forjados-reticulares",
+      "m": 2,
+      "p": 26.27,
+      "s": "DEMOLICIÓN MASIVA M. MECÁNICOS DE FORJADOS RETICULARES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras",
+        "forjados",
+        "unidireccionales"
+      ],
+      "id": "wi-demolicion-de-forjados-unidireccionales",
+      "m": 4,
+      "p": 17.18,
+      "s": "DEMOLICIÓN DE FORJADOS UNIDIRECCIONALES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras",
+        "forjados",
+        "unidireccionales"
+      ],
+      "id": "wi-demolicion-masiva-m-mecanicos-de-forjados-unidireccionales",
+      "m": 2,
+      "p": 16.05,
+      "s": "DEMOLICIÓN MASIVA M. MECÁNICOS DE FORJADOS UNIDIRECCIONALES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-02",
+      "g": [
+        "estructuras",
+        "hormigon-armado",
+        "losas"
+      ],
+      "id": "wi-demolicion-losa-de-escalera-y-revestimiento-a-23-5-cm",
+      "m": 3,
+      "p": 15.39,
+      "s": "DEMOLICIÓN LOSA DE ESCALERA Y REVESTIMIENTO A=23.5 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras",
+        "hormigon-armado",
+        "varios"
+      ],
+      "id": "wi-demolicion-con-medios-mecanicos-de-hormigon-armado",
+      "m": 4,
+      "p": 185.89,
+      "s": "DEMOLICIÓN CON MEDIOS MECÁNICOS DE HORMIGÓN ARMADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras",
+        "hormigon-armado",
+        "varios"
+      ],
+      "id": "wi-demolicion-masiva-m-mecanicos-de-hormigon-armado",
+      "m": 2,
+      "p": 180.39,
+      "s": "DEMOLICIÓN MASIVA M. MECANICOS DE HORMIGÓN ARMADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-de-estructura-de-hormigon-armado",
+      "m": 4,
+      "p": 27.02,
+      "s": "DEMOLICIÓN DE ESTRUCTURA DE HORMIGÓN ARMADO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-demolicion-masiva-m-mecanicos-de-estructura-de-hormigon-arma",
+      "m": 2,
+      "p": 25.67,
+      "s": "DEMOLICIÓN MASIVA M. MECÁNICOS DE ESTRUCTURA DE HORMIGÓN ARMADO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "audiovisuales",
+        "varios"
+      ],
+      "id": "wi-desmontado-de-mecanismos-telecomunicaciones-con-aprovechamie",
+      "m": 1,
+      "p": 9.66,
+      "s": "DESMONTADO DE MECANISMOS TELECOMUNICACIONES CON APROVECHAMIENTO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "instalaciones",
+        "climatizacion",
+        "aire-acondicionado"
+      ],
+      "id": "wi-desmontaje-de-equipo-de-climatizacion",
+      "m": 11,
+      "p": 74.23,
+      "s": "DESMONTAJE DE EQUIPO DE CLIMATIZACIÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "climatizacion",
+        "aire-acondicionado"
+      ],
+      "id": "wi-desmontaje-de-unidad-interior-de-sistema-de-aire-acondiciona",
+      "m": 2,
+      "p": 49.32,
+      "s": "DESMONTAJE DE UNIDAD INTERIOR DE SISTEMA DE AIRE ACONDICIONADO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "instalaciones",
+        "climatizacion",
+        "aire-acondicionado"
+      ],
+      "id": "wi-desplazamiento-de-aire-acondicionado-a-plano-exterior",
+      "m": 3,
+      "p": 56.18,
+      "s": "DESPLAZAMIENTO DE AIRE ACONDICIONADO A PLANO EXTERIOR",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "circuitos"
+      ],
+      "id": "wi-demolicion-masiva-m-man-circuito-elec-con-seleccion-de-cobre",
+      "m": 1,
+      "p": 0.35,
+      "s": "DEMOLICIÓN MASIVA M. MAN. CIRCUITO ELÉC. CON SELECCIÓN DE COBRE",
+      "u": "m"
+    },
+    {
+      "d": "2017-07",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "circuitos"
+      ],
+      "id": "wi-desmontado-de-circuito",
+      "m": 2,
+      "p": 0.37,
+      "s": "DESMONTADO DE CIRCUITO",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "contadores"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-de-inst-modular-de-contador-elec",
+      "m": 2,
+      "p": 7.77,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. DE INST. MODULAR DE CONTADOR ELÉC.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "contadores"
+      ],
+      "id": "wi-desmontado-de-inst-modular-de-contador-centralizado",
+      "m": 3,
+      "p": 8.37,
+      "s": "DESMONTADO DE INST. MODULAR DE CONTADOR CENTRALIZADO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "enchufes"
+      ],
+      "id": "wi-demolicion-masiva-m-man-toma-de-corriente-con-seleccion-cobr",
+      "m": 1,
+      "p": 1.76,
+      "s": "DEMOLICIÓN MASIVA M. MAN. TOMA DE CORRIENTE CON SELECCIÓN COBRE",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "enchufes"
+      ],
+      "id": "wi-desmontado-de-toma-de-corriente",
+      "m": 2,
+      "p": 1.95,
+      "s": "DESMONTADO DE TOMA DE CORRIENTE",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "lineas-generales-de-alimentacion"
+      ],
+      "id": "wi-demolicion-masiva-m-man-de-linea-general-de-alimentacion",
+      "m": 1,
+      "p": 0.44,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DE LÍNEA GENERAL DE ALIMENTACIÓN",
+      "u": "m"
+    },
+    {
+      "d": "2017-07",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "lineas-generales-de-alimentacion"
+      ],
+      "id": "wi-desmontado-de-linea-general-de-alimentacion",
+      "m": 2,
+      "p": 0.46,
+      "s": "DESMONTADO DE LINEA GENERAL DE ALIMENTACIÓN",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "puntos-de-luz"
+      ],
+      "id": "wi-demolicion-masiva-m-man-de-punto-de-luz-con-seleccion-de-cob",
+      "m": 1,
+      "p": 1.76,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DE PUNTO DE LUZ CON SELECCIÓN DE COBRE",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "puntos-de-luz"
+      ],
+      "id": "wi-desmontado-de-punto-de-luz",
+      "m": 2,
+      "p": 1.95,
+      "s": "DESMONTADO DE PUNTO DE LUZ",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "varios"
+      ],
+      "id": "wi-demolicion-masiva-m-man-de-inst-elec-sup-100-m2",
+      "m": 2,
+      "p": 65.51,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DE INST. ELÉC. (SUP. <=100 m2)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "varios"
+      ],
+      "id": "wi-demolicion-masiva-m-man-de-inst-elec-viv-sup-100-200-m2",
+      "m": 2,
+      "p": 75.44,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DE INST. ELÉC. VIV. (SUP. 100-200 m2)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "varios"
+      ],
+      "id": "wi-demolicion-masiva-m-man-de-inst-elec-viv-sup-100-m2",
+      "m": 2,
+      "p": 65.51,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DE INST. ELÉC. VIV. (SUP. <=100 m2)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "varios"
+      ],
+      "id": "wi-demolicion-masiva-m-man-de-inst-elec-viv-sup-200-m2",
+      "m": 2,
+      "p": 86.47,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DE INST. ELÉC. VIV. (SUP. >200 m2)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "varios"
+      ],
+      "id": "wi-demolicion-masiva-m-manuales-de-cuadro-general-de-proteccion",
+      "m": 2,
+      "p": 7.77,
+      "s": "DEMOLICIÓN MASIVA M. MANUALES DE CUADRO GENERAL DE PROTECCIÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "varios"
+      ],
+      "id": "wi-demolicion-masiva-m-manuales-de-cuadro-individual",
+      "m": 2,
+      "p": 7.99,
+      "s": "DEMOLICIÓN MASIVA M. MANUALES DE CUADRO INDIVIDUAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "varios"
+      ],
+      "id": "wi-desmontado-de-cuadro-general-de-proteccion",
+      "m": 3,
+      "p": 8.37,
+      "s": "DESMONTADO DE CUADRO GENERAL DE PROTECCIÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "varios"
+      ],
+      "id": "wi-desmontado-de-cuadro-individual",
+      "m": 2,
+      "p": 7.99,
+      "s": "DESMONTADO DE CUADRO INDIVIDUAL",
+      "u": "u"
+    },
+    {
+      "d": "2017-07",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "varios"
+      ],
+      "id": "wi-desmontado-de-cuadro-individual-carga-y-transporte-a-vertede",
+      "m": 2,
+      "p": 3.17,
+      "s": "DESMONTADO DE CUADRO INDIVIDUAL, CARGA Y TRANSPORTE A VERTEDERO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "varios"
+      ],
+      "id": "wi-desmontado-de-instalacion-de-electrica-en-aseos",
+      "m": 2,
+      "p": 145.56,
+      "s": "DESMONTADO DE INSTALACIÓN DE ELÉCTRICA EN ASEOS",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "varios"
+      ],
+      "id": "wi-desmontado-de-mecanismos-electricos-con-aprovechamiento",
+      "m": 1,
+      "p": 9.66,
+      "s": "DESMONTADO DE MECANISMOS ELÉCTRICOS CON APROVECHAMIENTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "varios"
+      ],
+      "id": "wi-desmontado-inst-elec-vivienda-sup-100-200-m2",
+      "m": 3,
+      "p": 92.86,
+      "s": "DESMONTADO INST. ELÉC. VIVIENDA (SUP. 100-200 m2)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "varios"
+      ],
+      "id": "wi-desmontado-inst-elec-vivienda-sup-100-m2",
+      "m": 3,
+      "p": 79.23,
+      "s": "DESMONTADO INST. ELÉC. VIVIENDA (SUP. <=100 m2)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricas",
+        "varios"
+      ],
+      "id": "wi-desmontado-inst-elec-vivienda-sup-200-m2",
+      "m": 3,
+      "p": 106.5,
+      "s": "DESMONTADO INST. ELÉC. VIVIENDA (SUP. >200 m2)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electro-mecanicas",
+        "ascensores-y-montacargas"
+      ],
+      "id": "wi-demolicion-masiva-m-manuales-de-ascensor",
+      "m": 2,
+      "p": 3950.54,
+      "s": "DEMOLICIÓN MASIVA M. MANUALES DE ASCENSOR",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-de-lavabo-pedestal-y-eq-griferia",
+      "m": 1,
+      "p": 5.5,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. DE LAVABO PEDESTAL Y EQ. GRIFERÍA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-banera-y-eq-griferia",
+      "m": 1,
+      "p": 11.67,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE BAÑERA Y EQ. GRIFERÍA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-bide-y-eq-griferia",
+      "m": 1,
+      "p": 5.5,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE BIDÉ Y EQ. GRIFERÍA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-fregadero-y-eq-griferia",
+      "m": 1,
+      "p": 5.5,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE FREGADERO Y EQ. GRIFERÍA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-inodoro-de-tanque-alto",
+      "m": 1,
+      "p": 9.9,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE INODORO DE TANQUE ALTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-inodoro-de-tanque-bajo",
+      "m": 1,
+      "p": 5.5,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE INODORO DE TANQUE BAJO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-pila-y-eq-griferia",
+      "m": 1,
+      "p": 7.7,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE PILA Y EQ. GRIFERÍA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-plato-ducha-y-eq-griferia",
+      "m": 1,
+      "p": 7.7,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE PLATO DUCHA Y EQ. GRIFERÍA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-urinario-y-cisterna",
+      "m": 1,
+      "p": 9.9,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE URINARIO Y CISTERNA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-desmontado-de-banera-y-equipo-de-griferia",
+      "m": 2,
+      "p": 18.06,
+      "s": "DESMONTADO DE BAÑERA Y EQUIPO DE GRIFERÍA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-desmontado-de-banera-y-equipo-de-griferia-sin-aprovechamient",
+      "m": 2,
+      "p": 12.99,
+      "s": "DESMONTADO DE BAÑERA Y EQUIPO DE GRIFERÍA, SIN APROVECHAMIENTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-desmontado-de-bide-y-equipo-de-griferia",
+      "m": 1,
+      "p": 5.5,
+      "s": "DESMONTADO DE BIDÉ Y EQUIPO DE GRIFERÍA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-desmontado-de-bide-y-equipo-de-griferia-sin-aprovechamiento",
+      "m": 2,
+      "p": 4.82,
+      "s": "DESMONTADO DE BIDÉ Y EQUIPO DE GRIFERÍA, SIN APROVECHAMIENTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-desmontado-de-fregadero-y-eq-de-griferia-sin-aprovechamiento",
+      "m": 2,
+      "p": 4.82,
+      "s": "DESMONTADO DE FREGADERO Y EQ. DE GRIFERÍA, SIN APROVECHAMIENTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-desmontado-de-fregadero-y-equipo-de-griferia",
+      "m": 1,
+      "p": 5.5,
+      "s": "DESMONTADO DE FREGADERO Y EQUIPO DE GRIFERÍA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-desmontado-de-inodoro-de-tanque-alto",
+      "m": 1,
+      "p": 9.9,
+      "s": "DESMONTADO DE INODORO DE TANQUE ALTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-desmontado-de-inodoro-de-tanque-alto-sin-aprovechamiento",
+      "m": 2,
+      "p": 5.37,
+      "s": "DESMONTADO DE INODORO DE TANQUE ALTO, SIN APROVECHAMIENTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-desmontado-de-inodoro-de-tanque-bajo",
+      "m": 1,
+      "p": 5.5,
+      "s": "DESMONTADO DE INODORO DE TANQUE BAJO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-desmontado-de-inodoro-de-tanque-bajo-sin-aprovechamiento",
+      "m": 2,
+      "p": 4.82,
+      "s": "DESMONTADO DE INODORO DE TANQUE BAJO, SIN APROVECHAMIENTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-desmontado-de-lavabo-pedestal-y-eq-griferia-sin-aprovecham",
+      "m": 2,
+      "p": 4.82,
+      "s": "DESMONTADO DE LAVABO PEDESTAL Y EQ. GRIFERÍA, SIN APROVECHAM.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-desmontado-de-lavabo-pedestal-y-equipo-de-griferia",
+      "m": 1,
+      "p": 5.5,
+      "s": "DESMONTADO DE LAVABO PEDESTAL Y EQUIPO DE GRIFERÍA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-desmontado-de-pila-y-equipo-de-griferia",
+      "m": 1,
+      "p": 7.7,
+      "s": "DESMONTADO DE PILA Y EQUIPO DE GRIFERÍA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-desmontado-de-pila-y-equipo-de-griferia-sin-aprovechamiento",
+      "m": 2,
+      "p": 5.92,
+      "s": "DESMONTADO DE PILA Y EQUIPO DE GRIFERÍA, SIN APROVECHAMIENTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-desmontado-de-plato-ducha-y-eq-de-griferia-sin-aprovechamien",
+      "m": 2,
+      "p": 7.97,
+      "s": "DESMONTADO DE PLATO DUCHA Y EQ. DE GRIFERÍA, SIN APROVECHAMIENTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-desmontado-de-plato-ducha-y-equipo-de-griferia",
+      "m": 2,
+      "p": 10.17,
+      "s": "DESMONTADO DE PLATO DUCHA Y EQUIPO DE GRIFERÍA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-desmontado-de-urinario-y-cisterna-complem-sin-aprovechamient",
+      "m": 2,
+      "p": 5.92,
+      "s": "DESMONTADO DE URINARIO Y CISTERNA COMPLEM, SIN APROVECHAMIENTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "aparatos-sanitarios"
+      ],
+      "id": "wi-desmontado-de-urinario-y-cisterna-complementaria",
+      "m": 1,
+      "p": 9.9,
+      "s": "DESMONTADO DE URINARIO Y CISTERNA COMPLEMENTARIA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "canalizaciones-de-agua-fria"
+      ],
+      "id": "wi-demolicion-masiva-m-man-de-canalizacion-de-cobre",
+      "m": 1,
+      "p": 1.58,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DE CANALIZACIÓN DE COBRE",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "canalizaciones-de-agua-fria"
+      ],
+      "id": "wi-demolicion-masiva-m-man-de-canalizacion-de-hierro-galvanizad",
+      "m": 1,
+      "p": 2.47,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DE CANALIZACIÓN DE HIERRO GALVANIZADO",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "canalizaciones-de-agua-fria"
+      ],
+      "id": "wi-desmontado-de-canalizacion-de-cobre",
+      "m": 2,
+      "p": 1.91,
+      "s": "DESMONTADO DE CANALIZACIÓN DE COBRE",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "canalizaciones-de-agua-fria"
+      ],
+      "id": "wi-desmontado-de-canalizacion-de-hierro-galvanizado",
+      "m": 2,
+      "p": 2.9,
+      "s": "DESMONTADO DE CANALIZACIÓN DE HIERRO GALVANIZADO",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "desagues"
+      ],
+      "id": "wi-demolicion-masiva-m-man-desague-de-banera-con-selecc-plomo",
+      "m": 1,
+      "p": 4.67,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DESAGÜE DE BAÑERA CON SELECC. PLOMO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "desagues"
+      ],
+      "id": "wi-demolicion-masiva-m-man-desague-de-bide-con-selecc-plomo",
+      "m": 1,
+      "p": 3.85,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DESAGÜE DE BIDE CON SELECC. PLOMO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "desagues"
+      ],
+      "id": "wi-demolicion-masiva-m-man-desague-de-fregadero-con-selecc-plom",
+      "m": 1,
+      "p": 3.85,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DESAGÜE DE FREGADERO CON SELECC. PLOMO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "desagues"
+      ],
+      "id": "wi-demolicion-masiva-m-man-desague-de-inodoro-con-selecc-plomo",
+      "m": 1,
+      "p": 2.75,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DESAGÜE DE INODORO CON SELECC. PLOMO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "desagues"
+      ],
+      "id": "wi-demolicion-masiva-m-man-desague-de-lavabo-con-selecc-plomo",
+      "m": 1,
+      "p": 3.85,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DESAGÜE DE LAVABO CON SELECC. PLOMO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "desagues"
+      ],
+      "id": "wi-demolicion-masiva-m-man-desague-de-pila-con-selecc-plomo",
+      "m": 1,
+      "p": 3.85,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DESAGÜE DE PILA CON SELECC. PLOMO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "desagues"
+      ],
+      "id": "wi-demolicion-masiva-m-man-desague-de-urinario-con-selecc-plomo",
+      "m": 1,
+      "p": 3.85,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DESAGÜE DE URINARIO CON SELECC. PLOMO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "desagues"
+      ],
+      "id": "wi-demolicion-masiva-m-man-desague-plato-ducha-con-selecc-plomo",
+      "m": 1,
+      "p": 4.67,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DESAGÜE PLATO DUCHA CON SELECC. PLOMO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "desagues"
+      ],
+      "id": "wi-desmontado-de-desague-de-banera-con-tubo-de-plomo",
+      "m": 2,
+      "p": 5.88,
+      "s": "DESMONTADO DE DESAGÜE DE BAÑERA CON TUBO DE PLOMO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "desagues"
+      ],
+      "id": "wi-desmontado-de-desague-de-bide-con-tubo-de-plomo",
+      "m": 2,
+      "p": 4.78,
+      "s": "DESMONTADO DE DESAGÜE DE BIDE CON TUBO DE PLOMO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "desagues"
+      ],
+      "id": "wi-desmontado-de-desague-de-fregadero-con-tubo-de-plomo",
+      "m": 2,
+      "p": 4.78,
+      "s": "DESMONTADO DE DESAGÜE DE FREGADERO CON TUBO DE PLOMO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "desagues"
+      ],
+      "id": "wi-desmontado-de-desague-de-inodoro-mangueton-de-plomo",
+      "m": 2,
+      "p": 3.57,
+      "s": "DESMONTADO DE DESAGÜE DE INODORO, MANGUETÓN DE PLOMO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "desagues"
+      ],
+      "id": "wi-desmontado-de-desague-de-lavabo-con-tubo-de-plomo",
+      "m": 2,
+      "p": 4.78,
+      "s": "DESMONTADO DE DESAGÜE DE LAVABO CON TUBO DE PLOMO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "desagues"
+      ],
+      "id": "wi-desmontado-de-desague-de-pila-con-tubo-de-plomo",
+      "m": 2,
+      "p": 4.78,
+      "s": "DESMONTADO DE DESAGÜE DE PILA CON TUBO DE PLOMO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "desagues"
+      ],
+      "id": "wi-desmontado-de-desague-de-urinario-con-tubo-de-plomo",
+      "m": 2,
+      "p": 4.78,
+      "s": "DESMONTADO DE DESAGÜE DE URINARIO CON TUBO DE PLOMO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "desagues"
+      ],
+      "id": "wi-desmontado-dedesague-de-plato-con-tubo-de-plomo",
+      "m": 2,
+      "p": 5.88,
+      "s": "DESMONTADO DEDESAGÜE DE PLATO, CON TUBO DE PLOMO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "termos-y-calentadores"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-calentador-individual",
+      "m": 1,
+      "p": 5.5,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE CALENTADOR INDIVIDUAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "termos-y-calentadores"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-calentador-individual-aco",
+      "m": 1,
+      "p": 11.01,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE CALENTADOR INDIVIDUAL ACOPIO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "termos-y-calentadores"
+      ],
+      "id": "wi-desmontado-de-calentador-individual",
+      "m": 1,
+      "p": 5.5,
+      "s": "DESMONTADO DE CALENTADOR INDIVIDUAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "termos-y-calentadores"
+      ],
+      "id": "wi-desmontado-de-calentador-individual-sin-aprovechamiento",
+      "m": 2,
+      "p": 7.11,
+      "s": "DESMONTADO DE CALENTADOR INDIVIDUAL, SIN APROVECHAMIENTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "termos-y-calentadores"
+      ],
+      "id": "wi-desmontaje-de-radiador-de-calefaccion",
+      "m": 1,
+      "p": 6.6,
+      "s": "DESMONTAJE DE RADIADOR DE CALEFACCIÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "varios"
+      ],
+      "id": "wi-demolicion-masiva-m-man-de-inst-de-font-de-cuarto-de-aseo",
+      "m": 1,
+      "p": 55.36,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DE INST. DE FONT. DE CUARTO DE ASEO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "varios"
+      ],
+      "id": "wi-demolicion-masiva-m-man-de-inst-de-font-de-cuarto-de-bano",
+      "m": 1,
+      "p": 72.3,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DE INST. DE FONT. DE CUARTO DE BAÑO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "varios"
+      ],
+      "id": "wi-demolicion-masiva-m-manuales-de-inst-de-font-de-cocina",
+      "m": 1,
+      "p": 46.77,
+      "s": "DEMOLICIÓN MASIVA M. MANUALES DE INST. DE FONT. DE COCINA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "varios"
+      ],
+      "id": "wi-desmontado-de-inst-de-font-de-cocina",
+      "m": 2,
+      "p": 56.04,
+      "s": "DESMONTADO DE INST. DE FONT. DE COCINA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "varios"
+      ],
+      "id": "wi-desmontado-de-inst-de-font-de-cuarto-de-aseo",
+      "m": 2,
+      "p": 66.76,
+      "s": "DESMONTADO DE INST. DE FONT. DE CUARTO DE ASEO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria",
+        "varios"
+      ],
+      "id": "wi-desmontado-de-inst-de-font-de-cuarto-de-bano",
+      "m": 2,
+      "p": 86.27,
+      "s": "DESMONTADO DE INST. DE FONT. DE CUARTO DE BAÑO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-desmontaje-instalalaciones-existentes",
+      "m": 1,
+      "p": 231.11,
+      "s": "DESMONTAJE INSTALALACIONES EXISTENTES",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "aplacados",
+        "alicatados"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-azulejos-decorativos-reutiliz-50",
+      "m": 2,
+      "p": 21.49,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. AZULEJOS DECORATIVOS REUTILIZ. 50%",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "aplacados",
+        "alicatados"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-paramentos-alicatados",
+      "m": 1,
+      "p": 5.94,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE PARAMENTOS ALICATADOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "aplacados",
+        "alicatados"
+      ],
+      "id": "wi-levantado-de-azulejos-decorativos",
+      "m": 3,
+      "p": 22.9,
+      "s": "LEVANTADO DE AZULEJOS DECORATIVOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "aplacados",
+        "alicatados"
+      ],
+      "id": "wi-picado-de-paramentos-alicatados",
+      "m": 2,
+      "p": 8.27,
+      "s": "PICADO DE PARAMENTOS ALICATADOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "aplacados",
+        "chapados"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-de-chapado-de-marmol-reutiliz-50",
+      "m": 2,
+      "p": 23.63,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. DE CHAPADO DE MARMOL REUTILIZ. 50%",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "aplacados",
+        "chapados"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-chapado-con-piedra-caliza",
+      "m": 1,
+      "p": 6.38,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE CHAPADO CON PIEDRA CALIZA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "aplacados",
+        "chapados"
+      ],
+      "id": "wi-desmontado-de-chapado-con-piedra-caliza",
+      "m": 2,
+      "p": 7.99,
+      "s": "DESMONTADO DE CHAPADO CON PIEDRA CALIZA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "aplacados",
+        "chapados"
+      ],
+      "id": "wi-desmontado-de-chapado-de-marmol-de-2-cm-de-espesor-y-80x40-c",
+      "m": 3,
+      "p": 25.35,
+      "s": "DESMONTADO DE CHAPADO DE MÁRMOL DE 2 cm DE ESPESOR Y 80X40 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "continuos",
+        "enfoscados"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-de-enfoscado-de-mortero-en-parede",
+      "m": 1,
+      "p": 5.94,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. DE ENFOSCADO DE MORTERO EN PAREDES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "continuos",
+        "enfoscados"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-enfoscado-en-paredes",
+      "m": 1,
+      "p": 7.04,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE ENFOSCADO EN PAREDES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "continuos",
+        "enfoscados"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-enfoscado-en-techos",
+      "m": 1,
+      "p": 7.92,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE ENFOSCADO EN TECHOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "continuos",
+        "enfoscados"
+      ],
+      "id": "wi-picado-de-enfoscado-en-paredes",
+      "m": 2,
+      "p": 6.98,
+      "s": "PICADO DE ENFOSCADO EN PAREDES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "continuos",
+        "enfoscados"
+      ],
+      "id": "wi-picado-de-enfoscado-en-paredes-2244",
+      "m": 2,
+      "p": 7.37,
+      "s": "PICADO DE ENFOSCADO EN PAREDES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "continuos",
+        "enfoscados"
+      ],
+      "id": "wi-picado-de-enfoscado-en-techos",
+      "m": 2,
+      "p": 9.37,
+      "s": "PICADO DE ENFOSCADO EN TECHOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "continuos",
+        "guarnecidos"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-guarnecido-y-enluc-de-yeso-parede",
+      "m": 1,
+      "p": 3.96,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. GUARNECIDO Y ENLUC. DE YESO PAREDES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "continuos",
+        "guarnecidos"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-guarnecido-y-enluc-de-yeso-techos",
+      "m": 1,
+      "p": 5.94,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. GUARNECIDO Y ENLUC. DE YESO TECHOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "continuos",
+        "guarnecidos"
+      ],
+      "id": "wi-picado-de-guarnecido-y-enlucido-de-yeso-en-paredes",
+      "m": 2,
+      "p": 5.88,
+      "s": "PICADO DE GUARNECIDO Y ENLUCIDO DE YESO EN PAREDES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "continuos",
+        "guarnecidos"
+      ],
+      "id": "wi-picado-de-guarnecido-y-enlucido-de-yeso-en-techos",
+      "m": 2,
+      "p": 8.08,
+      "s": "PICADO DE GUARNECIDO Y ENLUCIDO DE YESO EN TECHOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "ligeros",
+        "aleaciones-ligeras"
+      ],
+      "id": "wi-demolicion-masiva-m-manuales-revest-paredes-perfiles-de-alum",
+      "m": 2,
+      "p": 3.14,
+      "s": "DEMOLICIÓN MASIVA M. MANUALES REVEST. PAREDES PERFILES DE ALUM.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "ligeros",
+        "aleaciones-ligeras"
+      ],
+      "id": "wi-desmontado-revestimiento-paredes-perfiles-de-aluminio",
+      "m": 3,
+      "p": 3.47,
+      "s": "DESMONTADO REVESTIMIENTO PAREDES PERFILES DE ALUMINIO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "ligeros",
+        "corcho"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-revest-paredes-planchas-de-corcho",
+      "m": 1,
+      "p": 3.3,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. REVEST. PAREDES PLANCHAS DE CORCHO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "ligeros",
+        "corcho"
+      ],
+      "id": "wi-picado-revestimiento-paredes-planchas-de-corcho",
+      "m": 2,
+      "p": 3.41,
+      "s": "PICADO REVESTIMIENTO PAREDES PLANCHAS DE CORCHO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "ligeros",
+        "madera"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-rev-paredes-madera-reutilz-50",
+      "m": 2,
+      "p": 9.66,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. REV. PAREDES MADERA REUTILZ. 50%",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "ligeros",
+        "madera"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-revest-paredes-elementos-de-mader",
+      "m": 2,
+      "p": 3.14,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. REVEST. PAREDES ELEMENTOS DE MADERA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "ligeros",
+        "madera"
+      ],
+      "id": "wi-desmontado-revest-paredes-elementos-de-madera",
+      "m": 3,
+      "p": 4.12,
+      "s": "DESMONTADO REVEST. PAREDES ELEMENTOS DE MADERA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "ligeros",
+        "madera"
+      ],
+      "id": "wi-desmontado-revest-paredes-elementos-de-madera-aprov-del-50",
+      "m": 3,
+      "p": 10.54,
+      "s": "DESMONTADO REVEST. PAREDES ELEMENTOS DE MADERA APROV. DEL 50%",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "peldanos",
+        "ceramicos"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-de-peldano-y-zanquin-de-piezas-ce",
+      "m": 1,
+      "p": 5.94,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. DE PELDAÑO Y ZANQUÍN DE PIEZAS CER.",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "peldanos",
+        "ceramicos"
+      ],
+      "id": "wi-levantado-de-peldano-y-zanquin-de-piezas-ceramicas",
+      "m": 2,
+      "p": 6.73,
+      "s": "LEVANTADO DE PELDAÑO Y ZANQUÍN DE PIEZAS CERÁMICAS",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "peldanos",
+        "ligeros"
+      ],
+      "id": "wi-demolicion-masiva-m-man-de-peldano-mat-ligero-y-zanquin-mad",
+      "m": 1,
+      "p": 1.98,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DE PELDAÑO MAT. LIGERO Y ZANQUÍN MAD.",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "peldanos",
+        "ligeros"
+      ],
+      "id": "wi-levantado-de-peldano-mat-ligero-y-zanquin-de-madera",
+      "m": 2,
+      "p": 2.39,
+      "s": "LEVANTADO DE PELDAÑO MAT. LIGERO Y ZANQUÍN DE MADERA",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "peldanos",
+        "maderas"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-de-peldano-y-zanquin-de-madera",
+      "m": 1,
+      "p": 1.98,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. DE PELDAÑO Y ZANQUÍN DE MADERA",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "peldanos",
+        "maderas"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-peldano-y-zanquin-mad-reut-50",
+      "m": 3,
+      "p": 4.57,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. PELDAÑO Y ZANQUÍN MAD. REUT. 50%",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "peldanos",
+        "maderas"
+      ],
+      "id": "wi-levantado-de-peldano-y-zanquin-de-madera-aprov-del-50",
+      "m": 3,
+      "p": 4.79,
+      "s": "LEVANTADO DE PELDAÑO Y ZANQUÍN DE MADERA APROV. DEL 50%",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "peldanos",
+        "maderas"
+      ],
+      "id": "wi-levantado-de-peldano-y-zanquin-de-madera-incluso-carga-manua",
+      "m": 2,
+      "p": 2.7,
+      "s": "LEVANTADO DE PELDAÑO Y ZANQUÍN DE MADERA INCLUSO CARGA MANUAL",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "peldanos",
+        "piedras-artificiales"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-de-peldano-y-zanquin-piedra-artif",
+      "m": 1,
+      "p": 3.13,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. DE PELDAÑO Y ZANQUÍN PIEDRA ARTIF.",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "peldanos",
+        "piedras-artificiales"
+      ],
+      "id": "wi-levantado-de-peldano-y-zanquin-de-piedra-artificial",
+      "m": 2,
+      "p": 3.87,
+      "s": "LEVANTADO DE PELDAÑO Y ZANQUÍN DE PIEDRA ARTIFICIAL",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "peldanos",
+        "piedras-naturales"
+      ],
+      "id": "wi-demol-selectiva-m-man-peldano-y-zanquin-piedra-nat-reut-50",
+      "m": 2,
+      "p": 12.89,
+      "s": "DEMOL. SELECTIVA M. MAN. PELDAÑO Y ZANQUÍN PIEDRA NAT. REUT. 50%",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "peldanos",
+        "piedras-naturales"
+      ],
+      "id": "wi-demolicion-selectiva-m-man-de-peldano-y-zanquin-de-piedra-na",
+      "m": 1,
+      "p": 2.97,
+      "s": "DEMOLICIÓN SELECTIVA M. MAN. DE PELDAÑO Y ZANQUÍN DE PIEDRA NAT.",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "peldanos",
+        "piedras-naturales"
+      ],
+      "id": "wi-levantado-de-peldano-y-zanquin-de-piedra-natural",
+      "m": 2,
+      "p": 3.87,
+      "s": "LEVANTADO DE PELDAÑO Y ZANQUÍN DE PIEDRA NATURAL",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "peldanos",
+        "piedras-naturales"
+      ],
+      "id": "wi-levantado-de-peldano-y-zanquin-de-piedra-natural-aprov-50",
+      "m": 3,
+      "p": 14.12,
+      "s": "LEVANTADO DE PELDAÑO Y ZANQUÍN DE PIEDRA NATURAL APROV. 50%",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "ceramicos"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-rodapie-de-baldosas-ceram",
+      "m": 1,
+      "p": 0.7,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE RODAPIÉ DE BALDOSAS CERÁM.",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "ceramicos"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-solado-y-rodapie-bald-cer",
+      "m": 1,
+      "p": 6.93,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE SOLADO Y RODAPIÉ BALD. CER.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "ceramicos"
+      ],
+      "id": "wi-desmontado-de-rodapie-de-baldosas-ceramicas",
+      "m": 2,
+      "p": 0.81,
+      "s": "DESMONTADO DE RODAPIÉ DE BALDOSAS CERÁMICAS",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "ceramicos"
+      ],
+      "id": "wi-levantado-de-solado-y-rodapie-de-baldosas-ceramicas",
+      "m": 2,
+      "p": 9.42,
+      "s": "LEVANTADO DE SOLADO Y RODAPIÉ DE BALDOSAS CERÁMICAS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "especiales"
+      ],
+      "id": "wi-demolicion-de-pav-continuo-de-mortero-hidraulico-carga-man",
+      "m": 3,
+      "p": 9.5,
+      "s": "DEMOLICIÓN DE PAV. CONTINUO DE MORTERO HIDRÁULICO CARGA MAN.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "especiales"
+      ],
+      "id": "wi-demolicion-de-pav-continuo-de-mortero-hidraulico-carga-mecan",
+      "m": 4,
+      "p": 5.88,
+      "s": "DEMOLICIÓN DE PAV. CONTINUO DE MORTERO HIDRÁULICO CARGA MECANICA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "especiales"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-pav-bloques-trabados-horm",
+      "m": 1,
+      "p": 5.28,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE PAV. BLOQUES TRABADOS HORM.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "especiales"
+      ],
+      "id": "wi-demolicion-selectiva-m-mecanicos-de-pav-con-bloques-trabados",
+      "m": 1,
+      "p": 1.67,
+      "s": "DEMOLICIÓN SELECTIVA M. MECANICOS DE PAV. CON BLOQUES TRABADOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "especiales"
+      ],
+      "id": "wi-demolicion-selectiva-m-mecanicos-de-pav-continuo-mort-hidrah",
+      "m": 2,
+      "p": 5.31,
+      "s": "DEMOLICIÓN SELECTIVA M. MECANICOS DE PAV. CONTINUO MORT. HIDRÁH.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "especiales"
+      ],
+      "id": "wi-levantado-de-pav-bloques-trabados-hormigon-con-aprov-del-75",
+      "m": 2,
+      "p": 14.78,
+      "s": "LEVANTADO DE PAV. BLOQUES TRABADOS HORMIGÓN CON APROV. DEL 75%",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "especiales"
+      ],
+      "id": "wi-levantado-de-pav-con-bloques-trabados-de-hormigon",
+      "m": 2,
+      "p": 2.28,
+      "s": "LEVANTADO DE PAV. CON BLOQUES TRABADOS DE HORMIGÓN",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "hidraulicos"
+      ],
+      "id": "wi-demolicion-selectiva-m-mecanicos-de-solado-con-bald-hidraul",
+      "m": 2,
+      "p": 6.71,
+      "s": "DEMOLICION SELECTIVA M. MECÁNICOS DE SOLADO CON BALD. HIDRÁUL.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "hidraulicos"
+      ],
+      "id": "wi-levantado-de-solado-con-baldosas-hidraulicas-carga-manual",
+      "m": 2,
+      "p": 9.31,
+      "s": "LEVANTADO DE SOLADO CON BALDOSAS HIDRÁULICAS CARGA MANUAL",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "hidraulicos"
+      ],
+      "id": "wi-levantado-de-solado-con-baldosas-hidraulicas-carga-mecanica",
+      "m": 3,
+      "p": 7.13,
+      "s": "LEVANTADO DE SOLADO CON BALDOSAS HIDRÁULICAS CARGA MECÁNICA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "ligeros"
+      ],
+      "id": "wi-demolicion-masiva-m-man-solado-de-material-lig-i-mort-base",
+      "m": 1,
+      "p": 5.72,
+      "s": "DEMOLICIÓN MASIVA M. MAN. SOLADO DE MATERIAL LIG. I/MORT. BASE",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "ligeros"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-solado-de-material-ligero",
+      "m": 1,
+      "p": 2.49,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE SOLADO DE MATERIAL LIGERO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "ligeros"
+      ],
+      "id": "wi-levantado-de-pvc-a-mano",
+      "m": 2,
+      "p": 6.79,
+      "s": "LEVANTADO DE PVC A MANO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "ligeros"
+      ],
+      "id": "wi-levantado-de-solado-de-material-ligero",
+      "m": 2,
+      "p": 2.94,
+      "s": "LEVANTADO DE SOLADO DE MATERIAL LIGERO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "ligeros"
+      ],
+      "id": "wi-levantado-de-solado-de-material-ligero-i-mortero-de-base",
+      "m": 2,
+      "p": 7.61,
+      "s": "LEVANTADO DE SOLADO DE MATERIAL LIGERO, I/MORTERO DE BASE",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "maderas"
+      ],
+      "id": "wi-demolicion-de-entarimado-sobre-rastreles",
+      "m": 2,
+      "p": 3.49,
+      "s": "DEMOLICIÓN DE ENTARIMADO SOBRE RASTRELES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "maderas"
+      ],
+      "id": "wi-demolicion-de-parque-y-rodapie-de-madera-i-mortero-de-base",
+      "m": 2,
+      "p": 7.61,
+      "s": "DEMOLICIÓN DE PARQUE Y RODAPIÉ DE MADERA I/MORTERO DE BASE",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "maderas"
+      ],
+      "id": "wi-demolicion-de-rodapie-de-madera",
+      "m": 2,
+      "p": 1.29,
+      "s": "DEMOLICIÓN DE RODAPIÉ DE MADERA",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "maderas"
+      ],
+      "id": "wi-demolicion-masiva-m-man-de-parque-y-rodapie-mad-i-mort-base",
+      "m": 1,
+      "p": 5.72,
+      "s": "DEMOLICIÓN MASIVA M. MAN. DE PARQUE Y RODAPIÉ MAD. I/MORT. BASE",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "maderas"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-entarimado-sobre-rastrele",
+      "m": 2,
+      "p": 5.13,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE ENTARIMADO SOBRE RASTRELES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "maderas"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-entarimado-sobre-rastrele-ddd1",
+      "m": 1,
+      "p": 2.97,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE ENTARIMADO SOBRE RASTRELES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "maderas"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-parque-y-rodapie-de-mader",
+      "m": 1,
+      "p": 3.96,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE PARQUE Y RODAPIÉ DE MADERA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "maderas"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-rodapie-de-madera",
+      "m": 2,
+      "p": 1.21,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE RODAPIÉ DE MADERA",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "maderas"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-rodapie-de-madera-77c5",
+      "m": 1,
+      "p": 0.99,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE RODAPIÉ DE MADERA",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "maderas"
+      ],
+      "id": "wi-desmontado-de-rodapie-de-madera-con-aprov-del-50",
+      "m": 3,
+      "p": 1.62,
+      "s": "DESMONTADO DE RODAPIÉ DE MADERA CON APROV. DEL 50%",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "maderas"
+      ],
+      "id": "wi-levantado-de-entarimado-sobre-rastreles-con-aprov-del-50",
+      "m": 3,
+      "p": 7.58,
+      "s": "LEVANTADO DE ENTARIMADO SOBRE RASTRELES CON APROV. DEL 50%",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "maderas"
+      ],
+      "id": "wi-levantado-de-parque-y-rodapie-de-madera",
+      "m": 2,
+      "p": 4.78,
+      "s": "LEVANTADO DE PARQUE Y RODAPIÉ DE MADERA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "piedras-naturales"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-rodapie-de-piedra-natural",
+      "m": 1,
+      "p": 0.7,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE RODAPIÉ DE PIEDRA NATURAL",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "piedras-naturales"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-rodapie-piedra-natural",
+      "m": 2,
+      "p": 0.92,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE RODAPIÉ PIEDRA NATURAL",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "piedras-naturales"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-solado-y-rodapie-de-piedr",
+      "m": 1,
+      "p": 6.34,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE SOLADO Y RODAPIÉ DE PIEDRA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "piedras-naturales"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-solado-y-rodapie-piedra-n",
+      "m": 1,
+      "p": 8.54,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE SOLADO Y RODAPIÉ PIEDRA NAT.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "piedras-naturales"
+      ],
+      "id": "wi-desmontado-de-rodapie-de-piedra-natural",
+      "m": 2,
+      "p": 0.81,
+      "s": "DESMONTADO DE RODAPIÉ DE PIEDRA NATURAL",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "piedras-naturales"
+      ],
+      "id": "wi-levantado-de-rodapie-piedra-natural-con-aprov-del-50",
+      "m": 3,
+      "p": 1.18,
+      "s": "LEVANTADO DE RODAPIÉ PIEDRA NATURAL CÓN APROV. DEL 50%",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "piedras-naturales"
+      ],
+      "id": "wi-levantado-de-solado-y-rodapie-de-piedra-natural",
+      "m": 2,
+      "p": 9.24,
+      "s": "LEVANTADO DE SOLADO Y RODAPIÉ DE PIEDRA NATURAL",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "piedras-naturales"
+      ],
+      "id": "wi-levantado-de-solado-y-rodapie-piedra-natural-aprov-del-50",
+      "m": 2,
+      "p": 21.89,
+      "s": "LEVANTADO DE SOLADO Y RODAPIÉ PIEDRA NATURAL, APROV. DEL 50%",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "soleras"
+      ],
+      "id": "wi-demolicion-de-solera-de-hormigon-en-masa-de-10-cm-carga-manu",
+      "m": 3,
+      "p": 10.16,
+      "s": "DEMOLICIÓN DE SOLERA DE HORMIGÓN EN MASA DE 10 cm CARGA MANUAL",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "soleras"
+      ],
+      "id": "wi-demolicion-de-solera-de-hormigon-en-masa-de-10-cm-carga-meca",
+      "m": 4,
+      "p": 4.37,
+      "s": "DEMOLICIÓN DE SOLERA DE HORMIGÓN EN MASA DE 10 cm CARGA MECÁNICA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "soleras"
+      ],
+      "id": "wi-demolicion-selectiva-m-mecanicos-de-solera-de-hormigon-en-ma",
+      "m": 2,
+      "p": 5.55,
+      "s": "DEMOLICIÓN SELECTIVA M. MECÁNICOS DE SOLERA DE HORMIGÓN EN MASA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "terrazos"
+      ],
+      "id": "wi-demolicion-selectiva-m-mecanicos-de-solado-y-rodapie-de-terr",
+      "m": 1,
+      "p": 6.82,
+      "s": "DEMOLICIÓN SELECTIVA M. MECÁNICOS DE SOLADO Y RODAPIÉ DE TERRAZO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "terrazos"
+      ],
+      "id": "wi-levantado-de-solado-y-rodapie-de-terrazo-carga-manual",
+      "m": 2,
+      "p": 9.2,
+      "s": "LEVANTADO DE SOLADO Y RODAPIÉ DE TERRAZO, CARGA MANUAL",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "suelos",
+        "terrazos"
+      ],
+      "id": "wi-levantado-de-solado-y-rodapie-de-terrazo-carga-mecanica",
+      "m": 3,
+      "p": 7.35,
+      "s": "LEVANTADO DE SOLADO Y RODAPIÉ DE TERRAZO, CARGA MECÁNICA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "techos",
+        "aleaciones-ligeras"
+      ],
+      "id": "wi-demolicion-selectiva-de-techo-de-placas-de-material-ligero",
+      "m": 1,
+      "p": 5.94,
+      "s": "DEMOLICIÓN SELECTIVA DE TECHO DE PLACAS DE MATERIAL LIGERO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "techos",
+        "aleaciones-ligeras"
+      ],
+      "id": "wi-desmontado-de-techo-de-placas-de-material-ligero",
+      "m": 2,
+      "p": 6.98,
+      "s": "DESMONTADO DE TECHO DE PLACAS DE MATERIAL LIGERO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "techos",
+        "escayola"
+      ],
+      "id": "wi-demolicion-selectiva-de-techo-continuo-de-plancha-de-escayol",
+      "m": 1,
+      "p": 3.96,
+      "s": "DEMOLICIÓN SELECTIVA DE TECHO CONTINUO DE PLANCHA DE ESCAYOLA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "techos",
+        "escayola"
+      ],
+      "id": "wi-demolicion-selectiva-de-techo-de-placas-acusticas-conglomera",
+      "m": 1,
+      "p": 5.94,
+      "s": "DEMOLICIÓN SELECTIVA DE TECHO DE PLACAS ACÚSTICAS CONGLOMERADAS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "techos",
+        "madera"
+      ],
+      "id": "wi-demolicion-selectiva-de-techo-de-madera-coloc-sobre-rastrele",
+      "m": 1,
+      "p": 7.92,
+      "s": "DEMOLICIÓN SELECTIVA DE TECHO DE MADERA COLOC. SOBRE RASTRELES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "techos",
+        "madera"
+      ],
+      "id": "wi-desmontado-de-techo-de-madera-coloc-sobre-rastreles",
+      "m": 2,
+      "p": 9.18,
+      "s": "DESMONTADO DE TECHO DE MADERA COLOC. SOBRE RASTRELES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "techos",
+        "varios"
+      ],
+      "id": "wi-demolicion-selectiva-de-techo-de-yeso-sobre-entablillado",
+      "m": 1,
+      "p": 3.96,
+      "s": "DEMOLICIÓN SELECTIVA DE TECHO DE YESO SOBRE ENTABLILLADO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "techos",
+        "varios"
+      ],
+      "id": "wi-desmontado-de-techo-de-yeso-sobre-entablillado",
+      "m": 2,
+      "p": 5.73,
+      "s": "DESMONTADO DE TECHO DE YESO SOBRE ENTABLILLADO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "varios",
+        "alfeizares"
+      ],
+      "id": "wi-demolicion-selectiva-de-alfeizar-de-chapa-de-acero",
+      "m": 1,
+      "p": 2.42,
+      "s": "DEMOLICIÓN SELECTIVA DE ALFÉIZAR DE CHAPA DE ACERO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "varios",
+        "alfeizares"
+      ],
+      "id": "wi-demolicion-selectiva-de-alfeizar-de-piedra-artificial",
+      "m": 1,
+      "p": 2.42,
+      "s": "DEMOLICIÓN SELECTIVA DE ALFÉIZAR DE PIEDRA ARTIFICIAL",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "varios",
+        "alfeizares"
+      ],
+      "id": "wi-demolicion-selectiva-de-alfeizar-de-piedra-natural",
+      "m": 1,
+      "p": 2.42,
+      "s": "DEMOLICIÓN SELECTIVA DE ALFÉIZAR DE PIEDRA NATURAL",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "varios",
+        "alfeizares"
+      ],
+      "id": "wi-demolicion-selectiva-de-alfeizar-de-piezas-ceramicas",
+      "m": 1,
+      "p": 1.98,
+      "s": "DEMOLICIÓN SELECTIVA DE ALFÉIZAR DE PIEZAS CERÁMICAS",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "varios",
+        "alfeizares"
+      ],
+      "id": "wi-demolicion-selectiva-de-alfeizar-piedra-natural-aprov-del-50",
+      "m": 2,
+      "p": 4.36,
+      "s": "DEMOLICIÓN SELECTIVA DE ALFÉIZAR PIEDRA NATURAL APROV. DEL 50%",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "varios",
+        "remates"
+      ],
+      "id": "wi-demolicion-selectiva-de-remate-de-piedra-artificial",
+      "m": 1,
+      "p": 2.42,
+      "s": "DEMOLICIÓN SELECTIVA DE REMATE DE PIEDRA ARTIFICIAL",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "varios",
+        "remates"
+      ],
+      "id": "wi-demolicion-selectiva-de-remate-de-piedra-artificial-con-apro",
+      "m": 2,
+      "p": 4.36,
+      "s": "DEMOLICIÓN SELECTIVA DE REMATE DE PIEDRA ARTIFICIAL CON APROV.",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "varios",
+        "remates"
+      ],
+      "id": "wi-demolicion-selectiva-de-remate-de-piedra-natural",
+      "m": 1,
+      "p": 2.42,
+      "s": "DEMOLICIÓN SELECTIVA DE REMATE DE PIEDRA NATURAL",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "varios",
+        "remates"
+      ],
+      "id": "wi-demolicion-selectiva-de-remate-de-piezas-ceramicas",
+      "m": 1,
+      "p": 1.98,
+      "s": "DEMOLICIÓN SELECTIVA DE REMATE DE PIEZAS CERÁMICAS",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "revestimientos",
+        "varios",
+        "remates"
+      ],
+      "id": "wi-demolicion-selectiva-de-remate-piedra-natural-con-aprov-del",
+      "m": 2,
+      "p": 4.36,
+      "s": "DEMOLICIÓN SELECTIVA DE REMATE PIEDRA NATURAL CON APROV. DEL 50%",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "saneamiento",
+        "redes-colgadas",
+        "arquetas"
+      ],
+      "id": "wi-demolicion-masiva-de-arqueta-elevada-de-fabrica-de-ladrillo",
+      "m": 2,
+      "p": 32.08,
+      "s": "DEMOLICIÓN MASIVA DE ARQUETA ELEVADA DE FÁBRICA DE LADRILLO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "saneamiento",
+        "redes-colgadas",
+        "arquetas"
+      ],
+      "id": "wi-demolicion-masiva-de-arqueta-elevada-de-polipropileno",
+      "m": 2,
+      "p": 43.79,
+      "s": "DEMOLICIÓN MASIVA DE ARQUETA ELEVADA DE POLIPROPILENO",
+      "u": "u"
+    },
+    {
+      "d": "2022-02",
+      "g": [
+        "saneamiento",
+        "redes-colgadas",
+        "colectores"
+      ],
+      "id": "wi-dem-san-colg-t-fibrocemento-a-mano",
+      "m": 2,
+      "p": 21.27,
+      "s": "DEM. SAN. COLG. T. FIBROCEMENTO A MANO",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "saneamiento",
+        "redes-colgadas",
+        "colectores"
+      ],
+      "id": "wi-demolicion-selectiva-de-colector-colgado-de-pvc",
+      "m": 2,
+      "p": 3.32,
+      "s": "DEMOLICIÓN SELECTIVA DE COLECTOR COLGADO DE PVC",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "saneamiento",
+        "redes-colgadas",
+        "colectores"
+      ],
+      "id": "wi-desmontado-de-colector-colgado-de-fibrocemento",
+      "m": 3,
+      "p": 5.24,
+      "s": "DESMONTADO DE COLECTOR COLGADO DE FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "saneamiento",
+        "redes-colgadas",
+        "colectores"
+      ],
+      "id": "wi-desmontado-de-colector-colgado-de-pvc",
+      "m": 3,
+      "p": 4.03,
+      "s": "DESMONTADO DE COLECTOR COLGADO DE PVC",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "saneamiento",
+        "redes-enterradas",
+        "arquetas"
+      ],
+      "id": "wi-demolicion-masiva-de-arqueta-enterrada-de-fabrica-de-ladrill",
+      "m": 1,
+      "p": 22.01,
+      "s": "DEMOLICIÓN MASIVA DE ARQUETA ENTERRADA DE FÁBRICA DE LADRILLO",
+      "u": "u"
+    },
+    {
+      "d": "2022-02",
+      "g": [
+        "saneamiento",
+        "redes-enterradas",
+        "colectores"
+      ],
+      "id": "wi-dem-san-ent-t-fibrocemento-a-mano",
+      "m": 2,
+      "p": 32.06,
+      "s": "DEM. SAN. ENT. T. FIBROCEMENTO A MANO",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "saneamiento",
+        "redes-enterradas",
+        "colectores"
+      ],
+      "id": "wi-demolicion-selectiva-de-colector-enterrado-de-hormigon",
+      "m": 1,
+      "p": 42.48,
+      "s": "DEMOLICIÓN SELECTIVA DE COLECTOR ENTERRADO DE HORMIGÓN",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "saneamiento",
+        "redes-enterradas",
+        "colectores"
+      ],
+      "id": "wi-demolicion-selectiva-de-colector-enterrado-de-pvc",
+      "m": 1,
+      "p": 39.62,
+      "s": "DEMOLICIÓN SELECTIVA DE COLECTOR ENTERRADO DE PVC",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "saneamiento",
+        "redes-enterradas",
+        "colectores"
+      ],
+      "id": "wi-desmontado-de-colector-enterrado-de-hormigon",
+      "m": 2,
+      "p": 47.58,
+      "s": "DESMONTADO DE COLECTOR ENTERRADO DE HORMIGÓN",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "saneamiento",
+        "redes-enterradas",
+        "colectores"
+      ],
+      "id": "wi-desmontado-de-colector-enterrado-de-pvc",
+      "m": 2,
+      "p": 44.78,
+      "s": "DESMONTADO DE COLECTOR ENTERRADO DE PVC",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "saneamiento",
+        "redes-verticales",
+        "bajantes"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-bajante-de-pvc",
+      "m": 2,
+      "p": 4.42,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE BAJANTE DE PVC",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "saneamiento",
+        "redes-verticales",
+        "bajantes"
+      ],
+      "id": "wi-demolicion-selectiva-m-manuales-de-bajante-de-zinc",
+      "m": 2,
+      "p": 4.42,
+      "s": "DEMOLICIÓN SELECTIVA M. MANUALES DE BAJANTE DE ZINC",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "saneamiento",
+        "redes-verticales",
+        "bajantes"
+      ],
+      "id": "wi-desmontado-de-bajante-de-fibrocemento",
+      "m": 3,
+      "p": 5.82,
+      "s": "DESMONTADO DE BAJANTE DE FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "saneamiento",
+        "redes-verticales",
+        "bajantes"
+      ],
+      "id": "wi-desmontado-de-bajante-de-pvc",
+      "m": 3,
+      "p": 5.09,
+      "s": "DESMONTADO DE BAJANTE DE PVC",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "saneamiento",
+        "redes-verticales",
+        "bajantes"
+      ],
+      "id": "wi-desmontado-de-bajante-de-zinc",
+      "m": 3,
+      "p": 5.09,
+      "s": "DESMONTADO DE BAJANTE DE ZINC",
+      "u": "m"
+    },
+    {
+      "d": "2022-02",
+      "g": [
+        "saneamiento",
+        "redes-verticales",
+        "bajantes"
+      ],
+      "id": "wi-levant-canalones-y-bajantes-fibrocemento-amianto",
+      "m": 3,
+      "p": 27.74,
+      "s": "LEVANT. CANALONES Y BAJANTES FIBROCEMENTO/AMIANTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "trabajos-previos",
+        "apeos-y-apuntalamientos",
+        "horizontales"
+      ],
+      "id": "wi-forjado-unidireccional-apeado",
+      "m": 5,
+      "p": 7.55,
+      "s": "FORJADO UNIDIRECCIONAL APEADO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "trabajos-previos",
+        "apeos-y-apuntalamientos",
+        "varios"
+      ],
+      "id": "wi-apeo-de-arco-sobre-pilares",
+      "m": 7,
+      "p": 39.62,
+      "s": "APEO DE ARCO SOBRE PILARES",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "trabajos-previos",
+        "apeos-y-apuntalamientos",
+        "varios"
+      ],
+      "id": "wi-hueco-rectangular-rigidizado",
+      "m": 5,
+      "p": 23.33,
+      "s": "HUECO RECTANGULAR RIGIDIZADO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "trabajos-previos",
+        "apeos-y-apuntalamientos",
+        "varios"
+      ],
+      "id": "wi-hueco-rigidizado-con-tabicon",
+      "m": 4,
+      "p": 7.24,
+      "s": "HUECO RIGIDIZADO CON TABICÓN",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "trabajos-previos",
+        "apeos-y-apuntalamientos",
+        "verticales"
+      ],
+      "id": "wi-estabilizador-interior-hasta-6-meses",
+      "m": 6,
+      "p": 61.78,
+      "s": "ESTABILIZADOR INTERIOR HASTA 6 MESES",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "trabajos-previos",
+        "apeos-y-apuntalamientos",
+        "verticales"
+      ],
+      "id": "wi-establizador-interior-de-6-a-12-meses",
+      "m": 6,
+      "p": 91.94,
+      "s": "ESTABLIZADOR INTERIOR DE 6 A 12 MESES",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "trabajos-previos",
+        "apeos-y-apuntalamientos",
+        "verticales"
+      ],
+      "id": "wi-fachada-estabilizada-con-entramado-metalico",
+      "m": 12,
+      "p": 390.05,
+      "s": "FACHADA ESTABILIZADA CON ENTRAMADO METÁLICO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "trabajos-previos",
+        "apeos-y-apuntalamientos",
+        "verticales"
+      ],
+      "id": "wi-fachada-estabilizada-con-entramado-metalico-hasta-6-meses",
+      "m": 11,
+      "p": 138.01,
+      "s": "FACHADA ESTABILIZADA CON ENTRAMADO METÁLICO HASTA 6 MESES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "trabajos-previos",
+        "limpiezas-y-retiradas",
+        "escombros"
+      ],
+      "id": "wi-transporte-de-escombros-a-vertedero",
+      "m": 3,
+      "p": 5.1,
+      "s": "TRANSPORTE DE ESCOMBROS A VERTEDERO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "trabajos-previos",
+        "limpiezas-y-retiradas",
+        "limpieza"
+      ],
+      "id": "wi-limpieza-y-desbroce-de-terreno-con-medios-mecanicos",
+      "m": 2,
+      "p": 0.25,
+      "s": "LIMPIEZA Y DESBROCE DE TERRENO, CON MEDIOS MECANICOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-02",
+      "g": [
+        "trabajos-previos",
+        "limpiezas-y-retiradas",
+        "varios"
+      ],
+      "id": "wi-retirada-de-residuos-con-amianto",
+      "m": 4,
+      "p": 232.44,
+      "s": "RETIRADA DE RESIDUOS CON AMIANTO",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "urbanizaciones",
+        "alcantarillado",
+        "pozos-y-arquetas"
+      ],
+      "id": "wi-demolicion-de-arqueta-de-fabrica",
+      "m": 3,
+      "p": 36.53,
+      "s": "Demolición de arqueta de fábrica",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "urbanizaciones",
+        "alcantarillado",
+        "pozos-y-arquetas"
+      ],
+      "id": "wi-demolicion-de-pozo-de-alcantarillado-fabrica",
+      "m": 3,
+      "p": 41.27,
+      "s": "Demolición de pozo de alcantarillado fábrica",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "urbanizaciones",
+        "alcantarillado",
+        "pozos-y-arquetas"
+      ],
+      "id": "wi-demolicion-de-pozo-de-alcantarillado-prefabricado",
+      "m": 3,
+      "p": 42.66,
+      "s": "Demolición de pozo de alcantarillado prefabricado",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "urbanizaciones",
+        "alcantarillado",
+        "sumideros"
+      ],
+      "id": "wi-demolicion-de-imbornal-prefabricado",
+      "m": 2,
+      "p": 23.13,
+      "s": "Demolición de imbornal prefabricado",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "urbanizaciones",
+        "alcantarillado",
+        "sumideros"
+      ],
+      "id": "wi-demolicion-de-sumidero-de-fabrica",
+      "m": 2,
+      "p": 5.51,
+      "s": "Demolición de sumidero de fábrica",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "urbanizaciones",
+        "amueblamiento-urbano",
+        "bancos"
+      ],
+      "id": "wi-desmontaje-de-banco-de-madera",
+      "m": 4,
+      "p": 9.19,
+      "s": "Desmontaje de banco de madera",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "urbanizaciones",
+        "amueblamiento-urbano",
+        "bancos"
+      ],
+      "id": "wi-desontaje-de-banco-metalico",
+      "m": 3,
+      "p": 7.32,
+      "s": "Desontaje de banco metálico",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "urbanizaciones",
+        "amueblamiento-urbano",
+        "equipamiento-deportivo"
+      ],
+      "id": "wi-desmontaje-de-aparato-biosaludable",
+      "m": 2,
+      "p": 7.26,
+      "s": "Desmontaje de aparato biosaludable",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "urbanizaciones",
+        "amueblamiento-urbano",
+        "fuentes"
+      ],
+      "id": "wi-desmontaje-de-fuente",
+      "m": 2,
+      "p": 9.96,
+      "s": "Desmontaje de fuente",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "urbanizaciones",
+        "amueblamiento-urbano",
+        "juegos"
+      ],
+      "id": "wi-desmontaje-de-juego-infantil",
+      "m": 1,
+      "p": 6.1,
+      "s": "Desmontaje de juego infantil"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "urbanizaciones",
+        "amueblamiento-urbano",
+        "juegos"
+      ],
+      "id": "wi-desmontaje-de-juego-multiactividad-infantil",
+      "m": 2,
+      "p": 8.61,
+      "s": "Desmontaje de juego multiactividad infantil"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "urbanizaciones",
+        "amueblamiento-urbano",
+        "papeleras"
+      ],
+      "id": "wi-desmontaje-de-papelera-metalica",
+      "m": 1,
+      "p": 3.06,
+      "s": "Desmontaje de papelera metálica",
+      "u": "u"
+    },
+    {
+      "d": "2022-02",
+      "g": [
+        "urbanizaciones",
+        "amueblamiento-urbano",
+        "varios"
+      ],
+      "id": "wi-desmontaje-jardineras-de-fibrocemento-amianto",
+      "m": 2,
+      "p": 26.77,
+      "s": "DESMONTAJE JARDINERAS DE FIBROCEMENTO/AMIANTO",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "urbanizaciones",
+        "jardineria"
+      ],
+      "id": "wi-talado-arbol-tocon-diametro-30-60-cm-c-c-mec",
+      "m": 4,
+      "p": 39.9,
+      "s": "TALADO ARBOL+TOCÓN DIÁMETRO 30-60 cm C/C. MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "urbanizaciones",
+        "pavimentaciones",
+        "bordillos"
+      ],
+      "id": "wi-demolicion-de-bordillo",
+      "m": 3,
+      "p": 3.04,
+      "s": "Demolición de bordillo",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "urbanizaciones",
+        "pavimentaciones",
+        "pavimentos"
+      ],
+      "id": "wi-demolicion-de-pavimento-baldosas",
+      "m": 3,
+      "p": 3.83,
+      "s": "Demolición de pavimento baldosas",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "urbanizaciones",
+        "pavimentaciones",
+        "pavimentos"
+      ],
+      "id": "wi-demolicion-de-pavimento-de-asfalto",
+      "m": 3,
+      "p": 8.37,
+      "s": "Demolición de pavimento de asfalto",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "urbanizaciones",
+        "pavimentaciones",
+        "pavimentos"
+      ],
+      "id": "wi-demolicion-de-pavimento-de-hormigon",
+      "m": 3,
+      "p": 18.91,
+      "s": "Demolición de pavimento de hormigón",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "urbanizaciones",
+        "pavimentaciones",
+        "pavimentos"
+      ],
+      "id": "wi-demolicion-de-pavimentos-de-adoquines",
+      "m": 3,
+      "p": 9.24,
+      "s": "Demolición de pavimentos de adoquines",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios",
+        "varios",
+        "amianto"
+      ],
+      "id": "wi-analisis-ambiental-amianto",
+      "m": 5,
+      "p": 1182.77,
+      "s": "ANÁLISIS AMBIENTAL AMIANTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-02",
+      "g": [
+        "varios",
+        "varios",
+        "amianto"
+      ],
+      "id": "wi-demolicion-cubricion-fibrocemento-amianto",
+      "m": 2,
+      "p": 35.58,
+      "s": "DEMOLICIÓN CUBRICIÓN FIBROCEMENTO/AMIANTO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-despeje-y-retirada-de-mobiliario",
+      "m": 1,
+      "p": 2.24,
+      "s": "DESPEJE Y RETIRADA DE MOBILIARIO",
+      "u": "m2"
+    }
+  ],
+  "title": "Precios Unitarios > DEMOLICIONES Y TRABAJOS PREVIOS",
+  "version": "0.1.0"
+}

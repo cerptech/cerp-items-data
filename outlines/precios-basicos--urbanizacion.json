@@ -1,0 +1,5837 @@
+{
+  "key": "precios-basicos--urbanizacion",
+  "rows": [
+    {
+      "d": "2022-01",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-compuerta-de-tajadera-nte-isd-1",
+      "m": 0,
+      "p": 2.65,
+      "s": "COMPUERTA DE TAJADERA NTE-ISD/1",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-fosa-decantacion-digestion-diam-2-30-m-80-hab",
+      "m": 0,
+      "p": 2413.02,
+      "s": "FOSA DECANTACIÓN DIGESTIÓN DIÁM. 2,30 m 80 HAB.",
+      "u": "u"
+    },
+    {
+      "d": "2017-07",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-lecho-biologico",
+      "m": 0,
+      "p": 1136.06,
+      "s": "LECHO BIOLÓGICO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-ovoide-hormigon-vibrado-1050x700-mm",
+      "m": 0,
+      "p": 49.51,
+      "s": "OVOIDE HORMIGÓN VIBRADO 1050x700 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-pate-de-hierro-diam-30-mm",
+      "m": 0,
+      "p": 4.84,
+      "s": "PATE DE HIERRO DIÁM. 30 mm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-pate-de-polietileno-armado-acero-diam-12",
+      "m": 0,
+      "p": 3.94,
+      "s": "PATE DE POLIETILENO ARMADO ACERO DIÁM. 12",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-rejilla-fundicion-imbornal-con-cerco",
+      "m": 0,
+      "p": 27.56,
+      "s": "REJILLA FUNDICIÓN IMBORNAL CÓN CERCO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-rejilla-fundicion-tipo-buzon",
+      "m": 0,
+      "p": 61.71,
+      "s": "REJILLA FUNDICIÓN TIPO BUZÓN",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-rejilla-plana-fundicion-desmontable-de-50x20-cm",
+      "m": 0,
+      "p": 20.28,
+      "s": "REJILLA PLANA FUNDICIÓN DESMONTABLE DE 50x20 cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-sifon-de-descarga-20-l-seg",
+      "m": 0,
+      "p": 7.32,
+      "s": "SIFÓN DE DESCARGA 20 l/seg.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tapa-interior-y-cadenilla",
+      "m": 0,
+      "p": 7.97,
+      "s": "TAPA INTERIOR Y CADENILLA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tuberia-pvc-sn4-diam-110-mm-teja",
+      "m": 0,
+      "p": 2.14,
+      "s": "TUBERÍA PVC SN4 DIÁM. 110 mm TEJA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tuberia-pvc-sn4-diam-125-mm-teja",
+      "m": 0,
+      "p": 2.8,
+      "s": "TUBERÍA PVC SN4 DIÁM. 125 mm TEJA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tuberia-pvc-sn4-diam-160-mm-teja",
+      "m": 0,
+      "p": 3.79,
+      "s": "TUBERÍA PVC SN4 DIÁM. 160 mm TEJA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tuberia-pvc-sn4-diam-200-mm-teja",
+      "m": 0,
+      "p": 5.84,
+      "s": "TUBERÍA PVC SN4 DIÁM. 200 mm TEJA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tuberia-pvc-sn4-diam-250-mm-teja",
+      "m": 0,
+      "p": 8.89,
+      "s": "TUBERÍA PVC SN4 DIÁM. 250 mm TEJA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-fundicion-diam-200-mm",
+      "m": 0,
+      "p": 34.29,
+      "s": "TUBO FUNDICIÓN DIÁM. 200 MM",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-fundicion-diam-250-mm",
+      "m": 0,
+      "p": 59.9,
+      "s": "TUBO FUNDICIÓN DIÁM. 250 MM",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-fundicion-diam-300-mm",
+      "m": 0,
+      "p": 78.03,
+      "s": "TUBO FUNDICIÓN DIÁM. 300 MM",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-fundicion-diam-500-mm",
+      "m": 0,
+      "p": 156.49,
+      "s": "TUBO FUNDICIÓN DIÁM. 500 MM",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-fundicion-diam-600-mm",
+      "m": 0,
+      "p": 209.87,
+      "s": "TUBO FUNDICIÓN DIÁM. 600 MM",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-fundicion-diam-700-mm",
+      "m": 0,
+      "p": 240.28,
+      "s": "TUBO FUNDICIÓN DIÁM. 700 MM",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-fundicion-diam-800-mm",
+      "m": 0,
+      "p": 275.49,
+      "s": "TUBO FUNDICIÓN DIÁM. 800 MM",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-gres-vitrificado-diam-1000-mm-ench-campana-junta-elasti",
+      "m": 0,
+      "p": 748.79,
+      "s": "TUBO GRES VITRIFICADO DIÁM. 1000 MM ENCH. CAMPANA JUNTA ELÁSTICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-gres-vitrificado-diam-200-mm-ench-campana-junta-elastic",
+      "m": 0,
+      "p": 22.69,
+      "s": "TUBO GRES VITRIFICADO DIÁM. 200 MM ENCH. CAMPANA JUNTA ELÁSTICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-gres-vitrificado-diam-250-mm-ench-campana-junta-elastic",
+      "m": 0,
+      "p": 32.03,
+      "s": "TUBO GRES VITRIFICADO DIÁM. 250 MM ENCH. CAMPANA JUNTA ELÁSTICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-gres-vitrificado-diam-300-mm-ench-campana-junta-elastic",
+      "m": 0,
+      "p": 41.38,
+      "s": "TUBO GRES VITRIFICADO DIÁM. 300 MM ENCH. CAMPANA JUNTA ELÁSTICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-gres-vitrificado-diam-400-mm-ench-campana-junta-elastic",
+      "m": 0,
+      "p": 67.41,
+      "s": "TUBO GRES VITRIFICADO DIÁM. 400 MM ENCH. CAMPANA JUNTA ELÁSTICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-gres-vitrificado-diam-500-mm-ench-campana-junta-elastic",
+      "m": 0,
+      "p": 107.05,
+      "s": "TUBO GRES VITRIFICADO DIÁM. 500 MM ENCH. CAMPANA JUNTA ELÁSTICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-gres-vitrificado-diam-600-mm-ench-campana-junta-elastic",
+      "m": 0,
+      "p": 142.82,
+      "s": "TUBO GRES VITRIFICADO DIÁM. 600 MM ENCH. CAMPANA JUNTA ELÁSTICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-gres-vitrificado-diam-700-mm-ench-campana-junta-elastic",
+      "m": 0,
+      "p": 266.95,
+      "s": "TUBO GRES VITRIFICADO DIÁM. 700 MM ENCH. CAMPANA JUNTA ELÁSTICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-gres-vitrificado-diam-800-mm-ench-campana-junta-elastic",
+      "m": 0,
+      "p": 427.12,
+      "s": "TUBO GRES VITRIFICADO DIÁM. 800 MM ENCH. CAMPANA JUNTA ELÁSTICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-hormigon-diam-200-mm-ench-campana-junta-elastica",
+      "m": 0,
+      "p": 5.95,
+      "s": "TUBO HORMIGÓN DIÁM. 200 mm ENCH. CAMPANA JUNTA ELASTICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-hormigon-diam-250-mm-ench-campana-junta-elastica",
+      "m": 0,
+      "p": 6.84,
+      "s": "TUBO HORMIGÓN DIÁM. 250 mm ENCH. CAMPANA JUNTA ELASTICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-hormigon-diam-300-mm-ench-campana-junta-elastica",
+      "m": 0,
+      "p": 7.09,
+      "s": "TUBO HORMIGÓN DIÁM. 300 mm ENCH. CAMPANA JUNTA ELASTICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-hormigon-diam-400-mm-ench-campana-junta-elastica",
+      "m": 0,
+      "p": 9.52,
+      "s": "TUBO HORMIGÓN DIÁM. 400 mm ENCH. CAMPANA JUNTA ELASTICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-hormigon-diam-500-mm-ench-campana-junta-elastica",
+      "m": 0,
+      "p": 11.66,
+      "s": "TUBO HORMIGÓN DIÁM. 500 mm ENCH. CAMPANA JUNTA ELASTICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-hormigon-diam-600-mm-ench-campana-junta-elastica",
+      "m": 0,
+      "p": 15.98,
+      "s": "TUBO HORMIGÓN DIÁM. 600 mm ENCH. CAMPANA JUNTA ELASTICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "alcantarillado"
+      ],
+      "id": "mt-tubo-hormigon-diam-800-mm-ench-campana-junta-elastica",
+      "m": 0,
+      "p": 21.63,
+      "s": "TUBO HORMIGÓN DIÁM. 800 mm ENCH. CAMPANA JUNTA ELASTICA",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-anillo-canino",
+      "m": 0,
+      "p": 460,
+      "s": "ANILLO CANINO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-aparato-biosaludable-balanceo-doble",
+      "m": 0,
+      "p": 606.61,
+      "s": "APARATO BIOSALUDABLE BALANCEO DOBLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-aparato-biosaludable-bicicleta-estatica",
+      "m": 0,
+      "p": 728.95,
+      "s": "APARATO BIOSALUDABLE BICICLETA ESTÁTICA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-aparato-biosaludable-columpio-doble-estiramiento-piernas",
+      "m": 0,
+      "p": 626.02,
+      "s": "APARATO BIOSALUDABLE COLUMPIO DOBLE ESTIRAMIENTO PIERNAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-aparato-biosaludable-eliptica",
+      "m": 0,
+      "p": 697.84,
+      "s": "APARATO BIOSALUDABLE ELÍPTICA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-aparato-biosaludable-flexion-de-brazos-doble",
+      "m": 0,
+      "p": 756.45,
+      "s": "APARATO BIOSALUDABLE FLEXIÓN DE BRAZOS DOBLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-aparato-biosaludable-volante-multiple",
+      "m": 0,
+      "p": 538.67,
+      "s": "APARATO BIOSALUDABLE VOLANTE MÚLTIPLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-arco-grande",
+      "m": 0,
+      "p": 159.58,
+      "s": "ARCO GRANDE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-arco-pequeno",
+      "m": 0,
+      "p": 129.81,
+      "s": "ARCO PEQUEÑO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-balancin-canino",
+      "m": 0,
+      "p": 550,
+      "s": "BALANCÍN CANINO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-balancin-doble-grande",
+      "m": 0,
+      "p": 1609.11,
+      "s": "BALANCÍN DOBLE GRANDE",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-banco-chapa-perforada-doble",
+      "m": 0,
+      "p": 371.37,
+      "s": "BANCO CHAPA PERFORADA DOBLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-banco-de-abdominales",
+      "m": 0,
+      "p": 1108.5,
+      "s": "BANCO DE ABDOMINALES",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-banco-de-fundicion-2-30-m",
+      "m": 0,
+      "p": 2768.64,
+      "s": "BANCO DE FUNDICIÓN 2.30 m.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-banco-de-hormigon-tipo-u",
+      "m": 0,
+      "p": 480.74,
+      "s": "BANCO DE HORMIGÓN TIPO U",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-banco-de-lumbares",
+      "m": 0,
+      "p": 986.92,
+      "s": "BANCO DE LUMBARES",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-banco-hormigon-con-respaldo",
+      "m": 0,
+      "p": 810.78,
+      "s": "BANCO HORMIGÓN CON RESPALDO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-banco-intemperie-soporte-metalico-y-asiento-pino-flandes",
+      "m": 0,
+      "p": 201.32,
+      "s": "BANCO INTEMPERIE, SOPORTE METÁLICO Y ASIENTO PINO FLANDES",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-banco-urbano-4-vigas",
+      "m": 0,
+      "p": 207.43,
+      "s": "BANCO URBANO 4 VIGAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-barra-de-saltos",
+      "m": 0,
+      "p": 246.61,
+      "s": "BARRA DE SALTOS",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-barra-de-sentadillas",
+      "m": 0,
+      "p": 443.4,
+      "s": "BARRA DE SENTADILLAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-barras-de-equilibrio",
+      "m": 0,
+      "p": 507.76,
+      "s": "BARRAS DE EQUILIBRIO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-barras-de-flexiones",
+      "m": 0,
+      "p": 550.67,
+      "s": "BARRAS DE FLEXIONES",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-barras-paralelas",
+      "m": 0,
+      "p": 665.1,
+      "s": "BARRAS PARALELAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-barras-suspendidas",
+      "m": 0,
+      "p": 708.01,
+      "s": "BARRAS SUSPENDIDAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-canasta-fija-de-baloncesto-antiandalica",
+      "m": 0,
+      "p": 1644.87,
+      "s": "CANASTA FIJA DE BALONCESTO ANTIANDÁLICA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-canasta-minibasket-antivandalica",
+      "m": 0,
+      "p": 708.01,
+      "s": "CANASTA MINIBASKET ANTIVANDÁLICA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-carrusel",
+      "m": 0,
+      "p": 1416.02,
+      "s": "CARRUSEL",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-cartel-parque-de-perros",
+      "m": 0,
+      "p": 125,
+      "s": "CARTEL PARQUE DE PERROS",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-columpio-doble-mixto",
+      "m": 0,
+      "p": 1122.8,
+      "s": "COLUMPIO DOBLE MIXTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-columpio-doble-mixto-adaptado",
+      "m": 0,
+      "p": 1322.8,
+      "s": "COLUMPIO DOBLE MIXTO ADAPTADO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-columpio-nido",
+      "m": 0,
+      "p": 2219.62,
+      "s": "COLUMPIO NIDO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-columpio-simple",
+      "m": 0,
+      "p": 272.73,
+      "s": "COLUMPIO SIMPLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-columpio-triple",
+      "m": 0,
+      "p": 394.93,
+      "s": "COLUMPIO TRIPLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-conjunto-de-vallas-de-salto",
+      "m": 0,
+      "p": 607.89,
+      "s": "CONJUNTO DE VALLAS DE SALTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-ducha-para-playa",
+      "m": 0,
+      "p": 1859.41,
+      "s": "DUCHA PARA PLAYA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-escalera-horizontal",
+      "m": 0,
+      "p": 1501.83,
+      "s": "ESCALERA HORIZONTAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-espaldera-doble",
+      "m": 0,
+      "p": 1752.14,
+      "s": "ESPALDERA DOBLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-fuente-agua-potable-fundicion",
+      "m": 0,
+      "p": 2102.65,
+      "s": "FUENTE AGUA POTABLE FUNDICIÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-fuente-doble-de-mascotas",
+      "m": 0,
+      "p": 549.99,
+      "s": "FUENTE DOBLE DE MASCOTAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-juego-biosaludable-giro-cintura",
+      "m": 0,
+      "p": 946.31,
+      "s": "JUEGO BIOSALUDABLE GIRO CINTURA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-juego-canastas-baloncesto-fijas-con-tablero-de-madera",
+      "m": 0,
+      "p": 519.89,
+      "s": "JUEGO CANASTAS BALONCESTO FIJAS CON TABLERO DE MADERA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-juego-canastas-baloncesto-moviles-con-tablero-de-madera",
+      "m": 0,
+      "p": 2387.73,
+      "s": "JUEGO CANASTAS BALONCESTO MÓVILES CON TABLERO DE MADERA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-juego-de-anclajes-para-postes-de-tenis",
+      "m": 0,
+      "p": 63.83,
+      "s": "JUEGO DE ANCLAJES PARA POSTES DE TENIS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-juego-de-postes-de-tenis",
+      "m": 0,
+      "p": 177.65,
+      "s": "JUEGO DE POSTES DE TENIS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-juego-de-red-de-polietileno-cableado-negro-monofilamento",
+      "m": 0,
+      "p": 158.04,
+      "s": "JUEGO DE RED DE POLIETILENO CABLEADO NEGRO MONOFILAMENTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-juego-de-redes-de-balonmano-de-nylon",
+      "m": 0,
+      "p": 79.34,
+      "s": "JUEGO DE REDES DE BALONMANO DE NYLON",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-juego-multiactividad-2-torres",
+      "m": 0,
+      "p": 19394.26,
+      "s": "JUEGO MULTIACTIVIDAD 2 TORRES",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-juego-multiactividad-2-torres-6be6",
+      "m": 0,
+      "p": 31934.36,
+      "s": "JUEGO MULTIACTIVIDAD 2 TORRES",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-juego-plataforma-cuadrada-para-anclaje-de-canastas-fija",
+      "m": 0,
+      "p": 126.38,
+      "s": "JUEGO PLATAFORMA CUADRADA PARA ANCLAJE DE CANASTAS FIJA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-juego-porterias-balonmano-reglamentarias",
+      "m": 0,
+      "p": 832.06,
+      "s": "JUEGO PORTERÍAS BALONMANO REGLAMENTARIAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-laberinto-cubico",
+      "m": 0,
+      "p": 490.23,
+      "s": "LABERINTO CÚBICO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-macolla-de-anilla-20x35-diag-interior-16-mm",
+      "m": 0,
+      "p": 0.29,
+      "s": "MACOLLA DE ANILLA 20x35 DIAG. INTERIOR 16 mm",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-macolla-de-base-40x35-diag-interior-16-mm",
+      "m": 0,
+      "p": 0.53,
+      "s": "MACOLLA DE BASE 40x35 DIAG. INTERIOR 16 mm",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-macolla-intermedia-70x35-diag-interior-16-mm",
+      "m": 0,
+      "p": 1.12,
+      "s": "MACOLLA INTERMEDIA 70x35 DIAG. INTERIOR 16 mm",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-malla-galv-de-60x120-mm-con-plet-25x2-mm-de-4-mm-diam",
+      "m": 0,
+      "p": 33.4,
+      "s": "MALLA GALV. DE 60x120 mm CON PLET. 25x2 mm DE 4 mm DIAM.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-malla-galv-electrosoldada-en-paneles-rigidos",
+      "m": 0,
+      "p": 8.6,
+      "s": "MALLA GALV. ELECTROSOLDADA EN PANELES RÍGIDOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-malla-galv-rizada-de-3-mm-diam-enmarcada-con-l-35x35x3-mm",
+      "m": 0,
+      "p": 12.9,
+      "s": "MALLA GALV. RIZADA DE 3 mm DIÁM. ENMARCADA CON \"L\" 35x35x3 mm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-malla-galv-simple-torsion",
+      "m": 0,
+      "p": 2.62,
+      "s": "MALLA GALV. SIMPLE TORSIÓN",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-mesa-de-juegos-exterior",
+      "m": 0,
+      "p": 350.5,
+      "s": "MESA DE JUEGOS EXTERIOR",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-mesa-picnic-de-madera-con-bancos-de-2m",
+      "m": 0,
+      "p": 663.43,
+      "s": "MESA PICNIC DE MADERA CON BANCOS DE 2M",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-muelle-doble",
+      "m": 0,
+      "p": 701.57,
+      "s": "MUELLE DOBLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-muelle-estrella-4-asientos",
+      "m": 0,
+      "p": 560.06,
+      "s": "MUELLE ESTRELLA 4 ASIENTOS",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-muelle-simple",
+      "m": 0,
+      "p": 549,
+      "s": "MUELLE SIMPLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-palanca-basculante-4-asientos",
+      "m": 0,
+      "p": 204.51,
+      "s": "PALANCA BASCULANTE 4 ASIENTOS",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-papelera-canina",
+      "m": 0,
+      "p": 459.9,
+      "s": "PAPELERA CANINA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-papelera-circular-de-madera",
+      "m": 0,
+      "p": 219.9,
+      "s": "PAPELERA CIRCULAR DE MADERA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-papelera-de-fundicion-estilo-historico",
+      "m": 0,
+      "p": 405.35,
+      "s": "PAPELERA DE FUNDICIÓN ESTILO HISTÓRICO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-papelera-de-hormigon-prefabricado",
+      "m": 0,
+      "p": 646.64,
+      "s": "PAPELERA DE HORMIGÓN PREFABRICADO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-papelera-metalica-con-cenicero",
+      "m": 0,
+      "p": 309,
+      "s": "PAPELERA METÁLICA CON CENICERO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-papelera-pletina-y-chapa-perf-sopor-basc",
+      "m": 0,
+      "p": 84.85,
+      "s": "PAPELERA PLETINA Y CHAPA PERF., SOPOR. BASC.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-papelera-publica-de-pvc-con-soporte-metalico",
+      "m": 0,
+      "p": 57.84,
+      "s": "PAPELERA PÚBLICA DE PVC CON SOPORTE METALICO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-papelera-publica-pvc",
+      "m": 0,
+      "p": 43.31,
+      "s": "PAPELERA PÚBLICA PVC",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-papelera-urbana-2-residuos",
+      "m": 0,
+      "p": 439.95,
+      "s": "PAPELERA URBANA 2 RESIDUOS",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-papelera-urbana-3-residuos-reciclaje",
+      "m": 0,
+      "p": 1279.9,
+      "s": "PAPELERA URBANA 3 RESIDUOS RECICLAJE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-paralelas-simples",
+      "m": 0,
+      "p": 87,
+      "s": "PARALELAS SIMPLES",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-pivote-de-equilibrio",
+      "m": 0,
+      "p": 221.7,
+      "s": "PIVOTE DE EQUILIBRIO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-platafoma-y-puente-adaptado",
+      "m": 0,
+      "p": 2306.35,
+      "s": "Platafoma y puente adaptado",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-porteria-futbol",
+      "m": 0,
+      "p": 715.16,
+      "s": "PORTERÍA FÚTBOL",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-poste-chapa-conformada-ac-galv",
+      "m": 0,
+      "p": 6.12,
+      "s": "POSTE CHAPA CONFORMADA AC. GALV.",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-poste-metalico-diam-50-mm-galvanizado",
+      "m": 0,
+      "p": 4.68,
+      "s": "POSTE METÁLICO DIAM. 50 mm GALVANIZADO",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-poste-metalico-galvanizado-de-60-mm",
+      "m": 0,
+      "p": 6.78,
+      "s": "POSTE METÁLICO GALVANIZADO DE 60 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-poste-voleibol",
+      "m": 0,
+      "p": 309.9,
+      "s": "POSTE VOLEIBOL",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-poste-voleiplaya-resistente-a-la-intemperie",
+      "m": 0,
+      "p": 359.65,
+      "s": "POSTE VOLEIPLAYA RESISTENTE A LA INTEMPERIE",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-punta-de-lanza-65x190-mm-diag-interior-16-mm",
+      "m": 0,
+      "p": 1.12,
+      "s": "PUNTA DE LANZA 65x190 mm DIAG. INTERIOR 16 mm",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-rampa-canina",
+      "m": 0,
+      "p": 700,
+      "s": "RAMPA CANINA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-red-de-proteccion-de-nylon-con-poste-de-acero-galvanizado",
+      "m": 0,
+      "p": 162.32,
+      "s": "RED DE PROTECCIÓN DE NYLON CON POSTE DE ACERO GALVANIZADO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-red-tridimensional",
+      "m": 0,
+      "p": 5661.94,
+      "s": "RED TRIDIMENSIONAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-red-voleibol",
+      "m": 0,
+      "p": 51.4,
+      "s": "RED VOLEIBOL",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-slalom-canino",
+      "m": 0,
+      "p": 55.68,
+      "s": "SLALOM CANINO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-tobogan-grande",
+      "m": 0,
+      "p": 948.66,
+      "s": "TOBOGÁN GRANDE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-tobogan-mediano",
+      "m": 0,
+      "p": 456.94,
+      "s": "TOBOGAN MEDIANO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-tobogan-pequeno",
+      "m": 0,
+      "p": 485.55,
+      "s": "TOBOGÁN PEQUEÑO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-trampolin-simple",
+      "m": 0,
+      "p": 57.89,
+      "s": "TRAMPOLÍN SIMPLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-tunel-canino",
+      "m": 0,
+      "p": 1900,
+      "s": "TUNEL CANINO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "amueblamiento-urbano"
+      ],
+      "id": "mt-valla-de-salto-canina",
+      "m": 0,
+      "p": 380,
+      "s": "VALLA DE SALTO CANINA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-alumbrado-interior-c-t-punto-luz-blindado",
+      "m": 0,
+      "p": 230.63,
+      "s": "ALUMBRADO INTERIOR C.T. PUNTO LUZ BLINDADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-armario-metalico-para-alumbrado-publico",
+      "m": 0,
+      "p": 147.75,
+      "s": "ARMARIO METÁLICO PARA ALUMBRADO PÚBLICO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-baculo-acero-galvanizado-9-m-y-brazo-1-5-m",
+      "m": 0,
+      "p": 327,
+      "s": "BÁCULO ACERO GALVANIZADO 9 m Y BRAZO 1,5 m",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-baculo-recto-acero-galvanizado-3-70-m",
+      "m": 0,
+      "p": 78.25,
+      "s": "BÁCULO RECTO ACERO GALVANIZADO 3,70 m",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-baculo-recto-aluminio-anodizado-3-70-m",
+      "m": 0,
+      "p": 205.91,
+      "s": "BÁCULO RECTO ALUMINIO ANODIZADO 3,70 m",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-baculo-recto-fundicion-3-70-m",
+      "m": 0,
+      "p": 168.83,
+      "s": "BÁCULO RECTO FUNDICIÓN 3,70 m",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-brazo-acero-galvanizado-2-m",
+      "m": 0,
+      "p": 45.74,
+      "s": "BRAZO ACERO GALVANIZADO 2 m",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-brazo-de-farola-acero-galvanizado",
+      "m": 0,
+      "p": 24.95,
+      "s": "BRAZO DE FAROLA ACERO GALVANIZADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-brazo-de-farola-aluminio-anodizado",
+      "m": 0,
+      "p": 30.77,
+      "s": "BRAZO DE FAROLA ALUMINIO ANODIZADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-brazo-de-farola-fundicion",
+      "m": 0,
+      "p": 46.57,
+      "s": "BRAZO DE FAROLA FUNDICIÓN",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-cable-aluminio-1x10-mm2-1000-v",
+      "m": 0,
+      "p": 0.88,
+      "s": "CABLE ALUMINIO 1x10 mm2/1000 V",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-cable-aluminio-1x120mm2-1000-v",
+      "m": 0,
+      "p": 4.07,
+      "s": "CABLE ALUMINIO 1X120mm2/1000 V",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-cable-aluminio-1x16-mm2-1000-v",
+      "m": 0,
+      "p": 1.1,
+      "s": "CABLE ALUMINIO 1X16 mm2/1000 V",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-cable-aluminio-1x25-mm2-1000-v",
+      "m": 0,
+      "p": 1.46,
+      "s": "CABLE ALUMINIO 1x25 mm2/1000 V",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-cable-aluminio-1x35-mm2-1000-v",
+      "m": 0,
+      "p": 1.82,
+      "s": "CABLE ALUMINIO 1x35 mm2/1000 V",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-cable-aluminio-1x50-mm2-1000-v",
+      "m": 0,
+      "p": 2.24,
+      "s": "CABLE ALUMINIO 1x50 mm2/1000 V",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-cable-aluminio-1x70-mm2-1000-v",
+      "m": 0,
+      "p": 2.46,
+      "s": "CABLE ALUMINIO 1x70 mm2/1000 V",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-cable-aluminio-1x95-mm2-1000-v",
+      "m": 0,
+      "p": 3.72,
+      "s": "CABLE ALUMINIO 1x95 mm2/1000 V",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-caseta-prefabricada-de-hormigon-para-c-t-de-4-28x2-52m",
+      "m": 0,
+      "p": 11308.62,
+      "s": "CASETA PREFABRICADA DE HORMIGÓN PARA C.T. DE 4,28x2,52m",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-celda-entrada-o-salida-ruptor-autom-seccion-p-a-t",
+      "m": 0,
+      "p": 2543.57,
+      "s": "CELDA ENTRADA O SALIDA, RUPTOR AUTOM. SECCIÓN P.A.T.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-celda-proteccion-ruptor-autom-secc-p-a-t-y-fusib",
+      "m": 0,
+      "p": 2967.51,
+      "s": "CELDA PROTECCION, RUPTOR AUTOM. SECC. P.A.T. Y FUSIB.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-cinta-de-pe-para-senalizacion-de-canalizacion-electrica",
+      "m": 0,
+      "p": 0.31,
+      "s": "CINTA DE PE PARA SEÑALIZACIÓN DE CANALIZACIÓN ELÉCTRICA",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-conjunto-cable-a-t-cobre-1x25mm2-12-20-kv",
+      "m": 0,
+      "p": 888.04,
+      "s": "CONJUNTO CABLE A.T. COBRE 1x25mm2, 12/20 kV",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-conjunto-cable-b-t-aluminio-1x240mm2-06-1-kv",
+      "m": 0,
+      "p": 773.57,
+      "s": "CONJUNTO CABLE B.T. ALUMINIO 1x240mm2, 06/1 kV",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-cuadro-de-proteccion-de-fusibles",
+      "m": 0,
+      "p": 18.6,
+      "s": "CUADRO DE PROTECCIÓN DE FUSIBLES",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-equipo-de-seguridad-de-c-t",
+      "m": 0,
+      "p": 265.39,
+      "s": "EQUIPO DE SEGURIDAD DE C.T.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-farol-chapa-acero-con-vidrio-impreso",
+      "m": 0,
+      "p": 114.94,
+      "s": "FAROL CHAPA ACERO CON VIDRIO IMPRESO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-farol-esferico-metacrilato-opal-diam-450-mm",
+      "m": 0,
+      "p": 22.13,
+      "s": "FAROL ESFERICO METACRILATO OPAL DIÁM. 450 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-farol-esferico-polietileno-mateado-diam-450-mm",
+      "m": 0,
+      "p": 103.76,
+      "s": "FAROL ESFERICO POLIETILENO MATEADO DIÁM. 450 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-farol-fundicion-con-vidrio-impreso",
+      "m": 0,
+      "p": 313.49,
+      "s": "FAROL FUNDICIÓN CON VIDRIO IMPRESO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-juego-de-pernios-y-placa-de-anclaje",
+      "m": 0,
+      "p": 4.36,
+      "s": "JUEGO DE PERNIOS Y PLACA DE ANCLAJE",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-lampara-vapor-mercurio-c-c-125-w",
+      "m": 0,
+      "p": 10.73,
+      "s": "LÁMPARA VAPOR MERCURIO C.C. 125 W",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-lampara-vapor-mercurio-c-c-250-w",
+      "m": 0,
+      "p": 20.88,
+      "s": "LÁMPARA VAPOR MERCURIO C.C. 250 W",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-luminaria-esferica-diam-450-mm",
+      "m": 0,
+      "p": 94.45,
+      "s": "LUMINARIA ESFÉRICA DIÁM. 450 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-luminaria-estanca-con-reflector-y-globo",
+      "m": 0,
+      "p": 96.36,
+      "s": "LUMINARIA ESTANCA CON REFLECTOR Y GLOBO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-malla-proteccion-transformador",
+      "m": 0,
+      "p": 290.91,
+      "s": "MALLA PROTECCIÓN TRANSFORMADOR",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-reactancia-y-condensador-para-125-w",
+      "m": 0,
+      "p": 16.35,
+      "s": "REACTANCIA Y CONDENSADOR PARA 125 W",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-reactancia-y-condensador-para-250-w",
+      "m": 0,
+      "p": 24.31,
+      "s": "REACTANCIA Y CONDENSADOR PARA 250 W",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-red-tierra-cable-cobre-50-mm2-electrolitico-2-tomas",
+      "m": 0,
+      "p": 388.86,
+      "s": "RED TIERRA CABLE COBRE 50 mm2, ELECTROLITICO 2 TOMAS",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-tapa-de-fundicion-60x60-cm",
+      "m": 0,
+      "p": 83.95,
+      "s": "TAPA DE FUNDICIÓN 60X60 cm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-toma-de-tierra",
+      "m": 0,
+      "p": 24.23,
+      "s": "TOMA DE TIERRA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-tuberia-pead-diam-250mm-doble-pared-tipo-450n-para-cond-cabl",
+      "m": 0,
+      "p": 9.25,
+      "s": "TUBERÍA PEAD DIÁM. 250mm DOBLE PARED TIPO 450N PARA COND. CABLES",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-tuberia-pvc-ligera-diam-110-mm-para-cond-cables",
+      "m": 0,
+      "p": 1.97,
+      "s": "TUBERÍA PVC LIGERA DIÁM. 110 mm PARA COND. CABLES",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-tuberia-pvc-ligera-diam-125-mm-para-cond-cables",
+      "m": 0,
+      "p": 2.47,
+      "s": "TUBERÍA PVC LIGERA DIÁM. 125 mm PARA COND. CABLES",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-tuberia-pvc-ligera-diam-140-mm-para-cond-cables",
+      "m": 0,
+      "p": 3.05,
+      "s": "TUBERÍA PVC LIGERA DIÁM. 140 mm PARA COND. CABLES",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-tuberia-pvc-ligera-diam-160-mm-para-cond-cables",
+      "m": 0,
+      "p": 3.87,
+      "s": "TUBERÍA PVC LIGERA DIÁM. 160 mm PARA COND. CABLES",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-tuberia-pvc-ligera-diam-40-mm-para-cond-cables",
+      "m": 0,
+      "p": 0.6,
+      "s": "TUBERÍA PVC LIGERA DIÁM. 40 mm PARA COND. CABLES",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-tuberia-pvc-ligera-diam-50-mm-para-cond-cables",
+      "m": 0,
+      "p": 0.83,
+      "s": "TUBERÍA PVC LIGERA DIÁM. 50 mm PARA COND. CABLES",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-tuberia-pvc-ligera-diam-60-mm-para-cond-cables",
+      "m": 0,
+      "p": 0.98,
+      "s": "TUBERÍA PVC LIGERA DIÁM. 60 mm PARA COND. CABLES",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-tuberia-pvc-ligera-diam-63-mm-para-cond-cables",
+      "m": 0,
+      "p": 1.07,
+      "s": "TUBERÍA PVC LIGERA DIÁM. 63 mm PARA COND. CABLES",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-tuberia-pvc-ligera-diam-75-mm-para-cond-cables",
+      "m": 0,
+      "p": 1.19,
+      "s": "TUBERÍA PVC LIGERA DIÁM. 75 mm PARA COND. CABLES",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-tuberia-pvc-ligera-diam-90-mm-para-cond-cables",
+      "m": 0,
+      "p": 1.76,
+      "s": "TUBERÍA PVC LIGERA DIÁM. 90 mm PARA COND. CABLES",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-tubo-fibrocemento-ligero-diam-100-mm",
+      "m": 0,
+      "p": 3.95,
+      "s": "TUBO FIBROCEMENTO LIGERO DIÁM. 100 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-tubo-fibrocemento-ligero-diam-60-mm",
+      "m": 0,
+      "p": 2.57,
+      "s": "TUBO FIBROCEMENTO LIGERO DIÁM. 60 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "electricidad"
+      ],
+      "id": "mt-tubo-fibrocemento-ligero-diam-80-mm",
+      "m": 0,
+      "p": 3.75,
+      "s": "TUBO FIBROCEMENTO LIGERO DIÁM. 80 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-deposito-prop-but-15000-l-chapa-de-acero",
+      "m": 0,
+      "p": 11347.94,
+      "s": "DEPÓSITO PROP-BUT. 15000 l CHAPA DE ACERO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-deposito-prop-but-red-prot-catod-10000-l-chapa-de-acero",
+      "m": 0,
+      "p": 7680.61,
+      "s": "DEPÓSITO PROP-BUT. RED PROT. CATOD. 10000 l CHAPA DE ACERO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-deposito-prop-but-red-prot-catod-7000l-chapa-de-acero",
+      "m": 0,
+      "p": 6236.13,
+      "s": "DEPOSITO PROP-BUT.RED PROT.CATOD. 7000L. CHAPA DE ACERO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-limitador-de-caudal",
+      "m": 0,
+      "p": 97.83,
+      "s": "LIMITADOR DE CAUDAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-limitador-de-presion",
+      "m": 0,
+      "p": 33.43,
+      "s": "LIMITADOR DE PRESIÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-llave-cierre-embridada-tubo-gas-33-7-mm-diam-ext",
+      "m": 0,
+      "p": 74.76,
+      "s": "LLAVE CIERRE EMBRIDADA TUBO GAS 33,7 mm DIÁM. EXT.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-llave-cierre-embridada-tubo-gas-48-3-mm-diam-ext",
+      "m": 0,
+      "p": 105.12,
+      "s": "LLAVE CIERRE EMBRIDADA TUBO GAS 48,3 mm DIÁM. EXT",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-llave-cierre-embridada-tubo-gas-60-3-mm-diam-ext",
+      "m": 0,
+      "p": 133.16,
+      "s": "LLAVE CIERRE EMBRIDADA TUBO GAS 60,3 mm DIÁM. EXT.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-llave-cierre-embridada-tubo-gas-76-1-mm-diam-ext",
+      "m": 0,
+      "p": 177.14,
+      "s": "LLAVE CIERRE EMBRIDADA TUBO GAS 76,1 mm DIÁM. EXT.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-llave-de-corte-de-bola-diam-1-1-2-36-40-mm",
+      "m": 0,
+      "p": 10.28,
+      "s": "LLAVE DE CORTE DE BOLA DIÁM. 1 1/2\" (36/40 mm)",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-llave-de-corte-de-bola-diam-1-1-4-28-32-mm",
+      "m": 0,
+      "p": 6.89,
+      "s": "LLAVE DE CORTE DE BOLA DIÁM. 1 1/4\" (28/32 mm)",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-llave-de-corte-de-bola-diam-1-2-11-13-mm",
+      "m": 0,
+      "p": 2,
+      "s": "LLAVE DE CORTE DE BOLA DIÁM. 1/2\" (11/13 mm)",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-llave-de-corte-de-bola-diam-1-22-25-mm",
+      "m": 0,
+      "p": 3.87,
+      "s": "LLAVE DE CORTE DE BOLA DIÁM. 1\" (22/25 mm)",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-llave-de-corte-de-bola-diam-2-1-2-65-70-mm",
+      "m": 0,
+      "p": 32.32,
+      "s": "LLAVE DE CORTE DE BOLA DIÁM. 2 1/2\" (65/70 mm)",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-llave-de-corte-de-bola-diam-2-50-60-mm",
+      "m": 0,
+      "p": 15.94,
+      "s": "LLAVE DE CORTE DE BOLA DIÁM. 2\" (50/60 mm)",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-llave-de-corte-de-bola-diam-3-4-15-20-mm",
+      "m": 0,
+      "p": 2.76,
+      "s": "LLAVE DE CORTE DE BOLA DIÁM. 3/4\" (15/20 mm)",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-llave-de-corte-de-bola-diam-3-75-80-mm",
+      "m": 0,
+      "p": 43.65,
+      "s": "LLAVE DE CORTE DE BOLA DIÁM. 3\" (75/80 mm)",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-llave-de-corte-de-bola-diam-4-110-120-mm",
+      "m": 0,
+      "p": 125.79,
+      "s": "LLAVE DE CORTE DE BOLA DIÁM. 4\" (110/120 mm)",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-llave-de-corte-de-bola-diam-5-130-140-mm",
+      "m": 0,
+      "p": 232.27,
+      "s": "LLAVE DE CORTE DE BOLA DIÁM. 5\" (130/140 mm)",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-manometro-tipo-1",
+      "m": 0,
+      "p": 13.55,
+      "s": "MANÓMETRO TIPO 1",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-medidor-de-nivel-con-indicador-de-punto",
+      "m": 0,
+      "p": 43.58,
+      "s": "MEDIDOR DE NIVEL CON INDICADOR DE PUNTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-proteccion-con-anodos-de-magnesio-e-hilo-de-cobre",
+      "m": 0,
+      "p": 867.23,
+      "s": "PROTECCIÓN CON ÁNODOS DE MAGNESIO E HILO DE COBRE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-valvula-de-purga-de-deposito-de-propano-butano-de-1-2",
+      "m": 0,
+      "p": 25.55,
+      "s": "VÁLVULA DE PURGA DE DEPÓSITO DE PROPANO-BUTANO DE 1/2\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-valvula-de-seguridad-de-deposito-propano-butano-1",
+      "m": 0,
+      "p": 34,
+      "s": "VÁLVULA DE SEGURIDAD DE DEPÓSITO PROPANO-BUTANO 1\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "gases-y-licuados"
+      ],
+      "id": "mt-valvula-para-llenado-de-deposito-de-propano-butano-1",
+      "m": 0,
+      "p": 38.73,
+      "s": "VÁLVULA PARA LLENADO DE DEPÓSITO DE PROPANO-BUTANO 1\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "indicadores-y-senales"
+      ],
+      "id": "mt-juego-de-soportes-para-rotulo",
+      "m": 0,
+      "p": 9,
+      "s": "JUEGO DE SOPORTES PARA RÓTULO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "indicadores-y-senales"
+      ],
+      "id": "mt-juego-de-soportes-para-senal-de-trafico",
+      "m": 0,
+      "p": 28.79,
+      "s": "JUEGO DE SOPORTES PARA SEÑAL DE TRAFICO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "indicadores-y-senales"
+      ],
+      "id": "mt-pintura-reflexiva-con-esferas-de-vidrio",
+      "m": 0,
+      "p": 14.84,
+      "s": "PINTURA REFLEXIVA CON ESFERAS DE VIDRIO",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "indicadores-y-senales"
+      ],
+      "id": "mt-placa-circular-de-obligacion-chapa-cincada-diam-60-cm",
+      "m": 0,
+      "p": 56.12,
+      "s": "PLACA CIRCULAR DE OBLIGACIÓN CHAPA CINCADA DIAM. 60 cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "indicadores-y-senales"
+      ],
+      "id": "mt-placa-circular-de-prohibicion-chapa-cincada-diam-60-cm",
+      "m": 0,
+      "p": 56.12,
+      "s": "PLACA CIRCULAR DE PROHIBICIÓN CHAPA CINCADA DIAM. 60 cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "indicadores-y-senales"
+      ],
+      "id": "mt-placa-cuadrada-de-indicacion-chapa-cincada-60x60-cm",
+      "m": 0,
+      "p": 60.88,
+      "s": "PLACA CUADRADA DE INDICACIÓN CHAPA CINCADA 60x60 cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "indicadores-y-senales"
+      ],
+      "id": "mt-placa-cuadrada-de-prohibicion-chapa-cincada-60x60-cm",
+      "m": 0,
+      "p": 63.64,
+      "s": "PLACA CUADRADA DE PROHIBICIÓN CHAPA CINCADA 60x60 cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "indicadores-y-senales"
+      ],
+      "id": "mt-placa-octogonal-de-stop-chapa-cincada-doble-apotema-60-cm",
+      "m": 0,
+      "p": 64,
+      "s": "PLACA OCTOGONAL DE STOP CHAPA CINCADA DOBLE APOTEMA 60 cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "indicadores-y-senales"
+      ],
+      "id": "mt-placa-octogonal-de-stop-chapa-cincada-doble-apotema-90-cm",
+      "m": 0,
+      "p": 118.62,
+      "s": "PLACA OCTOGONAL DE STOP CHAPA CINCADA DOBLE APOTEMA 90 cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "indicadores-y-senales"
+      ],
+      "id": "mt-placa-rectangular-de-indicacion-chapa-cincada-90x30-cm",
+      "m": 0,
+      "p": 61.24,
+      "s": "PLACA RECTANGULAR DE INDICACIÓN CHAPA CINCADA 90x30 cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "indicadores-y-senales"
+      ],
+      "id": "mt-placa-rectangular-de-indicacion-chapa-cincada-90x60-cm",
+      "m": 0,
+      "p": 129.49,
+      "s": "PLACA RECTANGULAR DE INDICACIÓN CHAPA CINCADA 90x60 cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "indicadores-y-senales"
+      ],
+      "id": "mt-placa-triangular-de-peligro-chapa-cincada-70x70-cm",
+      "m": 0,
+      "p": 49.63,
+      "s": "PLACA TRIANGULAR DE PELIGRO CHAPA CINCADA 70X70 cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "indicadores-y-senales"
+      ],
+      "id": "mt-placa-triangular-de-peligro-chapa-cincada-90x90-cm",
+      "m": 0,
+      "p": 61.13,
+      "s": "PLACA TRIANGULAR DE PELIGRO CHAPA CINCADA 90x90 cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "indicadores-y-senales"
+      ],
+      "id": "mt-rotulo-de-grupo-o-calle-chapa-cincada",
+      "m": 0,
+      "p": 112.2,
+      "s": "RÓTULO DE GRUPO O CALLE CHAPA CINCADA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "indicadores-y-senales"
+      ],
+      "id": "mt-rotulo-denominador-calle",
+      "m": 0,
+      "p": 33.16,
+      "s": "RÓTULO DENOMINADOR CALLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "indicadores-y-senales"
+      ],
+      "id": "mt-rotulo-denominador-conjunto",
+      "m": 0,
+      "p": 114.96,
+      "s": "RÓTULO DENOMINADOR CONJUNTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-abono-biologico",
+      "m": 0,
+      "p": 0.5,
+      "s": "ABONO BIOLÓGICO",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-abono-quimico",
+      "m": 0,
+      "p": 0.5,
+      "s": "ABONO QUÍMICO",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-abonos",
+      "m": 0,
+      "p": 214.13,
+      "s": "ABONOS",
+      "u": "t"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-acanthus-mollis-40-50",
+      "m": 0,
+      "p": 5.43,
+      "s": "ACANTHUS MOLLIS 40/50",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-agapanthus-africanus-20-30",
+      "m": 0,
+      "p": 2.82,
+      "s": "AGAPANTHUS AFRICANUS 20/30",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-agapanthus-album-clase-i",
+      "m": 0,
+      "p": 1.57,
+      "s": "AGAPANTHUS ALBUM CLASE I",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-agua-de-riego",
+      "m": 0,
+      "p": 0.63,
+      "s": "AGUA DE RIEGO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-arbol-de-naranjo",
+      "m": 0,
+      "p": 165,
+      "s": "ARBOL DE NARANJO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-arbol-de-raices-superficiales",
+      "m": 0,
+      "p": 124,
+      "s": "ÁRBOL DE RAICES SUPERFICIALES",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-arbol-sombra-hoja-caduca-2-50-m",
+      "m": 0,
+      "p": 16.19,
+      "s": "ÁRBOL SOMBRA HOJA CADUCA 2,50 m",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-arbol-sombra-hoja-perenne-2-50-m",
+      "m": 0,
+      "p": 16.88,
+      "s": "ÁRBOL SOMBRA HOJA PERENNE 2,50 m",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-arbusto-corriente-porte-medio",
+      "m": 0,
+      "p": 11.56,
+      "s": "ARBUSTO CORRIENTE PORTE MEDIO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-arbusto-especial-gran-porte",
+      "m": 0,
+      "p": 14.56,
+      "s": "ARBUSTO ESPECIAL GRAN PORTE",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-bolardo-de-hormigon-prefabricado-d-30cm",
+      "m": 0,
+      "p": 28.84,
+      "s": "BOLARDO DE HORMIGÓN PREFABRICADO D=30CM",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-bolardo-fundicion-abatible-0-75-m",
+      "m": 0,
+      "p": 592.66,
+      "s": "BOLARDO FUNDICIÓN ABATIBLE 0,75 m",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-bolardo-fundicion-fuste-grueso",
+      "m": 0,
+      "p": 120.19,
+      "s": "BOLARDO FUNDICIÓN FUSTE GRUESO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-buxus-sempervirens-30-40",
+      "m": 0,
+      "p": 10.28,
+      "s": "BUXUS SEMPERVIRENS 30/40",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-carpobructos-adulis",
+      "m": 0,
+      "p": 3.05,
+      "s": "CARPOBRUCTOS ADULIS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-03",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-catalpa-bignonioides-6-8-cm",
+      "m": 0,
+      "p": 25,
+      "s": "CATALPA BIGNONIOIDES 6-8 CM",
+      "u": "u"
+    },
+    {
+      "d": "2022-03",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-chamaerops-humilis-100-120",
+      "m": 0,
+      "p": 100,
+      "s": "CHAMAEROPS HUMILIS 100/120",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-cipres-de-arizona-de-5-6m-de-altura",
+      "m": 0,
+      "p": 104.5,
+      "s": "CIPRÉS DE ARIZONA DE 5-6M DE ALTURA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-ciruelo-rojo-de-diametro-de-25-a-30-cm",
+      "m": 0,
+      "p": 84.5,
+      "s": "CIRUELO ROJO DE DIÁMETRO DE 25 A 30 CM",
+      "u": "u"
+    },
+    {
+      "d": "2022-03",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-ciruelo-rojo-prunus-c-pissardii-calibre-6-8",
+      "m": 0,
+      "p": 23,
+      "s": "CIRUELO ROJO (PRUNUS C PISSARDII) CALIBRE 6-8",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-citrus-mirtifolia-18-20",
+      "m": 0,
+      "p": 517.18,
+      "s": "CITRUS MIRTIFOLIA 18-20",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-conifera-decorativa-buen-porte",
+      "m": 0,
+      "p": 74.31,
+      "s": "CONIFERA DECORATIVA, BUEN PORTE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-conifera-resinosa-gran-altura-y-grosor-3-m",
+      "m": 0,
+      "p": 107.57,
+      "s": "CONIFERA RESINOSA GRAN ALTURA Y GROSOR 3 m",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-corteza-de-pino-seleccionada",
+      "m": 0,
+      "p": 26.75,
+      "s": "CORTEZA DE PINO SELECCIONADA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-cyclamen-persicum",
+      "m": 0,
+      "p": 0.85,
+      "s": "CYCLAMEN PERSICUM",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-dama-de-noche-80-100",
+      "m": 0,
+      "p": 22.99,
+      "s": "DAMA DE NOCHE 80/100",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-euonymus-japonicus-40-60-cm",
+      "m": 0,
+      "p": 7.52,
+      "s": "EUONYMUS JAPONICUS 40/60 cm.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-ficus-microcarpa-en-contenedor",
+      "m": 0,
+      "p": 172.65,
+      "s": "FICUS MICROCARPA EN CONTENEDOR",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-fraxinus-americana-20-25",
+      "m": 0,
+      "p": 110.75,
+      "s": "FRAXINUS AMERICANA 20/25",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-freesias-dobles-calibre-5",
+      "m": 0,
+      "p": 0.15,
+      "s": "FREESIAS DOBLES CALIBRE >5",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-grama",
+      "m": 0,
+      "p": 1.4,
+      "s": "GRAMA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-grupo-de-rocallas",
+      "m": 0,
+      "p": 122.15,
+      "s": "GRUPO DE ROCALLAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-grupo-de-yucas",
+      "m": 0,
+      "p": 54.71,
+      "s": "GRUPO DE YUCAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-hemerocallis-c-3",
+      "m": 0,
+      "p": 3.27,
+      "s": "HEMEROCALLIS C-3",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-hereda-heliz-40-50",
+      "m": 0,
+      "p": 1.34,
+      "s": "HEREDA HELIZ 40/50",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-iris-xiphium-calibre-8-9",
+      "m": 0,
+      "p": 0.08,
+      "s": "IRIS XIPHIUM CALIBRE 8/9",
+      "u": "u"
+    },
+    {
+      "d": "2022-03",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-jacaranda-mimosifolia-16-18-cm-cepellon",
+      "m": 0,
+      "p": 10.77,
+      "s": "JACARANDA MIMOSIFOLIA 16-18 CM. CEPELLÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-jardinera-cuadrada-de-hormigon",
+      "m": 0,
+      "p": 60.92,
+      "s": "JARDINERA CUADRADA DE HORMIGÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-jardinera-rectangular-de-hormigon",
+      "m": 0,
+      "p": 247.2,
+      "s": "JARDINERA RECTANGULAR DE HORMIGÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-jasminum-fruticans-100-125",
+      "m": 0,
+      "p": 12.75,
+      "s": "JASMINUM FRUTICANS 100/125",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-jazminus-fructicans-80-100-cm",
+      "m": 0,
+      "p": 10.8,
+      "s": "JAZMINUS FRUCTICANS 80/100 cm.",
+      "u": "u"
+    },
+    {
+      "d": "2022-03",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-laurel-laurus-nobilis-calibre-6-8",
+      "m": 0,
+      "p": 18,
+      "s": "LAUREL (LAURUS NOBILIS) CALIBRE 6-8",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-mantillo",
+      "m": 0,
+      "p": 17.69,
+      "s": "MANTILLO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-03",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-morera-sin-flor-14-16cm-cepellon",
+      "m": 0,
+      "p": 50.57,
+      "s": "MORERA SIN FLOR 14-16cm. CEPELLÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-03",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-naranjo-de-sevilla-12-14-cm-maceta",
+      "m": 0,
+      "p": 38.64,
+      "s": "NARANJO DE SEVILLA 12-14 CM MACETA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-narcissus-clase-iii",
+      "m": 0,
+      "p": 0.19,
+      "s": "NARCISSUS CLASE III",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-phoenis-dactilifera-entre-5-y-7-m",
+      "m": 0,
+      "p": 815.21,
+      "s": "PHOENIS DACTILIFERA ENTRE 5 Y 7 m",
+      "u": "u"
+    },
+    {
+      "d": "2022-03",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-phoenix-canariensis-entre-5-y-7-m",
+      "m": 0,
+      "p": 500,
+      "s": "PHOENIX CANARIENSIS ENTRE 5 Y 7 m",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-phoenix-dactylifera-250-350",
+      "m": 0,
+      "p": 1197.34,
+      "s": "PHOENIX DACTYLIFERA 250/350",
+      "u": "u"
+    },
+    {
+      "d": "2022-03",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-pinus-pinea-2-5-3-m-cep-esc",
+      "m": 0,
+      "p": 94.73,
+      "s": "PINUS PINEA 2.5-3 m CEP. ESC.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-planta-trepadora-buen-porte",
+      "m": 0,
+      "p": 3.48,
+      "s": "PLANTA TREPADORA BUEN PORTE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-planta-vivacea-decorativa-y-de-flor",
+      "m": 0,
+      "p": 0.99,
+      "s": "PLANTA VIVÁCEA DECORATIVA Y DE FLOR",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-platanus-orientalis-20-25",
+      "m": 0,
+      "p": 176.57,
+      "s": "PLATANUS ORIENTALIS 20/25",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-rosal",
+      "m": 0,
+      "p": 7.52,
+      "s": "ROSAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-rosal-trepador-150-175-cm",
+      "m": 0,
+      "p": 8.78,
+      "s": "ROSAL TREPADOR 150/175 cm.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-rosal-trepador-flor-mediana",
+      "m": 0,
+      "p": 9.77,
+      "s": "ROSAL TREPADOR FLOR MEDIANA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-rosal-trepador-flor-pequena",
+      "m": 0,
+      "p": 14.63,
+      "s": "ROSAL TREPADOR FLOR PEQUEÑA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-semillas-para-vegetacion-tapizante",
+      "m": 0,
+      "p": 10.08,
+      "s": "SEMILLAS PARA VEGETACIÓN TAPIZANTE",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-seto",
+      "m": 0,
+      "p": 8,
+      "s": "SETO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-siembra-tepe-dichondra-repens",
+      "m": 0,
+      "p": 7.84,
+      "s": "SIEMBRA TEPE DICHONDRA REPENS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-siembra-tepe-sedum-variados",
+      "m": 0,
+      "p": 30.92,
+      "s": "SIEMBRA TEPE SEDUM VARIADOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-stenotaphinm-y-mezcla-de-semillas-especiales",
+      "m": 0,
+      "p": 1.2,
+      "s": "STENOTAPHINM Y MEZCLA DE SEMILLAS ESPECIALES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-taxus-baccata-80-100",
+      "m": 0,
+      "p": 176.57,
+      "s": "TAXUS BACCATA 80/100",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-tierra-vegetal",
+      "m": 0,
+      "p": 8.74,
+      "s": "TIERRA VEGETAL",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-tilo-de-diametro-35-40cm",
+      "m": 0,
+      "p": 104.5,
+      "s": "TILO DE DIÁMETRO 35-40CM",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-trachycarpus-fortunei-175-200",
+      "m": 0,
+      "p": 280.01,
+      "s": "TRACHYCARPUS FORTUNEI 175/200",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-tutor-de-madera-de-castano-2-75-m",
+      "m": 0,
+      "p": 6.26,
+      "s": "TUTOR DE MADERA DE CASTAÑO 2,75 m",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-tutor-de-madera-de-castano-2-m",
+      "m": 0,
+      "p": 6.17,
+      "s": "TUTOR DE MADERA DE CASTAÑO 2 m",
+      "u": "u"
+    },
+    {
+      "d": "2022-03",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-tuya-70-90-cm-altura-cepellon",
+      "m": 0,
+      "p": 9.61,
+      "s": "TUYA 70/90 CM ALTURA CEPELLÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-03",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-ulmus-olmo",
+      "m": 0,
+      "p": 38.86,
+      "s": "ULMUS - OLMO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "jardineria"
+      ],
+      "id": "mt-zantedeschia-aethiopica-cal-14",
+      "m": 0,
+      "p": 1.62,
+      "s": "ZANTEDESCHIA AETHIOPICA CAL>14",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-adoquin-color-hormigon-vibrado-de-22x11x8-cm",
+      "m": 0,
+      "p": 0.28,
+      "s": "ADOQUÍN COLOR HORMIGÓN VIBRADO DE 22X11X8 cm",
+      "u": "u"
+    },
+    {
+      "d": "2017-07",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-adoquin-granito",
+      "m": 0,
+      "p": 0.45,
+      "s": "ADOQUÍN GRANITO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-adoquin-gris-horm-vibr-forma-geom-irreg-23-5x17x8-cm",
+      "m": 0,
+      "p": 0.31,
+      "s": "ADOQUÍN GRIS, HORM. VIBR. FORMA GEOM. IRREG. 23,5x17x8 cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-adoquin-gris-hormigon-vibrado-de-22x11x8-cm",
+      "m": 0,
+      "p": 0.29,
+      "s": "ADOQUÍN GRIS, HORMIGÓN VIBRADO DE 22x11x8 cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-adoquin-gris-hormigon-vibrado-de-22x22x6-cm",
+      "m": 0,
+      "p": 0.22,
+      "s": "ADOQUÍN GRIS, HORMIGÓN VIBRADO DE 22x22x6 cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-adoquin-hormigon",
+      "m": 0,
+      "p": 0.31,
+      "s": "ADOQUÍN HORMIGÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-baldosa-chino-lavado-40x40-cm-07e5",
+      "m": 0,
+      "p": 6.95,
+      "s": "BALDOSA CHINO LAVADO 40x40 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-baldosa-hidraulica-20x20-cm-805f",
+      "m": 0,
+      "p": 6.07,
+      "s": "BALDOSA HIDRÁULICA 20x20 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-baldosa-terrazo-relieve-un-color-40x40-cm",
+      "m": 0,
+      "p": 12.71,
+      "s": "BALDOSA TERRAZO RELIEVE UN COLOR 40x40 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-baldosa-terrazo-relieve-varios-colores-40x40-cm",
+      "m": 0,
+      "p": 13.48,
+      "s": "BALDOSA TERRAZO RELIEVE VARIOS COLORES 40x40 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-betun-fluido-para-riegos",
+      "m": 0,
+      "p": 0.23,
+      "s": "BETÚN FLUIDO PARA RIEGOS",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-bordillo-de-hormigon-10x20x40-cm",
+      "m": 0,
+      "p": 1.99,
+      "s": "BORDILLO DE HORMIGÓN 10x20x40 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-bordillo-de-hormigon-17x28-cm",
+      "m": 0,
+      "p": 4.55,
+      "s": "BORDILLO DE HORMIGÓN 17x28 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-bordillo-de-hormigon-acanalado-65x35-cm",
+      "m": 0,
+      "p": 7.09,
+      "s": "BORDILLO DE HORMIGÓN ACANALADO 65x35 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-bordillo-de-hormigon-moldurado-10x20x40-cm",
+      "m": 0,
+      "p": 2.06,
+      "s": "BORDILLO DE HORMIGÓN MOLDURADO 10x20x40 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-bordillo-de-hormigon-rebajado-5-15x20x50-cm",
+      "m": 0,
+      "p": 3.84,
+      "s": "BORDILLO DE HORMIGÓN REBAJADO 5/15x20x50 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-bordillo-de-hormigon-rigola",
+      "m": 0,
+      "p": 15.55,
+      "s": "BORDILLO DE HORMIGÓN RIGOLA",
+      "u": "m"
+    },
+    {
+      "d": "2017-07",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-bordillo-granito-achaflanado-17x28-cm",
+      "m": 0,
+      "p": 16.1,
+      "s": "BORDILLO GRANITO ACHAFLANADO 17x28 cm",
+      "u": "m"
+    },
+    {
+      "d": "2017-07",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-bordillo-granito-labrado-20x28",
+      "m": 0,
+      "p": 17,
+      "s": "Bordillo granito labrado 20x28",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-cuneta-de-hormigon-prefabricada",
+      "m": 0,
+      "p": 7.73,
+      "s": "CUNETA DE HORMIGÓN PREFABRICADA",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-mezcla-asfaltica-tipo-d",
+      "m": 0,
+      "p": 33.28,
+      "s": "MEZCLA ASFÁLTICA TIPO D",
+      "u": "t"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-mezcla-asfaltica-tipo-g-25",
+      "m": 0,
+      "p": 27.91,
+      "s": "MEZCLA ASFÁLTICA TIPO G 25",
+      "u": "t"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-mezcla-asfaltica-tipo-s",
+      "m": 0,
+      "p": 28.31,
+      "s": "MEZCLA ASFÁLTICA TIPO S",
+      "u": "t"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-mezcla-asfaltica-tipo-s-12",
+      "m": 0,
+      "p": 28.82,
+      "s": "MEZCLA ASFÁLTICA TIPO S-12",
+      "u": "t"
+    },
+    {
+      "d": "2017-07",
+      "g": [
+        "pavimentaciones"
+      ],
+      "id": "mt-tierras-procedentes-de-prestamo",
+      "m": 0,
+      "p": 1.89,
+      "s": "TIERRAS PROCEDENTES DE PRÉSTAMO",
+      "u": "m3"
+    },
+    {
+      "d": "2017-07",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-acometida-aguas-red-existente",
+      "m": 0,
+      "p": 481.87,
+      "s": "ACOMETIDA AGUAS RED EXISTENTE",
+      "u": "u"
+    },
+    {
+      "d": "2017-07",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-acometida-aguas-red-general",
+      "m": 0,
+      "p": 256.27,
+      "s": "ACOMETIDA AGUAS RED GENERAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-adapt-iso2531-100-96-diam-80",
+      "m": 0,
+      "p": 37.31,
+      "s": "ADAPT. ISO2531 (100-96) DIÁM. 80",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-adapt-iso2531-121-116-diam-100",
+      "m": 0,
+      "p": 44.84,
+      "s": "ADAPT. ISO2531 (121-116) DIÁM. 100",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-adapt-iso2531-173-168-diam-150",
+      "m": 0,
+      "p": 58.77,
+      "s": "ADAPT. ISO2531 (173-168) DIÁM. 150",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-adapt-iso2531-225-219-diam-200",
+      "m": 0,
+      "p": 84.2,
+      "s": "ADAPT. ISO2531 (225-219) DIÁM. 200",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-arqueta-fundicion-boca-riego",
+      "m": 0,
+      "p": 69.27,
+      "s": "ARQUETA FUNDICIÓN BOCA RIEGO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-banda-de-senalizacion",
+      "m": 0,
+      "p": 0.29,
+      "s": "BANDA DE SEÑALIZACIÓN",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-boca-de-riego-diam-25-mm",
+      "m": 0,
+      "p": 59.8,
+      "s": "BOCA DE RIEGO DIÁM. 25 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-boca-de-riego-diam-50-mm",
+      "m": 0,
+      "p": 85.72,
+      "s": "BOCA DE RIEGO DIÁM. 50 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-boca-riego-arq-incorp-diam-40-mm",
+      "m": 0,
+      "p": 165.86,
+      "s": "BOCA RIEGO ARQ. INCORP. DIÁM. 40 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-boca-riego-diam-60-mm",
+      "m": 0,
+      "p": 101.19,
+      "s": "BOCA RIEGO DIÁM. 60 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-brida-ciega-f-d-diam-100-mm-pn-16",
+      "m": 0,
+      "p": 15.96,
+      "s": "BRIDA CIEGA F.D. DIÁM. 100 mm, PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-brida-ciega-f-d-diam-150-mm-pn-16",
+      "m": 0,
+      "p": 22.35,
+      "s": "BRIDA CIEGA F.D. DIÁM. 150 mm, PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-brida-ciega-f-d-diam-200-mm-pn-16",
+      "m": 0,
+      "p": 31.94,
+      "s": "BRIDA CIEGA F.D. DIÁM. 200 mm, PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-brida-ciega-f-d-diam-80-mm-pn-16",
+      "m": 0,
+      "p": 13.58,
+      "s": "BRIDA CIEGA F.D. DIÁM. 80 mm, PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-brida-enchufe-diam-100-mm-j-mec",
+      "m": 0,
+      "p": 33.87,
+      "s": "BRIDA ENCHUFE DIÁM. 100 mm, J/MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-brida-enchufe-diam-150-mm-j-mec",
+      "m": 0,
+      "p": 49.27,
+      "s": "BRIDA ENCHUFE DIÁM. 150 mm, J/MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-brida-enchufe-diam-200-mm-j-mec",
+      "m": 0,
+      "p": 66.26,
+      "s": "BRIDA ENCHUFE DIÁM. 200 mm, J/MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-brida-enchufe-diam-80-mm-j-mec",
+      "m": 0,
+      "p": 28.59,
+      "s": "BRIDA ENCHUFE DIÁM. 80 mm, J/MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-brida-enchufe-diam-90-fd-pn-16-j-e",
+      "m": 0,
+      "p": 32.41,
+      "s": "BRIDA-ENCHUFE DIÁM. 90 FD. PN-16,J/E",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-brida-gran-toler-236-218-diam-200",
+      "m": 0,
+      "p": 130.69,
+      "s": "BRIDA GRAN TOLER. (236/218) DIÁM. 200",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-brida-gran-toler-352-334-diam-300",
+      "m": 0,
+      "p": 285.35,
+      "s": "BRIDA GRAN TOLER. (352/334) DIÁM. 300",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-brida-gran-toler-diam-100",
+      "m": 0,
+      "p": 64.85,
+      "s": "BRIDA GRAN TOLER. DIÁM. 100",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-brida-gran-toler-diam-150",
+      "m": 0,
+      "p": 103.21,
+      "s": "BRIDA GRAN TOLER. DIÁM. 150",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-brida-gran-toler-diam-80",
+      "m": 0,
+      "p": 54.26,
+      "s": "BRIDA GRAN TOLER. DIÁM. 80",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-brida-liso-diam-80-mm",
+      "m": 0,
+      "p": 13.84,
+      "s": "BRIDA LISO DIÁM. 80 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-cabeza-hidrante-diam-100-mm-bronce",
+      "m": 0,
+      "p": 95.18,
+      "s": "CABEZA HIDRANTE DIÁM. 100 mm BRONCE",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-caja-hierro-fundido-br",
+      "m": 0,
+      "p": 24.28,
+      "s": "CAJA HIERRO FUNDIDO (BR)",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-caja-pavim-cilind-fund-val",
+      "m": 0,
+      "p": 21.58,
+      "s": "CAJA PAVIM. CILIND. FUND., VAL.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-carrete-bb-f-d-100x500-pn-16",
+      "m": 0,
+      "p": 68.49,
+      "s": "CARRETE BB F.D. 100x500, PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-carrete-bb-f-d-80x500-pn-16",
+      "m": 0,
+      "p": 58.84,
+      "s": "CARRETE BB F.D. 80x500, PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-codo-45-fundicion-diam-60-mm",
+      "m": 0,
+      "p": 18.21,
+      "s": "CODO 45º FUNDICIÓN DIÁM. 60 mm",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-codo-90-fundicion-diam-60-mm",
+      "m": 0,
+      "p": 27.84,
+      "s": "CODO 90º FUNDICIÓN DIÁM. 60 mm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-codo-bb-f-d-diam-100-mm-pn-16",
+      "m": 0,
+      "p": 64.25,
+      "s": "CODO BB F.D. DIÁM. 100 mm, PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-codo-bb-f-d-diam-150-mm-pn-16",
+      "m": 0,
+      "p": 102.53,
+      "s": "CODO BB F.D. DIÁM. 150 mm, PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-codo-bb-f-d-diam-200-mm-pn-16",
+      "m": 0,
+      "p": 183.19,
+      "s": "CODO BB F.D. DIÁM. 200 mm, PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-codo-bb-f-d-diam-80-mm-pn-16",
+      "m": 0,
+      "p": 53.4,
+      "s": "CODO BB F.D. DIÁM. 80 mm, PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-codo-ee-45-90-diam-90-mm-fd-pn-16-j-e",
+      "m": 0,
+      "p": 45.63,
+      "s": "CODO EE 45/90º DIÁM. 90 mm FD. PN-16, J/E",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-codo-ee-diam-100-mm-j-mec",
+      "m": 0,
+      "p": 49.69,
+      "s": "CODO EE DIÁM. 100 mm, J/MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-codo-ee-diam-150-mm-j-mec",
+      "m": 0,
+      "p": 74,
+      "s": "CODO EE DIÁM. 150 mm, J/MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-codo-ee-diam-200-mm-j-mec",
+      "m": 0,
+      "p": 96.17,
+      "s": "CODO EE DIÁM. 200 mm, J/MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-codo-ee-diam-80-mm-j-mec",
+      "m": 0,
+      "p": 42.3,
+      "s": "CODO EE DIÁM. 80 mm, J/MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-codo-ll-diam-100-a-d",
+      "m": 0,
+      "p": 20.09,
+      "s": "CODO LL DIÁM. 100 A/D",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-codo-ll-diam-150-a-d",
+      "m": 0,
+      "p": 50.59,
+      "s": "CODO LL DIÁM. 150 A/D",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-codo-ll-diam-200-d",
+      "m": 0,
+      "p": 105.81,
+      "s": "CODO LL DIÁM. 200 D",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-codo-ll-diam-80-a-f",
+      "m": 0,
+      "p": 15.88,
+      "s": "CODO LL DIÁM. 80 A/F",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-codo-poliet-pe-50a-pn-10-diam-110-mm",
+      "m": 0,
+      "p": 45.96,
+      "s": "CODO POLIET. PE 50A PN-10 DIÁM. 110 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-codo-poliet-pe-50a-pn-10-diam-125-mm",
+      "m": 0,
+      "p": 56.6,
+      "s": "CODO POLIET. PE 50A PN-10 DIÁM. 125 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-codo-poliet-pe-50a-pn-10-diam-75-mm",
+      "m": 0,
+      "p": 19.31,
+      "s": "CODO POLIET. PE 50A PN-10 DIÁM. 75 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-codo-poliet-pe-50a-pn-10-diam-90-mm",
+      "m": 0,
+      "p": 23.98,
+      "s": "CODO POLIET. PE 50A PN-10 DIÁM. 90 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-conexion-siamesa-diam-50-mm",
+      "m": 0,
+      "p": 165.84,
+      "s": "CONEXIÓN SIAMESA DIÁM. 50 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-bbb-100x80-100-pn-16",
+      "m": 0,
+      "p": 91.3,
+      "s": "DERIV. \"T\" BBB 100x80/100 PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-bbb-150x80-150-pn-16",
+      "m": 0,
+      "p": 140.82,
+      "s": "DERIV. \"T\" BBB 150x80/150 PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-bbb-200x150-200-pn-16",
+      "m": 0,
+      "p": 260.14,
+      "s": "DERIV. \"T\" BBB 200x150/200 PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-bbb-200x80-100-pn-16",
+      "m": 0,
+      "p": 205.76,
+      "s": "DERIV. \"T\" BBB 200x80/100 PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-bbb-300x150-300-pn-16",
+      "m": 0,
+      "p": 594.04,
+      "s": "DERIV. \"T\" BBB 300x150/300 PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-bbb-80x80-f-d-pn-16",
+      "m": 0,
+      "p": 85.14,
+      "s": "DERIV. \"T\" BBB 80x80 F.D. PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-eeb-100x80-100-j-mec",
+      "m": 0,
+      "p": 61.45,
+      "s": "DERIV. \"T\" EEB 100x80/100, J/MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-eeb-150x80-150-j-mec",
+      "m": 0,
+      "p": 90.02,
+      "s": "DERIV. \"T\" EEB 150x80/150, J/MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-eeb-200x80-200-j-mec",
+      "m": 0,
+      "p": 119.06,
+      "s": "DERIV. \"T\" EEB 200x80/200, J/MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-eeb-300x80-300-j-mec",
+      "m": 0,
+      "p": 364.43,
+      "s": "DERIV. \"T\" EEB 300x80/300, J/MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-eeb-80x80-mm-j-mec",
+      "m": 0,
+      "p": 51.15,
+      "s": "DERIV. \"T\" EEB 80x80 mm, J/MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-fund-90x80-mm-j-elast",
+      "m": 0,
+      "p": 53.82,
+      "s": "DERIV. \"T\" FUND. 90x80 mm J/ELAST.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-lbl-f-d-pn-16-100x80-1",
+      "m": 0,
+      "p": 62.38,
+      "s": "DERIV. \"T\" LBL F.D. PN-16 100x80/1",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-lbl-f-d-pn-16-150x100",
+      "m": 0,
+      "p": 105.27,
+      "s": "DERIV. \"T\" LBL F.D. PN-16 150x100",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-lbl-f-d-pn-16-150x150",
+      "m": 0,
+      "p": 135.16,
+      "s": "DERIV. \"T\" LBL F.D. PN-16 150x150",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-lbl-f-d-pn-16-150x80-1",
+      "m": 0,
+      "p": 95.19,
+      "s": "DERIV. \"T\" LBL F.D. PN-16 150x80/1",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-lbl-f-d-pn-16-200x100",
+      "m": 0,
+      "p": 155.3,
+      "s": "DERIV. \"T\" LBL F.D. PN-16 200x100",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-lbl-f-d-pn-16-200x150",
+      "m": 0,
+      "p": 190.08,
+      "s": "DERIV. \"T\" LBL F.D. PN-16 200x150",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-lbl-f-d-pn-16-200x200",
+      "m": 0,
+      "p": 227.11,
+      "s": "DERIV. \"T\" LBL F.D. PN-16 200x200",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-lbl-f-d-pn-16-200x80-1",
+      "m": 0,
+      "p": 144.9,
+      "s": "DERIV. \"T\" LBL F.D. PN-16 200x80/1",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-deriv-t-lbl-f-d-pn-16-80x80",
+      "m": 0,
+      "p": 52.63,
+      "s": "DERIV. \"T\" LBL F.D. PN-16 80x80",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-hidrante-arq-incorp-diam-70-mm",
+      "m": 0,
+      "p": 295.94,
+      "s": "HIDRANTE ARQ. INCORP. DIÁM. 70 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-hidrante-de-100-mm-diam-de-hierro-fundido",
+      "m": 0,
+      "p": 1005.52,
+      "s": "HIDRANTE DE 100 mm DIÁM. DE HIERRO FUNDIDO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-hidrante-diam-50-mm",
+      "m": 0,
+      "p": 86.19,
+      "s": "HIDRANTE DIÁM. 50 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-junta-de-goma-diam-100-mm",
+      "m": 0,
+      "p": 1.45,
+      "s": "JUNTA DE GOMA DIÁM. 100 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-junta-de-goma-diam-125-mm",
+      "m": 0,
+      "p": 2.07,
+      "s": "JUNTA DE GOMA DIÁM. 125 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-junta-de-goma-diam-150-mm",
+      "m": 0,
+      "p": 2.9,
+      "s": "JUNTA DE GOMA DIÁM. 150 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-junta-de-goma-diam-200-mm",
+      "m": 0,
+      "p": 5.18,
+      "s": "JUNTA DE GOMA DIÁM. 200 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-junta-de-goma-diam-300-mm",
+      "m": 0,
+      "p": 5.38,
+      "s": "JUNTA DE GOMA DIÁM. 300 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-junta-de-goma-diam-80-mm",
+      "m": 0,
+      "p": 1.26,
+      "s": "JUNTA DE GOMA DIÁM. 80 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-llave-de-desague-diam-60-mm",
+      "m": 0,
+      "p": 38.09,
+      "s": "LLAVE DE DESÁGÜE DIÁM. 60 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-llave-de-paso-diam-100-mm",
+      "m": 0,
+      "p": 77,
+      "s": "LLAVE DE PASO DIÁM. 100 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-llave-de-paso-diam-150-mm",
+      "m": 0,
+      "p": 131.21,
+      "s": "LLAVE DE PASO DIÁM. 150 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-llave-de-paso-diam-200-mm",
+      "m": 0,
+      "p": 184.68,
+      "s": "LLAVE DE PASO DIÁM. 200 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-llave-de-paso-diam-250-mm",
+      "m": 0,
+      "p": 343.68,
+      "s": "LLAVE DE PASO DIÁM. 250 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-llave-de-paso-diam-60-mm",
+      "m": 0,
+      "p": 51.34,
+      "s": "LLAVE DE PASO DIÁM. 60 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-llave-de-paso-diam-80-mm",
+      "m": 0,
+      "p": 58.7,
+      "s": "LLAVE DE PASO DIÁM. 80 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-manguito-union-ee-diam-150-j-mec",
+      "m": 0,
+      "p": 73.75,
+      "s": "MANGUITO UNIÓN EE DIÁM. 150, J/MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-manguito-union-ee-diam-200-j-mec",
+      "m": 0,
+      "p": 95.29,
+      "s": "MANGUITO UNIÓN EE DIÁM. 200, J/MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-manguito-union-ee-diam-300-j-mec",
+      "m": 0,
+      "p": 217.08,
+      "s": "MANGUITO UNIÓN EE DIÁM. 300, J/MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-pasamuros-de-acero-inox-40-mm",
+      "m": 0,
+      "p": 34.64,
+      "s": "PASAMUROS DE ACERO INOX. 40 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-pasamuros-de-acero-inox-63-mm",
+      "m": 0,
+      "p": 40.41,
+      "s": "PASAMUROS DE ACERO INOX. 63 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-pieza-en-t-fundicion-diam-60-mm",
+      "m": 0,
+      "p": 26.08,
+      "s": "PIEZA EN \"T\" FUNDICIÓN DIÁM. 60 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-portabr-pe-bri-l-pn-16-diam-110-mm",
+      "m": 0,
+      "p": 54.83,
+      "s": "PORTABR. PE, BRI. L. PN-16 DIÁM. 110 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-portabr-pe-bri-l-pn-16-diam-125-mm",
+      "m": 0,
+      "p": 64.87,
+      "s": "PORTABR. PE, BRI. L. PN-16 DIÁM. 125 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-portabr-pe-bri-l-pn-16-diam-75-mm",
+      "m": 0,
+      "p": 39.36,
+      "s": "PORTABR. PE, BRI. L. PN-16 DIÁM. 75 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-portabr-pe-bri-l-pn-16-diam-90-mm",
+      "m": 0,
+      "p": 46.98,
+      "s": "PORTABR. PE, BRI. L. PN-16 DIÁM. 90 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-red-bb-f-d-100x-80-pn-16",
+      "m": 0,
+      "p": 42.18,
+      "s": "RED. BB F.D. 100x 80 PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-red-bb-f-d-150x100-pn-16",
+      "m": 0,
+      "p": 59.43,
+      "s": "RED. BB F.D. 150x100 PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-red-bb-f-d-200x100-pn-16",
+      "m": 0,
+      "p": 87.47,
+      "s": "RED. BB F.D. 200x100 PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-red-bb-f-d-200x150-pn-16",
+      "m": 0,
+      "p": 96.27,
+      "s": "RED. BB F.D. 200x150 PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-red-brida-brida-fd-80x50-mm",
+      "m": 0,
+      "p": 37.78,
+      "s": "RED. BRIDA-BRIDA FD. 80x50 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-red-ee-100x80-j-mec",
+      "m": 0,
+      "p": 52.99,
+      "s": "RED. EE 100x80, J/MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-red-ee-150x80-100-j-mec",
+      "m": 0,
+      "p": 76.38,
+      "s": "RED. EE 150x80/100, J/MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-red-ee-200x80-150-j-mec",
+      "m": 0,
+      "p": 98.2,
+      "s": "RED. EE 200x80/150, J/MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-red-polietileno-pe50a-pn-10-110x75-90-mm",
+      "m": 0,
+      "p": 23.95,
+      "s": "RED. POLIETILENO PE50A PN-10 110x75/90 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-red-polietileno-pe50a-pn-10-125x75-110-mm",
+      "m": 0,
+      "p": 27.89,
+      "s": "RED. POLIETILENO PE50A PN-10 125x75/110 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-red-polietileno-pe50a-pn-10-90x75-mm",
+      "m": 0,
+      "p": 74.58,
+      "s": "RED. POLIETILENO PE50A PN-10 90x75 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-reduc-ee-90x75-mm-fd-pn-16-j-elast",
+      "m": 0,
+      "p": 32.96,
+      "s": "REDUC. EE 90x75 mm FD. PN-16, J/ELAST.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-reduccion-fundicion-diam-60-mm",
+      "m": 0,
+      "p": 19.86,
+      "s": "REDUCCIÓN FUNDICIÓN DIÁM. 60 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-reduccion-ll-100-a-dx80-a-f",
+      "m": 0,
+      "p": 13.46,
+      "s": "REDUCCIÓN LL 100 A/Dx80 A/F",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-reduccion-ll-150-a-dx100-a-d",
+      "m": 0,
+      "p": 34.57,
+      "s": "REDUCCIÓN LL 150 A/Dx100 A/D",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-reduccion-ll-200-dx100-a-d",
+      "m": 0,
+      "p": 53.61,
+      "s": "REDUCCIÓN LL 200 Dx100 A/D",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-reduccion-ll-200-dx150-a-d",
+      "m": 0,
+      "p": 54.99,
+      "s": "REDUCCIÓN LL 200 Dx150 A/D",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-t-polietileno-pe50a-pn-10-110x75-110-mm",
+      "m": 0,
+      "p": 45.93,
+      "s": "\"T\" POLIETILENO PE50A PN-10 110x75/110 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-t-polietileno-pe50a-pn-10-125x75-125-mm",
+      "m": 0,
+      "p": 63.34,
+      "s": "\"T\" POLIETILENO PE50A PN-10 125x75/125 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-t-polietileno-pe50a-pn-10-75x75-mm",
+      "m": 0,
+      "p": 21.73,
+      "s": "\"T\" POLIETILENO PE50A PN-10 75x75 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-t-polietileno-pe50a-pn-10-90x75-90-mm",
+      "m": 0,
+      "p": 33.11,
+      "s": "\"T\" POLIETILENO PE50A PN-10 90x75/90 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tapa-fundicion-50x50-cm-peatones",
+      "m": 0,
+      "p": 42.93,
+      "s": "TAPA FUNDICIÓN 50x50 cm PEATONES",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tapa-fundicion-60x60-cm-peatones",
+      "m": 0,
+      "p": 53.07,
+      "s": "TAPA FUNDICIÓN 60x60 cm PEATONES",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tapa-fundicion-70x70-cm-peatones",
+      "m": 0,
+      "p": 82.93,
+      "s": "TAPA FUNDICIÓN 70x70 cm PEATONES",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tapa-fundicion-80x80-cm-peatones",
+      "m": 0,
+      "p": 124.83,
+      "s": "TAPA FUNDICIÓN 80x80 cm PEATONES",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tapa-hidrante",
+      "m": 0,
+      "p": 26.94,
+      "s": "TAPA HIDRANTE",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tapa-metalica-50x50-cm",
+      "m": 0,
+      "p": 17.19,
+      "s": "TAPA METÁLICA 50x50 cm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tapa-metalica-60x45-cm",
+      "m": 0,
+      "p": 20.41,
+      "s": "TAPA METÁLICA 60x45 cm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tapa-metalica-60x60-cm",
+      "m": 0,
+      "p": 22.29,
+      "s": "TAPA METÁLICA 60x60 cm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tapon-diam-100-a-d-fund-gris",
+      "m": 0,
+      "p": 27.22,
+      "s": "TAPÓN DIÁM. 100 A/D FUND. GRIS.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tapon-diam-150-a-d-fund-gris",
+      "m": 0,
+      "p": 37.61,
+      "s": "TAPÓN DIÁM. 150 A/D FUND. GRIS.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tapon-diam-200-d-fund-gris",
+      "m": 0,
+      "p": 59.16,
+      "s": "TAPÓN DIÁM. 200 D FUND. GRIS.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tapon-diam-80-a-f-fund-gris",
+      "m": 0,
+      "p": 18.04,
+      "s": "TAPÓN DIÁM. 80 A/F FUND. GRIS.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tapon-diam-90-mm-fd-pn-16-j-elast",
+      "m": 0,
+      "p": 29.87,
+      "s": "TAPÓN DIÁM. 90 mm FD. PN-16, J/ELAST.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tapon-fundicion-diam-60-mm",
+      "m": 0,
+      "p": 7.54,
+      "s": "TAPÓN FUNDICIÓN DIÁM. 60 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tapon-polietileno-pe50a-pn-10-diam-110-mm",
+      "m": 0,
+      "p": 32.34,
+      "s": "TAPÓN POLIETILENO PE50A PN-10 DIÁM. 110 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tapon-polietileno-pe50a-pn-10-diam-125-mm",
+      "m": 0,
+      "p": 35.5,
+      "s": "TAPÓN POLIETILENO PE50A PN-10 DIÁM. 125 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tapon-polietileno-pe50a-pn-10-diam-75-mm",
+      "m": 0,
+      "p": 16.17,
+      "s": "TAPÓN POLIETILENO PE50A PN-10 DIÁM. 75 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tapon-polietileno-pe50a-pn-10-diam-90-mm",
+      "m": 0,
+      "p": 23.73,
+      "s": "TAPÓN POLIETILENO PE50A PN-10 DIÁM. 90 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tornillo-bicromat-c-t-m-16x70",
+      "m": 0,
+      "p": 0.58,
+      "s": "TORNILLO BICROMAT. C/T M-16x70",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tornillo-bicromat-c-t-m-20x80",
+      "m": 0,
+      "p": 1.32,
+      "s": "TORNILLO BICROMAT. C/T M-20x80",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tornillo-bicromat-c-t-m-24x90",
+      "m": 0,
+      "p": 3.24,
+      "s": "TORNILLO BICROMAT. C/T M-24x90",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tuberia-fibrocemento-presion-15-kg-cm2-100-mm",
+      "m": 0,
+      "p": 9.11,
+      "s": "TUBERÍA FIBROCEMENTO PRESIÓN 15 kg/cm2, 100 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tuberia-fibrocemento-presion-15-kg-cm2-150-mm",
+      "m": 0,
+      "p": 15.29,
+      "s": "TUBERÍA FIBROCEMENTO PRESIÓN 15 kg/cm2, 150 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tuberia-fibrocemento-presion-15-kg-cm2-200-mm",
+      "m": 0,
+      "p": 23.08,
+      "s": "TUBERÍA FIBROCEMENTO PRESIÓN 15 kg/cm2, 200 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tuberia-fibrocemento-presion-15-kg-cm2-250-mm",
+      "m": 0,
+      "p": 31.89,
+      "s": "TUBERÍA FIBROCEMENTO PRESIÓN 15 kg/cm2, 250 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tuberia-fibrocemento-presion-15-kg-cm2-60-mm",
+      "m": 0,
+      "p": 5.48,
+      "s": "TUBERÍA FIBROCEMENTO PRESIÓN 15 kg/cm2, 60 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tuberia-fibrocemento-presion-15-kg-cm2-80-mm",
+      "m": 0,
+      "p": 7.8,
+      "s": "TUBERÍA FIBROCEMENTO PRESIÓN 15 kg/cm2, 80 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tuberia-gres-vitrificado-diam-300mm",
+      "m": 0,
+      "p": 41.72,
+      "s": "TUBERÍA GRES VITRIFICADO DIAM 300mm.",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tuberia-gres-vitrificado-diam-400-mm",
+      "m": 0,
+      "p": 49.87,
+      "s": "TUBERÍA GRES VITRIFICADO DIAM 400 mm.",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tuberia-gres-vitrificado-diam-500-mm",
+      "m": 0,
+      "p": 79.58,
+      "s": "TUBERÍA GRES VITRIFICADO DIAM. 500 mm.",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tuberia-gres-vitrificado-diam-800-mm",
+      "m": 0,
+      "p": 208.85,
+      "s": "TUBERÍA GRES VITRIFICADO DIAM. 800 mm.",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tuberia-pvc-presion-diam-50-mm",
+      "m": 0,
+      "p": 4.33,
+      "s": "TUBERÍA PVC PRESIÓN DIÁM. 50 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-f-d-k-9-junt-aut-diam-100-mm",
+      "m": 0,
+      "p": 16.97,
+      "s": "TUBO F.D. K-9 JUNT. AUT. DIÁM. 100 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-f-d-k-9-junt-aut-diam-150-mm",
+      "m": 0,
+      "p": 24.01,
+      "s": "TUBO F.D. K-9 JUNT. AUT. DIÁM. 150 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-f-d-k-9-junt-aut-diam-200-mm",
+      "m": 0,
+      "p": 32.98,
+      "s": "TUBO F.D. K-9 JUNT. AUT. DIÁM. 200 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-f-d-k-9-junt-aut-diam-300-mm",
+      "m": 0,
+      "p": 32.98,
+      "s": "TUBO F.D. K-9 JUNT. AUT. DIÁM. 300 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-f-d-k-9-junt-aut-diam-80-mm",
+      "m": 0,
+      "p": 13.95,
+      "s": "TUBO F.D. K-9 JUNT. AUT. DIÁM. 80 mm",
+      "u": "m"
+    },
+    {
+      "d": "2017-07",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-fibrocemento-presion-diam-350-mm",
+      "m": 0,
+      "p": 46.96,
+      "s": "TUBO FIBROCEMENTO PRESIÓN DIÁM. 350 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-fibrocemento-rk-diam-100-a-d",
+      "m": 0,
+      "p": 9.08,
+      "s": "TUBO FIBROCEMENTO RK DIÁM. 100 A/D",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-fibrocemento-rk-diam-150-a-d-p-t-10",
+      "m": 0,
+      "p": 12.14,
+      "s": "TUBO FIBROCEMENTO RK DIÁM. 150 A/D P.T. 10",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-fibrocemento-rk-diam-200-d-p-t-10",
+      "m": 0,
+      "p": 19.44,
+      "s": "TUBO FIBROCEMENTO RK DIÁM. 200 D P.T. 10",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-fibrocemento-rk-diam-250-d-p-t-10",
+      "m": 0,
+      "p": 26.09,
+      "s": "TUBO FIBROCEMENTO RK DIÁM. 250 D P.T. 10",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-fibrocemento-rk-diam-80-a-f",
+      "m": 0,
+      "p": 7.25,
+      "s": "TUBO FIBROCEMENTO RK DIÁM. 80 A/F",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-polietileno-20-mm-diam-ext-3-6-mm-esp-10-atm",
+      "m": 0,
+      "p": 0.61,
+      "s": "TUBO POLIETILENO 20 mm DIÁM. ExT. 3,6 mm ESP. 10 ATM.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-polietileno-25-mm-diam-ext-3-6-mm-esp-10-atm",
+      "m": 0,
+      "p": 0.83,
+      "s": "TUBO POLIETILENO 25 mm DIÁM. ExT. 3,6 mm ESP. 10 ATM.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-polietileno-32-mm-diam-ext-2-9-mm-esp-10-atm",
+      "m": 0,
+      "p": 1.24,
+      "s": "TUBO POLIETILENO 32 mm DIÁM. ExT. 2,9 mm ESP. 10 ATM.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-polietileno-40-mm-diam-ext-3-7-mm-esp-10-atm",
+      "m": 0,
+      "p": 1.98,
+      "s": "TUBO POLIETILENO 40 mm DIÁM. ExT. 3,7 mm ESP. 10 ATM.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-polietileno-50-mm-diam-ext-4-6-mm-esp-10-atm",
+      "m": 0,
+      "p": 3.04,
+      "s": "TUBO POLIETILENO 50 mm DIÁM. ExT. 4,6 mm ESP. 10 ATM.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-polietileno-63-mm-diam-ext-5-8-mm-esp-10-atm",
+      "m": 0,
+      "p": 4.64,
+      "s": "TUBO POLIETILENO 63 mm DIÁM. ExT. 5,8 mm ESP. 10 ATM.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-polietileno-75-mm-diam-ext-6-8-mm-esp-10-atm",
+      "m": 0,
+      "p": 6.47,
+      "s": "TUBO POLIETILENO 75 mm DIÁM. ExT. 6,8 mm ESP. 10 ATM.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-polietileno-90-mm-diam-ext-8-2-mm-esp-10-atm",
+      "m": 0,
+      "p": 9.33,
+      "s": "TUBO POLIETILENO 90 mm DIÁM. ExT. 8,2 mm ESP. 10 ATM.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-polietileno-diam-110-mm-pe50a-pn-10",
+      "m": 0,
+      "p": 8.24,
+      "s": "TUBO POLIETILENO DIÁM. 110 mm PE50A PN-10",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-polietileno-diam-125-mm-pe50a-pn-10",
+      "m": 0,
+      "p": 11.19,
+      "s": "TUBO POLIETILENO DIÁM. 125 mm PE50A PN-10",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-polietileno-diam-200-mm-pe100-pn-10",
+      "m": 0,
+      "p": 12.99,
+      "s": "TUBO POLIETILENO DIÁM. 200 mm PE100 PN-10",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-polietileno-diam-250-mm-pe100-pn-10",
+      "m": 0,
+      "p": 15.15,
+      "s": "TUBO POLIETILENO DIÁM. 250 mm PE100 PN-10",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-polietileno-diam-75-mm-pe50a-pn-10",
+      "m": 0,
+      "p": 4,
+      "s": "TUBO POLIETILENO DIÁM. 75 mm PE50A PN-10.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-polietileno-diam-90-mm-pe50a-pn-10",
+      "m": 0,
+      "p": 5.8,
+      "s": "TUBO POLIETILENO DIÁM. 90 mm PE50A PN-10.",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-tubo-pvc-diam-90-mm-j-e-pn-16",
+      "m": 0,
+      "p": 6.59,
+      "s": "TUBO PVC DIÁM. 90 mm, J/E PN-16.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-union-gibault-diam-100-a-d",
+      "m": 0,
+      "p": 13.42,
+      "s": "UNIÓN GIBAULT DIÁM. 100 A/D",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-union-gibault-diam-150-a-d",
+      "m": 0,
+      "p": 29.28,
+      "s": "UNIÓN GIBAULT DIÁM. 150 A/D",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-union-gibault-diam-200-d",
+      "m": 0,
+      "p": 49.72,
+      "s": "UNIÓN GIBAULT DIÁM. 200 D",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-union-gibault-diam-80-a-f",
+      "m": 0,
+      "p": 11.4,
+      "s": "UNIÓN GIBAULT DIÁM. 80 A/F",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-val-a-e-ent-pn16-diam-100-mm-i-c-man",
+      "m": 0,
+      "p": 193.35,
+      "s": "VAL. A/E ENT. PN16 DIÁM. 100 mm I/C. MAN.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-val-a-e-ent-pn16-diam-125-mm-i-c-man",
+      "m": 0,
+      "p": 265.4,
+      "s": "VAL. A/E ENT. PN16 DIÁM. 125 mm I/C. MAN.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-val-a-e-ent-pn16-diam-150-mm-i-c-man",
+      "m": 0,
+      "p": 297,
+      "s": "VAL. A/E ENT. PN16 DIÁM. 150 mm I/C. MAN.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-val-a-e-ent-pn16-diam-200-mm-i-c-man",
+      "m": 0,
+      "p": 463.18,
+      "s": "VAL. A/E ENT. PN16 DIÁM. 200 mm I/C. MAN.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-val-a-e-ent-pn16-diam-80-mm-i-c-man",
+      "m": 0,
+      "p": 173.14,
+      "s": "VAL. A/E ENT. PN16 DIÁM. 80 mm, I/C. MAN.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-valv-comp-a-e-diam-50-mm-pn-16",
+      "m": 0,
+      "p": 116.79,
+      "s": "VÁLV. COMP. A/E DIÁM. 50 mm PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-valv-comp-a-e-diam-80-mm-pn-16",
+      "m": 0,
+      "p": 133.53,
+      "s": "VÁLV. COMP. A/E DIÁM. 80 mm PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-valv-comp-equipada-diam-250-mm-pn-16",
+      "m": 0,
+      "p": 392.37,
+      "s": "VÁLV. COMP. EQUIPADA DIÁM. 250 mm PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-valv-comp-m-m-n-o-d-diam-100-mm-f-d",
+      "m": 0,
+      "p": 267.95,
+      "s": "VÁLV. COMP. M/M N.O.D. DIÁM. 100 mm, F.D.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-valv-comp-m-m-n-o-d-diam-80-mm-f-d",
+      "m": 0,
+      "p": 214.32,
+      "s": "VÁLV. COMP. M/M N.O.D. DIÁM. 80 mm, F.D.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-valv-reduct-pres-diam-100-mm-sandwich",
+      "m": 0,
+      "p": 136.1,
+      "s": "VÁLV. REDUCT. PRES. DIÁM. 100 mm SANDWICH",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-valvula-reductora-diam-60-mm",
+      "m": 0,
+      "p": 189.52,
+      "s": "VÁLVULA REDUCTORA DIÁM. 60 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-ventosa-trif-diam-50-mm",
+      "m": 0,
+      "p": 414.1,
+      "s": "VENTOSA TRIF. DIÁM. 50 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "suministro-de-agua"
+      ],
+      "id": "mt-ventosa-trif-diam-80-mm",
+      "m": 0,
+      "p": 532.51,
+      "s": "VENTOSA TRIF. DIÁM. 80 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "telefonia"
+      ],
+      "id": "mt-tapa-metalica-arqueta-registro-ctne-d",
+      "m": 0,
+      "p": 230.53,
+      "s": "TAPA METÁLICA ARQUETA REGISTRO CTNE D",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "telefonia"
+      ],
+      "id": "mt-tapa-metalica-arqueta-registro-ctne-h",
+      "m": 0,
+      "p": 203.56,
+      "s": "TAPA METÁLICA ARQUETA REGISTRO CTNE H",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-barrera-parking-abatible-acero-d-40x2",
+      "m": 0,
+      "p": 146.63,
+      "s": "BARRERA PARKING ABATIBLE ACERO D=40X2",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-sombrilla-brezo-con-poste-de-madera-d-2m",
+      "m": 0,
+      "p": 240.8,
+      "s": "SOMBRILLA BREZO CON POSTE DE MADERA D= 2M",
+      "u": "u"
+    }
+  ],
+  "title": "Precios Básicos > URBANIZACIÓN",
+  "version": "0.1.0"
+}

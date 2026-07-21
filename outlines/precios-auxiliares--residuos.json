@@ -1,0 +1,40 @@
+{
+  "key": "precios-auxiliares--residuos",
+  "rows": [
+    {
+      "d": "2022-12",
+      "g": [
+        "hormigones-ladrillos-tejas-materiales-de"
+      ],
+      "id": "wi-transporte-interior-mecanico-de-residuos-petreos-seleccionad",
+      "m": 3,
+      "p": 5.89,
+      "s": "TRANSPORTE INTERIOR MECANICO DE RESIDUOS PETREOS SELECCIONADOS A",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "metales-y-aleaciones"
+      ],
+      "id": "wi-transporte-interior-mecanico-de-residuos-metalicos-a-100-m",
+      "m": 3,
+      "p": 5.94,
+      "s": "TRANSPORTE INTERIOR MECANICO DE RESIDUOS METALICOS A 100 m",
+      "u": "t"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "residuos-metalicos"
+      ],
+      "id": "wi-transporte-interior-mecanico-de-residuos-mixtos-a-100-m",
+      "m": 3,
+      "p": 3.69,
+      "s": "TRANSPORTE INTERIOR MECANICO DE RESIDUOS MIXTOS A 100 m",
+      "u": "m3"
+    }
+  ],
+  "title": "Precios Auxiliares > RESIDUOS",
+  "version": "0.1.0"
+}

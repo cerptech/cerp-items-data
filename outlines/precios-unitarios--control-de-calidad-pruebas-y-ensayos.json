@@ -1,0 +1,4363 @@
+{
+  "key": "precios-unitarios--control-de-calidad-pruebas-y-ensayos",
+  "rows": [
+    {
+      "d": "2022-12",
+      "g": [
+        "aislamientos-e-impermeabilizaciones",
+        "aislamientos",
+        "aislamiento-expandido"
+      ],
+      "id": "wi-determinacion-de-la-densidad-de-espuma-de-poliuretano-proyec",
+      "m": 1,
+      "p": 80,
+      "s": "Determinación de la densidad de espuma de poliuretano proyectado",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aislamientos-e-impermeabilizaciones",
+        "aislamientos",
+        "aislamiento-expandido"
+      ],
+      "id": "wi-determinacion-del-espesor-de-espuma-de-poliuretano-proyectad",
+      "m": 1,
+      "p": 210,
+      "s": "Determinación del espesor de espuma de poliuretano proyectado",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aislamientos-e-impermeabilizaciones",
+        "aislamientos",
+        "aislamiento-rigido"
+      ],
+      "id": "wi-absorcion-de-agua-a-largo-plazo-en-placas-de-aislamiento",
+      "m": 1,
+      "p": 100,
+      "s": "Absorción de agua a largo plazo en placas de aislamiento",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aislamientos-e-impermeabilizaciones",
+        "aislamientos",
+        "aislamiento-rigido"
+      ],
+      "id": "wi-densidad-aparente-en-placas-de-aislamiento",
+      "m": 1,
+      "p": 80,
+      "s": "Densidad aparente en placas de aislamiento",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aislamientos-e-impermeabilizaciones",
+        "aislamientos",
+        "aislamiento-rigido"
+      ],
+      "id": "wi-espesor-en-placas-de-aislamiento",
+      "m": 1,
+      "p": 50,
+      "s": "Espesor en placas de aislamiento",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aislamientos-e-impermeabilizaciones",
+        "aislamientos",
+        "aislamiento-rigido"
+      ],
+      "id": "wi-longitud-y-anchua-en-placas-de-aislamiento",
+      "m": 1,
+      "p": 80,
+      "s": "Longitud y anchua en placas de aislamiento",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aislamientos-e-impermeabilizaciones",
+        "aislamientos",
+        "aislamiento-rigido"
+      ],
+      "id": "wi-planeidad-en-placas-de-aislamiento",
+      "m": 1,
+      "p": 95,
+      "s": "Planeidad en placas de aislamiento",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aislamientos-e-impermeabilizaciones",
+        "aislamientos",
+        "aislamiento-rigido"
+      ],
+      "id": "wi-resistencia-a-compresion-en-placas-de-aislamiento",
+      "m": 1,
+      "p": 190,
+      "s": "Resistencia a compresión en placas de aislamiento",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aislamientos-e-impermeabilizaciones",
+        "geosinteticos",
+        "laminas-bituminosas"
+      ],
+      "id": "wi-composicion-cuantitativa-en-laminas-bituminosas",
+      "m": 1,
+      "p": 95,
+      "s": "Composición cuantitativa en láminas bituminosas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aislamientos-e-impermeabilizaciones",
+        "geosinteticos",
+        "laminas-bituminosas"
+      ],
+      "id": "wi-dimensiones-y-masa-por-unidad-en-laminas-bituminosas",
+      "m": 1,
+      "p": 86.85,
+      "s": "Dimensiones y masa por unidad en láminas bituminosas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aislamientos-e-impermeabilizaciones",
+        "geosinteticos",
+        "laminas-bituminosas"
+      ],
+      "id": "wi-estabilidad-dimensional-en-laminas-bituminosas",
+      "m": 1,
+      "p": 95,
+      "s": "Estabilidad dimensional en láminas bituminosas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aislamientos-e-impermeabilizaciones",
+        "geosinteticos",
+        "laminas-bituminosas"
+      ],
+      "id": "wi-plegabilidad-en-laminas-bituminosas",
+      "m": 1,
+      "p": 280,
+      "s": "Plegabilidad en láminas bituminosas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aislamientos-e-impermeabilizaciones",
+        "geosinteticos",
+        "laminas-bituminosas"
+      ],
+      "id": "wi-resistencia-a-traccion-y-alargamiento-de-la-rotura-en-lamina",
+      "m": 1,
+      "p": 233,
+      "s": "Resistencia a tracción y alargamiento de la rotura en láminas bituminosas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aislamientos-e-impermeabilizaciones",
+        "geosinteticos",
+        "laminas-bituminosas"
+      ],
+      "id": "wi-resistencia-al-calor-perdida-por-calentamiento-y-fluencia-de",
+      "m": 1,
+      "p": 96,
+      "s": "Resistencia al calor, pérdida por calentamiento y fluencia de láminas bituminosas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aislamientos-e-impermeabilizaciones",
+        "geosinteticos",
+        "laminas-plasticas-o-de-caucho"
+      ],
+      "id": "wi-determinacion-de-la-anchura-en-laminas-plasticas-o-de-caucho",
+      "m": 1,
+      "p": 80,
+      "s": "Determinación de la anchura en láminas plásticas o de caucho",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aislamientos-e-impermeabilizaciones",
+        "geosinteticos",
+        "laminas-plasticas-o-de-caucho"
+      ],
+      "id": "wi-espesor-y-masa-por-unidad-de-area-en-laminas-plasticas-o-de",
+      "m": 1,
+      "p": 80,
+      "s": "Espesor y masa por unidad de área en láminas plásticas o de caucho",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aislamientos-e-impermeabilizaciones",
+        "geosinteticos",
+        "laminas-plasticas-o-de-caucho"
+      ],
+      "id": "wi-resistencia-a-tracion-y-alargamiento-a-la-rotura-en-laminas",
+      "m": 1,
+      "p": 233,
+      "s": "Resistencia a tración y alargamiento a la rotura en láminas plásticas o de caucho",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "in-situ",
+        "in-situ"
+      ],
+      "id": "wi-carga-con-placa-estatica",
+      "m": 1,
+      "p": 150,
+      "s": "Carga con placa estática",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "in-situ",
+        "in-situ"
+      ],
+      "id": "wi-densidad-y-humedad-in-situ",
+      "m": 1,
+      "p": 17.36,
+      "s": "Densidad y humedad \"in situ\"",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-fisicos"
+      ],
+      "id": "wi-analisis-granulometrico-de-suelos",
+      "m": 1,
+      "p": 44,
+      "s": "Análisis granulométrico de suelos",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-fisicos"
+      ],
+      "id": "wi-clasificacion-de-los-componentes-en-aridos-gruesos",
+      "m": 1,
+      "p": 45,
+      "s": "Clasificación de los componentes en áridos gruesos",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-fisicos"
+      ],
+      "id": "wi-coeficiente-de-desgaste-los-angeles",
+      "m": 1,
+      "p": 92,
+      "s": "Coeficiente de desgaste Los Ángeles",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-fisicos"
+      ],
+      "id": "wi-determinacion-de-los-plazos-de-trabajabilidad",
+      "m": 1,
+      "p": 158,
+      "s": "Determinación de los plazos de trabajabilidad",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-fisicos"
+      ],
+      "id": "wi-determinacion-del-indice-c-b-r-a-1-4-y-7-dias",
+      "m": 1,
+      "p": 161,
+      "s": "Determinación del índice C.B.R. a 1, 4 y 7 días",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-fisicos"
+      ],
+      "id": "wi-ensayo-colapso-de-suelos",
+      "m": 1,
+      "p": 100,
+      "s": "Ensayo colapso de suelos",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-fisicos"
+      ],
+      "id": "wi-ensayo-de-compactacion-proctor-modificado",
+      "m": 1,
+      "p": 106,
+      "s": "Ensayo de compactación. Próctor modificado.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-fisicos"
+      ],
+      "id": "wi-ensayo-de-compactacion-proctor-normal",
+      "m": 1,
+      "p": 71,
+      "s": "Ensayo de compactación. Proctor normal",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-fisicos"
+      ],
+      "id": "wi-ensayo-de-hinchamiento-libre-de-edometro",
+      "m": 1,
+      "p": 100,
+      "s": "Ensayo de hinchamiento libre de edómetro",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-fisicos"
+      ],
+      "id": "wi-equivalente-de-arena-de-aridos-se4",
+      "m": 1,
+      "p": 26,
+      "s": "Equivalente de arena de áridos (SE4)",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-fisicos"
+      ],
+      "id": "wi-indice-c-b-r-de-un-suelo",
+      "m": 1,
+      "p": 161,
+      "s": "Índice C.B.R de un suelo",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-fisicos"
+      ],
+      "id": "wi-indice-de-lajas",
+      "m": 1,
+      "p": 63,
+      "s": "Índice de lajas",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-fisicos"
+      ],
+      "id": "wi-limites-de-atterberg",
+      "m": 1,
+      "p": 42,
+      "s": "Límites de Atterberg",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-fisicos"
+      ],
+      "id": "wi-proporcion-de-caras-de-fractura-de-las-particulas-del-arido",
+      "m": 1,
+      "p": 50,
+      "s": "Proporción de caras de fractura de las partículas del árido grueso",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-fisicos"
+      ],
+      "id": "wi-resistencia-a-compresion-simple-7-dias-sobre-3-probetas",
+      "m": 1,
+      "p": 210,
+      "s": "Resistencia a compresión simple (7 días) sobre 3 probetas",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-fisicos"
+      ],
+      "id": "wi-resistencia-a-compresion-simple-7dias",
+      "m": 1,
+      "p": 210,
+      "s": "Resistencia a compresión simple (7días)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-quimicos"
+      ],
+      "id": "wi-azul-metileno-en-aridos",
+      "m": 1,
+      "p": 92,
+      "s": "Azul metileno en áridos",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-quimicos"
+      ],
+      "id": "wi-contenido-de-carbonatos",
+      "m": 1,
+      "p": 83.33,
+      "s": "Contenido de carbonatos",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-quimicos"
+      ],
+      "id": "wi-contenido-de-materia-organica-en-suelos",
+      "m": 1,
+      "p": 37,
+      "s": "Contenido de materia orgánica en suelos",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-quimicos"
+      ],
+      "id": "wi-contenido-de-sales-solubles-en-suelos",
+      "m": 1,
+      "p": 43,
+      "s": "Contenido de sales solubles en suelos",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-quimicos"
+      ],
+      "id": "wi-contenido-de-sulfatos-solubles-en-suelos",
+      "m": 1,
+      "p": 45,
+      "s": "Contenido de sulfatos solubles en suelos",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-quimicos"
+      ],
+      "id": "wi-contenido-de-yeso-en-suelos",
+      "m": 1,
+      "p": 46.74,
+      "s": "Contenido de yeso en suelos",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-quimicos"
+      ],
+      "id": "wi-contenido-total-en-azufre-en-aridos",
+      "m": 1,
+      "p": 265,
+      "s": "Contenido total en azufre en áridos",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-quimicos"
+      ],
+      "id": "wi-ph-en-suelos",
+      "m": 1,
+      "p": 20.79,
+      "s": "PH en suelos",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-y-suelos",
+        "laboratorio",
+        "ensayos-quimicos"
+      ],
+      "id": "wi-sulfatos-solubles-en-agua-en-aridos-reciclados",
+      "m": 1,
+      "p": 90,
+      "s": "Sulfatos solubles en agua en áridos reciclados",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-ceramica"
+      ],
+      "id": "wi-absorcion-de-agua-en-baldosa-ceramica",
+      "m": 1,
+      "p": 80,
+      "s": "Absorción de agua en baldosa cerámica",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-ceramica"
+      ],
+      "id": "wi-determinacion-y-aspecto-superficial-de-baldosa-ceramica",
+      "m": 1,
+      "p": 114,
+      "s": "Determinación y aspecto superficial de baldosa cerámica",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-ceramica"
+      ],
+      "id": "wi-resistencia-a-flexion-y-fuerza-de-rotura-en-baldosa-ceramica",
+      "m": 1,
+      "p": 183,
+      "s": "Resistencia a flexión y fuerza de rotura en baldosa cerámica",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-ceramica"
+      ],
+      "id": "wi-resistencia-a-manchas-en-baldosa-ceramica",
+      "m": 1,
+      "p": 95,
+      "s": "Resistencia a manchas en baldosa cerámica",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-ceramica"
+      ],
+      "id": "wi-resistencia-al-deslizamiento-resbalamiento-en-baldosa-cerami",
+      "m": 1,
+      "p": 180,
+      "s": "Resistencia al deslizamiento/resbalamiento en baldosa cerámica (laboratorio)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-ceramica"
+      ],
+      "id": "wi-resistencia-al-deslizamiento-resbalamiento-en-baldosa-cerami-8aaf",
+      "m": 1,
+      "p": 300,
+      "s": "Resistencia al deslizamiento/resbalamiento en baldosa cerámica (in situ)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-ceramica"
+      ],
+      "id": "wi-resistencia-al-impacto-en-baldosa-ceramica",
+      "m": 1,
+      "p": 110,
+      "s": "Resistencia al impacto en baldosa cerámica",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-ceramica"
+      ],
+      "id": "wi-resistencia-quimica-en-baldosa-ceramica",
+      "m": 1,
+      "p": 95,
+      "s": "Resistencia química en baldosa cerámica",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-hormigon"
+      ],
+      "id": "wi-absorcion-de-agua-en-baldosa-de-hormigon",
+      "m": 1,
+      "p": 63.11,
+      "s": "Absorción de agua en baldosa de hormigón",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-hormigon"
+      ],
+      "id": "wi-caracteristicas-dimensionales-de-baldosa-de-hormigon",
+      "m": 1,
+      "p": 54.19,
+      "s": "Características dimensionales de baldosa de hormigón",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-hormigon"
+      ],
+      "id": "wi-determinacion-de-la-helacidad",
+      "m": 1,
+      "p": 266.7,
+      "s": "Determinación de la helacidad",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-hormigon"
+      ],
+      "id": "wi-resistencia-a-flexion-y-carga-de-rotura-en-baldosa-de-hormig",
+      "m": 1,
+      "p": 121.16,
+      "s": "Resistencia a flexión y carga de rotura en baldosa de hormigón",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-hormigon"
+      ],
+      "id": "wi-resistencia-al-desgaste-por-abrasion-en-baldosa-de-hormigon",
+      "m": 1,
+      "p": 246.8,
+      "s": "Resistencia al desgaste por abrasión en baldosa de hormigón",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-hormigon"
+      ],
+      "id": "wi-resistencia-al-deslizamiento-resbalamiento-en-baldosa-de-hor",
+      "m": 1,
+      "p": 180,
+      "s": "Resistencia al deslizamiento/resbalamiento en baldosa de hormigón (sin tratar)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-hormigon"
+      ],
+      "id": "wi-resistencia-al-deslizamiento-resbalamiento-en-baldosa-de-hor-0e5a",
+      "m": 1,
+      "p": 300,
+      "s": "Resistencia al deslizamiento/resbalamiento en baldosa de hormigón (tratada)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-piedra-natural-exterior"
+      ],
+      "id": "wi-absorcion-y-peso-especifico-en-baldosa-de-piedra-natural-ext",
+      "m": 1,
+      "p": 63.11,
+      "s": "Absorción y peso específico en baldosa de piedra natural exterior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-piedra-natural-exterior"
+      ],
+      "id": "wi-caracteristicas-dimensionales-en-baldosa-de-piedra-natural-e",
+      "m": 1,
+      "p": 54.19,
+      "s": "Características dimensionales en baldosa de piedra natural exterior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-piedra-natural-exterior"
+      ],
+      "id": "wi-densidad-y-porosidad-abierta-en-baldosa-de-piedra-natural-ex",
+      "m": 1,
+      "p": 150,
+      "s": "Densidad y porosidad abierta en baldosa de piedra natural exterior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-piedra-natural-exterior"
+      ],
+      "id": "wi-resistencia-a-la-abrasion-en-baldosa-de-piedra-natural-exter",
+      "m": 1,
+      "p": 246.8,
+      "s": "Resistencia a la abrasión en baldosa de piedra natural exterior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-piedra-natural-exterior"
+      ],
+      "id": "wi-resistencia-a-la-flexion-en-baldosa-de-piedra-natural-exteri",
+      "m": 1,
+      "p": 142.83,
+      "s": "Resistencia a la flexión en baldosa de piedra natural exterior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-piedra-natural-exterior"
+      ],
+      "id": "wi-resistencia-al-deslizamiento-resbalamiento-en-baldosa-de-pie",
+      "m": 1,
+      "p": 180,
+      "s": "Resistencia al deslizamiento/resbalamiento en baldosa de piedra natural exterior (laboratorio)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-piedra-natural-exterior"
+      ],
+      "id": "wi-resistencia-al-deslizamiento-resbalamiento-en-baldosa-tratad",
+      "m": 1,
+      "p": 300,
+      "s": "Resistencia al deslizamiento/resbalamiento en baldosa tratada de piedra natural exterior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-piedra-natural-exterior"
+      ],
+      "id": "wi-resistencia-al-hielo-deshielo-en-baldosa-de-piedra-natural-e",
+      "m": 1,
+      "p": 266.7,
+      "s": "Resistencia al hielo-deshielo en baldosa de piedra natural exterior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-piedra-natural-interior"
+      ],
+      "id": "wi-absorcion-de-agua-en-baldosa-de-piedra-natural-uso-interior",
+      "m": 1,
+      "p": 63.11,
+      "s": "Absorción de agua en baldosa de piedra natural uso interior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-piedra-natural-interior"
+      ],
+      "id": "wi-absorcion-de-agua-por-capilaridad-en-baldosa-de-piedra-natur",
+      "m": 1,
+      "p": 80,
+      "s": "Absorción de agua por capilaridad en baldosa de piedra natural uso interior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-piedra-natural-interior"
+      ],
+      "id": "wi-caracteristicas-dimensionales-en-baldosa-de-piedra-natural-u",
+      "m": 1,
+      "p": 54.19,
+      "s": "Características dimensionales en baldosa de piedra natural uso interior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-piedra-natural-interior"
+      ],
+      "id": "wi-densidad-y-porosidad-abierta-en-baldosa-de-piedra-natural-us",
+      "m": 1,
+      "p": 150,
+      "s": "Densidad y porosidad abierta en baldosa de piedra natural uso interior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-piedra-natural-interior"
+      ],
+      "id": "wi-resistencia-a-flexion-en-baldosa-de-piedra-natural-uso-inter",
+      "m": 1,
+      "p": 142.83,
+      "s": "Resistencia a flexión en baldosa de piedra natural uso interior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-piedra-natural-interior"
+      ],
+      "id": "wi-resistencia-a-la-abrasion-en-baldosa-de-piedra-natural-uso-i",
+      "m": 1,
+      "p": 246.8,
+      "s": "Resistencia a la abrasión en baldosa de piedra natural uso interior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-piedra-natural-interior"
+      ],
+      "id": "wi-resistencia-al-deslizamiento-resbalamiento-en-baldosa-de-pie-5a87",
+      "m": 1,
+      "p": 300,
+      "s": "Resistencia al deslizamiento/resbalamiento en baldosa de piedra natural uso interior (tratada)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosa-de-piedra-natural-interior"
+      ],
+      "id": "wi-resistencia-al-deslizamiento-resbalamiento-en-baldosa-de-pie-76ef",
+      "m": 1,
+      "p": 180,
+      "s": "Resistencia al deslizamiento/resbalamiento en baldosa de piedra natural uso interior (sin tratar)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosas-de-terrazo-exterior"
+      ],
+      "id": "wi-absorcion-de-agua-en-baldosa-de-terrazo-exterior",
+      "m": 1,
+      "p": 63.11,
+      "s": "Absorción de agua en baldosa de terrazo exterior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosas-de-terrazo-exterior"
+      ],
+      "id": "wi-caracteristicas-dimensionales-en-baldosa-de-terrazo-exterior",
+      "m": 1,
+      "p": 54.19,
+      "s": "Características dimensionales en baldosa de terrazo exterior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosas-de-terrazo-exterior"
+      ],
+      "id": "wi-resistencia-a-flexion-y-carga-de-rotura-en-baldosa-de-terraz",
+      "m": 1,
+      "p": 142.83,
+      "s": "Resistencia a flexión y carga de rotura en baldosa de terrazo exterior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosas-de-terrazo-exterior"
+      ],
+      "id": "wi-resistencia-al-desgaste-por-abrasion-en-baldosa-de-terrazo-e",
+      "m": 1,
+      "p": 246.8,
+      "s": "Resistencia al desgaste por abrasión en baldosa de terrazo exterior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosas-de-terrazo-exterior"
+      ],
+      "id": "wi-resistencia-al-deslizamiento-resbalamiento-de-baldosa-de-ter",
+      "m": 1,
+      "p": 180,
+      "s": "Resistencia al deslizamiento/resbalamiento de baldosa de terrazo de uso exterior (laboratorio)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosas-de-terrazo-exterior"
+      ],
+      "id": "wi-resistencia-al-impacto-de-baldosa-de-terrazo-de-uso-exterior",
+      "m": 1,
+      "p": 89.75,
+      "s": "Resistencia al impacto de baldosa de terrazo de uso exterior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosas-de-terrazo-exterior"
+      ],
+      "id": "wi-resistencia-climatica-en-baldosa-de-terrazo-de-uso-exterior",
+      "m": 1,
+      "p": 266.7,
+      "s": "Resistencia climática en baldosa de terrazo de uso exterior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosas-de-terrazo-exterior"
+      ],
+      "id": "wi-resistencia-el-deslizamiento-resbalamiento-de-baldosa-de-ter",
+      "m": 1,
+      "p": 300,
+      "s": "Resistencia el deslizamiento/resbalamiento de baldosa de terrazo de uso exterior (in situ)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosas-de-terrazo-interior"
+      ],
+      "id": "wi-absorcion-de-agua-en-baldosa-de-terrazo-interior",
+      "m": 1,
+      "p": 63.11,
+      "s": "Absorción de agua en baldosa de terrazo interior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosas-de-terrazo-interior"
+      ],
+      "id": "wi-caracteristicas-dimensionales-en-baldosas-de-terrazo-interio",
+      "m": 1,
+      "p": 54.19,
+      "s": "Características dimensionales en baldosas de terrazo interior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosas-de-terrazo-interior"
+      ],
+      "id": "wi-resistencia-a-flexion-y-carga-de-rotura-en-baldosa-de-terraz-f8e2",
+      "m": 1,
+      "p": 142.83,
+      "s": "Resistencia a flexión y carga de rotura en baldosa de terrazo interior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosas-de-terrazo-interior"
+      ],
+      "id": "wi-resistencia-al-desgaste-por-abrasion-en-baldosa-de-terrazo-i",
+      "m": 1,
+      "p": 246.8,
+      "s": "Resistencia al desgaste por abrasión en baldosa de terrazo interior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosas-de-terrazo-interior"
+      ],
+      "id": "wi-resistencia-al-deslizamiento-resbalamiento-en-baldosa-de-ter",
+      "m": 1,
+      "p": 180,
+      "s": "Resistencia al deslizamiento/resbalamiento en baldosa de terrazo interior (no tratadas)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosas-de-terrazo-interior"
+      ],
+      "id": "wi-resistencia-al-deslizamiento-resbalamiento-en-baldosa-de-ter-664d",
+      "m": 1,
+      "p": 300,
+      "s": "Resistencia al deslizamiento/resbalamiento en baldosa de terrazo interior (tratadas)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "baldosas",
+        "baldosas-de-terrazo-interior"
+      ],
+      "id": "wi-resistencia-al-impacto-de-baldosa-de-terrazo-interior",
+      "m": 1,
+      "p": 89.75,
+      "s": "Resistencia al impacto de baldosa de terrazo interior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "paredes-y-fachadas",
+        "alicatados-y-aplacados"
+      ],
+      "id": "wi-adherencia-a-la-base-en-obra",
+      "m": 1,
+      "p": 200,
+      "s": "Adherencia a la base en obra",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "paredes-y-fachadas",
+        "alicatados-y-aplacados"
+      ],
+      "id": "wi-carga-de-rotura-para-anclajes-en-alicatados-o-aplacados-cera",
+      "m": 1,
+      "p": 50,
+      "s": "Carga de rotura para anclajes en alicatados o aplacados cerámicos",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "suelo",
+        "pavimento-de-hormigon-continuo"
+      ],
+      "id": "wi-desgaste-por-rozamiento",
+      "m": 1,
+      "p": 125,
+      "s": "Desgaste por rozamiento",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "suelo",
+        "pavimento-de-hormigon-continuo"
+      ],
+      "id": "wi-ensayo-de-asentamiento",
+      "m": 1,
+      "p": 17.26,
+      "s": "Ensayo de asentamiento",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "suelo",
+        "pavimento-de-hormigon-continuo"
+      ],
+      "id": "wi-resistencia-a-compresion-en-pavimentos-de-hormigon-continuos",
+      "m": 1,
+      "p": 59.28,
+      "s": "Resistencia a compresión en pavimentos de hormigón continuos",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "suelo",
+        "pavimento-de-hormigon-continuo"
+      ],
+      "id": "wi-resistencia-a-flexion-en-pavimentos-continuos-de-hormigon",
+      "m": 1,
+      "p": 175,
+      "s": "Resistencia a flexión en pavimentos continuos de hormigón",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "suelo",
+        "pavimento-de-hormigon-continuo"
+      ],
+      "id": "wi-resistencia-al-deslizamiento-en-pavimentos-continuos-de-horm",
+      "m": 1,
+      "p": 300,
+      "s": "Resistencia al deslizamiento en pavimentos continuos de hormigón",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "suelo",
+        "pavimento-de-madera"
+      ],
+      "id": "wi-caracteristicas-geometricas-en-pavimentos-de-madera",
+      "m": 1,
+      "p": 80,
+      "s": "Características geométricas en pavimentos de madera",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "suelo",
+        "pavimento-de-madera"
+      ],
+      "id": "wi-contenido-de-humedad-en-pavimentos-de-madera",
+      "m": 1,
+      "p": 65,
+      "s": "Contenido de humedad en pavimentos de madera",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "suelo",
+        "pavimento-de-madera"
+      ],
+      "id": "wi-determinacion-de-la-hinchazon-en-grosos-en-pavimentos-de-mad",
+      "m": 1,
+      "p": 180,
+      "s": "Determinación de la hinchazón en grosos en pavimentos de madera",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "suelo",
+        "pavimento-de-madera"
+      ],
+      "id": "wi-determinacion-de-resistencia-al-impacto-en-pavimento-de-made",
+      "m": 1,
+      "p": 180,
+      "s": "Determinación de resistencia al impacto en pavimento de madera",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "suelo",
+        "pavimento-vinilico"
+      ],
+      "id": "wi-adherencia-al-soporte-en-pavimento-vinilico",
+      "m": 1,
+      "p": 200,
+      "s": "Adherencia al soporte en pavimento vinílico",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "suelo",
+        "pavimento-vinilico"
+      ],
+      "id": "wi-resistencia-al-deslizamiento-en-pavimento-vinilico-in-situ",
+      "m": 1,
+      "p": 300,
+      "s": "Resistencia al deslizamiento en pavimento vinílico (in situ)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "suelo",
+        "pavimento-vinilico"
+      ],
+      "id": "wi-resistencia-al-deslizamiento-en-pavimento-vinilico-laborator",
+      "m": 1,
+      "p": 180,
+      "s": "Resistencia al deslizamiento en pavimento vinílico (laboratorio)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "techos",
+        "perfileria-de-acero-galvanizado-en-techo"
+      ],
+      "id": "wi-control-dimensional-de-perfileria",
+      "m": 1,
+      "p": 392.01,
+      "s": "Control dimensional de perfilería"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "techos",
+        "perfileria-de-acero-galvanizado-en-techo"
+      ],
+      "id": "wi-espesor-de-capa-de-lacado-en-perfileria",
+      "m": 1,
+      "p": 48.25,
+      "s": "Espesor de capa de lacado en perfilería"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "techos",
+        "placa-de-yeso-laminado-o-escayola"
+      ],
+      "id": "wi-dimensiones-y-tolerancias-en-placas-de-yeso-laminado",
+      "m": 1,
+      "p": 135,
+      "s": "Dimensiones y tolerancias en placas de yeso laminado",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "techos",
+        "placa-de-yeso-laminado-o-escayola"
+      ],
+      "id": "wi-masa-por-unidad-de-superfie-y-tolerancias-en-placas-de-yeso",
+      "m": 1,
+      "p": 70,
+      "s": "Masa por unidad de superfie y tolerancias en placas de yeso laminado",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "techos",
+        "placa-de-yeso-laminado-o-escayola"
+      ],
+      "id": "wi-resistencia-al-impato-en-placas-de-yeso-laminado-o-escayola",
+      "m": 1,
+      "p": 110,
+      "s": "Resistencia al impato en placas de yeso laminado o escayola",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "baldosas-y-revestimientos",
+        "techos",
+        "placa-de-yeso-laminado-o-escayola"
+      ],
+      "id": "wi-resistencia-mecanica-a-flexion-y-tolerancias-en-placas-de-ye",
+      "m": 1,
+      "p": 175,
+      "s": "Resistencia mecánica a flexión y tolerancias en placas de yeso laminado",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-y-vidrios",
+        "carpinteria-exterior",
+        "carpinteria-exterior"
+      ],
+      "id": "wi-control-dimensional-en-obra-de-ventanas-y-puertas-peatonales",
+      "m": 1,
+      "p": 120,
+      "s": "Control dimensional en obra de ventanas y puertas peatonales",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-y-vidrios",
+        "carpinteria-exterior",
+        "carpinteria-exterior"
+      ],
+      "id": "wi-espesor-de-anodizado-o-lacado-en-carpinteria-metalica",
+      "m": 1,
+      "p": 48.25,
+      "s": "Espesor de anodizado o lacado en carpintería metálica",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-y-vidrios",
+        "carpinteria-exterior",
+        "carpinteria-exterior"
+      ],
+      "id": "wi-estanqueidad-al-agua-en-carpinteria",
+      "m": 1,
+      "p": 450,
+      "s": "Estanqueidad al agua en carpintería",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-y-vidrios",
+        "carpinteria-exterior",
+        "carpinteria-exterior"
+      ],
+      "id": "wi-permeabilidad-al-aire-en-carpinteria",
+      "m": 1,
+      "p": 450,
+      "s": "Permeabilidad al aire en carpintería",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-y-vidrios",
+        "carpinteria-exterior",
+        "carpinteria-exterior"
+      ],
+      "id": "wi-resistencia-al-viento-en-carpinteria",
+      "m": 1,
+      "p": 450,
+      "s": "Resistencia al viento en carpintería",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-y-vidrios",
+        "carpinteria-exterior",
+        "carpinteria-exterior"
+      ],
+      "id": "wi-sellado-del-anodizado-en-carpinteria-de-aluminio",
+      "m": 1,
+      "p": 800,
+      "s": "Sellado del anodizado en carpintería de aluminio",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-y-vidrios",
+        "carpinteria-interior",
+        "puertas-de-madera"
+      ],
+      "id": "wi-determinacion-de-espesor-de-lacado",
+      "m": 1,
+      "p": 150,
+      "s": "Determinación de espesor de lacado",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-y-vidrios",
+        "carpinteria-interior",
+        "puertas-de-madera"
+      ],
+      "id": "wi-dimensiones-planicidad-y-excuadria-de-hojas-de-puerta",
+      "m": 1,
+      "p": 180,
+      "s": "Dimensiones, planicidad y excuadría de hojas de puerta",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-y-vidrios",
+        "carpinteria-interior",
+        "puertas-de-madera"
+      ],
+      "id": "wi-resistencia-al-impacto-de-cuerpo-duro-en-hojas-de-puerta",
+      "m": 1,
+      "p": 210,
+      "s": "Resistencia al impacto de cuerpo duro en hojas de puerta",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-y-vidrios",
+        "vidrios",
+        "vidrios"
+      ],
+      "id": "wi-resistencia-a-flexion-en-vidrios",
+      "m": 1,
+      "p": 250,
+      "s": "Resistencia a flexión en vidrios",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "carpinteria-y-vidrios",
+        "vidrios",
+        "vidrios"
+      ],
+      "id": "wi-resistencia-al-impacto-en-vidrios",
+      "m": 1,
+      "p": 1200,
+      "s": "Resistencia al impacto en vidrios",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "escolleras",
+        "escolleras"
+      ],
+      "id": "wi-analisis-granulometrico-de-material-para-escollera",
+      "m": 1,
+      "p": 350,
+      "s": "Análisis granulométrico de material para escollera",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "escolleras",
+        "escolleras"
+      ],
+      "id": "wi-coeficiente-de-desgaste-los-angeles-a8c6",
+      "m": 1,
+      "p": 92,
+      "s": "Coeficiente de desgaste Los Ángeles",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "escolleras",
+        "escolleras"
+      ],
+      "id": "wi-determinacion-de-la-densidad-de-particulas-y-absorcion-de-ag",
+      "m": 1,
+      "p": 52.88,
+      "s": "Determinación de la densidad de partículas y absorción de agua",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "escolleras",
+        "escolleras"
+      ],
+      "id": "wi-estabilidad-frente-a-la-accion-de-ciclos-humedad-sequedad",
+      "m": 1,
+      "p": 176.83,
+      "s": "Estabilidad frente a la acción de ciclos humedad sequedad",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "escolleras",
+        "escolleras"
+      ],
+      "id": "wi-estabilidad-frente-a-la-accion-de-desmoronamiento-en-agua",
+      "m": 1,
+      "p": 83.33,
+      "s": "Estabilidad frente a la acción de desmoronamiento en agua",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "escolleras",
+        "escolleras"
+      ],
+      "id": "wi-forma-particulas-en-escollera",
+      "m": 1,
+      "p": 150,
+      "s": "Forma particulas en escollera",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "escolleras",
+        "escolleras"
+      ],
+      "id": "wi-muestreo-y-reduccion-de-muestras",
+      "m": 1,
+      "p": 84,
+      "s": "Muestreo y reducción de muestras",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "escolleras",
+        "escolleras"
+      ],
+      "id": "wi-resistencia-a-compresion-uniaxial-incluyendo-extraccion-y-ta",
+      "m": 1,
+      "p": 62,
+      "s": "Resistencia a compresión uniaxial (incluyendo extracción y tallado del testigo)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "escolleras",
+        "escolleras"
+      ],
+      "id": "wi-resistencia-frente-a-disoluciones-de-sulfato-magnesico",
+      "m": 1,
+      "p": 144,
+      "s": "Resistencia frente a disoluciones de sulfato magnésico",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "lodos-bentoliticos-o-suspensiones-polime",
+        "lodos-bentoliticos-o-suspensiones-polime"
+      ],
+      "id": "wi-contenido-de-arena-en-volumen-en-lodos-bentoniticos-o-suspen",
+      "m": 0,
+      "p": 33.71,
+      "s": "Contenido de arena en volumen en lodos bentoníticos o suspensiones polimércias",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "lodos-bentoliticos-o-suspensiones-polime",
+        "lodos-bentoliticos-o-suspensiones-polime"
+      ],
+      "id": "wi-densidad-de-lodos-bentoniticos-o-suspensiones-polimericas",
+      "m": 1,
+      "p": 20.8,
+      "s": "Densidad de lodos bentoníticos o suspensiones poliméricas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "lodos-bentoliticos-o-suspensiones-polime",
+        "lodos-bentoliticos-o-suspensiones-polime"
+      ],
+      "id": "wi-determinacion-de-ph-en-lodos-bentoniticos-o-suspensiones-pol",
+      "m": 1,
+      "p": 16.9,
+      "s": "Determinación de pH en lodos bentoníticos o suspensiones poliméricas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "lodos-bentoliticos-o-suspensiones-polime",
+        "lodos-bentoliticos-o-suspensiones-polime"
+      ],
+      "id": "wi-ensayo-cake-en-lodos-bentoniticos-o-suspensiones-polimericas",
+      "m": 1,
+      "p": 37.93,
+      "s": "Ensayo Cake en lodos bentoníticos o suspensiones poliméricas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "lodos-bentoliticos-o-suspensiones-polime",
+        "lodos-bentoliticos-o-suspensiones-polime"
+      ],
+      "id": "wi-ensayo-de-filtrado-en-lodos-bentoniticos-o-suspensiones-poli",
+      "m": 1,
+      "p": 41.11,
+      "s": "Ensayo de filtrado en lodos bentoníticos o suspensiones poliméricas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "lodos-bentoliticos-o-suspensiones-polime",
+        "lodos-bentoliticos-o-suspensiones-polime"
+      ],
+      "id": "wi-viscosidad-en-cono-de-marsh-en-lodos-bentonicos-o-suspension",
+      "m": 1,
+      "p": 33.71,
+      "s": "Viscosidad en cono de Marsh en lodos bentonícos o suspensiones poliméricas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "micropilotes",
+        "micropilotes"
+      ],
+      "id": "wi-exudacion-de-lechada-de-inyeccion",
+      "m": 1,
+      "p": 52.58,
+      "s": "Exudación de lechada de inyección",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "micropilotes",
+        "micropilotes"
+      ],
+      "id": "wi-fluidez-de-lechada-de-inyeccion",
+      "m": 1,
+      "p": 49.83,
+      "s": "Fluidez de lechada de inyección",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "micropilotes",
+        "micropilotes"
+      ],
+      "id": "wi-reduccion-de-volumen",
+      "m": 1,
+      "p": 90.28,
+      "s": "Reducción de volumen",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "micropilotes",
+        "micropilotes"
+      ],
+      "id": "wi-resistencia-a-compresion",
+      "m": 1,
+      "p": 49.4,
+      "s": "Resistencia a compresión",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "pantallas",
+        "pantallas"
+      ],
+      "id": "wi-ensayo-de-transparecia-sonica-en-muro-pantalla",
+      "m": 1,
+      "p": 226.8,
+      "s": "Ensayo de transparecia sónica en muro pantalla.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-ensayo-transparencia-sonica-en-pilote-instrumentado-con-3-tu",
+      "m": 1,
+      "p": 226.8,
+      "s": "Ensayo transparencia sónica en pilote instrumentado con 3 tubos de acero.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-ensayo-transparencia-sonica-en-pilote-instrumentado-con-4-tu",
+      "m": 1,
+      "p": 289.8,
+      "s": "Ensayo transparencia sónica en pilote instrumentado con 4 tubos de acero.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "pilotes",
+        "in-situ"
+      ],
+      "id": "wi-ensayo-transparencia-sonica-en-pilote-instrumentado-con-mas",
+      "m": 0,
+      "p": 346.5,
+      "s": "Ensayo transparencia sónica en pilote instrumentado con más de 4 tubos de acero.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "cimentacion",
+        "pilotes",
+        "pilotes-prefabricados"
+      ],
+      "id": "wi-comprobacion-integridad-estructural-ensayo-sonico-de-impeden",
+      "m": 1,
+      "p": 113.4,
+      "s": "Comprobación integridad estructural. Ensayo sónico de impedencia mecánica con martillo de mano.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "elementos-metalicos",
+        "elementos-metalicos"
+      ],
+      "id": "wi-inspeccion-de-despieces",
+      "m": 1,
+      "p": 392.01,
+      "s": "Inspección de despieces",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "elementos-metalicos",
+        "elementos-metalicos"
+      ],
+      "id": "wi-verificacion-del-par-de-apriete",
+      "m": 1,
+      "p": 392.01,
+      "s": "Verificación del par de apriete",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "perfiles",
+        "perfiles"
+      ],
+      "id": "wi-ensayo-de-carbono-total-en-perfiles-de-acero",
+      "m": 1,
+      "p": 37.8,
+      "s": "Ensayo de carbono total en perfiles de acero",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "perfiles",
+        "perfiles"
+      ],
+      "id": "wi-ensayo-de-cuantia-de-azufre-en-perfiles-de-acero",
+      "m": 1,
+      "p": 37.8,
+      "s": "Ensayo de cuantía de azufre en perfiles de acero",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "perfiles",
+        "perfiles"
+      ],
+      "id": "wi-ensayo-de-cuantia-de-fosforo-en-perfiles-de-acero",
+      "m": 1,
+      "p": 37.8,
+      "s": "Ensayo de cuantía de fósforo en perfiles de acero",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "perfiles",
+        "perfiles"
+      ],
+      "id": "wi-ensayo-de-cuantia-de-manganeso-en-perfiles-de-acero",
+      "m": 1,
+      "p": 37.8,
+      "s": "Ensayo de cuantia de manganeso en perfiles de acero",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "perfiles",
+        "perfiles"
+      ],
+      "id": "wi-ensayo-de-cuantia-de-nitrogeno-por-metodo-espectofotometrico",
+      "m": 1,
+      "p": 90,
+      "s": "Ensayo de cuantía de nitrógeno por método espectofotométrico",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "perfiles",
+        "perfiles"
+      ],
+      "id": "wi-ensayo-de-doblado-sobre-probetas",
+      "m": 1,
+      "p": 75.73,
+      "s": "Ensayo de doblado sobre probetas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "perfiles",
+        "perfiles"
+      ],
+      "id": "wi-ensayo-de-espesor-de-capa-de-pintura-en-perfiles-de-acero",
+      "m": 1,
+      "p": 32.31,
+      "s": "Ensayo de espesor de capa de pintura en perfiles de acero",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "perfiles",
+        "perfiles"
+      ],
+      "id": "wi-ensayo-de-flexion-por-choque",
+      "m": 1,
+      "p": 360,
+      "s": "Ensayo de flexión por choque",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "perfiles",
+        "perfiles"
+      ],
+      "id": "wi-ensayo-de-traccion-en-perfiles-metalicos",
+      "m": 1,
+      "p": 210,
+      "s": "Ensayo de tracción en perfiles metálicos",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "proteccion-anticorrosiva",
+        "estructuras-galvanizadas"
+      ],
+      "id": "wi-inspeccion-de-aspecto-y-espesor-del-recubrimiento-galvanizad",
+      "m": 1,
+      "p": 392.01,
+      "s": "Inspección de aspecto y espesor del recubrimiento galvanizado"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "proteccion-anticorrosiva",
+        "preparacion-superficial"
+      ],
+      "id": "wi-inspeccion-visual-del-chorreado-o-granallado",
+      "m": 1,
+      "p": 392.01,
+      "s": "Inspección visual del chorreado o granallado"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "proteccion-anticorrosiva",
+        "proteccion-anticorrosiva"
+      ],
+      "id": "wi-control-del-micraje-de-la-proteccion-anticorrosiva",
+      "m": 1,
+      "p": 48.25,
+      "s": "Control del micraje de la protección anticorrosiva",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "proteccion-anticorrosiva",
+        "proteccion-contra-el-fuego"
+      ],
+      "id": "wi-control-de-micraje-aplicado-para-proteccion-al-fuego",
+      "m": 1,
+      "p": 392.01,
+      "s": "Control de micraje aplicado para protección al fuego",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "soldaduras",
+        "conectores-soldados"
+      ],
+      "id": "wi-ensayo-de-doblado-a-15-sobre-pernos-conectores",
+      "m": 1,
+      "p": 392.01,
+      "s": "Ensayo de doblado a 15º sobre pernos conectores",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "soldaduras",
+        "conectores-soldados"
+      ],
+      "id": "wi-ensayo-sonico-sobre-pernos-conectores",
+      "m": 1,
+      "p": 392.01,
+      "s": "Ensayo sónico sobre pernos conectores",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "soldaduras",
+        "conectores-soldados"
+      ],
+      "id": "wi-inspeccion-visual-sobre-pernos-conectores",
+      "m": 1,
+      "p": 392.01,
+      "s": "Inspección visual sobre pernos conectores",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "soldaduras",
+        "soldaduras-a-tope"
+      ],
+      "id": "wi-ensayo-por-ultrasonido-de-soldadura",
+      "m": 1,
+      "p": 392.01,
+      "s": "Ensayo por ultrasonido de soldadura",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "soldaduras",
+        "soldaduras-a-tope"
+      ],
+      "id": "wi-ensayo-radiografico-de-soldadura",
+      "m": 1,
+      "p": 392.01,
+      "s": "Ensayo radiográfico de soldadura",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "soldaduras",
+        "soldaduras-en-angulo"
+      ],
+      "id": "wi-inspeccion-por-liquidos-penetrantes",
+      "m": 1,
+      "p": 392.01,
+      "s": "Inspección por líquidos penetrantes",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "soldaduras",
+        "soldaduras-en-angulo"
+      ],
+      "id": "wi-inspeccion-por-particulas-magneticas",
+      "m": 1,
+      "p": 392.01,
+      "s": "Inspección por partículas magnéticas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-acero",
+        "soldaduras",
+        "soldaduras-en-angulo"
+      ],
+      "id": "wi-inspeccion-visual-y-control-geometrico",
+      "m": 1,
+      "p": 392.01,
+      "s": "Inspección visual y control geométrico",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-fabrica",
+        "estructura-de-fabrica",
+        "fabrica-de-ladrillo"
+      ],
+      "id": "wi-ensayo-de-compresion-en-muros-de-fabrica",
+      "m": 1,
+      "p": 500,
+      "s": "Ensayo de compresión en muros de fábrica",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-fabrica",
+        "estructura-de-fabrica",
+        "fabrica-de-ladrillo"
+      ],
+      "id": "wi-prueba-de-empuje-en-elementos-divisorios",
+      "m": 1,
+      "p": 180,
+      "s": "Prueba de empuje en elementos divisorios",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-hormigon",
+        "hormigon",
+        "insitu"
+      ],
+      "id": "wi-determinacion-de-la-velocidad-de-los-impulsos-ultrasonicos",
+      "m": 1,
+      "p": 210,
+      "s": "Determinación de la velocidad de los impulsos ultrasónicos",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-hormigon",
+        "hormigon",
+        "insitu"
+      ],
+      "id": "wi-determinacion-del-indice-de-rebote-con-el-esclerometro",
+      "m": 1,
+      "p": 210,
+      "s": "Determinación del índice de rebote con el esclerómetro",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-hormigon",
+        "hormigon",
+        "insitu"
+      ],
+      "id": "wi-ensayo-de-fluidez-en-presencia-de-barras-caja-en-l",
+      "m": 1,
+      "p": 43.37,
+      "s": "Ensayo de fluidez en presencia de barras. Caja en L.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-hormigon",
+        "hormigon",
+        "insitu"
+      ],
+      "id": "wi-ensayo-de-fluidez-en-presencia-de-barras-escurrimiento-con-a",
+      "m": 1,
+      "p": 43.37,
+      "s": "Ensayo de fluidez en presencia de barras. Escurrimiento con anillo japonés.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-hormigon",
+        "hormigon",
+        "insitu"
+      ],
+      "id": "wi-ensayo-fluidez-escurrimiento",
+      "m": 1,
+      "p": 14.39,
+      "s": "Ensayo fluidez. Escurrimiento.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-hormigon",
+        "hormigon",
+        "insitu"
+      ],
+      "id": "wi-ensayo-tiempo-de-flujo-embudo-en-v",
+      "m": 1,
+      "p": 43.37,
+      "s": "Ensayo tiempo de flujo. Embudo en V.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-hormigon",
+        "hormigon",
+        "insitu"
+      ],
+      "id": "wi-extraccion-de-testigos-examen-y-rotura-a-compresion",
+      "m": 1,
+      "p": 180,
+      "s": "Extracción de testigos, examen y rotura a compresión",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-hormigon",
+        "hormigon",
+        "insitu"
+      ],
+      "id": "wi-realizacion-de-ensayos-estaticos-de-puesta-en-carga-sobre-fo",
+      "m": 1,
+      "p": 1200,
+      "s": "Realización de ensayos estáticos de puesta en carga sobre forjados",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-hormigon",
+        "hormigon",
+        "laboratorio"
+      ],
+      "id": "wi-ensayo-de-asentamiento-en-hormigon-endurecido",
+      "m": 1,
+      "p": 17.26,
+      "s": "Ensayo de asentamiento en hormigón endurecido",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-hormigon",
+        "hormigon",
+        "laboratorio"
+      ],
+      "id": "wi-ensayo-de-profundidad-de-penetracion-de-agua-bajo-presion-en",
+      "m": 1,
+      "p": 151.45,
+      "s": "Ensayo de profundidad de penetración de agua bajo presión en hormigón endurecido",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-hormigon",
+        "hormigon",
+        "laboratorio"
+      ],
+      "id": "wi-resistencia-a-compresion-en-hormigon-endurecido",
+      "m": 1,
+      "p": 59.28,
+      "s": "Resistencia a compresión en hormigón endurecido",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-hormigon",
+        "hormigon",
+        "laboratorio"
+      ],
+      "id": "wi-resistencia-a-flexion-en-hormigon-endurecido",
+      "m": 1,
+      "p": 175,
+      "s": "Resistencia a flexión en hormigón endurecido",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-madera",
+        "madera-aserrada",
+        "madera-aserrada"
+      ],
+      "id": "wi-caracteristicas-geometricas-de-madera-aserrada",
+      "m": 1,
+      "p": 80,
+      "s": "Características geométricas de madera aserrada",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-madera",
+        "madera-aserrada",
+        "madera-aserrada"
+      ],
+      "id": "wi-contenido-de-humedad-en-madera-aserrada-metodo-de-secado-en",
+      "m": 1,
+      "p": 30,
+      "s": "Contenido de humedad en madera aserrada. Método de secado en estufa.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-madera",
+        "madera-aserrada",
+        "madera-aserrada"
+      ],
+      "id": "wi-contenido-de-humerad-en-madera-aserrada-metodo-de-la-resiste",
+      "m": 1,
+      "p": 48.25,
+      "s": "Contenido de humerad en madera aserrada. Método de la resistencia eléctrica",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-madera",
+        "madera-aserrada",
+        "madera-aserrada"
+      ],
+      "id": "wi-contenido-en-humedad-de-higroscopicidad-contraccion-lineal-y",
+      "m": 1,
+      "p": 80,
+      "s": "Contenido en humedad, de higroscopicidad, contracción lineal y volumétrica de madera aserrada",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-madera",
+        "madera-aserrada",
+        "madera-aserrada"
+      ],
+      "id": "wi-densidad-y-peso-especifico-de-madera-aserrada",
+      "m": 1,
+      "p": 30,
+      "s": "Densidad y peso específico de madera aserrada",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-madera",
+        "madera-aserrada",
+        "madera-aserrada"
+      ],
+      "id": "wi-ensayo-a-compresion-de-madera-aserrada",
+      "m": 1,
+      "p": 80,
+      "s": "Ensayo a compresión de madera aserrada",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-madera",
+        "madera-aserrada",
+        "madera-aserrada"
+      ],
+      "id": "wi-inspeccion-visual-de-madera-aserrada-para-clasificacion",
+      "m": 1,
+      "p": 250,
+      "s": "Inspección visual de madera aserrada para clasificación",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-madera",
+        "madera-aserrada",
+        "madera-aserrada"
+      ],
+      "id": "wi-medidas-y-tolerancias",
+      "m": 1,
+      "p": 80,
+      "s": "Medidas y tolerancias",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-madera",
+        "madera-laminada-encolada",
+        "madera-laminada-encolada"
+      ],
+      "id": "wi-caracteristicas-dimensionales-de-madera-laminada-encolada-y",
+      "m": 1,
+      "p": 80,
+      "s": "Características dimensionales de madera laminada encolada y madera maciza encolada",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-madera",
+        "madera-laminada-encolada",
+        "madera-laminada-encolada"
+      ],
+      "id": "wi-caracteristicas-geometricas-en-madera-laminada-encolada",
+      "m": 1,
+      "p": 80,
+      "s": "Características geométricas en madera laminada encolada",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-madera",
+        "madera-laminada-encolada",
+        "madera-laminada-encolada"
+      ],
+      "id": "wi-contenido-de-humedad-en-madera-laminada-encolada",
+      "m": 1,
+      "p": 80,
+      "s": "Contenido de humedad en madera laminada encolada",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-madera",
+        "madera-laminada-encolada",
+        "madera-laminada-encolada"
+      ],
+      "id": "wi-densidad-en-madera-laminada-encolada",
+      "m": 1,
+      "p": 30,
+      "s": "Densidad en madera laminada encolada",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-madera",
+        "madera-laminada-encolada",
+        "madera-laminada-encolada"
+      ],
+      "id": "wi-ensayo-a-compresion-en-madera-laminada-encolada",
+      "m": 1,
+      "p": 80,
+      "s": "Ensayo a compresión en madera laminada encolada",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-madera",
+        "tableros",
+        "tableros"
+      ],
+      "id": "wi-caracteristicas-dimensionales-de-tableros-contrachapados",
+      "m": 1,
+      "p": 80,
+      "s": "Características dimensionales de tableros contrachapados",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-madera",
+        "tableros",
+        "tableros"
+      ],
+      "id": "wi-caracteristicas-dimensionales-de-tableros-de-fibras",
+      "m": 1,
+      "p": 80,
+      "s": "Características dimensionales de tableros de fibras",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-madera",
+        "tableros",
+        "tableros"
+      ],
+      "id": "wi-caracteristicas-dimensionales-de-tableros-de-particulas",
+      "m": 1,
+      "p": 80,
+      "s": "Características dimensionales de tableros de partículas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-madera",
+        "tableros",
+        "tableros"
+      ],
+      "id": "wi-caracteristicas-dimensionales-de-tableros-de-virutas-orienta",
+      "m": 1,
+      "p": 80,
+      "s": "Características dimensionales de tableros de virutas orientadas (OSB)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "estructuras-de-madera",
+        "tableros",
+        "tableros"
+      ],
+      "id": "wi-propiedades-mecanicas-de-los-tableros-derivados-de-la-madera",
+      "m": 1,
+      "p": 80,
+      "s": "Propiedades mecánicas de los tableros derivados de la madera",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "abastecimiento-en-redes-exteriores-de-ag",
+        "pruebas-de-funcionamiento-en-redes-exter"
+      ],
+      "id": "wi-presion-interior-y-estanqueidad",
+      "m": 1,
+      "p": 210,
+      "s": "Presión interior y estanqueidad",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "abastecimiento-en-redes-exteriores-de-ag",
+        "tubos-de-abastecimiento",
+        "piezas-especiales"
+      ],
+      "id": "wi-caracteristicas-geometricas-de-piezas-especiales",
+      "m": 1,
+      "p": 50,
+      "s": "Características geométricas de piezas especiales",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "abastecimiento-en-redes-exteriores-de-ag",
+        "tubos-de-abastecimiento",
+        "piezas-especiales"
+      ],
+      "id": "wi-dureza-de-brinell-en-piezas-especiales",
+      "m": 1,
+      "p": 150,
+      "s": "Dureza de Brinell en piezas especiales",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "abastecimiento-en-redes-exteriores-de-ag",
+        "tubos-de-abastecimiento",
+        "piezas-especiales"
+      ],
+      "id": "wi-traccion-en-piezas-especiales",
+      "m": 1,
+      "p": 210,
+      "s": "Tracción en piezas especiales",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "abastecimiento-en-redes-exteriores-de-ag",
+        "tubos-de-abastecimiento",
+        "tubos-de-fundicion"
+      ],
+      "id": "wi-dimensiones-en-tubos-de-fundicion",
+      "m": 1,
+      "p": 90,
+      "s": "Dimensiones en tubos de fundición",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "abastecimiento-en-redes-exteriores-de-ag",
+        "tubos-de-abastecimiento",
+        "tubos-de-fundicion"
+      ],
+      "id": "wi-dureza-de-brinell-en-tubos-de-fundicion",
+      "m": 1,
+      "p": 150,
+      "s": "Dureza de Brinell en tubos de fundición",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "abastecimiento-en-redes-exteriores-de-ag",
+        "tubos-de-abastecimiento",
+        "tubos-de-fundicion"
+      ],
+      "id": "wi-espesor-de-recubrimiento-de-pintura-en-tubos-de-fundicion",
+      "m": 1,
+      "p": 48.25,
+      "s": "Espesor de recubrimiento de pintura en tubos de fundición",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "abastecimiento-en-redes-exteriores-de-ag",
+        "tubos-de-abastecimiento",
+        "tubos-de-fundicion"
+      ],
+      "id": "wi-masa-de-recubrimiento-de-zinc-en-tubos-de-fundicion",
+      "m": 1,
+      "p": 48.25,
+      "s": "Masa de recubrimiento de zinc en tubos de fundición",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "abastecimiento-en-redes-exteriores-de-ag",
+        "tubos-de-abastecimiento",
+        "tubos-de-fundicion"
+      ],
+      "id": "wi-resistencia-a-traccion-en-tubos-de-fundicion",
+      "m": 1,
+      "p": 210,
+      "s": "Resistencia a tracción en tubos de fundición",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "abastecimiento-en-redes-exteriores-de-ag",
+        "tubos-de-abastecimiento",
+        "tubos-de-polietileno-y-polietileno"
+      ],
+      "id": "wi-caracteristicas-geometricas-de-tubos-de-polietileno-y-polipr",
+      "m": 1,
+      "p": 50,
+      "s": "Características geométricas de tubos de polietileno y polipropileno",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "abastecimiento-en-redes-exteriores-de-ag",
+        "tubos-de-abastecimiento",
+        "tubos-de-polietileno-y-polietileno"
+      ],
+      "id": "wi-comportamiento-al-calor-en-tubos-de-polietileno",
+      "m": 1,
+      "p": 70,
+      "s": "Comportamiento al calor en tubos de polietileno",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "abastecimiento-en-redes-exteriores-de-ag",
+        "tubos-de-abastecimiento",
+        "tubos-de-polietileno-y-polietileno"
+      ],
+      "id": "wi-prueba-de-traccion-en-tubos-de-polipropileno",
+      "m": 1,
+      "p": 90,
+      "s": "Prueba de tracción en tubos de polipropileno",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "abastecimiento-en-redes-exteriores-de-ag",
+        "tubos-de-abastecimiento",
+        "tubos-de-polietileno-y-polietileno"
+      ],
+      "id": "wi-temperatura-de-reblandecimiento-vicat-en-tubos-de-polietilen",
+      "m": 1,
+      "p": 60,
+      "s": "Temperatura de reblandecimiento VICAT en tubos de polietileno y polipropileno",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "alumbrado-exterior",
+        "alumbrado-exterior"
+      ],
+      "id": "wi-niveles-de-iluminacion-en-red-de-alumbrado-exterior",
+      "m": 1,
+      "p": 525,
+      "s": "Niveles de iluminación en red de alumbrado exterior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "alumbrado-exterior",
+        "alumbrado-exterior"
+      ],
+      "id": "wi-prueba-de-funcionamiento-de-cuadro-electrico-y-puesta-a-tier",
+      "m": 1,
+      "p": 392.01,
+      "s": "Prueba de funcionamiento de cuadro eléctrico y puesta a tierra en red de alumbrado exterior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "climatizacion-y-calefaccion",
+        "circuito-calorifico"
+      ],
+      "id": "wi-estanqueidad-y-resistencia-mecanica-de-circuitos-frigorifico",
+      "m": 1,
+      "p": 210,
+      "s": "Estanqueidad y resistencia mecánica de circuitos frigoríficos con equipos individuales",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "climatizacion-y-calefaccion",
+        "circuito-calorifico"
+      ],
+      "id": "wi-estanqueidad-y-resistencia-mecanica-de-circuitos-frigorifico-a240",
+      "m": 1,
+      "p": 210,
+      "s": "Estanqueidad y resistencia mecánica de circuitos frigoríficos instalaciones centralizadas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "climatizacion-y-calefaccion",
+        "equipos"
+      ],
+      "id": "wi-prueba-de-equipos-en-edificio-con-instalacion-centralizada",
+      "m": 1,
+      "p": 650.04,
+      "s": "Prueba de equipos en edificio con instalación centralizada",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "climatizacion-y-calefaccion",
+        "equipos"
+      ],
+      "id": "wi-prueba-de-funcionamiento-de-calderas-centralizadas",
+      "m": 1,
+      "p": 230,
+      "s": "Prueba de funcionamiento de calderas centralizadas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "climatizacion-y-calefaccion",
+        "equipos"
+      ],
+      "id": "wi-prueba-de-funcionamiento-de-circuito-de-distribucion-de-suel",
+      "m": 1,
+      "p": 650.04,
+      "s": "Prueba de funcionamiento de circuito de distribución de suelo radiante",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "climatizacion-y-calefaccion",
+        "equipos"
+      ],
+      "id": "wi-prueba-de-funcionamiento-de-equipos-individuales",
+      "m": 1,
+      "p": 650.04,
+      "s": "Prueba de funcionamiento de equipos individuales",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "climatizacion-y-calefaccion",
+        "equipos"
+      ],
+      "id": "wi-prueba-de-funcionamiento-de-radiadores",
+      "m": 1,
+      "p": 650.04,
+      "s": "Prueba de funcionamiento de radiadores",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "deteccion-de-monoxido-de-carbono",
+        "deteccion-de-monoxido-de-carbono"
+      ],
+      "id": "wi-prueba-de-servicio-en-instalacion-de-co-en-garaje",
+      "m": 1,
+      "p": 392.01,
+      "s": "Prueba de servicio en instalación de CO en garaje",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricidad-baja-tension-bt",
+        "pruebas-de-funcionamiento"
+      ],
+      "id": "wi-certificado-b-t",
+      "m": 1,
+      "p": 110.16,
+      "s": "Certificado B.T."
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricidad-baja-tension-bt",
+        "pruebas-de-funcionamiento"
+      ],
+      "id": "wi-prueba-de-funcionamiento-instalaciones-de-baja-tension",
+      "m": 1,
+      "p": 650.04,
+      "s": "Prueba de funcionamiento instalaciones de baja tensión",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricidad-baja-tension-bt",
+        "pruebas-de-funcionamiento"
+      ],
+      "id": "wi-prueba-de-funcionamiento-instalaciones-de-baja-tension-en-zo",
+      "m": 1,
+      "p": 650.04,
+      "s": "Prueba de funcionamiento instalaciones de baja tensión en zonas comunes",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricidad-baja-tension-bt",
+        "pruebas-de-funcionamiento"
+      ],
+      "id": "wi-prueba-de-funcionamiento-instalaciones-de-baja-tension-en-zo-814c",
+      "m": 1,
+      "p": 525,
+      "s": "Prueba de funcionamiento instalaciones de baja tensión en zonas comunes: iluminación",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricidad-baja-tension-bt",
+        "resistividad-del-terreno"
+      ],
+      "id": "wi-resistividad-del-terreno-puesta-a-tierra-de-redes-de-baja-te",
+      "m": 1,
+      "p": 220,
+      "s": "Resistividad del terreno puesta a tierra de redes de baja tensión",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "electricidad-media-tension-mt",
+        "electricidad-media-tension-mt"
+      ],
+      "id": "wi-inspeccion-general-instalacion-de-media-tension",
+      "m": 1,
+      "p": 650.04,
+      "s": "Inspección general instalación de media tensión",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "energia-solar-termica"
+      ],
+      "id": "wi-prueba-funcionamiento-en-redes-e-distribucion-acs",
+      "m": 1,
+      "p": 392.01,
+      "s": "Prueba funcionamiento en redes e distribución ACS",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "energia-solar-termica"
+      ],
+      "id": "wi-prueba-hidrostatica-en-red-de-distribucion-de-edificios-acs",
+      "m": 1,
+      "p": 210,
+      "s": "Prueba hidrostática en red de distribución de edificios (ACS)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "energia-solar-termica"
+      ],
+      "id": "wi-prueba-hisdrostatica-de-conducciones-viviendas-unifamiliares",
+      "m": 1,
+      "p": 210,
+      "s": "Prueba hisdrostática de conducciones viviendas unifamiliares (ACS)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "extraccion",
+        "extraccion"
+      ],
+      "id": "wi-prueba-de-estanqueidad-en-red-extraccion-individual",
+      "m": 1,
+      "p": 650.04,
+      "s": "Prueba de estanqueidad en red extracción individual",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "extraccion",
+        "extraccion"
+      ],
+      "id": "wi-prueba-de-estanqueidad-en-zonas-comunes",
+      "m": 1,
+      "p": 392.01,
+      "s": "Prueba de estanqueidad en zonas comunes",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "extraccion",
+        "extraccion"
+      ],
+      "id": "wi-prueba-de-funcionamiento-de-equipos-individuales-de-extracci",
+      "m": 1,
+      "p": 392.01,
+      "s": "Prueba de funcionamiento de equipos individuales de extracción de aire",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "extraccion",
+        "extraccion"
+      ],
+      "id": "wi-prueba-de-funcionamiento-de-redes-comunes-extraccion-de-aire",
+      "m": 1,
+      "p": 392.01,
+      "s": "Prueba de funcionamiento de redes comunes extracción de aire",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria-y-redes-interiores-de-suminis",
+        "pruebas-de-funcionamiento"
+      ],
+      "id": "wi-presion-y-estanqueidad-de-conducciones-en-red-interior-y-mon",
+      "m": 1,
+      "p": 210,
+      "s": "Presión y estanqueidad de conducciones en red interior y montantes",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria-y-redes-interiores-de-suminis",
+        "pruebas-de-funcionamiento"
+      ],
+      "id": "wi-prueba-de-funcionamiendo-de-grupo-de-presion",
+      "m": 1,
+      "p": 210,
+      "s": "Prueba de funcionamiendo de grupo de presión",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria-y-redes-interiores-de-suminis",
+        "pruebas-de-funcionamiento"
+      ],
+      "id": "wi-prueba-de-funcionamiento-de-redes-interiores-de-suministro-d",
+      "m": 1,
+      "p": 392.01,
+      "s": "Prueba de funcionamiento de redes interiores de suministro de agua",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria-y-redes-interiores-de-suminis",
+        "tubos-de-fontaneria-cobre"
+      ],
+      "id": "wi-caracteristicas-geometricas-tubos-de-cobre",
+      "m": 1,
+      "p": 50,
+      "s": "Características geométricas tubos de cobre",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria-y-redes-interiores-de-suminis",
+        "tubos-de-fontaneria-cobre"
+      ],
+      "id": "wi-ensayo-de-traccion-en-tubos-de-cobre",
+      "m": 1,
+      "p": 90,
+      "s": "Ensayo de tracción en tubos de cobre",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "fontaneria-y-redes-interiores-de-suminis",
+        "tubos-de-fontaneria-polietileno"
+      ],
+      "id": "wi-caracteristicas-geomericas-tubos-polietileno",
+      "m": 1,
+      "p": 50,
+      "s": "Características geoméricas tubos polietileno",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "gas-natural"
+      ],
+      "id": "wi-prueba-de-estanqueidad-de-red-de-distribucion-de-gas",
+      "m": 1,
+      "p": 230,
+      "s": "Prueba de estanqueidad de red de distribución de gas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "gases-medicinales",
+        "gases-medicinales"
+      ],
+      "id": "wi-prueba-de-estanqueidad-de-red-de-distribucion-de-gases-medic",
+      "m": 1,
+      "p": 230,
+      "s": "Prueba de estanqueidad de red de distribución de gases medicinales"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "instalacion-contra-incendios",
+        "instalacion-contra-incendios"
+      ],
+      "id": "wi-prueba-de-estanqueidad-y-resistencia-mecanica-en-redes-de-ex",
+      "m": 1,
+      "p": 210,
+      "s": "Prueba de estanqueidad y resistencia mecánica en redes de extinción",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "instalacion-contra-incendios",
+        "instalacion-contra-incendios"
+      ],
+      "id": "wi-prueba-de-funcionamiento-de-la-red-de-extincion",
+      "m": 1,
+      "p": 650.04,
+      "s": "Prueba de funcionamiento de la red de extinción",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "instalacion-contra-incendios",
+        "instalacion-contra-incendios"
+      ],
+      "id": "wi-prueba-de-servicio-en-inst-deteccion-y-alarma",
+      "m": 1,
+      "p": 650.04,
+      "s": "Prueba de servicio en inst. detección y alarma",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "instalaciones-especiales",
+        "instalaciones-especiales"
+      ],
+      "id": "wi-prueba-de-funcionamiento-central-de-megafonia",
+      "m": 1,
+      "p": 392.01,
+      "s": "Prueba de funcionamiento Central de Megafonía",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "instalaciones-especiales",
+        "instalaciones-especiales"
+      ],
+      "id": "wi-prueba-de-funcionamiento-de-central-de-circuito-cerrado-de-t",
+      "m": 1,
+      "p": 392.01,
+      "s": "Prueba de funcionamiento de Central de Circuito Cerrado de TV (CCTV)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "instalaciones-especiales",
+        "instalaciones-especiales"
+      ],
+      "id": "wi-prueba-de-funcionamiento-de-central-de-intercomunicacion",
+      "m": 1,
+      "p": 392.01,
+      "s": "Prueba de funcionamiento de Central de Intercomunicación",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "instalaciones-especiales",
+        "instalaciones-especiales"
+      ],
+      "id": "wi-verificacion-de-video-porteros",
+      "m": 1,
+      "p": 392.01,
+      "s": "Verificación de video porteros",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "pararrayos",
+        "pararrayos"
+      ],
+      "id": "wi-prueba-de-puesta-a-tierra-de-pararrayos",
+      "m": 1,
+      "p": 220,
+      "s": "Prueba de puesta a tierra de pararrayos",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "piscinas",
+        "piscinas"
+      ],
+      "id": "wi-prueba-de-funcionamiento-de-piscinas",
+      "m": 1,
+      "p": 392.01,
+      "s": "Prueba de funcionamiento de piscinas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "riego",
+        "riego"
+      ],
+      "id": "wi-prueba-de-funcionamiento-de-red-de-riego",
+      "m": 1,
+      "p": 230,
+      "s": "Prueba de funcionamiento de red de riego",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "riego",
+        "riego"
+      ],
+      "id": "wi-prueba-de-presion-y-estanqueidad-en-red-de-riego",
+      "m": 1,
+      "p": 210,
+      "s": "Prueba de presión y estanqueidad en red de riego",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "saneamiento",
+        "pruebas-de-funcionamiento-saneamiento-ex"
+      ],
+      "id": "wi-prueba-de-estanqueidad-por-tramos-de-saneamiento-exterior",
+      "m": 1,
+      "p": 650.04,
+      "s": "Prueba de estanqueidad por tramos de saneamiento exterior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "saneamiento",
+        "pruebas-de-funcionamiento-saneamiento-ex"
+      ],
+      "id": "wi-prueba-de-funcionamiento-de-red-enterrada-de-saneamiento-ext",
+      "m": 1,
+      "p": 2,
+      "s": "Prueba de funcionamiento de red enterrada de saneamiento exterior, inspección mediante cámara.",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "saneamiento",
+        "pruebas-de-funcionamiento-saneamiento-in"
+      ],
+      "id": "wi-inspeccion-de-red-enterrada-de-saneamiento-interior",
+      "m": 1,
+      "p": 650.04,
+      "s": "Inspección de red enterrada de saneamiento interior",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "saneamiento",
+        "pruebas-de-funcionamiento-saneamiento-in"
+      ],
+      "id": "wi-prueba-de-estanqueidad-de-redes-enterradas-de-saneamiento-in",
+      "m": 1,
+      "p": 210,
+      "s": "Prueba de estanqueidad de redes enterradas de saneamiento interior.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "saneamiento",
+        "pruebas-de-funcionamiento-saneamiento-in"
+      ],
+      "id": "wi-prueba-de-estanqueidad-de-redes-interiores-banos-aseos-cocin",
+      "m": 1,
+      "p": 210,
+      "s": "Prueba de estanqueidad de redes interiores (baños, aseos, cocina)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "saneamiento",
+        "pruebas-de-funcionamiento-saneamiento-in"
+      ],
+      "id": "wi-prueba-de-estanqueidad-en-bajantes-de-redes-de-evacuacion-co",
+      "m": 1,
+      "p": 210,
+      "s": "Prueba de estanqueidad en bajantes de redes de evacuación común.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "saneamiento",
+        "tubos-de-saneamiento-pvc"
+      ],
+      "id": "wi-caracteristicas-geometricas-en-tubos-de-saneamiento",
+      "m": 1,
+      "p": 50,
+      "s": "Características geométricas en tubos de saneamiento.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "saneamiento",
+        "tubos-de-saneamiento-pvc"
+      ],
+      "id": "wi-comportamiento-al-calor-en-tubos-de-saneamiento-de-pvc",
+      "m": 1,
+      "p": 70,
+      "s": "Comportamiento al calor en tubos de saneamiento de PVC",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "saneamiento",
+        "tubos-de-saneamiento-pvc"
+      ],
+      "id": "wi-densidad-de-plasticos-no-celulares",
+      "m": 1,
+      "p": 50,
+      "s": "Densidad de plásticos no celulares",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "saneamiento",
+        "tubos-de-saneamiento-pvc"
+      ],
+      "id": "wi-resistencia-a-la-traccion-y-alargamiento-de-rotura-de-tubos",
+      "m": 1,
+      "p": 90,
+      "s": "Resistencia a la tracción y alargamiento de rotura de tubos de saneamiento de PVC",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "saneamiento",
+        "tubos-de-saneamiento-pvc"
+      ],
+      "id": "wi-rigidez-angular-en-tubos-de-saneamiento-de-pvc",
+      "m": 1,
+      "p": 120,
+      "s": "Rigidez angular en tubos de saneamiento de PVC",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "saneamiento",
+        "tubos-de-saneamiento-pvc"
+      ],
+      "id": "wi-temperatura-de-reblandecimiento-vicat-en-tubos-de-saneamient",
+      "m": 1,
+      "p": 60,
+      "s": "Temperatura de reblandecimiento VICAT en tubos de saneamiento de PVC",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "telecomunicaciones",
+        "telecomunicaciones"
+      ],
+      "id": "wi-certificacion-red-voz-datos",
+      "m": 1,
+      "p": 392.01,
+      "s": "Certificación red voz datos",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "telecomunicaciones",
+        "telecomunicaciones"
+      ],
+      "id": "wi-verificacion-de-senal-tv",
+      "m": 1,
+      "p": 392.01,
+      "s": "Verificación de señal TV",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "instalaciones",
+        "ventilacion",
+        "ventilacion"
+      ],
+      "id": "wi-prueba-de-funcionamiento-de-redes-comunes",
+      "m": 1,
+      "p": 392.01,
+      "s": "Prueba de funcionamiento de redes comunes",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "bloques-de-hormigon",
+        "bloques-de-hormigon"
+      ],
+      "id": "wi-absorcion-de-agua-en-bloques-de-hormigon",
+      "m": 1,
+      "p": 60,
+      "s": "Absorción de agua en bloques de hormigón",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "bloques-de-hormigon",
+        "bloques-de-hormigon"
+      ],
+      "id": "wi-caracteristicas-dimensionales-en-bloques-de-hormigon",
+      "m": 1,
+      "p": 50,
+      "s": "Características dimensionales en bloques de hormigón",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "bloques-de-hormigon",
+        "bloques-de-hormigon"
+      ],
+      "id": "wi-densidad-aparente-seca-en-bloques-de-hormigon",
+      "m": 1,
+      "p": 60,
+      "s": "Densidad aparente seca en bloques de hormigón",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "bloques-de-hormigon",
+        "bloques-de-hormigon"
+      ],
+      "id": "wi-resistencia-a-compresion-en-bloques-de-hormigon",
+      "m": 1,
+      "p": 125,
+      "s": "Resistencia a compresión en bloques de hormigón",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "ladrillos-y-bloques-ceramicos",
+        "ladrillos-y-bloques-ceramicos"
+      ],
+      "id": "wi-absorcion-de-agua-en-ladrillos-y-bloques-ceramicos",
+      "m": 1,
+      "p": 50,
+      "s": "Absorción de agua en ladrillos y bloques cerámicos",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "ladrillos-y-bloques-ceramicos",
+        "ladrillos-y-bloques-ceramicos"
+      ],
+      "id": "wi-absorcion-por-capilaridad-en-ladrillos-y-bloques-ceramicos",
+      "m": 1,
+      "p": 60,
+      "s": "Absorción por capilaridad en ladrillos y bloques cerámicos",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "ladrillos-y-bloques-ceramicos",
+        "ladrillos-y-bloques-ceramicos"
+      ],
+      "id": "wi-densidad-aparente-en-ladrillos-y-bloques-ceramicos",
+      "m": 1,
+      "p": 60,
+      "s": "Densidad aparente en ladrillos y bloques cerámicos",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "ladrillos-y-bloques-ceramicos",
+        "ladrillos-y-bloques-ceramicos"
+      ],
+      "id": "wi-determinacion-de-inclusiones-calcareas-en-ladrillos-y-bloque",
+      "m": 1,
+      "p": 47,
+      "s": "Determinación de inclusiones calcáreas en ladrillos y bloques cerámicos",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "ladrillos-y-bloques-ceramicos",
+        "ladrillos-y-bloques-ceramicos"
+      ],
+      "id": "wi-eflorescencias-en-ladrillos-y-bloques-ceramicos",
+      "m": 1,
+      "p": 77,
+      "s": "Eflorescencias en ladrillos y bloques cerámicos",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "ladrillos-y-bloques-ceramicos",
+        "ladrillos-y-bloques-ceramicos"
+      ],
+      "id": "wi-helacidad-en-ladrillos-y-bloques-ceramicos",
+      "m": 1,
+      "p": 285,
+      "s": "Helacidad en ladrillos y bloques cerámicos",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "ladrillos-y-bloques-ceramicos",
+        "ladrillos-y-bloques-ceramicos"
+      ],
+      "id": "wi-resistencia-a-compresion-en-ladrillos-y-bloques-ceramicos",
+      "m": 1,
+      "p": 125,
+      "s": "Resistencia a compresión en ladrillos y bloques cerámicos",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "ladrillos-y-bloques-ceramicos",
+        "ladrillos-y-bloques-ceramicos"
+      ],
+      "id": "wi-tolerancia-dimensional-en-ladrillos-y-bloques-ceramicos",
+      "m": 1,
+      "p": 50,
+      "s": "Tolerancia dimensional en ladrillos y bloques cerámicos",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "tejas",
+        "teja-de-hormigon"
+      ],
+      "id": "wi-caracteristicas-geometricas-en-piezas-o-tejas-de-hormigon",
+      "m": 1,
+      "p": 60,
+      "s": "Características geométricas en piezas o tejas de hormigón",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "tejas",
+        "teja-de-hormigon"
+      ],
+      "id": "wi-determinacion-de-masa-en-piezas-o-tejas-de-hormigon",
+      "m": 1,
+      "p": 60,
+      "s": "Determinación de masa en piezas o tejas de hormigón",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "tejas",
+        "teja-de-hormigon"
+      ],
+      "id": "wi-impermeabilidad-en-piezas-o-tejas-de-hormigon",
+      "m": 1,
+      "p": 213,
+      "s": "Impermeabilidad en piezas o tejas de hormigón",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "tejas",
+        "teja-de-hormigon"
+      ],
+      "id": "wi-resistencia-a-flexion-transversal-en-piezas-o-tejas-de-hormi",
+      "m": 1,
+      "p": 183,
+      "s": "Resistencia a flexión transversal en piezas o tejas de hormigón",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "tejas",
+        "teja-de-hormigon"
+      ],
+      "id": "wi-resistencia-al-hielo-deshielo-en-piezas-o-tejas-de-hormigon",
+      "m": 1,
+      "p": 254,
+      "s": "Resistencia al hielo-deshielo en piezas o tejas de hormigón",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "tejas",
+        "teja-de-hormigon"
+      ],
+      "id": "wi-soporte-por-el-tacon-en-piezas-o-tejas-de-hormigon",
+      "m": 1,
+      "p": 150,
+      "s": "Soporte por el tacón en piezas o tejas de hormigón",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "tejas",
+        "tejas-ceramicas"
+      ],
+      "id": "wi-caracteristicas-geometricas-en-tejas-ceramicas",
+      "m": 1,
+      "p": 60,
+      "s": "Características geométricas en tejas cerámicas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "tejas",
+        "tejas-ceramicas"
+      ],
+      "id": "wi-inclusiones-calcareas-en-tejas-ceramicas",
+      "m": 1,
+      "p": 47,
+      "s": "Inclusiones calcáreas en tejas cerámicas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "tejas",
+        "tejas-ceramicas"
+      ],
+      "id": "wi-permeabilidad-en-tejas-ceramicas",
+      "m": 1,
+      "p": 213,
+      "s": "Permeabilidad en tejas cerámicas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "tejas",
+        "tejas-ceramicas"
+      ],
+      "id": "wi-resistencia-a-flexion-en-tejas-ceramicas",
+      "m": 1,
+      "p": 183,
+      "s": "Resistencia a flexión en tejas cerámicas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "materiales-ceramicos-y-bloques-de-hormig",
+        "tejas",
+        "tejas-ceramicas"
+      ],
+      "id": "wi-resistencia-a-la-helada-en-tejas-ceramicas",
+      "m": 1,
+      "p": 254,
+      "s": "Resistencia a la helada en tejas cerámicas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "morteros-yesos-cales-escayolas-y-cemento",
+        "guarnecido-y-enlucido-de-yeso",
+        "guarnecido-y-enlucido-de-yeso"
+      ],
+      "id": "wi-adhrecencia-a-la-base-en-obra",
+      "m": 1,
+      "p": 200,
+      "s": "Adhrecencia a la base en obra",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "morteros-yesos-cales-escayolas-y-cemento",
+        "guarnecido-y-enlucido-de-yeso",
+        "guarnecido-y-enlucido-de-yeso"
+      ],
+      "id": "wi-dureza-superficial-shore-en-guarnecidos-y-enlucidos-de-yeso",
+      "m": 1,
+      "p": 392.01,
+      "s": "Dureza superficial Shore en guarnecidos y enlucidos de yeso",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "morteros-yesos-cales-escayolas-y-cemento",
+        "guarnecido-y-enlucido-de-yeso",
+        "guarnecido-y-enlucido-de-yeso"
+      ],
+      "id": "wi-resistencias-mecanicas-en-guarnecidos-y-enlucidos-de-yeso",
+      "m": 1,
+      "p": 80,
+      "s": "Resistencias mecánicas en guarnecidos y enlucidos de yeso",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "morteros-yesos-cales-escayolas-y-cemento",
+        "mortero-cola",
+        "mortero-cola"
+      ],
+      "id": "wi-adherencia-al-calor-de-adhesivos-para-baldosas",
+      "m": 1,
+      "p": 260,
+      "s": "Adherencia al calor de adhesivos para baldosas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "morteros-yesos-cales-escayolas-y-cemento",
+        "mortero-cola",
+        "mortero-cola"
+      ],
+      "id": "wi-adherencia-incial-de-adhesivos-para-baldosas",
+      "m": 1,
+      "p": 160,
+      "s": "Adherencia incial de adhesivos para baldosas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "morteros-yesos-cales-escayolas-y-cemento",
+        "mortero-cola",
+        "mortero-cola"
+      ],
+      "id": "wi-adherencia-tras-ciclos-de-hielo-y-deshielo-de-adhesivos-para",
+      "m": 1,
+      "p": 290,
+      "s": "Adherencia tras ciclos de hielo y deshielo de adhesivos para baldosas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "morteros-yesos-cales-escayolas-y-cemento",
+        "mortero-cola",
+        "mortero-cola"
+      ],
+      "id": "wi-adherencia-tras-inmersion-en-agua-de-adhesivos-para-baldosas",
+      "m": 1,
+      "p": 190,
+      "s": "Adherencia tras inmersión en agua de adhesivos para baldosas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "morteros-yesos-cales-escayolas-y-cemento",
+        "revoco-y-enlucido-con-mortero-de-cemento",
+        "revocos-y-enlucidos-con-mortero-de-cemen"
+      ],
+      "id": "wi-absorcion-de-agua-por-capilaridad-de-mortero-endurecido",
+      "m": 1,
+      "p": 110,
+      "s": "Absorción de agua por capilaridad de mortero endurecido",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "morteros-yesos-cales-escayolas-y-cemento",
+        "revoco-y-enlucido-con-mortero-de-cemento",
+        "revocos-y-enlucidos-con-mortero-de-cemen"
+      ],
+      "id": "wi-adherencia-al-soporte-en-obra-de-mortero-endurecido",
+      "m": 1,
+      "p": 200,
+      "s": "Adherencia al soporte en obra de mortero endurecido",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "morteros-yesos-cales-escayolas-y-cemento",
+        "revoco-y-enlucido-con-mortero-de-cemento",
+        "revocos-y-enlucidos-con-mortero-de-cemen"
+      ],
+      "id": "wi-consistencia-del-mortero",
+      "m": 1,
+      "p": 50,
+      "s": "Consistencia del mortero",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "morteros-yesos-cales-escayolas-y-cemento",
+        "revoco-y-enlucido-con-mortero-de-cemento",
+        "revocos-y-enlucidos-con-mortero-de-cemen"
+      ],
+      "id": "wi-contenido-en-aire-del-mortero",
+      "m": 1,
+      "p": 103,
+      "s": "Contenido en aire del mortero",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "morteros-yesos-cales-escayolas-y-cemento",
+        "revoco-y-enlucido-con-mortero-de-cemento",
+        "revocos-y-enlucidos-con-mortero-de-cemen"
+      ],
+      "id": "wi-permeabilidad-al-vapor-de-agua-de-mortero-endurecido",
+      "m": 1,
+      "p": 110,
+      "s": "Permeabilidad al vapor de agua de mortero endurecido",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "morteros-yesos-cales-escayolas-y-cemento",
+        "revoco-y-enlucido-con-mortero-de-cemento",
+        "revocos-y-enlucidos-con-mortero-de-cemen"
+      ],
+      "id": "wi-permeabilidad-de-mortero-endurecido",
+      "m": 1,
+      "p": 200,
+      "s": "Permeabilidad de mortero endurecido",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "morteros-yesos-cales-escayolas-y-cemento",
+        "revoco-y-enlucido-con-mortero-de-cemento",
+        "revocos-y-enlucidos-con-mortero-de-cemen"
+      ],
+      "id": "wi-resistencia-a-flexion-y-compresion-de-mortero-endurecido",
+      "m": 1,
+      "p": 63,
+      "s": "Resistencia a flexión y compresión de mortero endurecido",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pinturas",
+        "pintura-estructura-metalica",
+        "proteccion-anticorrosiva"
+      ],
+      "id": "wi-ensayo-de-adherencia-por-corte",
+      "m": 1,
+      "p": 200.55,
+      "s": "Ensayo de adherencia por corte",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pinturas",
+        "pintura-estructura-metalica",
+        "proteccion-anticorrosiva"
+      ],
+      "id": "wi-ensayo-de-adherencia-por-traccion",
+      "m": 1,
+      "p": 200.55,
+      "s": "Ensayo de adherencia por tracción",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pinturas",
+        "pintura-paramentos",
+        "pinturas"
+      ],
+      "id": "wi-adherencia-al-soporte-de-pinturas-y-barnices",
+      "m": 1,
+      "p": 50,
+      "s": "Adherencia al soporte de pinturas y barnices",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pinturas",
+        "pintura-paramentos",
+        "pinturas"
+      ],
+      "id": "wi-contenido-en-materia-no-volatil-en-pinturas-y-barnices",
+      "m": 1,
+      "p": 60,
+      "s": "Contenido en materia no volátil en pinturas y barnices",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pinturas",
+        "pintura-paramentos",
+        "pinturas"
+      ],
+      "id": "wi-densidad-en-pinturas-y-barnices",
+      "m": 1,
+      "p": 100,
+      "s": "Densidad en pinturas y barnices",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pinturas",
+        "pintura-paramentos",
+        "pinturas"
+      ],
+      "id": "wi-espesor-de-pelicula-en-pinturas-y-barnices",
+      "m": 1,
+      "p": 140,
+      "s": "Espesor de pélicula en pinturas y barnices",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pinturas",
+        "pintura-paramentos",
+        "pinturas"
+      ],
+      "id": "wi-poder-cubriende-en-pinturas-y-esmaltes",
+      "m": 1,
+      "p": 95,
+      "s": "Poder cubriende en pinturas y esmaltes",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pinturas",
+        "pintura-paramentos",
+        "pinturas"
+      ],
+      "id": "wi-repintabilidad-despues-del-secado-en-pinturas-y-barnices",
+      "m": 1,
+      "p": 80,
+      "s": "Repintabilidad después del secado en pinturas y barnices",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pinturas",
+        "pintura-paramentos",
+        "pinturas"
+      ],
+      "id": "wi-resistencia-al-frote-en-humedo",
+      "m": 1,
+      "p": 180,
+      "s": "Resistencia al frote en húmedo",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pinturas",
+        "pintura-paramentos",
+        "pinturas"
+      ],
+      "id": "wi-tiempos-de-secado-y-endurecimiento-en-pinturas",
+      "m": 1,
+      "p": 80,
+      "s": "Tiempos de secado y endurecimiento en pinturas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pruebas-de-servicio",
+        "pruebas-de-acustica",
+        "pruebas-de-acustica"
+      ],
+      "id": "wi-prueba-de-aislamiento-acustico-a-ruido-aereo-en-fachadas",
+      "m": 1,
+      "p": 225,
+      "s": "Prueba de aislamiento acústico a ruido aéreo en fachadas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pruebas-de-servicio",
+        "pruebas-de-acustica",
+        "pruebas-de-acustica"
+      ],
+      "id": "wi-prueba-de-aislamiento-acustico-a-ruido-de-impacto-entre-reci",
+      "m": 1,
+      "p": 225,
+      "s": "Prueba de aislamiento acústico a ruido de impacto entre recintos habitables o protegidos.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pruebas-de-servicio",
+        "pruebas-de-acustica",
+        "pruebas-de-acustica"
+      ],
+      "id": "wi-prueba-de-aislamiento-acustico-aereo-entre-recinto-de-instal",
+      "m": 1,
+      "p": 225,
+      "s": "Prueba de aislamiento acústico aéreo entre recinto de instalaciones y habitable o protegido",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pruebas-de-servicio",
+        "pruebas-de-acustica",
+        "pruebas-de-acustica"
+      ],
+      "id": "wi-prueba-de-aislamiento-acustico-aereo-entre-recintos-habitabl",
+      "m": 1,
+      "p": 225,
+      "s": "Prueba de aislamiento acústico aéreo entre recintos habitables o protegidos.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pruebas-de-servicio",
+        "pruebas-de-acustica",
+        "pruebas-de-acustica"
+      ],
+      "id": "wi-prueba-de-inmision-al-interior-de-las-instalaciones",
+      "m": 1,
+      "p": 250,
+      "s": "Prueba de inmisión al interior de las instalaciones",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pruebas-de-servicio",
+        "pruebas-de-acustica",
+        "pruebas-de-acustica"
+      ],
+      "id": "wi-prueba-nivel-de-emision-acustica-al-exterior-de-las-instalac",
+      "m": 1,
+      "p": 250,
+      "s": "Prueba nivel de emisión acústica al exterior de las instalaciones",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pruebas-de-servicio",
+        "pruebas-de-eficiencia-energetica",
+        "pruebas-de-eficiencia-energetica"
+      ],
+      "id": "wi-deteccion-de-irregularidades-en-cerramiento-de-edificios",
+      "m": 1,
+      "p": 392.01,
+      "s": "Detección de irregularidades en cerramiento de edificios",
+      "u": "u"
+    },
+    {
+      "d": "2016-10",
+      "g": [
+        "pruebas-de-servicio",
+        "pruebas-de-eficiencia-energetica",
+        "pruebas-de-eficiencia-energetica"
+      ],
+      "id": "wi-ensayo-blower-door-de-infiltracion-de-aire-en-vivienda",
+      "m": 1,
+      "p": 760,
+      "s": "ENSAYO BLOWER DOOR DE INFILTRACIÓN DE AIRE EN VIVIENDA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pruebas-de-servicio",
+        "pruebas-de-eficiencia-energetica",
+        "pruebas-de-eficiencia-energetica"
+      ],
+      "id": "wi-prueba-de-estanqueidad-al-aire-en-edificios",
+      "m": 1,
+      "p": 750,
+      "s": "Prueba de estanqueidad al aire en edificios",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pruebas-de-servicio",
+        "pruebas-de-eficiencia-energetica",
+        "pruebas-de-eficiencia-energetica"
+      ],
+      "id": "wi-transmitancia-en-cerramientos",
+      "m": 1,
+      "p": 250,
+      "s": "Transmitancia en cerramientos",
+      "u": "u"
+    },
+    {
+      "d": "2016-12",
+      "g": [
+        "pruebas-de-servicio",
+        "pruebas-de-estanqueidad-en-cubiertas-y-f",
+        "pruebas-de-estanqueidad-en-cubiertas-y-f"
+      ],
+      "id": "wi-ensayo-de-espesor-y-adherencia-sate",
+      "m": 1,
+      "p": 85,
+      "s": "ENSAYO DE ESPESOR Y ADHERENCIA SATE",
+      "u": "u"
+    },
+    {
+      "d": "2018-07",
+      "g": [
+        "pruebas-de-servicio",
+        "pruebas-de-estanqueidad-en-cubiertas-y-f",
+        "pruebas-de-estanqueidad-en-cubiertas-y-f"
+      ],
+      "id": "wi-ensayo-rellenos-camara-aislamiento-termico",
+      "m": 1,
+      "p": 42,
+      "s": "ENSAYO RELLENOS CÁMARA AISLAMIENTO TÉRMICO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pruebas-de-servicio",
+        "pruebas-de-estanqueidad-en-cubiertas-y-f",
+        "pruebas-de-estanqueidad-en-cubiertas-y-f"
+      ],
+      "id": "wi-estanqueidad-in-situ-al-agua-de-fachadas",
+      "m": 1,
+      "p": 210,
+      "s": "Estanqueidad \"in situ\" al agua de fachadas",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pruebas-de-servicio",
+        "pruebas-de-estanqueidad-en-cubiertas-y-f",
+        "pruebas-de-estanqueidad-en-cubiertas-y-f"
+      ],
+      "id": "wi-estanqueidad-in-situ-al-agua-de-ventanas-y-puertas",
+      "m": 1,
+      "p": 210,
+      "s": "Estanqueidad \"in situ\" al agua de ventanas y puertas.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pruebas-de-servicio",
+        "pruebas-de-estanqueidad-en-cubiertas-y-f",
+        "pruebas-de-estanqueidad-en-cubiertas-y-f"
+      ],
+      "id": "wi-estanqueidad-in-situ-al-agua-en-fachadas-ligeras",
+      "m": 1,
+      "p": 210,
+      "s": "Estanqueidad \"in situ\" al agua en fachadas ligeras",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pruebas-de-servicio",
+        "pruebas-de-estanqueidad-en-cubiertas-y-f",
+        "pruebas-de-estanqueidad-en-cubiertas-y-f"
+      ],
+      "id": "wi-verificacion-de-prueba-de-estanqueidad-en-cubierta-inclinada",
+      "m": 1,
+      "p": 360,
+      "s": "Verificación de prueba de estanqueidad en cubierta inclinada",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pruebas-de-servicio",
+        "pruebas-de-estanqueidad-en-cubiertas-y-f",
+        "pruebas-de-estanqueidad-en-cubiertas-y-f"
+      ],
+      "id": "wi-verificacion-de-prueba-de-estanqueidad-en-cubierta-plana",
+      "m": 1,
+      "p": 210,
+      "s": "Verificación de prueba de estanqueidad en cubierta plana",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "pruebas-de-servicio",
+        "pruebas-sobre-barandillas",
+        "barandillas"
+      ],
+      "id": "wi-prueba-de-empuje-en-obra-sobre-barandillas",
+      "m": 1,
+      "p": 210,
+      "s": "Prueba de empuje en obra sobre barandillas"
+    }
+  ],
+  "title": "Precios Unitarios > CONTROL DE CALIDAD, PRUEBAS Y ENSAYOS",
+  "version": "0.1.0"
+}

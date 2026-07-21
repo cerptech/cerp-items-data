@@ -1,0 +1,337 @@
+{
+  "key": "precios-basicos--aridos-y-piedras",
+  "rows": [
+    {
+      "d": "2022-12",
+      "g": [
+        "arenas"
+      ],
+      "id": "mt-arena-cernida",
+      "m": 0,
+      "p": 12.76,
+      "s": "ARENA CERNIDA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "arenas"
+      ],
+      "id": "mt-arena-fina",
+      "m": 0,
+      "p": 17.85,
+      "s": "ARENA FINA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "arenas"
+      ],
+      "id": "mt-arena-gruesa",
+      "m": 0,
+      "p": 13.9,
+      "s": "ARENA GRUESA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-de-caliza"
+      ],
+      "id": "mt-gravilla-machaqueo-diam-18-20-mm-caliza",
+      "m": 0,
+      "p": 13.87,
+      "s": "GRAVILLA MACHAQUEO DIÁM. 18/20 mm CALIZA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-de-caliza"
+      ],
+      "id": "mt-piedra-machaqueo-diam-40-60-mm-caliza",
+      "m": 0,
+      "p": 12.53,
+      "s": "PIEDRA MACHAQUEO DIÁM. 40/60 mm CALIZA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-de-marmol"
+      ],
+      "id": "mt-arena-de-marmol-blanco",
+      "m": 0,
+      "p": 0.59,
+      "s": "ARENA DE MÁRMOL BLANCO",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-de-marmol"
+      ],
+      "id": "mt-arido-marmol-seleccionado",
+      "m": 0,
+      "p": 0.72,
+      "s": "ÁRIDO MÁRMOL SELECCIONADO",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-de-marmol"
+      ],
+      "id": "mt-marmolina-gruesa",
+      "m": 0,
+      "p": 0.59,
+      "s": "MARMOLINA GRUESA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-de-marmol"
+      ],
+      "id": "mt-polvo-de-marmol",
+      "m": 0,
+      "p": 0.79,
+      "s": "POLVO DE MÁRMOL",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-de-silice-o-cuarzo"
+      ],
+      "id": "mt-arena-de-cuarzo",
+      "m": 0,
+      "p": 1.1,
+      "s": "ARENA DE CUARZO",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-de-silice-o-cuarzo"
+      ],
+      "id": "mt-arido-de-silice-corindon-y-cuarzo",
+      "m": 0,
+      "p": 0.81,
+      "s": "ÁRIDO DE SÍLICE, CORINDÓN Y CUARZO",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-de-silice-o-cuarzo"
+      ],
+      "id": "mt-arido-seleccionado-monocapa",
+      "m": 0,
+      "p": 0.65,
+      "s": "ÁRIDO SELECCIONADO MONOCAPA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-de-silice-o-cuarzo"
+      ],
+      "id": "mt-arido-silice-tratado",
+      "m": 0,
+      "p": 0.36,
+      "s": "ÁRIDO SÍLICE TRATADO",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-de-silice-o-cuarzo"
+      ],
+      "id": "mt-piedra-silicea-en-rama",
+      "m": 0,
+      "p": 18.28,
+      "s": "PIEDRA SILÍCEA EN RAMA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aridos-de-silice-o-cuarzo"
+      ],
+      "id": "mt-polvo-de-silice-y-cuarzo-seco-y-envasado",
+      "m": 0,
+      "p": 0.8,
+      "s": "POLVO DE SÍLICE Y CUARZO, SECO Y ENVASADO",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "gravas"
+      ],
+      "id": "mt-grava",
+      "m": 0,
+      "p": 15,
+      "s": "GRAVA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "gravas"
+      ],
+      "id": "mt-grava-diam-16-32-mm",
+      "m": 0,
+      "p": 15.36,
+      "s": "GRAVA DIÁM. 16/32 mm",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "gravas"
+      ],
+      "id": "mt-grava-diam-30-40-mm",
+      "m": 0,
+      "p": 14.82,
+      "s": "GRAVA DIÁM. 30/40 mm",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "gravas"
+      ],
+      "id": "mt-grava-diam-40-60-mm-bolos",
+      "m": 0,
+      "p": 12.61,
+      "s": "GRAVA DIÁM. 40/60 mm (BOLOS)",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "gravas"
+      ],
+      "id": "mt-gravilla",
+      "m": 0,
+      "p": 14.82,
+      "s": "GRAVILLA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "gravas"
+      ],
+      "id": "mt-gravilla-diam-18-20-mm",
+      "m": 0,
+      "p": 15.88,
+      "s": "GRAVILLA DIÁM. 18/20 mm",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "gravas"
+      ],
+      "id": "mt-gravilla-diam-5-pinoncito",
+      "m": 0,
+      "p": 14.82,
+      "s": "GRAVILLA DIÁM. 5 (PIÑONCITO)",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "piedras"
+      ],
+      "id": "mt-albero-cernido",
+      "m": 0,
+      "p": 20.07,
+      "s": "ALBERO CERNIDO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "piedras"
+      ],
+      "id": "mt-albero-en-rama",
+      "m": 0,
+      "p": 17.48,
+      "s": "ALBERO EN RAMA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "piedras"
+      ],
+      "id": "mt-granza-de-albero",
+      "m": 0,
+      "p": 14.35,
+      "s": "GRANZA DE ALBERO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-arcilla-expandida-arlita-f-3-3-10-mm-granel",
+      "m": 0,
+      "p": 58.6,
+      "s": "ARCILLA EXPANDIDA ARLITA F-3 (3-10 mm) GRANEL",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-canon-adquisicion-de-tierras-de-prestamo",
+      "m": 0,
+      "p": 0.77,
+      "s": "CANON ADQUISICIÓN DE TIERRAS DE PRÉSTAMO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-granalla-viruta-de-acero-con-recuperac",
+      "m": 0,
+      "p": 0.26,
+      "s": "GRANALLA VIRUTA DE ACERO CON RECUPERAC.",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-zahorra-artificial",
+      "m": 0,
+      "p": 21.11,
+      "s": "ZAHORRA ARTIFICIAL",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mt-zahorra-natural",
+      "m": 0,
+      "p": 18.71,
+      "s": "ZAHORRA NATURAL",
+      "u": "m3"
+    }
+  ],
+  "title": "Precios Básicos > ÁRIDOS Y PIEDRAS",
+  "version": "0.1.0"
+}

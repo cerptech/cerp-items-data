@@ -1,0 +1,1344 @@
+{
+  "key": "precios-unitarios--gestion-de-residuos",
+  "rows": [
+    {
+      "d": "2021-12",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "aridos-y-piedras-naturales",
+        "varios"
+      ],
+      "id": "wi-retirada-en-contenedor-1-m3-residuos-aridos-y-piedras-n-p-10",
+      "m": 4,
+      "p": 24.86,
+      "s": "RETIRADA EN CONTENEDOR 1 m3 RESIDUOS ARIDOS Y PIEDRAS N.P. 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "aridos-y-piedras-naturales",
+        "varios"
+      ],
+      "id": "wi-retirada-en-contenedor-1-m3-residuos-aridos-y-piedras-n-p-15",
+      "m": 4,
+      "p": 28.67,
+      "s": "RETIRADA EN CONTENEDOR 1 m3 RESIDUOS ARIDOS Y PIEDRAS N.P. 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "aridos-y-piedras-naturales",
+        "varios"
+      ],
+      "id": "wi-retirada-en-contenedor-1-m3-residuos-aridos-y-piedras-n-p-5",
+      "m": 4,
+      "p": 21.05,
+      "s": "RETIRADA EN CONTENEDOR 1 m3 RESIDUOS ARIDOS Y PIEDRAS N.P. 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "aridos-y-piedras-naturales",
+        "varios"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-aridos-y-piedras-dem-10",
+      "m": 3,
+      "p": 30.36,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS ARIDOS Y PIEDRAS DEM. 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "aridos-y-piedras-naturales",
+        "varios"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-aridos-y-piedras-dem-15",
+      "m": 3,
+      "p": 30.36,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS ARIDOS Y PIEDRAS DEM. 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "aridos-y-piedras-naturales",
+        "varios"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-aridos-y-piedras-dem-5",
+      "m": 3,
+      "p": 30.36,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS ARIDOS Y PIEDRAS DEM. 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "aridos-y-piedras-naturales",
+        "varios"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-aridos-y-piedras-n-p-10",
+      "m": 3,
+      "p": 31.46,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS ARIDOS Y PIEDRAS N.P. 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "aridos-y-piedras-naturales",
+        "varios"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-aridos-y-piedras-n-p-15",
+      "m": 3,
+      "p": 31.46,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS ARIDOS Y PIEDRAS N.P. 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "aridos-y-piedras-naturales",
+        "varios"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-aridos-y-piedras-n-p-5",
+      "m": 3,
+      "p": 31.46,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS ARIDOS Y PIEDRAS N.P. 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "aridos-y-piedras-naturales",
+        "varios"
+      ],
+      "id": "wi-retirada-residuos-aridos-y-piedras-demol-a-planta-valoriz-10",
+      "m": 3,
+      "p": 18,
+      "s": "RETIRADA RESIDUOS ARIDOS Y PIEDRAS DEMOL. A PLANTA VALORIZ. 10km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "aridos-y-piedras-naturales",
+        "varios"
+      ],
+      "id": "wi-retirada-residuos-aridos-y-piedras-demol-a-planta-valoriz-15",
+      "m": 3,
+      "p": 21.82,
+      "s": "RETIRADA RESIDUOS ARIDOS Y PIEDRAS DEMOL. A PLANTA VALORIZ. 15km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "aridos-y-piedras-naturales",
+        "varios"
+      ],
+      "id": "wi-retirada-residuos-aridos-y-piedras-demol-a-planta-valoriz-5",
+      "m": 3,
+      "p": 14.19,
+      "s": "RETIRADA RESIDUOS ARIDOS Y PIEDRAS DEMOL. A PLANTA VALORIZ. 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "aridos-y-piedras-naturales",
+        "varios"
+      ],
+      "id": "wi-retirada-residuos-aridos-y-piedras-n-p-a-planta-valoriz-10-k",
+      "m": 4,
+      "p": 23.89,
+      "s": "RETIRADA RESIDUOS ARIDOS Y PIEDRAS N.P. A PLANTA VALORIZ. 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "aridos-y-piedras-naturales",
+        "varios"
+      ],
+      "id": "wi-retirada-residuos-aridos-y-piedras-n-p-a-planta-valoriz-15-k",
+      "m": 4,
+      "p": 27.71,
+      "s": "RETIRADA RESIDUOS ARIDOS Y PIEDRAS N.P. A PLANTA VALORIZ. 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "aridos-y-piedras-naturales",
+        "varios"
+      ],
+      "id": "wi-retirada-residuos-aridos-y-piedras-n-p-a-planta-valoriz-5-km",
+      "m": 4,
+      "p": 20.08,
+      "s": "RETIRADA RESIDUOS ARIDOS Y PIEDRAS N.P. A PLANTA VALORIZ. 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "hormigones-terrazos-cementos-y-cales",
+        "hormigones"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-hormigon-n-p-10-km",
+      "m": 3,
+      "p": 25.64,
+      "s": "RETIRADA EN CONTENEDOR 3 M3, RESIDUOS HORMIGÓN N.P. 10 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "hormigones-terrazos-cementos-y-cales",
+        "hormigones"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-hormigon-n-p-15-km",
+      "m": 3,
+      "p": 27.27,
+      "s": "RETIRADA EN CONTENEDOR 3 M3, RESIDUOS HORMIGÓN N.P. 15 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "hormigones-terrazos-cementos-y-cales",
+        "hormigones"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-hormigon-n-p-5-km",
+      "m": 3,
+      "p": 24,
+      "s": "RETIRADA EN CONTENEDOR 3 M3, RESIDUOS HORMIGÓN N.P. 5 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "hormigones-terrazos-cementos-y-cales",
+        "hormigones"
+      ],
+      "id": "wi-retirada-residuos-hormigon-demol-a-planta-valoriz-10-km",
+      "m": 3,
+      "p": 14.31,
+      "s": "RETIRADA RESIDUOS HORMIGÓN DEMOL. A PLANTA VALORIZ. 10 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "hormigones-terrazos-cementos-y-cales",
+        "hormigones"
+      ],
+      "id": "wi-retirada-residuos-hormigon-demol-a-planta-valoriz-15-km",
+      "m": 3,
+      "p": 18.13,
+      "s": "RETIRADA RESIDUOS HORMIGÓN DEMOL. A PLANTA VALORIZ. 15 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "hormigones-terrazos-cementos-y-cales",
+        "hormigones"
+      ],
+      "id": "wi-retirada-residuos-hormigon-demol-a-planta-valoriz-5-km",
+      "m": 3,
+      "p": 10.5,
+      "s": "RETIRADA RESIDUOS HORMIGÓN DEMOL. A PLANTA VALORIZ. 5 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "hormigones-terrazos-cementos-y-cales",
+        "hormigones"
+      ],
+      "id": "wi-retirada-residuos-hormigon-n-p-dist-max-10-km",
+      "m": 4,
+      "p": 20.2,
+      "s": "RETIRADA RESIDUOS HORMIGÓN N.P. DIST. MÁX. 10 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "hormigones-terrazos-cementos-y-cales",
+        "hormigones"
+      ],
+      "id": "wi-retirada-residuos-hormigon-n-p-dist-max-15-km",
+      "m": 4,
+      "p": 24.02,
+      "s": "RETIRADA RESIDUOS HORMIGÓN N.P. DIST. MÁX. 15 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "hormigones-terrazos-cementos-y-cales",
+        "hormigones"
+      ],
+      "id": "wi-retirada-residuos-hormigon-n-p-dist-max-5-km",
+      "m": 4,
+      "p": 16.39,
+      "s": "RETIRADA RESIDUOS HORMIGÓN N.P. DIST. MÁX. 5 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "materiales-ceramicos",
+        "ladrillos"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-ladrillos-n-p-10-km",
+      "m": 3,
+      "p": 25.59,
+      "s": "RETIRADA EN CONTENEDOR 3 M3, RESIDUOS LADRILLOS N.P. 10 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "materiales-ceramicos",
+        "ladrillos"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-ladrillos-n-p-15-km",
+      "m": 3,
+      "p": 27.22,
+      "s": "RETIRADA EN CONTENEDOR 3 M3, RESIDUOS LADRILLOS N.P. 15 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "materiales-ceramicos",
+        "ladrillos"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-ladrillos-n-p-5-km",
+      "m": 3,
+      "p": 23.95,
+      "s": "RETIRADA EN CONTENEDOR 3 M3, RESIDUOS LADRILLOS N.P. 5 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "materiales-ceramicos",
+        "ladrillos"
+      ],
+      "id": "wi-retirada-residuos-ladrillos-demol-a-planta-valoriz-10-km",
+      "m": 3,
+      "p": 14.26,
+      "s": "RETIRADA RESIDUOS LADRILLOS DEMOL. A PLANTA VALORIZ. 10 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "materiales-ceramicos",
+        "ladrillos"
+      ],
+      "id": "wi-retirada-residuos-ladrillos-demol-a-planta-valoriz-15-km",
+      "m": 3,
+      "p": 18.08,
+      "s": "RETIRADA RESIDUOS LADRILLOS DEMOL. A PLANTA VALORIZ. 15 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "materiales-ceramicos",
+        "ladrillos"
+      ],
+      "id": "wi-retirada-residuos-ladrillos-demol-a-planta-valoriz-5-km",
+      "m": 3,
+      "p": 10.45,
+      "s": "RETIRADA RESIDUOS LADRILLOS DEMOL. A PLANTA VALORIZ. 5 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "materiales-ceramicos",
+        "ladrillos"
+      ],
+      "id": "wi-retirada-residuos-ladrillos-n-p-dist-max-10-km",
+      "m": 4,
+      "p": 20.15,
+      "s": "RETIRADA RESIDUOS LADRILLOS N.P. DIST. MÁX. 10 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "materiales-ceramicos",
+        "ladrillos"
+      ],
+      "id": "wi-retirada-residuos-ladrillos-n-p-dist-max-15-km",
+      "m": 4,
+      "p": 23.97,
+      "s": "RETIRADA RESIDUOS LADRILLOS N.P. DIST. MÁX. 15 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "materiales-ceramicos",
+        "ladrillos"
+      ],
+      "id": "wi-retirada-residuos-ladrillos-n-p-dist-max-5-km",
+      "m": 4,
+      "p": 16.34,
+      "s": "RETIRADA RESIDUOS LADRILLOS N.P. DIST. MÁX. 5 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "materiales-ceramicos",
+        "tejas"
+      ],
+      "id": "wi-retirada-tejas-arabes-procedentes-desmontado-dist-max-10-km",
+      "m": 4,
+      "p": 5.53,
+      "s": "RETIRADA TEJAS ÁRABES PROCEDENTES DESMONTADO DIST. MÁX. 10 km",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "materiales-ceramicos",
+        "tejas"
+      ],
+      "id": "wi-retirada-tejas-arabes-procedentes-desmontado-dist-max-15-km",
+      "m": 4,
+      "p": 5.61,
+      "s": "RETIRADA TEJAS ÁRABES PROCEDENTES DESMONTADO DIST. MÁX. 15 km",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "materiales-ceramicos",
+        "tejas"
+      ],
+      "id": "wi-retirada-tejas-arabes-procedentes-desmontado-dist-max-5-km",
+      "m": 4,
+      "p": 5.46,
+      "s": "RETIRADA TEJAS ÁRABES PROCEDENTES DESMONTADO DIST. MÁX. 5 km",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-ceramicos-mixtos-n-p-10",
+      "m": 3,
+      "p": 24.54,
+      "s": "RETIRADA EN CONTENEDOR 3 M3, RESIDUOS CERAMICOS MIXTOS N.P. 10 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-ceramicos-mixtos-n-p-15",
+      "m": 3,
+      "p": 25.14,
+      "s": "RETIRADA EN CONTENEDOR 3 M3, RESIDUOS CERAMICOS MIXTOS N.P. 15 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-ceramicos-mixtos-n-p-5",
+      "m": 3,
+      "p": 23.95,
+      "s": "RETIRADA EN CONTENEDOR 3 M3, RESIDUOS CERAMICOS MIXTOS N.P. 5 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-retirada-residuos-ceramicos-mixtos-demol-a-planta-valoriz-10",
+      "m": 3,
+      "p": 14.26,
+      "s": "RETIRADA RESIDUOS CERAMICOS MIXTOS DEMOL. A PLANTA VALORIZ. 10 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-retirada-residuos-ceramicos-mixtos-demol-a-planta-valoriz-15",
+      "m": 3,
+      "p": 18.08,
+      "s": "RETIRADA RESIDUOS CERAMICOS MIXTOS DEMOL. A PLANTA VALORIZ. 15 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-retirada-residuos-ceramicos-mixtos-demol-a-planta-valoriz-5",
+      "m": 3,
+      "p": 10.45,
+      "s": "RETIRADA RESIDUOS CERAMICOS MIXTOS DEMOL. A PLANTA VALORIZ. 5 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-retirada-residuos-ceramicos-mixtos-n-p-dist-max-10-km",
+      "m": 4,
+      "p": 20.15,
+      "s": "RETIRADA RESIDUOS CERAMICOS MIXTOS N.P. DIST. MÁX. 10 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-retirada-residuos-ceramicos-mixtos-n-p-dist-max-15-km",
+      "m": 4,
+      "p": 23.97,
+      "s": "RETIRADA RESIDUOS CERAMICOS MIXTOS N.P. DIST. MÁX. 15 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "hormigones-ladrillos-tejas-mat-ceram-y-d",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-retirada-residuos-ceramicos-mixtos-n-p-dist-max-5-km",
+      "m": 4,
+      "p": 16.34,
+      "s": "RETIRADA RESIDUOS CERAMICOS MIXTOS N.P. DIST. MÁX. 5 Km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "maderas-papeles-cartones-plasticos-sinte",
+        "maderas-papeles-plasticos-y-sinteticos",
+        "madera-papeles-y-cartones"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-madera-dem-dist-max-10k",
+      "m": 3,
+      "p": 17.99,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MADERA DEM. DIST. MÁX. 10km",
+      "u": "t"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "maderas-papeles-cartones-plasticos-sinte",
+        "maderas-papeles-plasticos-y-sinteticos",
+        "madera-papeles-y-cartones"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-madera-dem-dist-max-15k",
+      "m": 3,
+      "p": 17.99,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MADERA DEM. DIST. MÁX. 15km",
+      "u": "t"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "maderas-papeles-cartones-plasticos-sinte",
+        "maderas-papeles-plasticos-y-sinteticos",
+        "madera-papeles-y-cartones"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-madera-dem-dist-max-5-k",
+      "m": 3,
+      "p": 17.99,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MADERA DEM. DIST. MÁX. 5 km",
+      "u": "t"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "maderas-papeles-cartones-plasticos-sinte",
+        "maderas-papeles-plasticos-y-sinteticos",
+        "madera-papeles-y-cartones"
+      ],
+      "id": "wi-retirada-residuos-madera-dem-a-planta-valoriz-dist-max-10-km",
+      "m": 3,
+      "p": 9.4,
+      "s": "RETIRADA RESIDUOS MADERA DEM. A PLANTA VALORIZ. DIST. MÁX. 10 km",
+      "u": "t"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "maderas-papeles-cartones-plasticos-sinte",
+        "maderas-papeles-plasticos-y-sinteticos",
+        "madera-papeles-y-cartones"
+      ],
+      "id": "wi-retirada-residuos-madera-dem-a-planta-valoriz-dist-max-15-km",
+      "m": 3,
+      "p": 13.22,
+      "s": "RETIRADA RESIDUOS MADERA DEM. A PLANTA VALORIZ. DIST. MÁX. 15 km",
+      "u": "t"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "maderas-papeles-cartones-plasticos-sinte",
+        "maderas-papeles-plasticos-y-sinteticos",
+        "madera-papeles-y-cartones"
+      ],
+      "id": "wi-retirada-residuos-madera-dem-a-planta-valoriz-dist-max-5-km",
+      "m": 3,
+      "p": 5.59,
+      "s": "RETIRADA RESIDUOS MADERA DEM. A PLANTA VALORIZ. DIST. MÁX. 5 km",
+      "u": "t"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "maderas-papeles-cartones-plasticos-sinte",
+        "maderas-papeles-plasticos-y-sinteticos",
+        "plasticos-y-sinteticos"
+      ],
+      "id": "wi-retirada-residuos-plasticos-y-sinteticos-dist-max-10-km-mec",
+      "m": 4,
+      "p": 73.87,
+      "s": "RETIRADA RESIDUOS PLÁSTICOS Y SINTÉTICOS, DIST. MÁX. 10 km MEC.",
+      "u": "t"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "maderas-papeles-cartones-plasticos-sinte",
+        "maderas-papeles-plasticos-y-sinteticos",
+        "plasticos-y-sinteticos"
+      ],
+      "id": "wi-retirada-residuos-plasticos-y-sinteticos-dist-max-5-km-mec",
+      "m": 4,
+      "p": 72.16,
+      "s": "RETIRADA RESIDUOS PLÁSTICOS Y SINTÉTICOS, DIST. MÁX. 5 km MEC.",
+      "u": "t"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-bituminosos"
+      ],
+      "id": "wi-retirada-de-residuos-mezcla-bituminosa-n-p-a-planta-de-valor",
+      "m": 4,
+      "p": 12.96,
+      "s": "RETIRADA DE RESIDUOS MEZCLA BITUMINOSA N.P. A PLANTA DE VALORIZ. 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-bituminosos"
+      ],
+      "id": "wi-retirada-de-residuos-mezcla-bituminosa-n-p-a-planta-de-valor-480b",
+      "m": 4,
+      "p": 20.59,
+      "s": "RETIRADA DE RESIDUOS MEZCLA BITUMINOSA N.P. A PLANTA DE VALORIZ. 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-bituminosos"
+      ],
+      "id": "wi-retirada-de-residuos-mezcla-bituminosa-n-p-a-planta-de-valor-c60d",
+      "m": 4,
+      "p": 16.77,
+      "s": "RETIRADA DE RESIDUOS MEZCLA BITUMINOSA N.P. A PLANTA DE VALORIZ. 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-bituminosos"
+      ],
+      "id": "wi-retirada-en-contenedor-1-m3-residuos-mezcla-bituminosa-n-p-1",
+      "m": 4,
+      "p": 15.07,
+      "s": "RETIRADA EN CONTENEDOR 1 m3 RESIDUOS MEZCLA BITUMINOSA N.P. 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-bituminosos"
+      ],
+      "id": "wi-retirada-en-contenedor-1-m3-residuos-mezcla-bituminosa-n-p-1-8390",
+      "m": 4,
+      "p": 18.88,
+      "s": "RETIRADA EN CONTENEDOR 1 m3 RESIDUOS MEZCLA BITUMINOSA N.P. 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-bituminosos"
+      ],
+      "id": "wi-retirada-en-contenedor-1-m3-residuos-mezcla-bituminosa-n-p-5",
+      "m": 4,
+      "p": 11.26,
+      "s": "RETIRADA EN CONTENEDOR 1 m3 RESIDUOS MEZCLA BITUMINOSA N.P. 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-bituminosos"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-mezcla-bituminosa-demol",
+      "m": 3,
+      "p": 21.67,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MEZCLA BITUMINOSA DEMOL. 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-bituminosos"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-mezcla-bituminosa-demol-1abd",
+      "m": 3,
+      "p": 23.31,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MEZCLA BITUMINOSA DEMOL. 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-bituminosos"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-mezcla-bituminosa-demol-2514",
+      "m": 3,
+      "p": 24.94,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MEZCLA BITUMINOSA DEMOL. 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-bituminosos"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-mezcla-bituminosa-n-p-1",
+      "m": 3,
+      "p": 23.31,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MEZCLA BITUMINOSA N.P. 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-bituminosos"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-mezcla-bituminosa-n-p-1-2552",
+      "m": 3,
+      "p": 24.94,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MEZCLA BITUMINOSA N.P. 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-bituminosos"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-mezcla-bituminosa-n-p-5",
+      "m": 3,
+      "p": 21.67,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MEZCLA BITUMINOSA N.P. 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-bituminosos"
+      ],
+      "id": "wi-retirada-residuos-mexcla-bituminosa-demol-a-planta-de-valori",
+      "m": 3,
+      "p": 9,
+      "s": "RETIRADA RESIDUOS MEXCLA BITUMINOSA DEMOL. A PLANTA DE VALORIZ. 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-bituminosos"
+      ],
+      "id": "wi-retirada-residuos-mexcla-bituminosa-demol-a-planta-de-valori-4a8b",
+      "m": 3,
+      "p": 12.81,
+      "s": "RETIRADA RESIDUOS MEXCLA BITUMINOSA DEMOL. A PLANTA DE VALORIZ. 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-bituminosos"
+      ],
+      "id": "wi-retirada-residuos-mexcla-bituminosa-demol-a-planta-de-valori-d1c6",
+      "m": 3,
+      "p": 16.63,
+      "s": "RETIRADA RESIDUOS MEXCLA BITUMINOSA DEMOL. A PLANTA DE VALORIZ. 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-de-residuos-mixtos-horm-y-ceram-n-p-a-planta-de-val",
+      "m": 4,
+      "p": 15.74,
+      "s": "RETIRADA DE RESIDUOS MIXTOS HORM. Y CERAM N.P. A PLANTA DE VALORIZ. 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-de-residuos-mixtos-horm-y-ceram-n-p-a-planta-de-val-203f",
+      "m": 4,
+      "p": 19.55,
+      "s": "RETIRADA DE RESIDUOS MIXTOS HORM. Y CERAM N.P. A PLANTA DE VALORIZ. 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-de-residuos-mixtos-horm-y-ceram-n-p-a-planta-de-val-76bb",
+      "m": 4,
+      "p": 23.37,
+      "s": "RETIRADA DE RESIDUOS MIXTOS HORM. Y CERAM N.P. A PLANTA DE VALORIZ. 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-de-residuos-mixtos-n-p-a-planta-de-valoriz-10-km",
+      "m": 4,
+      "p": 25.46,
+      "s": "RETIRADA DE RESIDUOS MIXTOS N.P. A PLANTA DE VALORIZ. 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-de-residuos-mixtos-n-p-a-planta-de-valoriz-15-km",
+      "m": 4,
+      "p": 29.28,
+      "s": "RETIRADA DE RESIDUOS MIXTOS N.P. A PLANTA DE VALORIZ. 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-de-residuos-mixtos-n-p-a-planta-de-valoriz-5-km",
+      "m": 4,
+      "p": 21.65,
+      "s": "RETIRADA DE RESIDUOS MIXTOS N.P. A PLANTA DE VALORIZ. 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-en-contenedor-1-m3-residuos-mixtos-horm-y-ceram-n-p",
+      "m": 4,
+      "p": 14.04,
+      "s": "RETIRADA EN CONTENEDOR 1 m3 RESIDUOS MIXTOS HORM. Y CERAM N.P. 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-en-contenedor-1-m3-residuos-mixtos-horm-y-ceram-n-p-3a81",
+      "m": 4,
+      "p": 21.66,
+      "s": "RETIRADA EN CONTENEDOR 1 m3 RESIDUOS MIXTOS HORM. Y CERAM N.P. 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-en-contenedor-1-m3-residuos-mixtos-horm-y-ceram-n-p-92bf",
+      "m": 4,
+      "p": 17.85,
+      "s": "RETIRADA EN CONTENEDOR 1 m3 RESIDUOS MIXTOS HORM. Y CERAM N.P. 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-en-contenedor-1-m3-residuos-mixtos-n-p-10-km",
+      "m": 4,
+      "p": 23.76,
+      "s": "RETIRADA EN CONTENEDOR 1 m3 RESIDUOS MIXTOS N.P. 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-en-contenedor-1-m3-residuos-mixtos-n-p-15-km",
+      "m": 4,
+      "p": 27.57,
+      "s": "RETIRADA EN CONTENEDOR 1 m3 RESIDUOS MIXTOS N.P. 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-en-contenedor-1-m3-residuos-mixtos-n-p-5-km",
+      "m": 4,
+      "p": 19.95,
+      "s": "RETIRADA EN CONTENEDOR 1 m3 RESIDUOS MIXTOS N.P. 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-mixtos-demol-10-km",
+      "m": 3,
+      "p": 30.36,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MIXTOS DEMOL. 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-mixtos-demol-15-km",
+      "m": 3,
+      "p": 30.36,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MIXTOS DEMOL. 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-mixtos-demol-5-km",
+      "m": 3,
+      "p": 30.36,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MIXTOS DEMOL. 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-mixtos-horm-y-ceram-dem",
+      "m": 3,
+      "p": 24.45,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MIXTOS HORM. Y CERAM DEMOL. 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-mixtos-horm-y-ceram-dem-96f6",
+      "m": 3,
+      "p": 26.09,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MIXTOS HORM. Y CERAM DEMOL. 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-mixtos-horm-y-ceram-dem-e37d",
+      "m": 3,
+      "p": 27.72,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MIXTOS HORM. Y CERAM DEMOL. 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-mixtos-horm-y-ceram-n-p",
+      "m": 3,
+      "p": 24.45,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MIXTOS HORM. Y CERAM N.P. 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-mixtos-horm-y-ceram-n-p-70b1",
+      "m": 3,
+      "p": 27.72,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MIXTOS HORM. Y CERAM N.P. 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-mixtos-horm-y-ceram-n-p-d2d0",
+      "m": 3,
+      "p": 26.09,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MIXTOS HORM. Y CERAM N.P. 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-mixtos-n-p-10-km",
+      "m": 3,
+      "p": 30.36,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MIXTOS N.P. 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-mixtos-n-p-15-km",
+      "m": 3,
+      "p": 30.36,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MIXTOS N.P. 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-en-contenedor-3-m3-residuos-mixtos-n-p-5-km",
+      "m": 3,
+      "p": 30.36,
+      "s": "RETIRADA EN CONTENEDOR 3 m3 RESIDUOS MIXTOS N.P. 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-residuos-mixtos-demol-a-planta-de-valoriz-10-km",
+      "m": 3,
+      "p": 21.5,
+      "s": "RETIRADA RESIDUOS MIXTOS DEMOL. A PLANTA DE VALORIZ. 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-residuos-mixtos-demol-a-planta-de-valoriz-15-km",
+      "m": 3,
+      "p": 25.59,
+      "s": "RETIRADA RESIDUOS MIXTOS DEMOL. A PLANTA DE VALORIZ. 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-residuos-mixtos-demol-a-planta-de-valoriz-5-km",
+      "m": 3,
+      "p": 17.69,
+      "s": "RETIRADA RESIDUOS MIXTOS DEMOL. A PLANTA DE VALORIZ. 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-residuos-mixtos-horm-y-ceram-demol-a-planta-de-valo",
+      "m": 3,
+      "p": 11.78,
+      "s": "RETIRADA RESIDUOS MIXTOS HORM. Y CERAM DEMOL. A PLANTA DE VALORIZ. 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-residuos-mixtos-horm-y-ceram-demol-a-planta-de-valo-5723",
+      "m": 3,
+      "p": 19.41,
+      "s": "RETIRADA RESIDUOS MIXTOS HORM. Y CERAM DEMOL. A PLANTA DE VALORIZ. 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [
+        "residuos-mezclados",
+        "residuos-mezclados",
+        "residuos-mezclados"
+      ],
+      "id": "wi-retirada-residuos-mixtos-horm-y-ceram-demol-a-planta-de-valo-7718",
+      "m": 3,
+      "p": 15.59,
+      "s": "RETIRADA RESIDUOS MIXTOS HORM. Y CERAM DEMOL. A PLANTA DE VALORIZ. 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "terrenos",
+        "terrenos",
+        "terrenos"
+      ],
+      "id": "wi-retirada-de-tierras-inertes-n-p-a-vertedero-autorizado-10-km",
+      "m": 3,
+      "p": 9.4,
+      "s": "RETIRADA DE TIERRAS INERTES N.P. A VERTEDERO AUTORIZADO 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "terrenos",
+        "terrenos",
+        "terrenos"
+      ],
+      "id": "wi-retirada-de-tierras-inertes-n-p-a-vertedero-autorizado-15-km",
+      "m": 3,
+      "p": 13.22,
+      "s": "RETIRADA DE TIERRAS INERTES N.P. A VERTEDERO AUTORIZADO 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "terrenos",
+        "terrenos",
+        "terrenos"
+      ],
+      "id": "wi-retirada-de-tierras-inertes-n-p-a-vertedero-autorizado-5-km",
+      "m": 3,
+      "p": 5.59,
+      "s": "RETIRADA DE TIERRAS INERTES N.P. A VERTEDERO AUTORIZADO 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "terrenos",
+        "terrenos",
+        "terrenos"
+      ],
+      "id": "wi-retirada-de-tierras-n-p-a-planta-de-valoriz-dist-max-10-km",
+      "m": 3,
+      "p": 10.75,
+      "s": "RETIRADA DE TIERRAS N.P. A PLANTA DE VALORIZ. DIST. MÁX. 10 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "terrenos",
+        "terrenos",
+        "terrenos"
+      ],
+      "id": "wi-retirada-de-tierras-n-p-a-planta-de-valoriz-dist-max-15-km",
+      "m": 3,
+      "p": 14.57,
+      "s": "RETIRADA DE TIERRAS N.P. A PLANTA DE VALORIZ. DIST. MÁX. 15 km",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "terrenos",
+        "terrenos",
+        "terrenos"
+      ],
+      "id": "wi-retirada-de-tierras-n-p-a-planta-de-valoriz-dist-max-5-km",
+      "m": 3,
+      "p": 6.94,
+      "s": "RETIRADA DE TIERRAS N.P. A PLANTA DE VALORIZ. DIST. MÁX. 5 km",
+      "u": "m3"
+    }
+  ],
+  "title": "Precios Unitarios > GESTIÓN DE RESIDUOS",
+  "version": "0.1.0"
+}

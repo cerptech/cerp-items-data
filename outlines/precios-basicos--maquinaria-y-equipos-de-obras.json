@@ -1,0 +1,634 @@
+{
+  "key": "precios-basicos--maquinaria-y-equipos-de-obras",
+  "rows": [
+    {
+      "d": "2022-12",
+      "g": [
+        "aglomeradoras-y-bituminadoras"
+      ],
+      "id": "mq-aglomeradora",
+      "m": 0,
+      "p": 161.31,
+      "s": "AGLOMERADORA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aglomeradoras-y-bituminadoras"
+      ],
+      "id": "mq-bituminadora",
+      "m": 0,
+      "p": 54.51,
+      "s": "BITUMINADORA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aglomeradoras-y-bituminadoras"
+      ],
+      "id": "mq-bituminadora-extendedora",
+      "m": 0,
+      "p": 200.55,
+      "s": "BITUMINADORA/EXTENDEDORA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "aglomeradoras-y-bituminadoras"
+      ],
+      "id": "mq-hormigonera-electrica-250-l",
+      "m": 0,
+      "p": 4.1,
+      "s": "HORMIGONERA ELÉCTRICA 250 l",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "camiones-y-carretillas"
+      ],
+      "id": "mq-autovolquete",
+      "m": 0,
+      "p": 5.21,
+      "s": "AUTOVOLQUETE",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "camiones-y-carretillas"
+      ],
+      "id": "mq-camion-basculante",
+      "m": 0,
+      "p": 38.12,
+      "s": "CAMIÓN BASCULANTE",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "camiones-y-carretillas"
+      ],
+      "id": "mq-camion-cisterna",
+      "m": 0,
+      "p": 45.12,
+      "s": "CAMIÓN CISTERNA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "camiones-y-carretillas"
+      ],
+      "id": "mq-carretilla-mecanica-basculante-1-m3",
+      "m": 0,
+      "p": 5.44,
+      "s": "CARRETILLA MECÁNICA BASCULANTE 1 m3",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "camiones-y-carretillas"
+      ],
+      "id": "mq-transporte-en-contenedor",
+      "m": 0,
+      "p": 16.37,
+      "s": "TRANSPORTE EN CONTENEDOR",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "compresores"
+      ],
+      "id": "mq-compresor-dos-martillos",
+      "m": 0,
+      "p": 9.46,
+      "s": "COMPRESOR DOS MARTILLOS",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "compresores"
+      ],
+      "id": "mq-compresor-para-proyectar",
+      "m": 0,
+      "p": 3.98,
+      "s": "COMPRESOR PARA PROYECTAR",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "compresores"
+      ],
+      "id": "mq-maquina-neumatica-para-boquillas-de-aire-agua",
+      "m": 0,
+      "p": 2.76,
+      "s": "MAQUINA NEUMATICA PARA BOQUILLAS DE AIRE-AGUA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "dozers"
+      ],
+      "id": "mq-bulldozer",
+      "m": 0,
+      "p": 90.52,
+      "s": "BULLDOZER",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "equipos-de-bombeo"
+      ],
+      "id": "mq-bomba-de-agotamiento-agua-y-fangos",
+      "m": 0,
+      "p": 4.02,
+      "s": "BOMBA DE AGOTAMIENTO, AGUA Y FANGOS",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "equipos-de-bombeo"
+      ],
+      "id": "mq-bomba-de-hormigonar",
+      "m": 0,
+      "p": 98.06,
+      "s": "BOMBA DE HORMIGONAR",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "equipos-de-perforacion-y-pilotaje"
+      ],
+      "id": "mq-alquiler-de-equipo-jet-grouting",
+      "m": 0,
+      "p": 303.54,
+      "s": "ALQUILER DE EQUIPO JET-GROUTING",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "equipos-de-perforacion-y-pilotaje"
+      ],
+      "id": "mq-alquiler-equipo-para-anclaje-en-inyecciones",
+      "m": 0,
+      "p": 192.74,
+      "s": "ALQUILER EQUIPO PARA ANCLAJE EN INYECCIONES",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "equipos-de-perforacion-y-pilotaje"
+      ],
+      "id": "mq-equipo-pantalla-y-grua-auxiliar-alquiler",
+      "m": 0,
+      "p": 268.21,
+      "s": "EQUIPO PANTALLA Y GRÚA AUXILIAR (ALQUILER)",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "equipos-de-perforacion-y-pilotaje"
+      ],
+      "id": "mq-equipo-perforacion-micropilotes",
+      "m": 0,
+      "p": 407.83,
+      "s": "EQUIPO PERFORACIÓN MICROPILOTES",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "equipos-de-perforacion-y-pilotaje"
+      ],
+      "id": "mq-equipo-perforaciones-profundas-c-bomba-presion",
+      "m": 0,
+      "p": 407.83,
+      "s": "EQUIPO PERFORACIONES PROFUNDAS C/BOMBA PRESIÓN",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "equipos-de-perforacion-y-pilotaje"
+      ],
+      "id": "mq-pantalla-por-p-p-de-transp-montaje-y-desm-de-equipo",
+      "m": 0,
+      "p": 19.73,
+      "s": "PANTALLA POR P.P. DE TRANSP., MONTAJE Y DESM. DE EQUIPO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "equipos-de-perforacion-y-pilotaje"
+      ],
+      "id": "mq-perforadora",
+      "m": 0,
+      "p": 71.5,
+      "s": "PERFORADORA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "equipos-de-perforacion-y-pilotaje"
+      ],
+      "id": "mq-pilote-cpi-2-por-p-p-de-equipo-de-pilotaje-alquiler",
+      "m": 0,
+      "p": 328.48,
+      "s": "PILOTE CPI-2 POR P.P. DE EQUIPO DE PILOTAJE (ALQUILER)",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "equipos-de-perforacion-y-pilotaje"
+      ],
+      "id": "mq-pilote-cpi-4-por-p-p-de-equipo-de-pilotaje-alquiler",
+      "m": 0,
+      "p": 255.97,
+      "s": "PILOTE CPI-4 POR P.P. DE EQUIPO DE PILOTAJE (ALQUILER)",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "equipos-de-perforacion-y-pilotaje"
+      ],
+      "id": "mq-pilote-cpi-5-por-p-p-de-equipo-de-pilotaje-alquiler",
+      "m": 0,
+      "p": 255.97,
+      "s": "PILOTE CPI-5 POR P.P. DE EQUIPO DE PILOTAJE (ALQUILER)",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "equipos-de-perforacion-y-pilotaje"
+      ],
+      "id": "mq-pilote-cpi-6-por-p-p-de-equipo-de-pilotaje-alquiler",
+      "m": 0,
+      "p": 255.97,
+      "s": "PILOTE CPI-6 POR P.P. DE EQUIPO DE PILOTAJE (ALQUILER)",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "equipos-de-perforacion-y-pilotaje"
+      ],
+      "id": "mq-pilote-cpi-7-por-p-p-de-equipo-de-pilotaje-alquiler",
+      "m": 0,
+      "p": 289.89,
+      "s": "PILOTE CPI-7 POR P.P. DE EQUIPO DE PILOTAJE (ALQUILER)",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "equipos-de-perforacion-y-pilotaje"
+      ],
+      "id": "mq-pilote-cpi-8-por-p-p-de-equipo-de-pilotaje-alquiler",
+      "m": 0,
+      "p": 309.12,
+      "s": "PILOTE CPI-8 POR P.P. DE EQUIPO DE PILOTAJE (ALQUILER)",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "equipos-de-perforacion-y-pilotaje"
+      ],
+      "id": "mq-pilote-p-comprendiendo-p-p-piezas-de-empalme-alquiler",
+      "m": 0,
+      "p": 314.09,
+      "s": "PILOTE P. COMPRENDIENDO P.P. PIEZAS DE EMPALME (ALQUILER)",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "equipos-de-perforacion-y-pilotaje"
+      ],
+      "id": "mq-pilote-prefab-por-p-p-de-equipo-de-hinca-alquiler",
+      "m": 0,
+      "p": 264.73,
+      "s": "PILOTE PREFAB. POR P.P. DE EQUIPO DE HINCA (ALQUILER)",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "equipos-de-perforacion-y-pilotaje"
+      ],
+      "id": "mq-repercusion-s-util-trans-mont-ect-maquina",
+      "m": 0,
+      "p": 9.39,
+      "s": "REPERCUSIÓN S/UTIL, TRANS. MONT. ECT. MÁQUINA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "equipos-de-perforacion-y-pilotaje"
+      ],
+      "id": "mq-repercusion-util-trans-montag-anclaje-inyecc",
+      "m": 0,
+      "p": 5.76,
+      "s": "REPERCUSIÓN UTIL. TRANS. MONTAG. ANCLAJE INYECC.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "equipos-de-perforacion-y-pilotaje"
+      ],
+      "id": "mq-repercusion-util-trans-montag-jet-grouting",
+      "m": 0,
+      "p": 13.95,
+      "s": "REPERCUSIÓN UTIL. TRANS. MONTAG. JET-GROUTING",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "excavadoras-y-palas"
+      ],
+      "id": "mq-excavadora-con-cuchara-bivalva",
+      "m": 0,
+      "p": 49.89,
+      "s": "EXCAVADORA CON CUCHARA BIVALVA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "excavadoras-y-palas"
+      ],
+      "id": "mq-extendedora",
+      "m": 0,
+      "p": 26.77,
+      "s": "EXTENDEDORA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "excavadoras-y-palas"
+      ],
+      "id": "mq-mini-retroexcavadora",
+      "m": 0,
+      "p": 36.19,
+      "s": "MINI RETROEXCAVADORA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "excavadoras-y-palas"
+      ],
+      "id": "mq-pala-cargadora",
+      "m": 0,
+      "p": 35.54,
+      "s": "PALA CARGADORA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "excavadoras-y-palas"
+      ],
+      "id": "mq-retroexcavadora",
+      "m": 0,
+      "p": 52.09,
+      "s": "RETROEXCAVADORA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "excavadoras-y-palas"
+      ],
+      "id": "mq-retroexcavadora-con-martillo",
+      "m": 0,
+      "p": 91.99,
+      "s": "RETROEXCAVADORA CON MARTILLO",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "gruas"
+      ],
+      "id": "mq-grua-movil-autopropulsada",
+      "m": 0,
+      "p": 82.75,
+      "s": "GRUA MÓVIL AUTOPROPULSADA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "gruas"
+      ],
+      "id": "mq-grua-telescopica-s-camion-20-t",
+      "m": 0,
+      "p": 74.49,
+      "s": "GRÚA TELESCÓPICA S/CAMIÓN 20 t",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "niveladoras"
+      ],
+      "id": "mq-motoniveladora",
+      "m": 0,
+      "p": 67.17,
+      "s": "MOTONIVELADORA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "rulos-y-compactadoras"
+      ],
+      "id": "mq-bandeja-vibrante-manual",
+      "m": 0,
+      "p": 6.72,
+      "s": "BANDEJA VIBRANTE MANUAL",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "rulos-y-compactadoras"
+      ],
+      "id": "mq-pison-mecanico-manual",
+      "m": 0,
+      "p": 4.48,
+      "s": "PISÓN MECÁNICO MANUAL",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "rulos-y-compactadoras"
+      ],
+      "id": "mq-rodillo-vibrante-manual",
+      "m": 0,
+      "p": 5.75,
+      "s": "RODILLO VIBRANTE MANUAL",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "rulos-y-compactadoras"
+      ],
+      "id": "mq-rulo-vibratorio",
+      "m": 0,
+      "p": 34.64,
+      "s": "RULO VIBRATORIO",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "sierras"
+      ],
+      "id": "mq-equipo-de-corte-de-juntas-en-solera-de-hormigon",
+      "m": 0,
+      "p": 9.62,
+      "s": "EQUIPO DE CORTE DE JUNTAS EN SOLERA DE HORMIGÓN",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "sierras"
+      ],
+      "id": "mq-maquina-desbarbadora-radial-orbital",
+      "m": 0,
+      "p": 1.78,
+      "s": "MAQUINA DESBARBADORA RADIAL-ORBITAL",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "sierras"
+      ],
+      "id": "mq-sierra-mecanica",
+      "m": 0,
+      "p": 2.44,
+      "s": "SIERRA MECÁNICA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "sierras"
+      ],
+      "id": "mq-sierra-mecanica-de-corte-manual",
+      "m": 0,
+      "p": 3.45,
+      "s": "SIERRA MECÁNICA DE CORTE, MANUAL",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "traillas"
+      ],
+      "id": "mq-trailla-remolcada-tractor",
+      "m": 0,
+      "p": 30.62,
+      "s": "TRAÍLLA REMOLCADA/TRACTOR",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mq-maquina-alta-presion-para-desatranques",
+      "m": 0,
+      "p": 99.08,
+      "s": "MÁQUINA ALTA PRESIÓN PARA DESATRANQUES",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mq-maquina-automovil-para-marcar-viales-3-bandas-y-3-cv",
+      "m": 0,
+      "p": 23.36,
+      "s": "MÁQUINA AUTOMÓVIL PARA MARCAR VIALES 3 BANDAS Y 3 CV",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mq-motocultor-60-80-cm",
+      "m": 0,
+      "p": 3.35,
+      "s": "MOTOCULTOR 60/80 cm.",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mq-plataforma-elevadora-telescopica",
+      "m": 0,
+      "p": 10.4,
+      "s": "PLATAFORMA ELEVADORA TELESCOPICA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mq-taladro-electrico",
+      "m": 0,
+      "p": 5.81,
+      "s": "TALADRO ELÉCTRICO",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "vibradores"
+      ],
+      "id": "mq-vibrador",
+      "m": 0,
+      "p": 1.82,
+      "s": "VIBRADOR",
+      "u": "h"
+    }
+  ],
+  "title": "Precios Básicos > MAQUINARIA Y EQUIPOS DE OBRAS",
+  "version": "0.1.0"
+}

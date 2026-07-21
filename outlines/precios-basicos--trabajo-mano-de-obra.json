@@ -1,0 +1,359 @@
+{
+  "key": "precios-basicos--trabajo-mano-de-obra",
+  "rows": [
+    {
+      "d": "2022-12",
+      "g": [
+        "ayudantes"
+      ],
+      "id": "mo-ayudante",
+      "m": 0,
+      "p": 22.36,
+      "s": "AYUDANTE",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "ayudantes"
+      ],
+      "id": "mo-ayudante-carpinteria",
+      "m": 0,
+      "p": 22.36,
+      "s": "AYUDANTE CARPINTERÍA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "ayudantes"
+      ],
+      "id": "mo-ayudante-especialista",
+      "m": 0,
+      "p": 22.36,
+      "s": "AYUDANTE ESPECIALISTA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-albanileria",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª ALBAÑILERÍA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-alicatador",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª ALICATADOR",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-artificiero",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª ARTIFICIERO",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-calefactor-o-mecanico",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª CALEFACTOR O MECÁNICO",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-carpinteria",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª CARPINTERÍA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-cerrajero-chapista",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª CERRAJERO-CHAPISTA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-colocador",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª COLOCADOR",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-cristalero",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª CRISTALERO",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-electricista",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª ELECTRICISTA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-encofrador",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª ENCOFRADOR",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-escayolista",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª ESCAYOLISTA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-ferrallista",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª FERRALLISTA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-fontanero",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª FONTANERO",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-impermeabilizador",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª IMPERMEABILIZADOR",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-instalador",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª INSTALADOR",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-jardinero",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª JARDINERO",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-montador",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª MONTADOR",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-montador-carpinteria",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª MONTADOR CARPINTERÍA",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-pintor",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª PINTOR",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-solador",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª SOLADOR",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-1-yesero",
+      "m": 0,
+      "p": 23.17,
+      "s": "OF. 1ª YESERO",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-of-2-pintor",
+      "m": 0,
+      "p": 22.59,
+      "s": "OF. 2ª PINTOR",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-oficial-1",
+      "m": 0,
+      "p": 23.17,
+      "s": "OFICIAL 1ª",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-oficial-1-obra-civil",
+      "m": 0,
+      "p": 23.17,
+      "s": "OFICIAL 1ª OBRA CIVIL",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "oficiales"
+      ],
+      "id": "mo-oficial-2",
+      "m": 0,
+      "p": 22.59,
+      "s": "OFICIAL 2ª",
+      "u": "h"
+    },
+    {
+      "d": "2022-12",
+      "g": [
+        "peones"
+      ],
+      "id": "mo-peon-especial",
+      "m": 0,
+      "p": 22.01,
+      "s": "PEÓN ESPECIAL",
+      "u": "h"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mo-montaje-y-desmontaje-de-estabilizador-de-fachada",
+      "m": 0,
+      "p": 33.41,
+      "s": "MONTAJE Y DESMONTAJE DE ESTABILIZADOR DE FACHADA",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mo-montaje-y-desmontaje-de-estabilizador-interior-de-fachada",
+      "m": 0,
+      "p": 55.69,
+      "s": "MONTAJE Y DESMONTAJE DE ESTABILIZADOR INTERIOR DE FACHADA",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [
+        "varios"
+      ],
+      "id": "mo-revision-y-mantenimiento-andamio-estabilizador",
+      "m": 0,
+      "p": 445.52,
+      "s": "REVISIÓN Y MANTENIMIENTO ANDAMIO ESTABILIZADOR",
+      "u": "u"
+    }
+  ],
+  "title": "Precios Básicos > TRABAJO (MANO DE OBRA)",
+  "version": "0.1.0"
+}
