@@ -1,0 +1,4381 @@
+{
+  "key": "23-CLI",
+  "rows": [
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-actuador-motorizado-para-compuerta-hasta-0-20-m2",
+      "m": 4,
+      "p": 183.98,
+      "s": "ACTUADOR MOTORIZADO PARA COMPUERTA HASTA 0,20 m2",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-actuador-motorizado-rotativo-para-compuerta",
+      "m": 4,
+      "p": 297.93,
+      "s": "ACTUADOR MOTORIZADO ROTATIVO, PARA COMPUERTA",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-ampliacion-sist-de-gestion-centraliz-64-ud-interiores-vrf",
+      "m": 6,
+      "p": 814.05,
+      "s": "AMPLIACIÓN SIST. DE GESTIÓN CENTRALIZ. 64 UD. INTERIORES VRF",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bateria-de-calor-por-agua-caliente-de-20-000-kcal-h",
+      "m": 4,
+      "p": 519.87,
+      "s": "BATERÍA DE CALOR POR AGUA CALIENTE DE 20.000 Kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bateria-de-calor-por-agua-caliente-de-85-000-kcal-h",
+      "m": 4,
+      "p": 1124.14,
+      "s": "BATERÍA DE CALOR POR AGUA CALIENTE DE 85.000 Kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-bateria-de-calor-por-resistencia-electrica-de-15-kw",
+      "m": 4,
+      "p": 329.25,
+      "s": "BATERÍA DE CALOR POR RESISTENCIA ELÉCTRICA DE 15 kw",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-bateria-de-calor-por-resistencia-electrica-de-18-kw",
+      "m": 4,
+      "p": 446.95,
+      "s": "BATERÍA DE CALOR POR RESISTENCIA ELÉCTRICA DE 18 kw",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-bateria-de-calor-por-resistencia-electrica-de-6-kw",
+      "m": 4,
+      "p": 220.35,
+      "s": "BATERÍA DE CALOR POR RESISTENCIA ELÉCTRICA DE 6 kw",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-bateria-de-calor-por-resistencia-electrica-de-63-kw",
+      "m": 4,
+      "p": 1144.6,
+      "s": "BATERÍA DE CALOR POR RESISTENCIA ELÉCTRICA DE 63 kw",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bomba-calor-11500-frig-h-y-13000-kcal-h",
+      "m": 6,
+      "p": 6764.11,
+      "s": "BOMBA CALOR 11500 frig/h Y 13000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bomba-calor-22000-frig-h-y-25000-kcal-h",
+      "m": 6,
+      "p": 11345.38,
+      "s": "BOMBA CALOR 22000 frig/h Y 25000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bomba-calor-57000-frig-h-y-65000-kcal-h",
+      "m": 6,
+      "p": 23404.96,
+      "s": "BOMBA CALOR 57000 frig/h Y 65000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bomba-de-recirculacion-para-un-caudal-de-12-m3",
+      "m": 5,
+      "p": 981.57,
+      "s": "BOMBA DE RECIRCULACIÓN, PARA UN CAUDAL DE 12 m3",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bomba-de-recirculacion-para-un-caudal-de-18-m3",
+      "m": 5,
+      "p": 999.79,
+      "s": "BOMBA DE RECIRCULACIÓN, PARA UN CAUDAL DE 18 m3",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bomba-de-recirculacion-para-un-caudal-de-25-m3",
+      "m": 5,
+      "p": 1180.59,
+      "s": "BOMBA DE RECIRCULACIÓN, PARA UN CAUDAL DE 25 m3",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bomba-de-recirculacion-para-un-caudal-de-5-m3",
+      "m": 5,
+      "p": 474.57,
+      "s": "BOMBA DE RECIRCULACIÓN, PARA UN CAUDAL DE 5 m3",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bomba-recirculacion-12000-l-h-y-8-m-c-a",
+      "m": 5,
+      "p": 880.99,
+      "s": "BOMBA RECIRCULACIÓN 12000 l/h Y 8 m.c.a.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bomba-recirculacion-1250-l-h-y-2-5-m-c-a",
+      "m": 4,
+      "p": 178.49,
+      "s": "BOMBA RECIRCULACIÓN 1250 l/h Y 2,5 m.c.a.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bomba-recirculacion-20000-l-h-y-11-m-c-a",
+      "m": 5,
+      "p": 1111.81,
+      "s": "BOMBA RECIRCULACIÓN 20000 l/h Y 11 m.c.a.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bomba-recirculacion-3000-l-h-y-4-m-c-a",
+      "m": 4,
+      "p": 399.89,
+      "s": "BOMBA RECIRCULACIÓN 3000 l/h Y 4 m.c.a.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bomba-recirculacion-5000-l-h-y-5-m-c-a",
+      "m": 5,
+      "p": 512.8,
+      "s": "BOMBA RECIRCULACIÓN 5000 l/h Y 5 m.c.a.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bomba-recirculacion-6500-l-h-y-7-m-c-a",
+      "m": 5,
+      "p": 654.78,
+      "s": "BOMBA RECIRCULACIÓN 6500 l/h Y 7 m.c.a.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-caldera-combust-solido-100000-kcal-h",
+      "m": 5,
+      "p": 7926.27,
+      "s": "CALDERA COMBUST. SÓLIDO 100000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-caldera-combust-solido-25000-kcal-h",
+      "m": 5,
+      "p": 2473.16,
+      "s": "CALDERA COMBUST. SÓLIDO 25000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-caldera-mural-electrica-2150-a-12900-kcal-h",
+      "m": 5,
+      "p": 1659.28,
+      "s": "CALDERA MURAL ELÉCTRICA 2150 A 12900 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-caldera-mural-gas-10000-a-30000-kcal-h",
+      "m": 6,
+      "p": 1787.31,
+      "s": "CALDERA MURAL GAS 10000 A 30000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-caldera-mural-gas-6000-a-16000-kcal-h",
+      "m": 6,
+      "p": 1382.58,
+      "s": "CALDERA MURAL GAS 6000 A 16000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-caldera-mural-gas-mixta-acumulacion-6000-a-16000-kcal-h",
+      "m": 6,
+      "p": 1460.06,
+      "s": "CALDERA MURAL GAS MIXTA ACUMULACIÓN 6000 A 16000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-caldera-mural-gas-mixta-instantanea-10000-a-30000-kcal-h",
+      "m": 6,
+      "p": 2161.53,
+      "s": "CALDERA MURAL GAS MIXTA INSTANTÁNEA 10000 A 30000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-caldera-mural-gas-mixta-instantanea-6000-a-16000-kcal-h",
+      "m": 6,
+      "p": 1460.06,
+      "s": "CALDERA MURAL GAS MIXTA INSTANTÁNEA 6000 A 16000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-caldera-mural-mixta-electrica-4300-a-12900-kcal-h",
+      "m": 5,
+      "p": 1659.28,
+      "s": "CALDERA MURAL MIXTA ELÉCTRICA 4300 A 12900 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-caldera-pie-mixta-electrica-4300-a-12900-kcal-h",
+      "m": 5,
+      "p": 1770.41,
+      "s": "CALDERA PIE MIXTA ELÉCTRICA 4300 A 12900 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-calorif-coquilla-e-elast-caucho-vinilo-diam-22-mm-esp-9-mm",
+      "m": 3,
+      "p": 4.07,
+      "s": "CALORIF. COQUILLA E/ELAST. CAUCHO/VINILO DIÁM. 22 mm ESP. 9 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-calorif-coquilla-e-elast-caucho-vinilo-diam-48-mm-esp-13-mm",
+      "m": 3,
+      "p": 6.87,
+      "s": "CALORIF. COQUILLA E/ELAST. CAUCHO/VINILO DIÁM. 48 mm ESP. 13 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-calorif-coquilla-e-elast-caucho-vinilo-diam-60-mm-esp-19-mm",
+      "m": 3,
+      "p": 12.08,
+      "s": "CALORIF. COQUILLA E/ELAST. CAUCHO/VINILO DIÁM. 60 mm ESP. 19 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-calorif-coquilla-e-elast-caucho-vinilo-diam-76-mm-esp-19-mm",
+      "m": 3,
+      "p": 14.3,
+      "s": "CALORIF. COQUILLA E/ELAST. CAUCHO/VINILO DIÁM. 76 mm ESP. 19 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-calorif-coquilla-e-elast-polietileno-diam-28-mm-esp-20-mm",
+      "m": 3,
+      "p": 4.78,
+      "s": "CALORIF. COQUILLA E/ELAST. POLIETILENO DIAM 28 mm ESP. 20 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-calorif-coquilla-e-elast-polietileno-diam-48-mm-esp-30-mm",
+      "m": 3,
+      "p": 9.17,
+      "s": "CALORIF. COQUILLA E/ELAST.POLIETILENO DIÁM. 48 mm ESP. 30 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-calorif-coquilla-fibra-vidrio-diam-34-mm-esp-30-mm",
+      "m": 3,
+      "p": 8.58,
+      "s": "CALORIF. COQUILLA FIBRA VIDRIO DIÁM. 34 mm ESP. 30 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-calorif-coquilla-fibra-vidrio-diam-48-mm-esp-30-mm",
+      "m": 3,
+      "p": 9.94,
+      "s": "CALORIF. COQUILLA FIBRA VIDRIO DIÁM. 48 mm ESP. 30 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-calorif-coquilla-fibra-vidrio-diam-76-mm-esp-30-mm",
+      "m": 3,
+      "p": 10.15,
+      "s": "CALORIF. COQUILLA FIBRA VIDRIO DIÁM. 76 mm ESP. 30 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-calorif-coquilla-fibra-vidrio-diam-89-mm-esp-40-mm",
+      "m": 3,
+      "p": 11.73,
+      "s": "CALORIF. COQUILLA FIBRA VIDRIO DIÁM. 89 mm ESP. 40 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-calorif-ext-coq-e-elast-caucho-vinilo-diam-101-mm-esp-13-m",
+      "m": 4,
+      "p": 18.76,
+      "s": "CALORIF. EXT. COQ. E/ELAST. CAUCHO/VINILO DIÁM. 101 mm ESP. 13 m",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-calorif-ext-coq-e-elast-caucho-vinilo-diam-76-mm-esp-19-mm",
+      "m": 4,
+      "p": 17.66,
+      "s": "CALORIF. EXT. COQ. E/ELAST. CAUCHO/VINILO DIÁM. 76 mm ESP. 19 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-calorif-ext-coq-e-elast-caucho-vinilo-diam-89-mm-esp-13-mm",
+      "m": 4,
+      "p": 15.34,
+      "s": "CALORIF. EXT. COQ. E/ELAST. CAUCHO/VINILO DIÁM. 89 mm ESP. 13 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-calorif-ext-coq-e-elast-caucho-vinilo-diam-89-mm-esp-19-mm",
+      "m": 4,
+      "p": 19.77,
+      "s": "CALORIF. EXT. COQ. E/ELAST. CAUCHO/VINILO DIÁM. 89 mm ESP. 19 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-calorif-ext-coq-e-elast-polivinilo-diam-76-mm-esp-20-mm",
+      "m": 4,
+      "p": 13.22,
+      "s": "CALORIF. EXT. COQ. E/ELAST. POLIVINILO DIÁM. 76 mm ESP. 20 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-calorif-ext-coq-fibra-vidrio-diam-114-mm-esp-40-mm",
+      "m": 5,
+      "p": 25.32,
+      "s": "CALORIF. EXT. COQ. FIBRA VIDRIO DIÁM. 114 mm ESP. 40 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-calorif-ext-coq-fibra-vidrio-diam-114-mm-esp-60-mm",
+      "m": 5,
+      "p": 36.45,
+      "s": "CALORIF. EXT. COQ. FIBRA VIDRIO DIÁM. 114 mm ESP. 60 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-calorif-ext-coq-fibra-vidrio-diam-34-mm-esp-40-mm-alum",
+      "m": 5,
+      "p": 19.4,
+      "s": "CALORIF. EXT. COQ. FIBRA VIDRIO DIÁM. 34 mm ESP. 40 mm. ALUM.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-calorif-ext-coq-fibra-vidrio-diam-48-mm-esp-40-mm",
+      "m": 5,
+      "p": 21.04,
+      "s": "CALORIF. EXT. COQ. FIBRA VIDRIO DIÁM. 48 mm ESP. 40 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-calorif-ext-coq-fibra-vidrio-diam-76-mm-esp-50-mm",
+      "m": 5,
+      "p": 27.85,
+      "s": "CALORIF. EXT. COQ. FIBRA VIDRIO DIÁM. 76 mm ESP. 50 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canaliz-calorifugada-empotrada-cobre-diam-12-mm",
+      "m": 5,
+      "p": 16.87,
+      "s": "CANALIZ. CALORIFUGADA EMPOTRADA, COBRE DIÁM. 12 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canaliz-calorifugada-empotrada-cobre-diam-14-mm",
+      "m": 5,
+      "p": 20.95,
+      "s": "CANALIZ. CALORIFUGADA EMPOTRADA, COBRE DIÁM. 14 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canaliz-calorifugada-empotrada-cobre-diam-16-mm",
+      "m": 5,
+      "p": 23.04,
+      "s": "CANALIZ. CALORIFUGADA EMPOTRADA, COBRE DIÁM. 16 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-calorifugada-empotrada-cobre-diam-18-mm",
+      "m": 5,
+      "p": 27.13,
+      "s": "CANALIZ. CALORIFUGADA EMPOTRADA, COBRE DIÁM. 18 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canaliz-calorifugada-empotrada-cobre-diam-20-mm",
+      "m": 5,
+      "p": 21.18,
+      "s": "CANALIZ. CALORIFUGADA EMPOTRADA, COBRE DIÁM.20 mm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canaliz-calorifugada-empotrada-cobre-diam-25-mm",
+      "m": 5,
+      "p": 26.23,
+      "s": "CANALIZ. CALORIFUGADA EMPOTRADA, COBRE DIÁM.25 mm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canaliz-calorifugada-empotrada-cobre-diam-32-mm",
+      "m": 5,
+      "p": 31.28,
+      "s": "CANALIZ. CALORIFUGADA EMPOTRADA, COBRE DIÁM.32 mm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canaliz-calorifugada-empotrada-cobre-diam-40-mm",
+      "m": 5,
+      "p": 36.33,
+      "s": "CANALIZ. CALORIFUGADA EMPOTRADA, COBRE DIÁM.40 mm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canaliz-calorifugada-empotrada-cobre-diam-50-mm",
+      "m": 5,
+      "p": 46.43,
+      "s": "CANALIZ. CALORIFUGADA EMPOTRADA, COBRE DIÁM.50 mm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canaliz-calorifugada-empotrada-cobre-diam-63-mm",
+      "m": 5,
+      "p": 71.68,
+      "s": "CANALIZ. CALORIFUGADA EMPOTRADA, COBRE DIÁM.63 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-empotrada-ac-galvanizado-diam-1-2",
+      "m": 5,
+      "p": 13.51,
+      "s": "CANALIZ. EMPOTRADA AC. GALVANIZADO DIÁM. 1/2\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-empotrada-ac-galvanizado-diam-3-4",
+      "m": 5,
+      "p": 14.18,
+      "s": "CANALIZ. EMPOTRADA AC. GALVANIZADO DIÁM. 3/4\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-empotrada-ac-negro-elect-diam-1-2-roscadas",
+      "m": 5,
+      "p": 13.75,
+      "s": "CANALIZ. EMPOTRADA, AC. NEGRO ELECT. DIÁM. 1/2\", ROSCADAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-empotrada-ac-negro-elect-diam-1-roscadas",
+      "m": 5,
+      "p": 16.42,
+      "s": "CANALIZ. EMPOTRADA, AC. NEGRO ELECT. DIÁM. 1\", ROSCADAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-empotrada-ac-negro-elect-diam-3-4-roscadas",
+      "m": 5,
+      "p": 14.24,
+      "s": "CANALIZ. EMPOTRADA, AC. NEGRO ELECT. DIÁM. 3/4\", ROSCADAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-empotrada-ac-negro-elect-diam-3-8-roscadas",
+      "m": 5,
+      "p": 13.51,
+      "s": "CANALIZ. EMPOTRADA, AC. NEGRO ELECT. DIAM. 3/8\", ROSCADAS",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canaliz-empotrada-ac-negro-estir-diam-1-2-roscadas",
+      "m": 4,
+      "p": 12.1,
+      "s": "CANALIZ. EMPOTRADA, AC. NEGRO ESTIR. DIAM. 1/2\", ROSCADAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-empotrada-ac-negro-estir-diam-1-roscadas",
+      "m": 5,
+      "p": 17.8,
+      "s": "CANALIZ. EMPOTRADA, AC. NEGRO ESTIR. DIAM. 1\", ROSCADAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-empotrada-ac-negro-estir-diam-3-4-roscadas",
+      "m": 5,
+      "p": 15.33,
+      "s": "CANALIZ. EMPOTRADA, AC. NEGRO ESTIR. DIAM. 3/4\", ROSCADAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-empotrada-ac-negro-estir-diam-3-8-roscadas",
+      "m": 5,
+      "p": 14.36,
+      "s": "CANALIZ. EMPOTRADA, AC. NEGRO ESTIR. DIAM. 3/8\", ROSCADAS",
+      "u": "m"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-ext-2-tubos-12-7x28-6-aislam-prot-mec",
+      "m": 13,
+      "p": 123.1,
+      "s": "CANALIZ. FLUIDO FRIG. EXT. 2 TUBOS 12.7X28.6 AISLAM. PROT. MEC.",
+      "u": "m"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-ext-2-tubos-15-9x28-6-aislam-prot-mec",
+      "m": 13,
+      "p": 123.99,
+      "s": "CANALIZ. FLUIDO FRIG. EXT. 2 TUBOS 15.9X28.6 AISLAM. PROT. MEC.",
+      "u": "m"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-ext-2-tubos-9-5x19-1-aislam-prot-mec",
+      "m": 13,
+      "p": 95.75,
+      "s": "CANALIZ. FLUIDO FRIG. EXT. 2 TUBOS 9.5X19.1 AISLAM. PROT. MEC.",
+      "u": "m"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-ext-2-tubos-9-5x22-2-aislam-prot-mec",
+      "m": 13,
+      "p": 118.17,
+      "s": "CANALIZ. FLUIDO FRIG. EXT. 2 TUBOS 9.5X22.2 AISLAM. PROT. MEC.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-exterior-2-tubos-5-8-1-1-8",
+      "m": 9,
+      "p": 57.64,
+      "s": "CANALIZ. FLUIDO FRIG. EXTERIOR, 2 TUBOS 5/8\", 1 1/8\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-interior-2-tubos-1-2-1-1-8",
+      "m": 7,
+      "p": 49.62,
+      "s": "CANALIZ. FLUIDO FRIG. INTERIOR, 2 TUBOS 1/2\", 1 1/8\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-interior-2-tubos-1-2-7-8",
+      "m": 7,
+      "p": 37.6,
+      "s": "CANALIZ. FLUIDO FRIG. INTERIOR, 2 TUBOS 1/2\", 7/8\"",
+      "u": "m"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-interior-2-tubos-12-7x19-1-con-aislam",
+      "m": 10,
+      "p": 52.49,
+      "s": "CANALIZ. FLUIDO FRIG. INTERIOR, 2 TUBOS 12.7X19.1 CON AISLAM.",
+      "u": "m"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-interior-2-tubos-12-7x22-2-con-aislam",
+      "m": 10,
+      "p": 56.98,
+      "s": "CANALIZ. FLUIDO FRIG. INTERIOR, 2 TUBOS 12.7X22.2 CON AISLAM.",
+      "u": "m"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-interior-2-tubos-12-7x28-6-con-aislam",
+      "m": 10,
+      "p": 69,
+      "s": "CANALIZ. FLUIDO FRIG. INTERIOR, 2 TUBOS 12.7X28.6 CON AISLAM.",
+      "u": "m"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-interior-2-tubos-15-9x28-6-con-aislam",
+      "m": 10,
+      "p": 72.05,
+      "s": "CANALIZ. FLUIDO FRIG. INTERIOR, 2 TUBOS 15.9X28.6 CON AISLAM.",
+      "u": "m"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-interior-2-tubos-15-9x34-9-con-aislam",
+      "m": 10,
+      "p": 87.52,
+      "s": "CANALIZ. FLUIDO FRIG. INTERIOR, 2 TUBOS 15.9X34.9 CON AISLAM.",
+      "u": "m"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-interior-2-tubos-19-1x28-6-con-aislam",
+      "m": 10,
+      "p": 74.97,
+      "s": "CANALIZ. FLUIDO FRIG. INTERIOR, 2 TUBOS 19.1X28.6 CON AISLAM.",
+      "u": "m"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-interior-2-tubos-19-1x34-9-con-aislam",
+      "m": 10,
+      "p": 87.76,
+      "s": "CANALIZ. FLUIDO FRIG. INTERIOR, 2 TUBOS 19.1X34.9 CON AISLAM.",
+      "u": "m"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-interior-2-tubos-22-2x34-9-con-aislam",
+      "m": 10,
+      "p": 92.07,
+      "s": "CANALIZ. FLUIDO FRIG. INTERIOR, 2 TUBOS 22.2X34.9 CON AISLAM.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-interior-2-tubos-3-8-1-2",
+      "m": 7,
+      "p": 22.44,
+      "s": "CANALIZ. FLUIDO FRIG. INTERIOR, 2 TUBOS 3/8\", 1/2\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-interior-2-tubos-3-8-5-8",
+      "m": 7,
+      "p": 25.49,
+      "s": "CANALIZ. FLUIDO FRIG. INTERIOR, 2 TUBOS 3/8\", 5/8\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-interior-2-tubos-5-8-1-1-8",
+      "m": 7,
+      "p": 50.67,
+      "s": "CANALIZ. FLUIDO FRIG. INTERIOR, 2 TUBOS 5/8\", 1 1/8\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-interior-2-tubos-5-8-1-3-8",
+      "m": 7,
+      "p": 66.14,
+      "s": "CANALIZ. FLUIDO FRIG. INTERIOR, 2 TUBOS 5/8\", 1 3/8\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-interior-2-tubos-5-8-1-5-8",
+      "m": 7,
+      "p": 78.48,
+      "s": "CANALIZ. FLUIDO FRIG. INTERIOR, 2 TUBOS 5/8\", 1 5/8\"",
+      "u": "m"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-interior-2-tubos-6-4x12-7-con-aislam",
+      "m": 9,
+      "p": 40.15,
+      "s": "CANALIZ. FLUIDO FRIG. INTERIOR, 2 TUBOS 6.4X12.7 CON AISLAM.",
+      "u": "m"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-interior-2-tubos-9-5x15-9-con-aislam",
+      "m": 10,
+      "p": 45.78,
+      "s": "CANALIZ. FLUIDO FRIG. INTERIOR, 2 TUBOS 9.5X15.9 CON AISLAM.",
+      "u": "m"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-interior-2-tubos-9-5x19-1-con-aislam",
+      "m": 10,
+      "p": 51.21,
+      "s": "CANALIZ. FLUIDO FRIG. INTERIOR, 2 TUBOS 9.5X19.1 CON AISLAM.",
+      "u": "m"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-canaliz-fluido-frig-interior-2-tubos-9-5x22-2-con-aislam",
+      "m": 10,
+      "p": 55.52,
+      "s": "CANALIZ. FLUIDO FRIG. INTERIOR, 2 TUBOS 9.5X22.2 CON AISLAM.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-galvanizado-diam-1",
+      "m": 4,
+      "p": 15.72,
+      "s": "CANALIZ. SUPERFICIAL AC. GALVANIZADO DIÁM. 1\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-galvanizado-diam-1-1-2",
+      "m": 4,
+      "p": 20,
+      "s": "CANALIZ. SUPERFICIAL AC. GALVANIZADO DIÁM. 1 1/2\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-galvanizado-diam-2",
+      "m": 4,
+      "p": 22.3,
+      "s": "CANALIZ. SUPERFICIAL AC. GALVANIZADO DIÁM. 2\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-galvanizado-diam-2-1-2",
+      "m": 4,
+      "p": 27.84,
+      "s": "CANALIZ. SUPERFICIAL AC. GALVANIZADO DIÁM. 2 1/2\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-galvanizado-diam-3",
+      "m": 4,
+      "p": 35.7,
+      "s": "CANALIZ. SUPERFICIAL AC. GALVANIZADO DIÁM. 3\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-negro-diam-1-1-2-roscadas",
+      "m": 4,
+      "p": 22.33,
+      "s": "CANALIZ. SUPERFICIAL AC. NEGRO DIÁM. 1 1/2\" ROSCADAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-negro-diam-1-roscadas",
+      "m": 4,
+      "p": 16.92,
+      "s": "CANALIZ. SUPERFICIAL AC. NEGRO DIÁM. 1\" ROSCADAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-negro-diam-2-1-2-soldadas",
+      "m": 4,
+      "p": 39.3,
+      "s": "CANALIZ. SUPERFICIAL AC. NEGRO DIÁM. 2 1/2\" SOLDADAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-negro-diam-2-roscadas",
+      "m": 4,
+      "p": 23.7,
+      "s": "CANALIZ. SUPERFICIAL AC. NEGRO DIÁM. 2\" ROSCADAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-negro-diam-2-soldadas",
+      "m": 4,
+      "p": 32.54,
+      "s": "CANALIZ. SUPERFICIAL AC. NEGRO DIÁM. 2\" SOLDADAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-negro-elect-diam-1-1-2-roscada",
+      "m": 4,
+      "p": 20.16,
+      "s": "CANALIZ. SUPERFICIAL, AC. NEGRO ELECT. DIÁM. 1 1/2\", ROSCADA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-negro-elect-diam-1-roscadas",
+      "m": 4,
+      "p": 15.58,
+      "s": "CANALIZ. SUPERFICIAL, AC. NEGRO ELECT. DIÁM. 1\", ROSCADAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-negro-elect-diam-2-1-2-bridas",
+      "m": 4,
+      "p": 53.87,
+      "s": "CANALIZ. SUPERFICIAL, AC. NEGRO ELECT. DIÁM. 2 1/2\", BRIDAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-negro-elect-diam-2-1-2-soldada",
+      "m": 4,
+      "p": 38.16,
+      "s": "CANALIZ. SUPERFICIAL, AC. NEGRO ELECT. DIÁM. 2 1/2\", SOLDADA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-negro-elect-diam-2-bridas",
+      "m": 4,
+      "p": 47,
+      "s": "CANALIZ. SUPERFICIAL, AC. NEGRO ELECT. DIÁM. 2\", BRIDAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-negro-elect-diam-2-soldadas",
+      "m": 4,
+      "p": 31.28,
+      "s": "CANALIZ. SUPERFICIAL, AC. NEGRO ELECT. DIÁM. 2\", SOLDADAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-negro-estir-diam-1-1-2-roscada",
+      "m": 4,
+      "p": 22.39,
+      "s": "CANALIZ. SUPERFICIAL, AC. NEGRO ESTIR. DIÁM. 1 1/2\", ROSCADA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-negro-estir-diam-1-roscada",
+      "m": 4,
+      "p": 16.96,
+      "s": "CANALIZ. SUPERFICIAL, AC. NEGRO ESTIR. DIÁM. 1\", ROSCADA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-negro-estir-diam-2-1-2-bridas",
+      "m": 4,
+      "p": 55.1,
+      "s": "CANALIZ. SUPERFICIAL, AC. NEGRO ESTIR. DIÁM. 2 1/2\", BRIDAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-negro-estir-diam-2-1-2-soldada",
+      "m": 4,
+      "p": 39.39,
+      "s": "CANALIZ. SUPERFICIAL, AC. NEGRO ESTIR. DIÁM. 2 1/2\", SOLDADA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-negro-estir-diam-2-bridas",
+      "m": 4,
+      "p": 42.93,
+      "s": "CANALIZ. SUPERFICIAL, AC. NEGRO ESTIR. DIÁM. 2\", BRIDAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-negro-estir-diam-2-soldadas",
+      "m": 4,
+      "p": 32.61,
+      "s": "CANALIZ. SUPERFICIAL, AC. NEGRO ESTIR. DIÁM. 2\", SOLDADAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-negro-estir-diam-3-4-roscadas",
+      "m": 4,
+      "p": 15.68,
+      "s": "CANALIZ. SUPERFICIAL, AC. NEGRO ESTIR. DIÁM. 3/4\", ROSCADAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-negro-estir-diam-3-bridas",
+      "m": 4,
+      "p": 67.58,
+      "s": "CANALIZ. SUPERFICIAL, AC. NEGRO ESTIR. DIÁM. 3\", BRIDAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canaliz-superficial-ac-negro-estir-diam-4-bridas",
+      "m": 4,
+      "p": 84.71,
+      "s": "CANALIZ. SUPERFICIAL, AC. NEGRO ESTIR. DIÁM. 4\", BRIDAS",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canalizacion-desague-de-condensados-en-equip-climatizacion",
+      "m": 5,
+      "p": 14.57,
+      "s": "CANALIZACIÓN DESAGÜE DE CONDENSADOS EN EQUIP. CLIMATIZACIÓN",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canalizacion-superficial-acero-negro-de-1-1-2-dn-40-mm-solda",
+      "m": 10,
+      "p": 44.48,
+      "s": "CANALIZACIÓN SUPERFICIAL ACERO NEGRO DE 1 1/2\" DN 40 MM SOLDADAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canalizacion-superficial-acero-negro-de-1-1-4-dn-32-mm-solda",
+      "m": 10,
+      "p": 36.28,
+      "s": "CANALIZACIÓN SUPERFICIAL ACERO NEGRO DE 1 1/4\" DN 32 MM SOLDADAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canalizacion-superficial-acero-negro-de-1-2-dn-15-mm-soldada",
+      "m": 10,
+      "p": 26.93,
+      "s": "CANALIZACIÓN SUPERFICIAL ACERO NEGRO DE 1/2\" DN 15 MM SOLDADAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canalizacion-superficial-acero-negro-de-1-dn-25-mm-soldadas",
+      "m": 10,
+      "p": 30.2,
+      "s": "CANALIZACIÓN SUPERFICIAL ACERO NEGRO DE 1\" DN 25 MM SOLDADAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canalizacion-superficial-acero-negro-de-3-4-dn-20-mm-soldada",
+      "m": 10,
+      "p": 29.34,
+      "s": "CANALIZACIÓN SUPERFICIAL ACERO NEGRO DE 3/4\" DN 20 MM SOLDADAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canalizacion-superficial-acero-negro-de-3-8-dn-10-mm-soldada",
+      "m": 10,
+      "p": 25.87,
+      "s": "CANALIZACIÓN SUPERFICIAL ACERO NEGRO DE 3/8\" DN 10 MM SOLDADAS",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-central-de-control-proporcional-de-temperatura",
+      "m": 4,
+      "p": 269.23,
+      "s": "CENTRAL DE CONTROL PROPORCIONAL DE TEMPERATURA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-central-de-control-proporcional-integral-de-temperatura",
+      "m": 4,
+      "p": 312.16,
+      "s": "CENTRAL DE CONTROL PROPORCIONAL INTEGRAL DE TEMPERATURA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-central-de-trat-de-aire-150000-frig-h-o-120000-kcal-h",
+      "m": 10,
+      "p": 15430.18,
+      "s": "CENTRAL DE TRAT. DE AIRE, 150000 frig/h O 120000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-central-de-trat-de-aire-25000-frig-h-o-20000-kcal-h",
+      "m": 10,
+      "p": 3961.09,
+      "s": "CENTRAL DE TRAT. DE AIRE, 25000 frig/h O 20000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-central-de-trat-de-aire-70000-frig-h-o-50000-kcal-h",
+      "m": 10,
+      "p": 6304.22,
+      "s": "CENTRAL DE TRAT. DE AIRE, 70000 frig/h O 50000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-central-regulac-temperatura-agua-cal",
+      "m": 4,
+      "p": 235.89,
+      "s": "CENTRAL REGULAC. TEMPERATURA AGUA CAL.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-central-regulac-temperatura-agua-cal-con-reloj-program",
+      "m": 4,
+      "p": 519.2,
+      "s": "CENTRAL REGULAC. TEMPERATURA AGUA CAL. CON RELOJ PROGRAM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-chimenea-de-175-mm-diam-acero-inoxidable",
+      "m": 5,
+      "p": 133.96,
+      "s": "CHIMENEA DE 175 mm DIÁM. ACERO INOXIDABLE",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-chimenea-de-250-mm-diam-acero-inoxidable",
+      "m": 5,
+      "p": 172.23,
+      "s": "CHIMENEA DE 250 mm DIÁM. ACERO INOXIDABLE",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-chimenea-de-300-mm-diam-acero-inoxidable",
+      "m": 5,
+      "p": 195.27,
+      "s": "CHIMENEA DE 300 mm DIÁM. ACERO INOXIDABLE",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-chimenea-de-400-mm-diam-acero-inoxidable-y-aluminio",
+      "m": 5,
+      "p": 275.4,
+      "s": "CHIMENEA DE 400 mm DIÁM. ACERO INOXIDABLE Y ALUMINIO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-con-cinco-conductores-de-1-5-mm2",
+      "m": 6,
+      "p": 6.22,
+      "s": "CIRCUITO CON CINCO CONDUCTORES DE 1,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-con-cuatro-conductores-de-1-5-mm2",
+      "m": 6,
+      "p": 5.13,
+      "s": "CIRCUITO CON CUATRO CONDUCTORES DE 1,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-con-dos-conductores-de-1-5-mm2",
+      "m": 6,
+      "p": 3.99,
+      "s": "CIRCUITO CON DOS CONDUCTORES DE 1,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-con-tres-conductores-de-1-5-mm2",
+      "m": 6,
+      "p": 4.56,
+      "s": "CIRCUITO CON TRES CONDUCTORES DE 1,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-de-cinco-conductores-de-1-5-mm2",
+      "m": 6,
+      "p": 6.22,
+      "s": "CIRCUITO DE CINCO CONDUCTORES DE 1,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-de-cuatro-conductores-de-1-5-mm2",
+      "m": 6,
+      "p": 5.13,
+      "s": "CIRCUITO DE CUATRO CONDUCTORES DE 1,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-de-dos-conductores-de-1-5-mm2",
+      "m": 6,
+      "p": 3.99,
+      "s": "CIRCUITO DE DOS CONDUCTORES DE 1,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-de-seis-conductores-de-1-5-mm2",
+      "m": 6,
+      "p": 7.26,
+      "s": "CIRCUITO DE SEIS CONDUCTORES DE 1,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-de-siete-conductores-de-1-5-mm2",
+      "m": 6,
+      "p": 7.83,
+      "s": "CIRCUITO DE SIETE CONDUCTORES DE 1,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-de-tres-conductores-de-1-5-mm2",
+      "m": 6,
+      "p": 4.56,
+      "s": "CIRCUITO DE TRES CONDUCTORES DE 1,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-monofasico-con-cinco-conductores-de-1-5-mm2",
+      "m": 5,
+      "p": 4.14,
+      "s": "CIRCUITO MONOFÁSICO, CON CINCO CONDUCTORES DE 1,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-monofasico-con-cuatro-conductores-de-1-5-mm2",
+      "m": 6,
+      "p": 6.42,
+      "s": "CIRCUITO MONOFÁSICO, CON CUATRO CONDUCTORES DE 1,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-monofasico-con-dos-conductores-de-1-5-mm2",
+      "m": 6,
+      "p": 5.28,
+      "s": "CIRCUITO MONOFÁSICO, CON DOS CONDUCTORES DE 1,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-monofasico-con-tres-conductores-de-1-5-mm2",
+      "m": 6,
+      "p": 5.85,
+      "s": "CIRCUITO MONOFÁSICO, CON TRES CONDUCTORES DE 1,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-monofasico-de-cinco-conductores-de-1-5-mm2",
+      "m": 6,
+      "p": 4.71,
+      "s": "CIRCUITO MONOFÁSICO DE CINCO CONDUCTORES DE 1,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-monofasico-de-cuatro-conductores-de-1-5-mm2",
+      "m": 6,
+      "p": 6.42,
+      "s": "CIRCUITO MONOFÁSICO DE CUATRO CONDUCTORES DE 1,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-monofasico-de-dos-conductores-de-1-5-mm2",
+      "m": 6,
+      "p": 5.28,
+      "s": "CIRCUITO MONOFÁSICO DE DOS CONDUCTORES DE 1,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-monofasico-de-tres-conductores-de-1-5-mm2",
+      "m": 6,
+      "p": 5.85,
+      "s": "CIRCUITO MONOFÁSICO DE TRES CONDUCTORES DE 1,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-climatizador-evaporativo-sistema-directo-para-caudal-de-aire",
+      "m": 5,
+      "p": 3691.86,
+      "s": "CLIMATIZADOR EVAPORATIVO, SISTEMA DIRECTO, PARA CAUDAL DE AIRE 9,000 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-climatizador-evaporativo-sistema-directo-para-caudal-de-aire-177f",
+      "m": 5,
+      "p": 4721.69,
+      "s": "CLIMATIZADOR EVAPORATIVO, SISTEMA DIRECTO, PARA CAUDAL DE AIRE 18,000 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-climatizador-evaporativo-sistema-directo-para-caudal-de-aire-63bc",
+      "m": 5,
+      "p": 4422.86,
+      "s": "CLIMATIZADOR EVAPORATIVO, SISTEMA DIRECTO, PARA CAUDAL DE AIRE 15,000 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-climatizador-evaporativo-sistema-directo-para-caudal-de-aire-df81",
+      "m": 5,
+      "p": 4172.86,
+      "s": "CLIMATIZADOR EVAPORATIVO, SISTEMA DIRECTO, PARA CAUDAL DE AIRE 12,000 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-compuerta-cortafuegos-600x300mm",
+      "m": 5,
+      "p": 253.79,
+      "s": "COMPUERTA CORTAFUEGOS 600x300MM",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-compuerta-cortafuegos-700x300mm",
+      "m": 5,
+      "p": 258.46,
+      "s": "COMPUERTA CORTAFUEGOS 700x300MM",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-compuerta-cortafuegos-800x300mm",
+      "m": 5,
+      "p": 266.56,
+      "s": "COMPUERTA CORTAFUEGOS 800x300MM",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-compuerta-cortafuegos-900x300mm",
+      "m": 5,
+      "p": 271.23,
+      "s": "COMPUERTA CORTAFUEGOS 900x300MM",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-compuerta-de-sobrepresion-de-300x300-mm",
+      "m": 4,
+      "p": 67.82,
+      "s": "COMPUERTA DE SOBREPRESIÓN DE 300X300 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-compuerta-reg-caudal-de-aire-300x400-mm",
+      "m": 5,
+      "p": 123.41,
+      "s": "COMPUERTA REG. CAUDAL DE AIRE, 300X400 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-compuerta-reg-de-caudal-para-difusor-circ-150-mm",
+      "m": 2,
+      "p": 5.84,
+      "s": "COMPUERTA REG. DE CAUDAL PARA DIFUSOR CIRC. 150 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-compuerta-reg-de-caudal-para-difusor-cuadrad-225-mm",
+      "m": 2,
+      "p": 6.64,
+      "s": "COMPUERTA REG. DE CAUDAL PARA DIFUSOR CUADRAD. 225 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-compuerta-reg-de-caudal-para-rejilla-250x150-mm",
+      "m": 2,
+      "p": 21.34,
+      "s": "COMPUERTA REG. DE CAUDAL PARA REJILLA 250X150 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-compuerta-reg-de-caudal-para-rejilla-500x250-mm",
+      "m": 2,
+      "p": 43.55,
+      "s": "COMPUERTA REG. DE CAUDAL PARA REJILLA 500X250 mm",
+      "u": "u"
+    },
+    {
+      "d": "2022-02",
+      "g": [],
+      "id": "wi-compuerta-reg-de-caudal-para-rejilla-600x200-mm",
+      "m": 2,
+      "p": 56.72,
+      "s": "COMPUERTA REG. DE CAUDAL PARA REJILLA 600X200 mm",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-cond-rectang-distr-aire-ac-galv-0-8mm-l-0-9m-aislado",
+      "m": 7,
+      "p": 74.9,
+      "s": "COND. RECTANG. DISTR. AIRE AC. GALV. 0,8mm L < 0,9m AISLADO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-condens-bomba-calor-17500-frig-h-y-19500-kcal-h",
+      "m": 8,
+      "p": 8358.53,
+      "s": "CONDENS. BOMBA CALOR 17500 frig/h Y 19500 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-condens-bomba-calor-28000-frig-h-y-32000-kcal-h",
+      "m": 8,
+      "p": 10978.57,
+      "s": "CONDENS. BOMBA CALOR 28000 frig/h Y 32000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-condens-bomba-calor-67000-frig-h-y-75000-kcal-h",
+      "m": 8,
+      "p": 22110.52,
+      "s": "CONDENS. BOMBA CALOR 67000 frig/h Y 75000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-condensist-sist-partido-horiz-14500-frig-h",
+      "m": 8,
+      "p": 5894.72,
+      "s": "CONDENSIST. SIST. PARTIDO HORIZ. 14500 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-condensist-sist-partido-horiz-14500-frig-h-con-bat-y-ventt",
+      "m": 7,
+      "p": 4271.04,
+      "s": "CONDENSIST. SIST. PARTIDO HORIZ. 14500 frig/h CON BAT. Y VENTT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-condensist-sist-partido-horiz-35000-frig-h",
+      "m": 8,
+      "p": 11376.24,
+      "s": "CONDENSIST. SIST. PARTIDO HORIZ. 35000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-condensist-sist-partido-horiz-565000-frig-h",
+      "m": 8,
+      "p": 15134.66,
+      "s": "CONDENSIST. SIST. PARTIDO HORIZ. 565000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-condensist-sist-partido-horiz-9000-frig-h",
+      "m": 8,
+      "p": 4553.49,
+      "s": "CONDENSIST. SIST. PARTIDO HORIZ. 9000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-condensist-sist-partido-horiz-9000-frig-h-con-bat-y-vent",
+      "m": 7,
+      "p": 3258.27,
+      "s": "CONDENSIST. SIST. PARTIDO HORIZ. 9000 frig/h CON BAT. Y VENT.",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-conducto-circular-aislado-102-mm",
+      "m": 7,
+      "p": 22.66,
+      "s": "CONDUCTO CIRCULAR AISLADO 102 MM",
+      "u": "m"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-conducto-circular-aislado-152-mm",
+      "m": 7,
+      "p": 23.25,
+      "s": "CONDUCTO CIRCULAR AISLADO 152 MM",
+      "u": "m"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-conducto-circular-aislado-203-mm",
+      "m": 7,
+      "p": 23.99,
+      "s": "CONDUCTO CIRCULAR AISLADO 203 MM",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-conducto-circular-aislado-250-mm",
+      "m": 4,
+      "p": 13.61,
+      "s": "CONDUCTO CIRCULAR AISLADO 250 mm",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-conducto-circular-aislado-305-mm",
+      "m": 7,
+      "p": 41.29,
+      "s": "CONDUCTO CIRCULAR AISLADO 305 MM",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-conducto-rectang-distr-aire-ac-galv-0-6-mm-l-max-0-45-m",
+      "m": 7,
+      "p": 48.44,
+      "s": "CONDUCTO RECTANG. DISTR. AIRE AC. GALV. 0,6 mm L. MÁX. 0,45 m",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-conducto-rectang-distr-aire-ac-galv-0-8-mm-l-max-0-9-m",
+      "m": 7,
+      "p": 49.03,
+      "s": "CONDUCTO RECTANG. DISTR. AIRE AC. GALV. 0,8 mm L. MÁX. 0,9 m",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-conducto-rectang-distr-aire-ac-galv-0-8-mm-l-max-1-3-m",
+      "m": 7,
+      "p": 50.03,
+      "s": "CONDUCTO RECTANG. DISTR. AIRE AC. GALV. 0,8 mm L. MÁX. 1,3 m",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-conducto-rectang-distr-aire-ac-galv-1-0-mm-l-max-1-3-m",
+      "m": 7,
+      "p": 56.72,
+      "s": "CONDUCTO RECTANG. DISTR. AIRE AC. GALV. 1,0 mm L. MÁX. 1,3 m",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-conducto-rectang-distr-aire-ac-galv-1-0-mm-l-max-2-m",
+      "m": 7,
+      "p": 62.36,
+      "s": "CONDUCTO RECTANG. DISTR. AIRE AC. GALV. 1,0 mm L. MÁX. 2 m",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-conducto-rectang-distr-aire-ac-galv-1-2-mm-l-max-2-m",
+      "m": 7,
+      "p": 64.19,
+      "s": "CONDUCTO RECTANG. DISTR. AIRE AC. GALV. 1,2 mm L. MÁX. 2 m",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-conducto-rectang-distr-aire-fibra-de-vidrio",
+      "m": 6,
+      "p": 31.39,
+      "s": "CONDUCTO RECTANG. DISTR. AIRE FIBRA DE VIDRIO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-control-remoto-con-cable-para-unidades-interiores-vrf",
+      "m": 6,
+      "p": 804.76,
+      "s": "CONTROL REMOTO CON CABLE PARA UNIDADES INTERIORES VRF",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cuadro-mando-y-control-ventiloc-con-interrup-y-termost",
+      "m": 4,
+      "p": 62.17,
+      "s": "CUADRO MANDO Y CONTROL VENTILOC. CON INTERRUP. Y TERMOST.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cuadro-mando-y-control-ventiloc-con-inversor-y-termost",
+      "m": 4,
+      "p": 68.58,
+      "s": "CUADRO MANDO Y CONTROL VENTILOC. CON INVERSOR Y TERMOST.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cuadro-mando-y-control-ventiloc-con-termostato",
+      "m": 4,
+      "p": 109.94,
+      "s": "CUADRO MANDO Y CONTROL VENTILOC. CON TERMOSTATO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-deposito-acumulador-para-agua-caliente-sanitaria-100-l",
+      "m": 6,
+      "p": 784.75,
+      "s": "DEPÓSITO ACUMULADOR PARA AGUA CALIENTE SANITARIA 100 l",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-desague-de-condensados-para-equipos-de-climatizacion",
+      "m": 5,
+      "p": 145.72,
+      "s": "DESAGÜE DE CONDENSADOS PARA EQUIPOS DE CLIMATIZACIÓN",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-difusor-circular-150-mm-diam-con-puente-de-ac-y-n-reg",
+      "m": 5,
+      "p": 50.84,
+      "s": "DIFUSOR CIRCULAR 150 mm DIÁM. CON PUENTE DE AC. Y N. REG",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-difusor-circular-150-mm-diam-con-puente-de-acero",
+      "m": 5,
+      "p": 37,
+      "s": "DIFUSOR CIRCULAR 150 mm DIÁM. CON PUENTE DE ACERO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-difusor-circular-150-mm-diam-con-tornillos",
+      "m": 3,
+      "p": 29.48,
+      "s": "DIFUSOR CIRCULAR 150 mm DIÁM. CON TORNILLOS",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-difusor-circular-200-mm-diam-con-puente-de-acero",
+      "m": 5,
+      "p": 40.52,
+      "s": "DIFUSOR CIRCULAR 200 mm DIÁM. CON PUENTE DE ACERO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-difusor-circular-250-mm-diam-con-puente-de-acero",
+      "m": 5,
+      "p": 49.74,
+      "s": "DIFUSOR CIRCULAR 250 mm DIÁM. CON PUENTE DE ACERO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-difusor-circular-250-mm-diam-con-puente-de-acero-regulab",
+      "m": 5,
+      "p": 147.7,
+      "s": "DIFUSOR CIRCULAR 250 mm DIÁM. CON PUENTE DE ACERO REGULAB.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-difusor-circular-250-mm-diam-con-tornillos",
+      "m": 3,
+      "p": 41.97,
+      "s": "DIFUSOR CIRCULAR 250 mm DIÁM. CON TORNILLOS",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-difusor-cuadrado-150x150-mm-con-puente-de-acero",
+      "m": 5,
+      "p": 46.83,
+      "s": "DIFUSOR CUADRADO 150X150 mm CON PUENTE DE ACERO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-difusor-cuadrado-150x150-mm-con-tornillos",
+      "m": 3,
+      "p": 39.31,
+      "s": "DIFUSOR CUADRADO 150X150 mm CON TORNILLOS",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-difusor-cuadrado-225x225-mm-con-puente-de-acero",
+      "m": 5,
+      "p": 59.52,
+      "s": "DIFUSOR CUADRADO 225X225 mm CON PUENTE DE ACERO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-difusor-cuadrado-300x300-mm-con-fuente-de-acero",
+      "m": 5,
+      "p": 72.63,
+      "s": "DIFUSOR CUADRADO 300X300 mm CON FUENTE DE ACERO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-difusor-lineal-de-2-vias-y-50-cm-de-longitud",
+      "m": 6,
+      "p": 80.26,
+      "s": "DIFUSOR LINEAL DE 2 VIAS Y 50 cm DE LONGITUD",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-difusor-lineal-de-3-vias-y-100-cm-de-longitud",
+      "m": 6,
+      "p": 156.68,
+      "s": "DIFUSOR LINEAL DE 3 VIAS Y 100 cm DE LONGITUD",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-difusor-rotacional-400-600-plenum-conex-cond-circular",
+      "m": 4,
+      "p": 56.28,
+      "s": "DIFUSOR ROTACIONAL 400/600 PLENUM CONEX. COND. CIRCULAR",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-difusor-rotacional-600-500-plenum-conex-cond-circular",
+      "m": 4,
+      "p": 76.17,
+      "s": "DIFUSOR ROTACIONAL 600/500 PLENUM CONEX. COND. CIRCULAR",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-difusor-rotacional-600-600-plenum-conex-cond-circular",
+      "m": 4,
+      "p": 80.17,
+      "s": "DIFUSOR ROTACIONAL 600/600 PLENUM CONEX. COND. CIRCULAR",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-emboc-cond-fibra-vidrio-a-unidad-condens-o-evapor-lona",
+      "m": 6,
+      "p": 99.08,
+      "s": "EMBOC. COND. FIBRA VIDRIO A UNIDAD CONDENS. O EVAPOR. LONA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-emboc-cond-fibra-vidrio-a-unidad-condens-o-evapor-malla",
+      "m": 5,
+      "p": 26.46,
+      "s": "EMBOC. COND. FIBRA VIDRIO A UNIDAD CONDENS.O EVAPOR. MALLA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-emboc-cond-metalico-a-unidad-condens-o-evapor",
+      "m": 6,
+      "p": 157.9,
+      "s": "EMBOC. COND. METALICO A UNIDAD CONDENS. O EVAPOR",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-emboc-difusor-circular-a-cond-metalico-rectangular",
+      "m": 5,
+      "p": 32.33,
+      "s": "EMBOC. DIFUSOR CIRCULAR A COND. METÁLICO RECTANGULAR",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-emboc-difusor-o-rejilla-a-cond-fibra-vidrio",
+      "m": 5,
+      "p": 18.19,
+      "s": "EMBOC. DIFUSOR O REJILLA A COND. FIBRA VIDRIO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enfriadora-de-agua-condens-por-agua-137000-frig-h",
+      "m": 6,
+      "p": 52332.2,
+      "s": "ENFRIADORA DE AGUA, CONDENS. POR AGUA, 137000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enfriadora-de-agua-condens-por-agua-160000-frig-h",
+      "m": 6,
+      "p": 63471.38,
+      "s": "ENFRIADORA DE AGUA, CONDENS. POR AGUA, 160000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enfriadora-de-agua-condens-por-agua-31000-frig-h",
+      "m": 6,
+      "p": 19172.52,
+      "s": "ENFRIADORA DE AGUA, CONDENS. POR AGUA, 31000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enfriadora-de-agua-condens-por-agua-62500-frig-h",
+      "m": 6,
+      "p": 43098.49,
+      "s": "ENFRIADORA DE AGUA, CONDENS. POR AGUA, 62500 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enfriadora-de-agua-condens-por-agua-93000-frig-h",
+      "m": 6,
+      "p": 45961.95,
+      "s": "ENFRIADORA DE AGUA, CONDENS. POR AGUA, 93000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enfriadora-de-agua-condens-por-aire-11600-frig-h",
+      "m": 6,
+      "p": 56653.17,
+      "s": "ENFRIADORA DE AGUA, CONDENS. POR AIRE 11600 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enfriadora-de-agua-condens-por-aire-142000-frig-h",
+      "m": 6,
+      "p": 62920.2,
+      "s": "ENFRIADORA DE AGUA, CONDENS.POR AIRE 142000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enfriadora-de-agua-condens-por-aire-16500-frig-h",
+      "m": 6,
+      "p": 14754.96,
+      "s": "ENFRIADORA DE AGUA, CONDENS. POR AIRE 16500 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enfriadora-de-agua-condens-por-aire-52000-frig-h",
+      "m": 6,
+      "p": 28123.31,
+      "s": "ENFRIADORA DE AGUA, CONDENS. POR AIRE 52000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enfriadora-de-agua-condens-por-aire-80000-frig-h",
+      "m": 6,
+      "p": 50311.59,
+      "s": "ENFRIADORA DE AGUA, CONDENS. POR AIRE 80000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-acond-aire-c-hor-enfr-por-aire-21000-frig-h",
+      "m": 6,
+      "p": 9599.65,
+      "s": "EQUIPO ACOND. AIRE, C. HOR. ENFR. POR AIRE 21000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-acond-aire-c-hor-enfr-por-aire-29000-frig-h",
+      "m": 6,
+      "p": 12059.68,
+      "s": "EQUIPO ACOND. AIRE, C. HOR. ENFR. POR AIRE 29000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-acond-aire-c-hor-enfr-por-aire-43000-frig-h",
+      "m": 6,
+      "p": 17872.8,
+      "s": "EQUIPO ACOND. AIRE, C. HOR. ENFR. POR AIRE 43000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-acond-aire-c-hor-enfr-por-aire-66000-frig-h",
+      "m": 6,
+      "p": 22959.15,
+      "s": "EQUIPO ACOND. AIRE, C. HOR. ENFR. POR AIRE 66000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-acond-aire-c-vert-enfr-por-agua-24000-frig-h",
+      "m": 7,
+      "p": 9182.52,
+      "s": "EQUIPO ACOND. AIRE, C. VERT. ENFR. POR AGUA 24000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-acond-aire-c-vert-enfr-por-agua-48000-frig-h",
+      "m": 7,
+      "p": 16729.76,
+      "s": "EQUIPO ACOND. AIRE, C. VERT. ENFR. POR AGUA 48000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-acond-aire-c-vert-enfr-por-agua-70000-frig-h",
+      "m": 7,
+      "p": 19406.58,
+      "s": "EQUIPO ACOND. AIRE, C. VERT. ENFR. POR AGUA 70000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-control-temp-ambiente-s-valvula-20-mm",
+      "m": 6,
+      "p": 354.43,
+      "s": "EQUIPO CONTROL TEMP. AMBIENTE S/VÁLVULA 20 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-control-temp-ambiente-s-valvula-25-mm",
+      "m": 7,
+      "p": 596.71,
+      "s": "EQUIPO CONTROL TEMP. AMBIENTE S/VÁLVULA 25 mm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-equipo-de-aire-acondicionado-sistema-aire-aire-split-1x1-2-k",
+      "m": 8,
+      "p": 1484.6,
+      "s": "EQUIPO DE AIRE ACONDICIONADO, SISTEMA AIRE-AIRE SPLIT 1X1 2 KW",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-equipo-de-aire-acondicionado-sistema-aire-aire-split-1x1-7-1",
+      "m": 11,
+      "p": 3009.43,
+      "s": "EQUIPO DE AIRE ACONDICIONADO, SISTEMA AIRE-AIRE SPLIT 1X1 7,1 KW",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-equipo-de-aire-acondicionado-sistema-aire-aire-split-1x1-9-k",
+      "m": 11,
+      "p": 3392.2,
+      "s": "EQUIPO DE AIRE ACONDICIONADO, SISTEMA AIRE-AIRE SPLIT 1X1 9 KW",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-equipo-de-aire-acondicionado-sistema-aire-aire-split-1x1-gas",
+      "m": 8,
+      "p": 582.55,
+      "s": "EQUIPO DE AIRE ACONDICIONADO, SISTEMA AIRE-AIRE SPLIT 1x1, GAS R-32, Frío SEER 7.3 A++ / Calor SCOP 4.4 A+",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-equipo-de-aire-acondicionado-sistema-aire-aire-split-1x1-gas-eacf",
+      "m": 8,
+      "p": 582.55,
+      "s": "EQUIPO DE AIRE ACONDICIONADO, SISTEMA AIRE-AIRE SPLIT 1x1, GAS R-32, Frío SEER 7.3 A++ / Calor SCOP 4.4 A+",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-produc-calor-gas-cal-fundicion-130000-kcal-h",
+      "m": 7,
+      "p": 12923.22,
+      "s": "EQUIPO PRODUC. CALOR GAS CAL. FUNDICIÓN 130000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-produc-calor-gas-cal-fundicion-40000-kcal-h",
+      "m": 6,
+      "p": 6449.22,
+      "s": "EQUIPO PRODUC. CALOR GAS CAL. FUNDICIÓN 40000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-produc-calor-gas-cal-presuriz-100000-kcal-h",
+      "m": 7,
+      "p": 10679.9,
+      "s": "EQUIPO PRODUC. CALOR GAS CAL. PRESURIZ. 100000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-produc-calor-gasoleo-cal-fundicion-100000-kcal-h",
+      "m": 6,
+      "p": 8919.77,
+      "s": "EQUIPO PRODUC. CALOR GASÓLEO CAL. FUNDICIÓN 100000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-produc-calor-gasoleo-cal-fundicion-300000-kcal-h",
+      "m": 6,
+      "p": 13813.25,
+      "s": "EQUIPO PRODUC. CALOR GASÓLEO CAL. FUNDICIÓN 300000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-produc-calor-gasoleo-cal-fundicion-60-000-kcal-h",
+      "m": 6,
+      "p": 6458.05,
+      "s": "EQUIPO PRODUC. CALOR GASÓLEO CAL. FUNDICIÓN 60.000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-produc-calor-gasoleo-cal-presuriz-100000-kcal-h",
+      "m": 6,
+      "p": 6810.61,
+      "s": "EQUIPO PRODUC. CALOR GASÓLEO CAL. PRESURIZ. 100000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-produc-calor-gasoleo-cal-presuriz-200000-kcal-h",
+      "m": 6,
+      "p": 7879.78,
+      "s": "EQUIPO PRODUC. CALOR GASÓLEO CAL. PRESURIZ. 200000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-produc-calor-gasoleo-cal-presuriz-500000-kcal-h",
+      "m": 6,
+      "p": 15075.66,
+      "s": "EQUIPO PRODUC. CALOR GASÓLEO CAL. PRESURIZ. 500000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-regulac-temp-agua-s-quemador-r-programador",
+      "m": 6,
+      "p": 688.76,
+      "s": "EQUIPO REGULAC. TEMP. AGUA S/QUEMADOR R. PROGRAMADOR",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-regulac-temp-agua-s-valvula-25-mm-compens-contr",
+      "m": 8,
+      "p": 889.19,
+      "s": "EQUIPO REGULAC. TEMP. AGUA S/VÁLVULA 25 mm COMPENS. CONTR.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-regulac-temp-agua-s-valvula-25mm-s-temp-amb",
+      "m": 8,
+      "p": 906.39,
+      "s": "EQUIPO REGULAC. TEMP. AGUA S/VÁLVULA 25mm S. TEMP. AMB.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-regulac-temp-agua-s-valvula-40-mm-compens-contr",
+      "m": 8,
+      "p": 901.75,
+      "s": "EQUIPO REGULAC. TEMP. AGUA S/VÁLVULA 40 mm COMPENS. CONTR.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-regulac-temp-agua-s-valvula-40-mm-r-programador",
+      "m": 8,
+      "p": 1029.73,
+      "s": "EQUIPO REGULAC. TEMP. AGUA S/VÁLVULA 40 mm R. PROGRAMADOR",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-regulac-temp-agua-s-valvula-65-mm-r-programador",
+      "m": 8,
+      "p": 1199.74,
+      "s": "EQUIPO REGULAC. TEMP. AGUA S/VÁLVULA 65 mm R. PROGRAMADOR",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-evapor-exp-directa-horizont-11000-frig-h-c-2700-m3-h",
+      "m": 7,
+      "p": 3168.61,
+      "s": "EVAPOR. EXP. DIRECTA HORIZONT. 11000 frig/h C. 2700 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-evapor-exp-directa-horizont-6500-frig-h-c-1300-m3-h",
+      "m": 7,
+      "p": 20671.72,
+      "s": "EVAPOR. EXP. DIRECTA HORIZONT. 6500 frig/h C. 1300 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-evapor-exp-directa-horizont-6500-frig-h-c-1600-m3-h",
+      "m": 7,
+      "p": 2812.4,
+      "s": "EVAPOR. EXP. DIRECTA HORIZONT. 6500 frig/h C. 1600 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-evapor-exp-directa-vertical-21000-frig-h-c-5100-m3-h",
+      "m": 7,
+      "p": 6874.71,
+      "s": "EVAPOR. EXP. DIRECTA VERTICAL 21000 frig/h. C. 5100 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-evapor-exp-directa-vertical-9000-frig-h-c-2100-m3-h",
+      "m": 7,
+      "p": 3037.8,
+      "s": "EVAPOR. EXP. DIRECTA VERTICAL 9000 frig/h C. 2100 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-evapora-bomba-calor-17500-frig-h-y-19500-kcal7h-bat-y-vent",
+      "m": 7,
+      "p": 7523.63,
+      "s": "EVAPORA. BOMBA CALOR 17500 frig/h Y 19500 kcal7h BAT. Y VENT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-evapora-bomba-calor-28000-frig-h-y-32000-kcal7h-bat-y-vent",
+      "m": 7,
+      "p": 10633.22,
+      "s": "EVAPORA. BOMBA CALOR 28000 frig/h Y 32000 kcal7h BAT. Y VENT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-evapora-bomba-calor-67000-frig-h-y-75000-kcal7h-bat-y-vent",
+      "m": 7,
+      "p": 18020.21,
+      "s": "EVAPORA. BOMBA CALOR 67000 frig/h Y 75000 kcal7h BAT. Y VENT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-evapora-exp-directa-bomba-calor-11500-frig-h-13000-kcal-h",
+      "m": 7,
+      "p": 4056.84,
+      "s": "EVAPORA. EXP. DIRECTA BOMBA CALOR 11500 frig/h 13000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-evapora-exp-directa-bomba-calor-13000-frig-h-14700-kcal-h",
+      "m": 7,
+      "p": 3907.97,
+      "s": "EVAPORA. EXP. DIRECTA BOMBA CALOR 13000 frig/h 14700 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-evapora-exp-directa-bomba-calor-7000-frig-h-7800-kcal-h",
+      "m": 7,
+      "p": 2667.66,
+      "s": "EVAPORA. EXP. DIRECTA BOMBA CALOR 7000 frig/h 7800 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-evaporadora-s-partido-vertical-35000-frig-h",
+      "m": 7,
+      "p": 8567.83,
+      "s": "EVAPORADORA S. PARTIDO VERTICAL 35000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-evaporadora-s-partido-vertical-56000-frig-h",
+      "m": 7,
+      "p": 12560.69,
+      "s": "EVAPORADORA S. PARTIDO VERTICAL 56000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-fancoil-4-42kw-apartamento",
+      "m": 5,
+      "p": 468.93,
+      "s": "FANCOIL 4.42KW APARTAMENTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-fancoil-cassette-8-3-kw",
+      "m": 5,
+      "p": 1187.14,
+      "s": "FANCOIL CASSETTE 8.3 KW",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-filtro-de-cestilla-para-filtracion-de-aguas",
+      "m": 6,
+      "p": 315.05,
+      "s": "FILTRO DE CESTILLA PARA FILTRACIÓN DE AGUAS",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-grifo-de-boca-roscada-de-15-mm-3-4-diam",
+      "m": 4,
+      "p": 21.77,
+      "s": "GRIFO DE BOCA ROSCADA DE 15 mm (3/4\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-humidostato-ambiente-para-montaje-superficial",
+      "m": 4,
+      "p": 118.68,
+      "s": "HUMIDOSTATO AMBIENTE, PARA MONTAJE SUPERFICIAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-humidostato-ambiente-para-montaje-superficial-dd2b",
+      "m": 4,
+      "p": 118.68,
+      "s": "HUMIDOSTATO AMBIENTE, PARA MONTAJE SUPERFICIAL",
+      "u": "u"
+    },
+    {
+      "d": "2016-11",
+      "g": [],
+      "id": "wi-instalacion-canal-ocultacion-canaliz-climatizacion-fachada",
+      "m": 6,
+      "p": 10.38,
+      "s": "INSTALACIÓN CANAL OCULTACIÓN CANALIZ. CLIMATIZACIÓN FACHADA",
+      "u": "m"
+    },
+    {
+      "d": "2016-11",
+      "g": [],
+      "id": "wi-instalacion-canal-ocultacion-canaliz-climatizacion-fachada-9e1a",
+      "m": 6,
+      "p": 10.38,
+      "s": "INSTALACIÓN CANAL OCULTACIÓN CANALIZ. CLIMATIZACIÓN FACHADA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-intercambiador-calor-para-caudal-1-m3-h",
+      "m": 6,
+      "p": 517.63,
+      "s": "INTERCAMBIADOR CALOR PARA CAUDAL 1 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-intercambiador-calor-para-caudal-10-m3-h",
+      "m": 6,
+      "p": 2784.74,
+      "s": "INTERCAMBIADOR CALOR PARA CAUDAL 10 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-intercambiador-calor-para-caudal-2-m3-h",
+      "m": 6,
+      "p": 765.47,
+      "s": "INTERCAMBIADOR CALOR PARA CAUDAL 2 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-intercambiador-calor-para-caudal-3-m3-h",
+      "m": 6,
+      "p": 1017.78,
+      "s": "INTERCAMBIADOR CALOR PARA CAUDAL 3 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-intercambiador-calor-para-caudal-4-m3-h",
+      "m": 6,
+      "p": 1398.37,
+      "s": "INTERCAMBIADOR CALOR PARA CAUDAL 4 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-intercambiador-calor-para-caudal-6-m3-h",
+      "m": 6,
+      "p": 1787.6,
+      "s": "INTERCAMBIADOR CALOR PARA CAUDAL 6 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-intercambiador-calor-para-caudal-8-m3-h",
+      "m": 6,
+      "p": 2374.98,
+      "s": "INTERCAMBIADOR CALOR PARA CAUDAL 8 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-interface-bacnet-hasta-64-ud-interiores-vrf",
+      "m": 6,
+      "p": 6481.22,
+      "s": "INTERFACE BACNET HASTA 64 UD. INTERIORES VRF",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-del-caudal",
+      "m": 4,
+      "p": 128.89,
+      "s": "INTERRUPTOR AUTOMÁTICO DEL CAUDAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-del-caudal-para-cond-de-aire",
+      "m": 4,
+      "p": 88.47,
+      "s": "INTERRUPTOR AUTOMÁTICO DEL CAUDAL, PARA COND. DE AIRE",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-del-caudal-para-tuberias",
+      "m": 4,
+      "p": 139.32,
+      "s": "INTERRUPTOR AUTOMÁTICO DEL CAUDAL, PARA TUBERÍAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-linea-frigorifica-doble-realizada-tuberia-flexible-cobre-1-4",
+      "m": 6,
+      "p": 22.67,
+      "s": "LÍNEA FRIGORÍFICA DOBLE REALIZADA TUBERÍA FLEXIBLE COBRE 1/4+5/8",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-linea-frigorifica-doble-realizada-tuberia-flexible-corre-1-4",
+      "m": 6,
+      "p": 20.87,
+      "s": "LÍNEA FRIGORÍFICA DOBLE REALIZADA TUBERÍA FLEXIBLE CORRE 1/4+3/8",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-manometro-de-esfera-con-escala-de-0-a-6-kg-m2",
+      "m": 4,
+      "p": 29.9,
+      "s": "MANÓMETRO DE ESFERA, CON ESCALA DE 0 A 6 kg/m2",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-motocondens-bomba-calor-11500-frig-h-13000-kcal-h",
+      "m": 8,
+      "p": 6380.11,
+      "s": "MOTOCONDENS. BOMBA CALOR 11500 frig/h 13000 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-motocondens-bomba-calor-13000-frig-h-14700-kcal-h",
+      "m": 8,
+      "p": 6010.98,
+      "s": "MOTOCONDENS. BOMBA CALOR 13000 frig/h 14700 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-motocondens-bomba-calor-7000-frig-h-7800-kcal-h",
+      "m": 8,
+      "p": 5310.74,
+      "s": "MOTOCONDENS. BOMBA CALOR 7000 frig/h 7800 kcal/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-motocondensadora-enf-por-agua-10000-frig-h",
+      "m": 9,
+      "p": 4611.83,
+      "s": "MOTOCONDENSADORA ENF. POR AGUA 10000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-motocondensadora-enf-por-agua-22500-frig-h",
+      "m": 9,
+      "p": 7741.83,
+      "s": "MOTOCONDENSADORA ENF.POR AGUA 22500 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-motocondensadora-enf-por-aire-11000-frig-h",
+      "m": 8,
+      "p": 5274.39,
+      "s": "MOTOCONDENSADORA ENF. POR AIRE 11000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-motocondensadora-enf-por-aire-axial-9000-frig-h",
+      "m": 8,
+      "p": 3942.07,
+      "s": "MOTOCONDENSADORA ENF. POR AIRE, AXIAL, 9000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-motocondensadora-enf-por-aire-horizont-6500-frig-h",
+      "m": 8,
+      "p": 3679.98,
+      "s": "MOTOCONDENSADORA ENF. POR AIRE, HORIZONT, 6500 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-panel-doble-con-convector-doble-de-chapa-de-acero-600x1050x1",
+      "m": 10,
+      "p": 255.13,
+      "s": "PANEL DOBLE CON CONVECTOR DOBLE, DE CHAPA DE ACERO, 600X1050X100",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-panel-doble-con-convector-doble-de-chapa-de-acero-600x1200x1",
+      "m": 10,
+      "p": 278.02,
+      "s": "PANEL DOBLE CON CONVECTOR DOBLE, DE CHAPA DE ACERO, 600X1200X100",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-panel-doble-con-convector-doble-de-chapa-de-acero-600x1350x1",
+      "m": 10,
+      "p": 297.43,
+      "s": "PANEL DOBLE CON CONVECTOR DOBLE, DE CHAPA DE ACERO, 600X1350X100",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-panel-doble-con-convector-doble-de-chapa-de-acero-600x600x10",
+      "m": 10,
+      "p": 211.97,
+      "s": "PANEL DOBLE CON CONVECTOR DOBLE, DE CHAPA DE ACERO, 600X600X100",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-panel-doble-con-convector-doble-de-chapa-de-acero-600x900x10",
+      "m": 10,
+      "p": 234.83,
+      "s": "PANEL DOBLE CON CONVECTOR DOBLE, DE CHAPA DE ACERO, 600X900X100",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-persiana-de-toma-de-aire-exterior-de-300x300-mm",
+      "m": 4,
+      "p": 74.57,
+      "s": "PERSIANA DE TOMA DE AIRE EXTERIOR DE 300X300 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-plenum-de-aspiracion-80x30-cm",
+      "m": 3,
+      "p": 109.01,
+      "s": "PLENUM DE ASPIRACIÓN 80x30 cm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-plenum-de-aspiracion-ventiloc-apartam-12000-frig-h",
+      "m": 3,
+      "p": 98.21,
+      "s": "PLENUM DE ASPIRACIÓN VENTILOC. APARTAM. 12000 Frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-plenum-de-aspiracion-ventiloc-apartam-15000-frig-h",
+      "m": 3,
+      "p": 104.04,
+      "s": "PLENUM DE ASPIRACIÓN VENTILOC. APARTAM. 15000 Frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-plenum-de-aspiracion-ventiloc-apartam-18000-frig-h",
+      "m": 3,
+      "p": 110.6,
+      "s": "PLENUM DE ASPIRACIÓN VENTILOC. APARTAM. 18000 Frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-plenum-de-aspiracion-ventiloc-apartam-9000-frig-h",
+      "m": 3,
+      "p": 91.54,
+      "s": "PLENUM DE ASPIRACIÓN VENTILOC. APARTAM. 9000 Frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-plenum-de-impulsion-directa-100x60-cm",
+      "m": 4,
+      "p": 341.95,
+      "s": "PLENUM DE IMPULSIÓN DIRECTA 100x60 cm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-plenum-de-impulsion-directa-70x50-cm",
+      "m": 3,
+      "p": 153.42,
+      "s": "PLENUM DE IMPULSIÓN DIRECTA 70x50 cm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-purgador-automatico-aire-10-bars-con-valvula-cierre",
+      "m": 4,
+      "p": 22.27,
+      "s": "PURGADOR AUTOMÁTICO AIRE, 10 BARS. CÓN VÁLVULA CIERRE",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-purgador-automatico-de-aire",
+      "m": 4,
+      "p": 14.52,
+      "s": "PURGADOR AUTOMÁTICO DE AIRE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-purgador-automatico-de-aire-con-boya-y-rosca-de-1-2-de-diame",
+      "m": 7,
+      "p": 15.08,
+      "s": "PURGADOR AUTOMÁTICO DE AIRE CON BOYA Y ROSCA DE 1/2\" DE DIÁMETRO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-chapa-acero-pintado-10-elem-2-col-75-cm-alt",
+      "m": 7,
+      "p": 159.55,
+      "s": "RADIADOR CHAPA ACERO PINTADO 10 ELEM. 2 COL. 75 cm ALT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-chapa-acero-pintado-15-elem-2-col-45-cm-alt",
+      "m": 7,
+      "p": 175.08,
+      "s": "RADIADOR CHAPA ACERO PINTADO 15 ELEM. 2 COL. 45 cm ALT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-chapa-acero-pintado-20-elem-3-col-30-cm-alt",
+      "m": 7,
+      "p": 223.88,
+      "s": "RADIADOR CHAPA ACERO PINTADO 20 ELEM. 3 COL. 30 cm ALT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-chapa-acero-pintado-20-elem-3-col-60-cm-alt",
+      "m": 7,
+      "p": 256.01,
+      "s": "RADIADOR CHAPA ACERO PINTADO 20 ELEM. 3 COL. 60 cm ALT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-convector-alum-inyectado-10-elem-de-590-mm-alt",
+      "m": 7,
+      "p": 260.71,
+      "s": "RADIADOR CONVECTOR ALUM. INYECTADO 10 ELEM. DE 590 mm ALT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-convector-alum-inyectado-12-elem-de-690-mm-alt",
+      "m": 7,
+      "p": 353.85,
+      "s": "RADIADOR CONVECTOR ALUM. INYECTADO 12 ELEM. DE 690 mm ALT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-convector-alum-inyectado-15-elem-de-430-mm-alt",
+      "m": 7,
+      "p": 322.71,
+      "s": "RADIADOR CONVECTOR ALUM. INYECTADO 15 ELEM. DE 430 mm ALT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-convector-alum-inyectado-4-elem-de-590-mm-alt",
+      "m": 7,
+      "p": 147.92,
+      "s": "RADIADOR CONVECTOR ALUM. INYECTADO 4 ELEM. DE 590 mm ALT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-convector-alum-inyectado-5-elem-de-690-mm-alt",
+      "m": 7,
+      "p": 185,
+      "s": "RADIADOR CONVECTOR ALUM. INYECTADO 5 ELEM. DE 690 mm ALT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-convector-alum-inyectado-6-elem-de-430-mm-alt",
+      "m": 7,
+      "p": 167.87,
+      "s": "RADIADOR CONVECTOR ALUM. INYECTADO 6 ELEM. DE 430 mm ALT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-hierro-fundido-pintado-10-elem-2-col-60-cm-alt",
+      "m": 7,
+      "p": 243.04,
+      "s": "RADIADOR HIERRO FUNDIDO PINTADO 10 ELEM. 2 COL. 60 cm ALT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-hierro-fundido-pintado-10-elem-2-col-70-cm-alt",
+      "m": 7,
+      "p": 258.74,
+      "s": "RADIADOR HIERRO FUNDIDO PINTADO 10 ELEM. 2 COL. 70 cm ALT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-hierro-fundido-pintado-10-elem-4-col-70-cm-alt",
+      "m": 7,
+      "p": 321.54,
+      "s": "RADIADOR HIERRO FUNDIDO PINTADO 10 ELEM. 4 COL. 70 cm ALT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-hierro-fundido-pintado-15-elem-4-col-70-cm-alt",
+      "m": 7,
+      "p": 447.06,
+      "s": "RADIADOR HIERRO FUNDIDO PINTADO 15 ELEM. 4 COL. 70 cm ALT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-hierro-fundido-pintado-20-elem-2-col-45-cm-alt",
+      "m": 7,
+      "p": 369.39,
+      "s": "RADIADOR HIERRO FUNDIDO PINTADO 20 ELEM. 2 COL. 45 cm ALT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-hierro-fundido-pintado-20-elem-2-col-60-cm-alt",
+      "m": 7,
+      "p": 413.59,
+      "s": "RADIADOR HIERRO FUNDIDO PINTADO 20 ELEM. 2 COL. 60 cm ALT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-hierro-fundido-pintado-20-elem-2-col-70-cm-alt",
+      "m": 7,
+      "p": 445.61,
+      "s": "RADIADOR HIERRO FUNDIDO PINTADO 20 ELEM. 2 COL. 70 cm ALT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-hierro-fundido-pintado-20-elem-4-col-30-cm-alt",
+      "m": 7,
+      "p": 344.59,
+      "s": "RADIADOR HIERRO FUNDIDO PINTADO 20 ELEM. 4 COL. 30 cm ALT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-hierro-fundido-pintado-20-elem-4-col-45-cm-alt",
+      "m": 7,
+      "p": 431.19,
+      "s": "RADIADOR HIERRO FUNDIDO PINTADO 20 ELEM. 4 COL. 45 cm ALT.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-panel-doble-chapa-acero-llave-2-vias",
+      "m": 9,
+      "p": 332.38,
+      "s": "RADIADOR PANEL DOBLE CHAPA ACERO LLAVE 2 VÍAS",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-panel-doble-chapa-acero-llave-4-vias",
+      "m": 9,
+      "p": 339.58,
+      "s": "RADIADOR PANEL DOBLE CHAPA ACERO LLAVE 4 VÍAS",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-panel-simple-chapa-acero-convect-llave-2-vias",
+      "m": 9,
+      "p": 201.46,
+      "s": "RADIADOR PANEL SIMPLE CHAPA ACERO CONVECT. LLAVE 2 VÍAS",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-panel-simple-chapa-acero-convect-llave-4-vias",
+      "m": 9,
+      "p": 204.64,
+      "s": "RADIADOR PANEL SIMPLE CHAPA ACERO CONVECT. LLAVE 4 VÍAS",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-panel-simple-chapa-acero-pintado-llave-2-vias",
+      "m": 9,
+      "p": 147.77,
+      "s": "RADIADOR PANEL SIMPLE CHAPA ACERO PINTADO LLAVE 2 VÍAS",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-radiador-panel-simple-chapa-acero-pintado-llave-4-vias",
+      "m": 9,
+      "p": 152.63,
+      "s": "RADIADOR PANEL SIMPLE CHAPA ACERO PINTADO LLAVE 4 VÍAS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-recubrimiento-de-aluminio-10",
+      "m": 5,
+      "p": 149.94,
+      "s": "RECUBRIMIENTO DE ALUMINIO 10\"",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-recubrimiento-de-aluminio-3",
+      "m": 5,
+      "p": 60.58,
+      "s": "RECUBRIMIENTO DE ALUMINIO 3\"",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-recubrimiento-de-aluminio-4",
+      "m": 5,
+      "p": 61.64,
+      "s": "RECUBRIMIENTO DE ALUMINIO 4\"",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-recubrimiento-de-aluminio-5",
+      "m": 5,
+      "p": 64.82,
+      "s": "RECUBRIMIENTO DE ALUMINIO 5\"",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-recubrimiento-de-aluminio-6",
+      "m": 5,
+      "p": 66.94,
+      "s": "RECUBRIMIENTO DE ALUMINIO 6\"",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-recubrimiento-de-aluminio-8",
+      "m": 5,
+      "p": 139.34,
+      "s": "RECUBRIMIENTO DE ALUMINIO 8\"",
+      "u": "m"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-regulador-de-caudal-constante-circular-160-mm",
+      "m": 5,
+      "p": 79.92,
+      "s": "REGULADOR DE CAUDAL CONSTANTE CIRCULAR 160 MM",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-regulador-de-caudal-constante-circular-200-mm",
+      "m": 5,
+      "p": 82.8,
+      "s": "REGULADOR DE CAUDAL CONSTANTE CIRCULAR 200 MM",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-regulador-de-caudal-constante-circular-250-mm",
+      "m": 5,
+      "p": 90.17,
+      "s": "REGULADOR DE CAUDAL CONSTANTE CIRCULAR 250 MM",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-regulador-de-caudal-variable-motorizado-200x100-mm",
+      "m": 5,
+      "p": 181.43,
+      "s": "REGULADOR DE CAUDAL VARIABLE MOTORIZADO 200X100 mm",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-regulador-de-caudal-variable-motorizado-300x100-mm",
+      "m": 5,
+      "p": 185.05,
+      "s": "REGULADOR DE CAUDAL VARIABLE MOTORIZADO 300X100 mm",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-regulador-de-caudal-variable-motorizado-300x200-mm",
+      "m": 5,
+      "p": 190.52,
+      "s": "REGULADOR DE CAUDAL VARIABLE MOTORIZADO 300X200 mm",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-regulador-de-caudal-variable-motorizado-circular-125-mm",
+      "m": 5,
+      "p": 164.41,
+      "s": "REGULADOR DE CAUDAL VARIABLE MOTORIZADO CIRCULAR 125 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rejilla-impulsion-o-retorno-250x150-mm-doble-deflexion",
+      "m": 5,
+      "p": 44.23,
+      "s": "REJILLA IMPULSIÓN O RETORNO 250X150 mm DOBLE DEFLEXION",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rejilla-impulsion-o-retorno-250x150-mm-l-horizontales",
+      "m": 5,
+      "p": 34.29,
+      "s": "REJILLA IMPULSIÓN O RETORNO 250X150 mm L. HORIZONTALES",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rejilla-impulsion-o-retorno-250x150-mm-l-verticales",
+      "m": 5,
+      "p": 37.33,
+      "s": "REJILLA IMPULSIÓN O RETORNO 250X150 mm L. VERTICALES",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rejilla-impulsion-o-retorno-350x200-mm-l-horizontales",
+      "m": 5,
+      "p": 41.08,
+      "s": "REJILLA IMPULSIÓN O RETORNO 350X200 mm L. HORIZONTALES",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-rejilla-impulsion-o-retorno-400x200-mm-lamas-verticales",
+      "m": 5,
+      "p": 52.02,
+      "s": "REJILLA IMPULSIÓN O RETORNO 400X200 mm LAMAS VERTICALES",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rejilla-impulsion-o-retorno-500x250-mm-l-horizontales",
+      "m": 5,
+      "p": 54.56,
+      "s": "REJILLA IMPULSIÓN O RETORNO 500X250 mm L. HORIZONTALES",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-rejilla-impulsion-o-retorno-600x200-mm-doble-deflexion",
+      "m": 5,
+      "p": 75.69,
+      "s": "REJILLA IMPULSIÓN O RETORNO 600X200 mm DOBLE DEFLEXIÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-rejilla-impulsion-o-retorno-600x200-mm-lamas-verticales",
+      "m": 5,
+      "p": 51.95,
+      "s": "REJILLA IMPULSIÓN O RETORNO 600X200 mm LAMAS VERTICALES",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rejilla-retorno-250x150-mm-l-horizont-inclinad-45",
+      "m": 5,
+      "p": 21.97,
+      "s": "REJILLA RETORNO 250X150 mm L. HORIZONT. INCLINAD. 45º",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rejilla-retorno-250x150-mm-l-horizontales-en-v",
+      "m": 5,
+      "p": 37.14,
+      "s": "REJILLA RETORNO 250X150 mm L. HORIZONTALES EN V",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rejilla-retorno-250x150-mm-reticula",
+      "m": 5,
+      "p": 34.72,
+      "s": "REJILLA RETORNO 250X150 mm RETICULA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-rejilla-retorno-900x400-en-pared-lamas-horizontales",
+      "m": 5,
+      "p": 90.7,
+      "s": "REJILLA RETORNO 900X400 EN PARED LAMAS HORIZONTALES",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-reposicion-maquina-exterior-exp-directa-sist-partido",
+      "m": 4,
+      "p": 132.82,
+      "s": "REPOSICIÓN MÁQUINA EXTERIOR EXP. DIRECTA. SIST. PARTIDO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-separador-centrifugo-de-aire-50-mm-2-diam",
+      "m": 5,
+      "p": 121.95,
+      "s": "SEPARADOR CENTRÍFUGO DE AIRE 50 mm (2\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-silenciador-para-2-modulos-de-500x1200x675-mm",
+      "m": 4,
+      "p": 721.32,
+      "s": "SILENCIADOR PARA 2 MÓDULOS DE 500x1200x675 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-silenciador-para-2-modulos-de-500x1200x900-mm",
+      "m": 4,
+      "p": 870.92,
+      "s": "SILENCIADOR PARA 2 MÓDULOS DE 500x1200x900 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-silenciador-para-3-modulos-de-700x1200x900-mm",
+      "m": 4,
+      "p": 1072.97,
+      "s": "SILENCIADOR PARA 3 MÓDULOS DE 700x1200x900 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-silenciador-para-4-modulos-de-1000x1200x1050-mm",
+      "m": 4,
+      "p": 1345.61,
+      "s": "SILENCIADOR PARA 4 MÓDULOS DE 1000x1200x1050 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-silenciador-para-4-modulos-de-1000x1200x825-mm",
+      "m": 4,
+      "p": 1253.73,
+      "s": "SILENCIADOR PARA 4 MÓDULOS DE 1000x1200x825 mm",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-sitema-de-gestion-centralizada-hasta-64-ud-interiores-vrf",
+      "m": 6,
+      "p": 2287.94,
+      "s": "SITEMA DE GESTION CENTRALIZADA HASTA 64 UD. INTERIORES VRF",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-sonda-activa-de-ambiente-con-selector-de-temperatura",
+      "m": 4,
+      "p": 69.81,
+      "s": "SONDA ACTIVA DE AMBIENTE, CON SELECTOR DE TEMPERATURA",
+      "u": "u"
+    },
+    {
+      "d": "2016-12",
+      "g": [],
+      "id": "wi-soporte-estandar-aparato-climatizacion-50x50-cm",
+      "m": 4,
+      "p": 17.79,
+      "s": "SOPORTE ESTANDAR APARATO CLIMATIZACIÓN 50X50 cm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-termohidrometro-con-escala-hasta-120g",
+      "m": 4,
+      "p": 120.75,
+      "s": "TERMOHIDRÓMETRO, CON ESCALA HASTA 120G",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-termometro-de-esfera-con-escala-hasta-120g",
+      "m": 4,
+      "p": 90.83,
+      "s": "TERMÓMETRO DE ESFERA, CON ESCALA HASTA 120G",
+      "u": "u"
+    },
+    {
+      "d": "2022-02",
+      "g": [],
+      "id": "wi-termostato-ambiente",
+      "m": 2,
+      "p": 88.29,
+      "s": "TERMOSTATO AMBIENTE",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-termostato-ambiente-1-etapa-frio-calor-y-paro",
+      "m": 4,
+      "p": 79.81,
+      "s": "TERMOSTATO AMBIENTE, 1 ETAPA, FRIO, CALOR Y PARO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-termostato-ambiente-2-etapas-frio-calor-y-paro",
+      "m": 4,
+      "p": 93.82,
+      "s": "TERMOSTATO AMBIENTE, 2 ETAPAS, FRIO, CALOR Y PARO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-termostato-ambiente-frio-o-calor-1-etapa",
+      "m": 4,
+      "p": 61.19,
+      "s": "TERMOSTATO AMBIENTE, FRIO O CALOR, 1 ETAPA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-termostato-ambiente-frio-o-calor-2-etapas",
+      "m": 4,
+      "p": 88.87,
+      "s": "TERMOSTATO AMBIENTE, FRIO O CALOR, 2 ETAPAS",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-termostato-ambiente-frio-o-calor-dos-etapas",
+      "m": 4,
+      "p": 88.87,
+      "s": "TERMOSTATO AMBIENTE, FRIO O CALOR, DOS ETAPAS",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-termostato-ambiente-frio-o-calor-una-etapa",
+      "m": 4,
+      "p": 61.19,
+      "s": "TERMOSTATO AMBIENTE, FRIO O CALOR, UNA ETAPA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-termostato-de-contacto-regulacion-hasta-100g",
+      "m": 4,
+      "p": 97.91,
+      "s": "TERMOSTATO DE CONTACTO, REGULACIÓN HASTA 100G",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-termostato-de-inmersion-regulacion-hasta-100g",
+      "m": 4,
+      "p": 105.11,
+      "s": "TERMOSTATO DE INMERSIÓN, REGULACIÓN HASTA 100G",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-torre-enfriamiento-de-agua-c-cerrado-caudal-24-m3-h",
+      "m": 6,
+      "p": 16075.82,
+      "s": "TORRE ENFRIAMIENTO DE AGUA, C. CERRADO, CAUDAL 24 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-torre-enfriamiento-de-agua-c-cerrado-caudal-40-m3-h",
+      "m": 6,
+      "p": 23557.54,
+      "s": "TORRE ENFRIAMIENTO DE AGUA, C. CERRADO, CAUDAL 40 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-torre-enfriamiento-de-agua-c-cerrado-caudal-64-m3-h",
+      "m": 6,
+      "p": 34121.11,
+      "s": "TORRE ENFRIAMIENTO DE AGUA, C. CERRADO, CAUDAL 64 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-torre-enfriamiento-de-agua-para-caudal-20-m3-h",
+      "m": 6,
+      "p": 4833.99,
+      "s": "TORRE ENFRIAMIENTO DE AGUA, PARA CAUDAL 20 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-torre-enfriamiento-de-agua-para-caudal-25-m3-h",
+      "m": 6,
+      "p": 5453.42,
+      "s": "TORRE ENFRIAMIENTO DE AGUA, PARA CAUDAL 25 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-torre-enfriamiento-de-agua-para-caudal-37-m3-h",
+      "m": 6,
+      "p": 8384.2,
+      "s": "TORRE ENFRIAMIENTO DE AGUA, PARA CAUDAL 37 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-torre-enfriamiento-de-agua-para-caudal-50-m3-h",
+      "m": 6,
+      "p": 8545.78,
+      "s": "TORRE ENFRIAMIENTO DE AGUA, PARA CAUDAL 50 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-torre-enfriamiento-de-agua-para-caudal-6-5-m3-h",
+      "m": 6,
+      "p": 3719.27,
+      "s": "TORRE ENFRIAMIENTO DE AGUA, PARA CAUDAL 6,5 m3/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tramo-con-compuerta-de-registro-de-70-cm-en-chimenea-de-175",
+      "m": 4,
+      "p": 86.95,
+      "s": "TRAMO CON COMPUERTA DE REGISTRO DE 70 cm EN CHIMENEA DE 175 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tramo-con-compuerta-de-registro-de-90-cm-en-chimenea-de-400",
+      "m": 4,
+      "p": 130.57,
+      "s": "TRAMO CON COMPUERTA DE REGISTRO DE 90 cm EN CHIMENEA DE 400 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tramo-de-toma-de-muestras-de-70-cm-en-chimenea-de-175-mm",
+      "m": 4,
+      "p": 183.72,
+      "s": "TRAMO DE TOMA DE MUESTRAS DE 70 cm EN CHIMENEA DE 175 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tramo-de-toma-de-muestras-de-90-cm-en-chimenea-de-400-mm",
+      "m": 4,
+      "p": 290.95,
+      "s": "TRAMO DE TOMA DE MUESTRAS DE 90 cm EN CHIMENEA DE 400 mm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-tuberia-de-ppr-25-mm",
+      "m": 5,
+      "p": 14.98,
+      "s": "TUBERIA DE PPR 25 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-tuberia-de-ppr-40-mm",
+      "m": 5,
+      "p": 18.04,
+      "s": "TUBERIA DE PPR 40 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-tuberia-de-ppr-50-mm",
+      "m": 5,
+      "p": 32.05,
+      "s": "TUBERIA DE PPR 50 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-tuberia-de-ppr-63-mm",
+      "m": 5,
+      "p": 33.85,
+      "s": "TUBERIA DE PPR 63 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-tuberia-de-ppr-75-mm",
+      "m": 5,
+      "p": 37.37,
+      "s": "TUBERIA DE PPR 75 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-tuberia-de-ppr-90-mm",
+      "m": 5,
+      "p": 59.17,
+      "s": "TUBERIA DE PPR 90 mm",
+      "u": "m"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-unidad-condesadora-vrf-para-climatizador-de-bateria-36kw-en",
+      "m": 6,
+      "p": 3718.01,
+      "s": "UNIDAD CONDESADORA VRF PARA CLIMATIZADOR DE BATERÍA 36kW EN UTA",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-unidad-condesadora-vrf-para-climatizador-de-bateria-44kw-en",
+      "m": 6,
+      "p": 4901.01,
+      "s": "UNIDAD CONDESADORA VRF PARA CLIMATIZADOR DE BATERÍA 44kW EN UTA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-unidad-exterior-vrf-aire-aire-bomba-de-calor-14-0kw-16-0kw",
+      "m": 7,
+      "p": 12353.02,
+      "s": "UNIDAD EXTERIOR VRF AIRE-AIRE BOMBA DE CALOR 14,0kW/16,0kW",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-unidad-exterior-vrf-aire-aire-bomba-de-calor-22-4kw-25-0kw",
+      "m": 7,
+      "p": 16886.35,
+      "s": "UNIDAD EXTERIOR VRF AIRE-AIRE BOMBA DE CALOR 22,4kW/25,0kW",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-unidad-exterior-vrf-aire-aire-bomba-de-calor-28-0kw-31-5kw",
+      "m": 7,
+      "p": 18170.79,
+      "s": "UNIDAD EXTERIOR VRF AIRE-AIRE BOMBA DE CALOR 28,0kW/31,5kW",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-unidad-exterior-vrf-aire-aire-bomba-de-calor-33-5kw-37-5kw",
+      "m": 7,
+      "p": 22855.23,
+      "s": "UNIDAD EXTERIOR VRF AIRE-AIRE BOMBA DE CALOR 33,5kW/37,5kW",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-unidad-exterior-vrf-aire-aire-bomba-de-calor-40-0kw-45-0kw",
+      "m": 7,
+      "p": 25953.01,
+      "s": "UNIDAD EXTERIOR VRF AIRE-AIRE BOMBA DE CALOR 40,0kW/45,0kW",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-unidad-exterior-vrf-aire-aire-bomba-de-calor-45-0kw-50-0kw",
+      "m": 7,
+      "p": 16591.35,
+      "s": "UNIDAD EXTERIOR VRF AIRE-AIRE BOMBA DE CALOR 45,0kW/50,0kW",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-unidad-int-conductos-vrf-inverter-bomba-de-calor-11-2kw-12-5",
+      "m": 7,
+      "p": 3320.71,
+      "s": "UNIDAD INT. CONDUCTOS VRF INVERTER BOMBA DE CALOR 11,2kW/12,5kW",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-unidad-int-conductos-vrf-inverter-bomba-de-calor-14-0kw-16-0",
+      "m": 7,
+      "p": 2006.75,
+      "s": "UNIDAD INT. CONDUCTOS VRF INVERTER BOMBA DE CALOR 14,0kW/16,0kW",
+      "u": "u"
+    },
+    {
+      "d": "2016-02",
+      "g": [],
+      "id": "wi-unidad-int-conductos-vrf-inverter-bomba-de-calor-16-0kw-18-0",
+      "m": 7,
+      "p": 2183.27,
+      "s": "UNIDAD INT. CONDUCTOS VRF INVERTER BOMBA DE CALOR 16,0kW/18,0kW",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-unidad-int-conductos-vrf-inverter-bomba-de-calor-4-5kw-5-0kw",
+      "m": 7,
+      "p": 2550.05,
+      "s": "UNIDAD INT. CONDUCTOS VRF INVERTER BOMBA DE CALOR 4,5kW/5,0kW",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-unidad-int-conductos-vrf-inverter-bomba-de-calor-5-6kw-6-3kw",
+      "m": 7,
+      "p": 2625.6,
+      "s": "UNIDAD INT. CONDUCTOS VRF INVERTER BOMBA DE CALOR 5,6kW/6,3kW",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-unidad-int-conductos-vrf-inverter-bomba-de-calor-7-1kw-8-0kw",
+      "m": 7,
+      "p": 2686.05,
+      "s": "UNIDAD INT. CONDUCTOS VRF INVERTER BOMBA DE CALOR 7,1kW/8,0kW",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-unidad-int-conductos-vrf-inverter-bomba-de-calor-9-0kw-10-0k",
+      "m": 7,
+      "p": 3033.6,
+      "s": "UNIDAD INT. CONDUCTOS VRF INVERTER BOMBA DE CALOR 9,0kW/10,0kW",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-compuerta-de-100-mm-4-diam",
+      "m": 4,
+      "p": 394.7,
+      "s": "VÁLVULA DE COMPUERTA DE 100 mm (4\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-compuerta-de-15-mm-1-2-diam",
+      "m": 3,
+      "p": 16.93,
+      "s": "VÁLVULA DE COMPUERTA DE 15 MM (1/2\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-compuerta-de-20-mm-3-4-diam",
+      "m": 3,
+      "p": 18.07,
+      "s": "VÁLVULA DE COMPUERTA DE 20 mm (3/4\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-compuerta-de-20-mm-3-4-diam-cbb3",
+      "m": 3,
+      "p": 18.07,
+      "s": "VÁLVULA DE COMPUERTA DE 20 mm (3/4\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-compuerta-de-25-mm-1-diam",
+      "m": 3,
+      "p": 21,
+      "s": "VÁLVULA DE COMPUERTA DE 25 mm (1\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-compuerta-de-25-mm-1-diam-4a08",
+      "m": 3,
+      "p": 21,
+      "s": "VÁLVULA DE COMPUERTA DE 25 mm (1\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-compuerta-de-32-mm-1-1-4-diam",
+      "m": 3,
+      "p": 27.07,
+      "s": "VÁLVULA DE COMPUERTA DE 32 mm (1 1/4\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-compuerta-de-40-mm-1-1-2-diam",
+      "m": 3,
+      "p": 34.31,
+      "s": "VÁLVULA DE COMPUERTA DE 40 mm (1 1/2\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-compuerta-de-50-mm-2-diam",
+      "m": 3,
+      "p": 46.62,
+      "s": "VÁLVULA DE COMPUERTA DE 50 mm (2\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-compuerta-de-50-mm-2-diam-4470",
+      "m": 3,
+      "p": 46.62,
+      "s": "VÁLVULA DE COMPUERTA DE 50 mm (2\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-compuerta-de-65-mm-2-1-2-diam",
+      "m": 4,
+      "p": 252.58,
+      "s": "VÁLVULA DE COMPUERTA DE 65 mm ( 2 1/2\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-compuerta-de-65-mm-2-1-2-diam-599b",
+      "m": 4,
+      "p": 252.58,
+      "s": "VÁLVULA DE COMPUERTA DE 65 mm (2 1/2\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-compuerta-de-80-mm-3-diam",
+      "m": 4,
+      "p": 314.98,
+      "s": "VÁLVULA DE COMPUERTA DE 80 mm (3\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-valvula-de-equilibrado",
+      "m": 6,
+      "p": 143.27,
+      "s": "VÁLVULA DE EQUILIBRADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-esfera-de-20-mm-3-4-diam",
+      "m": 3,
+      "p": 16.29,
+      "s": "VÁLVULA DE ESFERA DE 20 mm (3/4\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-esfera-de-20-mm-3-4-diam-cf25",
+      "m": 3,
+      "p": 16.29,
+      "s": "VÁLVULA DE ESFERA DE 20 mm (3/4\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-esfera-de-25-mm-1-diam",
+      "m": 3,
+      "p": 19.46,
+      "s": "VÁLVULA DE ESFERA DE 25 mm (1\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-esfera-de-25-mm-1-diam-3c99",
+      "m": 3,
+      "p": 19.46,
+      "s": "VÁLVULA DE ESFERA DE 25 mm (1\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-esfera-de-40-mm-1-1-2-diam",
+      "m": 3,
+      "p": 33.96,
+      "s": "VÁLVULA DE ESFERA DE 40 mm (1 1/2\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-esfera-de-50-mm-2-diam",
+      "m": 3,
+      "p": 44.72,
+      "s": "VÁLVULA DE ESFERA DE 50 mm (2\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-esfera-de-50-mm-2-diam-0c39",
+      "m": 3,
+      "p": 44.72,
+      "s": "VÁLVULA DE ESFERA DE 50 mm (2\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-retencion-de-25-mm-1-diam",
+      "m": 3,
+      "p": 17.46,
+      "s": "VÁLVULA DE RETENCIÓN DE 25 mm (1\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-retencion-de-25-mm-1-diam-e796",
+      "m": 3,
+      "p": 17.46,
+      "s": "VÁLVULA DE RETENCIÓN DE 25 mm (1\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-retencion-de-50-mm-2-diam",
+      "m": 3,
+      "p": 32.95,
+      "s": "VÁLVULA DE RETENCIÓN DE 50 mm (2\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-retencion-de-50-mm-2-diam-efe6",
+      "m": 3,
+      "p": 32.95,
+      "s": "VÁLVULA DE RETENCIÓN DE 50 mm (2\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-retencion-de-65-mm-2-1-2-diam",
+      "m": 3,
+      "p": 58.5,
+      "s": "VÁLVULA DE RETENCIÓN DE 65 mm (2 1/2\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-retencion-de-65-mm-2-1-2-diam-20fd",
+      "m": 3,
+      "p": 58.5,
+      "s": "VÁLVULA DE RETENCIÓN DE 65 mm (2 1/2\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-seguridad-diam-15-mm",
+      "m": 4,
+      "p": 19.47,
+      "s": "VÁLVULA DE SEGURIDAD DIÁM. 15 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-seguridad-diam-20-mm",
+      "m": 4,
+      "p": 24.33,
+      "s": "VÁLVULA DE SEGURIDAD DIÁM. 20 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-seguridad-diam-25-mm",
+      "m": 4,
+      "p": 38.3,
+      "s": "VÁLVULA DE SEGURIDAD DIÁM. 25 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-seguridad-diam-32-mm",
+      "m": 4,
+      "p": 59.4,
+      "s": "VÁLVULA DE SEGURIDAD DIÁM. 32 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-de-tres-vias-de-65-mm-2-1-2",
+      "m": 5,
+      "p": 493.79,
+      "s": "VÁLVULA DE TRES VÍAS, DE 65 mm (2 1/2\")",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-motorizada-de-dos-vias-20-mm-3-4-diam",
+      "m": 5,
+      "p": 240.9,
+      "s": "VÁLVULA MOTORIZADA DE DOS VÍAS, 20 mm (3/4\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-motorizada-de-dos-vias-de-20-mm-3-4",
+      "m": 5,
+      "p": 240.9,
+      "s": "VÁLVULA MOTORIZADA DE DOS VÍAS, DE 20 mm (3/4\")",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-motorizada-de-tres-vias-25-mm-1-diam",
+      "m": 5,
+      "p": 308.97,
+      "s": "VÁLVULA MOTORIZADA DE TRES VÍAS, 25 mm (1\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-motorizada-de-tres-vias-65-mm-2-1-2-diam",
+      "m": 5,
+      "p": 493.79,
+      "s": "VÁLVULA MOTORIZADA DE TRES VÍAS, 65 mm (2 1/2\") DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-motorizada-de-tres-vias-de-25-mm-1",
+      "m": 5,
+      "p": 308.97,
+      "s": "VÁLVULA MOTORIZADA DE TRES VÍAS, DE 25 mm (1\")",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-motriz-de-tres-vias-para-radiadores-20-mm-3-4",
+      "m": 4,
+      "p": 99.17,
+      "s": "VÁLVULA MOTRIZ DE TRES VÍAS, PARA RADIADORES, 20 mm (3/4\")",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-presostatica-para-regulacion-del-caudal",
+      "m": 4,
+      "p": 286.77,
+      "s": "VÁLVULA PRESOSTATICA PARA REGULACIÓN DEL CAUDAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-02",
+      "g": [],
+      "id": "wi-valvula-termostatica",
+      "m": 3,
+      "p": 144.33,
+      "s": "VALVULA TERMOSTATICA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-vaso-de-expansion-abierto-300-l",
+      "m": 5,
+      "p": 483.95,
+      "s": "VASO DE EXPANSIÓN ABIERTO 300 l",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-vaso-de-expansion-cerrado-140-l",
+      "m": 5,
+      "p": 373.02,
+      "s": "VASO DE EXPANSIÓN CERRADO 140 l",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-vaso-de-expansion-cerrado-18-l",
+      "m": 5,
+      "p": 85.98,
+      "s": "VASO DE EXPANSIÓN CERRADO 18 l",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-vaso-de-expansion-cerrado-280-l",
+      "m": 5,
+      "p": 782.55,
+      "s": "VASO DE EXPANSIÓN CERRADO 280 l",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-vaso-de-expansion-cerrado-425-l",
+      "m": 5,
+      "p": 1045.86,
+      "s": "VASO DE EXPANSIÓN CERRADO 425 l",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-vaso-de-expansion-cerrado-50-l",
+      "m": 5,
+      "p": 143.5,
+      "s": "VASO DE EXPANSIÓN CERRADO 50 l",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-vaso-de-expansion-cerrado-80-l",
+      "m": 5,
+      "p": 203.49,
+      "s": "VASO DE EXPANSIÓN CERRADO 80 l",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-ventiloconvector-tipo-apartam-cuatro-tubos-12000-frig-h",
+      "m": 5,
+      "p": 1978.46,
+      "s": "VENTILOCONVECTOR, TIPO APARTAM. CUATRO TUBOS, 12000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-ventiloconvector-tipo-apartam-cuatro-tubos-15000-frig-h",
+      "m": 5,
+      "p": 2225.73,
+      "s": "VENTILOCONVECTOR, TIPO APARTAM. CUATRO TUBOS, 15000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-ventiloconvector-tipo-apartam-cuatro-tubos-18000-frig-h",
+      "m": 5,
+      "p": 2725.73,
+      "s": "VENTILOCONVECTOR, TIPO APARTAM. CUATRO TUBOS, 18000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-ventiloconvector-tipo-apartam-dos-tubos",
+      "m": 5,
+      "p": 1286.57,
+      "s": "VENTILOCONVECTOR, TIPO APARTAM. DOS TUBOS",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-ventiloconvector-tipo-apartam-dos-tubos-12000-frig-h",
+      "m": 5,
+      "p": 1457.26,
+      "s": "VENTILOCONVECTOR, TIPO APARTAM. DOS TUBOS, 12000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-ventiloconvector-tipo-apartam-dos-tubos-15000-frig-h",
+      "m": 5,
+      "p": 1973.37,
+      "s": "VENTILOCONVECTOR, TIPO APARTAM. DOS TUBOS, 15000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-ventiloconvector-tipo-apartam-dos-tubos-18000-frig-h",
+      "m": 5,
+      "p": 2326.18,
+      "s": "VENTILOCONVECTOR, TIPO APARTAM. DOS TUBOS, 18000 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-ventiloconvector-tipo-consola-cuatro-tubos-2800-frig-h",
+      "m": 4,
+      "p": 947.25,
+      "s": "VENTILOCONVECTOR, TIPO CONSOLA, CUATRO TUBOS, 2800 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-ventiloconvector-tipo-consola-cuatro-tubos-3500-frig-h",
+      "m": 4,
+      "p": 973.96,
+      "s": "VENTILOCONVECTOR, TIPO CONSOLA, CUATRO TUBOS,3500 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-ventiloconvector-tipo-consola-cuatro-tubos-4500-frig-h",
+      "m": 4,
+      "p": 1155.45,
+      "s": "VENTILOCONVECTOR, TIPO CONSOLA, CUATRO TUBOS,4500 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-ventiloconvector-tipo-consola-dos-tubos-2800-frig-h",
+      "m": 4,
+      "p": 698.87,
+      "s": "VENTILOCONVECTOR, TIPO CONSOLA DOS TUBOS, 2800 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-ventiloconvector-tipo-consola-dos-tubos-3500-frig-h",
+      "m": 4,
+      "p": 796.1,
+      "s": "VENTILOCONVECTOR, TIPO CONSOLA, DOS TUBOS 3500 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-ventiloconvector-tipo-consola-dos-tubos-4500-frig-h",
+      "m": 4,
+      "p": 920.64,
+      "s": "VENTILOCONVECTOR, TIPO CONSOLA, DOS TUBOS, 4500 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-ventiloconvector-tipo-techo-dos-tubos-2800-frig-h",
+      "m": 5,
+      "p": 572.71,
+      "s": "VENTILOCONVECTOR, TIPO TECHO, DOS TUBOS, 2800 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-ventiloconvector-tipo-techo-dos-tubos-3500-frig-h",
+      "m": 5,
+      "p": 621.29,
+      "s": "VENTILOCONVECTOR, TIPO TECHO, DOS TUBOS, 3500 frig/h",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-ventiloconvector-tipo-techo-dos-tubos-4500-frig-h",
+      "m": 5,
+      "p": 997.79,
+      "s": "VENTILOCONVECTOR, TIPO TECHO, DOS TUBOS, 4500 frig/h",
+      "u": "u"
+    }
+  ],
+  "title": "Climatización",
+  "version": "0.1.0"
+}

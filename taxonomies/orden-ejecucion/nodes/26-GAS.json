@@ -1,0 +1,1177 @@
+{
+  "key": "26-GAS",
+  "rows": [
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acometida-de-gas-natural",
+      "m": 1,
+      "p": 5820.65,
+      "s": "ACOMETIDA DE GAS NATURAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acumulador-acs-130l-a-gas-natural",
+      "m": 5,
+      "p": 717.15,
+      "s": "ACUMULADOR ACS 130l A GAS NATURAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acumulador-acs-220l-a-gas-natural",
+      "m": 5,
+      "p": 911.2,
+      "s": "ACUMULADOR ACS 220l A GAS NATURAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-armario-regulacion-contador-g16-gas-natural",
+      "m": 5,
+      "p": 374.28,
+      "s": "ARMARIO REGULACIÓN CONTADOR G16 GAS NATURAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-armario-regulacion-contador-g4-gas-natural",
+      "m": 5,
+      "p": 128.91,
+      "s": "ARMARIO REGULACIÓN CONTADOR G4 GAS NATURAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-bateria-para-10-contadores-de-gas-natural",
+      "m": 5,
+      "p": 994.13,
+      "s": "BATERIA PARA 10 CONTADORES DE GAS NATURAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-bateria-para-16-contadores-de-gas-natural",
+      "m": 5,
+      "p": 1845.26,
+      "s": "BATERIA PARA 16 CONTADORES DE GAS NATURAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-bateria-para-4-contadores-de-gas-natural",
+      "m": 5,
+      "p": 518.5,
+      "s": "BATERIA PARA 4 CONTADORES DE GAS NATURAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-caldera-compacta-de-condensacion-120kw-para-gas-natural",
+      "m": 6,
+      "p": 10871.39,
+      "s": "CALDERA COMPACTA DE CONDENSACIÓN 120kW PARA GAS NATURAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-caldera-compacta-de-condensacion-200kw-para-gas-natural",
+      "m": 6,
+      "p": 12781.57,
+      "s": "CALDERA COMPACTA DE CONDENSACIÓN 200kW PARA GAS NATURAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-caldera-compacta-de-condensacion-240kw-para-gas-natural",
+      "m": 6,
+      "p": 14537.58,
+      "s": "CALDERA COMPACTA DE CONDENSACIÓN 240kW PARA GAS NATURAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-caldera-compacta-de-condensacion-395kw-para-gas-natural",
+      "m": 6,
+      "p": 21835.9,
+      "s": "CALDERA COMPACTA DE CONDENSACIÓN 395kW PARA GAS NATURAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canalizacion-cobre-superficial-12mm-diam-para-gas-natural",
+      "m": 4,
+      "p": 11.07,
+      "s": "CANALIZACION COBRE, SUPERFICIAL, 12mm DIÁM. PARA GAS NATURAL",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canalizacion-cobre-superficial-15mm-diam-para-gas-natural",
+      "m": 4,
+      "p": 11.25,
+      "s": "CANALIZACION COBRE, SUPERFICIAL, 15mm DIÁM. PARA GAS NATURAL",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canalizacion-cobre-superficial-18mm-diam-para-gas-natural",
+      "m": 4,
+      "p": 14.52,
+      "s": "CANALIZACION COBRE, SUPERFICIAL, 18mm DIÁM. PARA GAS NATURAL",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canalizacion-cobre-superficial-22mm-diam-para-gas-natural",
+      "m": 4,
+      "p": 15.18,
+      "s": "CANALIZACION COBRE, SUPERFICIAL, 22mm DIÁM. PARA GAS NATURAL",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canalizacion-cobre-superficial-28mm-diam-para-gas-natural",
+      "m": 4,
+      "p": 17.74,
+      "s": "CANALIZACION COBRE, SUPERFICIAL, 28mm DIÁM. PARA GAS NATURAL",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canalizacion-cobre-superficial-35mm-diam-para-gas-natural",
+      "m": 4,
+      "p": 22.04,
+      "s": "CANALIZACION COBRE, SUPERFICIAL, 35mm DIÁM. PARA GAS NATURAL",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canalizacion-cobre-superficial-42mm-diam-para-gas-natural",
+      "m": 4,
+      "p": 28.21,
+      "s": "CANALIZACION COBRE, SUPERFICIAL, 42mm DIÁM. PARA GAS NATURAL",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canalizacion-de-acero-galvanizado-de-50-mm",
+      "m": 6,
+      "p": 60.98,
+      "s": "CANALIZACIÓN DE ACERO GALVANIZADO DE 50 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-enterrada-acero-negro-diam-ext-1",
+      "m": 7,
+      "p": 18.36,
+      "s": "CANALIZACIÓN ENTERRADA, ACERO NEGRO DIÁM. EXT. (1\")",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-enterrada-acero-negro-diam-ext-1-1-2",
+      "m": 7,
+      "p": 21.95,
+      "s": "CANALIZACIÓN ENTERRADA, ACERO NEGRO DIÁM. EXT. (1 1/2\")",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-enterrada-acero-negro-diam-ext-2",
+      "m": 7,
+      "p": 24.79,
+      "s": "CANALIZACIÓN ENTERRADA, ACERO NEGRO DIÁM. EXT. (2\")",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-enterrada-acero-negro-diam-ext-2-1-2",
+      "m": 7,
+      "p": 29.54,
+      "s": "CANALIZACIÓN ENTERRADA, ACERO NEGRO DIÁM. EXT. (2 1/2\")",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-ac-negro-estirado-diam-1",
+      "m": 4,
+      "p": 12.54,
+      "s": "CANALIZACIÓN VISTA AC. NEGRO ESTIRADO DIÁM. 1\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-ac-negro-estirado-diam-1-1-2",
+      "m": 4,
+      "p": 16.83,
+      "s": "CANALIZACIÓN VISTA AC. NEGRO ESTIRADO DIÁM. 1 1/2\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-ac-negro-estirado-diam-1-1-2-46a9",
+      "m": 4,
+      "p": 16.83,
+      "s": "CANALIZACIÓN VISTA AC. NEGRO ESTIRADO DIÁM. 1 1/2\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-ac-negro-estirado-diam-1-b57c",
+      "m": 4,
+      "p": 12.54,
+      "s": "CANALIZACIÓN VISTA AC. NEGRO ESTIRADO DIÁM. 1\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-ac-negro-estirado-diam-2",
+      "m": 4,
+      "p": 18.97,
+      "s": "CANALIZACIÓN VISTA AC. NEGRO ESTIRADO DIÁM. 2\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-ac-negro-estirado-diam-2-1-2",
+      "m": 4,
+      "p": 21.63,
+      "s": "CANALIZACIÓN VISTA AC. NEGRO ESTIRADO DIÁM. 2 1/2\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-ac-negro-estirado-diam-2-8be2",
+      "m": 4,
+      "p": 18.97,
+      "s": "CANALIZACIÓN VISTA AC. NEGRO ESTIRADO DIÁM. 2\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-ac-negro-estirado-diam-21-2",
+      "m": 4,
+      "p": 21.63,
+      "s": "CANALIZACIÓN VISTA AC. NEGRO ESTIRADO DIÁM. 21/2\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-ac-negro-estirado-diam-3",
+      "m": 4,
+      "p": 27.84,
+      "s": "CANALIZACIÓN VISTA AC. NEGRO ESTIRADO DIÁM. 3\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-ac-negro-estirado-diam-3-078e",
+      "m": 4,
+      "p": 27.84,
+      "s": "CANALIZACIÓN VISTA AC. NEGRO ESTIRADO DIÁM. 3\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-acero-diam-1-1-2-gas-natural",
+      "m": 4,
+      "p": 17.16,
+      "s": "CANALIZACION VISTA ACERO DIAM. 1 1/2\" GAS NATURAL",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-acero-diam-1-1-4-gas-natural",
+      "m": 4,
+      "p": 16.83,
+      "s": "CANALIZACION VISTA ACERO DIAM. 1 1/4\" GAS NATURAL",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-acero-diam-1-gas-natural",
+      "m": 4,
+      "p": 13.47,
+      "s": "CANALIZACION VISTA ACERO DIAM. 1\" GAS NATURAL",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-acero-diam-2-1-2-gas-natural",
+      "m": 4,
+      "p": 24.08,
+      "s": "CANALIZACION VISTA ACERO DIAM. 2 1/2\" GAS NATURAL",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-acero-diam-2-gas-natural",
+      "m": 4,
+      "p": 20.26,
+      "s": "CANALIZACION VISTA ACERO DIAM. 2\" GAS NATURAL",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-acero-diam-3-4-gas-natural",
+      "m": 4,
+      "p": 11.56,
+      "s": "CANALIZACION VISTA ACERO DIAM. 3/4\" GAS NATURAL",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-acero-diam-3-gas-natural",
+      "m": 4,
+      "p": 29.66,
+      "s": "CANALIZACION VISTA ACERO DIAM. 3\" GAS NATURAL",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-acero-negro-diam-ext-1",
+      "m": 4,
+      "p": 12.54,
+      "s": "CANALIZACIÓN VISTA, ACERO NEGRO DIÁM.EXT.(1\")",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-acero-negro-diam-ext-1-1-2",
+      "m": 4,
+      "p": 16.83,
+      "s": "CANALIZACIÓN VISTA, ACERO NEGRO DIÁM. EXT. (1 1/2\")",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-acero-negro-diam-ext-2",
+      "m": 4,
+      "p": 18.97,
+      "s": "CANALIZACIÓN VISTA, ACERO NEGRO DIÁM. EXT. (2\")",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-acero-negro-diam-ext-2-1-2",
+      "m": 4,
+      "p": 21.63,
+      "s": "CANALIZACIÓN VISTA, ACERO NEGRO DIÁM. EXT. (2 1/2\")",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-vista-acero-negro-diam-ext-3",
+      "m": 4,
+      "p": 27.84,
+      "s": "CANALIZACIÓN VISTA, ACERO NEGRO DIÁM. EXT. (3\")",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canalizacion-vista-de-cobre-para-gas-butano-50-mm-diam",
+      "m": 4,
+      "p": 30.66,
+      "s": "CANALIZACIÓN VISTA DE COBRE PARA GAS BUTANO, 50 mm DIÁM.",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canalizacion-vista-plomo-diam-60-mm",
+      "m": 4,
+      "p": 26.16,
+      "s": "CANALIZACIÓN VISTA PLOMO DIÁM. 60 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-chimenea-extraccion-130mm-diam-acero-inox",
+      "m": 5,
+      "p": 118.09,
+      "s": "CHIMENEA EXTRACCIÓN 130MM DIAM. ACERO INOX",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-chimenea-extraccion-200mm-diam-acero-inox",
+      "m": 5,
+      "p": 184.62,
+      "s": "CHIMENEA EXTRACCIÓN 200MM DIAM. ACERO INOX",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-chimenea-extraccion-250mm-diam-acero-inox",
+      "m": 5,
+      "p": 222.52,
+      "s": "CHIMENEA EXTRACCIÓN 250MM DIAM. ACERO INOX",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-conducto-evacuacion-gases-de-acumulador",
+      "m": 5,
+      "p": 21.18,
+      "s": "CONDUCTO EVACUACIÓN GASES DE ACUMULADOR",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-contador-tipo-g-16-para-suministro-de-gas-natural",
+      "m": 5,
+      "p": 352.18,
+      "s": "CONTADOR TIPO G-16 PARA SUMINISTRO DE GAS NATURAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-contador-tipo-g-4-para-suministro-de-gas-natural",
+      "m": 5,
+      "p": 87.34,
+      "s": "CONTADOR TIPO G-4 PARA SUMINISTRO DE GAS NATURAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-deposito-enterrado-para-gasoleo-c-de-10000-l",
+      "m": 9,
+      "p": 2777.81,
+      "s": "DEPÓSITO ENTERRADO PARA GASÓLEO \"C\" DE 10000 l",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-deposito-enterrado-para-propano-butano-de-10000-l",
+      "m": 13,
+      "p": 8526.21,
+      "s": "DEPÓSITO ENTERRADO PARA PROPANO-BUTANO DE 10000 l",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-deposito-enterrado-para-propano-butano-de-10000-l-8cfc",
+      "m": 13,
+      "p": 8547.32,
+      "s": "DEPÓSITO ENTERRADO PARA PROPANO-BUTANO DE 10000 l",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-deposito-enterrado-para-propano-butano-de-15000-l",
+      "m": 14,
+      "p": 13145.96,
+      "s": "DEPÓSITO ENTERRADO PARA PROPANO-BUTANO DE 15000 l",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-deposito-enterrado-para-propano-butano-de-15000-l-debe",
+      "m": 14,
+      "p": 13172.24,
+      "s": "DEPÓSITO ENTERRADO PARA PROPANO-BUTANO DE 15000 l",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-distribuidor-gas-propano-con-tubo-de-acero",
+      "m": 3,
+      "p": 36.8,
+      "s": "DISTRIBUIDOR GAS PROPANO CÓN TUBO DE ACERO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-electrovalvula-dn-10-3-8",
+      "m": 6,
+      "p": 262.24,
+      "s": "ELECTROVÁLVULA DN 10 (3/8\")",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-electrovalvula-dn-15-1-2",
+      "m": 6,
+      "p": 238.26,
+      "s": "ELECTROVÁLVULA DN 15 (1/2\")",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-electrovalvula-dn-20-3-4",
+      "m": 6,
+      "p": 262.24,
+      "s": "ELECTROVÁLVULA DN 20 (3/4\")",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-electrovalvula-dn-25-1",
+      "m": 6,
+      "p": 421.92,
+      "s": "ELECTROVÁLVULA DN 25 (1\")",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-electrovalvula-dn-40-1-1-2",
+      "m": 6,
+      "p": 499.92,
+      "s": "ELECTROVÁLVULA DN 40 (1 1/2\")",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-electrovalvula-dn-50-2",
+      "m": 6,
+      "p": 559.98,
+      "s": "ELECTROVÁLVULA DN 50 (2\")",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-electrovalvula-dn-65-2-1-2",
+      "m": 6,
+      "p": 1098.11,
+      "s": "ELECTROVÁLVULA DN 65 (2 1/2\")",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-electrovalvula-dn-80-3",
+      "m": 6,
+      "p": 1228.09,
+      "s": "ELECTROVÁLVULA DN 80 (3\")",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-filtro-para-canalizacion-gas-natural-1",
+      "m": 4,
+      "p": 128.25,
+      "s": "FILTRO PARA CANALIZACIÓN GAS NATURAL 1\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-filtro-para-canalizacion-gas-natural-1-2",
+      "m": 4,
+      "p": 118.12,
+      "s": "FILTRO PARA CANALIZACIÓN GAS NATURAL 1/2\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-filtro-para-canalizacion-gas-natural-3-4",
+      "m": 4,
+      "p": 97.27,
+      "s": "FILTRO PARA CANALIZACIÓN GAS NATURAL 3/4\"",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-foso-para-depositos-enterrados-para-propano-butano",
+      "m": 14,
+      "p": 6472.49,
+      "s": "FOSO PARA DEPÓSITOS ENTERRADOS PARA PROPANO-BUTANO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-griferia-de-gas-1-2-industrial",
+      "m": 4,
+      "p": 96.83,
+      "s": "GRIFERÍA DE GAS 1/2\" INDUSTRIAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-griferia-de-gas-1-2-para-cocinas",
+      "m": 4,
+      "p": 21.48,
+      "s": "GRIFERÍA DE GAS 1/2\" PARA COCINAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-griferia-de-gas-1-2-para-laboratorio",
+      "m": 4,
+      "p": 113.83,
+      "s": "GRIFERÍA DE GAS 1/2\" PARA LABORATORIO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-grupo-de-presion-para-gasoleo-c",
+      "m": 9,
+      "p": 946.69,
+      "s": "GRUPO DE PRESIÓN PARA GASÓLEO \"C\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-instalacion-distribucion-interior-para-gas-butano",
+      "m": 6,
+      "p": 77.05,
+      "s": "INSTALACIÓN DISTRIBUCIÓN INTERIOR PARA GAS BUTANO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-llave-de-cierre-embridada-incluso-arqueta",
+      "m": 9,
+      "p": 342.12,
+      "s": "LLAVE DE CIERRE EMBRIDADA, INCLUSO ARQUETA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-llave-de-cierre-para-gas-ciudad-de-20-mm-3-4",
+      "m": 4,
+      "p": 20.04,
+      "s": "LLAVE DE CIERRE PARA GAS CIUDAD, DE 20 mm (3/4\")",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-llave-de-cierre-para-gas-ciudad-de-25-mm-1",
+      "m": 4,
+      "p": 24,
+      "s": "LLAVE DE CIERRE PARA GAS CIUDAD, DE 25 mm (1\")",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-llave-de-cierre-para-gas-ciudad-de-50-mm-2",
+      "m": 4,
+      "p": 63.71,
+      "s": "LLAVE DE CIERRE PARA GAS CIUDAD, DE 50 mm (2\")",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-llave-de-corte-de-bola-1-1-2-de-diam",
+      "m": 3,
+      "p": 17.1,
+      "s": "LLAVE DE CORTE DE BOLA 1 1/2\" DE DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-llave-de-corte-de-bola-1-1-2-de-diam-d2f2",
+      "m": 3,
+      "p": 17.1,
+      "s": "LLAVE DE CORTE DE BOLA 1 1/2\" DE DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-llave-de-corte-de-bola-1-de-diam",
+      "m": 3,
+      "p": 9.99,
+      "s": "LLAVE DE CORTE DE BOLA 1\" DE DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-llave-de-corte-de-bola-1-de-diam-562e",
+      "m": 3,
+      "p": 9.99,
+      "s": "LLAVE DE CORTE DE BOLA 1\" DE DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-llave-de-corte-de-bola-2-1-2-de-diam",
+      "m": 3,
+      "p": 39.6,
+      "s": "LLAVE DE CORTE DE BOLA 2 1/2\" DE DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-llave-de-corte-de-bola-2-1-2-de-diam-67bd",
+      "m": 3,
+      "p": 39.6,
+      "s": "LLAVE DE CORTE DE BOLA 2 1/2\" DE DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-llave-de-corte-de-bola-2-de-diam",
+      "m": 3,
+      "p": 23.22,
+      "s": "LLAVE DE CORTE DE BOLA 2\" DE DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-llave-de-corte-de-bola-2-diam",
+      "m": 3,
+      "p": 23.22,
+      "s": "LLAVE DE CORTE DE BOLA 2\" DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-llave-de-corte-de-bola-3-de-diam",
+      "m": 3,
+      "p": 52.09,
+      "s": "LLAVE DE CORTE DE BOLA 3\" DE DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-llave-de-corte-de-bola-3-de-diam-8bc1",
+      "m": 3,
+      "p": 52.09,
+      "s": "LLAVE DE CORTE DE BOLA 3\" DE DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-llave-de-paso-para-gas-butano",
+      "m": 4,
+      "p": 13.51,
+      "s": "LLAVE DE PASO PARA GAS BUTANO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-llave-de-paso-para-gas-ciudad",
+      "m": 4,
+      "p": 14.24,
+      "s": "LLAVE DE PASO PARA GAS CIUDAD",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-recinto-para-deposito-de-superficie-para-propano-butano",
+      "m": 11,
+      "p": 1861.52,
+      "s": "RECINTO PARA DEPÓSITO DE SUPERFICIE PARA PROPANO-BUTANO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-reductor-abonado-con-valvula-de-seguridad-presion-minima-dn2",
+      "m": 4,
+      "p": 37.63,
+      "s": "REDUCTOR ABONADO CON VÁLVULA DE SEGURIDAD PRESIÓN MÍNIMA DN20",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-regulador-baja-presion-1",
+      "m": 4,
+      "p": 155.85,
+      "s": "REGULADOR BAJA PRESIÓN , 1\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-regulador-baja-presion-aparatos-propano-1-2",
+      "m": 3,
+      "p": 26.89,
+      "s": "REGULADOR BAJA PRESIÓN APARATOS PROPANO, 1/2\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-regulador-baja-presion-gas-1",
+      "m": 4,
+      "p": 109.95,
+      "s": "REGULADOR BAJA PRESIÓN GAS 1\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-regulador-baja-presion-gas-1-1-1-2",
+      "m": 4,
+      "p": 368.81,
+      "s": "REGULADOR BAJA PRESIÓN GAS, 1\"-1 1/2\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-regulador-baja-presion-gas-1-bloqueo-max",
+      "m": 4,
+      "p": 186.52,
+      "s": "REGULADOR BAJA PRESIÓN GAS 1\" BLOQUEO MAX",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-regulador-baja-presion-gas-1-bloqueo-max-cc39",
+      "m": 4,
+      "p": 186.52,
+      "s": "REGULADOR BAJA PRESIÓN GAS, 1\", BLOQUEO MÁX.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-regulador-baja-presion-gas-1-bloqueo-max-min",
+      "m": 4,
+      "p": 202.76,
+      "s": "REGULADOR BAJA PRESIÓN GAS 1\" BLOQUEO MAX-MIN",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-regulador-baja-presion-gas-3-4",
+      "m": 4,
+      "p": 109.95,
+      "s": "REGULADOR BAJA PRESIÓN GAS, 3/4\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-regulador-baja-presion-gas-3-4-bloqueo-max",
+      "m": 4,
+      "p": 133.01,
+      "s": "REGULADOR BAJA PRESIÓN GAS, 3/4\", BLOQUEO MÁX.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-regulador-baja-presion-gas-3-4-bloqueo-max-min",
+      "m": 4,
+      "p": 143.64,
+      "s": "REGULADOR BAJA PRESIÓN GAS, 3/4\", BLOQUEO MÁX-MIN",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-regulador-baja-presion-gas-sal-fija-37-gr-cm2-3-8",
+      "m": 4,
+      "p": 30.9,
+      "s": "REGULADOR BAJA PRESIÓN GAS SAL. FIJA 37 gr/cm2 3/8\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-regulador-baja-presion-gas-sal-fija-50-gr-cm2-1-2",
+      "m": 4,
+      "p": 36.73,
+      "s": "REGULADOR BAJA PRESIÓN GAS SAL. FIJA 50 gr/cm2 1/2\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-regulador-de-baja-presion-con-valvula-de-seguridad-dn-20",
+      "m": 4,
+      "p": 39.99,
+      "s": "REGULADOR DE BAJA PRESIÓN CON VÁLVULA DE SEGURIDAD DN 20",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-regulador-media-presion-gas-1-1-1-2",
+      "m": 4,
+      "p": 414.86,
+      "s": "REGULADOR MEDIA PRESIÓN GAS 1\"-1 1/2\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-regulador-media-presion-gas-1-1-1-2-bloqueo-max",
+      "m": 4,
+      "p": 718.64,
+      "s": "REGULADOR MEDIA PRESIÓN GAS 1\"-1 1/2\" BLOQUEO MAX",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-regulador-roscado-1",
+      "m": 4,
+      "p": 176.89,
+      "s": "REGULADOR ROSCADO 1\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-regulador-roscado-1-1-2",
+      "m": 4,
+      "p": 268.92,
+      "s": "REGULADOR ROSCADO 1 1/2\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-regulador-roscado-1-2",
+      "m": 4,
+      "p": 154.22,
+      "s": "REGULADOR ROSCADO 1/2\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-regulador-roscado-3-4",
+      "m": 4,
+      "p": 173.91,
+      "s": "REGULADOR ROSCADO 3/4\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-tallo-poliet-1-acometida-gas-natural",
+      "m": 6,
+      "p": 125.89,
+      "s": "TALLO POLIET. 1\" ACOMETIDA GAS NATURAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-tallo-poliet-2-acometida-gas-natural",
+      "m": 6,
+      "p": 208.31,
+      "s": "TALLO POLIET. 2\" ACOMETIDA GAS NATURAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-toma-de-gases",
+      "m": 2,
+      "p": 363.94,
+      "s": "TOMA DE GASES",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-valvula-esfera-dn-10-3-8",
+      "m": 4,
+      "p": 11.11,
+      "s": "VÁLVULA ESFERA DN 10 (3/8\")",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-valvula-esfera-dn-15-1-2",
+      "m": 4,
+      "p": 9.64,
+      "s": "VÁLVULA ESFERA DN 15 (1/2\")",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-valvula-esfera-dn-20-3-4",
+      "m": 4,
+      "p": 11.77,
+      "s": "VÁLVULA ESFERA DN 20 (3/4\")",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-valvula-esfera-dn-25-1",
+      "m": 4,
+      "p": 15.48,
+      "s": "VÁLVULA ESFERA DN 25 (1\")",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-valvula-esfera-dn-32-1-1-4",
+      "m": 4,
+      "p": 24.03,
+      "s": "VÁLVULA ESFERA DN 32 (1 1/4\")",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-valvula-esfera-dn-40-1-1-2",
+      "m": 4,
+      "p": 33.51,
+      "s": "VÁLVULA ESFERA DN 40 (1 1/2\")",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-valvula-esfera-dn-50-2",
+      "m": 4,
+      "p": 239.45,
+      "s": "VÁLVULA ESFERA DN 50 (2\")",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-valvula-esfera-dn-65-2-1-2",
+      "m": 4,
+      "p": 387.5,
+      "s": "VÁLVULA ESFERA DN 65 (2 1/2\")",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-valvula-esfera-dn-80-3",
+      "m": 4,
+      "p": 494.38,
+      "s": "VÁLVULA ESFERA DN 80 (3\")",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-valvula-mariposa-1-1-2",
+      "m": 4,
+      "p": 83.95,
+      "s": "VÁLVULA MARIPOSA 1 1/2\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-valvula-mariposa-2",
+      "m": 4,
+      "p": 89.89,
+      "s": "VÁLVULA MARIPOSA 2\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-valvula-mariposa-2-1-2",
+      "m": 4,
+      "p": 104.03,
+      "s": "VÁLVULA MARIPOSA 2 1/2\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-valvula-mariposa-3",
+      "m": 4,
+      "p": 118.15,
+      "s": "VÁLVULA MARIPOSA 3\"",
+      "u": "u"
+    }
+  ],
+  "title": "Gas y combustibles",
+  "version": "0.1.0"
+}

@@ -1,0 +1,5272 @@
+{
+  "key": "30-URB",
+  "rows": [
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-abonado-biologico-de-fondo",
+      "m": 4,
+      "p": 4.02,
+      "s": "ABONADO BIOLÓGICO DE FONDO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-abonado-quimico-de-fondo",
+      "m": 4,
+      "p": 2.97,
+      "s": "ABONADO QUÍMICO DE FONDO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acanthus-mollis-40-50",
+      "m": 4,
+      "p": 13.13,
+      "s": "ACANTHUS MOLLIS 40/50",
+      "u": "u"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-acometida-a-la-red-existente-abastecimiento-de-aguas",
+      "m": 1,
+      "p": 256.27,
+      "s": "ACOMETIDA A LA RED EXISTENTE ABASTECIMIENTO DE AGUAS",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-acometida-a-red-exist-fibr-diam-150-mm",
+      "m": 12,
+      "p": 682.54,
+      "s": "ACOMETIDA A RED EXIST. FIBR. DIÁM. 150 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-acometida-a-red-exist-fibr-diam-200-mm",
+      "m": 12,
+      "p": 888.55,
+      "s": "ACOMETIDA A RED EXIST. FIBR. DIÁM. 200 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-acometida-a-red-exist-fibr-diam-300-mm",
+      "m": 12,
+      "p": 1648.1,
+      "s": "ACOMETIDA A RED EXIST. FIBR. DIÁM. 300 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-acometida-a-red-exist-fund-diam-150-mm",
+      "m": 10,
+      "p": 473.07,
+      "s": "ACOMETIDA A RED EXIST. FUND. DIÁM. 150 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-acometida-a-red-exist-fund-diam-200-mm",
+      "m": 10,
+      "p": 540.55,
+      "s": "ACOMETIDA A RED EXIST. FUND. DIÁM. 200 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-acometida-a-red-exist-fund-diam-300-mm",
+      "m": 10,
+      "p": 978.07,
+      "s": "ACOMETIDA A RED EXIST. FUND. DIÁM. 300 mm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-agap-africanus-20-30",
+      "m": 5,
+      "p": 8.85,
+      "s": "AGAP. AFRICANUS 20/30",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-aliviadero-pozo-de-comunicacion-y-camara",
+      "m": 8,
+      "p": 2073.86,
+      "s": "ALIVIADERO POZO DE COMUNICACIÓN Y CÁMARA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-anillo-canino",
+      "m": 6,
+      "p": 588.41,
+      "s": "ANILLO CANINO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-aparca-bicicletas-universal-acero-galvanizado",
+      "m": 5,
+      "p": 100.87,
+      "s": "APARCA BICICLETAS UNIVERSAL ACERO GALVANIZADO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-arbol-de-raices-superficiales",
+      "m": 7,
+      "p": 171.82,
+      "s": "ÁRBOL DE RAICES SUPERFICIALES",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-arbol-de-sombra-de-hoja-caduca",
+      "m": 7,
+      "p": 59.02,
+      "s": "ÁRBOL DE SOMBRA, DE HOJA CADUCA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-arbol-de-sombra-de-hoja-perenne",
+      "m": 7,
+      "p": 55.34,
+      "s": "ÁRBOL DE SOMBRA, DE HOJA PERENNE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-arbusto-corriente",
+      "m": 5,
+      "p": 26.78,
+      "s": "ARBUSTO CORRIENTE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-arbusto-especial",
+      "m": 5,
+      "p": 34.37,
+      "s": "ARBUSTO ESPECIAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-arqueta-de-51x51-cm-y-1-m-de-profundidad",
+      "m": 9,
+      "p": 271.28,
+      "s": "ARQUETA DE 51X51 cm Y 1 m DE PROFUNDIDAD",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-arqueta-de-paso-de-51x51-cm-y-1-m-de-prof",
+      "m": 7,
+      "p": 218.39,
+      "s": "ARQUETA DE PASO DE 51x51 cm Y 1 m DE PROF.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-arqueta-de-paso-de-63x63-cm-y-1-de-prof",
+      "m": 7,
+      "p": 286.06,
+      "s": "ARQUETA DE PASO DE 63x63 cm Y 1 DE PROF.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-arqueta-de-registro-de-alumbrado-publico-de-60x60-cm",
+      "m": 8,
+      "p": 271.46,
+      "s": "ARQUETA DE REGISTRO DE ALUMBRADO PÚBLICO DE 60x60 cm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-arqueta-de-registro-normalizada-tipo-d",
+      "m": 8,
+      "p": 779.39,
+      "s": "ARQUETA DE REGISTRO NORMALIZADA TIPO D",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-arqueta-de-registro-normalizada-tipo-h",
+      "m": 8,
+      "p": 513.1,
+      "s": "ARQUETA DE REGISTRO NORMALIZADA TIPO H",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-arqueta-de-registro-normalizada-tipo-m",
+      "m": 9,
+      "p": 115.55,
+      "s": "ARQUETA DE REGISTRO NORMALIZADA TIPO M",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-arqueta-de-reparto-63x63-cm-profundidad-1-m",
+      "m": 8,
+      "p": 363.77,
+      "s": "ARQUETA DE REPARTO 63x63 cm PROFUNDIDAD 1 m",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-arqueta-sifonica-63x63-cm-y-1-m-de-prof",
+      "m": 8,
+      "p": 333.9,
+      "s": "ARQUETA SIFÓNICA 63x63 cm Y 1 m DE PROF.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-arqueta-sumidero-de-20-cm-de-ancho-y-25-cm-de-prof",
+      "m": 7,
+      "p": 113.89,
+      "s": "ARQUETA SUMIDERO DE 20 cm DE ANCHO Y 25 cm DE PROF.",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-balancin-canino",
+      "m": 6,
+      "p": 678.41,
+      "s": "BALANCÍN CANINO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-balancin-doble-grande",
+      "m": 9,
+      "p": 1939.66,
+      "s": "BALANCÍN DOBLE GRANDE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-balancin-doble-pequeno",
+      "m": 9,
+      "p": 1593.2,
+      "s": "BALANCÍN DOBLE PEQUEÑO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-banco-chapa-perforada-doble",
+      "m": 4,
+      "p": 394.7,
+      "s": "BANCO CHAPA PERFORADA DOBLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-banco-de-abdominales",
+      "m": 6,
+      "p": 1302,
+      "s": "BANCO DE ABDOMINALES",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-banco-de-fundicion-2-30-m",
+      "m": 2,
+      "p": 2779.65,
+      "s": "BANCO DE FUNDICIÓN 2,30 m.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-banco-de-hormigon-tipo-u",
+      "m": 4,
+      "p": 553.87,
+      "s": "BANCO DE HORMIGÓN TIPO U",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-banco-de-intemperie-de-1-70-m-de-largo",
+      "m": 4,
+      "p": 224.65,
+      "s": "BANCO DE INTEMPERIE DE 1,70 m DE LARGO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-banco-de-lumbares",
+      "m": 6,
+      "p": 1152.43,
+      "s": "BANCO DE LUMBARES",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-banco-hormigon-con-respaldo",
+      "m": 4,
+      "p": 883.91,
+      "s": "BANCO HORMIGÓN CON RESPALDO",
+      "u": "u"
+    },
+    {
+      "d": "2022-03",
+      "g": [],
+      "id": "wi-banco-prefabricado-de-hormigon-2-00m",
+      "m": 3,
+      "p": 473.94,
+      "s": "BANCO PREFABRICADO DE HORMIGÓN 2.00M",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-banco-urbano-4-vigas-de-madera",
+      "m": 4,
+      "p": 230.76,
+      "s": "BANCO URBANO 4 VIGAS DE MADERA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-banda-de-senalizacion",
+      "m": 2,
+      "p": 0.42,
+      "s": "BANDA DE SEÑALIZACIÓN",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-barra-de-saltos",
+      "m": 6,
+      "p": 441.53,
+      "s": "BARRA DE SALTOS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-barra-de-sentadillas",
+      "m": 6,
+      "p": 574.19,
+      "s": "BARRA DE SENTADILLAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-barras-de-equilibrio",
+      "m": 6,
+      "p": 615.48,
+      "s": "BARRAS DE EQUILIBRIO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-barras-de-flexiones",
+      "m": 6,
+      "p": 715.27,
+      "s": "BARRAS DE FLEXIONES",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-barras-paralelas",
+      "m": 6,
+      "p": 843.69,
+      "s": "BARRAS PARALELAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-barras-suspendidas",
+      "m": 6,
+      "p": 902.93,
+      "s": "BARRAS SUSPENDIDAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-barrera-abatible-parking",
+      "m": 5,
+      "p": 158.28,
+      "s": "BARRERA ABATIBLE PARKING",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-bicicleta-estatica",
+      "m": 6,
+      "p": 839.5,
+      "s": "BICICLETA ESTÁTICA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-40-cond-fd-diam-100-bbb",
+      "m": 11,
+      "p": 474.72,
+      "s": "BOCA RIEGO DIÁM. 40, COND. FD. DIÁM. 100, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-40-cond-fd-diam-100-eeb",
+      "m": 9,
+      "p": 353.66,
+      "s": "BOCA RIEGO DIÁM. 40, COND. FD. DIÁM. 100, EEB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-40-cond-fd-diam-150-bbb",
+      "m": 12,
+      "p": 583.63,
+      "s": "BOCA RIEGO DIÁM. 40, COND. FD. DIÁM. 150, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-40-cond-fd-diam-150-eeb",
+      "m": 9,
+      "p": 396.08,
+      "s": "BOCA RIEGO DIÁM. 40, COND. FD. DIÁM. 150, EEB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-40-cond-fd-diam-200-bbb",
+      "m": 12,
+      "p": 709.13,
+      "s": "BOCA RIEGO DIÁM. 40, COND. FD. DIÁM. 200, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-40-cond-fd-diam-200-eeb",
+      "m": 9,
+      "p": 436.56,
+      "s": "BOCA RIEGO DIÁM. 40, COND. FD. DIÁM. 200, EEB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-40-cond-fd-diam-80-bbb",
+      "m": 10,
+      "p": 452.96,
+      "s": "BOCA RIEGO DIÁM. 40, COND. FD. DIÁM. 80, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-40-cond-fd-diam-80-eeb",
+      "m": 9,
+      "p": 338.7,
+      "s": "BOCA RIEGO DIÁM. 40, COND. FD. DIÁM. 80, EEB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-40-cond-poliet-diam-110-mm",
+      "m": 10,
+      "p": 394.88,
+      "s": "BOCA RIEGO DIÁM. 40, COND. POLIET. DIÁM. 110 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-40-cond-poliet-diam-90-mm",
+      "m": 10,
+      "p": 377.4,
+      "s": "BOCA RIEGO DIÁM. 40, COND. POLIET. DIÁM. 90 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-40-cond-pvc-diam-90-mm",
+      "m": 9,
+      "p": 346.03,
+      "s": "BOCA RIEGO DIÁM. 40, COND. PVC. DIÁM. 90 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-40-mm-cond-fibrocem-diam-100-mm-bbb",
+      "m": 11,
+      "p": 536.68,
+      "s": "BOCA RIEGO DIÁM. 40 mm, COND. FIBROCEM. DIÁM. 100 mm, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-40-mm-cond-fibrocem-diam-100-mm-lbl",
+      "m": 10,
+      "p": 381.43,
+      "s": "BOCA RIEGO DIÁM. 40 mm, COND. FIBROCEM. DIÁM. 100 mm, LBL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-40-mm-cond-fibrocem-diam-150-mm-bbb",
+      "m": 12,
+      "p": 691.51,
+      "s": "BOCA RIEGO DIÁM. 40 mm, COND. FIBROCEM. DIÁM. 150 mm, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-40-mm-cond-fibrocem-diam-150-mm-lbl",
+      "m": 10,
+      "p": 459.81,
+      "s": "BOCA RIEGO DIÁM. 40 mm, COND. FIBROCEM. DIÁM. 150 mm, LBL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-40-mm-cond-fibrocem-diam-200-mm-bbb",
+      "m": 12,
+      "p": 837.99,
+      "s": "BOCA RIEGO DIÁM. 40 mm, COND. FIBROCEM. DIÁM. 200 mm, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-40-mm-cond-fibrocem-diam-200-mm-lbl",
+      "m": 10,
+      "p": 561.84,
+      "s": "BOCA RIEGO DIÁM. 40 mm, COND. FIBROCEM. DIÁM. 200 mm, LBL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-40-mm-cond-fibrocem-diam-80-mm-bbb",
+      "m": 10,
+      "p": 504.3,
+      "s": "BOCA RIEGO DIÁM. 40 mm, COND. FIBROCEM. DIÁM. 80 mm, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-40-mm-cond-fibrocem-diam-80-mm-lbl",
+      "m": 10,
+      "p": 362.98,
+      "s": "BOCA RIEGO DIÁM. 40 mm, COND. FIBROCEM. DIÁM. 80 mm, LBL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-60-cond-fd-diam-100-bbb",
+      "m": 14,
+      "p": 533.83,
+      "s": "BOCA RIEGO DIÁM. 60, COND. FD. DIÁM. 100, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-60-cond-fd-diam-100-eeb",
+      "m": 12,
+      "p": 376.75,
+      "s": "BOCA RIEGO DIÁM. 60, COND. FD. DIÁM. 100, EEB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-60-cond-fd-diam-150-bbb",
+      "m": 15,
+      "p": 642.73,
+      "s": "BOCA RIEGO DIÁM. 60, COND. FD. DIÁM. 150, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-60-cond-fd-diam-150-eeb",
+      "m": 12,
+      "p": 419.17,
+      "s": "BOCA RIEGO DIÁM. 60, COND. FD. DIÁM. 150, EEB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-60-cond-fd-diam-200-bbb",
+      "m": 15,
+      "p": 768.22,
+      "s": "BOCA RIEGO DIÁM. 60, COND. FD. DIÁM. 200, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-60-cond-fd-diam-200-eeb",
+      "m": 12,
+      "p": 459.67,
+      "s": "BOCA RIEGO DIÁM. 60, COND. FD. DIÁM. 200, EEB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-60-cond-fd-diam-80-bbb",
+      "m": 13,
+      "p": 512.07,
+      "s": "BOCA RIEGO DIÁM. 60, COND. FD. DIÁM. 80, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-60-cond-fd-diam-80-eeb",
+      "m": 12,
+      "p": 361.79,
+      "s": "BOCA RIEGO DIÁM. 60, COND. FD. DIÁM. 80, EEB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-60-cond-poliet-diam-110-mm",
+      "m": 13,
+      "p": 453.97,
+      "s": "BOCA RIEGO DIÁM. 60, COND. POLIET. DIÁM. 110 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-60-cond-poliet-diam-90-mm",
+      "m": 13,
+      "p": 436.49,
+      "s": "BOCA RIEGO DIÁM. 60, COND. POLIET. DIÁM. 90 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-60-cond-pvc-diam-90-mm",
+      "m": 12,
+      "p": 369.12,
+      "s": "BOCA RIEGO DIÁM. 60, COND. PVC. DIÁM. 90 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-60-mm-cond-fibrocem-diam-100-mm-bbb",
+      "m": 14,
+      "p": 559.79,
+      "s": "BOCA RIEGO DIÁM. 60 mm, COND. FIBROCEM. DIÁM. 100 mm, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-60-mm-cond-fibrocem-diam-100-mm-lbl",
+      "m": 13,
+      "p": 440.52,
+      "s": "BOCA RIEGO DIÁM. 60 mm, COND. FIBROCEM. DIÁM. 100 mm, LBL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-60-mm-cond-fibrocem-diam-150-mm-bbb",
+      "m": 15,
+      "p": 714.61,
+      "s": "BOCA RIEGO DIÁM. 60 mm, COND. FIBROCEM. DIÁM. 150 mm, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-60-mm-cond-fibrocem-diam-150-mm-lbl",
+      "m": 13,
+      "p": 518.9,
+      "s": "BOCA RIEGO DIÁM. 60 mm, COND. FIBROCEM. DIÁM. 150 mm, LBL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-60-mm-cond-fibrocem-diam-200-mm-bbb",
+      "m": 15,
+      "p": 861.08,
+      "s": "BOCA RIEGO DIÁM. 60 mm, COND. FIBROCEM. DIÁM. 200 mm, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-60-mm-cond-fibrocem-diam-200-mm-lbl",
+      "m": 13,
+      "p": 620.95,
+      "s": "BOCA RIEGO DIÁM. 60 mm, COND. FIBROCEM. DIÁM. 200 mm, LBL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-60-mm-cond-fibrocem-diam-80-mm-bbb",
+      "m": 13,
+      "p": 527.41,
+      "s": "BOCA RIEGO DIÁM. 60 mm, COND. FIBROCEM. DIÁM. 80 mm, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-boca-riego-diam-60-mm-cond-fibrocem-diam-80-mm-lbl",
+      "m": 13,
+      "p": 422.07,
+      "s": "BOCA RIEGO DIÁM. 60 mm, COND. FIBROCEM. DIÁM. 80 mm, LBL",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-bolardo-de-hormigon-prefab-d-30cm",
+      "m": 3,
+      "p": 49.92,
+      "s": "BOLARDO DE HORMIGÓN PREFAB D=30CM",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-bolardo-fundicion-abatible",
+      "m": 3,
+      "p": 597.39,
+      "s": "BOLARDO FUNDICIÓN ABATIBLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-bolardo-fundicion-fuste-grueso",
+      "m": 3,
+      "p": 131.53,
+      "s": "BOLARDO FUNDICIÓN FUSTE GRUESO",
+      "u": "u"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-bordillo-de-granito-achaflanado-de-17x28-cm",
+      "m": 5,
+      "p": 37.79,
+      "s": "BORDILLO DE GRANITO ACHAFLANADO DE 17x28 cm",
+      "u": "m"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-bordillo-de-granito-aplantillado-de-20x28-cm",
+      "m": 4,
+      "p": 49.09,
+      "s": "BORDILLO DE GRANITO APLANTILLADO DE 20x28 cm.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bordillo-prefabricado-de-hm-40-achaflanado-de-17x28-cm",
+      "m": 5,
+      "p": 24.88,
+      "s": "BORDILLO PREFABRICADO DE HM-40 ACHAFLANADO DE 17x28 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bordillo-prefabricado-hm-40-achaflanado-de-10x20-cm",
+      "m": 5,
+      "p": 18.05,
+      "s": "BORDILLO PREFABRICADO HM-40 ACHAFLANADO DE 10x20 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bordillo-prefabricado-hm-40-moldurado-de-10x20-cm",
+      "m": 5,
+      "p": 18.12,
+      "s": "BORDILLO PREFABRICADO HM-40 MOLDURADO DE 10x20 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bordillo-rigola-prefabricado-de-hm-40",
+      "m": 5,
+      "p": 47.14,
+      "s": "BORDILLO \"RIGOLA\", PREFABRICADO DE HM-40",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-bulbos-de-agapanto",
+      "m": 2,
+      "p": 2.01,
+      "s": "BULBOS DE AGAPANTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-buxus-semperpervirens-30-40",
+      "m": 5,
+      "p": 12.39,
+      "s": "BUXUS SEMPERPERVIRENS 30/40",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-caja-general-de-proteccion-para-160-a-178d",
+      "m": 7,
+      "p": 262.05,
+      "s": "CAJA GENERAL DE PROTECCIÓN, PARA 160 A",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-caja-general-de-proteccion-para-250-a-52a6",
+      "m": 7,
+      "p": 331.45,
+      "s": "CAJA GENERAL DE PROTECCIÓN, PARA 250 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-cala-blanca-cal-14",
+      "m": 4,
+      "p": 2.37,
+      "s": "CALA BLANCA CAL>14",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-calzada-con-10-cm-piedra-20-cm-piedra-caliza-horm-asfalt",
+      "m": 9,
+      "p": 26.73,
+      "s": "CALZADA CON 10 cm PIEDRA + 20 cm PIEDRA CALIZA + HORM. ASFALT.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-calzada-con-25-cm-albero-horm-asfaltico",
+      "m": 9,
+      "p": 22.07,
+      "s": "CALZADA CON 25 cm ALBERO + HORM. ASFALTICO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-cama-de-arena-apoyo-arrinonado",
+      "m": 3,
+      "p": 24.91,
+      "s": "CAMA DE ARENA APOYO ARRIÑONADO",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-camara-de-descarga-de-0-80x1-40-m-y-1-60-m-de-prof",
+      "m": 9,
+      "p": 961.14,
+      "s": "CÁMARA DE DESCARGA DE 0,80x1,40 m Y 1,60 m DE PROF.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-camara-de-grasas-1x0-80-m-profundidad-1-50-m",
+      "m": 8,
+      "p": 590.91,
+      "s": "CAMARA DE GRASAS 1x0,80 m PROFUNDIDAD 1,50 m",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canalizacion-de-drenaje-con-tubo-de-hormigon-poroso",
+      "m": 4,
+      "p": 29.54,
+      "s": "CANALIZACIÓN DE DRENAJE CON TUBO DE HORMIGÓN POROSO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-de-pvc-con-tuberia-reforzada-de-110-mm",
+      "m": 6,
+      "p": 13.89,
+      "s": "CANALIZACIÓN DE PVC CON TUBERÍA REFORZADA DE 110 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-de-pvc-con-tuberia-reforzada-de-125-mm",
+      "m": 6,
+      "p": 14.9,
+      "s": "CANALIZACIÓN DE PVC CON TUBERÍA REFORZADA DE 125 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-de-pvc-con-tuberia-reforzada-de-160-mm",
+      "m": 6,
+      "p": 18.6,
+      "s": "CANALIZACIÓN DE PVC CON TUBERÍA REFORZADA DE 160 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-de-pvc-con-tuberia-reforzada-de-200-mm",
+      "m": 6,
+      "p": 23.73,
+      "s": "CANALIZACIÓN DE PVC CON TUBERÍA REFORZADA DE 200 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-de-pvc-con-tuberia-reforzada-de-250-mm",
+      "m": 6,
+      "p": 29.5,
+      "s": "CANALIZACIÓN DE PVC CON TUBERÍA REFORZADA DE 250 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-fibrocemento-nt-saneamiento-200-mm",
+      "m": 6,
+      "p": 25.25,
+      "s": "CANALIZACIÓN FIBROCEMENTO NT, SANEAMIENTO 200 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-fibrocemento-nt-saneamiento-250-mm",
+      "m": 6,
+      "p": 33.27,
+      "s": "CANALIZACIÓN FIBROCEMENTO NT, SANEAMIENTO 250 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-fibrocemento-nt-saneamiento-300-mm",
+      "m": 6,
+      "p": 41.47,
+      "s": "CANALIZACIÓN FIBROCEMENTO NT, SANEAMIENTO 300 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-hormigon-con-colector-circular-200-mm",
+      "m": 3,
+      "p": 29.44,
+      "s": "CANALIZACIÓN HORMIGÓN CON COLECTOR CIRCULAR 200 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-hormigon-con-colector-circular-250-mm",
+      "m": 3,
+      "p": 32.86,
+      "s": "CANALIZACIÓN HORMIGÓN CON COLECTOR CIRCULAR 250 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-hormigon-con-colector-circular-300-mm",
+      "m": 3,
+      "p": 35.83,
+      "s": "CANALIZACIÓN HORMIGÓN CON COLECTOR CIRCULAR 300 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-hormigon-con-colector-circular-400-mm",
+      "m": 3,
+      "p": 43.77,
+      "s": "CANALIZACIÓN HORMIGÓN CON COLECTOR CIRCULAR 400 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-hormigon-con-colector-circular-500-mm",
+      "m": 3,
+      "p": 48.91,
+      "s": "CANALIZACIÓN HORMIGÓN CON COLECTOR CIRCULAR 500 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-hormigon-con-colector-circular-600-mm",
+      "m": 3,
+      "p": 65.28,
+      "s": "CANALIZACIÓN HORMIGÓN CON COLECTOR CIRCULAR 600 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-hormigon-con-colector-circular-800-mm",
+      "m": 4,
+      "p": 82.58,
+      "s": "CANALIZACIÓN HORMIGÓN CON COLECTOR CIRCULAR 800 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canalizacion-hormigon-con-colector-de-seccion-ovoidal",
+      "m": 4,
+      "p": 163.91,
+      "s": "CANALIZACIÓN HORMIGÓN CON COLECTOR DE SECCIÓN OVOIDAL",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-telefonica-dos-conductos-de-t-de-pvc-de-110-mm",
+      "m": 4,
+      "p": 33.09,
+      "s": "CANALIZACIÓN TELEFÓNICA, DOS CONDUCTOS DE T. DE PVC DE 110 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-telefonica-dos-conductos-de-t-de-pvc-de-40-mm",
+      "m": 4,
+      "p": 23.79,
+      "s": "CANALIZACIÓN TELEFÓNICA, DOS CONDUCTOS DE T. DE PVC DE 40 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-telefonica-dos-conductos-de-t-de-pvc-de-63-mm",
+      "m": 4,
+      "p": 26.23,
+      "s": "CANALIZACIÓN TELEFÓNICA, DOS CONDUCTOS DE T. DE PVC DE 63 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-telefonica-un-conducto-de-t-de-pvc-de-40-mm",
+      "m": 4,
+      "p": 20.33,
+      "s": "CANALIZACIÓN TELEFÓNICA, UN CONDUCTO DE T. DE PVC DE 40 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canasta-baloncesto-fija-antivandalica",
+      "m": 7,
+      "p": 1890.17,
+      "s": "CANASTA BALONCESTO FIJA ANTIVANDÁLICA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canasta-baloncesto-minibasket-antivandalica",
+      "m": 7,
+      "p": 903.94,
+      "s": "CANASTA BALONCESTO \"MINIBASKET\" ANTIVANDÁLICA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cancela-de-cerrajeria-artistica-2-hojas-abatibles",
+      "m": 10,
+      "p": 113.32,
+      "s": "CANCELA DE CERRAJERÍA ARTÍSTICA 2 HOJAS ABATIBLES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-carrusel",
+      "m": 7,
+      "p": 1787.45,
+      "s": "CARRUSEL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-cartel-parque-de-perros",
+      "m": 6,
+      "p": 202.72,
+      "s": "CARTEL PARQUE DE PERROS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-caseta-de-juegos",
+      "m": 7,
+      "p": 4751.99,
+      "s": "CASETA DE JUEGOS",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-caseta-prefabricada-para-centro-transformacion",
+      "m": 10,
+      "p": 12290.05,
+      "s": "CASETA PREFABRICADA PARA CENTRO TRANSFORMACIÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-03",
+      "g": [],
+      "id": "wi-catalpa-comun-catalpa-bignonioides-calibre-6-8",
+      "m": 4,
+      "p": 46.53,
+      "s": "CATALPA COMÚN (CATALPA BIGNONIOIDES) CALIBRE 6-8",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cerramiento-de-cerrajeria-artistica",
+      "m": 10,
+      "p": 97.57,
+      "s": "CERRAMIENTO DE CERRAJERÍA ARTÍSTICA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-cerramiento-de-pistas-polideportivas-de-4-m-altura",
+      "m": 8,
+      "p": 14.64,
+      "s": "CERRAMIENTO DE PISTAS POLIDEPORTIVAS DE 4 m ALTURA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-cerramiento-postes-cada-3-m-y-malla-galv",
+      "m": 7,
+      "p": 17.71,
+      "s": "CERRAMIENTO POSTES CADA 3 m Y MALLA GALV.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-cerramientos-postes-cada-2-50-m-y-malla-galv-rizada",
+      "m": 6,
+      "p": 27.35,
+      "s": "CERRAMIENTOS POSTES CADA 2,50 m Y MALLA GALV. RIZADA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-cipres-de-arizona-de-5-5-6m-de-altura",
+      "m": 7,
+      "p": 152.32,
+      "s": "CIPRÉS DE ARIZONA DE 5.5-6m DE ALTURA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-alumbrado-2x10-mm2-bajo-t-fibrocemento",
+      "m": 9,
+      "p": 25.21,
+      "s": "CIRCUITO ALUMBRADO 2x10 mm2 BAJO T. FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-alumbrado-2x6-mm2-bajo-t-fibrocemento",
+      "m": 9,
+      "p": 21.33,
+      "s": "CIRCUITO ALUMBRADO 2x6 mm2 BAJO T. FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-alumbrado-4x4-mm2-bajo-t-pvc",
+      "m": 9,
+      "p": 20.43,
+      "s": "CIRCUITO ALUMBRADO 4x4 mm2 BAJO T. PVC",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-alumbrado-4x6-mm2-bajo-t-pvc",
+      "m": 9,
+      "p": 23.25,
+      "s": "CIRCUITO ALUMBRADO 4x6 mm2 BAJO T. PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-3x120-1x70-mm2-bajo-t-pvc",
+      "m": 8,
+      "p": 37.5,
+      "s": "CIRCUITO ELÉC. C. ALUM. 3x120+1x70 mm2 BAJO T. PVC",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-3x120-1x70-mm2-prot-l-macizo",
+      "m": 8,
+      "p": 30.95,
+      "s": "CIRCUITO ELÉC. C. ALUM. 3x120+1x70 mm2 PROT. L/MACIZO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-3x35-1x16-mm2-bajo-t-fibrocemento",
+      "m": 8,
+      "p": 26.87,
+      "s": "CIRCUITO ELÉC. C. ALUM. 3x35+1x16 mm2 BAJO T. FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-3x35-1x16-mm2-bajo-t-pvc",
+      "m": 8,
+      "p": 24.87,
+      "s": "CIRCUITO ELÉC. C. ALUM. 3x35+1x16 mm2 BAJO T. PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-3x35-1x16-mm2-prot-l-macizo",
+      "m": 8,
+      "p": 18.82,
+      "s": "CIRCUITO ELÉC. C. ALUM. 3x35+1x16 mm2 PROT. L/MACIZO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-3x50-1x25-mm2-bajo-t-fibrocemento",
+      "m": 8,
+      "p": 30.36,
+      "s": "CIRCUITO ELÉC. C. ALUM. 3x50+1x25 mm2 BAJO T. FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-3x50-1x25-mm2-bajo-t-pvc",
+      "m": 8,
+      "p": 28.36,
+      "s": "CIRCUITO ELÉC. C. ALUM. 3x50+1x25 mm2 BAJO T. PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-3x50-1x25-mm2-prot-l-macizo",
+      "m": 8,
+      "p": 22.31,
+      "s": "CIRCUITO ELÉC. C. ALUM. 3x50+1x25 mm2 PROT. L/MACIZO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-3x70-1x35-mm2-bajo-t-pvc",
+      "m": 8,
+      "p": 30.09,
+      "s": "CIRCUITO ELÉC. C. ALUM. 3x70+1x35 mm2 BAJO T. PVC",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-3x70-1x35-mm2-prot-l-macizo",
+      "m": 8,
+      "p": 24.04,
+      "s": "CIRCUITO ELÉC. C. ALUM. 3x70+1x35 mm2 PROT. L/MACIZO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-3x95-1x50-mm2-bajo-t-pvc",
+      "m": 8,
+      "p": 35.52,
+      "s": "CIRCUITO ELÉC. C. ALUM. 3x95+1x50 mm2 BAJO T. PVC",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-3x95-1x50-mm2-prot-l-macizo",
+      "m": 8,
+      "p": 28.97,
+      "s": "CIRCUITO ELÉC. C. ALUM. 3x95+1x50 mm2 PROT. L/MACIZO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-4x10-mm2-bajo-t-fibrocemento",
+      "m": 7,
+      "p": 22.88,
+      "s": "CIRCUITO ELÉC. C. ALUM. 4x10 mm2 BAJO T. FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-4x10-mm2-bajo-t-pvc",
+      "m": 7,
+      "p": 20.67,
+      "s": "CIRCUITO ELÉC. C. ALUM. 4x10 mm2 BAJO T. PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-4x10-mm2-prot-l-macizo",
+      "m": 7,
+      "p": 14.83,
+      "s": "CIRCUITO ELÉC. C. ALUM. 4x10 mm2 PROT. L/MACIZO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-4x16-mm2-bajo-t-fibrocemento",
+      "m": 7,
+      "p": 24.46,
+      "s": "CIRCUITO ELÉC. C. ALUM. 4x16 mm2 BAJO T. FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-4x16-mm2-bajo-t-pvc",
+      "m": 7,
+      "p": 22.25,
+      "s": "CIRCUITO ELÉC. C. ALUM. 4x16 mm2 BAJO T. PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-4x16-mm2-prot-l-macizo",
+      "m": 7,
+      "p": 15.71,
+      "s": "CIRCUITO ELÉC. C. ALUM. 4x16 mm2 PROT. L/MACIZO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-4x25-mm2-bajo-t-fibrocemento",
+      "m": 7,
+      "p": 25.92,
+      "s": "CIRCUITO ELÉC. C. ALUM. 4x25 mm2 BAJO T. FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-4x25-mm2-bajo-t-pvc",
+      "m": 7,
+      "p": 23.71,
+      "s": "CIRCUITO ELÉC. C. ALUM. 4x25 mm2 BAJO T. PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-alum-4x25-mm2-prot-l-macizo",
+      "m": 7,
+      "p": 17.87,
+      "s": "CIRCUITO ELÉC. C. ALUM. 4x25 mm2 PROT. L/MACIZO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-cobre-3x25-1x16-mm2-bajo-t-pvc",
+      "m": 8,
+      "p": 49.67,
+      "s": "CIRCUITO ELÉC. C. COBRE 3x25+1x16 mm2 BAJO T. PVC",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-elec-c-cobre-3x25-1x16-mm2-prot-l-macizo",
+      "m": 8,
+      "p": 43.83,
+      "s": "CIRCUITO ELÉC. C. COBRE 3x25+1x16 mm2 PROT. L/MACIZO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-cobre-3x35-1x16-mm2-bajo-t-fibrocemento",
+      "m": 8,
+      "p": 62.26,
+      "s": "CIRCUITO ELÉC. C. COBRE 3x35+1x16 mm2 BAJO T. FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-cobre-3x35-1x16-mm2-bajo-t-pvc",
+      "m": 8,
+      "p": 60.26,
+      "s": "CIRCUITO ELÉC. C. COBRE 3x35+1x16 mm2 BAJO T. PVC",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-elec-c-cobre-3x35-1x16-mm2-prot-l-macizo",
+      "m": 8,
+      "p": 54.21,
+      "s": "CIRCUITO ELÉC. C. COBRE 3x35+1x16 mm2 PROT. L/MACIZO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-cobre-3x50-1x25-mm2-bajo-t-fibrocemento",
+      "m": 8,
+      "p": 82.89,
+      "s": "CIRCUITO ELÉC. C. COBRE 3x50+1x25 mm2 BAJO T. FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-cobre-3x50-1x25-mm2-bajo-t-pvc",
+      "m": 8,
+      "p": 80.89,
+      "s": "CIRCUITO ELÉC. C. COBRE 3x50+1x25 mm2 BAJO T. PVC",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-elec-c-cobre-3x50-1x25-mm2-prot-l-macizo",
+      "m": 8,
+      "p": 74.84,
+      "s": "CIRCUITO ELÉC. C. COBRE 3x50+1x25 mm2 PROT. L/MACIZO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-cobre-3x95-1x50-mm2-bajo-t-pvc",
+      "m": 8,
+      "p": 133.4,
+      "s": "CIRCUITO ELÉC. C. COBRE 3x95+1x50 mm2 BAJO T. PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-cobre-4x-6-mm2-bajo-t-fibrocemento",
+      "m": 7,
+      "p": 21.26,
+      "s": "CIRCUITO ELÉC. C. COBRE 4x 6 mm2 BAJO T. FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-cobre-4x-6-mm2-bajo-t-pvc",
+      "m": 7,
+      "p": 19.05,
+      "s": "CIRCUITO ELÉC. C. COBRE 4x 6 mm2 BAJO T. PVC",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-elec-c-cobre-4x-6-mm2-prot-l-macizo",
+      "m": 6,
+      "p": 11.27,
+      "s": "CIRCUITO ELÉC. C. COBRE 4x 6 mm2 PROT. L/MACIZO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-cobre-4x10-mm2-bajo-t-fibrocemento",
+      "m": 7,
+      "p": 35.12,
+      "s": "CIRCUITO ELÉC. C. COBRE 4x10 mm2 BAJO T. FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-cobre-4x10-mm2-bajo-t-pvc",
+      "m": 7,
+      "p": 32.91,
+      "s": "CIRCUITO ELÉC. C. COBRE 4x10 mm2 BAJO T. PVC",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-elec-c-cobre-4x10-mm2-prot-l-macizo",
+      "m": 7,
+      "p": 27.07,
+      "s": "CIRCUITO ELÉC. C. COBRE 4x10 mm2 PROT. L/MACIZO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-cobre-4x16-mm2-bajo-t-fibrocemento",
+      "m": 7,
+      "p": 43.09,
+      "s": "CIRCUITO ELÉC. C. COBRE 4x16 mm2 BAJO T. FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-c-cobre-4x16-mm2-bajo-t-pvc",
+      "m": 7,
+      "p": 40.18,
+      "s": "CIRCUITO ELÉC. C. COBRE 4x16 mm2 BAJO T. PVC",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-elec-c-cobre-4x16-mm2-prot-l-macizo",
+      "m": 7,
+      "p": 35.04,
+      "s": "CIRCUITO ELÉC. C. COBRE 4x16 mm2 PROT. L/MACIZO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-elec-d-cobre-3x25-1x16-mm2-bajo-t-fibrocemento",
+      "m": 8,
+      "p": 51.88,
+      "s": "CIRCUITO ELÉC. D. COBRE 3x25+1x16 mm2 BAJO T. FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-ciruelo-rojo-de-diametro-de-25-a-30cm",
+      "m": 7,
+      "p": 132.32,
+      "s": "CIRUELO ROJO DE DIÁMETRO DE 25 A 30CM",
+      "u": "u"
+    },
+    {
+      "d": "2022-03",
+      "g": [],
+      "id": "wi-ciruelo-rojo-prunus-cerasifera-pissardii-calibre-6-8",
+      "m": 4,
+      "p": 44.53,
+      "s": "CIRUELO ROJO (PRUNUS CERASIFERA PISSARDII) CALIBRE 6-8",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-citrus-mirtifolia-18-20",
+      "m": 7,
+      "p": 534.91,
+      "s": "CITRUS MIRTIFOLIA 18-20",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-codo-45-90-diam-110-mm-polietileno-pe50a-pn-10",
+      "m": 5,
+      "p": 73.69,
+      "s": "CODO 45/90º DIÁM. 110 mm POLIETILENO PE50A, PN-10",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-codo-45-90-diam-125-mm-polietileno-pe50a-pn-10",
+      "m": 5,
+      "p": 89,
+      "s": "CODO 45/90º DIÁM. 125 mm POLIETILENO PE50A, PN-10",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-codo-45-90-diam-75-mm-polietileno-pe50a-pn-10",
+      "m": 5,
+      "p": 42.38,
+      "s": "CODO 45/90º DIÁM. 75 mm POLIETILENO PE50A, PN-10",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-codo-45-90-diam-90-mm-polietileno-pe50a-pn-10",
+      "m": 5,
+      "p": 51.71,
+      "s": "CODO 45/90º DIÁM. 90 mm POLIETILENO PE50A, PN-10",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-codo-bb-22-45-90-diam-100-mm",
+      "m": 8,
+      "p": 191.69,
+      "s": "CODO BB 22/45/90º DIÁM. 100 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-codo-bb-22-45-90-diam-100-pn-16",
+      "m": 8,
+      "p": 231.71,
+      "s": "CODO BB 22/45/90º DIÁM. 100, PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-codo-bb-22-45-90-diam-150-mm",
+      "m": 8,
+      "p": 284.92,
+      "s": "CODO BB 22/45/90º DIÁM. 150 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-codo-bb-22-45-90-diam-150-mm-pn-16",
+      "m": 8,
+      "p": 373.8,
+      "s": "CODO BB 22/45/90º DIÁM. 150 mm, PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-codo-bb-22-45-90-diam-200-mm",
+      "m": 8,
+      "p": 438.49,
+      "s": "CODO BB 22/45/90º DIÁM. 200 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-codo-bb-22-45-90-diam-200-mm-pn-16",
+      "m": 8,
+      "p": 531.47,
+      "s": "CODO BB 22/45/90º DIÁM. 200 mm, PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-codo-bb-22-45-90-diam-80-mm",
+      "m": 8,
+      "p": 160.74,
+      "s": "CODO BB 22/45/90º DIÁM. 80 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-codo-bb-22-45-90-diam-80-pn-16",
+      "m": 8,
+      "p": 194.64,
+      "s": "CODO BB 22/45/90º DIÁM. 80, PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-codo-ee-22-45-90-diam-100-mm-junta-mec",
+      "m": 5,
+      "p": 71.51,
+      "s": "CODO EE 22/45/90º DIÁM. 100 mm, JUNTA MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-codo-ee-22-45-90-diam-150-mm-junta-mec",
+      "m": 5,
+      "p": 108.91,
+      "s": "CODO EE 22/45/90º DIÁM. 150 mm, JUNTA MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-codo-ee-22-45-90-diam-200-mm-junta-mec",
+      "m": 5,
+      "p": 135.75,
+      "s": "CODO EE 22/45/90º DIÁM. 200 mm, JUNTA MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-codo-ee-22-45-90-diam-80-mm-junta-mec",
+      "m": 5,
+      "p": 59.46,
+      "s": "CODO EE 22/45/90º DIÁM. 80 mm, JUNTA MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-codo-ee-45-90-diam-90-mm-pn-16-junta-elast",
+      "m": 5,
+      "p": 60.53,
+      "s": "CODO EE 45/90º DIÁM. 90 mm PN-16, JUNTA ELAST.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-codo-ll-45-90-diam-100-a-d",
+      "m": 6,
+      "p": 68.75,
+      "s": "CODO LL 45/90º DIÁM. 100 A/D",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-codo-ll-45-90-diam-150-a-d",
+      "m": 6,
+      "p": 144.06,
+      "s": "CODO LL 45/90º DIÁM. 150 A/D",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-codo-ll-45-90-diam-200-d",
+      "m": 6,
+      "p": 247.85,
+      "s": "CODO LL 45/90º DIÁM. 200 D",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-codo-ll-45-90-diam-80-a-f",
+      "m": 6,
+      "p": 55.84,
+      "s": "CODO LL 45/90º DIÁM. 80 A/F",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-columpio-doble",
+      "m": 7,
+      "p": 1334.1,
+      "s": "COLUMPIO DOBLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-columpio-doble-estiramiento-piernas",
+      "m": 6,
+      "p": 722.84,
+      "s": "COLUMPIO DOBLE ESTIRAMIENTO PIERNAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-columpio-doble-mixto",
+      "m": 7,
+      "p": 1399.99,
+      "s": "COLUMPIO DOBLE MIXTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-columpio-doble-mixto-adaptado",
+      "m": 7,
+      "p": 1599.99,
+      "s": "COLUMPIO DOBLE MIXTO ADAPTADO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-columpio-nido",
+      "m": 7,
+      "p": 2496.81,
+      "s": "COLUMPIO NIDO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-compactacion-en-20-cm-profundidad-con-m-mecanicos",
+      "m": 4,
+      "p": 0.61,
+      "s": "COMPACTACIÓN EN 20 cm PROFUNDIDAD CÓN M. MECÁNICOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-compactacion-superficial-con-pison-mecanico",
+      "m": 3,
+      "p": 2.89,
+      "s": "COMPACTACIÓN SUPERFICIAL CÓN PISÓN MECÁNICO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-concepto-15spe00315",
+      "m": 5,
+      "p": 60.95,
+      "s": "Concepto 15SPE00315",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cond-fibrocemento-diam-100-mm-tipo-a-d-junta-rk",
+      "m": 4,
+      "p": 13.34,
+      "s": "COND. FIBROCEMENTO DIÁM. 100 mm TIPO A/D, JUNTA RK",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cond-fibrocemento-diam-150-mm-tipo-a-d-junta-rk",
+      "m": 4,
+      "p": 18.24,
+      "s": "COND. FIBROCEMENTO DIÁM. 150 mm TIPO A/D, JUNTA RK",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cond-fibrocemento-diam-200-mm-tipo-d-junta-rk",
+      "m": 4,
+      "p": 25.98,
+      "s": "COND. FIBROCEMENTO DIÁM. 200 mm TIPO D, JUNTA RK",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cond-fibrocemento-diam-250-mm-tipo-d-junta-rk",
+      "m": 4,
+      "p": 33.08,
+      "s": "COND. FIBROCEMENTO DIÁM. 250 mm TIPO D, JUNTA RK",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cond-fibrocemento-diam-80-mm-tipo-a-f-junta-rk",
+      "m": 4,
+      "p": 11.04,
+      "s": "COND. FIBROCEMENTO DIÁM. 80 mm TIPO A/F, JUNTA RK",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cond-fundicion-duct-diam-100-mm-junta-aut",
+      "m": 4,
+      "p": 21.31,
+      "s": "COND. FUNDICIÓN DUCT. DIÁM. 100, mm JUNTA AUT.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cond-fundicion-duct-diam-150-mm-junta-aut",
+      "m": 4,
+      "p": 30.6,
+      "s": "COND. FUNDICIÓN DUCT. DIÁM. 150, mm JUNTA AUT.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cond-fundicion-duct-diam-200-mm-junta-aut",
+      "m": 4,
+      "p": 40.04,
+      "s": "COND. FUNDICIÓN DUCT. DIÁM. 200, mm JUNTA AUT.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cond-fundicion-duct-diam-80-mm-junta-aut",
+      "m": 4,
+      "p": 18.26,
+      "s": "COND. FUNDICIÓN DUCT. DIÁM. 80, mm JUNTA AUT.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cond-fundundicion-duct-diam-300-mm",
+      "m": 4,
+      "p": 102.88,
+      "s": "COND. FUNDUNDICIÓN DUCT. DIAM. 300 mm.",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-cond-gres-vitrificado-diam-300-mm",
+      "m": 5,
+      "p": 56.4,
+      "s": "COND. GRES VITRIFICADO DIAM. 300 mm.",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-cond-gres-vitrificado-diam-400mm",
+      "m": 5,
+      "p": 68.44,
+      "s": "COND. GRES VITRIFICADO DIAM. 400mm.",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-cond-gres-vitrificado-diam-500mm",
+      "m": 5,
+      "p": 105.76,
+      "s": "COND. GRES VITRIFICADO DIAM. 500mm.",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-cond-gres-vitrificado-diam-800mm",
+      "m": 5,
+      "p": 250.77,
+      "s": "COND. GRES VITRIFICADO DIAM. 800mm.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cond-polietileno-pe100-diam-250-mm-pn-10",
+      "m": 4,
+      "p": 22.41,
+      "s": "COND. POLIETILENO PE100 DIÁM. 250 mm PN-10",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cond-polietileno-pe50a-diam-110-mm-pn-10",
+      "m": 4,
+      "p": 12.72,
+      "s": "COND. POLIETILENO PE50A DIÁM. 110 mm PN-10",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cond-polietileno-pe50a-diam-125-mm-pn-10",
+      "m": 4,
+      "p": 16.15,
+      "s": "COND. POLIETILENO PE50A DIÁM. 125 mm PN-10",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cond-polietileno-pe50a-diam-200-mm-pn-10",
+      "m": 4,
+      "p": 17.97,
+      "s": "COND. POLIETILENO PE50A DIÁM. 200 mm PN-10",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cond-polietileno-pe50a-diam-75-mm-pn-10",
+      "m": 4,
+      "p": 6.63,
+      "s": "COND. POLIETILENO PE50A DIÁM. 75 mm PN-10",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cond-polietileno-pe50a-diam-90-mm-pn-10",
+      "m": 4,
+      "p": 8.9,
+      "s": "COND. POLIETILENO PE50A DIÁM. 90 mm PN-10",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-cond-pvc-diam-90-mm-pn-16-junta-elast",
+      "m": 4,
+      "p": 9.4,
+      "s": "COND. PVC DIÁM. 90 mm PN-16, JUNTA ELAST.",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-conifera-variada-decorativa",
+      "m": 7,
+      "p": 120.38,
+      "s": "CONIFERA VARIADA DECORATIVA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-conjunto-de-pivotes-de-equilibrio",
+      "m": 6,
+      "p": 1460.99,
+      "s": "CONJUNTO DE PIVOTES DE EQUILIBRIO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-conjunto-vallas-de-salto",
+      "m": 6,
+      "p": 2059.98,
+      "s": "CONJUNTO VALLAS DE SALTO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-contador-general-de-65-mm",
+      "m": 8,
+      "p": 1597.64,
+      "s": "CONTADOR GENERAL DE 65 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cuadro-de-alumbrado-publico-empotrado",
+      "m": 10,
+      "p": 643.95,
+      "s": "CUADRO DE ALUMBRADO PÚBLICO EMPOTRADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cuneta-prefabricada-de-hormigon-de-30x10-cm",
+      "m": 5,
+      "p": 30.07,
+      "s": "CUNETA PREFABRICADA DE HORMIGÓN DE 30x10 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-dama-de-noche-80-100",
+      "m": 4,
+      "p": 30.69,
+      "s": "DAMA DE NOCHE 80/100",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-deriv-t-bbb-100x80-100-pn-16",
+      "m": 8,
+      "p": 258.76,
+      "s": "DERIV. \"T\" BBB 100X80/100 PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-deriv-t-bbb-150x80-150-pn-16",
+      "m": 8,
+      "p": 412.09,
+      "s": "DERIV. \"T\" BBB 150X80/150 PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-deriv-t-bbb-200x150-200-pn-16",
+      "m": 8,
+      "p": 608.42,
+      "s": "DERIV. \"T\" BBB 200X150/200 PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-deriv-t-bbb-200x80-100-pn-16",
+      "m": 8,
+      "p": 554.04,
+      "s": "DERIV. \"T\" BBB 200X80/100 PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivac-t-bbb-80x80-mm-pn-16",
+      "m": 8,
+      "p": 226.38,
+      "s": "DERIVAC. \"T\" BBB 80X80 mm PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivac-t-eeb-100x80-100-mm-junta-mec",
+      "m": 5,
+      "p": 83.27,
+      "s": "DERIVAC. \"T\" EEB 100X80/100 mm, JUNTA MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivac-t-eeb-150x80-150-mm-junta-mec",
+      "m": 5,
+      "p": 124.93,
+      "s": "DERIVAC. \"T\" EEB 150X80/150 mm, JUNTA MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivac-t-eeb-200x80-200-mm-junta-mec",
+      "m": 5,
+      "p": 158.64,
+      "s": "DERIVAC. \"T\" EEB 200X80/200 mm, JUNTA MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivac-t-lbl-100x80-100-mm",
+      "m": 6,
+      "p": 111.04,
+      "s": "DERIVAC. \"T\" LBL 100X80/100 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivac-t-lbl-150x150-mm",
+      "m": 6,
+      "p": 228.63,
+      "s": "DERIVAC. \"T\" LBL 150X150 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivac-t-lbl-150x80-100-mm",
+      "m": 6,
+      "p": 188.66,
+      "s": "DERIVAC. \"T\" LBL 150X80/100 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivac-t-lbl-200x150-mm",
+      "m": 6,
+      "p": 332.12,
+      "s": "DERIVAC. \"T\" LBL 200X150 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivac-t-lbl-200x200-mm",
+      "m": 6,
+      "p": 369.15,
+      "s": "DERIVAC. \"T\" LBL 200X200 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivac-t-lbl-200x80-100-mm",
+      "m": 6,
+      "p": 286.94,
+      "s": "DERIVAC. \"T\" LBL 200X80/100 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivacion-eeb-90x80-mm-pn-16-junta-elast",
+      "m": 5,
+      "p": 68.72,
+      "s": "DERIVACIÓN EEB 90X80 mm PN-16, JUNTA ELAST.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivacion-t-110x75-110-mmpolietileno-pe50a-pn-10",
+      "m": 5,
+      "p": 73.66,
+      "s": "DERIVACIÓN \"T\"110X75/110 mmPOLIETILENO PE50A PN-10",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivacion-t-125x75-125-mmpolietileno-pe50a-pn-10",
+      "m": 5,
+      "p": 95.74,
+      "s": "DERIVACIÓN \"T\"125X75/125 mmPOLIETILENO PE50A PN-10",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivacion-t-75x75-mm-polietileno-pe50a-pn-10",
+      "m": 5,
+      "p": 44.8,
+      "s": "DERIVACIÓN \"T\" 75X75 mm POLIETILENO PE50A, PN-10",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivacion-t-90x75-90-mm-polietileno-pe50a-pn-10",
+      "m": 5,
+      "p": 60.84,
+      "s": "DERIVACIÓN \"T\" 90X75/90 mm POLIETILENO PE50A PN-10",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivacion-t-bbb-100x80-100-mm",
+      "m": 8,
+      "p": 218.74,
+      "s": "DERIVACIÓN \"T\" BBB 100X80/100 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivacion-t-bbb-150x80-150-mm",
+      "m": 8,
+      "p": 323.21,
+      "s": "DERIVACIÓN \"T\" BBB 150X80/150 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivacion-t-bbb-200x150-200-mm",
+      "m": 8,
+      "p": 515.44,
+      "s": "DERIVACIÓN \"T\" BBB 200X150/200 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivacion-t-bbb-200x80-100-mm",
+      "m": 8,
+      "p": 458.8,
+      "s": "DERIVACIÓN \"T\" BBB 200X80/100 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivacion-t-bbb-80x80-mm",
+      "m": 8,
+      "p": 192.48,
+      "s": "DERIVACIÓN \"T\" BBB 80X80 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivacion-t-eeb-80x80-mm-junta-mec",
+      "m": 5,
+      "p": 68.31,
+      "s": "DERIVACIÓN \"T\" EEB 80X80 mm, JUNTA MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivacion-t-lbl-80x80-mm",
+      "m": 6,
+      "p": 92.59,
+      "s": "DERIVACIÓN \"T\" LBL 80X80 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-desague-diam-80-mm-en-cond-fd-diam-200-mm-bbb",
+      "m": 13,
+      "p": 1485,
+      "s": "DESAGÜE DIÁM. 80 mm EN COND. FD. DIÁM. 200 mm, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-desague-diam-80-mm-en-cond-fd-diam-200-mm-eeb",
+      "m": 10,
+      "p": 1176.57,
+      "s": "DESAGÜE DIÁM. 80 mm EN COND. FD. DIÁM. 200 mm, EEB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-desague-diam-80-mm-en-cond-fib-diam-200-mm-bbb",
+      "m": 13,
+      "p": 1596.88,
+      "s": "DESAGÜE DIÁM. 80 mm EN COND. FIB. DIÁM. 200 mm, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-desague-diam-80-mm-en-cond-fib-diam-200-mm-lbl",
+      "m": 12,
+      "p": 1291.73,
+      "s": "DESAGÜE DIÁM. 80 mm EN COND. FIB. DIÁM. 200 mm, LBL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-desague-diam-80-mm-en-cond-pol-diam-125-mm",
+      "m": 10,
+      "p": 1127.02,
+      "s": "DESAGÜE DIÁM. 80 mm EN COND. POL. DIÁM. 125 mm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-ducha-para-playa",
+      "m": 6,
+      "p": 2094.2,
+      "s": "DUCHA PARA PLAYA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-ejemplar-especial-de-conifera-resinosa",
+      "m": 7,
+      "p": 155.39,
+      "s": "EJEMPLAR ESPECIAL DE CONÍFERA RESINOSA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-elevador-por-flexion-de-brazos",
+      "m": 6,
+      "p": 853.27,
+      "s": "ELEVADOR POR FLEXIÓN DE BRAZOS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-eliptica",
+      "m": 6,
+      "p": 808.39,
+      "s": "ELÍPTICA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-empedrado-de-6-cm-con-grava-de-rio-de-80-mm",
+      "m": 4,
+      "p": 37.09,
+      "s": "EMPEDRADO DE 6 cm CON GRAVA DE RIO DE 80 mm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-encachado-de-albero-de-15-cm-de-espesor-m-mecanicos",
+      "m": 3,
+      "p": 5.85,
+      "s": "ENCACHADO DE ALBERO DE 15 cm DE ESPESOR M. MECÁNICOS",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-encintado-acanalado-piezas-prefabricadas-hm-40-65x35-cm",
+      "m": 5,
+      "p": 47.14,
+      "s": "ENCINTADO ACANALADO PIEZAS PREFABRICADAS HM-40 65x35 cm",
+      "u": "m"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-encintado-con-dos-filas-de-adoquin-de-granito-10x19-cm",
+      "m": 4,
+      "p": 22.42,
+      "s": "ENCINTADO CON DOS FILAS DE ADOQUÍN DE GRANITO 10x19 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-engravillado-de-3-cm-con-arena-de-rio-y-grava-de-25-mm",
+      "m": 4,
+      "p": 3.73,
+      "s": "ENGRAVILLADO DE 3 cm CON ARENA DE RIO Y GRAVA DE 25 mm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-entibacion-cuajada-en-excavaciones",
+      "m": 6,
+      "p": 18.47,
+      "s": "ENTIBACIÓN CUAJADA EN EXCAVACIONES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-entibacion-semicuajada-en-excavaciones",
+      "m": 6,
+      "p": 11.25,
+      "s": "ENTIBACIÓN SEMICUAJADA EN EXCAVACIONES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-equipo-de-balanceo-doble",
+      "m": 6,
+      "p": 717.16,
+      "s": "EQUIPO DE BALANCEO DOBLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-equipo-torsion-cintura-multiple",
+      "m": 6,
+      "p": 1090.66,
+      "s": "EQUIPO TORSIÓN CINTURA MÚLTIPLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-equipo-volantes-multiple",
+      "m": 6,
+      "p": 635.49,
+      "s": "EQUIPO VOLANTES MÚLTIPLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-escalera-horizontal",
+      "m": 6,
+      "p": 1759.68,
+      "s": "ESCALERA HORIZONTAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-escarificado-manual-superficial",
+      "m": 2,
+      "p": 0.13,
+      "s": "ESCARIFICADO MANUAL SUPERFICIAL",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-espaldera-doble",
+      "m": 6,
+      "p": 2039.62,
+      "s": "ESPALDERA DOBLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-estor-enrollable-opaco-aulas",
+      "m": 3,
+      "p": 127.82,
+      "s": "ESTOR ENROLLABLE OPACO AULAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-estructura-metalica-porta-rosal-trepador",
+      "m": 4,
+      "p": 31.62,
+      "s": "ESTRUCTURA METÁLICA PORTA ROSAL TREPADOR",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-euonymus-japonicus-40-60-cm",
+      "m": 5,
+      "p": 20.64,
+      "s": "EUONYMUS JAPONICUS 40/60 CM.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-desmonte-roca-blanda-c23b",
+      "m": 1,
+      "p": 11.04,
+      "s": "EXC. DESMONTE ROCA BLANDA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-desmonte-roca-dura-a076",
+      "m": 1,
+      "p": 18.4,
+      "s": "EXC. DESMONTE ROCA DURA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-desmonte-tierras-consist-blanda",
+      "m": 1,
+      "p": 0.53,
+      "s": "EXC. DESMONTE TIERRAS CONSIST. BLANDA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-desmonte-tierras-consist-blanda-carga-s-camion",
+      "m": 1,
+      "p": 0.78,
+      "s": "EXC. DESMONTE TIERRAS CONSIST. BLANDA, CARGA S/CAMIÓN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-desmonte-tierras-consist-blanda-transp-terraplen",
+      "m": 1,
+      "p": 0.78,
+      "s": "EXC. DESMONTE TIERRAS CONSIST. BLANDA, TRANSP. TERRAPLEN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-desmonte-tierras-consist-dura",
+      "m": 1,
+      "p": 0.64,
+      "s": "EXC. DESMONTE TIERRAS CONSIST. DURA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-desmonte-tierras-consist-dura-carga-s-camion",
+      "m": 1,
+      "p": 1,
+      "s": "EXC. DESMONTE TIERRAS CONSIST. DURA, CARGA S/CAMIÓN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-desmonte-tierras-consist-dura-transpor-terraplen",
+      "m": 1,
+      "p": 0.92,
+      "s": "EXC. DESMONTE TIERRAS CONSIST. DURA, TRANSPOR. TERRAPLEN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-desmonte-tierras-consist-media",
+      "m": 1,
+      "p": 0.6,
+      "s": "EXC. DESMONTE TIERRAS CONSIST. MEDIA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-desmonte-tierras-consist-media-carga-s-camion",
+      "m": 1,
+      "p": 0.89,
+      "s": "EXC. DESMONTE TIERRAS CONSIST. MEDIA, CARGA S/CAMIÓN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-desmonte-tierras-consist-media-transp-terraplen",
+      "m": 1,
+      "p": 0.85,
+      "s": "EXC. DESMONTE TIERRAS CONSIST. MEDIA, TRANSP. TERRAPLEN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-pozos-roca-blanda-hasta-4-m-prof",
+      "m": 3,
+      "p": 40.53,
+      "s": "EXC. POZOS ROCA BLANDA, HASTA 4 m PROF.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-pozos-roca-dura-hasta-4-m-prof",
+      "m": 3,
+      "p": 65.47,
+      "s": "EXC. POZOS ROCA DURA, HASTA 4 m PROF.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-pozos-terrenos-disgregados-hasta-4-m-prof",
+      "m": 2,
+      "p": 11.23,
+      "s": "EXC. POZOS TERRENOS DISGREGADOS HASTA 4 m PROF.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-pozos-tierras-consist-blanda-hasta-1-50-m-prof",
+      "m": 1,
+      "p": 47.32,
+      "s": "EXC. POZOS TIERRAS CONSIST. BLANDA, HASTA 1,50 m PROF.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-pozos-tierras-consist-blanda-hasta-4-m-prof",
+      "m": 2,
+      "p": 7.93,
+      "s": "EXC. POZOS TIERRAS CONSIST. BLANDA, HASTA 4 m PROF.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-pozos-tierras-consist-dura-hasta-1-50-m-prof",
+      "m": 1,
+      "p": 72.63,
+      "s": "EXC. POZOS TIERRAS CONSIST. DURA, HASTA 1,50 m PROF.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-pozos-tierras-consist-dura-hasta-4-m-prof",
+      "m": 2,
+      "p": 11.89,
+      "s": "EXC. POZOS TIERRAS CONSIST. DURA, HASTA 4 m PROF.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-pozos-tierras-consist-media-hasta-1-50-m-prof",
+      "m": 1,
+      "p": 59.43,
+      "s": "EXC. POZOS TIERRAS CONSIST. MEDIA, HASTA 1,50 m PROF.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-pozos-tierras-consist-media-hasta-4-m-prof",
+      "m": 2,
+      "p": 9.41,
+      "s": "EXC. POZOS TIERRAS CONSIST. MEDIA, HASTA 4 m PROF.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-vaciado-tierras-consist-blanda",
+      "m": 2,
+      "p": 1.23,
+      "s": "EXC. VACIADO TIERRAS CONSIST. BLANDA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-vaciado-tierras-consist-dura",
+      "m": 2,
+      "p": 1.62,
+      "s": "EXC. VACIADO TIERRAS CONSIST. DURA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-vaciado-tierras-consist-media",
+      "m": 2,
+      "p": 1.39,
+      "s": "EXC. VACIADO TIERRAS CONSIST. MEDIA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-exc-zanjas-manual-tierras-consist-blanda",
+      "m": 6,
+      "p": 64.15,
+      "s": "EXC. ZANJAS MANUAL TIERRAS CONSIST. BLANDA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-exc-zanjas-manual-tierras-consist-dura",
+      "m": 6,
+      "p": 83.52,
+      "s": "EXC. ZANJAS MANUAL TIERRAS CONSIST. DURA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-exc-zanjas-manual-tierras-consist-media",
+      "m": 6,
+      "p": 71.42,
+      "s": "EXC. ZANJAS MANUAL TIERRAS CONSIST. MEDIA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-zanjas-tierras-consist-blanda",
+      "m": 2,
+      "p": 3.66,
+      "s": "EXC. ZANJAS TIERRAS CONSIST. BLANDA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-zanjas-tierras-consist-blanda-transp-sobrantes",
+      "m": 5,
+      "p": 6.19,
+      "s": "EXC. ZANJAS TIERRAS CONSIST. BLANDA TRANSP. SOBRANTES",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-zanjas-tierras-consist-dura",
+      "m": 2,
+      "p": 4.84,
+      "s": "EXC. ZANJAS TIERRAS CONSIST. DURA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-zanjas-tierras-consist-dura-transp-sobrantes",
+      "m": 5,
+      "p": 7.49,
+      "s": "EXC. ZANJAS TIERRAS CONSIST. DURA TRANSP. SOBRANTES",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-zanjas-tierras-consist-media",
+      "m": 2,
+      "p": 4.09,
+      "s": "EXC. ZANJAS TIERRAS CONSIST. MEDIA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-exc-zanjas-tierras-consist-media-transp-sobrantes",
+      "m": 5,
+      "p": 6.97,
+      "s": "EXC. ZANJAS TIERRAS CONSIST. MEDIA, TRANSP. SOBRANTES",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-excavacion-apertura-de-caja-piedras-consist-dura",
+      "m": 1,
+      "p": 1.28,
+      "s": "EXCAVACIÓN APERTURA DE CAJA PIEDRAS CONSIST. DURA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-excavacion-apertura-de-caja-roca-blanda-bc57",
+      "m": 3,
+      "p": 31.99,
+      "s": "EXCAVACIÓN APERTURA DE CAJA, ROCA BLANDA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-excavacion-apertura-de-caja-roca-dura-c33d",
+      "m": 3,
+      "p": 55.32,
+      "s": "EXCAVACIÓN APERTURA DE CAJA, ROCA DURA",
+      "u": "m3"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-excavacion-apertura-de-caja-roca-dura-uso-explosivos",
+      "m": 7,
+      "p": 72.02,
+      "s": "EXCAVACIÓN APERTURA DE CAJA, ROCA DURA, USO EXPLOSIVOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-excavacion-apertura-de-caja-terreno-disgregado-1aa6",
+      "m": 1,
+      "p": 0.85,
+      "s": "EXCAVACIÓN APERTURA DE CAJA, TERRENO DISGREGADO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-excavacion-apertura-de-caja-tierra-consist-blanda",
+      "m": 1,
+      "p": 1.03,
+      "s": "EXCAVACIÓN APERTURA DE CAJA, TIERRA CONSIST. BLANDA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-excavacion-apertura-de-caja-tierras-consist-media",
+      "m": 1,
+      "p": 1.14,
+      "s": "EXCAVACIÓN APERTURA DE CAJA, TIERRAS CONSIST. MEDIA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-explanacion-con-tierras-de-consistencia-blanda",
+      "m": 5,
+      "p": 1.49,
+      "s": "EXPLANACIÓN CON TIERRAS DE CONSISTENCIA BLANDA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-explanacion-con-tierras-de-consistencia-dura",
+      "m": 5,
+      "p": 2.86,
+      "s": "EXPLANACIÓN CON TIERRAS DE CONSISTENCIA DURA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-explanacion-con-tierras-de-consistencia-media",
+      "m": 5,
+      "p": 2.2,
+      "s": "EXPLANACIÓN CON TIERRAS DE CONSISTENCIA MEDIA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-extendido-manual-tierra-vegetal",
+      "m": 3,
+      "p": 18.73,
+      "s": "EXTENDIDO MANUAL TIERRA VEGETAL",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-farola-chapa-a-galvanizado-9-m",
+      "m": 11,
+      "p": 772.95,
+      "s": "FAROLA CHAPA A. GALVANIZADO 9 m",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-farola-chapa-ac-galvanizado-3-70-m",
+      "m": 10,
+      "p": 265.85,
+      "s": "FAROLA CHAPA AC. GALVANIZADO 3,70 m",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-farola-chapa-aluminio-anodizado-3-70-m",
+      "m": 10,
+      "p": 475.14,
+      "s": "FAROLA CHAPA ALUMINIO ANODIZADO 3,70 m",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-farola-mural-chapa-ac-galvanizado",
+      "m": 8,
+      "p": 149.84,
+      "s": "FAROLA MURAL CHAPA AC. GALVANIZADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-farola-mural-chapa-aluminio-anodizado",
+      "m": 8,
+      "p": 237.29,
+      "s": "FAROLA MURAL CHAPA ALUMINIO ANODIZADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-farola-mural-tradicional-chapa-ac-galvanizado",
+      "m": 8,
+      "p": 242.65,
+      "s": "FAROLA MURAL TRADICIONAL CHAPA AC. GALVANIZADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-farola-mural-tradicional-fundicion",
+      "m": 8,
+      "p": 462.82,
+      "s": "FAROLA MURAL TRADICIONAL FUNDICIÓN",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-farola-tradicional-chapa-ac-galvanizado-3-70-m",
+      "m": 10,
+      "p": 358.66,
+      "s": "FAROLA TRADICIONAL CHAPA AC. GALVANIZADO 3,70 m",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-farola-tradicional-fundicion-3-70-m",
+      "m": 10,
+      "p": 647.79,
+      "s": "FAROLA TRADICIONAL FUNDICIÓN 3,70 m",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-ficus-microcarpa-en-contenedor",
+      "m": 4,
+      "p": 183.95,
+      "s": "FICUS MICROCARPA EN CONTENEDOR",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-firme-alquitranado-horm-asfaltico",
+      "m": 7,
+      "p": 17.76,
+      "s": "FIRME ALQUITRANADO + HORM. ASFALTICO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-firme-de-albero-de-20-cm-de-espesor",
+      "m": 4,
+      "p": 7.95,
+      "s": "FIRME DE ALBERO DE 20 cm DE ESPESOR",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-firme-de-piedra-machacada-compactado-con-m-manuales",
+      "m": 3,
+      "p": 8.2,
+      "s": "FIRME DE PIEDRA MACHACADA, COMPACTADO CON M. MANUALES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-firme-de-piedra-machacada-compactado-con-m-mecanicos",
+      "m": 3,
+      "p": 5.71,
+      "s": "FIRME DE PIEDRA MACHACADA, COMPACTADO CON M. MECÁNICOS",
+      "u": "m2"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-fosa-decantacion-digestion-diam-2-30-m-80-habit",
+      "m": 8,
+      "p": 5267.46,
+      "s": "FOSA DECANTACIÓN DIGESTIÓN DIÁM. 2,30 m 80 HABIT.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-fraxinus-americana-20-25",
+      "m": 4,
+      "p": 131.62,
+      "s": "FRAXINUS AMERICANA 20/25",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-fuente-agua-potable-fundicion",
+      "m": 2,
+      "p": 2104.85,
+      "s": "FUENTE AGUA POTABLE FUNDICIÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-fuente-de-acero-con-rejilla",
+      "m": 5,
+      "p": 780.41,
+      "s": "FUENTE DE ACERO CON REJILLA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-fuente-de-fundicion-de-hierro",
+      "m": 5,
+      "p": 699.86,
+      "s": "FUENTE DE FUNDICIÓN DE HIERRO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-fuente-doble-adaptada",
+      "m": 5,
+      "p": 700.94,
+      "s": "FUENTE DOBLE ADAPTADA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-fuente-para-mascotas",
+      "m": 5,
+      "p": 630.4,
+      "s": "FUENTE PARA MASCOTAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-grupo-de-rocallas-completas",
+      "m": 5,
+      "p": 215.14,
+      "s": "GRUPO DE ROCALLAS COMPLETAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-grupo-de-yucas",
+      "m": 5,
+      "p": 147.7,
+      "s": "GRUPO DE YUCAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-hemerocallis-c-3",
+      "m": 5,
+      "p": 8.9,
+      "s": "HEMEROCALLIS C-3",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-hereda-helix-40-50",
+      "m": 4,
+      "p": 1.97,
+      "s": "HEREDA HELIX 40/50",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-hidrante-colocado-en-canalizacion-de-50-mm",
+      "m": 9,
+      "p": 479.62,
+      "s": "HIDRANTE COLOCADO EN CANALIZACIÓN DE 50 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-hidrante-de-100-mm-diam-de-hierro-fundido",
+      "m": 10,
+      "p": 1813.37,
+      "s": "HIDRANTE DE 100 mm DIÁM. DE HIERRO FUNDIDO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-hidrante-diam-100-mm-cond-fib-diam-150-mm-bbb",
+      "m": 14,
+      "p": 1646.97,
+      "s": "HIDRANTE DIÁM. 100 mm, COND. FIB. DIÁM. 150 mm, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-hidrante-diam-100-mm-cond-fib-diam-150-mm-lbl",
+      "m": 12,
+      "p": 1425.35,
+      "s": "HIDRANTE DIÁM. 100 mm, COND. FIB. DIÁM. 150 mm, LBL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-hidrante-diam-100-mm-cond-fib-diam-200-mm-bbb",
+      "m": 14,
+      "p": 1786.66,
+      "s": "HIDRANTE DIÁM. 100 mm, COND. FIB. DIÁM. 200 mm, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-hidrante-diam-100-mm-cond-fib-diam-200-mm-lbl",
+      "m": 12,
+      "p": 1527.71,
+      "s": "HIDRANTE DIÁM. 100 mm, COND. FIB. DIÁM. 200 mm, LBL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-hidrante-diam-100-mm-cond-fundicion-diam-150-mm-bbb",
+      "m": 14,
+      "p": 1558.09,
+      "s": "HIDRANTE DIÁM. 100 mm, COND. FUNDICIÓN DIÁM. 150 mm, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-hidrante-diam-100-mm-cond-fundicion-diam-150-mm-eeb",
+      "m": 11,
+      "p": 1351.54,
+      "s": "HIDRANTE DIÁM. 100 mm, COND. FUNDICIÓN DIÁM. 150 mm, EEB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-hidrante-diam-100-mm-cond-fundicion-diam-200-mm-bbb",
+      "m": 14,
+      "p": 1695.9,
+      "s": "HIDRANTE DIÁM. 100 mm, COND. FUNDICIÓN DIÁM. 200 mm, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-hidrante-diam-100-mm-cond-fundicion-diam-200-mm-eeb",
+      "m": 11,
+      "p": 1392.03,
+      "s": "HIDRANTE DIÁM. 100 mm, COND. FUNDICIÓN DIÁM. 200 mm, EEB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-hidrante-diam-70-mm-cond-fib-diam-150-mm-bbb",
+      "m": 11,
+      "p": 831.69,
+      "s": "HIDRANTE DIÁM. 70 mm, COND. FIB. DIÁM. 150 mm, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-hidrante-diam-70-mm-cond-fib-diam-150-mm-lbl",
+      "m": 9,
+      "p": 599.98,
+      "s": "HIDRANTE DIÁM. 70 mm, COND. FIB. DIÁM. 150 mm, LBL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-hidrante-diam-70-mm-cond-fib-diam-200-mm-bbb",
+      "m": 11,
+      "p": 978.16,
+      "s": "HIDRANTE DIÁM. 70 mm, COND. FIB. DIÁM. 200 mm, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-hidrante-diam-70-mm-cond-fib-diam-200-mm-lbl",
+      "m": 9,
+      "p": 702.03,
+      "s": "HIDRANTE DIÁM. 70 mm, COND. FIB. DIÁM. 200 mm, LBL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-hidrante-diam-70-mm-cond-fundicion-diam-150-mm-bbb",
+      "m": 11,
+      "p": 742.81,
+      "s": "HIDRANTE DIÁM. 70 mm, COND. FUNDICIÓN DIÁM. 150 mm, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-hidrante-diam-70-mm-cond-fundicion-diam-150-mm-eeb",
+      "m": 8,
+      "p": 536.25,
+      "s": "HIDRANTE DIÁM. 70 mm, COND. FUNDICIÓN DIÁM. 150 mm, EEB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-hidrante-diam-70-mm-cond-fundicion-diam-200-mm-bbb",
+      "m": 11,
+      "p": 885.18,
+      "s": "HIDRANTE DIÁM. 70 mm, COND. FUNDICIÓN DIÁM. 200 mm, BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-hidrante-diam-70-mm-cond-fundicion-diam-200-mm-eeb",
+      "m": 8,
+      "p": 576.75,
+      "s": "HIDRANTE DIÁM. 70 mm, COND. FUNDICIÓN DIÁM. 200 mm, EEB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-hidrante-diam-70-mm-cond-polietileno-diam-125-mm",
+      "m": 9,
+      "p": 557.13,
+      "s": "HIDRANTE DIÁM. 70 mm, COND. POLIETILENO DIÁM. 125 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-hidrante-diam-70-mm-cond-pvc-diam-90-mm",
+      "m": 8,
+      "p": 505.42,
+      "s": "HIDRANTE DIÁM. 70 mm, COND. PVC DIÁM. 90 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-instalacion-centro-transformacion-25-kva",
+      "m": 11,
+      "p": 15875.79,
+      "s": "INSTALACIÓN CENTRO TRANSFORMACION 25 kVA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-instalacion-voleibol",
+      "m": 7,
+      "p": 772.05,
+      "s": "INSTALACIÓN VOLEIBOL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-instalacion-voleiplaya",
+      "m": 7,
+      "p": 871.55,
+      "s": "INSTALACIÓN VOLEIPLAYA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-jacaranda-mimosifolia-16-18-cm-cepellon",
+      "m": 8,
+      "p": 27.11,
+      "s": "JACARANDA MIMOSIFOLIA 16-18 CM. CEPELLÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-jadinera-rectangular-de-hormigon",
+      "m": 3,
+      "p": 267.48,
+      "s": "JADINERA RECTANGULAR DE HORMIGÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-jardinera-cuadrada-de-hormigon",
+      "m": 4,
+      "p": 85.77,
+      "s": "JARDINERA CUADRADA DE HORMIGÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-jasminum-fructicans-100-125",
+      "m": 4,
+      "p": 20.45,
+      "s": "JASMINUM FRUCTICANS 100/125",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-jazminus-fucticans-80-100-cm",
+      "m": 5,
+      "p": 19.98,
+      "s": "JAZMINUS FUCTICANS 80/100 cm.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-juego-de-canastas-fijas-para-baloncesto",
+      "m": 4,
+      "p": 739.27,
+      "s": "JUEGO DE CANASTAS FIJAS PARA BALONCESTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-juego-de-canastas-reglamentarias-moviles-para-baloncesto",
+      "m": 3,
+      "p": 2412.96,
+      "s": "JUEGO DE CANASTAS REGLAMENTARIAS MÓVILES PARA BALONCESTO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-juego-de-porterias-reglamentarias-de-balonmano",
+      "m": 3,
+      "p": 933.99,
+      "s": "JUEGO DE PORTERÍAS REGLAMENTARIAS DE BALONMANO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-juego-de-tenis",
+      "m": 5,
+      "p": 445.03,
+      "s": "JUEGO DE TENIS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-juego-multiactividad-2-torres",
+      "m": 7,
+      "p": 20333.06,
+      "s": "JUEGO MULTIACTIVIDAD 2 TORRES",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-juego-multiactividad-3-torres",
+      "m": 7,
+      "p": 32873.16,
+      "s": "JUEGO MULTIACTIVIDAD 3 TORRES",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-juego-multiactividad-adaptado",
+      "m": 7,
+      "p": 2428.68,
+      "s": "JUEGO MULTIACTIVIDAD ADAPTADO",
+      "u": "u"
+    },
+    {
+      "d": "2022-03",
+      "g": [],
+      "id": "wi-laurel-laurus-nobilis-calibre-6-8",
+      "m": 4,
+      "p": 39.53,
+      "s": "LAUREL (LAURUS NOBILIS) CALIBRE 6-8",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-gen-de-aliment-3x25-1x16-mm2-bajo-tubo-fibrocemento",
+      "m": 8,
+      "p": 51.88,
+      "s": "LÍNEA GEN. DE ALIMENT. 3x25+1x16 mm2 BAJO TUBO FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-gen-de-aliment-3x25-1x16-mm2-bajo-tubo-pvc",
+      "m": 8,
+      "p": 49.67,
+      "s": "LÍNEA GEN. DE ALIMENT. 3x25+1x16 mm2 BAJO TUBO PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-gen-de-aliment-3x35-1x16-mm2-bajo-tubo-pvc",
+      "m": 8,
+      "p": 60.26,
+      "s": "LÍNEA GEN. DE ALIMENT. 3x35+1x16 mm2 BAJO TUBO PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-gen-de-aliment-3x50-1x25-mm2-bajo-tubo-pvc",
+      "m": 8,
+      "p": 77.65,
+      "s": "LÍNEA GEN. DE ALIMENT. 3x50+1x25 mm2 BAJO TUBO PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-gen-de-aliment-4x-6-mm2-bajo-tubo-fibrocemento",
+      "m": 7,
+      "p": 21.26,
+      "s": "LÍNEA GEN. DE ALIMENT. 4x 6 mm2 BAJO TUBO FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-gen-de-aliment-4x-6-mm2-bajo-tubo-pvc",
+      "m": 7,
+      "p": 19.05,
+      "s": "LÍNEA GEN. DE ALIMENT. 4x 6 mm2 BAJO TUBO PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-gen-de-aliment-4x10-mm2-bajo-tubo-fibrocemento",
+      "m": 7,
+      "p": 35.12,
+      "s": "LÍNEA GEN. DE ALIMENT. 4x10 mm2 BAJO TUBO FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-gen-de-aliment-4x10-mm2-bajo-tubo-pvc",
+      "m": 7,
+      "p": 32.91,
+      "s": "LÍNEA GEN. DE ALIMENT. 4x10 mm2 BAJO TUBO PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-gen-de-aliment-4x16-mm2-bajo-tubo-fibrocemento",
+      "m": 7,
+      "p": 42.39,
+      "s": "LÍNEA GEN. DE ALIMENT. 4x16 mm2 BAJO TUBO FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-gen-de-aliment-4x16-mm2-bajo-tubo-pvc",
+      "m": 7,
+      "p": 40.88,
+      "s": "LÍNEA GEN. DE ALIMENT. 4x16 mm2 BAJO TUBO PVC",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-marca-continua-vial-ancho-10-cm-con-pintura-reflex",
+      "m": 5,
+      "p": 0.87,
+      "s": "MARCA CONTINUA VIAL ANCHO 10 cm CON PINTURA REFLEX",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-marca-continua-vial-ancho-20-cm-con-pintura-reflex",
+      "m": 5,
+      "p": 1.26,
+      "s": "MARCA CONTINUA VIAL ANCHO 20 cm CON PINTURA REFLEX",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-marca-discontinua-vial-ancho-10-cm-con-pintura-reflex",
+      "m": 5,
+      "p": 0.78,
+      "s": "MARCA DISCONTINUA VIAL ANCHO 10 cm CON PINTURA REFLEX",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-masaje-espalda-doble",
+      "m": 6,
+      "p": 596.67,
+      "s": "MASAJE ESPALDA DOBLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-mesa-de-juegos-exterior",
+      "m": 7,
+      "p": 443.85,
+      "s": "MESA DE JUEGOS EXTERIOR",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-mesa-de-picnic-de-madera-2m",
+      "m": 3,
+      "p": 691.53,
+      "s": "MESA DE PICNIC DE MADERA 2M",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-mesa-pingpong-exterior",
+      "m": 6,
+      "p": 2953.75,
+      "s": "MESA PINGPONG EXTERIOR",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-morera-sin-flor-14-16-cm-cepellon",
+      "m": 8,
+      "p": 66.91,
+      "s": "MORERA SIN FLOR 14-16 CM. CEPELLÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-muelle-doble",
+      "m": 7,
+      "p": 1022.82,
+      "s": "MUELLE DOBLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-muelle-estrella",
+      "m": 7,
+      "p": 881.31,
+      "s": "MUELLE ESTRELLA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-muelle-simple",
+      "m": 7,
+      "p": 785.02,
+      "s": "MUELLE SIMPLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-mulching-corteza-pino-10-cm",
+      "m": 3,
+      "p": 6.25,
+      "s": "MULCHING CORTEZA PINO 10 cm.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-naranjo-de-sevilla-12-14cm-maceta",
+      "m": 8,
+      "p": 54.46,
+      "s": "NARANJO DE SEVILLA 12-14CM. MACETA",
+      "u": "u"
+    },
+    {
+      "d": "2022-03",
+      "g": [],
+      "id": "wi-palmito-chamaerops-humilis",
+      "m": 4,
+      "p": 123.79,
+      "s": "PALMITO CHAMAEROPS HUMILIS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-papelera-circular-de-madera",
+      "m": 4,
+      "p": 238.26,
+      "s": "PAPELERA CIRCULAR DE MADERA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-papelera-de-fundicion",
+      "m": 3,
+      "p": 428.97,
+      "s": "PAPELERA DE FUNDICIÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-papelera-de-hormigon-prefabricado",
+      "m": 5,
+      "p": 688.33,
+      "s": "PAPELERA DE HORMIGÓN PREFABRICADO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-papelera-metalica-con-cenicero",
+      "m": 5,
+      "p": 350.69,
+      "s": "PAPELERA METÁLICA CON CENICERO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-papelera-para-perros",
+      "m": 4,
+      "p": 478.26,
+      "s": "PAPELERA PARA PERROS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-papelera-publica-de-pletina-y-chapa-perforada",
+      "m": 5,
+      "p": 98.61,
+      "s": "PAPELERA PÚBLICA DE PLETINA Y CHAPA PERFORADA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-papelera-publica-de-pvc-sobre-soporte-existente",
+      "m": 3,
+      "p": 50.66,
+      "s": "PAPELERA PÚBLICA DE PVC SOBRE SOPORTE EXISTENTE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-papelera-publica-de-pvc-sobre-soporte-metalico",
+      "m": 3,
+      "p": 63.62,
+      "s": "PAPELERA PÚBLICA DE PVC SOBRE SOPORTE METÁLICO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-papelera-urbana-para-2-residuos",
+      "m": 4,
+      "p": 460.62,
+      "s": "PAPELERA URBANA PARA 2 RESIDUOS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-papelera-urbana-para-3-residuos",
+      "m": 4,
+      "p": 1300.57,
+      "s": "PAPELERA URBANA PARA 3 RESIDUOS",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pasamuros-de-acero-inox-40-mm",
+      "m": 6,
+      "p": 93.95,
+      "s": "PASAMUROS DE ACERO INOX. 40 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pasamuros-de-acero-inox-63-mm",
+      "m": 6,
+      "p": 99.72,
+      "s": "PASAMUROS DE ACERO INOX. 63 mm",
+      "u": "u"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-pavimento-con-adoquin-de-granito-10x19x15cm",
+      "m": 4,
+      "p": 50.67,
+      "s": "PAVIMENTO CON ADOQUÍN DE GRANITO 10x19x15cm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-pavimento-continuo-de-granulo-de-caucho",
+      "m": 5,
+      "p": 75.21,
+      "s": "PAVIMENTO CONTINUO DE GRÁNULO DE CAUCHO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-pavimento-continuo-de-hormigon-impreso",
+      "m": 9,
+      "p": 25.65,
+      "s": "PAVIMENTO CONTINUO DE HORMIGÓN IMPRESO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pavimento-continuo-drenante",
+      "m": 6,
+      "p": 23.73,
+      "s": "PAVIMENTO CONTINUO DRENANTE",
+      "u": "m2"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-pavimento-de-adoquin-de-granito-20x10x10-cm",
+      "m": 6,
+      "p": 79.25,
+      "s": "PAVIMENTO DE ADOQUÍN DE GRANITO 20x10x10 cm.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-pavimento-de-adoquines-horm-vibrado-22x11x8-cm-color",
+      "m": 7,
+      "p": 34.12,
+      "s": "PAVIMENTO DE ADOQUINES HORM. VIBRADO 22x11x8 cm COLOR",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-pavimento-de-adoquines-horm-vibrado-22x11x8-cm-color-gris",
+      "m": 7,
+      "p": 34.58,
+      "s": "PAVIMENTO DE ADOQUINES HORM. VIBRADO 22x11x8 cm COLOR GRIS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-pavimento-de-adoquines-horm-vibrado-forma-irregular",
+      "m": 7,
+      "p": 35.82,
+      "s": "PAVIMENTO DE ADOQUINES HORM. VIBRADO FORMA IRREGULAR",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-pavimento-de-aglomerado-asfaltico-s-12",
+      "m": 6,
+      "p": 14.76,
+      "s": "PAVIMENTO DE AGLOMERADO ASFÁLTICO S-12",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pavimento-de-albero-con-cal-1-12-10-cm-de-esp",
+      "m": 4,
+      "p": 13.39,
+      "s": "PAVIMENTO DE ALBERO CON CAL (1:12) 10 cm DE ESP",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pavimento-de-cesped-sintetico-absorbedor-de-impactos",
+      "m": 5,
+      "p": 22.81,
+      "s": "PAVIMENTO DE CÉSPED SINTÉTICO ABSORBEDOR DE IMPACTOS",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pavimento-de-pistas-polideportivas",
+      "m": 13,
+      "p": 47.44,
+      "s": "PAVIMENTO DE PISTAS POLIDEPORTIVAS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-peldano-chino-lavado-ejecutado-in-situ",
+      "m": 3,
+      "p": 37.34,
+      "s": "PELDAÑO CHINO LAVADO, EJECUTADO \"IN SITU\"",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-peldano-con-l-macizo-de-tejar-cara-vista-a-sardinel",
+      "m": 3,
+      "p": 50.52,
+      "s": "PELDAÑO CON L/MACIZO DE TEJAR, CARA VISTA A SARDINEL",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-peldano-con-l-perforado-de-1-pie-a-sardinel",
+      "m": 3,
+      "p": 25.02,
+      "s": "PELDAÑO CON L/PERFORADO DE 1 PIE A SARDINEL",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-peldano-prefabricado-de-hormigon-ha-20",
+      "m": 5,
+      "p": 23.38,
+      "s": "PELDAÑO PREFABRICADO DE HORMIGÓN HA-20",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-phoenis-canariensis",
+      "m": 6,
+      "p": 603.84,
+      "s": "PHOENIS CANARIENSIS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-phoenis-dactilifera",
+      "m": 7,
+      "p": 925.31,
+      "s": "PHOENIS DACTILÍFERA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-phoenix-dactylifera-250-350",
+      "m": 7,
+      "p": 1326.29,
+      "s": "PHOENIX DACTYLIFERA 250/350",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-pintura-reflexiva-con-esferas-de-vidrio",
+      "m": 4,
+      "p": 24.46,
+      "s": "PINTURA REFLEXIVA CON ESFERAS DE VIDRIO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-pinus-pinea-2-5-3-m-cep-escay-pino-pinero",
+      "m": 7,
+      "p": 137.56,
+      "s": "PINUS PINEA 2.5-3 m CEP. ESCAY - PINO PIÑERO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-planta-trepadora",
+      "m": 5,
+      "p": 7.32,
+      "s": "PLANTA TREPADORA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-planta-vivacea-decorativa-y-de-flor",
+      "m": 5,
+      "p": 4.83,
+      "s": "PLANTA VIVÁCEA DECORATIVA Y DE FLOR",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-plantacion-de-tuya-70-90-cm-alt-cepellon",
+      "m": 7,
+      "p": 19.26,
+      "s": "PLANTACIÓN DE TUYA 70-90 CM ALT. CEPELLÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-plantacion-variada-bulbosa",
+      "m": 6,
+      "p": 19.89,
+      "s": "PLANTACIÓN VARIADA BULBOSA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-platanus-20-25",
+      "m": 4,
+      "p": 200.36,
+      "s": "PLATANUS 20/25",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-poda-de-formacion-arbol-3-m",
+      "m": 4,
+      "p": 228.38,
+      "s": "PODA DE FORMACIÓN ARBOL > 3 m.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-poda-de-formacion-saneado-y-rebaje",
+      "m": 4,
+      "p": 306.95,
+      "s": "PODA DE FORMACIÓN SANEADO Y REBAJE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-porteria-futbol",
+      "m": 7,
+      "p": 876.53,
+      "s": "PORTERÍA FÚTBOL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-pozo-de-registro-circular-de-1-20-m-de-diam",
+      "m": 8,
+      "p": 650.34,
+      "s": "POZO DE REGISTRO CIRCULAR DE 1,20 m DE DIÁM.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pozo-de-registro-circular-diam-1-10-m-profund-2-50-m",
+      "m": 9,
+      "p": 853.3,
+      "s": "POZO DE REGISTRO CIRCULAR, DIÁM. 1,10 m PROFUND. 2,50 m",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pozo-de-registro-diam-0-90-m-prof-2-m",
+      "m": 9,
+      "p": 660.88,
+      "s": "POZO DE REGISTRO, DIÁM. 0,90 m PROF. 2, m",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pozo-de-registro-rectangular-0-80x1-50-m-prof-2-50-m",
+      "m": 10,
+      "p": 1257.92,
+      "s": "POZO DE REGISTRO RECTANGULAR 0,80X1,50 m PROF. 2,50 m",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pozo-de-resalto-circular-diam-1-10-m-prof-2-50-m",
+      "m": 10,
+      "p": 894.84,
+      "s": "POZO DE RESALTO CIRCULAR, DIÁM. 1,10 m PROF. 2,50 m",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pozo-de-resalto-rectangular-0-80x1-50-m-prof-2-50-m",
+      "m": 10,
+      "p": 1263.03,
+      "s": "POZO DE RESALTO RECTANGULAR 0,80X1,50 m PROF. 2,50 m",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pozo-filtrante-2-m-diam-5-m-prof",
+      "m": 12,
+      "p": 2171.7,
+      "s": "POZO FILTRANTE 2 m DIAM. 5 m PROF.",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-proteccion-de-acerado-con-cama-de-arena",
+      "m": 3,
+      "p": 29.57,
+      "s": "PROTECCIÓN DE ACERADO CON CAMA DE ARENA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-proteccion-pista-deportiva",
+      "m": 7,
+      "p": 237.53,
+      "s": "PROTECCIÓN PISTA DEPORTIVA",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-rampa-canina",
+      "m": 6,
+      "p": 828.41,
+      "s": "RAMPA CANINA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-rebaje-de-seto-25-cm",
+      "m": 2,
+      "p": 1.3,
+      "s": "REBAJE DE SETO < 25 cm.",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-red-tridimensional",
+      "m": 7,
+      "p": 6883.46,
+      "s": "RED TRIDIMENSIONAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-reduccion-110x75-90-mm-polietileno-pe50a-pn-10",
+      "m": 5,
+      "p": 51.68,
+      "s": "REDUCCIÓN 110X75/90 mm POLIETILENO PE50A, PN-10",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-reduccion-125x75-110-mm-polietileno-pe50a-pn-10",
+      "m": 5,
+      "p": 60.29,
+      "s": "REDUCCIÓN 125X75/110 mm POLIETILENO PE50A PN-10",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-reduccion-90x75-mm-polietileno-pe50a-pn-10",
+      "m": 5,
+      "p": 102.31,
+      "s": "REDUCCIÓN 90X75 mm POLIETILENO PE50A, PN-10",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-reduccion-bb-100x80-mm",
+      "m": 10,
+      "p": 161.9,
+      "s": "REDUCCIÓN BB 100X80 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-reduccion-bb-100x80-mm-pn-16",
+      "m": 10,
+      "p": 198.86,
+      "s": "REDUCCIÓN BB 100X80 mm PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-reduccion-bb-150x100-mm",
+      "m": 11,
+      "p": 220.52,
+      "s": "REDUCCIÓN BB 150X100 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-reduccion-bb-150x100-mm-pn-16",
+      "m": 11,
+      "p": 284.97,
+      "s": "REDUCCIÓN BB 150X100 mm PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-reduccion-bb-200x100-mm",
+      "m": 11,
+      "p": 286.22,
+      "s": "REDUCCIÓN BB 200X100 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-reduccion-bb-200x100-mm-pn-16",
+      "m": 11,
+      "p": 354.98,
+      "s": "REDUCCIÓN BB 200X100 mm PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-reduccion-bb-200x150-mm",
+      "m": 10,
+      "p": 316.32,
+      "s": "REDUCCIÓN BB 200X150 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-reduccion-bb-200x150-mm-pn-16",
+      "m": 10,
+      "p": 409.51,
+      "s": "REDUCCIÓN BB 200X150 mm PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-reduccion-ee-100x80-mm-junta-mec",
+      "m": 5,
+      "p": 74.81,
+      "s": "REDUCCIÓN EE 100X80 mm, JUNTA MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-reduccion-ee-150x80-100-mm-junta-mec",
+      "m": 5,
+      "p": 111.29,
+      "s": "REDUCCIÓN EE 150X80/100 mm, JUNTA MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-reduccion-ee-200x80-150-mm-junta-mec",
+      "m": 5,
+      "p": 137.78,
+      "s": "REDUCCIÓN EE 200X80/150 mm, JUNTA MEC.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-reduccion-ee-90x75-mm-pn-16-junta-elast",
+      "m": 5,
+      "p": 47.86,
+      "s": "REDUCCIÓN EE 90X75 mm PN-16, JUNTA ELAST.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-reduccion-ll-100-a-dx80-a-f",
+      "m": 7,
+      "p": 60.1,
+      "s": "REDUCCIÓN LL 100 A/Dx80 A/F",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-reduccion-ll-150-a-dx100-a-d",
+      "m": 7,
+      "p": 112.18,
+      "s": "REDUCCIÓN LL 150 A/Dx100 A/D",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-reduccion-ll-200-dx150-a-d",
+      "m": 7,
+      "p": 176.59,
+      "s": "REDUCCIÓN LL 200 Dx150 A/D",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-relleno-con-tierras-realizado-con-medios-manuales-edb9",
+      "m": 3,
+      "p": 22.62,
+      "s": "RELLENO CON TIERRAS, REALIZADO CON MEDIOS MANUALES",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-relleno-con-tierras-realizado-con-medios-mecanicos-dc82",
+      "m": 4,
+      "p": 1.36,
+      "s": "RELLENO CON TIERRAS, REALIZADO CON MEDIOS MECÁNICOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-relleno-de-zanjas-con-albero-tong-20-cm",
+      "m": 5,
+      "p": 23.3,
+      "s": "RELLENO DE ZANJAS CON ALBERO TONG. 20 cm.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-relleno-de-zanjas-con-albero-tong-20-cm-bbd5",
+      "m": 5,
+      "p": 23.31,
+      "s": "RELLENO DE ZANJAS CON ALBERO TONG. 20 cm.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-remate-en-sardinel-con-ladrillo-perforado-de-1-pie",
+      "m": 3,
+      "p": 16.11,
+      "s": "REMATE EN SARDINEL CON LADRILLO PERFORADO DE 1 PIE",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-rosal",
+      "m": 3,
+      "p": 12.15,
+      "s": "ROSAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-rosal-trepador-150-175-cm",
+      "m": 4,
+      "p": 16.02,
+      "s": "ROSAL TREPADOR 150/175 cm.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-rosal-trepador-flor-mediana",
+      "m": 4,
+      "p": 10.4,
+      "s": "ROSAL TREPADOR FLOR MEDIANA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-rosal-trepador-flor-pequena",
+      "m": 4,
+      "p": 15.26,
+      "s": "ROSAL TREPADOR FLOR PEQUEÑA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-rotulo-denominador-de-grupo-y-calle",
+      "m": 4,
+      "p": 182.52,
+      "s": "RÓTULO DENOMINADOR DE GRUPO Y CALLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-senal-de-peligro",
+      "m": 4,
+      "p": 113.55,
+      "s": "SEÑAL DE PELIGRO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-senal-de-prohibicion",
+      "m": 4,
+      "p": 120.04,
+      "s": "SEÑAL DE PROHIBICIÓN",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-senal-de-stop",
+      "m": 4,
+      "p": 127.92,
+      "s": "SEÑAL DE STOP",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-senalizacion-de-pistas-polideportivas-con-p-acrilica",
+      "m": 2,
+      "p": 2.88,
+      "s": "SEÑALIZACIÓN DE PISTAS POLIDEPORTIVAS CON P. ACRÍLICA",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-seto",
+      "m": 5,
+      "p": 22.16,
+      "s": "SETO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-siembra-de-grama",
+      "m": 6,
+      "p": 16.12,
+      "s": "SIEMBRA DE GRAMA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-siembra-de-tepe-dichondra-repens",
+      "m": 4,
+      "p": 23.57,
+      "s": "SIEMBRA DE TEPE DICHONDRA REPENS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-slalom-canino",
+      "m": 6,
+      "p": 462.49,
+      "s": "SLALOM CANINO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-ceramica-10x20-cm",
+      "m": 6,
+      "p": 25.06,
+      "s": "SOLADO CON BALDOSAS CERÁMICA 10x20 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-ceramica-14x28-cm-eb1f",
+      "m": 6,
+      "p": 24.11,
+      "s": "SOLADO CON BALDOSAS CERÁMICA 14x28 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-ceramica-20x20-cm-8f45",
+      "m": 6,
+      "p": 28.6,
+      "s": "SOLADO CON BALDOSAS CERÁMICA 20x20 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-ceramica-40x40-cm-4f6d",
+      "m": 6,
+      "p": 25.47,
+      "s": "SOLADO CON BALDOSAS CERÁMICA 40x40 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-solado-con-baldosas-de-chino-lavado-de-40x40-cm-53a0",
+      "m": 6,
+      "p": 16.52,
+      "s": "SOLADO CON BALDOSAS DE CHINO LAVADO DE 40x40 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-de-granito-gris-quintanar-100x100-cm",
+      "m": 7,
+      "p": 144.92,
+      "s": "SOLADO CON BALDOSAS DE GRANITO GRIS QUINTANAR 100x100 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-de-granito-gris-quintanar-50x50-cm",
+      "m": 7,
+      "p": 116.4,
+      "s": "SOLADO CON BALDOSAS DE GRANITO GRIS QUINTANAR 50x50 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-de-gres-rustico-20x30-cm",
+      "m": 6,
+      "p": 34.27,
+      "s": "SOLADO CON BALDOSAS DE GRES RÚSTICO 20x30 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-de-gres-rustico-25x25-cm",
+      "m": 6,
+      "p": 41.87,
+      "s": "SOLADO CON BALDOSAS DE GRES RÚSTICO 25x25 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-solado-con-baldosas-hidraulicas-20x20-cm-nueve-pastillas",
+      "m": 6,
+      "p": 15.64,
+      "s": "SOLADO CON BALDOSAS HIDRÁULICAS 20x20 cm NUEVE PASTILLAS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-solado-con-terrazo-tipo-relieve-40x40-cm-en-colores",
+      "m": 6,
+      "p": 23.05,
+      "s": "SOLADO CON TERRAZO TIPO RELIEVE 40x40 cm EN COLORES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-solado-con-terrazo-tipo-relieve-40x40-cm-un-solo-color",
+      "m": 6,
+      "p": 22.28,
+      "s": "SOLADO CON TERRAZO TIPO RELIEVE 40x40 cm UN SOLO COLOR",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-solera-de-hormigon-hm-20-de-10-cm",
+      "m": 3,
+      "p": 18.81,
+      "s": "SOLERA DE HORMIGÓN HM-20, DE 10 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-solera-de-hormigon-hm-20-de-15-cm",
+      "m": 3,
+      "p": 26.27,
+      "s": "SOLERA DE HORMIGÓN HM-20, DE 15 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-solera-de-hormigon-hm-20-de-20-cm",
+      "m": 3,
+      "p": 34.24,
+      "s": "SOLERA DE HORMIGÓN HM-20, DE 20 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-sombrilla-brezo-d-2m",
+      "m": 4,
+      "p": 261.36,
+      "s": "SOMBRILLA BREZO D=2M",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-sumidero-imbornal-de-51x34-cm-y-60-cm-de-prof",
+      "m": 7,
+      "p": 191.18,
+      "s": "SUMIDERO (IMBORNAL) DE 51x34 cm Y 60 cm DE PROF.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-suministro-de-carpobructus-adulis-una-de-leon",
+      "m": 4,
+      "p": 14.93,
+      "s": "SUMINISTRO DE \"CARPOBRUCTUS ADULIS\" (UÑA DE LEON)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-suministro-de-stenotaphrum-para-cesped",
+      "m": 6,
+      "p": 13.61,
+      "s": "SUMINISTRO DE \"STENOTAPHRUM\" PARA CESPED",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-talado-de-arbol-5-a-10-m",
+      "m": 5,
+      "p": 28.6,
+      "s": "TALADO DE ÁRBOL 5 A 10 m",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-talado-de-arbol-hasta-5-m",
+      "m": 5,
+      "p": 24.81,
+      "s": "TALADO DE ÁRBOL HASTA 5 m",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tapon-diam-100-mm",
+      "m": 8,
+      "p": 77.74,
+      "s": "TAPÓN DIÁM. 100 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tapon-diam-100-mm-a-d",
+      "m": 5,
+      "p": 49.04,
+      "s": "TAPÓN DIÁM. 100 mm A/D",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tapon-diam-110-mm-polietileno-pe50a-pn-10",
+      "m": 5,
+      "p": 53.12,
+      "s": "TAPÓN DIÁM. 110 mm POLIETILENO PE50A PN-10",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tapon-diam-150-mm",
+      "m": 8,
+      "p": 119.99,
+      "s": "TAPÓN DIÁM. 150 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tapon-diam-150-mm-a-d",
+      "m": 5,
+      "p": 72.52,
+      "s": "TAPÓN DIÁM. 150 mm A/D",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tapon-diam-200-mm",
+      "m": 8,
+      "p": 161.82,
+      "s": "TAPÓN DIÁM. 200 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tapon-diam-200-mm-d",
+      "m": 5,
+      "p": 101.76,
+      "s": "TAPÓN DIÁM. 200 mm D",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tapon-diam-75-mm-polietileno-pe50a-pn-10",
+      "m": 5,
+      "p": 32.29,
+      "s": "TAPÓN DIÁM. 75 mm POLIETILENO PE50A PN-10",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tapon-diam-80-mm",
+      "m": 8,
+      "p": 65.23,
+      "s": "TAPÓN DIÁM. 80 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tapon-diam-80-mm-a-f",
+      "m": 5,
+      "p": 35.2,
+      "s": "TAPÓN DIÁM. 80 mm A/F",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tapon-diam-90-mm-pn-16-junta-elast",
+      "m": 5,
+      "p": 44.77,
+      "s": "TAPÓN DIÁM. 90 mm PN-16, JUNTA ELAST.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tapon-diam-90-mm-polietileno-pe50a-pn10",
+      "m": 5,
+      "p": 44.51,
+      "s": "TAPÓN DIÁM. 90 mm POLIETILENO PE50A PN10",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-taxus-baccata-80-100",
+      "m": 5,
+      "p": 192.6,
+      "s": "TAXUS BACCATA 80/100",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-tierras-adquiridas-en-prestamo-4482",
+      "m": 2,
+      "p": 1.37,
+      "s": "TIERRAS ADQUIRIDAS EN PRESTAMO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-tierras-adquiridas-en-prestamo-85e0",
+      "m": 2,
+      "p": 1.37,
+      "s": "TIERRAS ADQUIRIDAS EN PRESTAMO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-tilo-de-diametro-35-40-cm",
+      "m": 7,
+      "p": 152.32,
+      "s": "TILO DE DIÁMETRO 35-40 CM",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-tobogan-grande",
+      "m": 7,
+      "p": 1348.46,
+      "s": "TOBOGÁN GRANDE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-tobogan-pequeno",
+      "m": 9,
+      "p": 894.65,
+      "s": "TOBOGÁN PEQUEÑO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-trachycarpus-fortunei-h-1-80-cm",
+      "m": 4,
+      "p": 303.8,
+      "s": "TRACHYCARPUS FORTUNEI H>1.80 cm.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-trampolin-simple",
+      "m": 10,
+      "p": 399.96,
+      "s": "TRAMPOLÍN SIMPLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-transplante-de-seto",
+      "m": 3,
+      "p": 9.5,
+      "s": "TRANSPLANTE DE SETO",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-transporte-tierras-carga-con-m-manuales-5-km",
+      "m": 2,
+      "p": 38.51,
+      "s": "TRANSPORTE TIERRAS CARGA CON M. MANUALES 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-transporte-tierras-carga-con-m-mecanicos-5-km",
+      "m": 2,
+      "p": 4.52,
+      "s": "TRANSPORTE TIERRAS CARGA CON M. MECÁNICOS 5 km",
+      "u": "m3"
+    },
+    {
+      "d": "2022-03",
+      "g": [],
+      "id": "wi-trasplante-de-arbol-de-110-cm-diametro",
+      "m": 3,
+      "p": 642.12,
+      "s": "TRASPLANTE DE ÁRBOL DE 110 cm DIÁMETRO",
+      "u": "u"
+    },
+    {
+      "d": "2022-03",
+      "g": [],
+      "id": "wi-trasplante-de-arbol-de-90cm-diametro",
+      "m": 3,
+      "p": 466.79,
+      "s": "TRASPLANTE DE ÁRBOL DE 90cm DIÁMETRO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-trasplante-de-arbustos",
+      "m": 3,
+      "p": 9.97,
+      "s": "TRASPLANTE DE ARBUSTOS",
+      "u": "u"
+    },
+    {
+      "d": "2022-03",
+      "g": [],
+      "id": "wi-tratamiento-resistencia-al-deslizamiento-resbalamiento-de-lo",
+      "m": 2,
+      "p": 84.96,
+      "s": "TRATAMIENTO RESISTENCIA AL DESLIZAMIENTO/RESBALAMIENTO DE LOS PAVIMENTOS",
+      "u": "u"
+    },
+    {
+      "d": "2022-03",
+      "g": [],
+      "id": "wi-tratamiento-sobre-soleras-fratasado-mecanico",
+      "m": 2,
+      "p": 3.2,
+      "s": "TRATAMIENTO SOBRE SOLERAS FRATASADO MECÁNICO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-tunel-canino",
+      "m": 6,
+      "p": 2028.41,
+      "s": "TUNEL CANINO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-ulmus-olmo",
+      "m": 7,
+      "p": 81.69,
+      "s": "ULMUS - OLMO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-valla-de-salto-canina",
+      "m": 6,
+      "p": 508.41,
+      "s": "VALLA DE SALTO CANINA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-comp-a-e-diam-10-mm-enterrable-pn-16",
+      "m": 7,
+      "p": 332.91,
+      "s": "VÁLVULA COMP. A/E DIÁM. 10 mm ENTERRABLE PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-comp-a-e-diam-10-mm-mm-enterrable-pn-16",
+      "m": 7,
+      "p": 311.95,
+      "s": "VÁLVULA COMP. A/E DIÁM. 10 mm mm ENTERRABLE PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-comp-a-e-diam-100-mm-enterrable-pn-16",
+      "m": 7,
+      "p": 342.93,
+      "s": "VÁLVULA COMP. A/E DIÁM. 100 mm ENTERRABLE PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-comp-a-e-diam-125-mm-enterrable-pn-16",
+      "m": 7,
+      "p": 416.24,
+      "s": "VÁLVULA COMP. A/E DIÁM. 125 mm ENTERRABLE PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-comp-a-e-diam-150-mm-enterrable-pn-16",
+      "m": 7,
+      "p": 450.26,
+      "s": "VÁLVULA COMP. A/E DIÁM. 150 mm ENTERRABLE PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-comp-a-e-diam-150-mm-enterrable-pn-16-e778",
+      "m": 7,
+      "p": 504.2,
+      "s": "VÁLVULA COMP. A/E DIÁM. 150 mm ENTERRABLE PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-comp-a-e-diam-20-mm-mm-enterrable-pn-16",
+      "m": 7,
+      "p": 655.33,
+      "s": "VÁLVULA COMP. A/E DIÁM. 20 mm mm ENTERRABLE PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-comp-a-e-diam-200-mm-enterrable-pn-16",
+      "m": 7,
+      "p": 719.76,
+      "s": "VÁLVULA COMP. A/E DIÁM. 200 mm ENTERRABLE PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-comp-a-e-diam-250-mm-enterrable-pn-16",
+      "m": 4,
+      "p": 470.27,
+      "s": "VÁLVULA COMP. A/E DIÁM. 250 mm ENTERRABLE PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-comp-a-e-diam-80-mm-enterrable-pn-16",
+      "m": 7,
+      "p": 286.08,
+      "s": "VÁLVULA COMP. A/E DIÁM. 80 mm ENTERRABLE PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-comp-a-e-diam-80-mm-enterrable-pn-16-377a",
+      "m": 7,
+      "p": 289.9,
+      "s": "VÁLVULA COMP. A/E DIÁM. 80 mm ENTERRABLE PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-comp-a-e-diam-80-mm-enterrable-pn-16-413e",
+      "m": 7,
+      "p": 333.33,
+      "s": "VÁLVULA COMP. A/E DIÁM. 80 mm ENTERRABLE PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-comp-a-e-diam-80-mm-enterrable-pn-16-7a9f",
+      "m": 7,
+      "p": 296.85,
+      "s": "VÁLVULA COMP. A/E DIÁM. 80 mm ENTERRABLE PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-comp-a-e-diam-80-mm-enterrable-pn-16-f156",
+      "m": 7,
+      "p": 304.47,
+      "s": "VÁLVULA COMP. A/E DIÁM. 80 mm ENTERRABLE PN-16",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-valvula-reductora-de-presion-en-100-mm",
+      "m": 11,
+      "p": 947.81,
+      "s": "VÁLVULA REDUCTORA DE PRESIÓN EN 100 mm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-vegetacion-tapizante",
+      "m": 6,
+      "p": 22.49,
+      "s": "VEGETACIÓN TAPIZANTE",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-ventosa-trif-diam-50-mm-en-diam-125-mm",
+      "m": 12,
+      "p": 1439.76,
+      "s": "VENTOSA TRIF. DIÁM. 50 mm EN DIÁM. 125 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-ventosa-trif-diam-50-mm-en-diam-90-mm",
+      "m": 11,
+      "p": 1364.18,
+      "s": "VENTOSA TRIF. DIÁM. 50 mm EN DIÁM. 90 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-ventosa-trif-diam-80-mm-en-diam-200-mm-bbb",
+      "m": 13,
+      "p": 1953.51,
+      "s": "VENTOSA TRIF. DIÁM. 80 mm, EN DIÁM. 200 mm BBB",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-ventosa-trif-diam-80-mm-en-diam-200-mm-eeb",
+      "m": 10,
+      "p": 1550.84,
+      "s": "VENTOSA TRIF. DIÁM. 80 mm, EN DIÁM. 200 mm EEB",
+      "u": "u"
+    }
+  ],
+  "title": "Urbanización exterior",
+  "version": "0.1.0"
+}

@@ -1,0 +1,2752 @@
+{
+  "key": "21-ELE",
+  "rows": [
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-acometida-cable-cu-1-kv-lh-5x16-mm2-inst-en-canalizacion",
+      "m": 3,
+      "p": 12.44,
+      "s": "ACOMETIDA CABLE CU 1 KV LH 5x16 MM2 INST.EN CANALIZACION",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-acometida-cable-cu-1-kv-lh-5x6-mm2-inst-en-canalizacion",
+      "m": 3,
+      "p": 7.9,
+      "s": "ACOMETIDA CABLE CU 1 KV LH 5x6 MM2 INST.EN CANALIZACION",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-acometida-de-electricidad-un-bloque",
+      "m": 1,
+      "p": 1608.99,
+      "s": "ACOMETIDA DE ELECTRICIDAD UN BLOQUE",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-acometida-de-electricidad-una-vivienda",
+      "m": 1,
+      "p": 321.79,
+      "s": "ACOMETIDA DE ELECTRICIDAD UNA VIVIENDA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-acometida-mt-de-transformador-a-red-general",
+      "m": 1,
+      "p": 1970.5,
+      "s": "ACOMETIDA MT DE TRANSFORMADOR A RED GENERAL",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-agrupacion-de-tomas-de-corriente-para-puesto-de-trabajo",
+      "m": 6,
+      "p": 117.83,
+      "s": "AGRUPACIÓN DE TOMAS DE CORRIENTE PARA PUESTO DE TRABAJO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-aparato-de-emergencia-lampara-60-lumenes",
+      "m": 3,
+      "p": 53.02,
+      "s": "APARATO DE EMERGENCIA LAMPARA 60 LUMENES",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-aplique-techo-pared-rectang-hermet-blind-antivandalico",
+      "m": 5,
+      "p": 48.46,
+      "s": "APLIQUE TECHO/PARED RECTANG. HERMÉT. BLIND. ANTIVANDÁLICO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-armario-cuadro-mando-y-distrib-1500x1200mm-metalico-empotrad",
+      "m": 4,
+      "p": 2657.57,
+      "s": "ARMARIO CUADRO MANDO Y DISTRIB. 1500x1200mm METÁLICO EMPOTRADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-armario-cuadro-mando-y-distrib-1500x1900mm-climatizacion",
+      "m": 21,
+      "p": 11089.28,
+      "s": "ARMARIO CUADRO MANDO Y DISTRIB. 1500X1900mm CLIMATIZACIÓN",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-armario-cuadro-mando-y-distrib-1500x1900mm-metalico-empotrad",
+      "m": 4,
+      "p": 4224.52,
+      "s": "ARMARIO CUADRO MANDO Y DISTRIB. 1500x1900mm METÁLICO EMPOTRADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-armario-cuadro-mando-y-distrib-600x350mm-metalico-empotrado",
+      "m": 4,
+      "p": 507.14,
+      "s": "ARMARIO CUADRO MANDO Y DISTRIB. 600x350mm METÁLICO EMPOTRADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-armario-cuadro-mando-y-distrib-9-elem-metalico-empotrado",
+      "m": 5,
+      "p": 29.55,
+      "s": "ARMARIO CUADRO MANDO Y DISTRIB. 9 ELEM. METÁLICO EMPOTRADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-armario-cuadro-mando-y-distrib-9-elem-metalico-superficie",
+      "m": 5,
+      "p": 37.73,
+      "s": "ARMARIO CUADRO MANDO Y DISTRIB. 9 ELEM. METÁLICO SUPERFICIE",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-armario-cuadro-mando-y-distrib-9-elem-plastico-empotrado",
+      "m": 5,
+      "p": 22.55,
+      "s": "ARMARIO CUADRO MANDO Y DISTRIB. 9 ELEM. PLÁSTICO EMPOTRADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-armario-cuadro-mando-y-distrib-9-elem-plastico-superficie",
+      "m": 5,
+      "p": 30.37,
+      "s": "ARMARIO CUADRO MANDO Y DISTRIB. 9 ELEM. PLÁSTICO SUPERFICIE",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-armario-cuaro-general-bt-6000x2000mm-metalico-apoyado",
+      "m": 4,
+      "p": 21601.64,
+      "s": "ARMARIO CUARO GENERAL BT 6000X2000mm METÁLICO APOYADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-arqueta-de-conexion-de-puesta-a-tierra-de-38x50x25-cm",
+      "m": 10,
+      "p": 149.37,
+      "s": "ARQUETA DE CONEXIÓN DE PUESTA A TIERRA DE 38x50x25 cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-bandeja-de-rejilla-200x100-mm",
+      "m": 4,
+      "p": 25.39,
+      "s": "BANDEJA DE REJILLA 200x100 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-bandeja-de-rejilla-400x100-mm",
+      "m": 4,
+      "p": 31.59,
+      "s": "BANDEJA DE REJILLA 400x100 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-bandeja-perforada-200x85-mm",
+      "m": 4,
+      "p": 23.86,
+      "s": "BANDEJA PERFORADA 200x85 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-bandeja-perforada-400x85-mm",
+      "m": 4,
+      "p": 36.13,
+      "s": "BANDEJA PERFORADA 400x85 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-caja-cuadro-mando-y-proteccion-1-dif-4-magn",
+      "m": 5,
+      "p": 12.45,
+      "s": "CAJA CUADRO MANDO Y PROTECCIÓN 1 DIF. + 4 MAGN.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-caja-cuadro-mando-y-proteccion-1-dif-4-magn-i-cuadrop",
+      "m": 5,
+      "p": 15.75,
+      "s": "CAJA CUADRO MANDO Y PROTECCIÓN 1 DIF. + 4 MAGN. + I.CUADROP",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-caja-cuadro-mando-y-proteccion-1-dif-6-magn",
+      "m": 5,
+      "p": 13.53,
+      "s": "CAJA CUADRO MANDO Y PROTECCIÓN 1 DIF. + 6 MAGN.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-caja-cuadro-mando-y-proteccion-1-dif-6-magn-i-cuadrop",
+      "m": 5,
+      "p": 16.57,
+      "s": "CAJA CUADRO MANDO Y PROTECCIÓN 1 DIF. + 6 MAGN. + I.CUADROP",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-caja-general-de-proteccion-para-160-a",
+      "m": 7,
+      "p": 264.01,
+      "s": "CAJA GENERAL DE PROTECCIÓN, PARA 160 A",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-caja-general-de-proteccion-para-250-a",
+      "m": 7,
+      "p": 334.21,
+      "s": "CAJA GENERAL DE PROTECCIÓN, PARA 250 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-caja-general-de-proteccion-para-80-a",
+      "m": 7,
+      "p": 122.95,
+      "s": "CAJA GENERAL DE PROTECCIÓN, PARA 80 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-caja-proteccion-y-medida-nivel-electrif-medio-contador-monof",
+      "m": 6,
+      "p": 141.63,
+      "s": "CAJA PROTECCIÓN Y MEDIDA, NIVEL ELECTRIF. MEDIO CONTADOR MONOF.",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-caja-proteccion-y-medida-nivel-electrif-medio-contador-trif",
+      "m": 6,
+      "p": 144.38,
+      "s": "CAJA PROTECCIÓN Y MEDIDA, NIVEL ELECTRIF. MEDIO CONTADOR TRIF.",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalizacion-acometida",
+      "m": 11,
+      "p": 163.06,
+      "s": "CANALIZACIÓN ACOMETIDA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-central-diferencial-electronica-reglable-para-4-circutos",
+      "m": 3,
+      "p": 363.36,
+      "s": "CENTRAL DIFERENCIAL ELECTRÓNICA REGLABLE PARA 4 CIRCUTOS",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-de-alumbrado-3x1-5-mm2",
+      "m": 6,
+      "p": 4.69,
+      "s": "CIRCUITO DE ALUMBRADO 3x1,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-de-otros-usos-3x2-5-mm2",
+      "m": 6,
+      "p": 5.81,
+      "s": "CIRCUITO DE OTROS USOS 3x2,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-lavadora-lavavajillas-etc-3x4-mm2",
+      "m": 6,
+      "p": 7.23,
+      "s": "CIRCUITO LAVADORA, LAVAVAJILLAS, ETC. 3x4 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-monofasico-3x1-5-mm2-empotrado",
+      "m": 6,
+      "p": 4.69,
+      "s": "CIRCUITO MONOFÁSICO 3x1,5 mm2 EMPOTRADO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-monofasico-3x1-5-mm2-superficie",
+      "m": 6,
+      "p": 6.79,
+      "s": "CIRCUITO MONOFÁSICO 3x1,5 mm2 SUPERFICIE",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-monofasico-3x1-mm2-empotrado",
+      "m": 6,
+      "p": 9.44,
+      "s": "CIRCUITO MONOFÁSICO 3x1 mm2 EMPOTRADO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-monofasico-3x10-mm2-empotrado",
+      "m": 6,
+      "p": 15.44,
+      "s": "CIRCUITO MONOFÁSICO 3x10 mm2 EMPOTRADO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-monofasico-3x16-mm2-empotrado",
+      "m": 6,
+      "p": 21.65,
+      "s": "CIRCUITO MONOFÁSICO 3x16 mm2 EMPOTRADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-circuito-monofasico-3x2-5-mm2-empotrado",
+      "m": 6,
+      "p": 5.81,
+      "s": "CIRCUITO MONOFÁSICO 3x2,5 mm2 EMPOTRADO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-monofasico-3x2-5-mm2-superficie",
+      "m": 6,
+      "p": 7.91,
+      "s": "CIRCUITO MONOFÁSICO 3x2,5 mm2 SUPERFICIE",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-monofasico-3x4-mm2-empotrado",
+      "m": 6,
+      "p": 7.23,
+      "s": "CIRCUITO MONOFÁSICO 3x4 mm2 EMPOTRADO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-monofasico-3x4-mm2-superficie",
+      "m": 6,
+      "p": 9.34,
+      "s": "CIRCUITO MONOFÁSICO 3x4 mm2 SUPERFICIE",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-monofasico-3x6-mm2-empotrado",
+      "m": 6,
+      "p": 9.46,
+      "s": "CIRCUITO MONOFÁSICO 3x6 mm2 EMPOTRADO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-para-climatizacion-4x6-mm2",
+      "m": 6,
+      "p": 11.61,
+      "s": "CIRCUITO PARA CLIMATIZACION 4x6 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-para-cocina-3x6-mm2",
+      "m": 6,
+      "p": 9.46,
+      "s": "CIRCUITO PARA COCINA 3x6 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-trifasico-3x25-2x16-mm2-empotrado",
+      "m": 7,
+      "p": 47.11,
+      "s": "CIRCUITO TRIFÁSICO 3x25+2x16 mm2 EMPOTRADO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-trifasico-3x25-2x16-mm2-superficie",
+      "m": 6,
+      "p": 49.8,
+      "s": "CIRCUITO TRIFÁSICO 3x25+2x16 mm2 SUPERFICIE",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-trifasico-3x35-2x16-mm2-empotrado",
+      "m": 7,
+      "p": 57.62,
+      "s": "CIRCUITO TRIFÁSICO 3x35+2x16 mm2 EMPOTRADO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-trifasico-3x35-2x16-mm2-superficie",
+      "m": 6,
+      "p": 61.19,
+      "s": "CIRCUITO TRIFÁSICO 3x35+2x16 mm2 SUPERFICIE",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-trifasico-3x50-2x25-mm2-superficie",
+      "m": 6,
+      "p": 86.9,
+      "s": "CIRCUITO TRIFÁSICO 3x50+2x25 mm2 SUPERFICIE",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-trifasico-3x70-2x35-mm2-superficie",
+      "m": 5,
+      "p": 38.99,
+      "s": "CIRCUITO TRIFÁSICO 3x70+2x35 mm2 SUPERFICIE",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-trifasico-4x16-1x10-mm2-empotrado",
+      "m": 7,
+      "p": 33.48,
+      "s": "CIRCUITO TRIFÁSICO 4x16+1x10 mm2 EMPOTRADO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-trifasico-4x16-1x10-mm2-superficie",
+      "m": 6,
+      "p": 35.71,
+      "s": "CIRCUITO TRIFÁSICO 4x16+1x10 mm2 SUPERFICIE",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-trifasico-4x25-1x16-mm2-empotrado",
+      "m": 7,
+      "p": 51.29,
+      "s": "CIRCUITO TRIFÁSICO 4x25+1x16 mm2 EMPOTRADO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-trifasico-4x25-1x16-mm2-superficie",
+      "m": 6,
+      "p": 53.59,
+      "s": "CIRCUITO TRIFÁSICO 4x25+1x16 mm2 SUPERFICIE",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-trifasico-4x35-1x16-mm2-empotrado",
+      "m": 7,
+      "p": 64.74,
+      "s": "CIRCUITO TRIFÁSICO 4x35+1x16 mm2 EMPOTRADO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-trifasico-4x35-1x16-mm2-superficie",
+      "m": 6,
+      "p": 68.31,
+      "s": "CIRCUITO TRIFÁSICO 4x35+1x16 mm2 SUPERFICIE",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-trifasico-4x50-1x25-mm2-superficie",
+      "m": 6,
+      "p": 95.78,
+      "s": "CIRCUITO TRIFÁSICO 4x50+1x25 mm2 SUPERFICIE",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-trifasico-5x10-mm2-empotrado",
+      "m": 6,
+      "p": 23.78,
+      "s": "CIRCUITO TRIFÁSICO 5x10 mm2 EMPOTRADO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-trifasico-5x10-mm2-superficie",
+      "m": 5,
+      "p": 25.96,
+      "s": "CIRCUITO TRIFÁSICO 5x10 mm2 SUPERFICIE",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-trifasico-5x16-mm2-empotrado",
+      "m": 6,
+      "p": 34.3,
+      "s": "CIRCUITO TRIFÁSICO 5x16 mm2 EMPOTRADO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-trifasico-5x16-mm2-superficie",
+      "m": 5,
+      "p": 37.97,
+      "s": "CIRCUITO TRIFÁSICO 5x16 mm2 SUPERFICIE",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-trifasico-5x6-mm2-empotrado",
+      "m": 6,
+      "p": 13.93,
+      "s": "CIRCUITO TRIFÁSICO 5x6 mm2 EMPOTRADO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-circuito-trifasico-5x6-mm2-superficie",
+      "m": 5,
+      "p": 16.16,
+      "s": "CIRCUITO TRIFÁSICO 5x6 mm2 SUPERFICIE",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cofre-para-cuadro-de-mando-y-distribucion-de-20x20-cm",
+      "m": 5,
+      "p": 54.85,
+      "s": "COFRE PARA CUADRO DE MANDO Y DISTRIBUCIÓN, DE 20X20 cm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cofre-para-cuadro-de-mando-y-distribucion-de-30x40-cm",
+      "m": 5,
+      "p": 84.35,
+      "s": "COFRE PARA CUADRO DE MANDO Y DISTRIBUCIÓN, DE 30X40 cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-conduccion-puesta-tierra-cond-cobre-desnudo-35-mm2",
+      "m": 3,
+      "p": 13.31,
+      "s": "CONDUCCIÓN PUESTA TIERRA, COND. COBRE DESNUDO 35 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-conduccion-puesta-tierra-cond-cobre-desnudo-50-mm2",
+      "m": 3,
+      "p": 16.45,
+      "s": "CONDUCCIÓN PUESTA TIERRA, COND. COBRE DESNUDO 50 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-conduccion-puesta-tierra-cond-cobre-desnudo-70-mm2",
+      "m": 3,
+      "p": 19.91,
+      "s": "CONDUCCIÓN PUESTA TIERRA, COND. COBRE DESNUDO 70 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-conduccion-puesta-tierra-cond-cobre-desnudo-95-mm2",
+      "m": 3,
+      "p": 21.3,
+      "s": "CONDUCCIÓN PUESTA TIERRA, COND. COBRE DESNUDO 95 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-conductor-cu-rz1-k-as-0-6-1-kv-1x1-5-mm2",
+      "m": 4,
+      "p": 5.26,
+      "s": "CONDUCTOR Cu RZ1-K(AS) 0.6/1 KV 1X1,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-conductor-cu-rz1-k-as-0-6-1-kv-1x10-mm2",
+      "m": 4,
+      "p": 8.29,
+      "s": "CONDUCTOR Cu RZ1-K(AS) 0.6/1 KV 1X10 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-conductor-cu-rz1-k-as-0-6-1-kv-1x120-mm2",
+      "m": 4,
+      "p": 42.46,
+      "s": "CONDUCTOR Cu RZ1-K(AS) 0.6/1 KV 1X120 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-conductor-cu-rz1-k-as-0-6-1-kv-1x150-mm2",
+      "m": 4,
+      "p": 53.68,
+      "s": "CONDUCTOR Cu RZ1-K(AS) 0.6/1 KV 1X150 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-conductor-cu-rz1-k-as-0-6-1-kv-1x16-mm2",
+      "m": 4,
+      "p": 7.47,
+      "s": "CONDUCTOR Cu RZ1-K(AS) 0.6/1 KV 1X16 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-conductor-cu-rz1-k-as-0-6-1-kv-1x185-mm2",
+      "m": 4,
+      "p": 62.52,
+      "s": "CONDUCTOR Cu RZ1-K(AS) 0.6/1 KV 1X185 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-conductor-cu-rz1-k-as-0-6-1-kv-1x2-5-mm2",
+      "m": 4,
+      "p": 5.54,
+      "s": "CONDUCTOR Cu RZ1-K(AS) 0.6/1 KV 1X2,5 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-conductor-cu-rz1-k-as-0-6-1-kv-1x240-mm2",
+      "m": 4,
+      "p": 81.38,
+      "s": "CONDUCTOR Cu RZ1-K(AS) 0.6/1 KV 1X240 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-conductor-cu-rz1-k-as-0-6-1-kv-1x25-mm2",
+      "m": 4,
+      "p": 10.6,
+      "s": "CONDUCTOR Cu RZ1-K(AS) 0.6/1 KV 1X25 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-conductor-cu-rz1-k-as-0-6-1-kv-1x35-mm2",
+      "m": 4,
+      "p": 13.78,
+      "s": "CONDUCTOR Cu RZ1-K(AS) 0.6/1 KV 1X35 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-conductor-cu-rz1-k-as-0-6-1-kv-1x4-mm2",
+      "m": 4,
+      "p": 6.14,
+      "s": "CONDUCTOR Cu RZ1-K(AS) 0.6/1 KV 1x4 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-conductor-cu-rz1-k-as-0-6-1-kv-1x50-mm2",
+      "m": 4,
+      "p": 19.15,
+      "s": "CONDUCTOR Cu RZ1-K(AS) 0.6/1 KV 1X50 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-conductor-cu-rz1-k-as-0-6-1-kv-1x6-mm2",
+      "m": 4,
+      "p": 6.86,
+      "s": "CONDUCTOR Cu RZ1-K(AS) 0.6/1 KV 1X6 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-conductor-cu-rz1-k-as-0-6-1-kv-1x95-mm2",
+      "m": 4,
+      "p": 33.49,
+      "s": "CONDUCTOR Cu RZ1-K(AS) 0.6/1 KV 1X95 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-conductor-cu-sz1-k-as-0-6-1-kv-1x120-mm2",
+      "m": 4,
+      "p": 37.72,
+      "s": "CONDUCTOR Cu SZ1-K(AS+) 0.6/1 KV 1X120 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-contactor-ii-16a-230v",
+      "m": 3,
+      "p": 45.86,
+      "s": "CONTACTOR II 16A 230V",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-contactor-ii-25a-230v",
+      "m": 3,
+      "p": 58.86,
+      "s": "CONTACTOR II 25A 230V",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-contactor-ii-32a-230v",
+      "m": 3,
+      "p": 63.58,
+      "s": "CONTACTOR II 32A 230V",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-contactor-ii-40a-230v",
+      "m": 3,
+      "p": 68.31,
+      "s": "CONTACTOR II 40A 230V",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-contactor-iv-16a-230v",
+      "m": 3,
+      "p": 110.84,
+      "s": "CONTACTOR IV 16A 230V",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-contactor-iv-20a-230v",
+      "m": 3,
+      "p": 142.67,
+      "s": "CONTACTOR IV 20A 230V",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cuadro-de-proteccion-linea-de-fuerza-motriz",
+      "m": 6,
+      "p": 139.25,
+      "s": "CUADRO DE PROTECCIÓN LINEA DE FUERZA MOTRIZ",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cuadro-general-mando-y-proteccion-alumbrado-escalera",
+      "m": 8,
+      "p": 274.2,
+      "s": "CUADRO GENERAL MANDO Y PROTECCIÓN ALUMBRADO ESCALERA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-derivacion-de-puesta-a-tierra",
+      "m": 6,
+      "p": 3.74,
+      "s": "DERIVACIÓN DE PUESTA A TIERRA",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-derivacion-individual-monofasica-3-cond-10-mm2",
+      "m": 6,
+      "p": 15.44,
+      "s": "DERIVACIÓN INDIVIDUAL MONOFÁSICA, 3 COND. 10 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-derivacion-individual-monofasica-3-cond-16-mm2",
+      "m": 6,
+      "p": 21.65,
+      "s": "DERIVACIÓN INDIVIDUAL MONOFÁSICA, 3 COND. 16 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-derivacion-individual-monofasica-3-cond-25-mm2",
+      "m": 6,
+      "p": 34.16,
+      "s": "DERIVACIÓN INDIVIDUAL MONOFÁSICA, 3 COND. 25 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-derivacion-individual-monofasica-3-cond-4-mm2",
+      "m": 6,
+      "p": 7.34,
+      "s": "DERIVACIÓN INDIVIDUAL MONOFÁSICA, 3 COND. 4 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-derivacion-individual-monofasica-3-cond-6-mm2",
+      "m": 6,
+      "p": 9.62,
+      "s": "DERIVACIÓN INDIVIDUAL MONOFÁSICA, 3 COND. 6 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-derivacion-individual-trifasica-5-cond-10-mm2",
+      "m": 6,
+      "p": 23.78,
+      "s": "DERIVACIÓN INDIVIDUAL TRIFÁSICA, 5 COND. 10 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-derivacion-individual-trifasica-5-cond-6-mm2",
+      "m": 6,
+      "p": 13.93,
+      "s": "DERIVACIÓN INDIVIDUAL TRIFÁSICA, 5 COND. 6 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-detector-elementos-presencia",
+      "m": 6,
+      "p": 75.82,
+      "s": "DETECTOR ELEMENTOS PRESENCIA",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-downlight-de-2x26-w-plc-cristal-opal",
+      "m": 4,
+      "p": 78.78,
+      "s": "DOWNLIGHT DE 2X26 W PLC CRISTAL OPAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-downlight-empotrable-led-19w-200-mm",
+      "m": 5,
+      "p": 55.09,
+      "s": "DOWNLIGHT EMPOTRABLE LED >19W, Ø200 mm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-downlight-led",
+      "m": 4,
+      "p": 63.29,
+      "s": "DOWNLIGHT LED",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-downlight-led-regulable",
+      "m": 5,
+      "p": 108.29,
+      "s": "DOWNLIGHT LED REGULABLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-downlight-superficie-led-19w-200-mm",
+      "m": 5,
+      "p": 65.22,
+      "s": "DOWNLIGHT SUPERFICIE LED >19w, Ø200 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-fluorescente-antideflagrante-superficial",
+      "m": 7,
+      "p": 111.94,
+      "s": "EQUIPO FLUORESCENTE ANTIDEFLAGRANTE SUPERFICIAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-equipo-fluorescente-dos-tubos-de-40-w-superficial",
+      "m": 7,
+      "p": 110.3,
+      "s": "EQUIPO FLUORESCENTE, DOS TUBOS DE 40 W SUPERFICIAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-foco-empotrado-superficie-led-5w",
+      "m": 4,
+      "p": 26.69,
+      "s": "FOCO EMPOTRADO/SUPERFICIE LED 5W",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-instalacion-modular-de-contador-monofasico-centralizado",
+      "m": 6,
+      "p": 143.16,
+      "s": "INSTALACIÓN MODULAR DE CONTADOR MONOFÁSICO CENTRALIZADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-instalacion-modular-separada-de-contador-trifasico",
+      "m": 6,
+      "p": 151.72,
+      "s": "INSTALACIÓN MODULAR SEPARADA DE CONTADOR TRIFÁSICO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-interrup-auto-caja-moldeada-tetrapolar-25ka-iv-de-1000a",
+      "m": 4,
+      "p": 8834.13,
+      "s": "INTERRUP. AUTO. CAJA MOLDEADA TETRAPOLAR 25KA (IV) DE 1000A",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-interrup-auto-caja-moldeada-tetrapolar-35ka-iv-de-160a",
+      "m": 4,
+      "p": 1472.02,
+      "s": "INTERRUP. AUTO. CAJA MOLDEADA TETRAPOLAR 35KA (IV) DE 160A",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-interrup-auto-caja-moldeada-tetrapolar-35ka-iv-de-250a",
+      "m": 4,
+      "p": 1827.52,
+      "s": "INTERRUP. AUTO. CAJA MOLDEADA TETRAPOLAR 35KA (IV) DE 250A",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-interrup-auto-caja-moldeada-tripolar-25ka-iii-de-100a",
+      "m": 4,
+      "p": 580.59,
+      "s": "INTERRUP. AUTO. CAJA MOLDEADA TRIPOLAR 25KA (III) DE 100A",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-interrup-auto-caja-moldeada-tripolar-25ka-iii-de-250a",
+      "m": 4,
+      "p": 1521.19,
+      "s": "INTERRUP. AUTO. CAJA MOLDEADA TRIPOLAR 25KA (III) DE 250A",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-interrup-auto-caja-tetrap-50ka-iv-100-a-int-dif-0-5a",
+      "m": 5,
+      "p": 1681.82,
+      "s": "INTERRUP. AUTO. CAJA TETRAP. 50kA (IV) 100 A INT. DIF. 0,5A",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-interrup-auto-caja-tetrap-50ka-iv-250-a-int-dif-0-5a",
+      "m": 5,
+      "p": 2280.16,
+      "s": "INTERRUP. AUTO. CAJA TETRAP. 50kA (IV) 250 A INT. DIF. 0,5A",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-interrup-auto-magnetotermico-bipolar-10ka-ii-de-16a",
+      "m": 3,
+      "p": 65.9,
+      "s": "INTERRUP. AUTO. MAGNETOTÉRMICO BIPOLAR 10kA (II) DE 16A",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-interrup-auto-magnetotermico-bipolar-10ka-ii-de-25a",
+      "m": 3,
+      "p": 68.82,
+      "s": "INTERRUP. AUTO. MAGNETOTÉRMICO BIPOLAR 10kA (II) DE 25A",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-interrup-auto-magnetotermico-bipolar-6ka-ii-de-10a",
+      "m": 3,
+      "p": 58.45,
+      "s": "INTERRUP. AUTO. MAGNETOTÉRMICO BIPOLAR 6kA (II) DE 10A",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-interrup-auto-magnetotermico-bipolar-6ka-ii-de-16a",
+      "m": 3,
+      "p": 59.46,
+      "s": "INTERRUP. AUTO. MAGNETOTÉRMICO BIPOLAR 6kA (II) DE 16A",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-interrup-auto-magnetotermico-bipolar-6ka-ii-de-25a",
+      "m": 3,
+      "p": 61.95,
+      "s": "INTERRUP. AUTO. MAGNETOTÉRMICO BIPOLAR 6kA (II) DE 25A",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-interrup-auto-magnetotermico-bipolar-6ka-ii-de-32a",
+      "m": 3,
+      "p": 65.19,
+      "s": "INTERRUP. AUTO. MAGNETOTÉRMICO BIPOLAR 6kA (II) DE 32A",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-interrup-auto-magnetotermico-bipolar-6ka-ii-de-40a",
+      "m": 3,
+      "p": 80.72,
+      "s": "INTERRUP. AUTO. MAGNETOTÉRMICO BIPOLAR 6kA (II) DE 40A",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-interrup-auto-magnetotermico-tetrapolar-10ka-iv-de-16a",
+      "m": 3,
+      "p": 135.49,
+      "s": "INTERRUP. AUTO. MAGNETOTÉRMICO TETRAPOLAR 10kA (IV) DE 16A",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-interrup-auto-magnetotermico-tetrapolar-25ka-iv-de-40a",
+      "m": 3,
+      "p": 281.12,
+      "s": "INTERRUP. AUTO. MAGNETOTÉRMICO TETRAPOLAR 25kA (IV) DE 40A",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-interrup-auto-magnetotermico-tetrapolar-35ka-iv-de-40a",
+      "m": 3,
+      "p": 359.94,
+      "s": "INTERRUP. AUTO. MAGNETOTÉRMICO TETRAPOLAR 35kA (IV) DE 40A",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-interrup-auto-magnetotermico-tetrapolar-35ka-iv-de-63a",
+      "m": 3,
+      "p": 390.07,
+      "s": "INTERRUP. AUTO. MAGNETOTÉRMICO TETRAPOLAR 35kA (IV) DE 63A",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-interrup-auto-magnetotermico-tetrapolar-6ka-iv-de-16a",
+      "m": 3,
+      "p": 126.89,
+      "s": "INTERRUP. AUTO. MAGNETOTÉRMICO TETRAPOLAR 6kA (IV) DE 16A",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-interrup-auto-magnetotermico-tetrapolar-6ka-iv-de-40a",
+      "m": 3,
+      "p": 159.9,
+      "s": "INTERRUP. AUTO. MAGNETOTÉRMICO TETRAPOLAR 6kA (IV) DE 40A",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-interrup-dif-bip-ii-int-25-a-sens-0-03-a-clase-a-si",
+      "m": 3,
+      "p": 167.93,
+      "s": "INTERRUP. DIF. BIP. (II). INT.25 A SENS. 0,03 A CLASE A \"SI\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-interrup-dif-tetra-iv-int-40-a-sens-0-5-a-clase-a-si",
+      "m": 3,
+      "p": 397.13,
+      "s": "INTERRUP. DIF. TETRA. (IV). INT.40 A SENS. 0,5 A CLASE A \"SI\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-interrup-dif-tetra-iv-int-63-a-sens-0-5-a-clase-a-si",
+      "m": 3,
+      "p": 530.94,
+      "s": "INTERRUP. DIF. TETRA. (IV). INT.63 A SENS. 0,5 A CLASE A \"SI\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-magnetotermico-bipolar-de-10-a",
+      "m": 2,
+      "p": 66.73,
+      "s": "INTERRUPTOR AUTOMÁTICO MAGNETOTÉRMICO BIPOLAR DE 10 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-magnetotermico-bipolar-de-16-a",
+      "m": 2,
+      "p": 66.73,
+      "s": "INTERRUPTOR AUTOMÁTICO MAGNETOTÉRMICO BIPOLAR DE 16 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-magnetotermico-bipolar-de-20-a",
+      "m": 2,
+      "p": 66.73,
+      "s": "INTERRUPTOR AUTOMÁTICO MAGNETOTÉRMICO BIPOLAR DE 20 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-magnetotermico-bipolar-de-25-a",
+      "m": 2,
+      "p": 66.73,
+      "s": "INTERRUPTOR AUTOMÁTICO MAGNETOTÉRMICO BIPOLAR DE 25 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-magnetotermico-bipolar-de-32-a",
+      "m": 2,
+      "p": 66.73,
+      "s": "INTERRUPTOR AUTOMÁTICO MAGNETOTÉRMICO BIPOLAR DE 32 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-magnetotermico-bipolar-i-n-de-10-a",
+      "m": 2,
+      "p": 23.47,
+      "s": "INTERRUPTOR AUTOMÁTICO MAGNETOTÉRMICO BIPOLAR (I+N) DE 10 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-magnetotermico-bipolar-i-n-de-6-a",
+      "m": 2,
+      "p": 23.47,
+      "s": "INTERRUPTOR AUTOMÁTICO MAGNETOTÉRMICO BIPOLAR (I+N) DE 6 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-magnetotermico-tetrapolar-de-10-a",
+      "m": 2,
+      "p": 134.42,
+      "s": "INTERRUPTOR AUTOMÁTICO MAGNETOTÉRMICO TETRAPOLAR DE 10 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-magnetotermico-tetrapolar-de-25-a",
+      "m": 2,
+      "p": 134.42,
+      "s": "INTERRUPTOR AUTOMÁTICO MAGNETOTÉRMICO TETRAPOLAR DE 25 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-magnetotermico-tetrapolar-de-32-a",
+      "m": 2,
+      "p": 134.42,
+      "s": "INTERRUPTOR AUTOMÁTICO MAGNETOTÉRMICO TETRAPOLAR DE 32 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-magnetotermico-tripolar-de-10-a",
+      "m": 2,
+      "p": 103.35,
+      "s": "INTERRUPTOR AUTOMÁTICO MAGNETOTÉRMICO TRIPOLAR DE 10 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-magnetotermico-tripolar-de-16-a",
+      "m": 2,
+      "p": 103.35,
+      "s": "INTERRUPTOR AUTOMÁTICO MAGNETOTÉRMICO TRIPOLAR DE 16 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-magnetotermico-tripolar-de-20-a",
+      "m": 2,
+      "p": 103.35,
+      "s": "INTERRUPTOR AUTOMÁTICO MAGNETOTÉRMICO TRIPOLAR DE 20 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-magnetotermico-tripolar-de-25-a",
+      "m": 2,
+      "p": 103.35,
+      "s": "INTERRUPTOR AUTOMÁTICO MAGNETOTÉRMICO TRIPOLAR DE 25 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-magnetotermico-tripolar-de-32-a",
+      "m": 2,
+      "p": 103.35,
+      "s": "INTERRUPTOR AUTOMÁTICO MAGNETOTÉRMICO TRIPOLAR DE 32 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-magnetotermico-tripolar-de-38-a",
+      "m": 2,
+      "p": 118.85,
+      "s": "INTERRUPTOR AUTOMÁTICO MAGNETOTÉRMICO TRIPOLAR DE 38 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-magnetotermico-tripolar-de-47-a",
+      "m": 2,
+      "p": 120.01,
+      "s": "INTERRUPTOR AUTOMÁTICO MAGNETOTÉRMICO TRIPOLAR DE 47 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-magnetotermico-tripolar-de-63-a",
+      "m": 2,
+      "p": 193.15,
+      "s": "INTERRUPTOR AUTOMÁTICO MAGNETOTÉRMICO TRIPOLAR DE 63 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-magnetotermico-unipolar-de-10-a",
+      "m": 2,
+      "p": 23.47,
+      "s": "INTERRUPTOR AUTOMÁTICO MAGNETOTÉRMICO UNIPOLAR DE 10 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-automatico-magnetotermico-unipolar-de-6-a",
+      "m": 2,
+      "p": 23.47,
+      "s": "INTERRUPTOR AUTOMÁTICO MAGNETOTÉRMICO UNIPOLAR DE 6 A",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-interruptor-conmutado",
+      "m": 6,
+      "p": 35.25,
+      "s": "INTERRUPTOR CONMUTADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-interruptor-conmutado-estanco",
+      "m": 5,
+      "p": 99.85,
+      "s": "INTERRUPTOR CONMUTADO ESTANCO",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-de-control-de-potencia-bipolar-de-10-a",
+      "m": 2,
+      "p": 53.59,
+      "s": "INTERRUPTOR DE CONTROL DE POTENCIA, BIPOLAR, DE 10 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-de-control-de-potencia-bipolar-de-20-a",
+      "m": 1,
+      "p": 9.27,
+      "s": "INTERRUPTOR DE CONTROL DE POTENCIA, BIPOLAR, DE 20 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-de-control-de-potencia-bipolar-de-25-a",
+      "m": 2,
+      "p": 53.59,
+      "s": "INTERRUPTOR DE CONTROL DE POTENCIA, BIPOLAR, DE 25 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-de-control-de-potencia-bipolar-de-35-a",
+      "m": 2,
+      "p": 52.43,
+      "s": "INTERRUPTOR DE CONTROL DE POTENCIA, BIPOLAR, DE 35 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-de-control-de-potencia-bipolar-de-50-a",
+      "m": 2,
+      "p": 75.69,
+      "s": "INTERRUPTOR DE CONTROL DE POTENCIA, BIPOLAR, DE 50 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-de-control-de-potencia-tetrapolar-de-25-a",
+      "m": 2,
+      "p": 117.95,
+      "s": "INTERRUPTOR DE CONTROL DE POTENCIA, TETRAPOLAR, DE 25 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-de-control-de-potencia-tetrapolar-de-50-a",
+      "m": 2,
+      "p": 198.84,
+      "s": "INTERRUPTOR DE CONTROL DE POTENCIA, TETRAPOLAR, DE 50 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-de-control-de-potencia-unipolar-de-10-a",
+      "m": 2,
+      "p": 52.43,
+      "s": "INTERRUPTOR DE CONTROL DE POTENCIA, UNIPOLAR, DE 10 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-de-control-de-potencia-unipolar-de-25-a",
+      "m": 2,
+      "p": 52.43,
+      "s": "INTERRUPTOR DE CONTROL DE POTENCIA, UNIPOLAR, DE 25 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-de-control-de-potencia-unipolar-de-35-a",
+      "m": 2,
+      "p": 52.43,
+      "s": "INTERRUPTOR DE CONTROL DE POTENCIA, UNIPOLAR, DE 35 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-de-control-de-potencia-unipolar-de-50-a",
+      "m": 2,
+      "p": 75.69,
+      "s": "INTERRUPTOR DE CONTROL DE POTENCIA, UNIPOLAR, DE 50 A",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-interruptor-de-corte-en-carga-tetrapolar-iv-100a",
+      "m": 3,
+      "p": 343.67,
+      "s": "INTERRUPTOR DE CORTE EN CARGA TETRAPOLAR (IV) 100A",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-interruptor-de-corte-en-carga-tetrapolar-iv-250a",
+      "m": 3,
+      "p": 490.82,
+      "s": "INTERRUPTOR DE CORTE EN CARGA TETRAPOLAR (IV) 250A",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-interruptor-de-cruce",
+      "m": 7,
+      "p": 51.62,
+      "s": "INTERRUPTOR DE CRUCE",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-diferencial-ii-int-n-25-a-sens-0-03-a",
+      "m": 2,
+      "p": 68.99,
+      "s": "INTERRUPTOR DIFERENCIAL II, INT. N. 25 A SENS. 0,03 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-diferencial-ii-int-n-40-a-sens-0-03-a",
+      "m": 2,
+      "p": 68.99,
+      "s": "INTERRUPTOR DIFERENCIAL II, INT. N. 40 A SENS. 0,03 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-diferencial-ii-int-n-40-a-sens-0-30-a",
+      "m": 2,
+      "p": 150.99,
+      "s": "INTERRUPTOR DIFERENCIAL II, INT. N. 40 A SENS. 0,30 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-diferencial-ii-int-n-63-a-sens-0-03-a",
+      "m": 2,
+      "p": 372.58,
+      "s": "INTERRUPTOR DIFERENCIAL II, INT. N. 63 A SENS. 0,03 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-diferencial-ii-int-n-63-a-sens-0-30-a",
+      "m": 2,
+      "p": 264,
+      "s": "INTERRUPTOR DIFERENCIAL II, INT. N. 63 A SENS. 0.30 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-diferencial-iv-int-n-25-a-sens-0-03-a",
+      "m": 2,
+      "p": 278.51,
+      "s": "INTERRUPTOR DIFERENCIAL IV, INT. N. 25 A SENS. 0,03 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-diferencial-iv-int-n-25-a-sens-0-30-a",
+      "m": 2,
+      "p": 246.38,
+      "s": "INTERRUPTOR DIFERENCIAL IV, INT. N. 25 A SENS. 0,30 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-diferencial-iv-int-n-40-a-sens-0-03-a",
+      "m": 2,
+      "p": 287.37,
+      "s": "INTERRUPTOR DIFERENCIAL IV, INT. N. 40 A SENS. 0,03 A",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-interruptor-diferencial-iv-int-n-63-a-sens-0-30-a",
+      "m": 2,
+      "p": 320.61,
+      "s": "INTERRUPTOR DIFERENCIAL IV, INT. N. 63 A SENS. 0,30 A",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-interruptor-doble",
+      "m": 6,
+      "p": 25.88,
+      "s": "INTERRUPTOR DOBLE",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-interruptor-general-automatico-omnipolar-iv-de-125-a",
+      "m": 2,
+      "p": 428.19,
+      "s": "INTERRUPTOR GENERAL AUTOMÁTICO OMNIPOLAR IV DE 125 A",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-interruptor-simple",
+      "m": 6,
+      "p": 20.11,
+      "s": "INTERRUPTOR SIMPLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-interruptor-simple-estanco",
+      "m": 5,
+      "p": 42.78,
+      "s": "INTERRUPTOR SIMPLE ESTANCO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-limitador-sobretension-20a-25ka-tipo-i-ii",
+      "m": 3,
+      "p": 833.59,
+      "s": "LIMITADOR SOBRETENSIÓN 20A. 25kA. TIPO I+II",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-limitador-sobretension-20a-25ka-tipo-ii-y-iii",
+      "m": 3,
+      "p": 252.11,
+      "s": "LIMITADOR SOBRETENSIÓN 20A. 25kA. TIPO II y III",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-limitador-sobretension-20a-35ka-tipo-ii-y-iii",
+      "m": 3,
+      "p": 328.9,
+      "s": "LIMITADOR SOBRETENSIÓN 20A. 35kA. TIPO II y III",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-3x10-mm2-enterrada-tub-fibrocemento",
+      "m": 7,
+      "p": 23.98,
+      "s": "LÍNEA GENERAL ALIMENT. 3x10 mm2 ENTERRADA TUB. FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-3x25-2x16-mm2-bajo-tubo-pvc",
+      "m": 8,
+      "p": 47.52,
+      "s": "LÍNEA GENERAL ALIMENT. 3X25+2X16 mm2 BAJO TUBO PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-3x35-2x16-mm2-bajo-tubo-pvc",
+      "m": 8,
+      "p": 57.77,
+      "s": "LÍNEA GENERAL ALIMENT. 3X35+2X16 mm2 BAJO TUBO PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-3x50-2x25-mm2-bajo-tubo-pvc",
+      "m": 8,
+      "p": 84.69,
+      "s": "LÍNEA GENERAL ALIMENT. 3X50+2X25 mm2 BAJO TUBO PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-3x6-mm2-enterrada-tub-fibrocemento",
+      "m": 6,
+      "p": 14.14,
+      "s": "LÍNEA GENERAL ALIMENT. 3x6 mm2 ENTERRADA TUB. FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-3x70-2x35-mm2-bajo-tubo-pvc",
+      "m": 8,
+      "p": 112.67,
+      "s": "LÍNEA GENERAL ALIMENT. 3X70+2X35 mm2 BAJO TUBO PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-3x95-2x50-mm2-bajo-tubo-pvc",
+      "m": 7,
+      "p": 149.53,
+      "s": "LÍNEA GENERAL ALIMENT. 3X95+2X50 mm2 BAJO TUBO PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-4x16-1x10-mm2-bajo-tubo-pvc",
+      "m": 7,
+      "p": 35.13,
+      "s": "LÍNEA GENERAL ALIMENT. 4X16+1X10 mm2 BAJO TUBO PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-4x25-1x16-mm2-bajo-tubo-pvc",
+      "m": 7,
+      "p": 50.44,
+      "s": "LÍNEA GENERAL ALIMENT. 4X25+1X16 mm2 BAJO TUBO PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-4x25-1x16-mm2-empotrada",
+      "m": 7,
+      "p": 52.45,
+      "s": "LÍNEA GENERAL ALIMENT. 4X25+1X16 mm2 EMPOTRADA",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-linea-general-aliment-4x25-1x16-mm2-en-cond-de-fabrica",
+      "m": 6,
+      "p": 51.76,
+      "s": "LÍNEA GENERAL ALIMENT. 4X25+1X16 mm2 EN COND. DE FÁBRICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-4x35-1x16-mm2-bajo-tubo-pvc",
+      "m": 7,
+      "p": 64.44,
+      "s": "LÍNEA GENERAL ALIMENT. 4X35+1X16 mm2 BAJO TUBO PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-4x35-1x16-mm2-empotrada",
+      "m": 7,
+      "p": 66.45,
+      "s": "LÍNEA GENERAL ALIMENT. 4X35+1X16 mm2 EMPOTRADA",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-linea-general-aliment-4x35-1x16-mm2-en-cond-de-fabrica",
+      "m": 6,
+      "p": 65.3,
+      "s": "LÍNEA GENERAL ALIMENT. 4X35+1X16 mm2 EN COND. DE FÁBRICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-4x50-1x25-mm2-bajo-tubo-pvc",
+      "m": 7,
+      "p": 41.09,
+      "s": "LÍNEA GENERAL ALIMENT. 4X50+1X25 mm2 BAJO TUBO PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-4x50-1x25-mm2-empotrada",
+      "m": 7,
+      "p": 93.99,
+      "s": "LÍNEA GENERAL ALIMENT. 4X50+1X25 mm2 EMPOTRADA",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-linea-general-aliment-4x50-1x25-mm2-en-cond-de-fabrica",
+      "m": 6,
+      "p": 91.66,
+      "s": "LÍNEA GENERAL ALIMENT. 4X50+1X25 mm2 EN COND. DE FÁBRICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-4x70-1x35-mm2-bajo-tubo-pvc",
+      "m": 7,
+      "p": 125.03,
+      "s": "LÍNEA GENERAL ALIMENT. 4X70+1X35 mm2 BAJO TUBO PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-4x70-1x35-mm2-empotrada",
+      "m": 7,
+      "p": 125.67,
+      "s": "LÍNEA GENERAL ALIMENT. 4X70+1X35 mm2 EMPOTRADA",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-linea-general-aliment-4x70-1x35-mm2-en-cond-de-fabrica",
+      "m": 6,
+      "p": 123.34,
+      "s": "LÍNEA GENERAL ALIMENT. 4X70+1X35 mm2 EN COND. DE FÁBRICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-4x95-1x50-mm2-bajo-tubo-pvc",
+      "m": 7,
+      "p": 161.85,
+      "s": "LÍNEA GENERAL ALIMENT. 4X95+1X50 mm2 BAJO TUBO PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-5x10-mm2-empotrada",
+      "m": 7,
+      "p": 29.57,
+      "s": "LÍNEA GENERAL ALIMENT. 5x10 mm2 EMPOTRADA",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-linea-general-aliment-5x10-mm2-en-cond-de-fabrica",
+      "m": 6,
+      "p": 28.12,
+      "s": "LÍNEA GENERAL ALIMENT. 5x10 mm2 EN COND. DE FÁBRICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-5x16-mm2-bajo-tubo-pvc",
+      "m": 7,
+      "p": 37.25,
+      "s": "LÍNEA GENERAL ALIMENT. 5x16 mm2 BAJO TUBO PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-5x16-mm2-empotrada",
+      "m": 7,
+      "p": 38.86,
+      "s": "LÍNEA GENERAL ALIMENT. 5x16 mm2 EMPOTRADA",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-linea-general-aliment-5x16-mm2-en-cond-de-fabrica",
+      "m": 6,
+      "p": 37.88,
+      "s": "LÍNEA GENERAL ALIMENT. 5x16 mm2 EN COND. DE FÁBRICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-general-aliment-5x6-mm2-empotrada",
+      "m": 6,
+      "p": 11.83,
+      "s": "LÍNEA GENERAL ALIMENT. 5x6 mm2 EMPOTRADA",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-linea-general-aliment-5x6-mm2-en-cond-de-fabrica",
+      "m": 5,
+      "p": 10.38,
+      "s": "LÍNEA GENERAL ALIMENT. 5x6 mm2 EN COND. DE FÁBRICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-linea-principal-puesta-tierra-16-mm2-empotrada",
+      "m": 6,
+      "p": 12.5,
+      "s": "LÍNEA PRINCIPAL PUESTA TIERRA, 16 mm2 EMPOTRADA",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-linea-principal-puesta-tierra-25-mm2-empotrada",
+      "m": 6,
+      "p": 13.83,
+      "s": "LÍNEA PRINCIPAL PUESTA TIERRA, 25 mm2 EMPOTRADA",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-linea-principal-puesta-tierra-35-mm2-empotrada",
+      "m": 6,
+      "p": 16.18,
+      "s": "LÍNEA PRINCIPAL PUESTA TIERRA, 35 mm2 EMPOTRADA",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-linea-principal-puesta-tierra-35-mm2-superficie",
+      "m": 6,
+      "p": 7.41,
+      "s": "LÍNEA PRINCIPAL PUESTA TIERRA, 35 mm2 SUPERFICIE",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-linea-principal-puesta-tierra-50-mm2-empotrada",
+      "m": 6,
+      "p": 20.71,
+      "s": "LÍNEA PRINCIPAL PUESTA TIERRA, 50 mm2 EMPOTRADA",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-linea-principal-puesta-tierra-50-mm2-superficie",
+      "m": 6,
+      "p": 9.96,
+      "s": "LÍNEA PRINCIPAL PUESTA TIERRA, 50 mm2 SUPERFICIE",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-linea-principal-puesta-tierra-70-mm2-superficie",
+      "m": 6,
+      "p": 11.1,
+      "s": "LÍNEA PRINCIPAL PUESTA TIERRA, 70 mm2 SUPERFICIE",
+      "u": "m"
+    },
+    {
+      "d": "2023-03",
+      "g": [],
+      "id": "wi-luminaria-con-balasto-regulable",
+      "m": 2,
+      "p": 138.36,
+      "s": "LUMINARIA CON BALASTO REGULABLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-luminaria-de-emergencia-de-300lumenes-normalux",
+      "m": 4,
+      "p": 106.66,
+      "s": "LUMINARIA DE EMERGENCIA DE 300LÚMENES NORMALUX",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-luminaria-empotrada-2-tubos-20-w-dif-metacrilato-opal",
+      "m": 8,
+      "p": 107.35,
+      "s": "LUMINARIA EMPOTRADA 2 TUBOS 20 W DIF. METACRILATO OPAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-luminaria-empotrada-2-tubos-40-w-dif-lamas-aluminio",
+      "m": 8,
+      "p": 138.58,
+      "s": "LUMINARIA EMPOTRADA 2 TUBOS 40 W DIF. LAMAS ALUMINIO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-luminaria-empotrada-2-tubos-40-w-dif-metacrilato-opal",
+      "m": 8,
+      "p": 112.29,
+      "s": "LUMINARIA EMPOTRADA 2 TUBOS 40 W DIF. METACRILATO OPAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-luminaria-empotrada-2-tubos-40-w-dif-retic-alum-1-5x1-5-mm",
+      "m": 8,
+      "p": 129.07,
+      "s": "LUMINARIA EMPOTRADA 2 TUBOS 40 W DIF. RETIC. ALUM. 1 5x1 5 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-luminaria-empotrada-2-tubos-40-w-dif-retic-alum-30x30-mm",
+      "m": 8,
+      "p": 133.26,
+      "s": "LUMINARIA EMPOTRADA 2 TUBOS 40 W DIF. RETIC. ALUM. 30x30 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-luminaria-empotrada-4-tubos-20-w-dif-lamas-aluminio",
+      "m": 8,
+      "p": 150.01,
+      "s": "LUMINARIA EMPOTRADA 4 TUBOS 20 W DIF. LAMAS ALUMINIO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-luminaria-empotrada-4-tubos-20-w-dif-retic-alum-15x15-mm",
+      "m": 8,
+      "p": 144.33,
+      "s": "LUMINARIA EMPOTRADA 4 TUBOS 20 W DIF. RETIC. ALUM. 15x15 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-luminaria-empotrada-4-tubos-20-w-dif-retic-alum-30x30-mm",
+      "m": 8,
+      "p": 146.93,
+      "s": "LUMINARIA EMPOTRADA 4 TUBOS 20 W DIF. RETIC. ALUM. 30x30 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-luminaria-empotrada-aro-aluminio-y-lamp-par-80-w",
+      "m": 6,
+      "p": 56.38,
+      "s": "LUMINARIA EMPOTRADA ARO ALUMINIO Y LAMP. PAR 80 W",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-luminaria-empotrar-4x18-w-de-bajo-consumo",
+      "m": 3,
+      "p": 151.65,
+      "s": "LUMINARIA EMPOTRAR 4X18 W DE BAJO CONSUMO",
+      "u": "u"
+    },
+    {
+      "d": "2023-03",
+      "g": [],
+      "id": "wi-luminaria-especial-cabecero-cama",
+      "m": 2,
+      "p": 223.46,
+      "s": "LUMINARIA ESPECIAL CABECERO CAMA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-luminaria-led-60-x-60",
+      "m": 4,
+      "p": 96.29,
+      "s": "LUMINARIA LED 60 X 60",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-luminaria-led-60x60-regulable",
+      "m": 5,
+      "p": 141.29,
+      "s": "LUMINARIA LED 60X60 REGULABLE",
+      "u": "u"
+    },
+    {
+      "d": "2023-03",
+      "g": [],
+      "id": "wi-luminaria-sueno-rasante",
+      "m": 1,
+      "p": 40.55,
+      "s": "LUMINARIA SUEÑO RASANTE",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-luminaria-superficie-1-tubo-40-w-dif-metacrilato",
+      "m": 7,
+      "p": 101.52,
+      "s": "LUMINARIA SUPERFICIE 1 TUBO 40 W DIF. METACRILATO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-luminaria-superficie-1-tubo-40-w-dif-metacrilato-opal",
+      "m": 7,
+      "p": 84.38,
+      "s": "LUMINARIA SUPERFICIE 1 TUBO 40 W DIF. METACRILATO OPAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-luminaria-superficie-2-tubos-20-w-dif-metacrilato",
+      "m": 7,
+      "p": 101.04,
+      "s": "LUMINARIA SUPERFICIE 2 TUBOS 20 W DIF. METACRILATO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-luminaria-superficie-2-tubos-40-w-dif-metacrilato",
+      "m": 7,
+      "p": 137.6,
+      "s": "LUMINARIA SUPERFICIE 2 TUBOS 40 W DIF. METACRILATO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-luminaria-superficie-2-tubos-40-w-dif-metacrilato-opal",
+      "m": 7,
+      "p": 118.37,
+      "s": "LUMINARIA SUPERFICIE 2 TUBOS 40 W DIF. METACRILATO OPAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-luminaria-superficie-2-tubos-40-w-dif-retic-alum-30x30-mm",
+      "m": 7,
+      "p": 127.46,
+      "s": "LUMINARIA SUPERFICIE 2 TUBOS 40 W DIF. RETIC. ALUM. 30x30 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-luminaria-superficie-4-tubos-20-w-dif-metacrilato-opal",
+      "m": 7,
+      "p": 113.47,
+      "s": "LUMINARIA SUPERFICIE 4 TUBOS 20 W DIF. METACRILATO OPAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-luminaria-superficie-4-tubos-20-w-dif-retic-alum-30x30-mm",
+      "m": 7,
+      "p": 114.64,
+      "s": "LUMINARIA SUPERFICIE 4 TUBOS 20 W DIF. RETIC. ALUM. 30x30 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-luminaria-superficie-4-tubos-40-w-dif-metacrilato-opal",
+      "m": 7,
+      "p": 156.22,
+      "s": "LUMINARIA SUPERFICIE 4 TUBOS 40 W DIF. METACRILATO OPAL",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-manguera-cu-rz1-k-as-0-6-1-kv-3x4mm2",
+      "m": 4,
+      "p": 4.15,
+      "s": "MANGUERA Cu RZ1-K(AS) 0.6/1 KV 3X4mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-manguera-cu-rz1-k-as-0-6-1-kv-4x10mm2",
+      "m": 4,
+      "p": 9.11,
+      "s": "MANGUERA Cu RZ1-K(AS) 0.6/1 KV 4X10mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-manguera-cu-sz1-k-as-0-6-1-kv-5x6mm2",
+      "m": 4,
+      "p": 7.29,
+      "s": "MANGUERA Cu SZ1-K(AS+) 0.6/1 KV 5X6mm2",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-marco-instalacion-superficie-panel-led-60x60-cm",
+      "m": 3,
+      "p": 22.23,
+      "s": "MARCO INSTALACIÓN SUPERFICIE PANEL LED 60x60 Cm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-pantalla-estanca-para-1-tubo-led-1200mm-ip65",
+      "m": 4,
+      "p": 32.11,
+      "s": "PANTALLA ESTANCA PARA 1 TUBO LED 1200mm IP65",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-pantalla-estanca-para-2-tubos-led-1200mm-ip65",
+      "m": 4,
+      "p": 37.11,
+      "s": "PANTALLA ESTANCA PARA 2 TUBOS LED 1200mm IP65",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pararrayos-de-puntas",
+      "m": 7,
+      "p": 186.05,
+      "s": "PARARRAYOS DE PUNTAS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-pica-de-puesta-a-tierra",
+      "m": 5,
+      "p": 152.66,
+      "s": "PICA DE PUESTA A TIERRA",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-plantalla-led-empotrable-600x600mm-39w",
+      "m": 5,
+      "p": 95.66,
+      "s": "PLANTALLA LED EMPOTRABLE 600x600mm >39w",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-proyector-led-100w-10500lm",
+      "m": 4,
+      "p": 163.68,
+      "s": "PROYECTOR LED 100W 10500Lm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-proyector-led-200w-21000lm",
+      "m": 4,
+      "p": 303.7,
+      "s": "PROYECTOR LED 200W 21000Lm",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-proyector-led-50w-5200lm",
+      "m": 4,
+      "p": 87.61,
+      "s": "PROYECTOR LED 50W 5200Lm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-puesta-a-tierra-con-placa-de-cobre-desnudo-esp-3-mm",
+      "m": 7,
+      "p": 149.4,
+      "s": "PUESTA A TIERRA CÓN PLACA DE COBRE DESNUDO ESP. 3 mm",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pulsador-temporizado-2-elementos",
+      "m": 6,
+      "p": 80.63,
+      "s": "PULSADOR TEMPORIZADO 2 ELEMENTOS",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-punto-de-luz-conmutado-doble-empotrado",
+      "m": 8,
+      "p": 64.15,
+      "s": "PUNTO DE LUZ CONMUTADO DOBLE EMPOTRADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-punto-de-luz-conmutado-doble-montaje-superficial",
+      "m": 7,
+      "p": 137.14,
+      "s": "PUNTO DE LUZ CONMUTADO DOBLE MONTAJE SUPERFICIAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-punto-de-luz-conmutado-empotrado",
+      "m": 8,
+      "p": 50.38,
+      "s": "PUNTO DE LUZ CONMUTADO EMPOTRADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-punto-de-luz-conmutado-montaje-superficial",
+      "m": 7,
+      "p": 107.7,
+      "s": "PUNTO DE LUZ CONMUTADO MONTAJE SUPERFICIAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-punto-de-luz-conmutado-multiple-empotrado",
+      "m": 8,
+      "p": 108.12,
+      "s": "PUNTO DE LUZ CONMUTADO MÚLTIPLE EMPOTRADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-punto-de-luz-conmutado-multiple-montaje-superficial",
+      "m": 7,
+      "p": 152.43,
+      "s": "PUNTO DE LUZ CONMUTADO MÚLTIPLE MONTAJE SUPERFICIAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-punto-de-luz-de-cruce-doble-empotrado",
+      "m": 9,
+      "p": 87.77,
+      "s": "PUNTO DE LUZ DE CRUCE DOBLE EMPOTRADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-punto-de-luz-de-cruce-doble-montaje-superficial",
+      "m": 8,
+      "p": 173.94,
+      "s": "PUNTO DE LUZ DE CRUCE DOBLE MONTAJE SUPERFICIAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-punto-de-luz-de-cruce-empotrado",
+      "m": 9,
+      "p": 76.6,
+      "s": "PUNTO DE LUZ DE CRUCE EMPOTRADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-punto-de-luz-de-cruce-montaje-superficial",
+      "m": 8,
+      "p": 164.87,
+      "s": "PUNTO DE LUZ DE CRUCE MONTAJE SUPERFICIAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-punto-de-luz-de-cruce-multiple-empotrado",
+      "m": 9,
+      "p": 144.66,
+      "s": "PUNTO DE LUZ DE CRUCE MÚLTIPLE EMPOTRADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-punto-de-luz-de-cruce-multiple-montaje-superficial",
+      "m": 8,
+      "p": 206.84,
+      "s": "PUNTO DE LUZ DE CRUCE MÚLTIPLE MONTAJE SUPERFICIAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-punto-de-luz-de-emergencia-empotrado",
+      "m": 7,
+      "p": 78.34,
+      "s": "PUNTO DE LUZ DE EMERGENCIA EMPOTRADO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-punto-de-luz-de-emergencia-en-montaje-superficial",
+      "m": 6,
+      "p": 147.81,
+      "s": "PUNTO DE LUZ DE EMERGENCIA EN MONTAJE SUPERFICIAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-punto-de-luz-de-escalera-empotrado",
+      "m": 8,
+      "p": 35.45,
+      "s": "PUNTO DE LUZ DE ESCALERA EMPOTRADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-punto-de-luz-doble-empotrado",
+      "m": 8,
+      "p": 33.13,
+      "s": "PUNTO DE LUZ DOBLE EMPOTRADO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-punto-de-luz-doble-montaje-superficial",
+      "m": 7,
+      "p": 79.93,
+      "s": "PUNTO DE LUZ DOBLE MONTAJE SUPERFICIAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-punto-de-luz-en-porche-empotrado",
+      "m": 8,
+      "p": 21.2,
+      "s": "PUNTO DE LUZ EN PORCHE EMPOTRADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-punto-de-luz-multiple-empotrado",
+      "m": 8,
+      "p": 62.24,
+      "s": "PUNTO DE LUZ MÚLTIPLE EMPOTRADO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-punto-de-luz-multiple-montaje-superficial",
+      "m": 7,
+      "p": 108.83,
+      "s": "PUNTO DE LUZ MÚLTIPLE MONTAJE SUPERFICIAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-punto-de-luz-sencillo-empotrado",
+      "m": 8,
+      "p": 25.4,
+      "s": "PUNTO DE LUZ SENCILLO EMPOTRADO",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-punto-de-luz-sencillo-montaje-superficial",
+      "m": 7,
+      "p": 55.13,
+      "s": "PUNTO DE LUZ SENCILLO MONTAJE SUPERFICIAL",
+      "u": "u"
+    },
+    {
+      "d": "2023-03",
+      "g": [],
+      "id": "wi-punto-luz-temporizado",
+      "m": 3,
+      "p": 28.02,
+      "s": "PUNTO LUZ TEMPORIZADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-punto-timbre-1-5-mm2",
+      "m": 9,
+      "p": 38.7,
+      "s": "PUNTO TIMBRE 1,5 mm2",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-red-conductora-con-cable-rigido-50-mm2",
+      "m": 7,
+      "p": 19.52,
+      "s": "RED CONDUCTORA CON CABLE RÍGIDO 50 mm2",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-regleta-fluorescente-con-tubo-de-20-w-superficial",
+      "m": 7,
+      "p": 34.78,
+      "s": "REGLETA FLUORESCENTE, CON TUBO DE 20 W SUPERFICIAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-regleta-fluorescente-con-tubo-de-40-w-superficial",
+      "m": 7,
+      "p": 34.82,
+      "s": "REGLETA FLUORESCENTE, CON TUBO DE 40 W SUPERFICIAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-toma-corriente-empotrada-10-16-a-con-1-5-mm2",
+      "m": 8,
+      "p": 38.3,
+      "s": "TOMA CORRIENTE EMPOTRADA 10/16 A CON 1,5 mm2",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-toma-corriente-empotrada-16-a-con-2-5-mm2",
+      "m": 8,
+      "p": 42.61,
+      "s": "TOMA CORRIENTE EMPOTRADA 16 A CON 2,5 mm2",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-toma-corriente-empotrada-20-a-con-4-mm2",
+      "m": 8,
+      "p": 50.9,
+      "s": "TOMA CORRIENTE EMPOTRADA 20 A CON 4 mm2",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-toma-corriente-empotrada-20-a-con-6-mm2",
+      "m": 8,
+      "p": 61.96,
+      "s": "TOMA CORRIENTE EMPOTRADA 20 A CON 6 mm2",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-toma-corriente-empotrada-25-a-con-6-mm2",
+      "m": 8,
+      "p": 53.56,
+      "s": "TOMA CORRIENTE EMPOTRADA 25 A CON 6 mm2",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-toma-corriente-montaje-superficial-16-a-con-2-5-mm2",
+      "m": 7,
+      "p": 34.35,
+      "s": "TOMA CORRIENTE MONTAJE SUPERFICIAL 16 A CON 2,5 mm2",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-transformador-toroidal",
+      "m": 3,
+      "p": 217.62,
+      "s": "TRANSFORMADOR TOROIDAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tubo-flexible-corrugado-diam-16-mm-libre-halogenos",
+      "m": 4,
+      "p": 2.13,
+      "s": "TUBO FLEXIBLE CORRUGADO DIÁM. 16 MM LIBRE HALÓGENOS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tubo-flexible-corrugado-diam-23-mm-libre-halogenos",
+      "m": 4,
+      "p": 2.26,
+      "s": "TUBO FLEXIBLE CORRUGADO DIÁM. 23 MM LIBRE HALÓGENOS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tubo-flexible-corrugado-diam-29-mm-libre-halogenos",
+      "m": 4,
+      "p": 2.49,
+      "s": "TUBO FLEXIBLE CORRUGADO DIÁM. 29 MM LIBRE HALÓGENOS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tubo-flexible-corrugado-diam-36-mm-libre-halogenos",
+      "m": 4,
+      "p": 2.78,
+      "s": "TUBO FLEXIBLE CORRUGADO DIÁM. 36 MM LIBRE HALÓGENOS",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-tubo-led-t8-1200mm-14w",
+      "m": 4,
+      "p": 12.77,
+      "s": "TUBO LED T8 1200mm >14w",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-tubo-led-t8-1500mm-25w",
+      "m": 4,
+      "p": 14.55,
+      "s": "TUBO LED T8 1500mm >25w",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-tubo-led-t8-600mm-7w",
+      "m": 4,
+      "p": 7.55,
+      "s": "TUBO LED T8 600mm >7w",
+      "u": "u"
+    }
+  ],
+  "title": "Electricidad e iluminación",
+  "version": "0.1.0"
+}

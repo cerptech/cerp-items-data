@@ -332,6 +332,17 @@
     "quarantined": 43,
     "total": 12565
   },
+  "taxonomies": [
+    {
+      "id": "orden-ejecucion",
+      "name": {
+        "en": "Construction execution order",
+        "es": "Orden de ejecución de obra"
+      },
+      "tree": "taxonomies/orden-ejecucion/tree.json",
+      "version": "1.0.0"
+    }
+  ],
   "tree": "tree.json",
   "version": "0.1.0"
 }

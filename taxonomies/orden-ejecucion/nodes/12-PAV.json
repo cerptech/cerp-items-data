@@ -1,0 +1,2293 @@
+{
+  "key": "12-PAV",
+  "rows": [
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-entarimado-con-tablas-paralelas-de-roble",
+      "m": 7,
+      "p": 95.33,
+      "s": "ENTARIMADO CON TABLAS PARALELAS DE ROBLE",
+      "u": "m2"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-entarimado-en-corte-de-pluma-con-tablas-de-roble",
+      "m": 7,
+      "p": 97.65,
+      "s": "ENTARIMADO EN CORTE DE PLUMA CON TABLAS DE ROBLE",
+      "u": "m2"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-entarimado-en-damero-con-tablas-de-roble",
+      "m": 7,
+      "p": 97.65,
+      "s": "ENTARIMADO EN DAMERO CON TABLAS DE ROBLE",
+      "u": "m2"
+    },
+    {
+      "d": "2022-02",
+      "g": [],
+      "id": "wi-felpudo-en-pavimento",
+      "m": 3,
+      "p": 81.42,
+      "s": "FELPUDO EN PAVIMENTO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-granito-gris-quintana-abrillantado",
+      "m": 5,
+      "p": 34.82,
+      "s": "HUELLA DE GRANITO \"GRIS QUINTANA\" ABRILLANTADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-granito-gris-quintana-acristalado",
+      "m": 5,
+      "p": 34.88,
+      "s": "HUELLA DE GRANITO \"GRIS QUINTANA\" ACRISTALADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-granito-negro-sudafrica-abrillantado",
+      "m": 5,
+      "p": 95.73,
+      "s": "HUELLA DE GRANITO \"NEGRO SUDÁFRICA\" ABRILLANTADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-granito-negro-sudafrica-acristalado",
+      "m": 5,
+      "p": 95.79,
+      "s": "HUELLA DE GRANITO \"NEGRO SUDÁFRICA\" ACRISTALADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-granito-rosa-porrino-abrillantado",
+      "m": 5,
+      "p": 31.46,
+      "s": "HUELLA DE GRANITO \"ROSA PORRIÑO\" ABRILLANTADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-granito-rosa-porrino-acristalado",
+      "m": 5,
+      "p": 31.52,
+      "s": "HUELLA DE GRANITO \"ROSA PORRIÑO\" ACRISTALADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-marmol-blanco-macael",
+      "m": 4,
+      "p": 38.25,
+      "s": "HUELLA DE MÁRMOL \"BLANCO MACAEL\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-marmol-blanco-macael-abrillantado",
+      "m": 5,
+      "p": 39.7,
+      "s": "HUELLA DE MÁRMOL \"BLANCO MACAEL\" ABRILLANTADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-marmol-blanco-macael-acristalado",
+      "m": 5,
+      "p": 39.76,
+      "s": "HUELLA DE MÁRMOL \"BLANCO MACAEL\" ACRISTALADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-marmol-rojo-alicante",
+      "m": 4,
+      "p": 36.38,
+      "s": "HUELLA DE MÁRMOL \"ROJO ALICANTE\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-marmol-rojo-alicante-abrillantado",
+      "m": 5,
+      "p": 37.83,
+      "s": "HUELLA DE MÁRMOL \"ROJO ALICANTE\" ABRILLANTADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-marmol-rojo-alicante-acristalado",
+      "m": 5,
+      "p": 37.89,
+      "s": "HUELLA DE MÁRMOL \"ROJO ALICANTE\" ACRISTALADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-marmol-travertino-abrillantado",
+      "m": 5,
+      "p": 26.03,
+      "s": "HUELLA DE MARMOL \"TRAVERTINO\" ABRILLANTADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-marmol-travertino-acristalado",
+      "m": 5,
+      "p": 26.09,
+      "s": "HUELLA DE MARMOL \"TRAVERTINO\" ACRISTALADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-piedra-caliza-colmenar-abrillantado",
+      "m": 5,
+      "p": 38.05,
+      "s": "HUELLA DE PIEDRA CALIZA \"COLMENAR\" ABRILLANTADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-piedra-caliza-colmenar-acristalado",
+      "m": 5,
+      "p": 38.11,
+      "s": "HUELLA DE PIEDRA CALIZA \"COLMENAR\" ACRISTALADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-piedra-caliza-crema-sevilla",
+      "m": 4,
+      "p": 33.08,
+      "s": "HUELLA DE PIEDRA CALIZA \"CREMA SEVILLA\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-piedra-caliza-crema-sevilla-abrillantado",
+      "m": 5,
+      "p": 34.53,
+      "s": "HUELLA DE PIEDRA CALIZA \"CREMA SEVILLA\" ABRILLANTADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-piedra-caliza-crema-sevilla-acristalado",
+      "m": 5,
+      "p": 34.59,
+      "s": "HUELLA DE PIEDRA CALIZA \"CREMA SEVILLA\" ACRISTALADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-pizarra-arenisca-amarillo-fosil",
+      "m": 4,
+      "p": 19.5,
+      "s": "HUELLA DE PIZARRA ARENISCA AMARILLO FÓSIL",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-huella-de-pizarra-gris",
+      "m": 4,
+      "p": 22.13,
+      "s": "HUELLA DE PIZARRA GRIS",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-media-cana-sanitaria",
+      "m": 3,
+      "p": 9.26,
+      "s": "MEDIA CAÑA SANITARIA",
+      "u": "ml"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-pavimento-baldosas-chapa-de-acero-20x20-cm",
+      "m": 3,
+      "p": 320.51,
+      "s": "PAVIMENTO BALDOSAS CHAPA DE ACERO 20X20 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pavimento-con-baldosas-de-corcho-30x30-cm",
+      "m": 6,
+      "p": 48.13,
+      "s": "PAVIMENTO CON BALDOSAS DE CORCHO 30x30 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pavimento-con-baldosas-de-goma-100x100-cm",
+      "m": 6,
+      "p": 58.6,
+      "s": "PAVIMENTO CON BALDOSAS DE GOMA 100x100 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pavimento-con-baldosas-de-gres-20x20-cm",
+      "m": 6,
+      "p": 62.64,
+      "s": "PAVIMENTO CON BALDOSAS DE GRES 20x20 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-pavimento-con-baldosas-hidraulicas-antideslizantes",
+      "m": 5,
+      "p": 21.23,
+      "s": "PAVIMENTO CON BALDOSAS HIDRÁULICAS ANTIDESLIZANTES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-02",
+      "g": [],
+      "id": "wi-pavimento-con-baldosas-hormigon-35x35-antideslizantes",
+      "m": 5,
+      "p": 25.66,
+      "s": "PAVIMENTO CON BALDOSAS HORMIGÓN 35x35 ANTIDESLIZANTES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pavimento-continuo-con-mortero-7-mm-esp-s-hormigon",
+      "m": 3,
+      "p": 23.99,
+      "s": "PAVIMENTO CONTINUO CON MORTERO 7 mm ESP. S/HORMIGÓN",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pavimento-deportivo-bicapa-3-5-mm-adhesivo",
+      "m": 6,
+      "p": 51.59,
+      "s": "PAVIMENTO DEPORTIVO BICAPA 3,5 mm. ADHESIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pavimento-deportivo-bicapa-4-5-mm-adhesivo",
+      "m": 6,
+      "p": 55.1,
+      "s": "PAVIMENTO DEPORTIVO BICAPA 4,5 mm. ADHESIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pavimento-deportivo-goma-3-5-mm-adhesivo",
+      "m": 6,
+      "p": 88.55,
+      "s": "PAVIMENTO DEPORTIVO GOMA 3,5 mm. ADHESIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pavimento-deportivo-goma-4-5-mm-adhesivo",
+      "m": 6,
+      "p": 49.2,
+      "s": "PAVIMENTO DEPORTIVO GOMA 4,5 mm. ADHESIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pavimento-industrial-de-alta-resist-mecanica-y-quimica",
+      "m": 4,
+      "p": 72.05,
+      "s": "PAVIMENTO INDUSTRIAL DE ALTA RESIST. MECÁNICA Y QUÍMICA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pavimento-industrial-de-alta-resist-quimica",
+      "m": 4,
+      "p": 57.72,
+      "s": "PAVIMENTO INDUSTRIAL DE ALTA RESIST. QUÍMICA",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pavimento-tipo-podo-tactiles-antideslizante-20x20-cm",
+      "m": 9,
+      "p": 36.72,
+      "s": "PAVIMENTO TIPO PODO TÁCTILES ANTIDESLIZANTE 20x20 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pavimento-trat-sup-brea-epoxi-y-arena-de-cuarzo",
+      "m": 5,
+      "p": 25.81,
+      "s": "PAVIMENTO TRAT. SUP. \"BREA-EPOXI\" Y ARENA DE CUARZO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-pavimento-trat-sup-resinas-epoxi",
+      "m": 4,
+      "p": 42.76,
+      "s": "PAVIMENTO TRAT. SUP. RESINAS \"EPOXI\"",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-pavimento-vinilico-homogeneo",
+      "m": 5,
+      "p": 28.51,
+      "s": "PAVIMENTO VINÍLICO HOMOGÉNEO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-pavimento-vinilico-multideporte",
+      "m": 6,
+      "p": 47.17,
+      "s": "PAVIMENTO VINÍLICO MULTIDEPORTE",
+      "u": "m2"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-peldano-chino-lavado-prefabricado",
+      "m": 3,
+      "p": 34.85,
+      "s": "PELDAÑO CHINO LAVADO PREFABRICADO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-peldano-de-hormigon-ha-25-armado",
+      "m": 5,
+      "p": 28.89,
+      "s": "PELDAÑO DE HORMIGÓN HA-25 ARMADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-con-caucho",
+      "m": 7,
+      "p": 40.3,
+      "s": "PELDAÑO HUELLA Y TABICA CON CAUCHO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-con-corcho-barnizado",
+      "m": 7,
+      "p": 34.54,
+      "s": "PELDAÑO HUELLA Y TABICA CON CORCHO BARNIZADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-con-goma",
+      "m": 7,
+      "p": 40.98,
+      "s": "PELDAÑO HUELLA Y TABICA CON GOMA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-con-linoleo",
+      "m": 7,
+      "p": 39.71,
+      "s": "PELDAÑO HUELLA Y TABICA CON LINÓLEO",
+      "u": "m"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-con-madera-de-roble",
+      "m": 8,
+      "p": 93.53,
+      "s": "PELDAÑO HUELLA Y TABICA CON MADERA DE ROBLE",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-con-moqueta",
+      "m": 7,
+      "p": 36.62,
+      "s": "PELDAÑO HUELLA Y TABICA CON MOQUETA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-con-moqueta-lana-antisuciedad",
+      "m": 7,
+      "p": 78.28,
+      "s": "PELDAÑO HUELLA Y TABICA CON MOQUETA LANA ANTISUCIEDAD",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-con-moqueta-poliamida",
+      "m": 7,
+      "p": 45.1,
+      "s": "PELDAÑO HUELLA Y TABICA CON MOQUETA POLIAMIDA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-con-pvc",
+      "m": 7,
+      "p": 37.43,
+      "s": "PELDAÑO HUELLA Y TABICA CON PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-con-vinilo",
+      "m": 7,
+      "p": 37.78,
+      "s": "PELDAÑO HUELLA Y TABICA CON VINILO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-arenisca-amarillo-fosil",
+      "m": 5,
+      "p": 44.4,
+      "s": "PELDAÑO HUELLA Y TABICA DE ARENISCA AMARILLO FÓSIL",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-bald-ceramica-mamperlan-haya",
+      "m": 5,
+      "p": 67.01,
+      "s": "PELDAÑO, HUELLA Y TABICA DE BALD. CERÁMICA MAMPERLÁN HAYA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-bald-ceramica-mamperlan-pino",
+      "m": 6,
+      "p": 71.43,
+      "s": "PELDAÑO, HUELLA Y TABICA DE BALD. CERÁMICA MAMPERLÁN PINO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-bald-ceramica-mamperlan-roble",
+      "m": 5,
+      "p": 72.96,
+      "s": "PELDAÑO, HUELLA Y TABICA DE BALD. CERÁMICA MAMPERLÁN ROBLE",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-granito-gris-quintana-abrillantad",
+      "m": 6,
+      "p": 68.01,
+      "s": "PELDAÑO HUELLA Y TABICA DE GRANITO \" GRIS QUINTANA\" ABRILLANTADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-granito-gris-quintana-acristalado",
+      "m": 6,
+      "p": 68.07,
+      "s": "PELDAÑO HUELLA Y TABICA DE GRANITO \" GRIS QUINTANA\" ACRISTALADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-granito-negro-sudafrica-abrill",
+      "m": 6,
+      "p": 165.27,
+      "s": "PELDAÑO HUELLA Y TABICA DE GRANITO \"NEGRO SUDAFRICA\" ABRILL",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-granito-negro-sudafrica-acris",
+      "m": 6,
+      "p": 165.33,
+      "s": "PELDAÑO HUELLA Y TABICA DE GRANITO \"NEGRO SUDAFRICA\" ACRIS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-granito-pulido",
+      "m": 5,
+      "p": 95.83,
+      "s": "PELDAÑO HUELLA Y TABICA DE GRANITO PULIDO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-granito-rosa-porrino-abrillantado",
+      "m": 6,
+      "p": 62.65,
+      "s": "PELDAÑO HUELLA Y TABICA DE GRANITO \"ROSA PORRIÑO\" ABRILLANTADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-granito-rosa-porrino-acristalado",
+      "m": 6,
+      "p": 62.71,
+      "s": "PELDAÑO HUELLA Y TABICA DE GRANITO \"ROSA PORRIÑO\" ACRISTALADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-marmol-blanco-macael",
+      "m": 5,
+      "p": 67.67,
+      "s": "PELDAÑO HUELLA Y TABICA DE MÁRMOL \"BLANCO MACAEL\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-marmol-blanco-macael-abrillantado",
+      "m": 6,
+      "p": 69.12,
+      "s": "PELDAÑO HUELLA Y TABICA DE MÁRMOL \"BLANCO MACAEL\" ABRILLANTADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-marmol-blanco-macael-acristalada",
+      "m": 6,
+      "p": 69.18,
+      "s": "PELDAÑO HUELLA Y TABICA DE MÁRMOL \"BLANCO MACAEL\" ACRISTALADA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-marmol-rojo-alicante",
+      "m": 5,
+      "p": 66.38,
+      "s": "PELDAÑO HUELLA Y TABICA DE MÁRMOL \"ROJO ALICANTE\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-marmol-rojo-alicante-abrillantado",
+      "m": 6,
+      "p": 67.83,
+      "s": "PELDAÑO HUELLA Y TABICA DE MÁRMOL \"ROJO ALICANTE\" ABRILLANTADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-marmol-rojo-alicante-acristalado",
+      "m": 6,
+      "p": 67.89,
+      "s": "PELDAÑO HUELLA Y TABICA DE MÁRMOL \"ROJO ALICANTE\" ACRISTALADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-marmol-travertino-abrillantado",
+      "m": 6,
+      "p": 49.5,
+      "s": "PELDAÑO HUELLA Y TABICA DE MARMOL \"TRAVERTINO\" ABRILLANTADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-marmol-travertino-acristalado",
+      "m": 6,
+      "p": 49.56,
+      "s": "PELDAÑO HUELLA Y TABICA DE MARMOL \"TRAVERTINO\" ACRISTALADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-piedra-artificial",
+      "m": 5,
+      "p": 42.21,
+      "s": "PELDAÑO HUELLA Y TABICA DE PIEDRA ARTIFICIAL",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-piedra-caliza-colmenar-abrillanta",
+      "m": 6,
+      "p": 61.35,
+      "s": "PELDAÑO HUELLA Y TABICA DE PIEDRA CALIZA \"COLMENAR\" ABRILLANTADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-piedra-caliza-colmenar-acristalad",
+      "m": 6,
+      "p": 61.41,
+      "s": "PELDAÑO HUELLA Y TABICA DE PIEDRA CALIZA \"COLMENAR\" ACRISTALADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-piedra-caliza-crema-sevilla",
+      "m": 5,
+      "p": 62.8,
+      "s": "PELDAÑO HUELLA Y TABICA DE PIEDRA CALIZA \"CREMA SEVILLA\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-piedra-caliza-crema-sevilla-abril",
+      "m": 6,
+      "p": 64.25,
+      "s": "PELDAÑO HUELLA Y TABICA DE PIEDRA CALIZA \"CREMA SEVILLA\" ABRILL",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-piedra-caliza-crema-sevilla-acris",
+      "m": 6,
+      "p": 64.31,
+      "s": "PELDAÑO HUELLA Y TABICA DE PIEDRA CALIZA \"CREMA SEVILLA\" ACRIS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-piezas-ceramica-rustica",
+      "m": 5,
+      "p": 53.56,
+      "s": "PELDAÑO, HUELLA Y TABICA DE PIEZAS CERÁMICA RÚSTICA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-piezas-de-gres",
+      "m": 5,
+      "p": 40.28,
+      "s": "PELDAÑO, HUELLA Y TABICA DE PIEZAS DE GRES",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-piezas-ferrogres-esmaltado-25x25",
+      "m": 5,
+      "p": 46.28,
+      "s": "PELDAÑO, HUELLA Y TABICA DE PIEZAS FERROGRES ESMALTADO 25x25",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-piezas-ferrogres-esmaltado-33x33",
+      "m": 5,
+      "p": 57.36,
+      "s": "PELDAÑO, HUELLA Y TABICA DE PIEZAS FERROGRES ESMALTADO 33x33",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-piezas-gres-esmaltado-25x25",
+      "m": 5,
+      "p": 47.03,
+      "s": "PELDAÑO, HUELLA Y TABICA DE PIEZAS GRES ESMALTADO 25x25",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-piezas-gres-esmaltado-30x30",
+      "m": 5,
+      "p": 52.63,
+      "s": "PELDAÑO, HUELLA Y TABICA DE PIEZAS GRES ESMALTADO 30x30",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-piezas-gres-porcelanico-30x30",
+      "m": 5,
+      "p": 59.07,
+      "s": "PELDAÑO, HUELLA Y TABICA DE PIEZAS GRES PORCELÁNICO 30x30",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-peldano-huella-y-tabica-de-pizarra-gris",
+      "m": 5,
+      "p": 48.59,
+      "s": "PELDAÑO HUELLA Y TABICA DE PIZARRA GRIS",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-peldano-prefabricado-una-pieza-de-piedra-artificial",
+      "m": 4,
+      "p": 37.19,
+      "s": "PELDAÑO PREFABRICADO UNA PIEZA DE PIEDRA ARTIFICIAL",
+      "u": "m"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-revestido-vinilico",
+      "m": 5,
+      "p": 19.19,
+      "s": "REVESTIDO VINÍLICO",
+      "u": "m2"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-revestimiento-lamina-vinilica-ref",
+      "m": 3,
+      "p": 28.79,
+      "s": "REVESTIMIENTO LÁMINA VINÍLICA REF.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-revestimiento-moqueta-fibra-sintetica-en-bucle",
+      "m": 4,
+      "p": 17.7,
+      "s": "REVESTIMIENTO MOQUETA FIBRA SINTÉTICA EN BUCLE",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-revestimiento-moqueta-fibra-sintetica-en-pelo-cortado",
+      "m": 4,
+      "p": 16.37,
+      "s": "REVESTIMIENTO MOQUETA FIBRA SINTÉTICA EN PELO CORTADO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-baldosas-ceramicas-10x20-cm-adhesivo",
+      "m": 6,
+      "p": 5.08,
+      "s": "RODAPIÉ BALDOSAS CERÁMICAS 10x20 cm ADHESIVO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-baldosas-ceramicas-10x20-cm-mortero",
+      "m": 5,
+      "p": 4.04,
+      "s": "RODAPIÉ BALDOSAS CERÁMICAS 10x20 cm MORTERO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-baldosas-ceramicas-de-14x28-cm",
+      "m": 5,
+      "p": 4.16,
+      "s": "RODAPIÉ BALDOSAS CERÁMICAS DE 14x28 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-baldosas-ceramicas-vidriada-10x20-cm-adhesivo",
+      "m": 6,
+      "p": 5.39,
+      "s": "RODAPIÉ BALDOSAS CERÁMICAS VIDRIADA 10x20 cm ADHESIVO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-baldosas-ceramicas-vidriada-10x20-cm-mortero",
+      "m": 5,
+      "p": 4.35,
+      "s": "RODAPIÉ BALDOSAS CERÁMICAS VIDRIADA 10x20 cm MORTERO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-caucho-termoplastico-10-cm-adhesivo",
+      "m": 4,
+      "p": 11.71,
+      "s": "RODAPIÉ CAUCHO TERMOPLÁSTICO 10 cm ADHESIVO",
+      "u": "m"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-rodapie-ceramica-rustica-30x9-cm-mortero",
+      "m": 5,
+      "p": 6.74,
+      "s": "RODAPIÉ CERÁMICA RÚSTICA 30x9 cm MORTERO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-chapado-roble-7x1-6-cm",
+      "m": 3,
+      "p": 4.68,
+      "s": "RODAPIÉ CHAPADO ROBLE 7x1,6 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-corcho-barnizado-7-cm-clavado",
+      "m": 3,
+      "p": 5.73,
+      "s": "RODAPIÉ CORCHO BARNIZADO 7 cm CLAVADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-de-baldosas-hidraulicas-de-40x10-cm-biseladas",
+      "m": 5,
+      "p": 7.36,
+      "s": "RODAPIÉ DE BALDOSAS HIDRÁULICAS DE 40x10 cm BISELADAS",
+      "u": "m"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-rodapie-de-madera-de-roble-en-tablas-de-60x15-mm",
+      "m": 7,
+      "p": 12.41,
+      "s": "RODAPIÉ DE MADERA DE ROBLE EN TABLAS DE 60x15 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-dm-roble-7x1-6-cm",
+      "m": 3,
+      "p": 4.95,
+      "s": "RODAPIÉ DM ROBLE 7X1,6 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-ferrogres-esmaltado-piezas-25x8-cm-mortero",
+      "m": 5,
+      "p": 9.17,
+      "s": "RODAPIÉ FERROGRES ESMALTADO PIEZAS 25x8 cm MORTERO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-granito-gris-quintana-10x2-cm",
+      "m": 5,
+      "p": 21.01,
+      "s": "RODAPIÉ GRANITO GRIS QUINTANA 10x2 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-granito-negro-sudafrica-10x2-cm",
+      "m": 5,
+      "p": 30.06,
+      "s": "RODAPIÉ GRANITO NEGRO SUDÁFRICA 10X2 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-granito-rosa-porrino-10x2-cm",
+      "m": 5,
+      "p": 19.04,
+      "s": "RODAPIÉ GRANITO ROSA PORRIÑO 10x2 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-gres-esmaltado-25x8-cm-mortero",
+      "m": 5,
+      "p": 8.21,
+      "s": "RODAPIÉ GRES ESMALTADO 25x8 cm MORTERO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-gres-porcelanico-30x8-cm-adhesivo",
+      "m": 6,
+      "p": 8.15,
+      "s": "RODAPIÉ GRES PORCELÁNICO 30x8 cm ADHESIVO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-macizo-haya-7x1-cm",
+      "m": 3,
+      "p": 11.16,
+      "s": "RODAPIÉ MACIZO HAYA 7x1 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-macizo-roble-7x1-cm",
+      "m": 3,
+      "p": 12.15,
+      "s": "RODAPIÉ MACIZO ROBLE 7X1 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-marmol-blanco-macael-40x10-cm",
+      "m": 4,
+      "p": 13.55,
+      "s": "RODAPIÉ MÁRMOL \"BLANCO MACAEL\" 40x10 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-marmol-blanco-macael-50x10-cm",
+      "m": 4,
+      "p": 11.68,
+      "s": "RODAPIÉ MÁRMOL \"BLANCO MACAEL\" 50x10 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-marmol-blanco-macael-60x10-cm",
+      "m": 5,
+      "p": 12.63,
+      "s": "RODAPIÉ MÁRMOL \"BLANCO MACAEL\" 60x10 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-marmol-rojo-alicante-40x10-cm",
+      "m": 4,
+      "p": 11.61,
+      "s": "RODAPIÉ MÁRMOL \"ROJO ALICANTE\" 40x10 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-marmol-rojo-alicante-50x10-cm",
+      "m": 4,
+      "p": 10.12,
+      "s": "RODAPIÉ MÁRMOL \"ROJO ALICANTE\" 50x10 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-marmol-travertino-30x10-cm",
+      "m": 5,
+      "p": 21.62,
+      "s": "RODAPIÉ MÁRMOL \"TRAVERTINO\" 30x10 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-marmol-travertino-38-5x10-cm",
+      "m": 5,
+      "p": 17.61,
+      "s": "RODAPIÉ MÁRMOL \"TRAVERTINO\" 38,5x10 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-piedra-caliza-10x2-cm",
+      "m": 5,
+      "p": 10.42,
+      "s": "RODAPIÉ PIEDRA CALIZA 10X2 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-piedra-caliza-crema-sevilla-40x10-cm",
+      "m": 4,
+      "p": 9.96,
+      "s": "RODAPIÉ PIEDRA CALIZA \"CREMA SEVILLA\" 40x10 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-piedra-caliza-crema-sevilla-50x10-cm",
+      "m": 5,
+      "p": 11.13,
+      "s": "RODAPIÉ PIEDRA CALIZA \"CREMA SEVILLA\" 50x10 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-pizarra-10x1-cm",
+      "m": 5,
+      "p": 17.13,
+      "s": "RODAPIÉ PIZARRA 10x1 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-pvc-10-cm-adhesivo",
+      "m": 4,
+      "p": 10.97,
+      "s": "RODAPIÉ PVC 10 cm ADHESIVO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-rebajado-de-terrazo-de-33x7-cm-grano-fino",
+      "m": 4,
+      "p": 5.93,
+      "s": "RODAPIÉ REBAJADO DE TERRAZO DE 33x7 cm GRANO FINO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-rebajado-de-terrazo-de-33x7-cm-grano-medio",
+      "m": 4,
+      "p": 5.55,
+      "s": "RODAPIÉ REBAJADO DE TERRAZO DE 33x7 cm GRANO MEDIO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-rebajado-de-terrazo-de-40x7-cm-grano-medio",
+      "m": 4,
+      "p": 5.3,
+      "s": "RODAPIÉ REBAJADO DE TERRAZO DE 40x7 cm GRANO MEDIO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-rodapie-vinilo-10-cm-adhesivo",
+      "m": 4,
+      "p": 11.41,
+      "s": "RODAPIÉ VINILO 10 cm ADHESIVO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-separador-entre-pavimentos-de-laton-pulido",
+      "m": 2,
+      "p": 3.81,
+      "s": "SEPARADOR ENTRE PAVIMENTOS DE LATÓN PULIDO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-separador-entre-pavimentos-de-pvc",
+      "m": 2,
+      "p": 3.73,
+      "s": "SEPARADOR ENTRE PAVIMENTOS DE PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-arenisca-amarillo-fosil-30x30x2-cm",
+      "m": 6,
+      "p": 36.2,
+      "s": "SOLADO BALD. ARENISCA AMARILLO FÓSIL 30x30x2 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-arenisca-amarillo-fosil-60x30x2-cm",
+      "m": 6,
+      "p": 40.56,
+      "s": "SOLADO BALD. ARENISCA AMARILLO FÓSIL 60x30x2 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-granito-gris-quintana-60x40x2-cm",
+      "m": 6,
+      "p": 67.04,
+      "s": "SOLADO BALD. GRANITO GRIS QUINTANA 60x40x2 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-granito-negro-sudafrica-60x40x2-cm",
+      "m": 6,
+      "p": 202.38,
+      "s": "SOLADO BALD. GRANITO NEGRO SUDÁFRICA 60x40x2 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-granito-rosa-porrino-60x40x2-cm",
+      "m": 6,
+      "p": 59.55,
+      "s": "SOLADO BALD. GRANITO ROSA PORRIÑO 60x40x2 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-blanco-macael-30x30-cm",
+      "m": 7,
+      "p": 41.82,
+      "s": "SOLADO BALD. MÁRMOL \"BLANCO MACAEL\" 30x30 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-blanco-macael-30x30-cm-abrill",
+      "m": 7,
+      "p": 42.28,
+      "s": "SOLADO BALD. MÁRMOL \"BLANCO MACAEL\" 30x30 cm ABRILL.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-blanco-macael-30x30-cm-acrist",
+      "m": 7,
+      "p": 42.43,
+      "s": "SOLADO BALD. MÁRMOL \"BLANCO MACAEL\" 30x30 cm ACRIST.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-blanco-macael-40x40-cm",
+      "m": 7,
+      "p": 45.25,
+      "s": "SOLADO BALD. MÁRMOL \"BLANCO MACAEL\" 40x40 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-blanco-macael-40x40-cm-acrist",
+      "m": 7,
+      "p": 45.86,
+      "s": "SOLADO BALD. MÁRMOL \"BLANCO MACAEL\" 40x40 cm ACRIST.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-blanco-macael-40x40cmcm-abrill",
+      "m": 7,
+      "p": 45.71,
+      "s": "SOLADO BALD. MÁRMOL \"BLANCO MACAEL\" 40x40cmcm ABRILL.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-blanco-macael-50x50-abrill",
+      "m": 7,
+      "p": 51.7,
+      "s": "SOLADO BALD. MÁRMOL \"BLANCO MACAEL\" 50x50 ABRILL.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-blanco-macael-50x50-cm",
+      "m": 7,
+      "p": 51.24,
+      "s": "SOLADO BALD. MÁRMOL \"BLANCO MACAEL\" 50x50 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-blanco-macael-50x50-cm-acrist",
+      "m": 7,
+      "p": 51.85,
+      "s": "SOLADO BALD. MÁRMOL \"BLANCO MACAEL\" 50x50 cm ACRIST.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-blanco-macael-60x60-cm",
+      "m": 7,
+      "p": 77.61,
+      "s": "SOLADO BALD. MÁRMOL \"BLANCO MACAEL\" 60x60 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-blanco-macael-60x60-cm-abrill",
+      "m": 7,
+      "p": 78.07,
+      "s": "SOLADO BALD. MÁRMOL \"BLANCO MACAEL\" 60x60 cm ABRILL.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-blanco-macael-60x60-cm-acrist",
+      "m": 7,
+      "p": 78.22,
+      "s": "SOLADO BALD. MÁRMOL \"BLANCO MACAEL\" 60x60 cm ACRIST.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-rojo-alicante-40x40-cm",
+      "m": 7,
+      "p": 49.25,
+      "s": "SOLADO BALD. MÁRMOL \"ROJO ALICANTE\" 40x40 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-rojo-alicante-40x40-cm-abrill",
+      "m": 7,
+      "p": 49.71,
+      "s": "SOLADO BALD. MÁRMOL \"ROJO ALICANTE\" 40x40 cm ABRILL.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-rojo-alicante-40x40-cm-abrill-c1bc",
+      "m": 7,
+      "p": 49.71,
+      "s": "SOLADO BALD. MÁRMOL \"ROJO ALICANTE\" 40x40 cm ABRILL",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-rojo-alicante-40x40-cm-acrist",
+      "m": 7,
+      "p": 49.86,
+      "s": "SOLADO BALD. MÁRMOL \"ROJO ALICANTE\" 40x40 cm ACRIST.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-rojo-alicante-50x50-cm",
+      "m": 7,
+      "p": 52.72,
+      "s": "SOLADO BALD. MÁRMOL \"ROJO ALICANTE\" 50x50 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-rojo-alicante-50x50-cm-abrill",
+      "m": 7,
+      "p": 53.18,
+      "s": "SOLADO BALD. MÁRMOL \"ROJO ALICANTE\" 50x50 cm ABRILL.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-rojo-alicante-50x50-cm-acrist",
+      "m": 7,
+      "p": 53.33,
+      "s": "SOLADO BALD. MÁRMOL \"ROJO ALICANTE\" 50x50 cm ACRIST.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-travertino-38-5x38-5x0-9-cm",
+      "m": 7,
+      "p": 55.08,
+      "s": "SOLADO BALD. MÁRMOL \"TRAVERTINO\" 38,5x38,5x0,9 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-marmol-travertino-60x30-cm",
+      "m": 7,
+      "p": 58.39,
+      "s": "SOLADO BALD. MÁRMOL \"TRAVERTINO\" 60x30 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-piedra-caliza-colmenar-pulida-30x30-cm",
+      "m": 6,
+      "p": 36.97,
+      "s": "SOLADO BALD. PIEDRA CALIZA \"COLMENAR\" PULIDA 30x30 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-piedra-caliza-colmenar-pulida-60x40x3-cm",
+      "m": 6,
+      "p": 45.71,
+      "s": "SOLADO BALD. PIEDRA CALIZA \"COLMENAR\" PULIDA 60x40x3 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-piedra-caliza-crema-sevilla-40x40-cm",
+      "m": 7,
+      "p": 43.31,
+      "s": "SOLADO BALD. PIEDRA CALIZA \"CREMA SEVILLA\" 40x40 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-piedra-caliza-crema-sevilla-40x40-cm-abrill",
+      "m": 7,
+      "p": 43.77,
+      "s": "SOLADO BALD. PIEDRA CALIZA \"CREMA SEVILLA\" 40x40 cm ABRILL.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-piedra-caliza-crema-sevilla-40x40-cm-acrist",
+      "m": 7,
+      "p": 43.92,
+      "s": "SOLADO BALD. PIEDRA CALIZA \"CREMA SEVILLA\" 40x40 cm ACRIST.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-piedra-caliza-crema-sevilla-50x50-cm",
+      "m": 7,
+      "p": 43.69,
+      "s": "SOLADO BALD. PIEDRA CALIZA \"CREMA SEVILLA\" 50x50 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-piedra-caliza-crema-sevilla-50x50-cm-abrill",
+      "m": 7,
+      "p": 44.15,
+      "s": "SOLADO BALD. PIEDRA CALIZA \"CREMA SEVILLA\" 50x50 cm ABRILL.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-piedra-caliza-crema-sevilla-50x50-cm-acrist",
+      "m": 7,
+      "p": 44.3,
+      "s": "SOLADO BALD. PIEDRA CALIZA \"CREMA SEVILLA\" 50x50 cm ACRIST.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-pizarra-gris-30x30x1-cm",
+      "m": 6,
+      "p": 36.9,
+      "s": "SOLADO BALD. PIZARRA GRIS 30x30x1 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-pizarra-gris-60x30x2-cm",
+      "m": 6,
+      "p": 42.03,
+      "s": "SOLADO BALD. PIZARRA GRIS 60x30x2 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-terrazo-33x33-cm-grano-fino",
+      "m": 7,
+      "p": 21.4,
+      "s": "SOLADO BALD. TERRAZO 33x33 cm GRANO FINO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-terrazo-33x33-cm-grano-fino-con-abrillantado",
+      "m": 8,
+      "p": 25.27,
+      "s": "SOLADO BALD. TERRAZO 33x33 cm GRANO FINO CON ABRILLANTADO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-terrazo-33x33-cm-grano-medio",
+      "m": 7,
+      "p": 21.35,
+      "s": "SOLADO BALD. TERRAZO 33x33 cm GRANO MEDIO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-terrazo-40x40-cm-grano-grueso",
+      "m": 7,
+      "p": 24.12,
+      "s": "SOLADO BALD. TERRAZO 40x40 cm GRANO GRUESO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-terrazo-40x40-cm-grano-medio",
+      "m": 7,
+      "p": 22.27,
+      "s": "SOLADO BALD. TERRAZO 40x40 cm GRANO MEDIO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-terrazo-40x40-cm-grano-medio-abrill",
+      "m": 7,
+      "p": 22.73,
+      "s": "SOLADO BALD. TERRAZO 40x40 cm GRANO MEDIO, ABRILL.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-terrazo-40x40-cm-grano-medio-con-abrillantado-co",
+      "m": 8,
+      "p": 26.14,
+      "s": "SOLADO BALD. TERRAZO 40x40 cm GRANO MEDIO CON ABRILLANTADO CON PULIDO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-bald-terrazo-40x40-cm-micrograno",
+      "m": 7,
+      "p": 24.12,
+      "s": "SOLADO BALD. TERRAZO 40x40 cm MICROGRANO",
+      "u": "m2"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-solado-bald-terrazo-in-situ",
+      "m": 6,
+      "p": 44.09,
+      "s": "SOLADO BALD. TERRAZO \"IN SITU\"",
+      "u": "m2"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-solado-bald-terrazo-in-situ-aridos-de-color-y-pigmentos-colo",
+      "m": 6,
+      "p": 44.85,
+      "s": "SOLADO BALD. TERRAZO \"IN SITU\" ÁRIDOS DE COLOR Y PIGMENTOS COLOR",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-baldosa-caucho-50x50-cm-adhesivo",
+      "m": 6,
+      "p": 53.33,
+      "s": "SOLADO BALDOSA CAUCHO 50x50 cm ADHESIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-baldosa-ceramica-rustica-30x30-cm-mortero",
+      "m": 6,
+      "p": 44.84,
+      "s": "SOLADO BALDOSA CERÁMICA RÚSTICA 30x30 cm MORTERO",
+      "u": "m2"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-solado-baldosa-corcho-barnizada-30x60-cm-adhesivo",
+      "m": 6,
+      "p": 42.04,
+      "s": "SOLADO BALDOSA CORCHO BARNIZADA 30x60 cm ADHESIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-baldosa-moqueta-lana-antisuciedad-50x50-cm-adhesivo",
+      "m": 6,
+      "p": 120.45,
+      "s": "SOLADO BALDOSA MOQUETA LANA ANTISUCIEDAD 50x50 cm ADHESIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-baldosa-moqueta-poliamida-50x50-cm-adhesivo",
+      "m": 6,
+      "p": 56,
+      "s": "SOLADO BALDOSA MOQUETA POLIAMIDA 50x50 cm ADHESIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-baldosa-pvc-50x50-cm-adhesivo",
+      "m": 6,
+      "p": 51.61,
+      "s": "SOLADO BALDOSA PVC 50x50 cm ADHESIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-baldosa-pvc-60x60-cm-adhesivo",
+      "m": 6,
+      "p": 50.93,
+      "s": "SOLADO BALDOSA PVC 60x60 cm ADHESIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-baldosa-vinilo-60x60-cm-adhesivo",
+      "m": 6,
+      "p": 50.96,
+      "s": "SOLADO BALDOSA VINILO 60x60 cm ADHESIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-baldosas-ceramica-vidriada-20x20-cm",
+      "m": 6,
+      "p": 23.49,
+      "s": "SOLADO BALDOSAS CERÁMICA VIDRIADA 20x20 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-baldosas-gres-compacto-20x40-cm",
+      "m": 6,
+      "p": 54.88,
+      "s": "SOLADO BALDOSAS GRES COMPACTO 20x40 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-baldosas-gres-compacto-40x40-cm",
+      "m": 6,
+      "p": 52.87,
+      "s": "SOLADO BALDOSAS GRES COMPACTO 40x40 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-baldosas-gres-vidriado-20x40-cm",
+      "m": 6,
+      "p": 33.79,
+      "s": "SOLADO BALDOSAS GRES VIDRIADO 20x40 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-baldosas-gres-vidriado-40x40-cm",
+      "m": 6,
+      "p": 35.02,
+      "s": "SOLADO BALDOSAS GRES VIDRIADO 40x40 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-ceramica-14x28-cm",
+      "m": 6,
+      "p": 22.76,
+      "s": "SOLADO CON BALDOSAS CERÁMICA 14x28 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-ceramica-20x20-cm",
+      "m": 8,
+      "p": 22.76,
+      "s": "SOLADO CON BALDOSAS CERÁMICA 20x20 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-ceramica-40x40-cm",
+      "m": 6,
+      "p": 24.01,
+      "s": "SOLADO CON BALDOSAS CERÁMICA 40x40 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-02",
+      "g": [],
+      "id": "wi-solado-con-baldosas-ceramica-40x40-cm-c2-c-rodapie",
+      "m": 7,
+      "p": 28.39,
+      "s": "SOLADO CON BALDOSAS CERÁMICA 40x40 cm C2 C/RODAPIE",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-ceramica-vidriada-10x20-cm-adhesivo",
+      "m": 8,
+      "p": 27.76,
+      "s": "SOLADO CON BALDOSAS CERÁMICA VIDRIADA 10x20 cm ADHESIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-ceramica-vidriada-10x20-cm-mortero",
+      "m": 6,
+      "p": 28.66,
+      "s": "SOLADO CON BALDOSAS CERÁMICA VIDRIADA 10x20 cm MORTERO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-ceramica-vidriada-30x30-cm",
+      "m": 6,
+      "p": 23.77,
+      "s": "SOLADO CON BALDOSAS CERÁMICA VIDRIADA 30x30 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-02",
+      "g": [],
+      "id": "wi-solado-con-baldosas-ceramicas-40x40-cm-c2",
+      "m": 6,
+      "p": 24.68,
+      "s": "SOLADO CON BALDOSAS CERAMICAS 40x40 cm C2",
+      "u": "m2"
+    },
+    {
+      "d": "2022-02",
+      "g": [],
+      "id": "wi-solado-con-baldosas-ceramicas-40x40-cm-c3",
+      "m": 6,
+      "p": 25.34,
+      "s": "SOLADO CON BALDOSAS CERAMICAS 40x40 cm C3",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-solado-con-baldosas-de-chino-lavado-de-40x40-cm",
+      "m": 6,
+      "p": 17.21,
+      "s": "SOLADO CON BALDOSAS DE CHINO LAVADO DE 40x40 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-de-linoleo-40x40-cm",
+      "m": 7,
+      "p": 36.18,
+      "s": "SOLADO CON BALDOSAS DE LINOLEO 40x40 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-de-pvc-con-juntas-a-tope-40x40-cm",
+      "m": 6,
+      "p": 53.25,
+      "s": "SOLADO CON BALDOSAS DE PVC.CON JUNTAS A TOPE 40x40 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-de-pvc-con-juntas-soldadas-40x40-cm",
+      "m": 7,
+      "p": 60.58,
+      "s": "SOLADO CON BALDOSAS DE PVC. CON JUNTAS SOLDADAS 40x40 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-de-semigres-vidriado-20x20-cm",
+      "m": 6,
+      "p": 23.26,
+      "s": "SOLADO CON BALDOSAS DE SEMIGRÉS VIDRIADO 20x20 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-de-vinilo-amianto-40x40-cm",
+      "m": 7,
+      "p": 34.26,
+      "s": "SOLADO CON BALDOSAS DE VINILO-AMIANTO 40x40 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-hidraulicas-de-20x20-cm-9-pastillas",
+      "m": 6,
+      "p": 17.65,
+      "s": "SOLADO CON BALDOSAS HIDRÁULICAS DE 20x20 cm 9 PASTILLAS",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-baldosas-hidraulicas-de-40x40-cm-biseladas",
+      "m": 6,
+      "p": 24.47,
+      "s": "SOLADO CON BALDOSAS HIDRÁULICAS DE 40x40 cm BISELADAS",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-linoleo-en-rollos-con-adhesivo",
+      "m": 7,
+      "p": 32.8,
+      "s": "SOLADO CON LINÓLEO EN ROLLOS, CON ADHESIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-pvc-en-rollos-con-adhesivo",
+      "m": 6,
+      "p": 32.65,
+      "s": "SOLADO CON PVC EN ROLLOS, CON ADHESIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-rollos-de-goma-con-adhesivo",
+      "m": 6,
+      "p": 52.2,
+      "s": "SOLADO CON ROLLOS DE GOMA, CON ADHESIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-con-rollos-de-goma-con-lechada-de-cemento",
+      "m": 6,
+      "p": 52.57,
+      "s": "SOLADO CON ROLLOS DE GOMA, CON LECHADA DE CEMENTO",
+      "u": "m2"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-solado-con-rollos-de-moqueta-tensada",
+      "m": 6,
+      "p": 28.12,
+      "s": "SOLADO CON ROLLOS DE MOQUETA TENSADA",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-ferrogres-esmaltado-25x25-cm-mortero",
+      "m": 6,
+      "p": 38.71,
+      "s": "SOLADO FERROGRES ESMALTADO 25x25 cm MORTERO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-ferrogres-esmaltado-33x33-cm-mortero",
+      "m": 6,
+      "p": 42.18,
+      "s": "SOLADO FERROGRES ESMALTADO 33x33 cm MORTERO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-gres-esmaltado-25x25-cm-mortero",
+      "m": 6,
+      "p": 37.52,
+      "s": "SOLADO GRES ESMALTADO 25x25 cm MORTERO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-gres-esmaltado-30x30-cm-mortero",
+      "m": 6,
+      "p": 44.37,
+      "s": "SOLADO GRES ESMALTADO 30x30 cm MORTERO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-gres-porcelanico-30x30-cm-adhesivo",
+      "m": 8,
+      "p": 54.51,
+      "s": "SOLADO GRES PORCELÁNICO 30x30 cm ADHESIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-gres-porcelanico-esmaltado-30x30-cm-adhesivo",
+      "m": 8,
+      "p": 47.32,
+      "s": "SOLADO GRES PORCELÁNICO ESMALTADO 30x30 cm ADHESIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-gres-porcelanico-esmaltado-46x46-cm-adhesivo",
+      "m": 8,
+      "p": 47.44,
+      "s": "SOLADO GRES PORCELÁNICO ESMALTADO 46x46 cm ADHESIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-02",
+      "g": [],
+      "id": "wi-solado-pavimento-vinilico-en-rollos-sin-adhesivo",
+      "m": 6,
+      "p": 40.48,
+      "s": "SOLADO PAVIMENTO VINILICO EN ROLLOS SIN ADHESIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solado-rollo-vinilo-0-2-cm-esp-adhesivo",
+      "m": 6,
+      "p": 41.75,
+      "s": "SOLADO ROLLO VINILO 0,2 cm ESP. ADHESIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solera-hormigon-ha-25-150x150x6-mm-15-cm-esp",
+      "m": 7,
+      "p": 32.83,
+      "s": "SOLERA HORMIGÓN HA-25 #150x150x6 mm 15 cm ESP.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solera-hormigon-hm-20-10-cm-esp",
+      "m": 6,
+      "p": 21.57,
+      "s": "SOLERA HORMIGÓN HM-20 10 cm ESP",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solera-hormigon-hm-20-15-cm-esp",
+      "m": 4,
+      "p": 24.65,
+      "s": "SOLERA HORMIGÓN HM-20 15 cm ESP.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solera-hormigon-hm-20-15-cm-esp-5368",
+      "m": 6,
+      "p": 29.54,
+      "s": "SOLERA HORMIGÓN HM-20 15 cm ESP",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solera-hormigon-hm-20-20-cm-esp",
+      "m": 6,
+      "p": 36.52,
+      "s": "SOLERA HORMIGÓN HM-20 20 cm ESP",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solera-hormigon-hm-20-6-cm-esp",
+      "m": 6,
+      "p": 19.3,
+      "s": "SOLERA HORMIGÓN HM-20 6 cm ESP",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solera-hormigon-hm-25-15-cm-esp",
+      "m": 6,
+      "p": 29.23,
+      "s": "SOLERA HORMIGÓN HM-25 15 cm ESP",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-solera-hormigon-hm-35-20-cm-esp",
+      "m": 6,
+      "p": 38.01,
+      "s": "SOLERA HORMIGÓN HM-35 20 cm ESP",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-suelo-elevado-y-registrable-con-baldosas-de-linoleo",
+      "m": 6,
+      "p": 95.89,
+      "s": "SUELO ELEVADO Y REGISTRABLE CON BALDOSAS DE LINOLEO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tarima-chapada-haya-1250x188x12-mm",
+      "m": 4,
+      "p": 44.05,
+      "s": "TARIMA CHAPADA HAYA 1250X188X12 mm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tarima-haya-maciza-22-mm",
+      "m": 5,
+      "p": 113.26,
+      "s": "TARIMA HAYA MACIZA 22 mm",
+      "u": "m2"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-tarima-haya-maciza-sobre-rastreles",
+      "m": 8,
+      "p": 124.46,
+      "s": "TARIMA HAYA MACIZA SOBRE RASTRELES",
+      "u": "m2"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-tarima-roble-macizo-sobre-rastreles",
+      "m": 8,
+      "p": 133.97,
+      "s": "TARIMA ROBLE MACIZO SOBRE RASTRELES",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-zanquin-arenisca-amarillo-fosil",
+      "m": 4,
+      "p": 5.58,
+      "s": "ZANQUIN ARENISCA \"AMARILLO FÓSIL\"",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-zanquin-con-baldosas-ceramica-rustica",
+      "m": 4,
+      "p": 12.85,
+      "s": "ZANQUÍN CON BALDOSAS CERÁMICA RÚSTICA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-zanquin-con-baldosas-de-ceramica-vidriada",
+      "m": 4,
+      "p": 4.42,
+      "s": "ZANQUÍN CON BALDOSAS DE CERÁMICA VIDRIADA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-zanquin-con-baldosas-ferrogres-esmaltado",
+      "m": 4,
+      "p": 8.75,
+      "s": "ZANQUÍN CON BALDOSAS FERROGRÉS ESMALTADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-zanquin-con-baldosas-gres-esmaltado",
+      "m": 4,
+      "p": 12.69,
+      "s": "ZANQUÍN CON BALDOSAS GRES ESMALTADO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-zanquin-con-baldosas-gres-porcelanico",
+      "m": 4,
+      "p": 14.19,
+      "s": "ZANQUÍN CON BALDOSAS GRES PORCELÁNICO",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-zanquin-de-piedra-artificial",
+      "m": 4,
+      "p": 7.06,
+      "s": "ZANQUÍN DE PIEDRA ARTIFICIAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-zanquin-granito-gris-quintana",
+      "m": 4,
+      "p": 7.49,
+      "s": "ZANQUIN GRANITO \"GRIS QUINTANA\"",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-zanquin-granito-negro-sudafrica",
+      "m": 4,
+      "p": 15.85,
+      "s": "ZANQUIN GRANITO \"NEGRO SUDAFRICA\"",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-zanquin-granito-rosa-porrino",
+      "m": 4,
+      "p": 7.02,
+      "s": "ZANQUIN GRANITO \"ROSA PORRIÑO\"",
+      "u": "u"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-zanquin-madera-de-embero",
+      "m": 7,
+      "p": 9.66,
+      "s": "ZANQUÍN MADERA DE EMBERO",
+      "u": "u"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-zanquin-madera-de-roble",
+      "m": 7,
+      "p": 10.58,
+      "s": "ZANQUÍN MADERA DE ROBLE",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-zanquin-marmol-blanco-macael",
+      "m": 4,
+      "p": 9.14,
+      "s": "ZANQUIN MÁRMOL \"BLANCO MACAEL\"",
+      "u": "u"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-zanquin-marmol-rojo-alicante",
+      "m": 4,
+      "p": 8.07,
+      "s": "ZANQUIN MÁRMOL \"ROJO ALICANTE\"",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-zanquin-marmol-travertino",
+      "m": 4,
+      "p": 6.75,
+      "s": "ZANQUIN MÁRMOL \"TRAVERTINO\"",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-zanquin-piedra-caliza-colmenar",
+      "m": 4,
+      "p": 5.75,
+      "s": "ZANQUIN PIEDRA CALIZA \"COLMENAR\"",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-zanquin-piedra-caliza-crema-sevilla",
+      "m": 4,
+      "p": 6.7,
+      "s": "ZANQUIN PIEDRA CALIZA \"CREMA SEVILLA\"",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-zanquin-pizarra-gris",
+      "m": 4,
+      "p": 5.95,
+      "s": "ZANQUIN PIZARRA GRIS",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-zocalo-de-goma-negra-rayada",
+      "m": 4,
+      "p": 26.46,
+      "s": "ZOCALO DE GOMA NEGRA RAYADA",
+      "u": "m2"
+    }
+  ],
+  "title": "Pavimentos",
+  "version": "0.1.0"
+}

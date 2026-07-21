@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-07-21T11:29:00.682Z",
+  "roots": [
+    {
+      "k": "01-IMP",
+      "l": "Implantación de obra",
+      "n": 243,
+      "s": "implantacion-de-obra"
+    },
+    {
+      "k": "02-DEM",
+      "l": "Demoliciones",
+      "n": 594,
+      "s": "demoliciones"
+    },
+    {
+      "k": "03-MOV",
+      "l": "Movimiento de tierras",
+      "n": 137,
+      "s": "movimiento-de-tierras"
+    },
+    {
+      "k": "04-CIM",
+      "l": "Cimentaciones",
+      "n": 181,
+      "s": "cimentaciones"
+    },
+    {
+      "k": "05-EST",
+      "l": "Estructura",
+      "n": 187,
+      "s": "estructura"
+    },
+    {
+      "k": "06-CUB",
+      "l": "Cubiertas",
+      "n": 120,
+      "s": "cubiertas"
+    },
+    {
+      "k": "07-FAC",
+      "l": "Cerramientos y fachadas",
+      "n": 22,
+      "s": "cerramientos-y-fachadas"
+    },
+    {
+      "k": "08-ALB",
+      "l": "Albañilería y tabiquería",
+      "n": 304,
+      "s": "albanileria-y-tabiqueria"
+    },
+    {
+      "k": "09-IMP",
+      "l": "Impermeabilizaciones",
+      "n": 19,
+      "s": "impermeabilizaciones"
+    },
+    {
+      "k": "10-AIS",
+      "l": "Aislamientos",
+      "n": 128,
+      "s": "aislamientos"
+    },
+    {
+      "k": "11-REV",
+      "l": "Revestimientos continuos interiores",
+      "n": 193,
+      "s": "revestimientos-continuos-interiores"
+    },
+    {
+      "k": "12-PAV",
+      "l": "Pavimentos",
+      "n": 254,
+      "s": "pavimentos"
+    },
+    {
+      "k": "13-RVV",
+      "l": "Revestimientos verticales",
+      "n": 61,
+      "s": "revestimientos-verticales"
+    },
+    {
+      "k": "14-TEC",
+      "l": "Falsos techos",
+      "n": 18,
+      "s": "falsos-techos"
+    },
+    {
+      "k": "15-CEX",
+      "l": "Carpintería exterior",
+      "n": 264,
+      "s": "carpinteria-exterior"
+    },
+    {
+      "k": "16-CIN",
+      "l": "Carpintería interior",
+      "n": 149,
+      "s": "carpinteria-interior"
+    },
+    {
+      "k": "17-CER",
+      "l": "Cerrajería",
+      "n": 43,
+      "s": "cerrajeria"
+    },
+    {
+      "k": "18-VID",
+      "l": "Vidrios",
+      "n": 110,
+      "s": "vidrios"
+    },
+    {
+      "k": "19-FON",
+      "l": "Fontanería y aparatos sanitarios",
+      "n": 418,
+      "s": "fontaneria-y-aparatos-sanitarios"
+    },
+    {
+      "k": "20-SAN",
+      "l": "Saneamiento",
+      "n": 69,
+      "s": "saneamiento"
+    },
+    {
+      "k": "21-ELE",
+      "l": "Electricidad e iluminación",
+      "n": 305,
+      "s": "electricidad-e-iluminacion"
+    },
+    {
+      "k": "22-TEL",
+      "l": "Telecomunicaciones y control",
+      "n": 117,
+      "s": "telecomunicaciones-y-control"
+    },
+    {
+      "k": "23-CLI",
+      "l": "Climatización",
+      "n": 486,
+      "s": "climatizacion"
+    },
+    {
+      "k": "24-VEN",
+      "l": "Ventilación",
+      "n": 86,
+      "s": "ventilacion"
+    },
+    {
+      "k": "25-PCI",
+      "l": "Protección contra incendios",
+      "n": 251,
+      "s": "proteccion-contra-incendios"
+    },
+    {
+      "k": "26-GAS",
+      "l": "Gas y combustibles",
+      "n": 130,
+      "s": "gas-y-combustibles"
+    },
+    {
+      "k": "27-SOL",
+      "l": "Energía solar y fotovoltaica",
+      "n": 141,
+      "s": "energia-solar-y-fotovoltaica"
+    },
+    {
+      "k": "28-ELV",
+      "l": "Aparatos elevadores",
+      "n": 75,
+      "s": "aparatos-elevadores"
+    },
+    {
+      "k": "29-PIN",
+      "l": "Pintura",
+      "n": 97,
+      "s": "pintura"
+    },
+    {
+      "k": "30-URB",
+      "l": "Urbanización exterior",
+      "n": 585,
+      "s": "urbanizacion-exterior"
+    },
+    {
+      "k": "31-EQU",
+      "l": "Equipamiento y mobiliario fijo",
+      "n": 55,
+      "s": "equipamiento-y-mobiliario-fijo"
+    },
+    {
+      "k": "32-CCA",
+      "l": "Control de calidad y ensayos",
+      "n": 337,
+      "s": "control-de-calidad-y-ensayos"
+    },
+    {
+      "k": "33-FIN",
+      "l": "Limpieza final y puesta en servicio",
+      "n": 1,
+      "s": "limpieza-final-y-puesta-en-servicio"
+    },
+    {
+      "k": "34-MAN",
+      "l": "Mantenimiento y conservación",
+      "n": 288,
+      "s": "mantenimiento-y-conservacion"
+    }
+  ],
+  "total": 6468,
+  "version": "0.1.0"
+}
