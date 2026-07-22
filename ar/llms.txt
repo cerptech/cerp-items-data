@@ -1,0 +1,24 @@
+# Banco de ítems de construcción CERP
+
+> Catálogo abierto de 18 ítems de construcción de Argentina con precios de referencia y descomposición (BOM: mano de obra, materiales, maquinaria). Versión 0.2.0. Formato canónico JSON; cada capítulo también en Markdown. Ids: wi=partida, mt=material, mo=mano de obra, mq=maquinaria, au=auxiliar, ot=otro. Cada precio lleva procedencia (fuente, código origen, edición, ámbito, fecha).
+
+Atribución obligatoria al reutilizar: "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo".
+Atribución obligatoria al reutilizar: "Información obtenida del Portal de la Junta de Andalucía".
+
+## Datos
+
+- [index.json](./index.json): índice máquina de todos los chunks con conteos
+- [tree.json](./tree.json): árbol de navegación jerárquico completo (labels, slugs, conteos)
+- outlines/<chunk>.json: filas livianas por capítulo (id, resumen, unidad, precio, subgrupos) — para listados sin cargar el capítulo entero
+- [basicos.json](./basicos.json): los 15 conceptos simples (materiales, mano de obra, maquinaria) — resuelve cualquier ref de BOM
+- [catalog.json](./catalog.json): catálogo completo en un archivo
+- [countries.json](./countries.json): países disponibles. Este bundle es el del país de la raíz; los demás viven en su subcarpeta (p.ej. [ar/](./ar/llms.txt) para Argentina) con la misma estructura de archivos
+
+## Capítulos
+
+- [Albañilería > Mampostería](./chapters/albanileria--mamposteria.json): 2 ítems ([markdown](./chapters/albanileria--mamposteria.md))
+- [Morteros > Mortero de cemento](./chapters/morteros--mortero-de-cemento.json): 1 ítems ([markdown](./chapters/morteros--mortero-de-cemento.md))
+
+## Cómo resolver un BOM
+
+1. Tomar la partida (`wi-*`) del JSON de su capítulo. 2. Por cada línea de `bom`, buscar `ref` en basicos.json. 3. Coste directo = Σ factor × quantity × precio del hijo; las líneas `isPercentage` aplican quantity (tanto por uno) sobre el subtotal de las líneas anteriores cuyo código matchee `percentageMask`.

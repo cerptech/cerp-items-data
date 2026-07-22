@@ -1,6 +1,6 @@
 # Precios Unitarios > CARPINTERÍA Y ELEMENTOS DE SEGURIDAD Y PROTECCIÓN
 
-Banco de ítems de construcción CERP v0.1.0 — 475 ítems. Datos estructurados en [`precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion.json`](./precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.2.0 — 475 ítems. Datos estructurados en [`precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion.json`](./precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
 > Información obtenida del Portal de la Junta de Andalucía
 

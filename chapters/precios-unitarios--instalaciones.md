@@ -1,6 +1,6 @@
 # Precios Unitarios > INSTALACIONES
 
-Banco de ítems de construcción CERP v0.1.0 — 1989 ítems. Datos estructurados en [`precios-unitarios--instalaciones.json`](./precios-unitarios--instalaciones.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.2.0 — 1989 ítems. Datos estructurados en [`precios-unitarios--instalaciones.json`](./precios-unitarios--instalaciones.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
 > Información obtenida del Portal de la Junta de Andalucía
 

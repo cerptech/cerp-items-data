@@ -1,6 +1,6 @@
 # Precios Unitarios > DEMOLICIONES Y TRABAJOS PREVIOS
 
-Banco de ítems de construcción CERP v0.1.0 — 490 ítems. Datos estructurados en [`precios-unitarios--demoliciones-y-trabajos-previos.json`](./precios-unitarios--demoliciones-y-trabajos-previos.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.2.0 — 490 ítems. Datos estructurados en [`precios-unitarios--demoliciones-y-trabajos-previos.json`](./precios-unitarios--demoliciones-y-trabajos-previos.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
 > Información obtenida del Portal de la Junta de Andalucía
 

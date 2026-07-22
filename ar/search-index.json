@@ -1,0 +1,149 @@
+{
+  "items": [
+    {
+      "c": "",
+      "i": "mo-ar-ayudante-cct-76-75",
+      "k": "labor",
+      "p": 4948,
+      "s": "Ayudante (CCT 76/75)",
+      "u": "h"
+    },
+    {
+      "c": "",
+      "i": "mo-ar-medio-oficial-cct-76-75",
+      "k": "labor",
+      "p": 5375,
+      "s": "Medio oficial (CCT 76/75)",
+      "u": "h"
+    },
+    {
+      "c": "",
+      "i": "mo-ar-oficial-cct-76-75",
+      "k": "labor",
+      "p": 5817,
+      "s": "Oficial (CCT 76/75)",
+      "u": "h"
+    },
+    {
+      "c": "",
+      "i": "mo-ar-oficial-especializado-cct-76-75",
+      "k": "labor",
+      "p": 6800,
+      "s": "Oficial especializado (CCT 76/75)",
+      "u": "h"
+    },
+    {
+      "c": "",
+      "i": "mo-ar-sereno-cct-76-75",
+      "k": "labor",
+      "p": 898817,
+      "s": "Sereno (CCT 76/75)",
+      "u": "mes"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-arena-fina-a-granel",
+      "k": "material",
+      "p": 44444,
+      "s": "Arena fina a granel",
+      "u": "m3"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
+      "k": "material",
+      "p": 7699,
+      "s": "Cal hidratada en bolsa de 25 kg",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+      "k": "material",
+      "p": 11850,
+      "s": "Cemento portland compuesto CPC40 en bolsa de 50 kg",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-hierro-nervurado-adn-420-diametro-10-mm-en-barra-de-12-m",
+      "k": "material",
+      "p": 16900,
+      "s": "Hierro nervurado ADN 420 diametro 10 mm en barra de 12 m",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-hierro-nervurado-adn-420-diametro-12-mm-en-barra-de-12-m",
+      "k": "material",
+      "p": 23800,
+      "s": "Hierro nervurado ADN 420 diametro 12 mm en barra de 12 m",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-hierro-nervurado-adn-420-diametro-6-mm-en-barra-de-12-m",
+      "k": "material",
+      "p": 6800,
+      "s": "Hierro nervurado ADN 420 diametro 6 mm en barra de 12 m",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-hierro-nervurado-adn-420-diametro-8-mm-en-barra-de-12-m",
+      "k": "material",
+      "p": 11599,
+      "s": "Hierro nervurado ADN 420 diametro 8 mm en barra de 12 m",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-ladrillo-comun-de-tierra-cocida-25x12x5-cm",
+      "k": "material",
+      "p": 273,
+      "s": "Ladrillo comun de tierra cocida 25x12x5 cm",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-ladrillo-hueco-ceramico-12x18x33-cm",
+      "k": "material",
+      "p": 836,
+      "s": "Ladrillo hueco ceramico 12x18x33 cm",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+      "k": "material",
+      "p": 83744,
+      "s": "Piedra partida 6 a 20 mm a granel",
+      "u": "m3"
+    },
+    {
+      "c": "albanileria--mamposteria",
+      "i": "wi-ar-mamposteria-de-ladrillo-comun-de-soga-espesor-12-cm",
+      "k": "work_item",
+      "p": null,
+      "s": "Mamposteria de ladrillo comun de soga, espesor 12 cm",
+      "u": "m2"
+    },
+    {
+      "c": "albanileria--mamposteria",
+      "i": "wi-ar-mamposteria-de-ladrillo-hueco-12x18x33-espesor-12-cm",
+      "k": "work_item",
+      "p": null,
+      "s": "Mamposteria de ladrillo hueco 12x18x33, espesor 12 cm",
+      "u": "m2"
+    },
+    {
+      "c": "morteros--mortero-de-cemento",
+      "i": "wi-ar-mortero-de-cemento-1-6-preparado-en-obra",
+      "k": "work_item",
+      "p": null,
+      "s": "Mortero de cemento 1:6 preparado en obra",
+      "u": "m3"
+    }
+  ],
+  "version": "0.2.0"
+}

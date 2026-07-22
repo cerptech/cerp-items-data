@@ -1,0 +1,116 @@
+{
+  "generatedAt": "2026-07-22T00:59:23.070Z",
+  "roots": [
+    {
+      "c": [
+        {
+          "k": "mano-de-obra--cct-76-75",
+          "l": "CCT 76/75",
+          "n": 5,
+          "s": "cct-76-75"
+        }
+      ],
+      "l": "Mano de obra",
+      "n": 5,
+      "s": "mano-de-obra"
+    },
+    {
+      "c": [
+        {
+          "k": "aridos--arena",
+          "l": "Arena",
+          "n": 1,
+          "s": "arena"
+        },
+        {
+          "k": "aridos--piedra",
+          "l": "Piedra",
+          "n": 1,
+          "s": "piedra"
+        }
+      ],
+      "l": "Áridos",
+      "n": 2,
+      "s": "aridos"
+    },
+    {
+      "c": [
+        {
+          "k": "aglomerantes--cal",
+          "l": "Cal",
+          "n": 1,
+          "s": "cal"
+        },
+        {
+          "k": "aglomerantes--cemento",
+          "l": "Cemento",
+          "n": 1,
+          "s": "cemento"
+        }
+      ],
+      "l": "Aglomerantes",
+      "n": 2,
+      "s": "aglomerantes"
+    },
+    {
+      "c": [
+        {
+          "k": "acero--barras-nervuradas",
+          "l": "Barras nervuradas",
+          "n": 4,
+          "s": "barras-nervuradas"
+        }
+      ],
+      "l": "Acero",
+      "n": 4,
+      "s": "acero"
+    },
+    {
+      "c": [
+        {
+          "k": "albanileria--ladrillos",
+          "l": "Ladrillos",
+          "n": 1,
+          "s": "ladrillos"
+        },
+        {
+          "k": "albanileria--mamposteria",
+          "l": "Mampostería",
+          "n": 2,
+          "s": "mamposteria"
+        }
+      ],
+      "l": "Albañilería",
+      "n": 3,
+      "s": "albanileria"
+    },
+    {
+      "c": [
+        {
+          "k": "mampuestos--ladrillo-hueco",
+          "l": "Ladrillo hueco",
+          "n": 1,
+          "s": "ladrillo-hueco"
+        }
+      ],
+      "l": "Mampuestos",
+      "n": 1,
+      "s": "mampuestos"
+    },
+    {
+      "c": [
+        {
+          "k": "morteros--mortero-de-cemento",
+          "l": "Mortero de cemento",
+          "n": 1,
+          "s": "mortero-de-cemento"
+        }
+      ],
+      "l": "Morteros",
+      "n": 1,
+      "s": "morteros"
+    }
+  ],
+  "total": 18,
+  "version": "0.2.0"
+}

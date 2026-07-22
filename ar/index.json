@@ -1,0 +1,50 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "basicoChapters": [],
+  "basicos": {
+    "count": 15,
+    "file": "basicos.json"
+  },
+  "chapters": [
+    {
+      "items": 2,
+      "json": "chapters/albanileria--mamposteria.json",
+      "key": "albanileria--mamposteria",
+      "md": "chapters/albanileria--mamposteria.md",
+      "outline": "outlines/albanileria--mamposteria.json",
+      "title": "Albañilería > Mampostería"
+    },
+    {
+      "items": 1,
+      "json": "chapters/morteros--mortero-de-cemento.json",
+      "key": "morteros--mortero-de-cemento",
+      "md": "chapters/morteros--mortero-de-cemento.md",
+      "outline": "outlines/morteros--mortero-de-cemento.json",
+      "title": "Morteros > Mortero de cemento"
+    }
+  ],
+  "generatedAt": "2026-07-22T00:59:23.070Z",
+  "stats": {
+    "byKind": {
+      "labor": 5,
+      "material": 10,
+      "work_item": 3
+    },
+    "bySources": {
+      "bcca": 3,
+      "cerp": 13,
+      "uocra": 5
+    },
+    "byStatus": {
+      "auto_ok": 18
+    },
+    "quarantined": 0,
+    "total": 18
+  },
+  "taxonomies": [],
+  "tree": "tree.json",
+  "version": "0.2.0"
+}

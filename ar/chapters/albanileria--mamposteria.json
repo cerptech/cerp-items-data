@@ -1,0 +1,146 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Albañilería > Mampostería",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 61,
+          "ref": "mt-ar-ladrillo-comun-de-tierra-cocida-25x12x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.023,
+          "ref": "wi-ar-mortero-de-cemento-1-6-preparado-en-obra",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.66,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.33,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Albañilería",
+          "Mampostería"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-07-22T00:58:09.684Z",
+      "id": "wi-ar-mamposteria-de-ladrillo-comun-de-soga-espesor-12-cm",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-ar-mamposteria-de-ladrillo-comun-de-soga-espesor-12-cm",
+          "edition": "2026-07",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-citara-ladrillo-macizo-c-v",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Mamposteria de ladrillo comun de soga, espesor 12 cm",
+      "tags": [
+        "mamposteria",
+        "ladrillo comun",
+        "muro",
+        "soga"
+      ],
+      "text": "Muro de ladrillo comun de tierra cocida 25x12x5 cm colocado de soga (espesor de pared 12 cm), tomado con mortero de cemento 1:6, junta de 1,5 cm. Sin revoques. Unidad = metro cuadrado de muro. Rendimientos adaptados de BCCA wi-citara-ladrillo-macizo-c-v: Mano de obra y mortero tomados sin cambios de la citara BCCA de ladrillo macizo (0,66 h oficial 1a + 0,33 h peon especial + 0,023 m3 de mortero M5 1:6), que es el mismo muro de medio pie con otra denominacion. Solo se recalculo el consumo de ladrillos por la medida argentina: modulo (25+1,5)x(5+1,5) = 0,017225 m2 -> 58,1 u/m2, mas 5% de roturas = 61 u/m2 (la BCCA computa 70 u/m2 para su ladrillo de 24x11,5x5 con junta de 1 cm)",
+      "unit": "m2",
+      "updatedAt": "2026-07-22T00:58:09.684Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-07-22T00:58:53.003Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 16,
+          "ref": "mt-ar-ladrillo-hueco-ceramico-12x18x33-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.015,
+          "ref": "wi-ar-mortero-de-cemento-1-6-preparado-en-obra",
+          "role": "work_item"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.32,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Albañilería",
+          "Mampostería"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-07-21T22:07:05.638Z",
+      "id": "wi-ar-mamposteria-de-ladrillo-hueco-12x18x33-espesor-12-cm",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-ar-mamposteria-de-ladrillo-hueco-12x18x33-espesor-12-cm",
+          "edition": "2026-07",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-cegado-de-hueco-con-tabicon-hueco-doble-de-7-cm",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Mamposteria de ladrillo hueco 12x18x33, espesor 12 cm",
+      "tags": [
+        "mamposteria",
+        "ladrillo",
+        "hueco",
+        "muro"
+      ],
+      "text": "Muro no portante de ladrillo hueco cerámico 12x18x33 colocado de canto (espesor de pared 12 cm), tomado con mortero de cemento 1:6. Unidad = metro cuadrado de muro. Rendimientos adaptados de BCCA wi-cegado-de-hueco-con-tabicon-hueco-doble-de-7-cm: Mano de obra tomada de la partida BCCA equivalente (0,6 h oficial + 0,32 h peón por m2). Consumo de ladrillos calculado por geometría del hueco argentino (cara 18x33 cm = 0,0594 m2 -> ~16 u/m2 con juntas), no del BCCA (que usa ladrillo 24x11,5x7). Mortero de asiento 0,015 m3/m2 (valor técnico estándar para muro de 12 cm)",
+      "unit": "m2",
+      "updatedAt": "2026-07-21T22:41:26.648Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-07-21T22:07:55.939Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.2.0"
+}

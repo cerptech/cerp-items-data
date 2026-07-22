@@ -1,0 +1,71 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Morteros > Mortero de cemento",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 5.16,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.102,
+          "ref": "mt-ar-arena-fina-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Morteros",
+          "Mortero de cemento"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-07-21T22:07:05.639Z",
+      "id": "wi-ar-mortero-de-cemento-1-6-preparado-en-obra",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-ar-mortero-de-cemento-1-6-preparado-en-obra",
+          "edition": "2026-07",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Mortero de cemento 1:6 preparado en obra",
+      "tags": [
+        "mortero",
+        "cemento",
+        "1:6"
+      ],
+      "text": "Mortero de cemento portland y arena, dosaje 1:6 en volumen, preparado en obra para asiento de mampostería. Unidad = metro cúbico de mortero. Rendimientos adaptados de BCCA wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n: Rendimientos tomados de la partida BCCA de mortero M5 (1:6): 0,258 t de cemento (=5,16 bolsas de 50 kg), 1,102 m3 de arena y 1,03 h de peón (mapeado a ayudante UOCRA). Conversión de unidad t->bolsa; el resto sin cambios",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T22:41:26.649Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-07-21T22:07:55.939Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.2.0"
+}

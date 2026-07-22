@@ -1,0 +1,1148 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "items": [
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Mano de obra",
+          "CCT 76/75"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-07-21T21:42:32.251Z",
+      "id": "mo-ar-ayudante-cct-76-75",
+      "kind": "labor",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "uocra",
+          "sourceCode": "AYUDANTE",
+          "value": 4948
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "uocra",
+          "sourceCode": "AYUDANTE",
+          "value": 5517
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "uocra",
+          "sourceCode": "AYUDANTE",
+          "value": 9170
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "uocra",
+          "sourceCode": "AYUDANTE",
+          "value": 9895
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2020-02",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2020-02",
+          "value": 10661.95
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2020-02",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2020-02",
+          "value": 11888.03
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2020-02",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2020-02",
+          "value": 19759.52
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2020-02",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2020-02",
+          "value": 21321.75
+        }
+      ],
+      "sources": [
+        {
+          "code": "AYUDANTE",
+          "edition": "2026-07",
+          "matchedBy": "seed",
+          "source": "uocra"
+        }
+      ],
+      "summary": "Ayudante (CCT 76/75)",
+      "text": "Categoría 'Ayudante' del CCT 76/75 de la construcción. Valor del jornal horario básico vigente desde 2026-07-01, por zona salarial. No incluye cargas sociales ni sumas no remunerativas. Costo empresa: el ítem incluye además un precio 'curated' de costo empresa por hora, igual al jornal por el coeficiente de cargas sociales 2.1548 (CAMARCO — Cámara Argentina de la Construcción, incidencia vigente 2020-02). Ver data/curation/ar/cargas-sociales.json para el desglose y sus límites.",
+      "unit": "h",
+      "updatedAt": "2026-07-22T00:48:04.478Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-07-21T21:43:02.614Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Mano de obra",
+          "CCT 76/75"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-07-21T21:42:32.251Z",
+      "id": "mo-ar-medio-oficial-cct-76-75",
+      "kind": "labor",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "uocra",
+          "sourceCode": "MEDIO-OFICIAL",
+          "value": 5375
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "uocra",
+          "sourceCode": "MEDIO-OFICIAL",
+          "value": 5958
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "uocra",
+          "sourceCode": "MEDIO-OFICIAL",
+          "value": 9444
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "uocra",
+          "sourceCode": "MEDIO-OFICIAL",
+          "value": 10750
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2020-02",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2020-02",
+          "value": 11582.05
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2020-02",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2020-02",
+          "value": 12838.3
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2020-02",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2020-02",
+          "value": 20349.93
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2020-02",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2020-02",
+          "value": 23164.1
+        }
+      ],
+      "sources": [
+        {
+          "code": "MEDIO-OFICIAL",
+          "edition": "2026-07",
+          "matchedBy": "seed",
+          "source": "uocra"
+        }
+      ],
+      "summary": "Medio oficial (CCT 76/75)",
+      "text": "Categoría 'Medio oficial' del CCT 76/75 de la construcción. Valor del jornal horario básico vigente desde 2026-07-01, por zona salarial. No incluye cargas sociales ni sumas no remunerativas. Costo empresa: el ítem incluye además un precio 'curated' de costo empresa por hora, igual al jornal por el coeficiente de cargas sociales 2.1548 (CAMARCO — Cámara Argentina de la Construcción, incidencia vigente 2020-02). Ver data/curation/ar/cargas-sociales.json para el desglose y sus límites.",
+      "unit": "h",
+      "updatedAt": "2026-07-22T00:48:04.478Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-07-21T21:43:02.614Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Mano de obra",
+          "CCT 76/75"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-07-21T21:42:32.251Z",
+      "id": "mo-ar-oficial-cct-76-75",
+      "kind": "labor",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "uocra",
+          "sourceCode": "OFICIAL",
+          "value": 5817
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "uocra",
+          "sourceCode": "OFICIAL",
+          "value": 6460
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "uocra",
+          "sourceCode": "OFICIAL",
+          "value": 9787
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "uocra",
+          "sourceCode": "OFICIAL",
+          "value": 11633
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2020-02",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2020-02",
+          "value": 12534.47
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2020-02",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2020-02",
+          "value": 13920.01
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2020-02",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2020-02",
+          "value": 21089.03
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2020-02",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2020-02",
+          "value": 25066.79
+        }
+      ],
+      "sources": [
+        {
+          "code": "OFICIAL",
+          "edition": "2026-07",
+          "matchedBy": "seed",
+          "source": "uocra"
+        }
+      ],
+      "summary": "Oficial (CCT 76/75)",
+      "text": "Categoría 'Oficial' del CCT 76/75 de la construcción. Valor del jornal horario básico vigente desde 2026-07-01, por zona salarial. No incluye cargas sociales ni sumas no remunerativas. Costo empresa: el ítem incluye además un precio 'curated' de costo empresa por hora, igual al jornal por el coeficiente de cargas sociales 2.1548 (CAMARCO — Cámara Argentina de la Construcción, incidencia vigente 2020-02). Ver data/curation/ar/cargas-sociales.json para el desglose y sus límites.",
+      "unit": "h",
+      "updatedAt": "2026-07-22T00:48:04.478Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-07-21T21:43:02.614Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Mano de obra",
+          "CCT 76/75"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-07-21T21:42:32.251Z",
+      "id": "mo-ar-oficial-especializado-cct-76-75",
+      "kind": "labor",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "uocra",
+          "sourceCode": "OFICIAL-ESPECIALIZAD",
+          "value": 6800
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "uocra",
+          "sourceCode": "OFICIAL-ESPECIALIZAD",
+          "value": 7548
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "uocra",
+          "sourceCode": "OFICIAL-ESPECIALIZAD",
+          "value": 10439
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "uocra",
+          "sourceCode": "OFICIAL-ESPECIALIZAD",
+          "value": 13599
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2020-02",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2020-02",
+          "value": 14652.64
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2020-02",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2020-02",
+          "value": 16264.43
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2020-02",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2020-02",
+          "value": 22493.96
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2020-02",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2020-02",
+          "value": 29303.13
+        }
+      ],
+      "sources": [
+        {
+          "code": "OFICIAL-ESPECIALIZAD",
+          "edition": "2026-07",
+          "matchedBy": "seed",
+          "source": "uocra"
+        }
+      ],
+      "summary": "Oficial especializado (CCT 76/75)",
+      "text": "Categoría 'Oficial especializado' del CCT 76/75 de la construcción. Valor del jornal horario básico vigente desde 2026-07-01, por zona salarial. No incluye cargas sociales ni sumas no remunerativas. Costo empresa: el ítem incluye además un precio 'curated' de costo empresa por hora, igual al jornal por el coeficiente de cargas sociales 2.1548 (CAMARCO — Cámara Argentina de la Construcción, incidencia vigente 2020-02). Ver data/curation/ar/cargas-sociales.json para el desglose y sus límites.",
+      "unit": "h",
+      "updatedAt": "2026-07-22T00:48:04.478Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-07-21T21:43:02.614Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Mano de obra",
+          "CCT 76/75"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-07-21T21:42:32.251Z",
+      "id": "mo-ar-sereno-cct-76-75",
+      "kind": "labor",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "uocra",
+          "sourceCode": "SERENO",
+          "value": 898817
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "uocra",
+          "sourceCode": "SERENO",
+          "value": 1001322
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "uocra",
+          "sourceCode": "SERENO",
+          "value": 1502627
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "uocra",
+          "sourceCode": "SERENO",
+          "value": 1797634
+        }
+      ],
+      "sources": [
+        {
+          "code": "SERENO",
+          "edition": "2026-07",
+          "matchedBy": "seed",
+          "source": "uocra"
+        }
+      ],
+      "summary": "Sereno (CCT 76/75)",
+      "text": "Categoría 'Sereno' del CCT 76/75 de la construcción. Valor del sueldo mensual básico vigente desde 2026-07-01, por zona salarial. No incluye cargas sociales ni sumas no remunerativas.",
+      "unit": "mes",
+      "updatedAt": "2026-07-21T21:42:32.251Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-07-21T21:43:02.614Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Áridos",
+          "Arena"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-07-21T22:07:05.612Z",
+      "id": "mt-ar-arena-fina-a-granel",
+      "kind": "material",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-arena-fina-a-granel",
+          "value": 44444
+        }
+      ],
+      "sources": [
+        {
+          "code": "mt-ar-arena-fina-a-granel",
+          "edition": "2026-07",
+          "matchedBy": "manual",
+          "source": "cerp",
+          "url": "https://redmateriales.com.ar/precios/arena"
+        }
+      ],
+      "summary": "Arena fina a granel",
+      "tags": [
+        "arena",
+        "fina",
+        "arido"
+      ],
+      "text": "Arena fina para albañilería, comprada a granel. Unidad = metro cúbico. Precio promedio de mercado relevado de Red Materiales (agregador de corralones) el 2026-07-21. Promedio de mercado por m³ a granel (rango $24.500–$57.300). Precio sin flete; el flete de áridos es significativo y varía por distancia. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T22:37:31.559Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-07-21T22:07:55.939Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Aglomerantes",
+          "Cal"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-07-21T22:07:05.635Z",
+      "id": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
+      "kind": "material",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
+          "value": 7699
+        }
+      ],
+      "sources": [
+        {
+          "code": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
+          "edition": "2026-07",
+          "matchedBy": "manual",
+          "source": "cerp",
+          "url": "https://redmateriales.com.ar/precios/cal"
+        }
+      ],
+      "summary": "Cal hidratada en bolsa de 25 kg",
+      "tags": [
+        "cal",
+        "hidratada"
+      ],
+      "text": "Cal hidratada para construcción (IRAM 1626), presentación en bolsa de 25 kg. Unidad = una bolsa. Precio promedio de mercado relevado de Red Materiales (agregador de corralones) el 2026-07-21. Promedio marca Loma Negra, bolsa 25 kg (rango $6.100–$9.000). Precio sin flete. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T22:37:31.564Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-07-21T22:07:55.939Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Aglomerantes",
+          "Cemento"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-07-21T22:07:05.635Z",
+      "id": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+      "kind": "material",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "value": 11850
+        }
+      ],
+      "sources": [
+        {
+          "code": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "edition": "2026-07",
+          "matchedBy": "manual",
+          "source": "cerp",
+          "url": "https://redmateriales.com.ar/precios/cemento"
+        }
+      ],
+      "summary": "Cemento portland compuesto CPC40 en bolsa de 50 kg",
+      "tags": [
+        "cemento",
+        "cpc40",
+        "portland"
+      ],
+      "text": "Cemento portland compuesto CPC40 (IRAM 50000), presentación en bolsa de 50 kg. Unidad = una bolsa. Precio promedio de mercado relevado de Red Materiales (agregador de corralones) el 2026-07-21. Promedio de las dos marcas listadas en presentación de 50 kg (Holcim $9.800 y Avellaneda $13.900). Loma Negra solo figura en 25 kg. Precio sin flete. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T22:37:31.564Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-07-21T22:07:55.939Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Acero",
+          "Barras nervuradas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-07-21T22:07:05.635Z",
+      "id": "mt-ar-hierro-nervurado-adn-420-diametro-10-mm-en-barra-de-12-m",
+      "kind": "material",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-hierro-nervurado-adn-420-diametro-10-mm-en-barra-de-12-m",
+          "value": 16900
+        }
+      ],
+      "sources": [
+        {
+          "code": "mt-ar-hierro-nervurado-adn-420-diametro-10-mm-en-barra-de-12-m",
+          "edition": "2026-07",
+          "matchedBy": "manual",
+          "source": "cerp",
+          "url": "https://redmateriales.com.ar/precios/hierro"
+        }
+      ],
+      "summary": "Hierro nervurado ADN 420 diametro 10 mm en barra de 12 m",
+      "tags": [
+        "hierro",
+        "acero",
+        "adn420",
+        "nervurado",
+        "10mm"
+      ],
+      "text": "Barra de acero nervurado ADN 420 (IRAM-IAS U 500-528) de 10 mm de diámetro, largo 12 m. Unidad = una barra. Precio precio mínimo (\"desde\") relevado de Red Materiales (agregador de corralones) el 2026-07-21. Precio 'desde' marca Acindar, barra de 12 m. Precio sin flete. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T22:37:31.565Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-07-22T00:52:12.494Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Acero",
+          "Barras nervuradas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-07-21T22:07:05.635Z",
+      "id": "mt-ar-hierro-nervurado-adn-420-diametro-12-mm-en-barra-de-12-m",
+      "kind": "material",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-hierro-nervurado-adn-420-diametro-12-mm-en-barra-de-12-m",
+          "value": 23800
+        }
+      ],
+      "sources": [
+        {
+          "code": "mt-ar-hierro-nervurado-adn-420-diametro-12-mm-en-barra-de-12-m",
+          "edition": "2026-07",
+          "matchedBy": "manual",
+          "source": "cerp",
+          "url": "https://redmateriales.com.ar/precios/hierro"
+        }
+      ],
+      "summary": "Hierro nervurado ADN 420 diametro 12 mm en barra de 12 m",
+      "tags": [
+        "hierro",
+        "acero",
+        "adn420",
+        "nervurado",
+        "12mm"
+      ],
+      "text": "Barra de acero nervurado ADN 420 (IRAM-IAS U 500-528) de 12 mm de diámetro, largo 12 m. Unidad = una barra. Precio precio mínimo (\"desde\") relevado de Red Materiales (agregador de corralones) el 2026-07-21. Precio 'desde' marca Acindar, barra de 12 m. Precio sin flete. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T22:37:31.565Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-07-22T00:52:12.494Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Acero",
+          "Barras nervuradas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-07-21T22:07:05.636Z",
+      "id": "mt-ar-hierro-nervurado-adn-420-diametro-6-mm-en-barra-de-12-m",
+      "kind": "material",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-hierro-nervurado-adn-420-diametro-6-mm-en-barra-de-12-m",
+          "value": 6800
+        }
+      ],
+      "sources": [
+        {
+          "code": "mt-ar-hierro-nervurado-adn-420-diametro-6-mm-en-barra-de-12-m",
+          "edition": "2026-07",
+          "matchedBy": "manual",
+          "source": "cerp",
+          "url": "https://redmateriales.com.ar/precios/hierro"
+        }
+      ],
+      "summary": "Hierro nervurado ADN 420 diametro 6 mm en barra de 12 m",
+      "tags": [
+        "hierro",
+        "acero",
+        "adn420",
+        "nervurado",
+        "6mm"
+      ],
+      "text": "Barra de acero nervurado ADN 420 (IRAM-IAS U 500-528) de 6 mm de diámetro, largo 12 m. Unidad = una barra. Precio precio mínimo (\"desde\") relevado de Red Materiales (agregador de corralones) el 2026-07-21. Precio 'desde' marca Acindar, barra de 12 m. Precio sin flete. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T22:37:31.565Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-07-22T00:52:12.494Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Acero",
+          "Barras nervuradas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-07-21T22:07:05.636Z",
+      "id": "mt-ar-hierro-nervurado-adn-420-diametro-8-mm-en-barra-de-12-m",
+      "kind": "material",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-hierro-nervurado-adn-420-diametro-8-mm-en-barra-de-12-m",
+          "value": 11599
+        }
+      ],
+      "sources": [
+        {
+          "code": "mt-ar-hierro-nervurado-adn-420-diametro-8-mm-en-barra-de-12-m",
+          "edition": "2026-07",
+          "matchedBy": "manual",
+          "source": "cerp",
+          "url": "https://redmateriales.com.ar/precios/hierro"
+        }
+      ],
+      "summary": "Hierro nervurado ADN 420 diametro 8 mm en barra de 12 m",
+      "tags": [
+        "hierro",
+        "acero",
+        "adn420",
+        "nervurado",
+        "8mm"
+      ],
+      "text": "Barra de acero nervurado ADN 420 (IRAM-IAS U 500-528) de 8 mm de diámetro, largo 12 m. Unidad = una barra. Precio precio mínimo (\"desde\") relevado de Red Materiales (agregador de corralones) el 2026-07-21. Precio 'desde' marca Acindar, barra de 12 m. Precio sin flete. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T22:37:31.565Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-07-21T22:07:55.939Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Albañilería",
+          "Ladrillos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-07-22T00:58:09.683Z",
+      "id": "mt-ar-ladrillo-comun-de-tierra-cocida-25x12x5-cm",
+      "kind": "material",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-ladrillo-comun-de-tierra-cocida-25x12x5-cm",
+          "value": 273
+        }
+      ],
+      "sources": [
+        {
+          "code": "mt-ar-ladrillo-comun-de-tierra-cocida-25x12x5-cm",
+          "edition": "2026-07",
+          "matchedBy": "manual",
+          "source": "cerp",
+          "url": "https://redmateriales.com.ar/precios/ladrillos"
+        }
+      ],
+      "summary": "Ladrillo comun de tierra cocida 25x12x5 cm",
+      "tags": [
+        "ladrillo",
+        "comun",
+        "macizo",
+        "tierra cocida"
+      ],
+      "text": "Ladrillo macizo de tierra cocida (ladrillo comun) de 25x12x5 cm, para mamposteria de elevacion. Medida nominal; la produccion artesanal argentina tiene tolerancias de +/- 1 cm segun region y horno. Unidad = un ladrillo. Precio promedio de mercado relevado de Red Materiales (agregador de corralones) el 2026-07-21. Promedio publicado para ladrillo comun de tierra cocida (rango $220 a $330). La variante declarada como 1ra calidad promedia $269 en un rango mas angosto ($255 a $280). Precio por unidad, sin flete. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "unit": "u",
+      "updatedAt": "2026-07-22T00:58:09.683Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-07-22T00:58:53.003Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Mampuestos",
+          "Ladrillo hueco"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-07-21T22:07:05.636Z",
+      "id": "mt-ar-ladrillo-hueco-ceramico-12x18x33-cm",
+      "kind": "material",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-ladrillo-hueco-ceramico-12x18x33-cm",
+          "value": 836
+        }
+      ],
+      "sources": [
+        {
+          "code": "mt-ar-ladrillo-hueco-ceramico-12x18x33-cm",
+          "edition": "2026-07",
+          "matchedBy": "manual",
+          "source": "cerp",
+          "url": "https://www.propdata.com.ar/costos/materiales/ladrillo-hueco-12"
+        }
+      ],
+      "summary": "Ladrillo hueco ceramico 12x18x33 cm",
+      "tags": [
+        "ladrillo",
+        "hueco",
+        "ceramico",
+        "12x18x33"
+      ],
+      "text": "Ladrillo hueco cerámico de 12x18x33 cm (9 tubos), para mampostería no portante. Unidad = una pieza (~4,0 kg). Precio mediana de mercado relevado de PropData (índice de costos de materiales) el 2026-07-21. Precio mediano de mercado por pieza, semana del 13-jul-2026 (+0,8% s/semana anterior). Precio sin flete. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "unit": "u",
+      "updatedAt": "2026-07-21T22:37:31.565Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-07-21T22:07:55.939Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Áridos",
+          "Piedra"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-07-21T22:07:05.638Z",
+      "id": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+      "kind": "material",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "value": 83744
+        }
+      ],
+      "sources": [
+        {
+          "code": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "edition": "2026-07",
+          "matchedBy": "manual",
+          "source": "cerp",
+          "url": "https://redmateriales.com.ar/precios/arena"
+        }
+      ],
+      "summary": "Piedra partida 6 a 20 mm a granel",
+      "tags": [
+        "piedra",
+        "partida",
+        "6-20",
+        "arido",
+        "hormigon"
+      ],
+      "text": "Piedra partida granítica 6/20 (canto 6 a 20 mm) para hormigones, comprada a granel. Unidad = metro cúbico. Precio promedio de mercado relevado de Red Materiales (agregador de corralones) el 2026-07-21. Promedio de mercado por m³ a granel (rango $64.000–$112.000). Precio sin flete. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "unit": "m3",
+      "updatedAt": "2026-07-21T22:37:31.565Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-07-21T22:07:55.939Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.2.0"
+}
