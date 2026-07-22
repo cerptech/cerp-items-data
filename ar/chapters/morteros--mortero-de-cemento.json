@@ -36,7 +36,60 @@
       "createdAt": "2026-07-21T22:07:05.639Z",
       "id": "wi-ar-mortero-de-cemento-1-6-preparado-en-obra",
       "kind": "work_item",
-      "prices": [],
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 121105.1
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 122367.96
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 130475.59
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 132084.69
+        }
+      ],
       "sources": [
         {
           "code": "wi-ar-mortero-de-cemento-1-6-preparado-en-obra",
@@ -59,7 +112,7 @@
       ],
       "text": "Mortero de cemento portland y arena, dosaje 1:6 en volumen, preparado en obra para asiento de mampostería. Unidad = metro cúbico de mortero. Rendimientos adaptados de BCCA wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n: Rendimientos tomados de la partida BCCA de mortero M5 (1:6): 0,258 t de cemento (=5,16 bolsas de 50 kg), 1,102 m3 de arena y 1,03 h de peón (mapeado a ayudante UOCRA). Conversión de unidad t->bolsa; el resto sin cambios",
       "unit": "m3",
-      "updatedAt": "2026-07-21T22:41:26.649Z",
+      "updatedAt": "2026-07-22T01:35:30.009Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-07-21T22:07:55.939Z",

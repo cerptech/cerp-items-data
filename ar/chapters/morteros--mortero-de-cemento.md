@@ -7,4 +7,4 @@ Banco de ítems de construcción CERP v0.2.0 — 1 ítems. Datos estructurados e
 
 | id | resumen | ud | precio ARS | fecha | descomposición (ref × cantidad) |
 |----|---------|----|-----------:|-------|---------------------------------|
-| `wi-ar-mortero-de-cemento-1-6-preparado-en-obra` | Mortero de cemento 1:6 preparado en obra | m3 |  |  | mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg ×5.16<br>mt-ar-arena-fina-a-granel ×1.102<br>mo-ar-ayudante-cct-76-75 ×1.03 |
+| `wi-ar-mortero-de-cemento-1-6-preparado-en-obra` | Mortero de cemento 1:6 preparado en obra | m3 | 121105.1 | 2026-07 | mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg ×5.16<br>mt-ar-arena-fina-a-granel ×1.102<br>mo-ar-ayudante-cct-76-75 ×1.03 |
