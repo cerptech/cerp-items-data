@@ -1,0 +1,4354 @@
+{
+  "key": "01-ONU",
+  "rows": [
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acero-en-barras-corrugadas-b400s-en-ciment",
+      "m": 4,
+      "p": 1.35,
+      "s": "ACERO EN BARRAS CORRUGADAS B400S EN CIMENT.",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acero-en-barras-corrugadas-b500s-en-ciment",
+      "m": 4,
+      "p": 1.52,
+      "s": "ACERO EN BARRAS CORRUGADAS B500S EN CIMENT.",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acero-en-barras-corrugadas-tipo-b400s",
+      "m": 4,
+      "p": 1.35,
+      "s": "ACERO EN BARRAS CORRUGADAS TIPO B400S",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acero-en-barras-corrugadas-tipo-b500s",
+      "m": 4,
+      "p": 1.52,
+      "s": "ACERO EN BARRAS CORRUGADAS TIPO B500S",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acero-estructura-espacial-acero-laminado-s275jr-perfil-tubul",
+      "m": 6,
+      "p": 4.39,
+      "s": "ACERO ESTRUCTURA ESPACIAL ACERO LAMINADO S275JR PERFIL TUBULAR",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acero-estructura-espacial-s275jr-perf-laminados",
+      "m": 6,
+      "p": 4.39,
+      "s": "ACERO ESTRUCTURA ESPACIAL S275JR PERF. LAMINADOS",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-acero-me-b500s-en-malla-electrosoldada",
+      "m": 3,
+      "p": 1.61,
+      "s": "ACERO ME B500S EN MALLA ELECTROSOLDADA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-acero-me-b500s-en-mallas-electrosoldadas",
+      "m": 3,
+      "p": 1.61,
+      "s": "ACERO ME B500S EN MALLAS ELECTROSOLDADAS",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-acero-me-b500t-en-malla-electrosoldada",
+      "m": 3,
+      "p": 1.61,
+      "s": "ACERO ME B500T EN MALLA ELECTROSOLDADA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-acero-me-b500t-en-mallas-electrosoldadas",
+      "m": 3,
+      "p": 1.61,
+      "s": "ACERO ME B500T EN MALLAS ELECTROSOLDADAS",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acero-perfiles-lam-en-cal-en-est-triang-atornillada",
+      "m": 5,
+      "p": 2.45,
+      "s": "ACERO PERFILES LAM. EN CAL. EN EST. TRIANG. ATORNILLADA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acero-perfiles-lam-en-cal-en-est-triang-soldada",
+      "m": 5,
+      "p": 2.51,
+      "s": "ACERO PERFILES LAM. EN CAL. EN EST. TRIANG. SOLDADA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acero-perfiles-lam-en-cal-en-soportes-cajon",
+      "m": 5,
+      "p": 2.17,
+      "s": "ACERO PERFILES LAM. EN CAL. EN SOPORTES CAJÓN",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acero-perfiles-lam-en-cal-en-soportes-empresillados",
+      "m": 5,
+      "p": 2.17,
+      "s": "ACERO PERFILES LAM. EN CAL. EN SOPORTES EMPRESILLADOS",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acero-perfiles-lam-en-cal-en-soportes-simples",
+      "m": 5,
+      "p": 2.11,
+      "s": "ACERO PERFILES LAM. EN CAL. EN SOPORTES SIMPLES",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acero-perfiles-lam-en-cal-en-vigas-union-atornillada",
+      "m": 5,
+      "p": 2.18,
+      "s": "ACERO PERFILES LAM. EN CAL. EN VIGAS UNIÓN ATORNILLADA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acero-perfiles-lam-en-cal-en-vigas-union-soldada",
+      "m": 5,
+      "p": 2.17,
+      "s": "ACERO PERFILES LAM. EN CAL. EN VIGAS UNIÓN SOLDADA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acero-perfiles-lam-en-cal-en-viguetas-apoyadas",
+      "m": 5,
+      "p": 1.83,
+      "s": "ACERO PERFILES LAM. EN CAL. EN VIGUETAS APOYADAS",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acero-perfiles-lam-en-cal-en-viguetas-embrochaladas",
+      "m": 5,
+      "p": 2.12,
+      "s": "ACERO PERFILES LAM. EN CAL. EN VIGUETAS EMBROCHALADAS",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acero-perfiles-laminados-en-frio-tipo-s275jr",
+      "m": 4,
+      "p": 3.23,
+      "s": "ACERO PERFILES LAMINADOS EN FRIO TIPO S275JR",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acero-s275jr-en-placa-de-anclaje-a-cimentacion",
+      "m": 5,
+      "p": 3.43,
+      "s": "ACERO S275JR EN PLACA DE ANCLAJE A CIMENTACIÓN",
+      "u": "kg"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-acero-s275jr-en-placa-de-anclaje-a-muro-hormigon-o-fabrica",
+      "m": 5,
+      "p": 2.73,
+      "s": "ACERO S275JR EN PLACA DE ANCLAJE A MURO HORMIGÓN O FÁBRICA",
+      "u": "kg"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-alero-con-lima-de-fibrocemento",
+      "m": 2,
+      "p": 29.1,
+      "s": "ALERO CON LIMA DE FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-alero-de-tejas-curvas-de-ceramica-primera-calidad",
+      "m": 3,
+      "p": 28.56,
+      "s": "ALERO DE TEJAS CURVAS DE CERÁMICA PRIMERA CALIDAD",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-alero-de-tejas-de-mortero-de-cemento",
+      "m": 3,
+      "p": 20.09,
+      "s": "ALERO DE TEJAS DE MORTERO DE CEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-alero-de-tejas-planas-ceramicas",
+      "m": 3,
+      "p": 15.62,
+      "s": "ALERO DE TEJAS PLANAS CERÁMICAS",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-anclaje-inyeccion-permanente-hasta-45-t",
+      "m": 11,
+      "p": 187.48,
+      "s": "ANCLAJE INYECCIÓN PERMANENTE HASTA 45 t",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-arriostramiento-pantallas-entramado-met-hasta-200-kn",
+      "m": 3,
+      "p": 24,
+      "s": "ARRIOSTRAMIENTO PANTALLAS ENTRAMADO MET. HASTA 200 kN",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-borde-libre-de-faldon-con-tabiquillos-cinc",
+      "m": 6,
+      "p": 25.68,
+      "s": "BORDE LIBRE DE FALDÓN CON TABIQUILLOS CINC",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-borde-libre-de-tejas-curvas-ceramicas-primera-calidad",
+      "m": 3,
+      "p": 20.62,
+      "s": "BORDE LIBRE DE TEJAS CURVAS CERÁMICAS PRIMERA CALIDAD",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-borde-libre-de-tejas-de-mortero-de-cemento",
+      "m": 3,
+      "p": 31.29,
+      "s": "BORDE LIBRE DE TEJAS DE MORTERO DE CEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-borde-libre-en-faldon-az-trans-invertida",
+      "m": 16,
+      "p": 50.43,
+      "s": "BORDE LIBRE EN FALDÓN AZ. TRANS. INVERTIDA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-borde-libre-en-faldon-de-hormig-alig-con-plancha-de-cinc",
+      "m": 6,
+      "p": 25.68,
+      "s": "BORDE LIBRE EN FALDÓN DE HORMIG. ALIG. CON PLANCHA DE CINC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-borde-libre-en-faldon-de-hormigon-aligerado",
+      "m": 5,
+      "p": 13.86,
+      "s": "BORDE LIBRE EN FALDÓN DE HORMIGÓN ALIGERADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-borde-libre-en-faldon-sobre-hormigon-aligerado-cinc",
+      "m": 5,
+      "p": 30.99,
+      "s": "BORDE LIBRE EN FALDÓN SOBRE HORMIGÓN ALIGERADO CINC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-borde-libre-en-faldon-sobre-tabiquillos-cinc",
+      "m": 5,
+      "p": 55.81,
+      "s": "BORDE LIBRE EN FALDÓN SOBRE TABIQUILLOS CINC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-caballete-articulado-de-fibrocemento",
+      "m": 3,
+      "p": 17.1,
+      "s": "CABALLETE ARTICULADO DE FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-caballete-fijo-o-cambio-de-pendiente-de-fibrocemento",
+      "m": 3,
+      "p": 25.41,
+      "s": "CABALLETE FIJO O CAMBIO DE PENDIENTE DE FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-caballete-para-diente-de-sierra-en-fibrocemento",
+      "m": 3,
+      "p": 17.72,
+      "s": "CABALLETE PARA DIENTE DE SIERRA EN FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalon-ch-lisa-ac-galv-ac-poliester",
+      "m": 6,
+      "p": 65.63,
+      "s": "CANALÓN CH. LISA AC. GALV. AC. POLIÉSTER",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalon-chapa-de-cinc-en-faldon-de-pizarra",
+      "m": 4,
+      "p": 35.88,
+      "s": "CANALÓN CHAPA DE CINC EN FALDÓN DE PIZARRA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalon-chapa-lisa-acero-galvanizado",
+      "m": 5,
+      "p": 18.37,
+      "s": "CANALÓN CHAPA LISA ACERO GALVANIZADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalon-chapa-lisa-alum-en-faldon-chapa-conf",
+      "m": 6,
+      "p": 35.97,
+      "s": "CANALÓN CHAPA LISA ALUM. EN FALDÓN CHAPA CONF.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-canalon-de-cinc-en-faldon-de-tejas-planas-o-curvas",
+      "m": 4,
+      "p": 32.87,
+      "s": "CANALÓN DE CINC EN FALDÓN DE TEJAS PLANAS O CURVAS",
+      "u": "m"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-canalon-visto-de-fibrocemento",
+      "m": 4,
+      "p": 15.3,
+      "s": "CANALÓN VISTO DE FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-canalon-visto-de-pvc-rigido-de-150-mm-de-diam",
+      "m": 5,
+      "p": 21.18,
+      "s": "CANALÓN VISTO DE PVC RÍGIDO DE 150 mm DE DIÁM.",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-capa-de-hormigon-de-limpieza-10-cm-esp-medio",
+      "m": 3,
+      "p": 13.04,
+      "s": "CAPA DE HORMIGÓN DE LIMPIEZA 10 cm ESP. MEDIO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-capa-de-hormigon-de-limpieza-10-cm-resist-sulfatos",
+      "m": 2,
+      "p": 2.78,
+      "s": "CAPA DE HORMIGÓN DE LIMPIEZA 10 cm RESIST. SULFATOS",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cercha-madera-pino-tratada-de-7-a-12-m",
+      "m": 5,
+      "p": 1368.42,
+      "s": "CERCHA MADERA PINO TRATADA DE 7 A 12 m",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cercha-madera-pino-tratada-hasta-7-m",
+      "m": 5,
+      "p": 1227.03,
+      "s": "CERCHA MADERA PINO TRATADA HASTA 7 m",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-claraboya-fija-base-circular",
+      "m": 5,
+      "p": 398.13,
+      "s": "CLARABOYA FIJA, BASE CIRCULAR",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-claraboya-fija-base-cuadrada-forma-parabolica",
+      "m": 5,
+      "p": 204.68,
+      "s": "CLARABOYA FIJA, BASE CUADRADA, FORMA PARABÓLICA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-claraboya-fija-base-cuadrada-forma-piramidal",
+      "m": 5,
+      "p": 237.23,
+      "s": "CLARABOYA FIJA, BASE CUADRADA, FORMA PIRAMIDAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-claraboya-practicable-manual-base-circular-luz-1-50-m",
+      "m": 6,
+      "p": 675.48,
+      "s": "CLARABOYA PRACTICABLE MANUAL, BASE CIRCULAR, LUZ 1,50 m",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-claraboya-practicable-manual-base-cuadrada-piramidal",
+      "m": 6,
+      "p": 504.71,
+      "s": "CLARABOYA PRACTICABLE MANUAL, BASE CUADRADA PIRAMIDAL",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-claraboya-practicable-manual-base-cuadrada-semiesferica-1x1",
+      "m": 6,
+      "p": 393.15,
+      "s": "CLARABOYA PRACTICABLE MANUAL, BASE CUADRADA SEMIESFÉRICA 1X1 m",
+      "u": "u"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-columna-suelo-tratado-de-diam-1-m",
+      "m": 5,
+      "p": 340.89,
+      "s": "COLUMNA SUELO TRATADO DE DIÁM. 1 m",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-correa-madera-pino-tratada-15x20-cm",
+      "m": 4,
+      "p": 42.83,
+      "s": "CORREA MADERA PINO TRATADA 15x20 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cumbrera-a-limatesa-chapa-lisa-alum-en-faldon-chapa-conf",
+      "m": 6,
+      "p": 29.15,
+      "s": "CUMBRERA A LIMATESA CHAPA LISA ALUM. EN FALDÓN CHAPA CONF.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cumbrera-con-chapa-de-cinc-en-faldon-de-pizarra",
+      "m": 5,
+      "p": 32.08,
+      "s": "CUMBRERA CON CHAPA DE CINC EN FALDÓN DE PIZARRA",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-cumbrera-de-tejas-curvas-de-ceramica-primera-calidad",
+      "m": 3,
+      "p": 16.89,
+      "s": "CUMBRERA DE TEJAS CURVAS DE CERÁMICA PRIMERA CALIDAD",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-cumbrera-de-tejas-de-mortero-de-cemento",
+      "m": 3,
+      "p": 32.57,
+      "s": "CUMBRERA DE TEJAS DE MORTERO DE CEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cumbrera-o-limatesa-ch-lisa-ac-galv-acabado-poliester",
+      "m": 5,
+      "p": 26.87,
+      "s": "CUMBRERA O LIMATESA CH. LISA AC. GALV. ACABADO POLIÉSTER",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cumbrera-o-limatesa-chapa-lisa-ac-galv",
+      "m": 5,
+      "p": 14.08,
+      "s": "CUMBRERA O LIMATESA CHAPA LISA AC. GALV.",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-desencofrado-elem-horm-a-revestir-enc-con-madera",
+      "m": 2,
+      "p": 4,
+      "s": "DESENCOFRADO ELEM. HORM. A REVESTIR ENC. CON MADERA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-desencofrado-elem-horm-a-revestir-enc-con-paneles-metalicos",
+      "m": 1,
+      "p": 2.2,
+      "s": "DESENCOFRADO ELEM. HORM. A REVESTIR ENC. CON PANELES METÁLICOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-desencofrado-elem-horm-visto-enc-con-madera",
+      "m": 2,
+      "p": 5.56,
+      "s": "DESENCOFRADO ELEM. HORM. VISTO ENC. CON MADERA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-desencofrado-elem-horm-visto-enc-con-paneles-metalicos",
+      "m": 2,
+      "p": 4.46,
+      "s": "DESENCOFRADO ELEM. HORM. VISTO ENC. CON PANELES METÁLICOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-desencofrado-elem-horm-visto-enc-tubo-carton",
+      "m": 2,
+      "p": 4.46,
+      "s": "DESENCOFRADO ELEM. HORM. VISTO ENC. TUBO CARTÓN",
+      "u": "m2"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-enc-faldon-az-trans-invertida-con-cazoleta",
+      "m": 12,
+      "p": 46.87,
+      "s": "ENC. FALDÓN AZ. TRANS. INVERTIDA CON CAZOLETA",
+      "u": "u"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-enc-faldon-azotea-para-ajardinar-con-cazoleta",
+      "m": 9,
+      "p": 37.71,
+      "s": "ENC. FALDÓN AZOTEA PARA AJARDINAR CON CAZOLETA",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enc-faldon-chapa-conf-ac-galv-y-param-en-cumb-ac-poliest",
+      "m": 6,
+      "p": 25.51,
+      "s": "ENC. FALDÓN CHAPA CONF. AC. GALV. Y PARAM. EN CUMB. AC. POLIÉST.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enc-faldon-chapa-conf-ac-galv-y-param-en-cumbrera",
+      "m": 4,
+      "p": 17.76,
+      "s": "ENC. FALDÓN CHAPA CONF. AC. GALV. Y PARAM. EN CUMBRERA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enc-faldon-chapa-conf-ac-galv-y-param-lateral",
+      "m": 6,
+      "p": 25.51,
+      "s": "ENC. FALDÓN CHAPA CONF. AC. GALV. Y PARAM. LATERAL",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enc-faldon-chapa-conf-ac-galv-y-param-lateral-ac-poliest",
+      "m": 6,
+      "p": 25.51,
+      "s": "ENC. FALDÓN CHAPA CONF. AC. GALV. Y PARAM. LATERAL AC. POLIÉST.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enc-faldon-chapa-conf-aluminio-con-param-en-cumbrera",
+      "m": 7,
+      "p": 30.62,
+      "s": "ENC. FALDÓN CHAPA CONF. ALUMINIO CON PARAM. EN CUMBRERA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enc-faldon-chapa-conf-aluminio-con-param-lateral",
+      "m": 7,
+      "p": 30.62,
+      "s": "ENC. FALDÓN CHAPA CONF. ALUMINIO CON PARAM. LATERAL",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enc-faldon-con-cazoleta-refuerzo-lamina-de-pvc",
+      "m": 6,
+      "p": 17.5,
+      "s": "ENC. FALDÓN CON CAZOLETA, REFUERZO LÁMINA DE PVC",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enc-faldon-con-cazoleta-refuerzo-membrana-de-betun",
+      "m": 5,
+      "p": 10.13,
+      "s": "ENC. FALDÓN CON CAZOLETA, REFUERZO MEMBRANA DE BETÚN",
+      "u": "u"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-enc-faldon-con-paramento-az-trans-invertida-con-zabaleta",
+      "m": 10,
+      "p": 37.86,
+      "s": "ENC. FALDÓN CON PARAMENTO AZ. TRANS. INVERTIDA, CON ZABALETA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enc-faldon-fibrocemento-con-paramento-en-cumbrera",
+      "m": 5,
+      "p": 29.31,
+      "s": "ENC. FALDÓN FIBROCEMENTO CON PARAMENTO EN CUMBRERA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enc-faldon-fibrocemento-con-paramento-lateral",
+      "m": 5,
+      "p": 29.54,
+      "s": "ENC. FALDÓN FIBROCEMENTO CON PARAMENTO LATERAL",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enc-faldon-pizarra-con-param-en-cumbrera",
+      "m": 5,
+      "p": 27.72,
+      "s": "ENC. FALDÓN PIZARRA CON PARAM. EN CUMBRERA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enc-faldon-pizarra-con-param-lateral",
+      "m": 5,
+      "p": 49.32,
+      "s": "ENC. FALDÓN PIZARRA CON PARAM. LATERAL",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enc-faldon-s-horm-alig-con-paramento-con-zabaleta",
+      "m": 9,
+      "p": 23.61,
+      "s": "ENC. FALDÓN S/HORM. ALIG. CON PARAMENTO, CON ZABALETA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enc-faldon-s-horm-alig-con-paramento-refuerzo-lamina-pvc",
+      "m": 10,
+      "p": 25.12,
+      "s": "ENC. FALDÓN S/HORM. ALIG. CON PARAMENTO, REFUERZO LÁMINA PVC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enc-faldon-s-horm-alig-con-paramento-sup-pint-met-antirr",
+      "m": 6,
+      "p": 16.59,
+      "s": "ENC. FALDÓN S/HORM. ALIG. CON PARAMENTO, SUP. PINT. MET. ANTIRR.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enc-faldon-s-horm-alig-con-paramentos-membr-betun-aluminio",
+      "m": 5,
+      "p": 14.14,
+      "s": "ENC. FALDÓN S/HORM. ALIG. CON PARAMENTOS, MEMBR. BETÚN/ALUMINIO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enc-faldon-s-tabiquillos-con-paramento-con-zabaleta",
+      "m": 10,
+      "p": 38.2,
+      "s": "ENC. FALDÓN S/TABIQUILLOS CON PARAMENTO, CON ZABALETA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enc-faldon-sobre-tabiquillos-con-paramentos",
+      "m": 7,
+      "p": 29.35,
+      "s": "ENC. FALDÓN SOBRE TABIQUILLOS CON PARAMENTOS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-enc-faldon-tejas-planas-o-curvas-y-param-lateral-chapa-cinc",
+      "m": 5,
+      "p": 22.21,
+      "s": "ENC. FALDÓN TEJAS PLANAS O CURVAS Y PARAM. LATERAL CHAPA CINC",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-enc-faldon-tejas-planas-o-curvas-y-param-lateral-tejas",
+      "m": 3,
+      "p": 22.7,
+      "s": "ENC. FALDÓN TEJAS PLANAS O CURVAS Y PARAM. LATERAL TEJAS",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-encofrado-de-madera-de-pino-en-losas-hormigon-visto",
+      "m": 8,
+      "p": 31.29,
+      "s": "ENCOFRADO DE MADERA DE PINO EN LOSAS HORMIGÓN VISTO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-encofrado-de-madera-de-pino-en-losas-para-revestir",
+      "m": 8,
+      "p": 21.42,
+      "s": "ENCOFRADO DE MADERA DE PINO EN LOSAS PARA REVESTIR",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-encofrado-de-madera-de-pino-en-muros-para-revestir",
+      "m": 7,
+      "p": 15.65,
+      "s": "ENCOFRADO DE MADERA DE PINO EN MUROS PARA REVESTIR",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-encofrado-de-madera-de-pino-en-pilares-para-revestir",
+      "m": 7,
+      "p": 16.16,
+      "s": "ENCOFRADO DE MADERA DE PINO EN PILARES PARA REVESTIR",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-encofrado-de-madera-de-pino-en-vigas-para-revestir",
+      "m": 8,
+      "p": 16.23,
+      "s": "ENCOFRADO DE MADERA DE PINO EN VIGAS PARA REVESTIR",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-encofrado-de-madera-en-muros-para-hormigon-visto",
+      "m": 7,
+      "p": 31.94,
+      "s": "ENCOFRADO DE MADERA EN MUROS PARA HORMIGÓN VISTO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-encofrado-de-madera-en-pilares-para-hormigon-visto",
+      "m": 7,
+      "p": 24.33,
+      "s": "ENCOFRADO DE MADERA EN PILARES PARA HORMIGÓN VISTO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-encofrado-de-madera-en-vigas-para-hormigon-visto",
+      "m": 7,
+      "p": 26.59,
+      "s": "ENCOFRADO DE MADERA EN VIGAS PARA HORMIGÓN VISTO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-encofrado-de-madera-en-zunchos-zapatas-y-encepados",
+      "m": 6,
+      "p": 20.01,
+      "s": "ENCOFRADO DE MADERA EN ZUNCHOS, ZAPATAS Y ENCEPADOS",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-encofrado-mad-aglom-trat-1-c-en-muro-de-contencion",
+      "m": 7,
+      "p": 44.64,
+      "s": "ENCOFRADO MAD. AGLOM. TRAT. 1 C. EN MURO DE CONTENCIÓN",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-encofrado-mad-aglom-trat-fenol-2-c-en-muro-de-contencion",
+      "m": 7,
+      "p": 52.04,
+      "s": "ENCOFRADO MAD. AGLOM. TRAT. FENOL. 2 C. EN MURO DE CONTENCIÓN",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-encofrado-metalico-1-c-en-muro-de-contencion",
+      "m": 7,
+      "p": 64.53,
+      "s": "ENCOFRADO METÁLICO 1 C. EN MURO DE CONTENCIÓN",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-encofrado-metalico-2-c-en-muro-de-contencion",
+      "m": 7,
+      "p": 87.29,
+      "s": "ENCOFRADO METÁLICO 2 C. EN MURO DE CONTENCIÓN",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-encofrado-metalico-en-muros-para-revestir",
+      "m": 7,
+      "p": 24.75,
+      "s": "ENCOFRADO METÁLICO EN MUROS PARA REVESTIR",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-encofrado-metalico-en-pilares-circulares",
+      "m": 5,
+      "p": 11.69,
+      "s": "ENCOFRADO METÁLICO EN PILARES CIRCULARES",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-encofrado-metalico-en-pilares-para-revestir",
+      "m": 5,
+      "p": 12.57,
+      "s": "ENCOFRADO METÁLICO EN PILARES PARA REVESTIR",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-encofrado-metalico-en-zunchos-zapatas-y-encepados",
+      "m": 7,
+      "p": 18.13,
+      "s": "ENCOFRADO METÁLICO EN ZUNCHOS, ZAPATAS Y ENCEPADOS",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-encofrado-metalico-revestimiento-tablero-fenolico",
+      "m": 7,
+      "p": 37.76,
+      "s": "ENCOFRADO METÁLICO REVESTIMIENTO TABLERO FENÓLICO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-encofrado-molde-circular-carton-pilares-diam-30-cm",
+      "m": 4,
+      "p": 24.49,
+      "s": "ENCOFRADO MOLDE CIRCULAR CARTÓN PILARES DIÁM. 30 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-encofrado-molde-circular-carton-pilares-diam-35-cm",
+      "m": 4,
+      "p": 27.31,
+      "s": "ENCOFRADO MOLDE CIRCULAR CARTÓN PILARES DIÁM. 35 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-encofrado-molde-circular-carton-pilares-diam-40-cm",
+      "m": 4,
+      "p": 30.01,
+      "s": "ENCOFRADO MOLDE CIRCULAR CARTÓN PILARES DIÁM. 40 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-encofrado-perd-zunchos-zapatas-y-encep-c-tabla-madera",
+      "m": 4,
+      "p": 29.24,
+      "s": "ENCOFRADO PERD. ZUNCHOS ZAPATAS Y ENCEP. C/TABLA MADERA",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-encofrado-perd-zunchos-zapatas-y-encep-tabicon-l-gafa",
+      "m": 4,
+      "p": 18.79,
+      "s": "ENCOFRADO PERD. ZUNCHOS, ZAPATAS Y ENCEP. TABICÓN L. GAFA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-encofrado-perd-zunchos-zapatas-y-encep-tabicon-l-h-d",
+      "m": 4,
+      "p": 23.48,
+      "s": "ENCOFRADO PERD. ZUNCHOS, ZAPATAS Y ENCEP. TABICÓN L. H.D",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-encuentro-faldon-para-ajardinar-con-paramentos",
+      "m": 7,
+      "p": 36.45,
+      "s": "ENCUENTRO FALDÓN PARA AJARDINAR CON PARAMENTOS",
+      "u": "m"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-enlace-forj-losa-a-muro-pantalla-c-resina-inyeccion",
+      "m": 5,
+      "p": 7.03,
+      "s": "ENLACE FORJ/LOSA A MURO PANTALLA C/RESINA INYECCIÓN",
+      "u": "u"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-entramado-formado-por-reticula-de-pletina-de-25x2-mm",
+      "m": 6,
+      "p": 109.26,
+      "s": "ENTRAMADO FORMADO POR RETÍCULA DE PLETINA DE 25x2 mm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-entramado-formado-por-reticula-de-pletina-de-50x8-mm",
+      "m": 6,
+      "p": 163.91,
+      "s": "ENTRAMADO FORMADO POR RETÍCULA DE PLETINA DE 50x8 mm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-entrevigado-en-viguetas-de-acero-con-bov-cer-ha-25",
+      "m": 11,
+      "p": 31.41,
+      "s": "ENTREVIGADO EN VIGUETAS DE ACERO CON BOV. CER. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-entrevigado-en-viguetas-de-acero-con-bov-cer-ha-30",
+      "m": 11,
+      "p": 31.92,
+      "s": "ENTREVIGADO EN VIGUETAS DE ACERO CON BOV. CER. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-entrevigado-en-viguetas-de-acero-con-bov-cer-ha-35",
+      "m": 11,
+      "p": 32.29,
+      "s": "ENTREVIGADO EN VIGUETAS DE ACERO CON BOV. CER. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-entrevigado-en-viguetas-de-acero-con-bov-hor-ha-25",
+      "m": 11,
+      "p": 24.4,
+      "s": "ENTREVIGADO EN VIGUETAS DE ACERO CON BOV. HOR. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-entrevigado-en-viguetas-de-acero-con-bov-hor-ha-30",
+      "m": 11,
+      "p": 24.91,
+      "s": "ENTREVIGADO EN VIGUETAS DE ACERO CON BOV. HOR. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-entrevigado-en-viguetas-de-acero-con-bov-hor-ha-35",
+      "m": 11,
+      "p": 25.28,
+      "s": "ENTREVIGADO EN VIGUETAS DE ACERO CON BOV. HOR. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-estructura-c-forjado-y-sop-de-madera-pino-flandes",
+      "m": 4,
+      "p": 158.98,
+      "s": "ESTRUCTURA C/FORJADO Y SOP. DE MADERA PINO FLANDES",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-estructura-horm-arm-c-forj-doble-vig-arm-25-5-cm",
+      "m": 4,
+      "p": 75.79,
+      "s": "ESTRUCTURA HORM. ARM. C/FORJ. DOBLE VIG. ARM. 25+5 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-estructura-horm-arm-c-forj-in-situ-25-5-cm",
+      "m": 4,
+      "p": 90.41,
+      "s": "ESTRUCTURA HORM. ARM. C/FORJ. \"IN SITU\" 25+5 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-estructura-horm-arm-c-forj-reticular-25-5-cm-luces-5x5-m",
+      "m": 4,
+      "p": 103.91,
+      "s": "ESTRUCTURA HORM. ARM. C/FORJ. RETICULAR 25+5 cm LUCES 5x5 m",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-estructura-horm-arm-c-forj-reticular-30-5-cm-luces-5x5-m",
+      "m": 4,
+      "p": 110.54,
+      "s": "ESTRUCTURA HORM. ARM. C/FORJ. RETICULAR 30+5 cm LUCES 5x5 m",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-estructura-horm-arm-c-forj-vig-arm-25-5-cm",
+      "m": 4,
+      "p": 67.18,
+      "s": "ESTRUCTURA HORM. ARM. C/FORJ. VIG. ARM. 25+5 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-estructura-horm-arm-c-forj-vig-pret-autorr-25-5-cm",
+      "m": 4,
+      "p": 65.57,
+      "s": "ESTRUCTURA HORM. ARM. C/FORJ. VIG. PRET. AUTORR. 25+5 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-estructura-malla-espacial-dist-30-m-perfil-laminado",
+      "m": 6,
+      "p": 129.57,
+      "s": "ESTRUCTURA MALLA ESPACIAL DIST. <30 m PERFIL LAMINADO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-estructura-malla-espacial-dist-45-m-perfil-tubular",
+      "m": 6,
+      "p": 136.82,
+      "s": "ESTRUCTURA MALLA ESPACIAL DIST. <45 m PERFIL TUBULAR",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-estructura-mixta-horm-met-c-forj-reticular-25-5-cm",
+      "m": 4,
+      "p": 103.46,
+      "s": "ESTRUCTURA MIXTA HORM/MET. C/FORJ. RETICULAR 25+5 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-estructura-mixta-horm-met-c-forj-reticular-30-5-cm",
+      "m": 4,
+      "p": 105.76,
+      "s": "ESTRUCTURA MIXTA HORM/MET. C/FORJ. RETICULAR 30+5 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-estructura-mixta-horm-met-c-forj-vig-arm-25-5-cm",
+      "m": 4,
+      "p": 75.4,
+      "s": "ESTRUCTURA MIXTA HORM/MET. C/FORJ. VIG. ARM. 25+5 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-no-trans-invertida",
+      "m": 8,
+      "p": 43.26,
+      "s": "FALDÓN AZ. NO TRANS. INVERTIDA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-faldon-az-no-trans-invertida-doble-lamina",
+      "m": 13,
+      "p": 66.96,
+      "s": "FALDÓN AZ. NO TRANS. INVERTIDA DOBLE LÁMINA",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-no-trans-invertida-gravilla-2-memb-betun-80-mm-ais",
+      "m": 12,
+      "p": 68.98,
+      "s": "FALDÓN AZ. NO TRANS. INVERTIDA GRAVILLA 2 MEMB. BETÚN 80 mm AISLAM.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-no-trans-s-horm-10-cm-sup-alum-arm-polietil",
+      "m": 7,
+      "p": 36.18,
+      "s": "FALDÓN AZ. NO TRANS. S/HORM. 10 cm, SUP. ALUM., ARM., POLIETIL.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-no-trans-s-horm-10-cm-sup-alum-arm-velo-vidrio",
+      "m": 8,
+      "p": 37.13,
+      "s": "FALDÓN AZ. NO TRANS. S/HORM. 10 cm, SUP. ALUM., ARM. VELO/VIDRIO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-no-trans-s-horm-10-cm-sup-grav-1-memb-betun",
+      "m": 9,
+      "p": 39.67,
+      "s": "FALDÓN AZ. NO TRANS. S/HORM. 10 cm, SUP. GRAV., 1 MEMB. BETÚN",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-no-trans-s-horm-10-cm-sup-grav-2-memb-betun",
+      "m": 9,
+      "p": 52.89,
+      "s": "FALDÓN AZ. NO TRANS. S/HORM. 10 cm, SUP. GRAV., 2 MEMB. BETÚN",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-no-trans-s-horm-15-cm-sup-alum-arm-polietil",
+      "m": 7,
+      "p": 40.37,
+      "s": "FALDÓN AZ. NO TRANS. S/HORM. 15 cm, SUP. ALUM., ARM. POLIETIL.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-no-trans-s-horm-15-cm-sup-alum-arm-velo-vidrio",
+      "m": 8,
+      "p": 40.2,
+      "s": "FALDÓN AZ. NO TRANS. S/HORM. 15 cm, SUP. ALUM., ARM. VELO/VIDRIO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-no-trans-s-horm-15-cm-sup-grav-1-memb-betun",
+      "m": 9,
+      "p": 44.32,
+      "s": "FALDÓN AZ. NO TRANS. S/HORM. 15 cm, SUP. GRAV., 1 MEMB. BETÚN",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-no-trans-s-horm-15-cm-sup-grav-2-memb-betun",
+      "m": 9,
+      "p": 57.32,
+      "s": "FALDÓN AZ. NO TRANS. S/HORM. 15 cm, SUP. GRAV., 2 MEMB. BETÚN",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-no-trans-s-horm-15-cm-sup-pint-antirrefl",
+      "m": 9,
+      "p": 51.83,
+      "s": "FALDÓN AZ. NO TRANS. S/HORM. 15 cm, SUP. PINT. ANTIRREFL.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-no-trans-s-mortero-m2-5-aglom-rigido-perlita",
+      "m": 6,
+      "p": 54.76,
+      "s": "FALDÓN AZ. NO TRANS. S/MORTERO M2,5 AGLOM. RIGIDO PERLITA",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-no-trans-s-mortero-m2-5-sup-arido-16-32-mm",
+      "m": 8,
+      "p": 52.56,
+      "s": "FALDÓN AZ. NO TRANS. S/MORTERO M2,5 SUP. ARIDO 16-32 mm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-no-transitable-sobre-tabiquillos",
+      "m": 11,
+      "p": 60.52,
+      "s": "FALDÓN AZ. NO TRANSITABLE SOBRE TABIQUILLOS",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-trans-invertida",
+      "m": 14,
+      "p": 62.04,
+      "s": "FALDÓN AZ. TRANS. INVERTIDA",
+      "u": "m2"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-faldon-az-trans-invertida-1-memb-betun",
+      "m": 14,
+      "p": 74.07,
+      "s": "FALDON AZ. TRANS. INVERTIDA 1 MEMB. BETÚN",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-trans-s-hormig-10-cm-1-memb-betun",
+      "m": 13,
+      "p": 65.85,
+      "s": "FALDÓN AZ. TRANS. S/HORMIG. 10 cm 1 MEMB. BETÚN",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-trans-s-hormig-10-cm-2-memb-betun",
+      "m": 13,
+      "p": 66.36,
+      "s": "FALDÓN AZ. TRANS. S/HORMIG. 10 cm 2 MEMB. BETÚN",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-trans-s-hormig-10-cm-tejido-separador-1-memb-betun",
+      "m": 14,
+      "p": 62.83,
+      "s": "FALDÓN AZ. TRANS. S/HORMIG. 10 cm TEJIDO SEPARADOR 1 MEMB. BETÚN",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-trans-s-hormig-15-cm-1-memb-betun",
+      "m": 13,
+      "p": 70.27,
+      "s": "FALDÓN AZ. TRANS. S/HORMIG. 15 cm 1 MEMB. BETÚN",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-trans-s-hormig-15-cm-2-memb-betun",
+      "m": 13,
+      "p": 70.78,
+      "s": "FALDÓN AZ. TRANS. S/HORMIG. 15 cm 2 MEMB. BETÚN",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-trans-s-hormig-15-cm-lamina-vinilica-pvc",
+      "m": 13,
+      "p": 63.77,
+      "s": "FALDÓN AZ. TRANS. S/HORMIG. 15 cm LÁMINA VINÍLICA PVC",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-az-trans-s-tabiquillos",
+      "m": 15,
+      "p": 98.08,
+      "s": "FALDÓN AZ. TRANS. S/TABIQUILLOS",
+      "u": "m2"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-faldon-azotea-para-ajardinar",
+      "m": 13,
+      "p": 117.8,
+      "s": "FALDÓN AZOTEA PARA AJARDINAR",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-de-azotea-para-ajardinar",
+      "m": 10,
+      "p": 53.99,
+      "s": "FALDÓN DE AZOTEA PARA AJARDINAR",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-de-chapa-conformada-de-acero-galvanizado",
+      "m": 5,
+      "p": 17.44,
+      "s": "FALDÓN DE CHAPA CONFORMADA DE ACERO GALVANIZADO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-de-chapa-conformada-de-aluminio",
+      "m": 6,
+      "p": 35.43,
+      "s": "FALDÓN DE CHAPA CONFORMADA DE ALUMINIO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-de-panel-aislante-chapa-conf-tipo-sandwich",
+      "m": 5,
+      "p": 42.36,
+      "s": "FALDÓN DE PANEL AISLANTE CHAPA CONF. TIPO SANDWICH",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-de-pizarra",
+      "m": 6,
+      "p": 58.33,
+      "s": "FALDÓN DE PIZARRA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-faldon-de-placa-ondulada-de-fibrocemento",
+      "m": 3,
+      "p": 19.76,
+      "s": "FALDÓN DE PLACA ONDULADA DE FIBROCEMENTO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-faldon-de-placa-ondulada-de-fibrocemento-coloreada",
+      "m": 3,
+      "p": 23.54,
+      "s": "FALDÓN DE PLACA ONDULADA DE FIBROCEMENTO COLOREADA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-faldon-de-tejas-curvas-de-ceramica-primera-calidad",
+      "m": 3,
+      "p": 59.88,
+      "s": "FALDÓN DE TEJAS CURVAS DE CERÁMICA PRIMERA CALIDAD",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-faldon-de-tejas-de-mortero-de-cemento",
+      "m": 4,
+      "p": 29.85,
+      "s": "FALDÓN DE TEJAS DE MORTERO DE CEMENTO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-faldon-de-tejas-planas-ceramicas",
+      "m": 4,
+      "p": 35.8,
+      "s": "FALDÓN DE TEJAS PLANAS CERÁMICAS",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-placa-ondulada-poliester-reforzado-coloreado",
+      "m": 5,
+      "p": 27.11,
+      "s": "FALDÓN PLACA ONDULADA POLIÉSTER REFORZADO COLOREADO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-faldon-placa-ondulada-poliester-reforzado-incoloro",
+      "m": 5,
+      "p": 27.11,
+      "s": "FALDÓN PLACA ONDULADA POLIÉSTER REFORZADO INCOLORO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forj-reticular-con-bloques-perm-ceramicos-sop-hor-ha-25",
+      "m": 14,
+      "p": 79.83,
+      "s": "FORJ. RETICULAR CON BLOQUES PERM. CERÁMICOS SOP. HOR. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forj-reticular-con-bloques-perm-ceramicos-sop-hor-ha-30",
+      "m": 14,
+      "p": 80.89,
+      "s": "FORJ. RETICULAR CON BLOQUES PERM. CERÁMICOS SOP. HOR. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forj-reticular-con-bloques-perm-ceramicos-sop-hor-ha-30-7c33",
+      "m": 14,
+      "p": 81.67,
+      "s": "FORJ. RETICULAR CON BLOQUES PERM. CERÁMICOS SOP. HOR. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forj-reticular-con-bloques-perm-hormigon-sop-hor-ha-25",
+      "m": 14,
+      "p": 78.48,
+      "s": "FORJ. RETICULAR CON BLOQUES PERM. HORMIGÓN SOP. HOR. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forj-reticular-con-bloques-perm-hormigon-sop-hor-ha-30",
+      "m": 14,
+      "p": 79.54,
+      "s": "FORJ. RETICULAR CON BLOQUES PERM. HORMIGÓN SOP. HOR. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forj-reticular-con-bloques-perm-hormigon-sop-hor-ha-35",
+      "m": 14,
+      "p": 80.32,
+      "s": "FORJ. RETICULAR CON BLOQUES PERM. HORMIGÓN SOP. HOR. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forj-reticular-con-bloques-perm-hormigon-sop-met-ha-25",
+      "m": 14,
+      "p": 77.27,
+      "s": "FORJ. RETICULAR CON BLOQUES PERM. HORMIGÓN SOP. MET. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forj-reticular-con-bloques-perm-hormigon-sop-met-ha-30",
+      "m": 14,
+      "p": 76.88,
+      "s": "FORJ. RETICULAR CON BLOQUES PERM. HORMIGÓN SOP. MET. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forj-reticular-con-bloques-perm-hormigon-sop-met-ha-35",
+      "m": 14,
+      "p": 79.11,
+      "s": "FORJ. RETICULAR CON BLOQUES PERM. HORMIGÓN SOP. MET. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forj-reticular-con-bloques-perm-poliester-sop-hor-ha-25",
+      "m": 14,
+      "p": 75.26,
+      "s": "FORJ. RETICULAR CON BLOQUES PERM. POLIESTER SOP. HOR. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forj-reticular-con-bloques-perm-poliester-sop-hor-ha-30",
+      "m": 14,
+      "p": 76.32,
+      "s": "FORJ. RETICULAR CON BLOQUES PERM. POLIESTER SOP. HOR. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forj-reticular-con-bloques-perm-poliester-sop-hor-ha-35",
+      "m": 14,
+      "p": 77.1,
+      "s": "FORJ. RETICULAR CON BLOQUES PERM. POLIESTER SOP. HOR. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forj-reticular-con-casetones-recuperables-sop-hor-ha-25",
+      "m": 13,
+      "p": 59.18,
+      "s": "FORJ. RETICULAR CON CASETONES RECUPERABLES SOP. HOR. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forj-reticular-con-casetones-recuperables-sop-hor-ha-30",
+      "m": 13,
+      "p": 60.24,
+      "s": "FORJ. RETICULAR CON CASETONES RECUPERABLES SOP. HOR. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forj-reticular-con-casetones-recuperables-sop-hor-ha-35",
+      "m": 13,
+      "p": 61.02,
+      "s": "FORJ. RETICULAR CON CASETONES RECUPERABLES SOP. HOR. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-chapa-colaborante-10-cm-espesor",
+      "m": 8,
+      "p": 55.36,
+      "s": "FORJADO CHAPA COLABORANTE 10 cm ESPESOR",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-chapa-colaborante-15-cm-espesor",
+      "m": 8,
+      "p": 63.17,
+      "s": "FORJADO CHAPA COLABORANTE 15 cm ESPESOR",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-chapa-colaborante-20-cm-espesor",
+      "m": 8,
+      "p": 72.66,
+      "s": "FORJADO CHAPA COLABORANTE 20 cm ESPESOR",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-unidireccional-in-situ-20-5-cm",
+      "m": 12,
+      "p": 55.72,
+      "s": "FORJADO UNIDIRECCIONAL \"IN SITU\" 20+5 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-unidireccional-in-situ-25-5-cm",
+      "m": 12,
+      "p": 62.17,
+      "s": "FORJADO UNIDIRECCIONAL \"IN SITU\" 25+5 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-arm-preten-bov-cer-ha-25",
+      "m": 11,
+      "p": 43.71,
+      "s": "FORJADO VIG. AUTORR. ARM. PRETEN. BOV. CER. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-arm-preten-bov-cer-ha-30",
+      "m": 11,
+      "p": 44.3,
+      "s": "FORJADO VIG. AUTORR. ARM. PRETEN. BOV. CER. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-arm-preten-bov-cer-ha-35",
+      "m": 11,
+      "p": 44.75,
+      "s": "FORJADO VIG. AUTORR. ARM. PRETEN. BOV. CER. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-arm-preten-bov-hor-ha-25",
+      "m": 11,
+      "p": 37.33,
+      "s": "FORJADO VIG. AUTORR. ARM. PRETEN. BOV. HOR. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-arm-preten-bov-hor-ha-30",
+      "m": 11,
+      "p": 37.92,
+      "s": "FORJADO VIG. AUTORR. ARM. PRETEN. BOV. HOR. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-arm-preten-bov-hor-ha-35",
+      "m": 11,
+      "p": 38.37,
+      "s": "FORJADO VIG. AUTORR. ARM. PRETEN. BOV. HOR. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-arm-preten-bov-hor-vig-planas-ha-35",
+      "m": 11,
+      "p": 37.3,
+      "s": "FORJADO VIG. AUTORR. ARM. PRETEN. BOV. HOR. VIG. PLANAS (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-arm-rigidas-bov-cer-ha-25",
+      "m": 11,
+      "p": 41.33,
+      "s": "FORJADO VIG. AUTORR. ARM. RIGIDAS BOV. CER. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-arm-rigidas-bov-cer-ha-30",
+      "m": 11,
+      "p": 41.92,
+      "s": "FORJADO VIG. AUTORR. ARM. RIGIDAS BOV. CER. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-arm-rigidas-bov-cer-ha-35",
+      "m": 11,
+      "p": 42.37,
+      "s": "FORJADO VIG. AUTORR. ARM. RIGIDAS BOV. CER. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-arm-rigidas-bov-hor-ha-25",
+      "m": 11,
+      "p": 34.95,
+      "s": "FORJADO VIG. AUTORR. ARM. RIGIDAS BOV. HOR. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-arm-rigidas-bov-hor-ha-30",
+      "m": 11,
+      "p": 35.54,
+      "s": "FORJADO VIG. AUTORR. ARM. RIGIDAS BOV. HOR. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-arm-rigidas-bov-hor-ha-35",
+      "m": 11,
+      "p": 35.99,
+      "s": "FORJADO VIG. AUTORR. ARM. RIGIDAS BOV. HOR. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-arm-rigidas-bov-hor-vig-planas-ha-35",
+      "m": 11,
+      "p": 35.99,
+      "s": "FORJADO VIG. AUTORR. ARM. RIGIDAS BOV. HOR. VIG. PLANAS (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-pareadas-arm-preten-bov-cer-ha-25",
+      "m": 11,
+      "p": 52.11,
+      "s": "FORJADO VIG. AUTORR. PAREADAS ARM. PRETEN. BOV. CER. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-pareadas-arm-preten-bov-cer-ha-30",
+      "m": 11,
+      "p": 52.76,
+      "s": "FORJADO VIG. AUTORR. PAREADAS ARM. PRETEN. BOV. CER. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-pareadas-arm-preten-bov-cer-ha-35",
+      "m": 11,
+      "p": 53.25,
+      "s": "FORJADO VIG. AUTORR. PAREADAS ARM. PRETEN. BOV. CER. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-pareadas-arm-preten-bov-hor-ha-25",
+      "m": 11,
+      "p": 46.38,
+      "s": "FORJADO VIG. AUTORR. PAREADAS ARM. PRETEN. BOV. HOR. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-pareadas-arm-preten-bov-hor-ha-30",
+      "m": 11,
+      "p": 47.03,
+      "s": "FORJADO VIG. AUTORR. PAREADAS ARM. PRETEN. BOV. HOR. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-pareadas-arm-preten-bov-hor-ha-35",
+      "m": 11,
+      "p": 47.52,
+      "s": "FORJADO VIG. AUTORR. PAREADAS ARM. PRETEN. BOV. HOR. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-pareadas-arm-rigidas-bov-cer-ha-25",
+      "m": 11,
+      "p": 48.13,
+      "s": "FORJADO VIG. AUTORR. PAREADAS ARM. RIGIDAS BOV. CER. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-pareadas-arm-rigidas-bov-cer-ha-30",
+      "m": 11,
+      "p": 48.78,
+      "s": "FORJADO VIG. AUTORR. PAREADAS ARM. RIGIDAS BOV. CER. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-pareadas-arm-rigidas-bov-cer-ha-35",
+      "m": 11,
+      "p": 49.27,
+      "s": "FORJADO VIG. AUTORR. PAREADAS ARM. RIGIDAS BOV. CER. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-pareadas-arm-rigidas-bov-hor-ha-25",
+      "m": 11,
+      "p": 42.4,
+      "s": "FORJADO VIG. AUTORR. PAREADAS ARM. RIGIDAS BOV. HOR. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-pareadas-arm-rigidas-bov-hor-ha-30",
+      "m": 11,
+      "p": 43.05,
+      "s": "FORJADO VIG. AUTORR. PAREADAS ARM. RIGIDAS BOV. HOR. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-forjado-vig-autorr-pareadas-arm-rigidas-bov-hor-ha-35",
+      "m": 11,
+      "p": 43.54,
+      "s": "FORJADO VIG. AUTORR. PAREADAS ARM. RIGIDAS BOV. HOR. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-arm-preten-bov-hor-v-planas-ha-35",
+      "m": 13,
+      "p": 39.34,
+      "s": "FORJADO VIG. SEMIRR. ARM. PRETEN. BOV. HOR. V. PLANAS (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-arm-rigidas-bov-hor-v-planas-ha-35",
+      "m": 13,
+      "p": 39.64,
+      "s": "FORJADO VIG. SEMIRR. ARM. RÍGIDAS BOV. HOR. V. PLANAS (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-armaduras-preten-bov-cer-ha-25",
+      "m": 13,
+      "p": 45.58,
+      "s": "FORJADO VIG. SEMIRR. ARMADURAS PRETEN. BOV. CER. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-armaduras-preten-bov-cer-ha-30",
+      "m": 13,
+      "p": 46.21,
+      "s": "FORJADO VIG. SEMIRR. ARMADURAS PRETEN. BOV. CER. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-armaduras-preten-bov-cer-ha-35",
+      "m": 13,
+      "p": 46.67,
+      "s": "FORJADO VIG. SEMIRR. ARMADURAS PRETEN. BOV. CER. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-armaduras-preten-bov-hor-ha-25",
+      "m": 13,
+      "p": 39.2,
+      "s": "FORJADO VIG. SEMIRR. ARMADURAS PRETEN. BOV. HOR. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-armaduras-preten-bov-hor-ha-30",
+      "m": 13,
+      "p": 39.83,
+      "s": "FORJADO VIG. SEMIRR. ARMADURAS PRETEN. BOV. HOR. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-armaduras-preten-bov-hor-ha-35",
+      "m": 13,
+      "p": 40.29,
+      "s": "FORJADO VIG. SEMIRR. ARMADURAS PRETEN. BOV. HOR. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-armaduras-rigidas-bov-cer-ha-25",
+      "m": 13,
+      "p": 45.32,
+      "s": "FORJADO VIG. SEMIRR. ARMADURAS RÍGIDAS BOV. CER. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-armaduras-rigidas-bov-cer-ha-30",
+      "m": 13,
+      "p": 45.95,
+      "s": "FORJADO VIG. SEMIRR. ARMADURAS RÍGIDAS BOV. CER. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-armaduras-rigidas-bov-cer-ha-35",
+      "m": 13,
+      "p": 46.41,
+      "s": "FORJADO VIG. SEMIRR. ARMADURAS RÍGIDAS BOV. CER. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-armaduras-rigidas-bov-hor-ha-25",
+      "m": 13,
+      "p": 38.94,
+      "s": "FORJADO VIG. SEMIRR. ARMADURAS RÍGIDAS BOV. HOR. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-armaduras-rigidas-bov-hor-ha-30",
+      "m": 13,
+      "p": 39.57,
+      "s": "FORJADO VIG. SEMIRR. ARMADURAS RÍGIDAS BOV. HOR. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-armaduras-rigidas-bov-hor-ha-35",
+      "m": 13,
+      "p": 40.03,
+      "s": "FORJADO VIG. SEMIRR. ARMADURAS RÍGIDAS BOV. HOR. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-pareadas-arm-preten-bov-cer-ha-25",
+      "m": 13,
+      "p": 52.77,
+      "s": "FORJADO VIG. SEMIRR. PAREADAS ARM. PRETEN. BOV. CER. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-pareadas-arm-preten-bov-cer-ha-30",
+      "m": 13,
+      "p": 53.4,
+      "s": "FORJADO VIG. SEMIRR. PAREADAS ARM. PRETEN. BOV. CER. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-pareadas-arm-preten-bov-cer-ha-35",
+      "m": 13,
+      "p": 53.86,
+      "s": "FORJADO VIG. SEMIRR. PAREADAS ARM. PRETEN. BOV. CER. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-pareadas-arm-preten-bov-hor-ha-25",
+      "m": 13,
+      "p": 47.02,
+      "s": "FORJADO VIG. SEMIRR. PAREADAS ARM. PRETEN. BOV. HOR. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-pareadas-arm-preten-bov-hor-ha-30",
+      "m": 13,
+      "p": 47.65,
+      "s": "FORJADO VIG. SEMIRR. PAREADAS ARM. PRETEN. BOV. HOR. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-pareadas-arm-preten-bov-hor-ha-35",
+      "m": 13,
+      "p": 49.18,
+      "s": "FORJADO VIG. SEMIRR. PAREADAS ARM. PRETEN. BOV. HOR. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-pareadas-arm-rigidas-bov-cer-ha-25",
+      "m": 13,
+      "p": 53.26,
+      "s": "FORJADO VIG. SEMIRR. PAREADAS ARM. RÍGIDAS BOV. CER. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-pareadas-arm-rigidas-bov-cer-ha-30",
+      "m": 13,
+      "p": 53.95,
+      "s": "FORJADO VIG. SEMIRR. PAREADAS ARM. RÍGIDAS BOV. CER. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-pareadas-arm-rigidas-bov-cer-ha-35",
+      "m": 13,
+      "p": 54.45,
+      "s": "FORJADO VIG. SEMIRR. PAREADAS ARM. RÍGIDAS BOV. CER. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-pareadas-arm-rigidas-bov-hor-ha-25",
+      "m": 13,
+      "p": 47.55,
+      "s": "FORJADO VIG. SEMIRR. PAREADAS ARM. RÍGIDAS BOV. HOR. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-pareadas-arm-rigidas-bov-hor-ha-30",
+      "m": 13,
+      "p": 48.24,
+      "s": "FORJADO VIG. SEMIRR. PAREADAS ARM. RÍGIDAS BOV. HOR. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vig-semirr-pareadas-arm-rigidas-bov-hor-ha-35",
+      "m": 13,
+      "p": 48.74,
+      "s": "FORJADO VIG. SEMIRR. PAREADAS ARM. RÍGIDAS BOV. HOR. (HA-35)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-forjado-vigueta-madera-y-tabl-machihembrado",
+      "m": 9,
+      "p": 132.51,
+      "s": "FORJADO VIGUETA MADERA Y TABL. MACHIHEMBRADO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-b-15-xc2-b400s-en-losas-cim-v-bomba",
+      "m": 3,
+      "p": 195.76,
+      "s": "HORM. ARM. HA-25/B/15/XC2 B400S EN LOSAS CIM. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-b-15-xc2-b400s-en-muro-cont-i-enc-1c-v-bomba",
+      "m": 4,
+      "p": 400.81,
+      "s": "HORM. ARM. HA-25/B/15/XC2 B400S EN MURO CONT. I/ENC. 1C. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-b-15-xc2-b400s-en-muro-cont-i-enc-2c-v-bomba",
+      "m": 4,
+      "p": 719.95,
+      "s": "HORM. ARM. HA-25/B/15/XC2 B400S EN MURO CONT. I/ENC. 2C. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-b-15-xc2-b400s-en-vigas-zuncho-v-bomba",
+      "m": 3,
+      "p": 181.13,
+      "s": "HORM. ARM. HA-25/B/15/XC2 B400S EN VIGAS/ZUNCHO V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-b-15-xc2-b400s-en-zapatas-y-encepados-v-bomba",
+      "m": 3,
+      "p": 182.14,
+      "s": "HORM. ARM. HA-25/B/15/XC2 B400S EN ZAPATAS Y ENCEPADOS V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-b-20-xc2-b400s-en-losas-cim-v-bomba",
+      "m": 3,
+      "p": 192.51,
+      "s": "HORM. ARM. HA-25/B/20/XC2 B400S EN LOSAS CIM. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-b-20-xc2-b400s-en-muro-cont-i-enc-1c-v-bomba",
+      "m": 4,
+      "p": 397.56,
+      "s": "HORM. ARM. HA-25/B/20/XC2 B400S EN MURO CONT. I/ENC. 1C. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-b-20-xc2-b400s-en-muro-cont-i-enc-2c-v-bomba",
+      "m": 4,
+      "p": 716.7,
+      "s": "HORM. ARM. HA-25/B/20/XC2 B400S EN MURO CONT. I/ENC. 2C. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-b-20-xc2-b400s-en-vigas-zuncho-v-bomba",
+      "m": 3,
+      "p": 180.09,
+      "s": "HORM. ARM. HA-25/B/20/XC2 B400S EN VIGAS/ZUNCHO V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-b-20-xc2-b400s-en-zapatas-y-encepados-v-bomba",
+      "m": 3,
+      "p": 178.89,
+      "s": "HORM. ARM. HA-25/B/20/XC2 B400S EN ZAPATAS Y ENCEPADOS V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-en-muros-i-enc-mad-2c-vistas",
+      "m": 3,
+      "p": 643.79,
+      "s": "HORM. ARM. HA-25/P/20/ EN MUROS I/ENC. MAD. 2C. VISTAS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-b400s-en-muro-cont-i-enc-1c-v-grua",
+      "m": 3,
+      "p": 382.85,
+      "s": "HORM. ARM. HA-25/P/20/XC2 B400S EN MURO CONT. I/ENC. 1C. V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-b400s-en-muro-cont-i-enc-1c-v-man",
+      "m": 3,
+      "p": 382.85,
+      "s": "HORM. ARM. HA-25/P/20/XC2 B400S EN MURO CONT. I/ENC. 1C. V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-b400s-en-muro-cont-i-enc-2c-v-grua",
+      "m": 3,
+      "p": 701.99,
+      "s": "HORM. ARM. HA-25/P/20/XC2 B400S EN MURO CONT. I/ENC. 2C. V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-b400s-en-muro-cont-i-enc-2c-v-man",
+      "m": 3,
+      "p": 701.99,
+      "s": "HORM. ARM. HA-25/P/20/XC2 B400S EN MURO CONT. I/ENC. 2C. V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-b400s-en-vigas-zuncho-v-grua",
+      "m": 2,
+      "p": 165.38,
+      "s": "HORM. ARM. HA-25/P/20/XC2 B400S EN VIGAS/ZUNCHO V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-b400s-en-vigas-zunchos-cim-v-man",
+      "m": 2,
+      "p": 165.38,
+      "s": "HORM. ARM. HA-25/P/20/XC2 B400S EN VIGAS/ZUNCHOS CIM. V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-b400s-vigas-zunch-cim-v-m-enc-perd",
+      "m": 3,
+      "p": 223.86,
+      "s": "HORM. ARM. HA-25/P/20/XC2 B400S VIGAS/ZUNCH. CIM. V/M ENC. PERD.",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-en-losas-i-enc-madera-revestir",
+      "m": 4,
+      "p": 418.01,
+      "s": "HORM. ARM. HA-25/P/20/XC2 EN LOSAS I/ENC. MADERA REVESTIR",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-en-losas-i-enc-madera-visto",
+      "m": 4,
+      "p": 498.02,
+      "s": "HORM. ARM. HA-25/P/20/XC2 EN LOSAS I/ENC. MADERA VISTO",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-en-losas-inclin-i-enc-madera-rev",
+      "m": 4,
+      "p": 418.01,
+      "s": "HORM. ARM. HA-25/P/20/XC2 EN LOSAS INCLIN. I/ENC. MADERA REV.",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-en-losas-inclin-i-enc-madera-visto",
+      "m": 4,
+      "p": 498.02,
+      "s": "HORM. ARM. HA-25/P/20/XC2 EN LOSAS INCLIN. I/ENC. MADERA VISTO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-en-muros-i-enc-met-2c-rev",
+      "m": 3,
+      "p": 925.79,
+      "s": "HORM. ARM. HA-25/P/20/XC2 EN MUROS I/ENC. MET. 2C. REV.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-en-pilares-circul-i-enc-carton-visto",
+      "m": 3,
+      "p": 610.05,
+      "s": "HORM. ARM. HA-25/P/20/XC2 EN PILARES CIRCUL. I/ENC. CARTÓN VISTO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-en-pilares-circul-i-enc-met-rev",
+      "m": 3,
+      "p": 422.61,
+      "s": "HORM. ARM. HA-25/P/20/XC2 EN PILARES CIRCUL. I/ENC. MET. REV.",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-en-pilares-i-enc-mad-visto",
+      "m": 3,
+      "p": 574.29,
+      "s": "HORM. ARM. HA-25/P/20/XC2 EN PILARES I/ENC. MAD. VISTO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-en-pilares-i-enc-met-rev",
+      "m": 3,
+      "p": 433.17,
+      "s": "HORM. ARM. HA-25/P/20/XC2 EN PILARES I/ENC. MET. REV.",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-en-vigas-descuelgue-i-enc-mad-visto",
+      "m": 4,
+      "p": 600.3,
+      "s": "HORM. ARM. HA-25/P/20/XC2 EN VIGAS DESCUELGUE I/ENC. MAD. VISTO",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-en-vigas-descuelgue-i-enc-revestir",
+      "m": 4,
+      "p": 469.18,
+      "s": "HORM. ARM. HA-25/P/20/XC2 EN VIGAS DESCUELGUE I/ENC. REVESTIR",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-en-vigas-planas-i-enc-mad-visto",
+      "m": 4,
+      "p": 584.23,
+      "s": "HORM. ARM. HA-25/P/20/XC2 EN VIGAS PLANAS I/ENC. MAD. VISTO",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-en-vigas-planas-i-enc-revestir",
+      "m": 4,
+      "p": 459.07,
+      "s": "HORM. ARM. HA-25/P/20/XC2 EN VIGAS PLANAS I/ENC. REVESTIR",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-losas-incl-i-enc-mad-rev-c-peld",
+      "m": 4,
+      "p": 585.78,
+      "s": "HORM. ARM. HA-25/P/20/XC2 LOSAS INCL. I/ENC. MAD. REV. C/PELD.",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-20-xc2-losas-incl-i-enc-mad-visto-c-peld",
+      "m": 4,
+      "p": 741.23,
+      "s": "HORM. ARM. HA-25/P/20/XC2 LOSAS INCL. I/ENC. MAD. VISTO C/PELD.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-40-xc2-b400s-en-losas-cim-v-grua",
+      "m": 2,
+      "p": 177.8,
+      "s": "HORM. ARM. HA-25/P/40/XC2 B400S EN LOSAS CIM. V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-40-xc2-b400s-en-losas-cim-v-man",
+      "m": 2,
+      "p": 177.8,
+      "s": "HORM. ARM. HA-25/P/40/XC2 B400S EN LOSAS CIM. V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-40-xc2-b400s-en-vigas-zuncho-v-grua",
+      "m": 2,
+      "p": 165.38,
+      "s": "HORM. ARM. HA-25/P/40/XC2 B400S EN VIGAS/ZUNCHO V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-40-xc2-b400s-en-vigas-zunchos-cim-v-man",
+      "m": 2,
+      "p": 165.38,
+      "s": "HORM. ARM. HA-25/P/40/XC2 B400S EN VIGAS/ZUNCHOS CIM. V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-40-xc2-b400s-en-zapatas-y-encepados-v-grua",
+      "m": 2,
+      "p": 164.18,
+      "s": "HORM. ARM. HA-25/P/40/XC2 B400S EN ZAPATAS Y ENCEPADOS V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-40-xc2-b400s-en-zapatas-y-encepados-v-man",
+      "m": 2,
+      "p": 164.18,
+      "s": "HORM. ARM. HA-25/P/40/XC2 B400S EN ZAPATAS Y ENCEPADOS V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-25-p-40-xc2-b400s-vigas-zunch-cim-v-m-enc-perd",
+      "m": 3,
+      "p": 223.86,
+      "s": "HORM. ARM. HA-25/P/40/XC2 B400S VIGAS/ZUNCH. CIM. V/M ENC. PERD.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-b-15-xc2-b500s-en-losas-cim-v-bomba",
+      "m": 3,
+      "p": 209.41,
+      "s": "HORM. ARM. HA-30/B/15/XC2 B500S EN LOSAS CIM. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-b-15-xc2-b500s-en-muro-cont-i-enc-1c-v-bomba",
+      "m": 4,
+      "p": 416.16,
+      "s": "HORM. ARM. HA-30/B/15/XC2 B500S EN MURO CONT. I/ENC. 1C. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-b-15-xc2-b500s-en-muro-cont-i-enc-2c-v-bomba",
+      "m": 4,
+      "p": 735.3,
+      "s": "HORM. ARM. HA-30/B/15/XC2 B500S EN MURO CONT. I/ENC. 2C. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-b-15-xc2-b500s-en-vigas-zuncho-v-bomba",
+      "m": 3,
+      "p": 195.29,
+      "s": "HORM. ARM. HA-30/B/15/XC2 B500S EN VIGAS/ZUNCHO V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-b-15-xc2-b500s-en-zapatas-y-encepados-v-bomba",
+      "m": 3,
+      "p": 194.09,
+      "s": "HORM. ARM. HA-30/B/15/XC2 B500S EN ZAPATAS Y ENCEPADOS V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-b-20-xc2-b500s-en-losas-cim-v-bomba",
+      "m": 3,
+      "p": 206.06,
+      "s": "HORM. ARM. HA-30/B/20/XC2 B500S EN LOSAS CIM. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-b-20-xc2-b500s-en-muro-cont-i-enc-1c-v-bomba",
+      "m": 4,
+      "p": 412.81,
+      "s": "HORM. ARM. HA-30/B/20/XC2 B500S EN MURO CONT. I/ENC. 1C. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-b-20-xc2-b500s-en-muro-cont-i-enc-2c-v-bomba",
+      "m": 4,
+      "p": 731.95,
+      "s": "HORM. ARM. HA-30/B/20/XC2 B500S EN MURO CONT. I/ENC. 2C. V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-b-20-xc2-b500s-en-vigas-zuncho-v-bomba",
+      "m": 3,
+      "p": 191.94,
+      "s": "HORM. ARM. HA-30/B/20/XC2 B500S EN VIGAS/ZUNCHO V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-b-20-xc2-b500s-en-zapatas-y-encepados-v-bomba",
+      "m": 3,
+      "p": 190.74,
+      "s": "HORM. ARM. HA-30/B/20/XC2 B500S EN ZAPATAS Y ENCEPADOS V/BOMBA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-b500s-en-muro-cont-i-enc-1c-v-grua",
+      "m": 3,
+      "p": 398.92,
+      "s": "HORM. ARM. HA-30/P/20/XC2 B500S EN MURO CONT. I/ENC. 1C. V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-b500s-en-muro-cont-i-enc-1c-v-man",
+      "m": 3,
+      "p": 398.92,
+      "s": "HORM. ARM. HA-30/P/20/XC2 B500S EN MURO CONT. I/ENC. 1C. V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-b500s-en-muro-cont-i-enc-2c-v-grua",
+      "m": 3,
+      "p": 718.06,
+      "s": "HORM. ARM. HA-30/P/20/XC2 B500S EN MURO CONT. I/ENC. 2C. V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-b500s-en-muro-cont-i-enc-2c-v-man",
+      "m": 3,
+      "p": 718.06,
+      "s": "HORM. ARM. HA-30/P/20/XC2 B500S EN MURO CONT. I/ENC. 2C. V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-b500s-en-vigas-zunchos-cim-v-man",
+      "m": 2,
+      "p": 178.05,
+      "s": "HORM. ARM. HA-30/P/20/XC2 B500S EN VIGAS/ZUNCHOS CIM. V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-en-losas-i-enc-madera-revestir",
+      "m": 4,
+      "p": 439.31,
+      "s": "HORM. ARM. HA-30/P/20/XC2 EN LOSAS I/ENC. MADERA REVESTIR",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-en-losas-i-enc-madera-visto",
+      "m": 4,
+      "p": 519.32,
+      "s": "HORM. ARM. HA-30/P/20/XC2 EN LOSAS I/ENC. MADERA VISTO",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-en-losas-inclin-i-enc-madera-rev",
+      "m": 4,
+      "p": 439.31,
+      "s": "HORM. ARM. HA-30/P/20/XC2 EN LOSAS INCLIN. I/ENC. MADERA REV.",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-en-losas-inclin-i-enc-madera-visto",
+      "m": 4,
+      "p": 519.32,
+      "s": "HORM. ARM. HA-30/P/20/XC2 EN LOSAS INCLIN. I/ENC. MADERA VISTO",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-en-muros-i-enc-mad-2c-vistas",
+      "m": 3,
+      "p": 664.11,
+      "s": "HORM. ARM. HA-30/P/20/XC2 EN MUROS I/ENC. MAD. 2C. VISTAS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-en-muros-i-enc-met-2c-rev",
+      "m": 3,
+      "p": 946.11,
+      "s": "HORM. ARM. HA-30/P/20/XC2 EN MUROS I/ENC. MET. 2C. REV.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-en-pilares-circul-i-enc-carton-visto",
+      "m": 3,
+      "p": 637.17,
+      "s": "HORM. ARM. HA-30/P/20/XC2 EN PILARES CIRCUL. I/ENC. CARTÓN VISTO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-en-pilares-circul-i-enc-met-rev",
+      "m": 3,
+      "p": 449.73,
+      "s": "HORM. ARM. HA-30/P/20/XC2 EN PILARES CIRCUL. I/ENC. MET. REV.",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-en-pilares-i-enc-mad-visto",
+      "m": 3,
+      "p": 601.41,
+      "s": "HORM. ARM. HA-30/P/20/XC2 EN PILARES I/ENC. MAD. VISTO",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-en-pilares-i-enc-met-rev",
+      "m": 3,
+      "p": 460.29,
+      "s": "HORM. ARM. HA-30/P/20/XC2 EN PILARES I/ENC. MET. REV.",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-en-vigas-descuelgue-i-enc-mad-visto",
+      "m": 4,
+      "p": 622.32,
+      "s": "HORM. ARM. HA-30/P/20/XC2 EN VIGAS DESCUELGUE I/ENC. MAD. VISTO",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-en-vigas-descuelgue-i-enc-revestir",
+      "m": 4,
+      "p": 491.2,
+      "s": "HORM. ARM. HA-30/P/20/XC2 EN VIGAS DESCUELGUE I/ENC. REVESTIR",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-en-vigas-planas-i-enc-mad-visto",
+      "m": 4,
+      "p": 606.25,
+      "s": "HORM. ARM. HA-30/P/20/XC2 EN VIGAS PLANAS I/ENC. MAD. VISTO",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-en-vigas-planas-i-enc-revestir",
+      "m": 4,
+      "p": 481.09,
+      "s": "HORM. ARM. HA-30/P/20/XC2 EN VIGAS PLANAS I/ENC. REVESTIR",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-losas-incl-i-enc-mad-rev-c-peld",
+      "m": 4,
+      "p": 607.08,
+      "s": "HORM. ARM. HA-30/P/20/XC2 LOSAS INCL. I/ENC. MAD. REV. C/PELD.",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-20-xc2-losas-incl-i-enc-mad-visto-c-peld",
+      "m": 4,
+      "p": 762.53,
+      "s": "HORM. ARM. HA-30/P/20/XC2 LOSAS INCL. I/ENC. MAD. VISTO C/PELD.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-40-xc2-b500s-en-losas-cim-v-grua",
+      "m": 2,
+      "p": 191.35,
+      "s": "HORM. ARM. HA-30/P/40/XC2 B500S EN LOSAS CIM. V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-40-xc2-b500s-en-losas-cim-v-man",
+      "m": 2,
+      "p": 191.35,
+      "s": "HORM. ARM. HA-30/P/40/XC2 B500S EN LOSAS CIM. V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-40-xc2-b500s-en-vigas-zuncho-v-grua",
+      "m": 2,
+      "p": 177.23,
+      "s": "HORM. ARM. HA-30/P/40/XC2 B500S EN VIGAS/ZUNCHO V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-40-xc2-b500s-en-vigas-zunchos-cim-v-man",
+      "m": 2,
+      "p": 177.23,
+      "s": "HORM. ARM. HA-30/P/40/XC2 B500S EN VIGAS/ZUNCHOS CIM. V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-40-xc2-b500s-en-zapatas-y-encepados-v-grua",
+      "m": 2,
+      "p": 176.03,
+      "s": "HORM. ARM. HA-30/P/40/XC2 B500S EN ZAPATAS Y ENCEPADOS V/GRÚA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-40-xc2-b500s-en-zapatas-y-encepados-v-man",
+      "m": 2,
+      "p": 176.03,
+      "s": "HORM. ARM. HA-30/P/40/XC2 B500S EN ZAPATAS Y ENCEPADOS V/MAN.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-horm-arm-ha-30-p-40-xc2-b500s-vigas-zunch-cim-v-m-enc-perd",
+      "m": 3,
+      "p": 235.71,
+      "s": "HORM. ARM. HA-30/P/40/XC2 B500S VIGAS/ZUNCH. CIM. V/M ENC. PERD.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ciclopeo-hm-20-p-40-x0-en-cimientos",
+      "m": 3,
+      "p": 95.73,
+      "s": "HORMIGÓN CICLOPEO HM-20/P/40/X0 EN CIMIENTOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-en-masa-hm-20-p-40-x0-en-cimientos",
+      "m": 3,
+      "p": 110.9,
+      "s": "HORMIGÓN EN MASA HM-20/P/40/X0 EN CIMIENTOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-25-b-15-xc2-en-losas-de-ciment",
+      "m": 4,
+      "p": 113.55,
+      "s": "HORMIGÓN HA-25/B/15/XC2 EN LOSAS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-25-b-15-xc2-en-muros-de-contencion",
+      "m": 4,
+      "p": 117.96,
+      "s": "HORMIGÓN HA-25/B/15/XC2 EN MUROS DE CONTENCIÓN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-25-b-15-xc2-en-vigas-zunchos-de-ciment",
+      "m": 3,
+      "p": 112.42,
+      "s": "HORMIGÓN HA-25/B/15/XC2 EN VIGAS/ZUNCHOS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-25-b-15-xc2-en-zapatas-y-encepados",
+      "m": 4,
+      "p": 113.43,
+      "s": "HORMIGÓN HA-25/B/15/XC2 EN ZAPATAS Y ENCEPADOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-25-b-20-xc2-en-losas-de-ciment",
+      "m": 4,
+      "p": 110.3,
+      "s": "HORMIGÓN HA-25/B/20/XC2 EN LOSAS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-25-b-20-xc2-en-muros-de-contencion",
+      "m": 4,
+      "p": 114.71,
+      "s": "HORMIGÓN HA-25/B/20/XC2 EN MUROS DE CONTENCIÓN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-25-b-20-xc2-en-vigas-zunchos-de-ciment",
+      "m": 3,
+      "p": 111.38,
+      "s": "HORMIGÓN HA-25/B/20/XC2 EN VIGAS/ZUNCHOS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-25-b-20-xc2-en-zapatas-y-encepados",
+      "m": 4,
+      "p": 110.18,
+      "s": "HORMIGÓN HA-25/B/20/XC2 EN ZAPATAS Y ENCEPADOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-25-b-40-xc2-en-losas-de-ciment",
+      "m": 4,
+      "p": 114.71,
+      "s": "HORMIGÓN HA-25/B/40/XC2 EN LOSAS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-25-p-15-xc2-en-vigas-zunchos-de-ciment",
+      "m": 3,
+      "p": 112.26,
+      "s": "HORMIGÓN HA-25/P/15/XC2 EN VIGAS/ZUNCHOS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-25-p-20-xc2-en-losas-de-ciment",
+      "m": 4,
+      "p": 110.3,
+      "s": "HORMIGÓN HA-25/P/20/XC2 EN LOSAS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-25-p-20-xc2-en-muros-de-contencion",
+      "m": 4,
+      "p": 114.71,
+      "s": "HORMIGÓN HA-25/P/20/XC2 EN MUROS DE CONTENCIÓN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-25-p-20-xc2-en-vigas-zunchos-de-ciment",
+      "m": 3,
+      "p": 111.38,
+      "s": "HORMIGÓN HA-25/P/20/XC2 EN VIGAS/ZUNCHOS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-25-p-40-xc2-en-losas-de-ciment",
+      "m": 4,
+      "p": 110.3,
+      "s": "HORMIGÓN HA-25/P/40/XC2 EN LOSAS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-25-p-40-xc2-en-muros-de-contencion",
+      "m": 4,
+      "p": 114.9,
+      "s": "HORMIGÓN HA-25/P/40/XC2 EN MUROS DE CONTENCIÓN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-25-p-40-xc2-en-vigas-zunchos-de-ciment",
+      "m": 3,
+      "p": 111.38,
+      "s": "HORMIGÓN HA-25/P/40/XC2 EN VIGAS/ZUNCHOS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-25-p-40-xc2-en-zapatas-y-encepados",
+      "m": 4,
+      "p": 110.18,
+      "s": "HORMIGÓN HA-25/P/40/XC2 EN ZAPATAS Y ENCEPADOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-30-b-15-xc2-en-losas-de-ciment",
+      "m": 4,
+      "p": 118.7,
+      "s": "HORMIGÓN HA-30/B/15/XC2 EN LOSAS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-30-b-15-xc2-en-muros-de-contencion",
+      "m": 4,
+      "p": 123.11,
+      "s": "HORMIGÓN HA-30/B/15/XC2 EN MUROS DE CONTENCIÓN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-30-b-15-xc2-en-vigas-zunchos-de-ciment",
+      "m": 3,
+      "p": 119.78,
+      "s": "HORMIGÓN HA-30/B/15/XC2 EN VIGAS/ZUNCHOS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-30-b-15-xc2-en-zapatas-y-encepados",
+      "m": 4,
+      "p": 118.58,
+      "s": "HORMIGÓN HA-30/B/15/XC2 EN ZAPATAS Y ENCEPADOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-30-b-20-xc2-en-losas-de-ciment",
+      "m": 4,
+      "p": 115.35,
+      "s": "HORMIGÓN HA-30/B/20/XC2 EN LOSAS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-30-b-20-xc2-en-muros-de-contencion",
+      "m": 4,
+      "p": 119.76,
+      "s": "HORMIGÓN HA-30/B/20/XC2 EN MUROS DE CONTENCIÓN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-30-b-20-xc2-en-vigas-zunchos-de-ciment",
+      "m": 3,
+      "p": 116.43,
+      "s": "HORMIGÓN HA-30/B/20/XC2 EN VIGAS/ZUNCHOS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-30-b-20-xc2-en-zapatas-y-encepados",
+      "m": 4,
+      "p": 115.23,
+      "s": "HORMIGÓN HA-30/B/20/XC2 EN ZAPATAS Y ENCEPADOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-30-b-40-xc2-en-losas-de-ciment",
+      "m": 4,
+      "p": 119.76,
+      "s": "HORMIGÓN HA-30/B/40/XC2 EN LOSAS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-30-p-20-xc2-en-losas-de-ciment",
+      "m": 4,
+      "p": 116.17,
+      "s": "HORMIGÓN HA-30/P/20/XC2 EN LOSAS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-30-p-20-xc2-en-muros-de-contencion",
+      "m": 4,
+      "p": 120.58,
+      "s": "HORMIGÓN HA-30/P/20/XC2 EN MUROS DE CONTENCIÓN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-30-p-20-xc2-en-vigas-zunchos-de-ciment",
+      "m": 3,
+      "p": 117.25,
+      "s": "HORMIGÓN HA-30/P/20/XC2 EN VIGAS/ZUNCHOS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-30-p-40-xc2-en-losas-de-ciment",
+      "m": 4,
+      "p": 115.35,
+      "s": "HORMIGÓN HA-30/P/40/XC2 EN LOSAS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-30-p-40-xc2-en-muros-de-contencion",
+      "m": 4,
+      "p": 119.95,
+      "s": "HORMIGÓN HA-30/P/40/XC2 EN MUROS DE CONTENCIÓN",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-30-p-40-xc2-en-vigas-zunchos-de-ciment",
+      "m": 3,
+      "p": 116.43,
+      "s": "HORMIGÓN HA-30/P/40/XC2 EN VIGAS/ZUNCHOS DE CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-ha-30-p-40-xc2-en-zapatas-y-encepados",
+      "m": 4,
+      "p": 115.23,
+      "s": "HORMIGÓN HA-30/P/40/XC2 EN ZAPATAS Y ENCEPADOS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-hormigon-para-armar-ha-25-p-20-xc2-en-losas",
+      "m": 5,
+      "p": 118.57,
+      "s": "HORMIGÓN PARA ARMAR HA-25/P/20/XC2 EN LOSAS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-hormigon-para-armar-ha-25-p-20-xc2-en-muros",
+      "m": 4,
+      "p": 112.72,
+      "s": "HORMIGÓN PARA ARMAR HA-25/P/20/XC2 EN MUROS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-para-armar-ha-25-p-20-xc2-en-pilares",
+      "m": 3,
+      "p": 113.58,
+      "s": "HORMIGÓN PARA ARMAR HA-25/P/20/XC2 EN PILARES",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-para-armar-ha-25-p-20-xc2-en-vigas",
+      "m": 4,
+      "p": 118.4,
+      "s": "HORMIGÓN PARA ARMAR HA-25/P/20/XC2 EN VIGAS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-hormigon-para-armar-ha-30-p-20-xc2-en-losas",
+      "m": 5,
+      "p": 124.57,
+      "s": "HORMIGÓN PARA ARMAR HA-30/P/20/XC2 EN LOSAS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-hormigon-para-armar-ha-30-p-20-xc2-en-muros",
+      "m": 4,
+      "p": 118.59,
+      "s": "HORMIGÓN PARA ARMAR HA-30/P/20/XC2 EN MUROS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-para-armar-ha-30-p-20-xc2-en-pilares",
+      "m": 3,
+      "p": 119.45,
+      "s": "HORMIGÓN PARA ARMAR HA-30/P/20/XC2 EN PILARES",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-para-armar-ha-30-p-20-xc2-en-vigas",
+      "m": 4,
+      "p": 124.27,
+      "s": "HORMIGÓN PARA ARMAR HA-30/P/20/XC2 EN VIGAS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-hormigon-para-armar-ha-35-p-20-xc2-en-losas",
+      "m": 5,
+      "p": 128.9,
+      "s": "HORMIGÓN PARA ARMAR HA-35/P/20/XC2 EN LOSAS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-hormigon-para-armar-ha-35-p-20-xc2-en-muros",
+      "m": 4,
+      "p": 122.92,
+      "s": "HORMIGÓN PARA ARMAR HA-35/P/20/XC2 EN MUROS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-para-armar-ha-35-p-20-xc2-en-pilares",
+      "m": 3,
+      "p": 123.78,
+      "s": "HORMIGÓN PARA ARMAR HA-35/P/20/XC2 EN PILARES",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-hormigon-para-armar-ha-35-p-20-xc2-en-vigas",
+      "m": 4,
+      "p": 128.6,
+      "s": "HORMIGÓN PARA ARMAR HA-35/P/20/XC2 EN VIGAS",
+      "u": "m3"
+    },
+    {
+      "d": "2013-11",
+      "g": [],
+      "id": "wi-insuflado-25-cm-espesor-lana-de-roca-bajo-cubierta-tejas-25k",
+      "m": 9,
+      "p": 12.69,
+      "s": "INSUFLADO 25 cm ESPESOR LANA DE ROCA BAJO CUBIERTA TEJAS 25kg/m3",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-jacena-madera-pino-tratada-20x24-cm",
+      "m": 4,
+      "p": 58.99,
+      "s": "JÁCENA MADERA PINO TRATADA 20X24 cm",
+      "u": "m"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-junta-de-dilatacion-en-faldon-az-trans-invertida",
+      "m": 15,
+      "p": 95.22,
+      "s": "JUNTA DE DILATACIÓN EN FALDÓN AZ. TRANS. INVERTIDA",
+      "u": "m"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-junta-de-dilatacion-en-faldon-azotea-para-ajardinar",
+      "m": 10,
+      "p": 85.57,
+      "s": "JUNTA DE DILATACIÓN EN FALDÓN AZOTEA PARA AJARDINAR",
+      "u": "m"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-junta-de-dilatacion-en-faldon-para-ajardinar-plomo",
+      "m": 5,
+      "p": 38.55,
+      "s": "JUNTA DE DILATACIÓN EN FALDÓN PARA AJARDINAR PLOMO",
+      "u": "m"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-junta-de-dilatacion-faldones-con-proteccion-de-gravilla-plom",
+      "m": 7,
+      "p": 54.72,
+      "s": "JUNTA DE DILATACIÓN FALDONES CON PROTECCIÓN DE GRAVILLA PLOMO",
+      "u": "m"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-junta-de-dilatacion-plomo",
+      "m": 7,
+      "p": 45.62,
+      "s": "JUNTA DE DILATACIÓN PLOMO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-lamina-de-polietileno-sobre-sub-bases-de-cimentacion",
+      "m": 2,
+      "p": 1.43,
+      "s": "LAMINA DE POLIETILENO SOBRE SUB-BASES DE CIMENTACIÓN",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-limahoya-ch-lisa-ac-galv-ac-poliester",
+      "m": 5,
+      "p": 27.09,
+      "s": "LIMAHOYA CH. LISA AC. GALV. AC. POLIÉSTER",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-limahoya-chapa-lisa-ac-galv",
+      "m": 5,
+      "p": 21.13,
+      "s": "LIMAHOYA CHAPA LISA AC. GALV.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-limahoya-chapa-lisa-alum-en-faldon-chapa-conf",
+      "m": 6,
+      "p": 35.93,
+      "s": "LIMAHOYA CHAPA LISA ALUM. EN FALDÓN CHAPA CONF.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-limahoya-con-chapa-de-cinc-en-faldon-de-pizarra",
+      "m": 4,
+      "p": 31.23,
+      "s": "LIMAHOYA CON CHAPA DE CINC EN FALDÓN DE PIZARRA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-limahoya-de-chapa-de-cinc-en-placa-ondulada",
+      "m": 4,
+      "p": 52,
+      "s": "LIMAHOYA DE CHAPA DE CINC EN PLACA ONDULADA",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-limahoya-faldon-tejas-planas-o-curvas-con-chapa-de-cinc",
+      "m": 4,
+      "p": 31.53,
+      "s": "LIMAHOYA FALDÓN TEJAS PLANAS O CURVAS, CON CHAPA DE CINC",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-limatesa-de-fibrocemento",
+      "m": 3,
+      "p": 15.13,
+      "s": "LIMATESA DE FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-limatesa-de-tejas-curvas-de-ceramica-primera-calidad",
+      "m": 3,
+      "p": 16.46,
+      "s": "LIMATESA DE TEJAS CURVAS DE CERÁMICA PRIMERA CALIDAD",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-limatesa-de-tejas-planas-de-mortero-de-cemento",
+      "m": 3,
+      "p": 31.31,
+      "s": "LIMATESA DE TEJAS PLANAS DE MORTERO DE CEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2022-02",
+      "g": [],
+      "id": "wi-linea-de-anclaje-horizontal-permanente-de-cable-de-acero-sin",
+      "m": 9,
+      "p": 212.71,
+      "s": "LÍNEA DE ANCLAJE HORIZONTAL PERMANENTE, DE CABLE DE ACERO, SIN AMORTIGUADOR DE CAÍDAS",
+      "u": "m"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-lucernario-fijo-de-base-rectangular",
+      "m": 8,
+      "p": 123.23,
+      "s": "LUCERNARIO FIJO DE BASE RECTANGULAR",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-madera-laminada-gl-24-jacenas-directriz-recta-luz-5-10-m",
+      "m": 5,
+      "p": 186.37,
+      "s": "MADERA LAMINADA GL-24 JÁCENAS DIRECTRIZ RECTA LUZ 5-10 m",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-madera-laminada-gl-24-jacenas-directriz-recta-luz-5-m",
+      "m": 5,
+      "p": 132.95,
+      "s": "MADERA LAMINADA GL-24 JÁCENAS DIRECTRIZ RECTA LUZ <5 m",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-madera-laminada-gl-24-porticos-triartic-secc-variable-12-m",
+      "m": 7,
+      "p": 2081.31,
+      "s": "MADERA LAMINADA GL-24 PÓRTICOS TRIARTIC. SECC. VARIABLE 12 m",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-madera-laminada-gl-24-vigas-directriz-recta-hasta-12-m",
+      "m": 6,
+      "p": 1912.7,
+      "s": "MADERA LAMINADA GL-24 VIGAS DIRECTRIZ RECTA HASTA 12 m",
+      "u": "m3"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-micropilote-in-situ-aire-a-presion-120-mm-14-33-t",
+      "m": 5,
+      "p": 219.28,
+      "s": "MICROPILOTE \"IN SITU\" AIRE A PRESIÓN 120 mm 14,33 t",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-micropilote-in-situ-aire-a-presion-150-mm",
+      "m": 5,
+      "p": 243.86,
+      "s": "MICROPILOTE \"IN SITU\" AIRE A PRESIÓN 150 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-micropilote-in-situ-aire-a-presion-150-mm-18-t",
+      "m": 5,
+      "p": 253.33,
+      "s": "MICROPILOTE \"IN SITU\" AIRE A PRESIÓN 150 mm 18 t",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-micropilote-in-situ-aire-a-presion-150-mm-22-t",
+      "m": 5,
+      "p": 255.73,
+      "s": "MICROPILOTE \"IN SITU\" AIRE A PRESIÓN 150 mm 22 t",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-micropilote-in-situ-aire-a-presion-170-mm-34-5-t",
+      "m": 5,
+      "p": 308.73,
+      "s": "MICROPILOTE \"IN SITU\" AIRE A PRESIÓN 170 mm 34,5 t",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-micropilote-in-situ-c-camisa-acero-diam-100-mm",
+      "m": 8,
+      "p": 220.71,
+      "s": "MICROPILOTE \"IN SITU\" C/CAMISA ACERO DIÁM. 100 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-micropilote-in-situ-c-camisa-acero-diam-150-mm",
+      "m": 6,
+      "p": 289.22,
+      "s": "MICROPILOTE \"IN SITU\" C/CAMISA ACERO DIÁM. 150 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-micropilote-in-situ-c-camisa-acero-diam-150-mm-e4e1",
+      "m": 8,
+      "p": 274.83,
+      "s": "MICROPILOTE \"IN SITU\" C/CAMISA ACERO DIÁM. 150 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-micropilote-in-situ-c-camisa-acero-diam-48-mm",
+      "m": 8,
+      "p": 135.6,
+      "s": "MICROPILOTE \"IN SITU\" C/CAMISA ACERO DIÁM. 48 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-micropilote-in-situ-c-camisa-acero-diam-60-mm",
+      "m": 8,
+      "p": 141.26,
+      "s": "MICROPILOTE \"IN SITU\" C/CAMISA ACERO DIÁM. 60 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-micropilote-in-situ-c-camisa-acero-diam-75-50-mm",
+      "m": 8,
+      "p": 168.67,
+      "s": "MICROPILOTE \"IN SITU\" C/CAMISA ACERO DIÁM. 75,50 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-muro-pantalla-45-cm-esp-cuch-mec-y-6-m-prof-ha-25",
+      "m": 13,
+      "p": 209.44,
+      "s": "MURO PANTALLA 45 cm ESP. CUCH. MEC. Y 6 m PROF. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-muro-pantalla-45-cm-esp-cuch-mec-y-6-m-prof-ha-30",
+      "m": 13,
+      "p": 212.44,
+      "s": "MURO PANTALLA 45 cm ESP. CUCH. MEC. Y 6 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-muro-pantalla-45-cm-esp-cuch-mec-y-de-6-a-15-m-prof-ha-25",
+      "m": 13,
+      "p": 177.59,
+      "s": "MURO PANTALLA 45 cm ESP. CUCH. MEC. Y DE 6 A 15 m PROF. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-muro-pantalla-45-cm-esp-cuch-mec-y-de-6-a-15-m-prof-ha-30",
+      "m": 13,
+      "p": 180.49,
+      "s": "MURO PANTALLA 45 cm ESP. CUCH. MEC. Y DE 6 A 15 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-muro-pantalla-45-cm-esp-cuch-mec-y-mas-de-15-m-prof-ha-25",
+      "m": 13,
+      "p": 163.87,
+      "s": "MURO PANTALLA 45 cm ESP. CUCH. MEC. Y MÁS DE 15 m PROF. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-muro-pantalla-45-cm-esp-cuch-mec-y-mas-de-15-m-prof-ha-30",
+      "m": 15,
+      "p": 172,
+      "s": "MURO PANTALLA 45 cm ESP. CUCH. MEC. Y MÁS DE 15 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-muro-pantalla-50-cm-esp-cuch-hidr-y-6-m-prof-ha-30",
+      "m": 13,
+      "p": 220.89,
+      "s": "MURO PANTALLA 50 cm ESP. CUCH. HIDR. Y 6 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-muro-pantalla-50-cm-esp-cuch-hidr-y-de-6-a-15-m-prof-ha-30",
+      "m": 13,
+      "p": 188.65,
+      "s": "MURO PANTALLA 50 cm ESP. CUCH. HIDR. Y DE 6 A 15 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-muro-pantalla-50-cm-esp-cuch-hidr-y-mas-de-15-m-prof-ha-30",
+      "m": 13,
+      "p": 174.77,
+      "s": "MURO PANTALLA 50 cm ESP. CUCH. HIDR. Y MÁS DE 15 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-muro-pantalla-60-cm-esp-cuch-hidr-y-6-m-prof-ha-30",
+      "m": 13,
+      "p": 262.14,
+      "s": "MURO PANTALLA 60 cm ESP. CUCH. HIDR. Y 6 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-muro-pantalla-60-cm-esp-cuch-hidr-y-de-6-a-15-m-prof-ha-30",
+      "m": 13,
+      "p": 225.32,
+      "s": "MURO PANTALLA 60 cm ESP. CUCH. HIDR. Y DE 6 A 15 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-muro-pantalla-60-cm-esp-cuch-hidr-y-mas-de-15-m-prof-ha-30",
+      "m": 13,
+      "p": 208.59,
+      "s": "MURO PANTALLA 60 cm ESP. CUCH. HIDR. Y MÁS DE 15 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-muro-pantalla-65-cm-esp-cuch-mec-y-6-m-prof-ha-25",
+      "m": 13,
+      "p": 265.49,
+      "s": "MURO PANTALLA 65 cm ESP. CUCH. MEC. Y 6 m PROF. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-muro-pantalla-65-cm-esp-cuch-mec-y-6-m-prof-ha-30",
+      "m": 13,
+      "p": 269.83,
+      "s": "MURO PANTALLA 65 cm ESP. CUCH. MEC. Y 6 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-muro-pantalla-65-cm-esp-cuch-mec-y-de-6-a-15-m-prof-ha-25",
+      "m": 13,
+      "p": 228.39,
+      "s": "MURO PANTALLA 65 cm ESP. CUCH. MEC. Y DE 6 A 15 m PROF. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-muro-pantalla-65-cm-esp-cuch-mec-y-de-6-a-15-m-prof-ha-30",
+      "m": 13,
+      "p": 232.59,
+      "s": "MURO PANTALLA 65 cm ESP. CUCH. MEC. Y DE 6 A 15 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-muro-pantalla-65-cm-esp-cuch-mec-y-mas-de-15-m-prof-ha-25",
+      "m": 13,
+      "p": 211.82,
+      "s": "MURO PANTALLA 65 cm ESP. CUCH. MEC. Y MÁS DE 15 m PROF. (HA-25)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-muro-pantalla-65-cm-esp-cuch-mec-y-mas-de-15-m-prof-ha-30",
+      "m": 13,
+      "p": 215.96,
+      "s": "MURO PANTALLA 65 cm ESP. CUCH. MEC. Y MÁS DE 15 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-muro-pantalla-70-cm-esp-cuch-mec-y-mas-de-15-m-prof-ha-30",
+      "m": 13,
+      "p": 221.84,
+      "s": "MURO PANTALLA 70 cm ESP. CUCH. MEC. Y MÁS DE 15 m PROF. (HA-30)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-barren-ha-25-f-20-xc2-diam-35-cm",
+      "m": 9,
+      "p": 63.7,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-25/F/20/XC2 DIÁM. 35 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-barren-ha-25-f-20-xc2-diam-45-cm",
+      "m": 9,
+      "p": 76.58,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-25/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-barren-ha-25-f-20-xc2-diam-55-cm",
+      "m": 9,
+      "p": 95.8,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-25/F/20/XC2 DIÁM. 55 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-barren-ha-25-f-20-xc2-diam-65-cm",
+      "m": 9,
+      "p": 116.55,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-25/F/20/XC2 DIÁM. 65 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-barren-ha-25-f-20-xc2-diam-75-cm",
+      "m": 9,
+      "p": 146.67,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-25/F/20/XC2 DIÁM. 75 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-barren-ha-25-f-20-xc2-diam-85-cm",
+      "m": 9,
+      "p": 173.86,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-25/F/20/XC2 DIÁM. 85 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-barren-ha-30-f-20-xc2-diam-35-cm",
+      "m": 9,
+      "p": 64.33,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-30/F/20/XC2 DIÁM. 35 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-barren-ha-30-f-20-xc2-diam-45-cm",
+      "m": 9,
+      "p": 77.61,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-30/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-barren-ha-30-f-20-xc2-diam-55-cm",
+      "m": 9,
+      "p": 97.31,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-30/F/20/XC2 DIÁM. 55 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-barren-ha-30-f-20-xc2-diam-65-cm",
+      "m": 9,
+      "p": 118.63,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-30/F/20/XC2 DIÁM. 65 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-barren-ha-30-f-20-xc2-diam-75-cm",
+      "m": 9,
+      "p": 149.3,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-30/F/20/XC2 DIÁM. 75 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-barren-ha-30-f-20-xc2-diam-85-cm",
+      "m": 9,
+      "p": 176.93,
+      "s": "PILOTE \"IN SITU\" BARREN. HA-30/F/20/XC2 DIÁM. 85 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-ent-perd-ha-25-f-20-xc2-diam-45-cm",
+      "m": 11,
+      "p": 220.46,
+      "s": "PILOTE \"IN SITU\" ENT. PERD. HA-25/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-ent-perd-ha-30-f-20-xc2-diam-45-cm",
+      "m": 10,
+      "p": 215.21,
+      "s": "PILOTE \"IN SITU\" ENT. PERD HA-30/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-ent-rec-azuche-ha-25-f-20-xc2-diam-45-cm",
+      "m": 8,
+      "p": 167.55,
+      "s": "PILOTE \"IN SITU\" ENT. REC/AZUCHE HA-25/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-ent-rec-azuche-ha-30-f-20-xc2-diam-45-cm",
+      "m": 8,
+      "p": 168.37,
+      "s": "PILOTE \"IN SITU\" ENT. REC/AZUCHE HA-30/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-ent-rec-azuche-ha-30-f-20-xc2-diam-55-cm",
+      "m": 8,
+      "p": 205.01,
+      "s": "PILOTE \"IN SITU\" ENT. REC/AZUCHE HA-30/F/20/XC2 DIÁM. 55 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-ent-rec-azuche-ha-30-f-20-xc2-diam-65-cm",
+      "m": 8,
+      "p": 235.36,
+      "s": "PILOTE \"IN SITU\" ENT. REC/AZUCHE HA-30/F/20/XC2 DIÁM. 65 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-ent-rec-ha-25-f-20-xc2-diam-45-cm",
+      "m": 9,
+      "p": 189.47,
+      "s": "PILOTE \"IN SITU\" ENT. REC. HA-25/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-ent-rec-ha-30-f-20-xc2-diam-100-cm",
+      "m": 9,
+      "p": 425.03,
+      "s": "PILOTE \"IN SITU\" ENT. REC HA-30/F/20/XC2 DIÁM. 100 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-ent-rec-ha-30-f-20-xc2-diam-45-cm",
+      "m": 9,
+      "p": 190.29,
+      "s": "PILOTE \"IN SITU\" ENT. REC HA-30/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-ent-rec-ha-30-f-20-xc2-diam-55-cm",
+      "m": 9,
+      "p": 218.91,
+      "s": "PILOTE \"IN SITU\" ENT. REC HA-30/F/20/XC2 DIÁM. 55 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-ent-rec-ha-30-f-20-xc2-diam-65-cm",
+      "m": 9,
+      "p": 269.11,
+      "s": "PILOTE \"IN SITU\" ENT. REC HA-30/F/20/XC2 DIÁM. 65 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-ent-rec-ha-30-f-20-xc2-diam-80-cm",
+      "m": 9,
+      "p": 334.26,
+      "s": "PILOTE \"IN SITU\" ENT. REC HA-30/F/20/XC2 DIÁM. 80 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-ent-rec-tapon-gr-ha-25-f-20-xc2-diam-45-cm",
+      "m": 8,
+      "p": 148.9,
+      "s": "PILOTE \"IN SITU\" ENT. REC/TAPON GR. HA-25/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-ent-rec-tapon-gr-ha-30-f-20-xc2-diam-45-cm",
+      "m": 8,
+      "p": 149.94,
+      "s": "PILOTE \"IN SITU\" ENT. REC/TAPON GR HA-30/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-lodos-ha-25-f-20-xc2-diam-45-cm",
+      "m": 10,
+      "p": 148.3,
+      "s": "PILOTE \"IN SITU\" LODOS HA-25/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-lodos-ha-25-f-20-xc2-diam-55-cm",
+      "m": 10,
+      "p": 183.87,
+      "s": "PILOTE \"IN SITU\" LODOS HA-25/F/20/XC2 DIÁM. 55 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-lodos-ha-30-f-20-xc2-diam-45-cm",
+      "m": 10,
+      "p": 149.12,
+      "s": "PILOTE \"IN SITU\" LODOS HA-30/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-lodos-ha-30-f-20-xc2-diam-55-cm",
+      "m": 10,
+      "p": 185.08,
+      "s": "PILOTE \"IN SITU\" LODOS HA-30/F/20/XC2 DIÁM. 55 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-sin-ent-ha-25-f-20-xc2-diam-45-cm",
+      "m": 7,
+      "p": 67.84,
+      "s": "PILOTE \"IN SITU\" SIN ENT. HA-25/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-in-situ-sin-ent-ha-30-f-20-xc2-diam-45-cm",
+      "m": 8,
+      "p": 73.18,
+      "s": "PILOTE \"IN SITU\" SIN ENT. HA-30/F/20/XC2 DIÁM. 45 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-02",
+      "g": [],
+      "id": "wi-pilote-prefabric-prof-hasta-12-m-diam-30-cm",
+      "m": 6,
+      "p": 87.01,
+      "s": "PILOTE PREFABRIC. PROF. HASTA 12 m DIÁM. 30 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-prefabric-prof-hasta-12-m-diam-35-cm",
+      "m": 6,
+      "p": 108.53,
+      "s": "PILOTE PREFABRIC. PROF. HASTA 12 m DIÁM. 35 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-02",
+      "g": [],
+      "id": "wi-pilote-prefabric-prof-mayor-de-12-m-diam-30-cm",
+      "m": 6,
+      "p": 87.01,
+      "s": "PILOTE PREFABRIC. PROF. MAYOR DE 12 m DIÁM. 30 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-prefabric-prof-mayor-de-12-m-diam-35-cm",
+      "m": 6,
+      "p": 108.53,
+      "s": "PILOTE PREFABRIC. PROF. MAYOR DE 12 m DIÁM. 35 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-prefabricado-seccion-200x200-mm",
+      "m": 6,
+      "p": 133.82,
+      "s": "PILOTE PREFABRICADO SECCIÓN 200X200 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-prefabricado-seccion-235x235-mm",
+      "m": 6,
+      "p": 142.01,
+      "s": "PILOTE PREFABRICADO SECCIÓN 235X235 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-prefabricado-seccion-270x270-mm",
+      "m": 6,
+      "p": 150.98,
+      "s": "PILOTE PREFABRICADO SECCIÓN 270X270 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-prefabricado-seccion-300x300-mm",
+      "m": 6,
+      "p": 170.73,
+      "s": "PILOTE PREFABRICADO SECCIÓN 300X300 mm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pilote-prefabricado-seccion-350x350-mm",
+      "m": 6,
+      "p": 194.44,
+      "s": "PILOTE PREFABRICADO SECCIÓN 350X350 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-pilote-prefabricado-seccion-400x400-mm",
+      "m": 6,
+      "p": 178.61,
+      "s": "PILOTE PREFABRICADO SECCIÓN 400X400 mm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-protec-zunchos-zapatas-y-encep-c-plancha-poliester",
+      "m": 4,
+      "p": 9.91,
+      "s": "PROTEC. ZUNCHOS, ZAPATAS Y ENCEP. C/PLANCHA POLIÉSTER",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-relleno-de-grava-gruesa-limpia-en-elem-ciment",
+      "m": 4,
+      "p": 40.92,
+      "s": "RELLENO DE GRAVA GRUESA LIMPIA EN ELEM. CIMENT.",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-relleno-de-grava-gruesa-limpia-en-losas",
+      "m": 4,
+      "p": 35.62,
+      "s": "RELLENO DE GRAVA GRUESA LIMPIA EN LOSAS",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-relleno-de-grava-gruesa-limpia-en-trasdosado",
+      "m": 2,
+      "p": 31.91,
+      "s": "RELLENO DE GRAVA GRUESA LIMPIA EN TRASDOSADO",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-remate-de-faldon-de-azotea-invertida-no-transitable",
+      "m": 3,
+      "p": 20.11,
+      "s": "REMATE DE FALDÓN DE AZOTEA INVERTIDA NO TRANSITABLE",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-remate-lateral-ch-lisa-ac-galv-ac-poliester",
+      "m": 5,
+      "p": 16.24,
+      "s": "REMATE LATERAL CH. LISA AC. GALV. AC. POLIÉSTER",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-remate-lateral-chapa-lisa-acero-galvanizado",
+      "m": 5,
+      "p": 9.06,
+      "s": "REMATE LATERAL CHAPA LISA ACERO GALVANIZADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-remate-lateral-chapa-lisa-alum-en-faldon-chapa-conf",
+      "m": 6,
+      "p": 32.86,
+      "s": "REMATE LATERAL CHAPA LISA ALUM. EN FALDÓN CHAPA CONF.",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-remate-lateral-de-fibrocemento",
+      "m": 3,
+      "p": 16.74,
+      "s": "REMATE LATERAL DE FIBROCEMENTO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-soporte-vertical-madera-pino-tratada-20x20-cm",
+      "m": 4,
+      "p": 58.87,
+      "s": "SOPORTE VERTICAL MADERA PINO TRATADA 20X20 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-sub-base-de-albero-en-rama",
+      "m": 4,
+      "p": 26.12,
+      "s": "SUB-BASE DE ALBERO EN RAMA",
+      "u": "m3"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-sub-base-de-zahorra-natural",
+      "m": 4,
+      "p": 25.27,
+      "s": "SUB-BASE DE ZAHORRA NATURAL",
+      "u": "m3"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tablero-de-madera-machiembr-tratada-22-mm-esp",
+      "m": 4,
+      "p": 42.48,
+      "s": "TABLERO DE MADERA MACHIEMBR. TRATADA 22 mm ESP.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tablero-de-madera-machiembr-tratada-40-mm-esp",
+      "m": 4,
+      "p": 54.45,
+      "s": "TABLERO DE MADERA MACHIEMBR. TRATADA 40 mm ESP.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-vigueta-madera-pino-17x20-cm",
+      "m": 4,
+      "p": 44.69,
+      "s": "VIGUETA MADERA PINO 17x20 cm",
+      "u": "m"
+    }
+  ],
+  "title": "Obra nueva",
+  "version": "0.3.0"
+}

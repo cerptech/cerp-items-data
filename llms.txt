@@ -1,6 +1,6 @@
 # Banco de ítems de construcción CERP
 
-> Catálogo abierto de 12565 ítems de construcción de España con precios de referencia y descomposición (BOM: mano de obra, materiales, maquinaria). Versión 0.2.0. Formato canónico JSON; cada capítulo también en Markdown. Ids: wi=partida, mt=material, mo=mano de obra, mq=maquinaria, au=auxiliar, ot=otro. Cada precio lleva procedencia (fuente, código origen, edición, ámbito, fecha).
+> Catálogo abierto de 12565 ítems de construcción de España con precios de referencia y descomposición (BOM: mano de obra, materiales, maquinaria). Versión 0.3.0. Formato canónico JSON; cada capítulo también en Markdown. Ids: wi=partida, mt=material, mo=mano de obra, mq=maquinaria, au=auxiliar, ot=otro. Cada precio lleva procedencia (fuente, código origen, edición, ámbito, fecha).
 
 Atribución obligatoria al reutilizar: "Información obtenida del Portal de la Junta de Andalucía".
 

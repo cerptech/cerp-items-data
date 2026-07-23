@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2026-07-22T19:15:08.304Z",
+  "roots": [
+    {
+      "k": "01-ONU",
+      "l": "Obra nueva",
+      "n": 483,
+      "s": "obra-nueva"
+    },
+    {
+      "k": "02-REH",
+      "l": "Rehabilitación",
+      "n": 793,
+      "s": "rehabilitacion"
+    },
+    {
+      "k": "03-CIV",
+      "l": "Obra civil",
+      "n": 715,
+      "s": "obra-civil"
+    },
+    {
+      "k": "09-COM",
+      "l": "Común a todos los tipos",
+      "n": 682,
+      "s": "comun-a-todos-los-tipos"
+    },
+    {
+      "k": "99-SIN",
+      "l": "Sin clasificar",
+      "n": 3795,
+      "s": "sin-clasificar"
+    }
+  ],
+  "total": 6468,
+  "version": "0.3.0"
+}

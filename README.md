@@ -1,6 +1,6 @@
 # Banco de ítems de construcción CERP
 
-Catálogo abierto de **12565 ítems de construcción de España** con precios de referencia y descomposición completa (mano de obra, materiales y maquinaria con rendimientos). Versión **0.2.0** · generado 2026-07-22 · mantenido por [CERP](https://cerp.es).
+Catálogo abierto de **12565 ítems de construcción de España** con precios de referencia y descomposición completa (mano de obra, materiales y maquinaria con rendimientos). Versión **0.3.0** · generado 2026-07-22 · mantenido por [CERP](https://cerp.es).
 
 6510 partidas de obra · 5639 materiales · 107 recursos de mano de obra y maquinaria
 

@@ -312,7 +312,7 @@
       "title": "Sin clasificar"
     }
   ],
-  "generatedAt": "2026-07-22T01:42:14.624Z",
+  "generatedAt": "2026-07-22T19:15:08.304Z",
   "stats": {
     "byKind": {
       "auxiliary": 12,
@@ -341,8 +341,17 @@
       },
       "tree": "taxonomies/orden-ejecucion/tree.json",
       "version": "1.0.0"
+    },
+    {
+      "id": "tipo-obra",
+      "name": {
+        "en": "Work type",
+        "es": "Tipo de obra"
+      },
+      "tree": "taxonomies/tipo-obra/tree.json",
+      "version": "1.0.0"
     }
   ],
   "tree": "tree.json",
-  "version": "0.2.0"
+  "version": "0.3.0"
 }

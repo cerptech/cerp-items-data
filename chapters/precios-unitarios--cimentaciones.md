@@ -1,6 +1,6 @@
 # Precios Unitarios > CIMENTACIONES
 
-Banco de ítems de construcción CERP v0.2.0 — 181 ítems. Datos estructurados en [`precios-unitarios--cimentaciones.json`](./precios-unitarios--cimentaciones.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.3.0 — 181 ítems. Datos estructurados en [`precios-unitarios--cimentaciones.json`](./precios-unitarios--cimentaciones.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
 > Información obtenida del Portal de la Junta de Andalucía
 

@@ -1,6 +1,6 @@
 # Precios Auxiliares > AGLOMERANTES Y MORTEROS
 
-Banco de ítems de construcción CERP v0.2.0 — 39 ítems. Datos estructurados en [`precios-auxiliares--aglomerantes-y-morteros.json`](./precios-auxiliares--aglomerantes-y-morteros.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.3.0 — 39 ítems. Datos estructurados en [`precios-auxiliares--aglomerantes-y-morteros.json`](./precios-auxiliares--aglomerantes-y-morteros.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
 > Información obtenida del Portal de la Junta de Andalucía
 

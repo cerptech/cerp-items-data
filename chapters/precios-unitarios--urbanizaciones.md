@@ -1,6 +1,6 @@
 # Precios Unitarios > URBANIZACIONES
 
-Banco de ítems de construcción CERP v0.2.0 — 604 ítems. Datos estructurados en [`precios-unitarios--urbanizaciones.json`](./precios-unitarios--urbanizaciones.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.3.0 — 604 ítems. Datos estructurados en [`precios-unitarios--urbanizaciones.json`](./precios-unitarios--urbanizaciones.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
 > Información obtenida del Portal de la Junta de Andalucía
 

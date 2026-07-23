@@ -1,6 +1,6 @@
 # Precios Unitarios > MANTENIMIENTO
 
-Banco de ítems de construcción CERP v0.2.0 — 288 ítems. Datos estructurados en [`precios-unitarios--mantenimiento.json`](./precios-unitarios--mantenimiento.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.3.0 — 288 ítems. Datos estructurados en [`precios-unitarios--mantenimiento.json`](./precios-unitarios--mantenimiento.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
 > Información obtenida del Portal de la Junta de Andalucía
 
