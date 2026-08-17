@@ -8168,10 +8168,11 @@
       "updatedAt": "2026-07-21T11:25:32.116Z",
       "verification": {
         "findings": [
+          "chapter_mismatch-fca4bf474828b5bd",
           "stale_edition-4bcce8f95fd7d3c9"
         ],
-        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
-        "status": "auto_ok"
+        "lastCheckedAt": "2026-08-17T18:24:17.833Z",
+        "status": "conflicted"
       }
     },
     {
@@ -8248,10 +8249,11 @@
       "updatedAt": "2026-07-21T11:25:32.116Z",
       "verification": {
         "findings": [
+          "chapter_mismatch-37e3d77b64b8a275",
           "stale_edition-0d3372a265644682"
         ],
-        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
-        "status": "auto_ok"
+        "lastCheckedAt": "2026-08-17T18:24:17.833Z",
+        "status": "conflicted"
       }
     },
     {
@@ -14246,10 +14248,11 @@
       "updatedAt": "2026-07-21T11:25:32.116Z",
       "verification": {
         "findings": [
+          "chapter_mismatch-0cd90e2ca9900c74",
           "stale_edition-3cec05112dde739e"
         ],
-        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
-        "status": "auto_ok"
+        "lastCheckedAt": "2026-08-17T18:24:17.833Z",
+        "status": "conflicted"
       }
     },
     {
@@ -14332,10 +14335,11 @@
       "updatedAt": "2026-07-21T11:25:32.116Z",
       "verification": {
         "findings": [
+          "chapter_mismatch-c95eb835423dbb4d",
           "stale_edition-249dd6ff868d1608"
         ],
-        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
-        "status": "auto_ok"
+        "lastCheckedAt": "2026-08-17T18:24:17.833Z",
+        "status": "conflicted"
       }
     },
     {
@@ -17688,10 +17692,11 @@
       "updatedAt": "2026-07-21T11:25:32.116Z",
       "verification": {
         "findings": [
+          "chapter_mismatch-f187439a7ec800b7",
           "stale_edition-b87576a9ba543ebd"
         ],
-        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
-        "status": "auto_ok"
+        "lastCheckedAt": "2026-08-17T18:24:17.833Z",
+        "status": "conflicted"
       }
     },
     {
@@ -17774,10 +17779,11 @@
       "updatedAt": "2026-07-21T11:25:32.116Z",
       "verification": {
         "findings": [
+          "chapter_mismatch-926fe42a91cb1445",
           "stale_edition-0d1e65d7f92059b5"
         ],
-        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
-        "status": "auto_ok"
+        "lastCheckedAt": "2026-08-17T18:24:17.833Z",
+        "status": "conflicted"
       }
     },
     {
@@ -24724,10 +24730,11 @@
       "updatedAt": "2026-07-21T11:25:32.116Z",
       "verification": {
         "findings": [
+          "chapter_mismatch-ac1b3a566c6d32e3",
           "stale_edition-d49635b86eb2c1ec"
         ],
-        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
-        "status": "auto_ok"
+        "lastCheckedAt": "2026-08-17T18:24:17.833Z",
+        "status": "conflicted"
       }
     },
     {
@@ -41892,5 +41899,5 @@
       }
     }
   ],
-  "version": "0.3.0"
+  "version": "0.4.0"
 }

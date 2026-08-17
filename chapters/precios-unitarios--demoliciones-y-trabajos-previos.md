@@ -1,6 +1,6 @@
 # Precios Unitarios > DEMOLICIONES Y TRABAJOS PREVIOS
 
-Banco de ítems de construcción CERP v0.3.0 — 490 ítems. Datos estructurados en [`precios-unitarios--demoliciones-y-trabajos-previos.json`](./precios-unitarios--demoliciones-y-trabajos-previos.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.4.0 — 490 ítems. Datos estructurados en [`precios-unitarios--demoliciones-y-trabajos-previos.json`](./precios-unitarios--demoliciones-y-trabajos-previos.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
 > Información obtenida del Portal de la Junta de Andalucía
 
@@ -68,7 +68,7 @@ Banco de ítems de construcción CERP v0.3.0 — 490 ítems. Datos estructurados
 | `wi-demolicion-de-particion-interior-de-citara-de-ladrillo-hueco` | DEMOLICIÓN DE PARTICIÓN INTERIOR DE CITARA DE LADRILLO HUECO | m2 | 14.41 | 2022-12 | mo-peon-especial ×0.605<br>mq-pala-cargadora ×0.006<br>mq-camion-basculante ×0.023 |
 | `wi-demolicion-de-particion-interior-de-citara-de-ladrillo-maciz` | DEMOLICIÓN DE PARTICIÓN INTERIOR DE CITARA DE LADRILLO MACIZO | m2 | 13.42 | 2022-12 | mo-peon-especial ×0.56<br>mq-pala-cargadora ×0.006<br>mq-camion-basculante ×0.023 |
 | `wi-demolicion-de-particion-interior-de-tabicon-de-l-gafa-sencil` | DEMOLICIÓN DE PARTICIÓN INTERIOR DE TABICÓN DE L/GAFA SENCILLO | m2 | 9.56 | 2022-12 | mo-peon-especial ×0.405<br>mq-camion-basculante ×0.004<br>mq-pala-cargadora ×0.014 |
-| `wi-demolicion-de-particion-interior-de-tabique-l-hueco-sencillo` | DEMOLICIÓN DE PARTICIÓN INTERIOR DE TABIQUE L/HUECO SENCILLO | m2 | 95.67 | 2022-12 | mq-pala-cargadora ×1<br>mq-camion-basculante ×1<br>mo-peon-especial ×1 |
+| `wi-demolicion-de-particion-interior-de-tabique-l-hueco-sencillo` | DEMOLICIÓN DE PARTICIÓN INTERIOR DE TABIQUE L/HUECO SENCILLO | m2 | 9.56 | 2022-12 | mo-peon-especial ×0.405<br>mq-pala-cargadora ×0.014<br>mq-camion-basculante ×0.004 |
 | `wi-demolicion-de-pav-continuo-de-mortero-hidraulico-carga-man` | DEMOLICIÓN DE PAV. CONTINUO DE MORTERO HIDRÁULICO CARGA MAN. | m2 | 9.5 | 2022-12 | mo-peon-especial ×0.35<br>mq-compresor-dos-martillos ×0.05<br>mq-camion-basculante ×0.035 |
 | `wi-demolicion-de-pav-continuo-de-mortero-hidraulico-carga-mecan` | DEMOLICIÓN DE PAV. CONTINUO DE MORTERO HIDRÁULICO CARGA MECANICA | m2 | 5.88 | 2022-12 | mo-peon-especial ×0.22<br>mq-compresor-dos-martillos ×0.05<br>mq-pala-cargadora ×0.003<br>mq-camion-basculante ×0.012 |
 | `wi-demolicion-de-pavimento-baldosas` | Demolición de pavimento baldosas | m2 | 3.83 | 2022-12 | mq-compresor-dos-martillos ×0.05<br>mo-peon-especial ×0.1<br>mo-oficial-1 ×0.05 |
@@ -85,8 +85,8 @@ Banco de ítems de construcción CERP v0.3.0 — 490 ítems. Datos estructurados
 | `wi-demolicion-de-tabicon-de-ladrillo-c-manual-t-vert-contened` | DEMOLICIÓN DE TABICÓN DE LADRILLO, C. MANUAL, T. VERT. CONTENED. | m2 | 17.1 | 2022-12 | mo-peon-especial ×0.4<br>mq-carretilla-mecanica-basculante-1-m3 ×1.3<br>mq-transporte-en-contenedor ×0.075 |
 | `wi-demolicion-de-tabicon-de-ladrillo-c-mecanica-t-vertedero` | DEMOLICIÓN DE TABICÓN DE LADRILLO, C. MECÁNICA T. VERTEDERO | m2 | 7.75 | 2022-12 | mo-peon-especial ×0.33<br>mq-camion-basculante ×0.01<br>mq-pala-cargadora ×0.003 |
 | `wi-demolicion-de-tabicon-de-ladrillo-gafa-t-a-contenedor` | DEMOLICIÓN DE TABICÓN DE LADRILLO GAFA, T. A CONTENEDOR | m2 | 15.87 | 2022-12 | mo-peon-especial ×0.4<br>mq-carretilla-mecanica-basculante-1-m3 ×1.3 |
-| `wi-demolicion-de-tabique-de-l-hueco-sencillo-c-manual-t-vert` | DEMOLICIÓN DE TABIQUE DE L/ HUECO SENCILLO, C. MANUAL, T. VERT. | m2 | 60.13 | 2022-12 | mq-camion-basculante ×1<br>mo-peon-especial ×1 |
-| `wi-demolicion-de-tabique-de-l-hueco-sencillo-c-mecanica-t-vert` | DEMOLICIÓN DE TABIQUE DE L/HUECO SENCILLO, C. MECÁNICA, T. VERT. | m2 | 95.67 | 2022-12 | mo-peon-especial ×1<br>mq-pala-cargadora ×1<br>mq-camion-basculante ×1 |
+| `wi-demolicion-de-tabique-de-l-hueco-sencillo-c-manual-t-vert` | DEMOLICIÓN DE TABIQUE DE L/ HUECO SENCILLO, C. MANUAL, T. VERT. | m2 | 7.09 | 2022-12 | mo-peon-especial ×0.27<br>mq-camion-basculante ×0.03 |
+| `wi-demolicion-de-tabique-de-l-hueco-sencillo-c-mecanica-t-vert` | DEMOLICIÓN DE TABIQUE DE L/HUECO SENCILLO, C. MECÁNICA, T. VERT. | m2 | 6.43 | 2022-12 | mo-peon-especial ×0.27<br>mq-pala-cargadora ×0.003<br>mq-camion-basculante ×0.01 |
 | `wi-demolicion-de-tablero-de-ladrillo-hueco` | DEMOLICIÓN DE TABLERO DE LADRILLO HUECO | m2 | 6.83 | 2022-12 | mo-peon-especial ×0.25<br>mq-camion-basculante ×0.035 |
 | `wi-demolicion-edificio-exento-estruc-hormigon-m-mecanicos` | DEMOLICIÓN EDIFICIO EXENTO, ESTRUC. HORMIGÓN, M. MECÁNICOS | m3 | 10.85 | 2022-12 | mo-oficial-1 ×0.04<br>mo-peon-especial ×0.356<br>mq-compresor-dos-martillos ×0.16<br>mq-pala-cargadora ×0.003<br>mq-camion-basculante ×0.012 |
 | `wi-demolicion-edificio-exento-estruc-metalica-m-manuales` | DEMOLICIÓN EDIFICIO EXENTO, ESTRUC. METÁLICA, M. MANUALES | m3 | 15.96 | 2022-01 | mo-of-1-cerrajero-chapista ×0.07<br>mo-peon-especial ×0.6<br>mq-camion-basculante ×0.019<br>mq-pala-cargadora ×0.002<br>mt-material-complementario-o-pzas-especiales ×0.5<br>mt-pequeno-material ×0.136 |

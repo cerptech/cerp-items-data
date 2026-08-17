@@ -78,10 +78,11 @@
       "updatedAt": "2026-07-21T11:25:32.116Z",
       "verification": {
         "findings": [
+          "chapter_mismatch-75446d68b95515d4",
           "stale_edition-436913e52bab98bb"
         ],
-        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
-        "status": "auto_ok"
+        "lastCheckedAt": "2026-08-17T18:24:17.833Z",
+        "status": "conflicted"
       }
     },
     {
@@ -368,10 +369,11 @@
       "updatedAt": "2026-07-21T11:25:32.116Z",
       "verification": {
         "findings": [
+          "chapter_mismatch-1c6ee537e2a39ee0",
           "stale_edition-299b0934cd983ca4"
         ],
-        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
-        "status": "auto_ok"
+        "lastCheckedAt": "2026-08-17T18:24:17.833Z",
+        "status": "conflicted"
       }
     },
     {
@@ -430,10 +432,11 @@
       "updatedAt": "2026-07-21T11:25:32.116Z",
       "verification": {
         "findings": [
+          "chapter_mismatch-6e5a6b6e4b4dd533",
           "stale_edition-c3349ae83d5eff9f"
         ],
-        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
-        "status": "auto_ok"
+        "lastCheckedAt": "2026-08-17T18:24:17.833Z",
+        "status": "conflicted"
       }
     },
     {
@@ -498,10 +501,11 @@
       "updatedAt": "2026-07-21T11:25:32.116Z",
       "verification": {
         "findings": [
+          "chapter_mismatch-4954adcb16bfbaf1",
           "duplicate_candidate-5d03f465de7fd2aa",
           "stale_edition-d74b1f77b7db191e"
         ],
-        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "lastCheckedAt": "2026-08-17T18:24:17.833Z",
         "status": "conflicted"
       }
     },
@@ -573,10 +577,11 @@
       "updatedAt": "2026-07-21T11:25:32.116Z",
       "verification": {
         "findings": [
+          "chapter_mismatch-366f68db50b0743a",
           "stale_edition-3bc6d575f20171c2"
         ],
-        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
-        "status": "auto_ok"
+        "lastCheckedAt": "2026-08-17T18:24:17.833Z",
+        "status": "conflicted"
       }
     },
     {
@@ -1480,10 +1485,11 @@
       "updatedAt": "2026-07-21T11:25:32.116Z",
       "verification": {
         "findings": [
+          "chapter_mismatch-c6443b90cb191e18",
           "stale_edition-7159a56c8a1ce22d"
         ],
-        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
-        "status": "auto_ok"
+        "lastCheckedAt": "2026-08-17T18:24:17.833Z",
+        "status": "conflicted"
       }
     },
     {
@@ -2086,10 +2092,11 @@
       "updatedAt": "2026-07-21T11:25:32.116Z",
       "verification": {
         "findings": [
+          "chapter_mismatch-d1e908611bedf453",
           "stale_edition-570788fa541755e8"
         ],
-        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
-        "status": "auto_ok"
+        "lastCheckedAt": "2026-08-17T18:24:17.833Z",
+        "status": "conflicted"
       }
     },
     {
@@ -4138,21 +4145,21 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 0.405,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.014,
           "ref": "mq-pala-cargadora",
           "role": "machinery"
         },
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 0.004,
           "ref": "mq-camion-basculante",
           "role": "machinery"
-        },
-        {
-          "factor": 1,
-          "quantity": 1,
-          "ref": "mo-peon-especial",
-          "role": "labor"
         }
       ],
       "classification": {
@@ -4164,6 +4171,7 @@
           "Tabiques sencillos"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "wi-demolicion-de-particion-interior-de-tabique-l-hueco-sencillo",
       "kind": "work_item",
@@ -4171,15 +4179,14 @@
         {
           "currency": "EUR",
           "date": "2022-12",
-          "edition": "2024-01",
-          "kind": "list",
+          "edition": "2026-08",
+          "kind": "computed_from_bom",
           "scope": {
-            "country": "ES",
-            "region": "AND"
+            "country": "ES"
           },
-          "source": "bcca",
-          "sourceCode": "01ADS00003",
-          "value": 95.67
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 9.56
         }
       ],
       "sources": [
@@ -4188,12 +4195,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "wi-demolicion-de-particion-interior-de-tabique-l-hueco-sencillo",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "DEMOLICIÓN DE PARTICIÓN INTERIOR DE TABIQUE L/HUECO SENCILLO",
-      "text": "Demolición de partición interior de tabique de ladrillo hueco sencillo, con medios manuales, incluso revestimientos continuos, delcolgado de carpintería, desmontado de cerco. p.p. de instalaciones, alicatados, carga mecánica y transporte de material sobrante a vertedero. Medida la superfice inicial deduciendo huecos.",
+      "text": "Demolición de partición interior de tabique de ladrillo hueco sencillo, con medios manuales, incluso revestimientos continuos, delcolgado de carpintería, desmontado de cerco. p.p. de instalaciones, alicatados, carga mecánica y transporte de material sobrante a vertedero. Medida la superfice inicial deduciendo huecos. Corrección CERP (2026-08, incidente Cresata): la BCCA 2024-01 imputaba 1 h completa de pala cargadora, 1 h de camión basculante y 1 h de peón por cada m² demolido (95,67 €/m²). Rendimientos adaptados de la partida hermana de la propia BCCA \"demolición de partición interior de tabicón de l/gafa sencillo\" (peón 0,405 / pala 0,014 / camión 0,004 h/m²; el tabique hueco sencillo es más ligero, así que el valor es conservador). El precio de lista derivado se suprime; el vigente es el computado desde la descomposición corregida (cli compute).",
       "unit": "m2",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "updatedAt": "2026-08-17T17:37:32.310Z",
       "verification": {
         "findings": [
           "stale_edition-e3ad3fa6a2df9ae1"
@@ -5284,15 +5297,15 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1,
-          "ref": "mq-camion-basculante",
-          "role": "machinery"
+          "quantity": 0.27,
+          "ref": "mo-peon-especial",
+          "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1,
-          "ref": "mo-peon-especial",
-          "role": "labor"
+          "quantity": 0.03,
+          "ref": "mq-camion-basculante",
+          "role": "machinery"
         }
       ],
       "classification": {
@@ -5304,6 +5317,7 @@
           "Tabiques sencillos"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "wi-demolicion-de-tabique-de-l-hueco-sencillo-c-manual-t-vert",
       "kind": "work_item",
@@ -5311,15 +5325,14 @@
         {
           "currency": "EUR",
           "date": "2022-12",
-          "edition": "2024-01",
-          "kind": "list",
+          "edition": "2026-08",
+          "kind": "computed_from_bom",
           "scope": {
-            "country": "ES",
-            "region": "AND"
+            "country": "ES"
           },
-          "source": "bcca",
-          "sourceCode": "01ADS00001",
-          "value": 60.13
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 7.09
         }
       ],
       "sources": [
@@ -5328,12 +5341,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "wi-demolicion-de-tabique-de-l-hueco-sencillo-c-manual-t-vert",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "DEMOLICIÓN DE TABIQUE DE L/ HUECO SENCILLO, C. MANUAL, T. VERT.",
-      "text": "Demolición de tabique de ladrillo hueco sencillo con medios manuales, incluso carga manual y transporte de material sobrante a vertedero. Medida la superfice inicial deduciendo huecos.",
+      "text": "Demolición de tabique de ladrillo hueco sencillo con medios manuales, incluso carga manual y transporte de material sobrante a vertedero. Medida la superfice inicial deduciendo huecos. Corrección CERP (2026-08, incidente Cresata): la BCCA 2024-01 imputaba 1 h completa de camión basculante y 1 h de peón por cada m² demolido (60,13 €/m² — un camión entero por m² de tabique). Rendimientos adaptados de las partidas hermanas de la propia BCCA: peón 0,27 h/m² (demolición selectiva de tabique hueco sencillo) y camión 0,03 h/m² (demolición de doble tabique a la capuchina). El precio de lista derivado se suprime; el vigente es el computado desde la descomposición corregida (cli compute).",
       "unit": "m2",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "updatedAt": "2026-08-17T17:37:32.326Z",
       "verification": {
         "findings": [
           "stale_edition-62aaabf2aeab9ecc"
@@ -5346,19 +5365,19 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 0.27,
           "ref": "mo-peon-especial",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 0.003,
           "ref": "mq-pala-cargadora",
           "role": "machinery"
         },
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 0.01,
           "ref": "mq-camion-basculante",
           "role": "machinery"
         }
@@ -5372,6 +5391,7 @@
           "Tabiques sencillos"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "wi-demolicion-de-tabique-de-l-hueco-sencillo-c-mecanica-t-vert",
       "kind": "work_item",
@@ -5379,15 +5399,14 @@
         {
           "currency": "EUR",
           "date": "2022-12",
-          "edition": "2024-01",
-          "kind": "list",
+          "edition": "2026-08",
+          "kind": "computed_from_bom",
           "scope": {
-            "country": "ES",
-            "region": "AND"
+            "country": "ES"
           },
-          "source": "bcca",
-          "sourceCode": "01ADS00002",
-          "value": 95.67
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 6.43
         }
       ],
       "sources": [
@@ -5396,12 +5415,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "wi-demolicion-de-tabique-de-l-hueco-sencillo-c-mecanica-t-vert",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "DEMOLICIÓN DE TABIQUE DE L/HUECO SENCILLO, C. MECÁNICA, T. VERT.",
-      "text": "Demolición de tabique de ladrillo hueco sencillo con medios manuales, incluso carga mecánica y transporte de material sobrante a vertedero. Medida la superficie inicial deduciendo huecos.",
+      "text": "Demolición de tabique de ladrillo hueco sencillo con medios manuales, incluso carga mecánica y transporte de material sobrante a vertedero. Medida la superficie inicial deduciendo huecos. Corrección CERP (2026-08, incidente Cresata): la BCCA 2024-01 imputaba 1 h completa de pala cargadora, 1 h de camión basculante y 1 h de peón por cada m² demolido (95,67 €/m²). Rendimientos adaptados de las partidas hermanas de la propia BCCA: peón 0,27 h/m² (demolición selectiva de tabique hueco sencillo) y pala 0,003 / camión 0,01 h/m² (demolición de tabicón de ladrillo, c. mecánica, t. vertedero). El precio de lista derivado se suprime; el vigente es el computado desde la descomposición corregida (cli compute).",
       "unit": "m2",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "updatedAt": "2026-08-17T17:37:32.334Z",
       "verification": {
         "findings": [
           "stale_edition-2e76309b2e63f29a"
@@ -27789,10 +27814,11 @@
       "updatedAt": "2026-07-21T11:25:32.116Z",
       "verification": {
         "findings": [
+          "chapter_mismatch-2cabc739e02c92e4",
           "stale_edition-b3351c086cb81bbc"
         ],
-        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
-        "status": "auto_ok"
+        "lastCheckedAt": "2026-08-17T18:24:17.833Z",
+        "status": "conflicted"
       }
     },
     {
@@ -28693,10 +28719,11 @@
       "updatedAt": "2026-07-21T11:25:32.116Z",
       "verification": {
         "findings": [
+          "chapter_mismatch-a8afd03c5a2b2b0f",
           "stale_edition-0924993161de0c11"
         ],
-        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
-        "status": "auto_ok"
+        "lastCheckedAt": "2026-08-17T18:24:17.833Z",
+        "status": "conflicted"
       }
     },
     {
@@ -31135,10 +31162,11 @@
       "updatedAt": "2026-07-21T11:25:32.116Z",
       "verification": {
         "findings": [
+          "chapter_mismatch-e8e7f27a0c21f042",
           "stale_edition-53c4d49bb2a66b02"
         ],
-        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
-        "status": "auto_ok"
+        "lastCheckedAt": "2026-08-17T18:24:17.833Z",
+        "status": "conflicted"
       }
     },
     {
@@ -31282,5 +31310,5 @@
       }
     }
   ],
-  "version": "0.3.0"
+  "version": "0.4.0"
 }

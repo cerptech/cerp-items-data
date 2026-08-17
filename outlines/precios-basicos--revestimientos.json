@@ -670,7 +670,7 @@
       "m": 0,
       "p": 20.34,
       "s": "PLACA GRES PORCELÁNICO 25x25 cm",
-      "u": "u"
+      "u": "m2"
     },
     {
       "d": "2022-12",
@@ -681,7 +681,7 @@
       "m": 0,
       "p": 9.63,
       "s": "PLACA GRES PORCELÁNICO 2x20cm",
-      "u": "u"
+      "u": "m"
     },
     {
       "d": "2022-12",
@@ -692,7 +692,7 @@
       "m": 0,
       "p": 24.71,
       "s": "PLACA GRES PORCELÁNICO 30x30 cm",
-      "u": "u"
+      "u": "m2"
     },
     {
       "d": "2022-12",
@@ -703,7 +703,7 @@
       "m": 0,
       "p": 56.97,
       "s": "PLACA GRES PORCELÁNICO 40x40 cm",
-      "u": "u"
+      "u": "m2"
     },
     {
       "d": "2022-12",
@@ -714,7 +714,7 @@
       "m": 0,
       "p": 5.76,
       "s": "PLACA GRES PORCELÁNICO ESMALTADO 15x15 cm",
-      "u": "u"
+      "u": "m2"
     },
     {
       "d": "2022-12",
@@ -725,7 +725,7 @@
       "m": 0,
       "p": 34.43,
       "s": "PLACA GRES PORCELÁNICO ESMALTADO 40x40 cm",
-      "u": "u"
+      "u": "m2"
     },
     {
       "d": "2022-12",
@@ -736,7 +736,7 @@
       "m": 0,
       "p": 14.4,
       "s": "PLACA GRES PORCELÁNICO ESMALTADO Y PULIDO 2x20 cm",
-      "u": "u"
+      "u": "m"
     },
     {
       "d": "2022-12",
@@ -747,7 +747,7 @@
       "m": 0,
       "p": 12.02,
       "s": "PLACA GRES RÚSTICO 7x20 cm",
-      "u": "u"
+      "u": "m"
     },
     {
       "d": "2022-12",
@@ -758,7 +758,7 @@
       "m": 0,
       "p": 7.7,
       "s": "PLACA GRES RÚSTICO DE 20x20 cm",
-      "u": "u"
+      "u": "m2"
     },
     {
       "d": "2022-12",
@@ -769,7 +769,7 @@
       "m": 0,
       "p": 13.46,
       "s": "PLACA GRES RÚSTICO DE 31x31 cm",
-      "u": "u"
+      "u": "m2"
     },
     {
       "d": "2021-12",
@@ -2408,7 +2408,7 @@
       "m": 0,
       "p": 11.78,
       "s": "BALDOSA CHAPA ACERO 20x20 cm",
-      "u": "u"
+      "u": "m2"
     },
     {
       "d": "2022-01",
@@ -5536,5 +5536,5 @@
     }
   ],
   "title": "Precios Básicos > REVESTIMIENTOS",
-  "version": "0.3.0"
+  "version": "0.4.0"
 }

@@ -227,60 +227,6 @@
       "u": "m2"
     },
     {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-bordillo-prefabricado-de-hormigon-hm-40-achaflanado",
-      "m": 5,
-      "p": 26.56,
-      "s": "BORDILLO PREFABRICADO DE HORMIGÓN HM-40 ACHAFLANADO",
-      "u": "m"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-bordillo-prefabricado-hm-40-rebajado-5-15x20x50-cm",
-      "m": 5,
-      "p": 19.9,
-      "s": "BORDILLO PREFABRICADO HM-40 REBAJADO 5/15x20x50 cm",
-      "u": "m"
-    },
-    {
-      "d": "2022-01",
-      "g": [],
-      "id": "wi-cinta-antideslizante-base-aluminio",
-      "m": 2,
-      "p": 1.6,
-      "s": "CINTA ANTIDESLIZANTE BASE ALUMINIO",
-      "u": "m"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-cubrejuntas-de-laton",
-      "m": 2,
-      "p": 6.57,
-      "s": "CUBREJUNTAS DE LATÓN",
-      "u": "m"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-cubrejuntas-de-pvc",
-      "m": 2,
-      "p": 5.5,
-      "s": "CUBREJUNTAS DE PVC",
-      "u": "m"
-    },
-    {
-      "d": "2022-12",
-      "g": [],
-      "id": "wi-emplomado-de-techos",
-      "m": 5,
-      "p": 98.75,
-      "s": "EMPLOMADO DE TECHOS",
-      "u": "m2"
-    },
-    {
       "d": "2023-03",
       "g": [],
       "id": "wi-encimera",
@@ -314,6 +260,15 @@
       "m": 3,
       "p": 90.05,
       "s": "ENFOSCADO MAESTREADO CON MORTERO DE DRENADO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-enfoscado-maestreado-fratasado-y-rayado-para-alicatado",
+      "m": 2,
+      "p": 16.36,
+      "s": "ENFOSCADO MAESTREADO FRATASADO Y RAYADO PARA ALICATADO",
       "u": "m2"
     },
     {
@@ -391,6 +346,15 @@
     {
       "d": "2022-12",
       "g": [],
+      "id": "wi-enlucido-en-paredes-pasta-de-escayola",
+      "m": 2,
+      "p": 3.35,
+      "s": "ENLUCIDO EN PAREDES, PASTA DE ESCAYOLA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
       "id": "wi-enlucido-en-paredes-pasta-de-yeso",
       "m": 2,
       "p": 2.71,
@@ -404,6 +368,15 @@
       "m": 2,
       "p": 5.92,
       "s": "ENLUCIDO EN TECHOS, PASTA DE CAL",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-enlucido-en-techos-pasta-de-escayola",
+      "m": 2,
+      "p": 3.93,
+      "s": "ENLUCIDO EN TECHOS, PASTA DE ESCAYOLA",
       "u": "m2"
     },
     {
@@ -508,10 +481,28 @@
     {
       "d": "2022-12",
       "g": [],
+      "id": "wi-guarnecido-y-enlucido-maestreado-en-paredes-mort-escayola",
+      "m": 2,
+      "p": 15.39,
+      "s": "GUARNECIDO Y ENLUCIDO MAESTREADO EN PAREDES, MORT. ESCAYOLA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
       "id": "wi-guarnecido-y-enlucido-maestreado-en-paredes-yeso",
       "m": 3,
       "p": 11.83,
       "s": "GUARNECIDO Y ENLUCIDO MAESTREADO EN PAREDES, YESO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-guarnecido-y-enlucido-maestreado-en-techos-mort-escayola",
+      "m": 2,
+      "p": 29.87,
+      "s": "GUARNECIDO Y ENLUCIDO MAESTREADO EN TECHOS, MORT. ESCAYOLA",
       "u": "m2"
     },
     {
@@ -535,10 +526,28 @@
     {
       "d": "2022-12",
       "g": [],
+      "id": "wi-guarnecido-y-enlucido-sin-maestrear-en-paredes-mort-escayola",
+      "m": 2,
+      "p": 10.41,
+      "s": "GUARNECIDO Y ENLUCIDO SIN MAESTREAR EN PAREDES, MORT. ESCAYOLA",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
       "id": "wi-guarnecido-y-enlucido-sin-maestrear-en-paredes-yeso",
       "m": 3,
       "p": 7.78,
       "s": "GUARNECIDO Y ENLUCIDO SIN MAESTREAR EN PAREDES, YESO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-guarnecido-y-enlucido-sin-maestrear-en-techos-mort-escayola",
+      "m": 2,
+      "p": 18.29,
+      "s": "GUARNECIDO Y ENLUCIDO SIN MAESTREAR EN TECHOS, MORT. ESCAYOLA",
       "u": "m2"
     },
     {
@@ -569,51 +578,6 @@
       "u": "m"
     },
     {
-      "d": "2022-02",
-      "g": [],
-      "id": "wi-panel-composite",
-      "m": 4,
-      "p": 134.77,
-      "s": "PANEL COMPOSITE",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-parque-de-baldosas-con-tablillas-de-roble",
-      "m": 5,
-      "p": 55.31,
-      "s": "PARQUE DE BALDOSAS CON TABLILLAS DE ROBLE",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-parque-de-mosaico",
-      "m": 7,
-      "p": 74.94,
-      "s": "PARQUE DE MOSAICO",
-      "u": "m2"
-    },
-    {
-      "d": "2022-12",
-      "g": [],
-      "id": "wi-pav-pvc-antideslizante-rollos-2mm",
-      "m": 5,
-      "p": 33.6,
-      "s": "PAV. PVC ANTIDESLIZANTE ROLLOS 2mm.",
-      "u": "m2"
-    },
-    {
-      "d": "2022-12",
-      "g": [],
-      "id": "wi-pav-pvc-rollos-suelo-conductivo",
-      "m": 5,
-      "p": 42.74,
-      "s": "PAV. PVC ROLLOS SUELO CONDUCTIVO",
-      "u": "m2"
-    },
-    {
       "d": "2022-12",
       "g": [],
       "id": "wi-proteccion-spm-contact-200",
@@ -639,24 +603,6 @@
       "p": 55.45,
       "s": "PROTECCION SPM IMPACT 200",
       "u": "ml"
-    },
-    {
-      "d": "2022-12",
-      "g": [],
-      "id": "wi-recrecido-de-suelos-de-5-cm-esp-con-arena-gruesa",
-      "m": 2,
-      "p": 4,
-      "s": "RECRECIDO DE SUELOS DE 5 cm ESP. CON ARENA GRUESA",
-      "u": "m2"
-    },
-    {
-      "d": "2022-12",
-      "g": [],
-      "id": "wi-recrecido-de-suelos-de-5-cm-esp-con-mortero",
-      "m": 3,
-      "p": 11.68,
-      "s": "RECRECIDO DE SUELOS DE 5 cm ESP. CON MORTERO",
-      "u": "m2"
     },
     {
       "d": "2022-12",
@@ -803,105 +749,6 @@
       "u": "m"
     },
     {
-      "d": "2022-01",
-      "g": [],
-      "id": "wi-rev-dobl-p-cart-yeso-fibra-vidrio-13mm-perf-ac-gal-fij-mec",
-      "m": 3,
-      "p": 29.74,
-      "s": "REV. DOBL P.CART-YESO FIBRA VIDRIO 13mm PERF. AC. GAL. FIJ. MEC.",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-rev-fachadas-vent-placa-hidrof-celulosa-cemento-6mm",
-      "m": 3,
-      "p": 51.44,
-      "s": "REV. FACHADAS VENT. PLACA HIDROF. CELULOSA-CEMENTO 6mm",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-rev-fachadas-vent-placa-hidrof-celulosa-cemento-coloreada-6m",
-      "m": 3,
-      "p": 60.72,
-      "s": "REV. FACHADAS VENT. PLACA HIDROF. CELULOSA-CEMENTO COLOREADA 6mm",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-rev-p-cart-yeso-10mm-esp-poliur-50mm-perf-ac-gal-fij-mec",
-      "m": 3,
-      "p": 26.04,
-      "s": "REV. P.CART-YESO 10mm ESP. POLIUR. 50mm PERF. AC. GAL. FIJ. MEC.",
-      "u": "m2"
-    },
-    {
-      "d": "2022-01",
-      "g": [],
-      "id": "wi-rev-p-yeso-lam-10mm-fibra-vidrio-25mm-perf-ac-gal-fij-mec",
-      "m": 3,
-      "p": 25.18,
-      "s": "REV. P. yeso lam. 10mm FIBRA VIDRIO 25mm PERF. AC. GAL. FIJ. MEC",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-rev-p-yeso-lam-13mm-fibra-vidrio-25mm-perf-ac-gal-fij-mec",
-      "m": 3,
-      "p": 24.12,
-      "s": "REV. P. YESO LAM. 13mm FIBRA VIDRIO 25mm PERF. AC. GAL. FIJ. MEC",
-      "u": "m2"
-    },
-    {
-      "d": "2022-01",
-      "g": [],
-      "id": "wi-rev-p-yeso-lam-antihumedad-13mm-perf-ac-gal-fij-mec",
-      "m": 3,
-      "p": 15.21,
-      "s": "REV. P. YESO LAM. ANTIHUMEDAD 13mm PERF. AC. GAL. FIJ. MEC.",
-      "u": "m2"
-    },
-    {
-      "d": "2022-01",
-      "g": [],
-      "id": "wi-rev-placa-acustica-fibra-mineral-con-perf-ac-gla-fij-mec",
-      "m": 4,
-      "p": 14.14,
-      "s": "REV. PLACA ACÚSTICA FIBRA MINERAL CON PERF. AC. GLA. FIJ. MEC.",
-      "u": "m2"
-    },
-    {
-      "d": "2022-01",
-      "g": [],
-      "id": "wi-revestido-paneles-placas-yeso-laminado-10mm-perf-ac-gal-fij",
-      "m": 4,
-      "p": 18.96,
-      "s": "REVESTIDO PANELES PLACAS YESO LAMINADO 10mm PERF. AC. GAL. FIJ.",
-      "u": "m2"
-    },
-    {
-      "d": "2022-01",
-      "g": [],
-      "id": "wi-revestido-placa-yeso-laminado-15mm-perf-ac-gal-fij-mec",
-      "m": 4,
-      "p": 19.89,
-      "s": "REVESTIDO PLACA YESO LAMINADO 15mm PERF. AC. GAL. FIJ. MEC.",
-      "u": "m2"
-    },
-    {
-      "d": "2022-01",
-      "g": [],
-      "id": "wi-revestido-placas-yeso-laminado-13mm-perf-ac-gal-fij-mec",
-      "m": 4,
-      "p": 19.13,
-      "s": "REVESTIDO PLACAS YESO LAMINADO 13mm PERF. AC. GAL. FIJ. MEC.",
-      "u": "m2"
-    },
-    {
       "d": "2021-12",
       "g": [],
       "id": "wi-revestido-tejido-fibra-de-vidrio",
@@ -911,129 +758,12 @@
       "u": "m2"
     },
     {
-      "d": "2022-01",
+      "d": "2017-07",
       "g": [],
-      "id": "wi-revestimiento-de-corcho-en-rollo-3-mm",
+      "id": "wi-revestido-vinilico",
       "m": 5,
-      "p": 18.19,
-      "s": "REVESTIMIENTO DE CORCHO EN ROLLO 3 mm",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-de-paredes-con-chapa-pleg-acero-1-mm-galv",
-      "m": 5,
-      "p": 58.03,
-      "s": "REVESTIMIENTO DE PAREDES CON CHAPA PLEG. ACERO 1 mm GALV.",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-de-paredes-con-chapa-pleg-acero-1-mm-galv-laca",
-      "m": 5,
-      "p": 67.9,
-      "s": "REVESTIMIENTO DE PAREDES CON CHAPA PLEG. ACERO 1 mm GALV. LACADO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-de-paredes-con-chapa-pleg-alum-1-5-mm-esp-anod",
-      "m": 5,
-      "p": 114.2,
-      "s": "REVESTIMIENTO DE PAREDES CON CHAPA PLEG. ALUM. 1,5 mm ESP. ANOD.",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-de-paredes-con-chapa-pleg-alum-1-5-mm-esp-lac",
-      "m": 5,
-      "p": 123,
-      "s": "REVESTIMIENTO DE PAREDES CON CHAPA PLEG. ALUM. 1,5 mm ESP. LAC.",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-de-paredes-con-chapa-pleg-alum-anodizado",
-      "m": 7,
-      "p": 105.13,
-      "s": "REVESTIMIENTO DE PAREDES CON CHAPA PLEG. ALUM. ANODIZADO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-de-paredes-con-chapa-pleg-aluminio-lacado-de-2",
-      "m": 4,
-      "p": 64.18,
-      "s": "REVESTIMIENTO DE PAREDES CON CHAPA PLEG. ALUMINIO LACADO DE 2 m",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-de-paredes-con-duelas-de-madera",
-      "m": 6,
-      "p": 44.93,
-      "s": "REVESTIMIENTO DE PAREDES CON DUELAS DE MADERA",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-de-paredes-con-placas-rigidas-ac-inox",
-      "m": 5,
-      "p": 158.97,
-      "s": "REVESTIMIENTO DE PAREDES CON PLACAS RÍGIDAS AC. INOX.",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-de-paredes-con-planchas-rigidas-corcho",
-      "m": 4,
-      "p": 26.66,
-      "s": "REVESTIMIENTO DE PAREDES CON PLANCHAS RÍGIDAS CORCHO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-de-paredes-con-tabl-cantos-lisos",
-      "m": 6,
-      "p": 47.4,
-      "s": "REVESTIMIENTO DE PAREDES CON TABL. CANTOS LISOS",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-de-paredes-con-tabl-cantos-lisos-lam-pvc",
-      "m": 6,
-      "p": 54.3,
-      "s": "REVESTIMIENTO DE PAREDES CON TABL. CANTOS LISOS + LÁM. PVC",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-de-paredes-con-tabl-cantos-machiembr-lam-pvc",
-      "m": 6,
-      "p": 60.2,
-      "s": "REVESTIMIENTO DE PAREDES CON TABL. CANTOS MACHIEMBR. + LÁM. PVC",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-de-paredes-con-tabl-cantos-machiembrados",
-      "m": 6,
-      "p": 47.2,
-      "s": "REVESTIMIENTO DE PAREDES CON TABL. CANTOS MACHIEMBRADOS",
+      "p": 19.19,
+      "s": "REVESTIDO VINÍLICO",
       "u": "m2"
     },
     {
@@ -1043,69 +773,6 @@
       "m": 3,
       "p": 35.14,
       "s": "REVESTIMIENTO EXTERIOR RED POLIMÉRICA",
-      "u": "m2"
-    },
-    {
-      "d": "2017-07",
-      "g": [],
-      "id": "wi-revestimiento-form-fachada-ven-panel-resina",
-      "m": 3,
-      "p": 79.46,
-      "s": "REVESTIMIENTO FORM. FACHADA VEN. PANEL RESINA",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-int-tablero-fenolico-8-mm",
-      "m": 1,
-      "p": 114.12,
-      "s": "REVESTIMIENTO INT. TABLERO FENÓLICO 8 mm",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-int-tablero-fenolico-8-mm-2590",
-      "m": 1,
-      "p": 125.73,
-      "s": "REVESTIMIENTO INT. TABLERO FENÓLICO 8 mm",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-lamas-dm-machihembradas-blanco-liso-1-cm",
-      "m": 3,
-      "p": 23.26,
-      "s": "REVESTIMIENTO LAMAS DM MACHIHEMBRADAS BLANCO LISO 1 cm",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-lamichapa-de-pino-barn-sobre-tablero-aglomerad",
-      "m": 4,
-      "p": 54.17,
-      "s": "REVESTIMIENTO LAMICHAPA DE PINO BARN. SOBRE TABLERO AGLOMERADO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-lamichapa-de-roble-barn-sobre-tablero-aglomera",
-      "m": 4,
-      "p": 57.67,
-      "s": "REVESTIMIENTO LAMICHAPA DE ROBLE BARN. SOBRE TABLERO AGLOMERADO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-lamichapa-de-sapelly-barn-sobre-tablero-aglome",
-      "m": 4,
-      "p": 50.69,
-      "s": "REVESTIMIENTO LAMICHAPA DE SAPELLY BARN. SOBRE TABLERO AGLOMERAD",
       "u": "m2"
     },
     {
@@ -1151,51 +818,6 @@
       "m": 4,
       "p": 35.69,
       "s": "REVESTIMIENTO MONOCAPA TERMINACIÓN GOTA SOBRE LADRILLO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-tablero-fibras-madera-y-resinas-ad-melam-2-car",
-      "m": 3,
-      "p": 25.07,
-      "s": "REVESTIMIENTO TABLERO FIBRAS MADERA Y RESINAS AD. MELAM. 2 CARAS",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-tablero-fibras-madera-y-resinas-dm",
-      "m": 3,
-      "p": 14.58,
-      "s": "REVESTIMIENTO TABLERO FIBRAS MADERA Y RESINAS DM",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-tablero-fibras-madera-y-resinas-hidrofugo-dm",
-      "m": 3,
-      "p": 15.91,
-      "s": "REVESTIMIENTO TABLERO FIBRAS MADERA Y RESINAS, HIDRÓFUGO DM",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-tablero-fibras-madera-y-resinas-ignifugo-dm",
-      "m": 3,
-      "p": 23.37,
-      "s": "REVESTIMIENTO TABLERO FIBRAS MADERA Y RESINAS, IGNÍFUGO DM",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-tablero-pino-soria-s-nudos",
-      "m": 4,
-      "p": 31.86,
-      "s": "REVESTIMIENTO TABLERO PINO SORIA S/NUDOS",
       "u": "m2"
     },
     {
@@ -1291,454 +913,13 @@
     {
       "d": "2022-12",
       "g": [],
-      "id": "wi-sol-g-catalan-antidesliz-31x31",
-      "m": 7,
-      "p": 45.11,
-      "s": "SOL. G. CATALÁN ANTIDESLIZ. 31x31",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-suelo-elevado-y-registrable-con-baldosas-de-pvc",
-      "m": 6,
-      "p": 90.29,
-      "s": "SUELO ELEVADO Y REGISTRABLE CON BALDOSAS DE PVC",
-      "u": "m2"
-    },
-    {
-      "d": "2017-07",
-      "g": [],
-      "id": "wi-suelo-formado-por-entramado-metalico-galvanizado",
-      "m": 4,
-      "p": 70.63,
-      "s": "SUELO FORMADO POR ENTRAMADO METÁLICO GALVANIZADO",
-      "u": "m2"
-    },
-    {
-      "d": "2017-07",
-      "g": [],
-      "id": "wi-techo-de-duelas-de-madera-pino-flandes-primera-calidad",
-      "m": 6,
-      "p": 48.66,
-      "s": "TECHO DE DUELAS DE MADERA PINO FLANDES PRIMERA CALIDAD",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-techo-de-placas-acusticas-de-acero-galvanizado-al-duco",
-      "m": 4,
-      "p": 46.56,
-      "s": "TECHO DE PLACAS ACÚSTICAS DE ACERO GALVANIZADO AL DUCO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-techo-de-placas-acusticas-de-aluminio-anodizado",
-      "m": 4,
-      "p": 26.39,
-      "s": "TECHO DE PLACAS ACÚSTICAS DE ALUMINIO ANODIZADO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-techo-de-placas-acusticas-de-aluminio-de-color",
-      "m": 4,
-      "p": 34.79,
-      "s": "TECHO DE PLACAS ACÚSTICAS DE ALUMINIO DE COLOR",
-      "u": "m2"
-    },
-    {
-      "d": "2022-01",
-      "g": [],
-      "id": "wi-techo-de-placas-acusticas-de-conglom-de-fibra-de-vidrio",
-      "m": 4,
-      "p": 19.08,
-      "s": "TECHO DE PLACAS ACÚSTICAS DE CONGLOM. DE FIBRA DE VIDRIO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-techo-de-placas-acusticas-de-conglom-de-lana-mineral",
-      "m": 4,
-      "p": 18.23,
-      "s": "TECHO DE PLACAS ACÚSTICAS DE CONGLOM. DE LANA MINERAL",
-      "u": "m2"
-    },
-    {
-      "d": "2022-01",
-      "g": [],
-      "id": "wi-techo-de-placas-de-tablero-aglomerado-de-25-mm-esp",
-      "m": 4,
-      "p": 38.05,
-      "s": "TECHO DE PLACAS DE TABLERO AGLOMERADO DE 25 mm ESP.",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-techo-lamas-alum-lacadas-color-acust-desmont-y-entram-oculto",
-      "m": 5,
-      "p": 73.5,
-      "s": "TECHO LAMAS ALUM. LACADAS COLOR ACÚST. DESMONT. Y ENTRAM. OCULTO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-techo-lamas-alum-lacadas-color-desmont-y-entram-oculto",
-      "m": 5,
-      "p": 54.28,
-      "s": "TECHO LAMAS ALUM. LACADAS COLOR DESMONT. Y ENTRAM. OCULTO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-techo-lamas-alum-lacadas-est-acust-desmont-y-entram-oculto",
-      "m": 5,
-      "p": 63.63,
-      "s": "TECHO LAMAS ALUM. LACADAS EST. ACÚST. DESMONT. Y ENTRAM. OCULTO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-techo-lamas-alum-lacadas-estandar-desmont-y-entram-oculto",
-      "m": 5,
-      "p": 49.14,
-      "s": "TECHO LAMAS ALUM. LACADAS ESTÁNDAR, DESMONT. Y ENTRAM. OCULTO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-techo-lamas-pvc-lacadas-desmont-y-entramado-oculto",
-      "m": 5,
-      "p": 31.13,
-      "s": "TECHO LAMAS PVC LACADAS DESMONT. Y ENTRAMADO OCULTO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-techo-lamas-pvc-lacadas-madera-desmont-y-entramado-oculto",
-      "m": 5,
-      "p": 53.86,
-      "s": "TECHO LAMAS PVC LACADAS-MADERA DESMONT. Y ENTRAMADO OCULTO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-techo-placas-acust-fibra-mineral-desmontables-y-entr-oculto",
-      "m": 5,
-      "p": 26.35,
-      "s": "TECHO PLACAS ACÚST. FIBRA MINERAL DESMONTABLES Y ENTR. OCULTO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-techo-placas-acust-fibra-mineral-desmontables-y-entram-visto",
-      "m": 4,
-      "p": 18.99,
-      "s": "TECHO PLACAS ACÚST. FIBRA MINERAL DESMONTABLES Y ENTRAM. VISTO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-techo-placas-madera-lisa-melaminada-desmont-y-entram-oculto",
-      "m": 5,
-      "p": 84.29,
-      "s": "TECHO PLACAS MADERA LISA MELAMINADA DESMONT. Y ENTRAM. OCULTO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-techo-placas-madera-lisa-melaminada-desmont-y-entram-visto",
-      "m": 5,
-      "p": 71,
-      "s": "TECHO PLACAS MADERA LISA MELAMINADA DESMONT. Y ENTRAM. VISTO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-techo-placas-yeso-laminado-desmont-y-entramado-oculto",
-      "m": 5,
-      "p": 29.12,
-      "s": "TECHO PLACAS YESO LAMINADO DESMONT. Y ENTRAMADO OCULTO",
-      "u": "m2"
-    },
-    {
-      "d": "2022-12",
-      "g": [],
       "id": "wi-tira-esquinero-profila-30",
       "m": 3,
       "p": 8.26,
       "s": "TIRA ESQUINERO PROFILA 30",
       "u": "ml"
-    },
-    {
-      "d": "2022-01",
-      "g": [],
-      "id": "wi-tradosado-simple-pl-yeso-laminado-perforado-13-70-83-mm",
-      "m": 8,
-      "p": 39.13,
-      "s": "TRADOSADO SIMPLE PL. YESO LAMINADO PERFORADO 13+70 (83 mm)",
-      "u": "m2"
-    },
-    {
-      "d": "2022-12",
-      "g": [],
-      "id": "wi-trasdosado-autop-48-13-2mm-pb-48-13-13-de-plomo-2-mm",
-      "m": 4,
-      "p": 81.11,
-      "s": "TRASDOSADO AUTOP.48+13+ 2mm PB+48+13+13 de PLOMO 2 mm",
-      "u": "m2"
-    },
-    {
-      "d": "2022-01",
-      "g": [],
-      "id": "wi-trasdosado-de-carton-yeso-13mm-13mm-perf-ac-gal-fij-mec",
-      "m": 7,
-      "p": 35.99,
-      "s": "TRASDOSADO DE CARTON-YESO 13mm+13mm PERF. AC. GAL. FIJ. MEC",
-      "u": "m2"
-    },
-    {
-      "d": "2022-12",
-      "g": [],
-      "id": "wi-trasdosado-de-carton-yeso-13mm-rf-13mm-rf-perf-ac-gal-fij-me",
-      "m": 3,
-      "p": 30.32,
-      "s": "TRASDOSADO DE CARTON-YESO 13mm RF+13mm RF PERF. AC. GAL. FIJ. MEC",
-      "u": "m2"
-    },
-    {
-      "d": "2022-12",
-      "g": [],
-      "id": "wi-trasdosado-de-carton-yeso-13mm-wa-13mm-wa-perf-ac-gal-fij-me",
-      "m": 3,
-      "p": 29.06,
-      "s": "TRASDOSADO DE CARTON-YESO 13mm WA+13mm WA PERF. AC. GAL. FIJ. MEC",
-      "u": "m2"
-    },
-    {
-      "d": "2022-12",
-      "g": [],
-      "id": "wi-trasdosado-directo-con-pasta-de-agarre-13-13",
-      "m": 3,
-      "p": 23.83,
-      "s": "TRASDOSADO DIRECTO CON PASTA DE AGARRE 13+13",
-      "u": "m2"
-    },
-    {
-      "d": "2022-12",
-      "g": [],
-      "id": "wi-trasdosado-directo-con-pasta-de-agarre-13rf-13rf",
-      "m": 3,
-      "p": 29.83,
-      "s": "TRASDOSADO DIRECTO CON PASTA DE AGARRE 13RF+13RF",
-      "u": "m2"
-    },
-    {
-      "d": "2022-12",
-      "g": [],
-      "id": "wi-trasdosado-directo-con-pasta-de-agarre-13wa-13wa",
-      "m": 3,
-      "p": 26.83,
-      "s": "TRASDOSADO DIRECTO CON PASTA DE AGARRE 13WA+13WA",
-      "u": "m2"
-    },
-    {
-      "d": "2017-07",
-      "g": [],
-      "id": "wi-trasdosado-multiple-pl-yeso-laminado-13-13-70mm-96mm",
-      "m": 8,
-      "p": 31.06,
-      "s": "TRASDOSADO MÚLTIPLE PL. YESO LAMINADO 13+13+70mm (96mm)",
-      "u": "m2"
-    },
-    {
-      "d": "2022-01",
-      "g": [],
-      "id": "wi-trasdosado-simple-pl-yeso-laminado-15wr-90-85mm",
-      "m": 7,
-      "p": 21.73,
-      "s": "TRASDOSADO SIMPLE PL. YESO LAMINADO 15WR + 90 (85mm)",
-      "u": "m2"
-    },
-    {
-      "d": "2022-01",
-      "g": [],
-      "id": "wi-trasdosado-simple-pl-yeso-laminado-antih-15-46-61mm",
-      "m": 7,
-      "p": 24.72,
-      "s": "TRASDOSADO SIMPLE PL. YESO LAMINADO ANTIH. 15+46 (61mm)",
-      "u": "m2"
-    },
-    {
-      "d": "2022-01",
-      "g": [],
-      "id": "wi-trasdosado-simple-placa-fonoabsorbente-de-200mm-ventilacion",
-      "m": 7,
-      "p": 23.53,
-      "s": "TRASDOSADO SIMPLE PLACA FONOABSORBENTE DE 200mm. VENTILACIÓN",
-      "u": "ml"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-trat-sup-acabado-con-silice-corindon-cuarzo",
-      "m": 8,
-      "p": 11.74,
-      "s": "TRAT. SUP. ACABADO CON SÍLICE, CORINDÓN, CUARZO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-trat-sup-antipolvo-con-pintura-acrilica",
-      "m": 3,
-      "p": 7.29,
-      "s": "TRAT. SUP. ANTIPOLVO CON PINTURA ACRÍLICA",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-trat-sup-antipolvo-con-pintura-clorocaucho",
-      "m": 3,
-      "p": 7.79,
-      "s": "TRAT. SUP. ANTIPOLVO CON PINTURA CLOROCAUCHO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-trat-sup-antipolvo-con-pintura-resinas",
-      "m": 3,
-      "p": 10.38,
-      "s": "TRAT. SUP. ANTIPOLVO CON PINTURA RESINAS",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-trat-sup-antipolvo-con-slurry-acrilico",
-      "m": 5,
-      "p": 10.7,
-      "s": "TRAT. SUP. ANTIPOLVO CON \"SLURRY\" ACRÍLICO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-trat-sup-antipolvo-con-slurry-asfaltico",
-      "m": 5,
-      "p": 110.24,
-      "s": "TRAT. SUP. ANTIPOLVO CON \"SLURRY\" ASFÁLTICO",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-tratamiento-superficial-antipolvo-con-pintura-epoxi",
-      "m": 4,
-      "p": 14.68,
-      "s": "TRATAMIENTO SUPERFICIAL ANTIPOLVO CON PINTURA EPOXI",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-umbral-de-bald-granito-gris-quintana-30x2-cm",
-      "m": 5,
-      "p": 51.95,
-      "s": "UMBRAL DE BALD. GRANITO GRIS QUINTANA 30x2 cm",
-      "u": "m"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-umbral-de-bald-granito-negro-sudafrica-30x2-cm",
-      "m": 5,
-      "p": 163.74,
-      "s": "UMBRAL DE BALD. GRANITO NEGRO SUDÁFRICA 30x2 cm",
-      "u": "m"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-umbral-de-bald-granito-rosa-porrino-30x2-cm",
-      "m": 5,
-      "p": 45.76,
-      "s": "UMBRAL DE BALD. GRANITO ROSA PORRIÑO 30x2 cm",
-      "u": "m"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-umbral-de-marmol-blanco-macael",
-      "m": 5,
-      "p": 38.47,
-      "s": "UMBRAL DE MÁRMOL \"BLANCO MACAEL\"",
-      "u": "m"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-umbral-de-marmol-rojo-alicante",
-      "m": 5,
-      "p": 33.94,
-      "s": "UMBRAL DE MÁRMOL \"ROJO ALICANTE\"",
-      "u": "m"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-umbral-de-marmol-travertino-30x2-cm",
-      "m": 5,
-      "p": 51.22,
-      "s": "UMBRAL DE MÁRMOL \"TRAVERTINO\" 30x2 cm",
-      "u": "m"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-umbral-de-piedra-caliza-25x2-cm",
-      "m": 5,
-      "p": 25.67,
-      "s": "UMBRAL DE PIEDRA CALIZA 25x2 cm",
-      "u": "m"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-umbral-de-piedra-caliza-crema-sevilla",
-      "m": 5,
-      "p": 29.85,
-      "s": "UMBRAL DE PIEDRA CALIZA \"CREMA SEVILLA\"",
-      "u": "m"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-umbral-de-pizarra-30x2-cm",
-      "m": 5,
-      "p": 35.26,
-      "s": "UMBRAL DE PIZARRA 30x2 cm",
-      "u": "m"
     }
   ],
   "title": "Revestimientos continuos interiores",
-  "version": "0.3.0"
+  "version": "0.4.0"
 }

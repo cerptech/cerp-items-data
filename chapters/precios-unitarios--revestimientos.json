@@ -2501,7 +2501,7 @@
         },
         {
           "factor": 1,
-          "quantity": 16.8,
+          "quantity": 1.05,
           "ref": "mt-placa-gres-porcelanico-25x25-cm",
           "role": "material"
         },
@@ -2521,22 +2521,22 @@
           "Especiales"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "wi-alicatado-gres-porcelanico-25x25-cm-adhesivo",
       "kind": "work_item",
       "prices": [
         {
           "currency": "EUR",
-          "date": "2021-12",
-          "edition": "2024-01",
-          "kind": "list",
+          "date": "2022-12",
+          "edition": "2026-08",
+          "kind": "computed_from_bom",
           "scope": {
-            "country": "ES",
-            "region": "AND"
+            "country": "ES"
           },
-          "source": "bcca",
-          "sourceCode": "10AAE90006",
-          "value": 362.55
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 42.19
         }
       ],
       "sources": [
@@ -2545,12 +2545,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "wi-alicatado-gres-porcelanico-25x25-cm-adhesivo",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "ALICATADO GRES PORCELÁNICO 25x25 cm ADHESIVO",
-      "text": "Alicatado con placa de gres porcelánico de 25x25 cm, recibido con adhesivo, incluso cortes y p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la superficie ejecutada.",
+      "text": "Alicatado con placa de gres porcelánico de 25x25 cm, recibido con adhesivo, incluso cortes y p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la superficie ejecutada. Corrección CERP (2026-08, incidente Cresata): la descomposición de la BCCA 2024-01 consumía 16,8 piezas por m² al precio del m² del material, no de la pieza, inflando el precio hasta ×16. La línea del material pasa a m² (1,05 por unidad, mermas incluidas) y el precio de lista derivado de esa descomposición se suprime: el precio vigente es el computado desde la descomposición corregida (cli compute).",
       "unit": "m2",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "updatedAt": "2026-08-17T17:37:32.232Z",
       "verification": {
         "findings": [
           "stale_edition-91e31ce6f530a7ed"
@@ -2587,7 +2593,7 @@
         },
         {
           "factor": 1,
-          "quantity": 11.66,
+          "quantity": 1.05,
           "ref": "mt-placa-gres-porcelanico-30x30-cm",
           "role": "material"
         },
@@ -2607,22 +2613,22 @@
           "Especiales"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "wi-alicatado-gres-porcelanico-30x30-cm-adhesivo",
       "kind": "work_item",
       "prices": [
         {
           "currency": "EUR",
-          "date": "2021-12",
-          "edition": "2024-01",
-          "kind": "list",
+          "date": "2022-12",
+          "edition": "2026-08",
+          "kind": "computed_from_bom",
           "scope": {
-            "country": "ES",
-            "region": "AND"
+            "country": "ES"
           },
-          "source": "bcca",
-          "sourceCode": "10AAE90007",
-          "value": 308.96
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 46.78
         }
       ],
       "sources": [
@@ -2631,12 +2637,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "wi-alicatado-gres-porcelanico-30x30-cm-adhesivo",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "ALICATADO GRES PORCELÁNICO 30x30 cm ADHESIVO",
-      "text": "Alicatado con placa de gres porcelánico de 30x30 cm, recibido con adhesivo, incluso cortes y p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la superficie ejecutada.",
+      "text": "Alicatado con placa de gres porcelánico de 30x30 cm, recibido con adhesivo, incluso cortes y p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la superficie ejecutada. Corrección CERP (2026-08, incidente Cresata): la descomposición de la BCCA 2024-01 consumía 11,66 piezas por m² al precio del m² del material, no de la pieza, inflando el precio hasta ×16. La línea del material pasa a m² (1,05 por unidad, mermas incluidas) y el precio de lista derivado de esa descomposición se suprime: el precio vigente es el computado desde la descomposición corregida (cli compute).",
       "unit": "m2",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "updatedAt": "2026-08-17T17:37:32.242Z",
       "verification": {
         "findings": [
           "duplicate_candidate-b0ae8b1d636c3b8b",
@@ -2674,7 +2686,7 @@
         },
         {
           "factor": 1,
-          "quantity": 6.56,
+          "quantity": 1.05,
           "ref": "mt-placa-gres-porcelanico-40x40-cm",
           "role": "material"
         },
@@ -2694,22 +2706,22 @@
           "Especiales"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "wi-alicatado-gres-porcelanico-40x40-cm-adhesivo",
       "kind": "work_item",
       "prices": [
         {
           "currency": "EUR",
-          "date": "2021-12",
-          "edition": "2024-01",
-          "kind": "list",
+          "date": "2022-12",
+          "edition": "2026-08",
+          "kind": "computed_from_bom",
           "scope": {
-            "country": "ES",
-            "region": "AND"
+            "country": "ES"
           },
-          "source": "bcca",
-          "sourceCode": "10AAE90008",
-          "value": 394.56
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 80.65
         }
       ],
       "sources": [
@@ -2718,12 +2730,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "wi-alicatado-gres-porcelanico-40x40-cm-adhesivo",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "ALICATADO GRES PORCELÁNICO 40x40 cm ADHESIVO",
-      "text": "Alicatado con palca de gres porcelánico de 40x40x cm, recibido con adhesivo, incluso cortes y p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la superficie ejecutada.",
+      "text": "Alicatado con palca de gres porcelánico de 40x40x cm, recibido con adhesivo, incluso cortes y p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la superficie ejecutada. Corrección CERP (2026-08, incidente Cresata): la descomposición de la BCCA 2024-01 consumía 6,56 piezas por m² al precio del m² del material, no de la pieza, inflando el precio hasta ×16. La línea del material pasa a m² (1,05 por unidad, mermas incluidas) y el precio de lista derivado de esa descomposición se suprime: el precio vigente es el computado desde la descomposición corregida (cli compute).",
       "unit": "m2",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "updatedAt": "2026-08-17T17:37:32.247Z",
       "verification": {
         "findings": [
           "stale_edition-b7b48004b286f12f"
@@ -2760,7 +2778,7 @@
         },
         {
           "factor": 1,
-          "quantity": 46.66,
+          "quantity": 1.05,
           "ref": "mt-placa-gres-porcelanico-esmaltado-15x15-cm",
           "role": "material"
         },
@@ -2780,22 +2798,22 @@
           "Especiales"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "wi-alicatado-gres-porcelanico-esm-15x15-cm-adhesivo",
       "kind": "work_item",
       "prices": [
         {
           "currency": "EUR",
-          "date": "2021-12",
-          "edition": "2024-01",
-          "kind": "list",
+          "date": "2022-12",
+          "edition": "2026-08",
+          "kind": "computed_from_bom",
           "scope": {
-            "country": "ES",
-            "region": "AND"
+            "country": "ES"
           },
-          "source": "bcca",
-          "sourceCode": "10AAE90001",
-          "value": 289.6
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 26.88
         }
       ],
       "sources": [
@@ -2804,12 +2822,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "wi-alicatado-gres-porcelanico-esm-15x15-cm-adhesivo",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "ALICATADO GRES PORCELÁNICO ESM. 15x15 cm ADHESIVO",
-      "text": "Alicatado con placa de gres porcelánico esmaltado de 15x15 cm, recibido con adhesivo, incluso cortes y p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la superficie ejecutada.",
+      "text": "Alicatado con placa de gres porcelánico esmaltado de 15x15 cm, recibido con adhesivo, incluso cortes y p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la superficie ejecutada. Corrección CERP (2026-08, incidente Cresata): la descomposición de la BCCA 2024-01 consumía 46,66 piezas por m² al precio del m² del material, no de la pieza, inflando el precio hasta ×16. La línea del material pasa a m² (1,05 por unidad, mermas incluidas) y el precio de lista derivado de esa descomposición se suprime: el precio vigente es el computado desde la descomposición corregida (cli compute).",
       "unit": "m2",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "updatedAt": "2026-08-17T17:37:32.249Z",
       "verification": {
         "findings": [
           "stale_edition-5d9e7232c266b4b4"
@@ -2846,7 +2870,7 @@
         },
         {
           "factor": 1,
-          "quantity": 6.56,
+          "quantity": 1.05,
           "ref": "mt-placa-gres-porcelanico-esmaltado-40x40-cm",
           "role": "material"
         },
@@ -2866,22 +2890,22 @@
           "Especiales"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "wi-alicatado-gres-porcelanico-esm-40x40-cm-adhesivo",
       "kind": "work_item",
       "prices": [
         {
           "currency": "EUR",
-          "date": "2021-12",
-          "edition": "2024-01",
-          "kind": "list",
+          "date": "2022-12",
+          "edition": "2026-08",
+          "kind": "computed_from_bom",
           "scope": {
-            "country": "ES",
-            "region": "AND"
+            "country": "ES"
           },
-          "source": "bcca",
-          "sourceCode": "10AAE90003",
-          "value": 246.7
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 56.98
         }
       ],
       "sources": [
@@ -2890,12 +2914,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "wi-alicatado-gres-porcelanico-esm-40x40-cm-adhesivo",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "ALICATADO GRES PORCELÁNICO ESM. 40x40 cm ADHESIVO",
-      "text": "Alicatado con placa de gres porcelánico esmaltado de 40x40 cm, recibido con adhesivo, incluso cortes y p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la superficie ejecutada.",
+      "text": "Alicatado con placa de gres porcelánico esmaltado de 40x40 cm, recibido con adhesivo, incluso cortes y p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la superficie ejecutada. Corrección CERP (2026-08, incidente Cresata): la descomposición de la BCCA 2024-01 consumía 6,56 piezas por m² al precio del m² del material, no de la pieza, inflando el precio hasta ×16. La línea del material pasa a m² (1,05 por unidad, mermas incluidas) y el precio de lista derivado de esa descomposición se suprime: el precio vigente es el computado desde la descomposición corregida (cli compute).",
       "unit": "m2",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "updatedAt": "2026-08-17T17:37:32.253Z",
       "verification": {
         "findings": [
           "stale_edition-d96a51e44af619e3"
@@ -2932,7 +2962,7 @@
         },
         {
           "factor": 1,
-          "quantity": 26.25,
+          "quantity": 1.05,
           "ref": "mt-placa-gres-rustico-de-20x20-cm",
           "role": "material"
         },
@@ -2952,22 +2982,22 @@
           "Especiales"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "wi-alicatado-gres-rustico-20x20-cm-adhesivo",
       "kind": "work_item",
       "prices": [
         {
           "currency": "EUR",
-          "date": "2021-12",
-          "edition": "2024-01",
-          "kind": "list",
+          "date": "2022-12",
+          "edition": "2026-08",
+          "kind": "computed_from_bom",
           "scope": {
-            "country": "ES",
-            "region": "AND"
+            "country": "ES"
           },
-          "source": "bcca",
-          "sourceCode": "10AAE90012",
-          "value": 222.97
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 28.92
         }
       ],
       "sources": [
@@ -2976,12 +3006,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "wi-alicatado-gres-rustico-20x20-cm-adhesivo",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "ALICATADO GRES RÚSTICO 20x20 cm ADHESIVO",
-      "text": "Alicatado con placa de gres rústico de 20x20 cm, recibido con adhesivo, incluso cortes y p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la superficie ejecutada.",
+      "text": "Alicatado con placa de gres rústico de 20x20 cm, recibido con adhesivo, incluso cortes y p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la superficie ejecutada. Corrección CERP (2026-08, incidente Cresata): la descomposición de la BCCA 2024-01 consumía 26,25 piezas por m² al precio del m² del material, no de la pieza, inflando el precio hasta ×16. La línea del material pasa a m² (1,05 por unidad, mermas incluidas) y el precio de lista derivado de esa descomposición se suprime: el precio vigente es el computado desde la descomposición corregida (cli compute).",
       "unit": "m2",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "updatedAt": "2026-08-17T17:37:32.262Z",
       "verification": {
         "findings": [
           "stale_edition-a0237a96d5803a65"
@@ -3018,8 +3054,8 @@
         },
         {
           "factor": 1,
-          "quantity": 26.25,
-          "ref": "mt-placa-gres-rustico-de-31x31-cm",
+          "quantity": 1.05,
+          "ref": "mt-placa-gres-rustico-de-20x20-cm",
           "role": "material"
         },
         {
@@ -3038,22 +3074,22 @@
           "Especiales"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "wi-alicatado-gres-rustico-20x20-cm-m-bastardo",
       "kind": "work_item",
       "prices": [
         {
           "currency": "EUR",
-          "date": "2022-01",
-          "edition": "2024-01",
-          "kind": "list",
+          "date": "2022-12",
+          "edition": "2026-08",
+          "kind": "computed_from_bom",
           "scope": {
-            "country": "ES",
-            "region": "AND"
+            "country": "ES"
           },
-          "source": "bcca",
-          "sourceCode": "10AAE90026",
-          "value": 377.38
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 32.13
         }
       ],
       "sources": [
@@ -3062,12 +3098,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "wi-alicatado-gres-rustico-20x20-cm-m-bastardo",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "ALICATADO GRES RÚSTICO 20x20 cm M. BASTARDO",
-      "text": "Alicatado con placa de gres rústico de 20x20 cm, recibido mortero bastardo M 10 (1:0,5:4), incluso preparación de paramentos y cortes y p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la superficie ejecutada.",
+      "text": "Alicatado con placa de gres rústico de 20x20 cm, recibido mortero bastardo M 10 (1:0,5:4), incluso preparación de paramentos y cortes y p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la superficie ejecutada. Corrección CERP (2026-08, incidente Cresata): la descomposición de la BCCA 2024-01 consumía 26,25 piezas/m² (las que caben de la placa de 20x20 cm que indica el resumen) pero de la placa de 31x31 cm, y al precio del m² del material, no de la pieza. Se corrige la ref a la placa de 20x20 cm y la línea pasa a m² (1,05 m²/m², mermas incluidas); el precio de lista derivado se suprime y el vigente es el computado (cli compute).",
       "unit": "m2",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "updatedAt": "2026-08-17T17:37:32.279Z",
       "verification": {
         "findings": [
           "stale_edition-033ce287c8edb4d4"
@@ -3104,7 +3146,7 @@
         },
         {
           "factor": 1,
-          "quantity": 10.92,
+          "quantity": 1.05,
           "ref": "mt-placa-gres-rustico-de-31x31-cm",
           "role": "material"
         },
@@ -3124,22 +3166,22 @@
           "Especiales"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "wi-alicatado-gres-rustico-31x31-cm-adhesivo",
       "kind": "work_item",
       "prices": [
         {
           "currency": "EUR",
-          "date": "2021-12",
-          "edition": "2024-01",
-          "kind": "list",
+          "date": "2022-12",
+          "edition": "2026-08",
+          "kind": "computed_from_bom",
           "scope": {
-            "country": "ES",
-            "region": "AND"
+            "country": "ES"
           },
-          "source": "bcca",
-          "sourceCode": "10AAE90013",
-          "value": 167.82
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 34.96
         }
       ],
       "sources": [
@@ -3148,12 +3190,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "wi-alicatado-gres-rustico-31x31-cm-adhesivo",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "ALICATADO GRES RÚSTICO 31x31 cm ADHESIVO",
-      "text": "Alicatado con placa de gres rústico de 31x31 cm, recibido con adhesivo, incluso cortes y p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la superficie ejecutada.",
+      "text": "Alicatado con placa de gres rústico de 31x31 cm, recibido con adhesivo, incluso cortes y p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la superficie ejecutada. Corrección CERP (2026-08, incidente Cresata): la descomposición de la BCCA 2024-01 consumía 10,92 piezas por m² al precio del m² del material, no de la pieza, inflando el precio hasta ×16. La línea del material pasa a m² (1,05 por unidad, mermas incluidas) y el precio de lista derivado de esa descomposición se suprime: el precio vigente es el computado desde la descomposición corregida (cli compute).",
       "unit": "m2",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "updatedAt": "2026-08-17T17:37:32.287Z",
       "verification": {
         "findings": [
           "stale_edition-8758667091598d6a"
@@ -3992,7 +4040,7 @@
         },
         {
           "factor": 1,
-          "quantity": 5.25,
+          "quantity": 1.05,
           "ref": "mt-placa-gres-porcelanico-2x20cm",
           "role": "material"
         },
@@ -4012,22 +4060,22 @@
           "Varios"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "wi-cenefa-gres-porcelanico-2x20-cm-adhesivo",
       "kind": "work_item",
       "prices": [
         {
           "currency": "EUR",
-          "date": "2021-12",
-          "edition": "2024-01",
-          "kind": "list",
+          "date": "2022-12",
+          "edition": "2026-08",
+          "kind": "computed_from_bom",
           "scope": {
-            "country": "ES",
-            "region": "AND"
+            "country": "ES"
           },
-          "source": "bcca",
-          "sourceCode": "10AAW90002",
-          "value": 52.42
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 11.98
         }
       ],
       "sources": [
@@ -4036,12 +4084,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "wi-cenefa-gres-porcelanico-2x20-cm-adhesivo",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "CENEFA GRES PORCELÁNICO 2x20 cm ADHESIVO",
-      "text": "Cenefa con placa de gres porcelánico 2x20 cm, recibida con adhesivo, incluso cortes p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la longitud ejecutada.",
+      "text": "Cenefa con placa de gres porcelánico 2x20 cm, recibida con adhesivo, incluso cortes p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la longitud ejecutada. Corrección CERP (2026-08, incidente Cresata): la descomposición de la BCCA 2024-01 consumía 5,25 piezas por m al precio del metro del material, no de la pieza, inflando el precio hasta ×16. La línea del material pasa a metros (1,05 por unidad, mermas incluidas) y el precio de lista derivado de esa descomposición se suprime: el precio vigente es el computado desde la descomposición corregida (cli compute).",
       "unit": "m",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "updatedAt": "2026-08-17T17:37:32.296Z",
       "verification": {
         "findings": [
           "stale_edition-c85736382b2bdb22"
@@ -4078,7 +4132,7 @@
         },
         {
           "factor": 1,
-          "quantity": 5.25,
+          "quantity": 1.05,
           "ref": "mt-placa-gres-porcelanico-esmaltado-y-pulido-2x20-cm",
           "role": "material"
         },
@@ -4098,22 +4152,22 @@
           "Varios"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "wi-cenefa-gres-porcelanico-esmaltado-pulido-2x20-cm-adhesivo",
       "kind": "work_item",
       "prices": [
         {
           "currency": "EUR",
-          "date": "2021-12",
-          "edition": "2024-01",
-          "kind": "list",
+          "date": "2022-12",
+          "edition": "2026-08",
+          "kind": "computed_from_bom",
           "scope": {
-            "country": "ES",
-            "region": "AND"
+            "country": "ES"
           },
-          "source": "bcca",
-          "sourceCode": "10AAW90001",
-          "value": 77.46
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 16.98
         }
       ],
       "sources": [
@@ -4122,12 +4176,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "wi-cenefa-gres-porcelanico-esmaltado-pulido-2x20-cm-adhesivo",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "CENEFA GRES PORCELÁNICO ESMALTADO PULIDO 2x20 cm ADHESIVO",
-      "text": "Cenefa con placa de gres porcelánico esmaltado y pulido de 2x20 cm, recibida con adhesivo, incluso cortes p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la longitud ejecutada.",
+      "text": "Cenefa con placa de gres porcelánico esmaltado y pulido de 2x20 cm, recibida con adhesivo, incluso cortes p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la longitud ejecutada. Corrección CERP (2026-08, incidente Cresata): la descomposición de la BCCA 2024-01 consumía 5,25 piezas por m al precio del metro del material, no de la pieza, inflando el precio hasta ×16. La línea del material pasa a metros (1,05 por unidad, mermas incluidas) y el precio de lista derivado de esa descomposición se suprime: el precio vigente es el computado desde la descomposición corregida (cli compute).",
       "unit": "m",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "updatedAt": "2026-08-17T17:37:32.300Z",
       "verification": {
         "findings": [
           "stale_edition-cadad09a1408f95c"
@@ -4164,7 +4224,7 @@
         },
         {
           "factor": 1,
-          "quantity": 5.25,
+          "quantity": 1.05,
           "ref": "mt-placa-gres-rustico-7x20-cm",
           "role": "material"
         },
@@ -4184,22 +4244,22 @@
           "Varios"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "wi-cenefa-gres-rustico-7x20-cm-adhesivo",
       "kind": "work_item",
       "prices": [
         {
           "currency": "EUR",
-          "date": "2021-12",
-          "edition": "2024-01",
-          "kind": "list",
+          "date": "2022-12",
+          "edition": "2026-08",
+          "kind": "computed_from_bom",
           "scope": {
-            "country": "ES",
-            "region": "AND"
+            "country": "ES"
           },
-          "source": "bcca",
-          "sourceCode": "10AAW90003",
-          "value": 68.08
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 17.59
         }
       ],
       "sources": [
@@ -4208,12 +4268,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "wi-cenefa-gres-rustico-7x20-cm-adhesivo",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "CENEFA GRES RÚSTICO 7x20 cm ADHESIVO",
-      "text": "Cenefa con placa de gres rústico de 7x20 cm, recibida con adhesivo, incluso cortes p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la longitud ejecutada.",
+      "text": "Cenefa con placa de gres rústico de 7x20 cm, recibida con adhesivo, incluso cortes p.p. de piezas romas o ingletes, rejuntado y limpieza. Medida la longitud ejecutada. Corrección CERP (2026-08, incidente Cresata): la descomposición de la BCCA 2024-01 consumía 5,25 piezas por m al precio del metro del material, no de la pieza, inflando el precio hasta ×16. La línea del material pasa a metros (1,05 por unidad, mermas incluidas) y el precio de lista derivado de esa descomposición se suprime: el precio vigente es el computado desde la descomposición corregida (cli compute).",
       "unit": "m",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "updatedAt": "2026-08-17T17:37:32.303Z",
       "verification": {
         "findings": [
           "stale_edition-07580f0b724002f2"
@@ -8972,10 +9038,11 @@
       "updatedAt": "2026-07-21T11:25:32.116Z",
       "verification": {
         "findings": [
+          "chapter_mismatch-52676df794c9a8fa",
           "stale_edition-6fd92928e0ef9fab"
         ],
-        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
-        "status": "auto_ok"
+        "lastCheckedAt": "2026-08-17T18:24:17.833Z",
+        "status": "conflicted"
       }
     },
     {
@@ -12317,7 +12384,7 @@
         },
         {
           "factor": 1,
-          "quantity": 25.25,
+          "quantity": 1.01,
           "ref": "mt-baldosa-chapa-acero-20x20-cm",
           "role": "material"
         }
@@ -12331,22 +12398,22 @@
           "Solerías"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "wi-pavimento-baldosas-chapa-de-acero-20x20-cm",
       "kind": "work_item",
       "prices": [
         {
           "currency": "EUR",
-          "date": "2017-07",
-          "edition": "2024-01",
-          "kind": "list",
+          "date": "2022-12",
+          "edition": "2026-08",
+          "kind": "computed_from_bom",
           "scope": {
-            "country": "ES",
-            "region": "AND"
+            "country": "ES"
           },
-          "source": "bcca",
-          "sourceCode": "10SES00005",
-          "value": 320.51
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 34.96
         }
       ],
       "sources": [
@@ -12355,12 +12422,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "wi-pavimento-baldosas-chapa-de-acero-20x20-cm",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "PAVIMENTO BALDOSAS CHAPA DE ACERO 20X20 cm",
-      "text": "Pavimento de baldosas de chapa de acero de 20x20 cm colocadas sobre capa de mortero M10 (1:4); construido según CTE. Medida la superficie ejecutada.",
+      "text": "Pavimento de baldosas de chapa de acero de 20x20 cm colocadas sobre capa de mortero M10 (1:4); construido según CTE. Medida la superficie ejecutada. Corrección CERP (2026-08, incidente Cresata): la descomposición de la BCCA 2024-01 consumía 25,25 piezas/m² al precio del m² de la baldosa (11,78 €), no de la pieza, inflando el precio ×7. La línea del material pasa a m² (1,01 m²/m²) y el precio de lista derivado se suprime: el precio vigente es el computado desde la descomposición corregida (cli compute).",
       "unit": "m2",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "updatedAt": "2026-08-17T17:37:32.347Z",
       "verification": {
         "findings": [
           "stale_edition-2b7228ab62a18add"
@@ -42074,5 +42147,5 @@
       }
     }
   ],
-  "version": "0.3.0"
+  "version": "0.4.0"
 }

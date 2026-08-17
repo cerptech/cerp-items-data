@@ -22446,6 +22446,7 @@
           "Suelos"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-baldosa-chapa-acero-20x20-cm",
       "kind": "material",
@@ -22470,12 +22471,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "mt-baldosa-chapa-acero-20x20-cm",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "BALDOSA CHAPA ACERO 20x20 cm",
-      "text": "Medida la cantidad útil descargada",
-      "unit": "u",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "text": "Medida la cantidad útil descargada. Corrección CERP (2026-08, incidente Cresata): el precio de lista de la fuente corresponde al m², no a la pieza — la BCCA 2024-01 lo declara con unidad \"u\", pero a ese precio la pieza implicaría cientos de €/m², fuera de todo mercado. La unidad pasa a m2; las partidas que lo consumen lo miden en m² con mermas incluidas.",
+      "unit": "m2",
+      "updatedAt": "2026-08-17T17:36:52.886Z",
       "verification": {
         "findings": [
           "stale_edition-8e8c7507ccae7422"
@@ -174781,6 +174788,7 @@
           "Aplacados"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-placa-gres-porcelanico-25x25-cm",
       "kind": "material",
@@ -174805,12 +174813,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "mt-placa-gres-porcelanico-25x25-cm",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "PLACA GRES PORCELÁNICO 25x25 cm",
-      "text": "Medida la cantidad útil descargada",
-      "unit": "u",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "text": "Medida la cantidad útil descargada. Corrección CERP (2026-08, incidente Cresata): el precio de lista de la fuente corresponde al m², no a la pieza — la BCCA 2024-01 lo declara con unidad \"u\", pero a ese precio la pieza implicaría cientos de €/m², fuera de todo mercado. La unidad pasa a m2; las partidas que lo consumen lo miden en m² con mermas incluidas.",
+      "unit": "m2",
+      "updatedAt": "2026-08-17T17:36:52.891Z",
       "verification": {
         "findings": [
           "stale_edition-0b80a4d425a84a81"
@@ -174828,6 +174842,7 @@
           "Aplacados"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-placa-gres-porcelanico-2x20cm",
       "kind": "material",
@@ -174852,12 +174867,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "mt-placa-gres-porcelanico-2x20cm",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "PLACA GRES PORCELÁNICO 2x20cm",
-      "text": "Medida la cantidad útil descargada",
-      "unit": "u",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "text": "Medida la cantidad útil descargada. Corrección CERP (2026-08, incidente Cresata): el precio de lista de la fuente corresponde al metro lineal de cenefa, no a la pieza — la BCCA 2024-01 lo declara con unidad \"u\", pero a ese precio la pieza implicaría un coste de material absurdo por metro. La unidad pasa a m; las cenefas que lo consumen lo miden en metros con mermas incluidas.",
+      "unit": "m",
+      "updatedAt": "2026-08-17T17:36:52.891Z",
       "verification": {
         "findings": [
           "stale_edition-dda7cca2605a0b91"
@@ -174875,6 +174896,7 @@
           "Aplacados"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-placa-gres-porcelanico-30x30-cm",
       "kind": "material",
@@ -174899,12 +174921,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "mt-placa-gres-porcelanico-30x30-cm",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "PLACA GRES PORCELÁNICO 30x30 cm",
-      "text": "Medida la cantidad útil descargada",
-      "unit": "u",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "text": "Medida la cantidad útil descargada. Corrección CERP (2026-08, incidente Cresata): el precio de lista de la fuente corresponde al m², no a la pieza — la BCCA 2024-01 lo declara con unidad \"u\", pero a ese precio la pieza implicaría cientos de €/m², fuera de todo mercado. La unidad pasa a m2; las partidas que lo consumen lo miden en m² con mermas incluidas.",
+      "unit": "m2",
+      "updatedAt": "2026-08-17T17:36:52.892Z",
       "verification": {
         "findings": [
           "duplicate_candidate-36c8c0b98dcfd988",
@@ -174923,6 +174951,7 @@
           "Aplacados"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-placa-gres-porcelanico-40x40-cm",
       "kind": "material",
@@ -174947,12 +174976,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "mt-placa-gres-porcelanico-40x40-cm",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "PLACA GRES PORCELÁNICO 40x40 cm",
-      "text": "Medida la cantidad útil descargada",
-      "unit": "u",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "text": "Medida la cantidad útil descargada. Corrección CERP (2026-08, incidente Cresata): el precio de lista de la fuente corresponde al m², no a la pieza — la BCCA 2024-01 lo declara con unidad \"u\", pero a ese precio la pieza implicaría cientos de €/m², fuera de todo mercado. La unidad pasa a m2; las partidas que lo consumen lo miden en m² con mermas incluidas.",
+      "unit": "m2",
+      "updatedAt": "2026-08-17T17:36:52.892Z",
       "verification": {
         "findings": [
           "stale_edition-640578810716a7cc"
@@ -174970,6 +175005,7 @@
           "Aplacados"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-placa-gres-porcelanico-esmaltado-15x15-cm",
       "kind": "material",
@@ -174994,12 +175030,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "mt-placa-gres-porcelanico-esmaltado-15x15-cm",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "PLACA GRES PORCELÁNICO ESMALTADO 15x15 cm",
-      "text": "Medida la cantidad útil descargada",
-      "unit": "u",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "text": "Medida la cantidad útil descargada. Corrección CERP (2026-08, incidente Cresata): el precio de lista de la fuente corresponde al m², no a la pieza — la BCCA 2024-01 lo declara con unidad \"u\", pero a ese precio la pieza implicaría cientos de €/m², fuera de todo mercado. La unidad pasa a m2; las partidas que lo consumen lo miden en m² con mermas incluidas.",
+      "unit": "m2",
+      "updatedAt": "2026-08-17T17:36:52.892Z",
       "verification": {
         "findings": [
           "stale_edition-2556fea9a58b6b4c"
@@ -175017,6 +175059,7 @@
           "Aplacados"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-placa-gres-porcelanico-esmaltado-40x40-cm",
       "kind": "material",
@@ -175041,12 +175084,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "mt-placa-gres-porcelanico-esmaltado-40x40-cm",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "PLACA GRES PORCELÁNICO ESMALTADO 40x40 cm",
-      "text": "Medida la cantidad útil descargada",
-      "unit": "u",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "text": "Medida la cantidad útil descargada. Corrección CERP (2026-08, incidente Cresata): el precio de lista de la fuente corresponde al m², no a la pieza — la BCCA 2024-01 lo declara con unidad \"u\", pero a ese precio la pieza implicaría cientos de €/m², fuera de todo mercado. La unidad pasa a m2; las partidas que lo consumen lo miden en m² con mermas incluidas.",
+      "unit": "m2",
+      "updatedAt": "2026-08-17T17:36:52.893Z",
       "verification": {
         "findings": [
           "stale_edition-80dd4b0ab8016d92"
@@ -175064,6 +175113,7 @@
           "Aplacados"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-placa-gres-porcelanico-esmaltado-y-pulido-2x20-cm",
       "kind": "material",
@@ -175088,12 +175138,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "mt-placa-gres-porcelanico-esmaltado-y-pulido-2x20-cm",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "PLACA GRES PORCELÁNICO ESMALTADO Y PULIDO 2x20 cm",
-      "text": "Medida la cantidad útil descargada",
-      "unit": "u",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "text": "Medida la cantidad útil descargada. Corrección CERP (2026-08, incidente Cresata): el precio de lista de la fuente corresponde al metro lineal de cenefa, no a la pieza — la BCCA 2024-01 lo declara con unidad \"u\", pero a ese precio la pieza implicaría un coste de material absurdo por metro. La unidad pasa a m; las cenefas que lo consumen lo miden en metros con mermas incluidas.",
+      "unit": "m",
+      "updatedAt": "2026-08-17T17:36:52.893Z",
       "verification": {
         "findings": [
           "stale_edition-4ed5a07b092ddaf8"
@@ -175111,6 +175167,7 @@
           "Aplacados"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-placa-gres-rustico-7x20-cm",
       "kind": "material",
@@ -175135,12 +175192,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "mt-placa-gres-rustico-7x20-cm",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "PLACA GRES RÚSTICO 7x20 cm",
-      "text": "Medida la cantidad útil descargada",
-      "unit": "u",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "text": "Medida la cantidad útil descargada. Corrección CERP (2026-08, incidente Cresata): el precio de lista de la fuente corresponde al metro lineal de cenefa, no a la pieza — la BCCA 2024-01 lo declara con unidad \"u\", pero a ese precio la pieza implicaría un coste de material absurdo por metro. La unidad pasa a m; las cenefas que lo consumen lo miden en metros con mermas incluidas.",
+      "unit": "m",
+      "updatedAt": "2026-08-17T17:36:52.893Z",
       "verification": {
         "findings": [
           "stale_edition-13ee741c3a13f04b"
@@ -175158,6 +175221,7 @@
           "Aplacados"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-placa-gres-rustico-de-20x20-cm",
       "kind": "material",
@@ -175182,12 +175246,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "mt-placa-gres-rustico-de-20x20-cm",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "PLACA GRES RÚSTICO DE 20x20 cm",
-      "text": "Medida la cantidad útil descargada",
-      "unit": "u",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "text": "Medida la cantidad útil descargada. Corrección CERP (2026-08, incidente Cresata): el precio de lista de la fuente corresponde al m², no a la pieza — la BCCA 2024-01 lo declara con unidad \"u\", pero a ese precio la pieza implicaría cientos de €/m², fuera de todo mercado. La unidad pasa a m2; las partidas que lo consumen lo miden en m² con mermas incluidas.",
+      "unit": "m2",
+      "updatedAt": "2026-08-17T17:36:52.893Z",
       "verification": {
         "findings": [
           "stale_edition-358ddd04b40bf3fb"
@@ -175205,6 +175275,7 @@
           "Aplacados"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-placa-gres-rustico-de-31x31-cm",
       "kind": "material",
@@ -175229,12 +175300,18 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "mt-placa-gres-rustico-de-31x31-cm",
+          "edition": "2026-08",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "PLACA GRES RÚSTICO DE 31x31 cm",
-      "text": "Medida la cantidad útil descargada",
-      "unit": "u",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "text": "Medida la cantidad útil descargada. Corrección CERP (2026-08, incidente Cresata): el precio de lista de la fuente corresponde al m², no a la pieza — la BCCA 2024-01 lo declara con unidad \"u\", pero a ese precio la pieza implicaría cientos de €/m², fuera de todo mercado. La unidad pasa a m2; las partidas que lo consumen lo miden en m² con mermas incluidas.",
+      "unit": "m2",
+      "updatedAt": "2026-08-17T17:36:52.894Z",
       "verification": {
         "findings": [
           "stale_edition-f3acfe80bf47d8dc"
@@ -283781,5 +283858,5 @@
       }
     }
   ],
-  "version": "0.3.0"
+  "version": "0.4.0"
 }

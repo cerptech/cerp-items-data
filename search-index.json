@@ -3862,7 +3862,7 @@
       "k": "material",
       "p": 11.78,
       "s": "BALDOSA CHAPA ACERO 20x20 cm",
-      "u": "u"
+      "u": "m2"
     },
     {
       "c": "",
@@ -29550,7 +29550,7 @@
       "k": "material",
       "p": 20.34,
       "s": "PLACA GRES PORCELÁNICO 25x25 cm",
-      "u": "u"
+      "u": "m2"
     },
     {
       "c": "",
@@ -29558,7 +29558,7 @@
       "k": "material",
       "p": 9.63,
       "s": "PLACA GRES PORCELÁNICO 2x20cm",
-      "u": "u"
+      "u": "m"
     },
     {
       "c": "",
@@ -29566,7 +29566,7 @@
       "k": "material",
       "p": 24.71,
       "s": "PLACA GRES PORCELÁNICO 30x30 cm",
-      "u": "u"
+      "u": "m2"
     },
     {
       "c": "",
@@ -29574,7 +29574,7 @@
       "k": "material",
       "p": 56.97,
       "s": "PLACA GRES PORCELÁNICO 40x40 cm",
-      "u": "u"
+      "u": "m2"
     },
     {
       "c": "",
@@ -29582,7 +29582,7 @@
       "k": "material",
       "p": 5.76,
       "s": "PLACA GRES PORCELÁNICO ESMALTADO 15x15 cm",
-      "u": "u"
+      "u": "m2"
     },
     {
       "c": "",
@@ -29590,7 +29590,7 @@
       "k": "material",
       "p": 34.43,
       "s": "PLACA GRES PORCELÁNICO ESMALTADO 40x40 cm",
-      "u": "u"
+      "u": "m2"
     },
     {
       "c": "",
@@ -29598,7 +29598,7 @@
       "k": "material",
       "p": 14.4,
       "s": "PLACA GRES PORCELÁNICO ESMALTADO Y PULIDO 2x20 cm",
-      "u": "u"
+      "u": "m"
     },
     {
       "c": "",
@@ -29606,7 +29606,7 @@
       "k": "material",
       "p": 12.02,
       "s": "PLACA GRES RÚSTICO 7x20 cm",
-      "u": "u"
+      "u": "m"
     },
     {
       "c": "",
@@ -29614,7 +29614,7 @@
       "k": "material",
       "p": 7.7,
       "s": "PLACA GRES RÚSTICO DE 20x20 cm",
-      "u": "u"
+      "u": "m2"
     },
     {
       "c": "",
@@ -29622,7 +29622,7 @@
       "k": "material",
       "p": 13.46,
       "s": "PLACA GRES RÚSTICO DE 31x31 cm",
-      "u": "u"
+      "u": "m2"
     },
     {
       "c": "",
@@ -50556,7 +50556,7 @@
       "c": "precios-unitarios--revestimientos",
       "i": "wi-alicatado-gres-porcelanico-25x25-cm-adhesivo",
       "k": "work_item",
-      "p": 362.55,
+      "p": 42.19,
       "s": "ALICATADO GRES PORCELÁNICO 25x25 cm ADHESIVO",
       "u": "m2"
     },
@@ -50564,7 +50564,7 @@
       "c": "precios-unitarios--revestimientos",
       "i": "wi-alicatado-gres-porcelanico-30x30-cm-adhesivo",
       "k": "work_item",
-      "p": 308.96,
+      "p": 46.78,
       "s": "ALICATADO GRES PORCELÁNICO 30x30 cm ADHESIVO",
       "u": "m2"
     },
@@ -50572,7 +50572,7 @@
       "c": "precios-unitarios--revestimientos",
       "i": "wi-alicatado-gres-porcelanico-40x40-cm-adhesivo",
       "k": "work_item",
-      "p": 394.56,
+      "p": 80.65,
       "s": "ALICATADO GRES PORCELÁNICO 40x40 cm ADHESIVO",
       "u": "m2"
     },
@@ -50580,7 +50580,7 @@
       "c": "precios-unitarios--revestimientos",
       "i": "wi-alicatado-gres-porcelanico-esm-15x15-cm-adhesivo",
       "k": "work_item",
-      "p": 289.6,
+      "p": 26.88,
       "s": "ALICATADO GRES PORCELÁNICO ESM. 15x15 cm ADHESIVO",
       "u": "m2"
     },
@@ -50588,7 +50588,7 @@
       "c": "precios-unitarios--revestimientos",
       "i": "wi-alicatado-gres-porcelanico-esm-40x40-cm-adhesivo",
       "k": "work_item",
-      "p": 246.7,
+      "p": 56.98,
       "s": "ALICATADO GRES PORCELÁNICO ESM. 40x40 cm ADHESIVO",
       "u": "m2"
     },
@@ -50596,7 +50596,7 @@
       "c": "precios-unitarios--revestimientos",
       "i": "wi-alicatado-gres-rustico-20x20-cm-adhesivo",
       "k": "work_item",
-      "p": 222.97,
+      "p": 28.92,
       "s": "ALICATADO GRES RÚSTICO 20x20 cm ADHESIVO",
       "u": "m2"
     },
@@ -50604,7 +50604,7 @@
       "c": "precios-unitarios--revestimientos",
       "i": "wi-alicatado-gres-rustico-20x20-cm-m-bastardo",
       "k": "work_item",
-      "p": 377.38,
+      "p": 32.13,
       "s": "ALICATADO GRES RÚSTICO 20x20 cm M. BASTARDO",
       "u": "m2"
     },
@@ -50612,7 +50612,7 @@
       "c": "precios-unitarios--revestimientos",
       "i": "wi-alicatado-gres-rustico-31x31-cm-adhesivo",
       "k": "work_item",
-      "p": 167.82,
+      "p": 34.96,
       "s": "ALICATADO GRES RÚSTICO 31x31 cm ADHESIVO",
       "u": "m2"
     },
@@ -58596,7 +58596,7 @@
       "c": "precios-unitarios--revestimientos",
       "i": "wi-cenefa-gres-porcelanico-2x20-cm-adhesivo",
       "k": "work_item",
-      "p": 52.42,
+      "p": 11.98,
       "s": "CENEFA GRES PORCELÁNICO 2x20 cm ADHESIVO",
       "u": "m"
     },
@@ -58604,7 +58604,7 @@
       "c": "precios-unitarios--revestimientos",
       "i": "wi-cenefa-gres-porcelanico-esmaltado-pulido-2x20-cm-adhesivo",
       "k": "work_item",
-      "p": 77.46,
+      "p": 16.98,
       "s": "CENEFA GRES PORCELÁNICO ESMALTADO PULIDO 2x20 cm ADHESIVO",
       "u": "m"
     },
@@ -58612,7 +58612,7 @@
       "c": "precios-unitarios--revestimientos",
       "i": "wi-cenefa-gres-rustico-7x20-cm-adhesivo",
       "k": "work_item",
-      "p": 68.08,
+      "p": 17.59,
       "s": "CENEFA GRES RÚSTICO 7x20 cm ADHESIVO",
       "u": "m"
     },
@@ -63404,7 +63404,7 @@
       "c": "precios-unitarios--demoliciones-y-trabajos-previos",
       "i": "wi-demolicion-de-particion-interior-de-tabique-l-hueco-sencillo",
       "k": "work_item",
-      "p": 95.67,
+      "p": 9.56,
       "s": "DEMOLICIÓN DE PARTICIÓN INTERIOR DE TABIQUE L/HUECO SENCILLO",
       "u": "m2"
     },
@@ -63540,7 +63540,7 @@
       "c": "precios-unitarios--demoliciones-y-trabajos-previos",
       "i": "wi-demolicion-de-tabique-de-l-hueco-sencillo-c-manual-t-vert",
       "k": "work_item",
-      "p": 60.13,
+      "p": 7.09,
       "s": "DEMOLICIÓN DE TABIQUE DE L/ HUECO SENCILLO, C. MANUAL, T. VERT.",
       "u": "m2"
     },
@@ -63548,7 +63548,7 @@
       "c": "precios-unitarios--demoliciones-y-trabajos-previos",
       "i": "wi-demolicion-de-tabique-de-l-hueco-sencillo-c-mecanica-t-vert",
       "k": "work_item",
-      "p": 95.67,
+      "p": 6.43,
       "s": "DEMOLICIÓN DE TABIQUE DE L/HUECO SENCILLO, C. MECÁNICA, T. VERT.",
       "u": "m2"
     },
@@ -83252,7 +83252,7 @@
       "c": "precios-unitarios--revestimientos",
       "i": "wi-pavimento-baldosas-chapa-de-acero-20x20-cm",
       "k": "work_item",
-      "p": 320.51,
+      "p": 34.96,
       "s": "PAVIMENTO BALDOSAS CHAPA DE ACERO 20X20 cm",
       "u": "m2"
     },
@@ -100521,5 +100521,5 @@
       "u": "m2"
     }
   ],
-  "version": "0.3.0"
+  "version": "0.4.0"
 }

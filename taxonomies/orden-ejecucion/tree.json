@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T19:15:08.304Z",
+  "generatedAt": "2026-08-17T18:31:23.103Z",
   "roots": [
     {
       "k": "01-IMP",
@@ -46,7 +46,7 @@
     {
       "k": "08-ALB",
       "l": "Albañilería y tabiquería",
-      "n": 304,
+      "n": 316,
       "s": "albanileria-y-tabiqueria"
     },
     {
@@ -64,25 +64,25 @@
     {
       "k": "11-REV",
       "l": "Revestimientos continuos interiores",
-      "n": 193,
+      "n": 102,
       "s": "revestimientos-continuos-interiores"
     },
     {
       "k": "12-PAV",
       "l": "Pavimentos",
-      "n": 254,
+      "n": 280,
       "s": "pavimentos"
     },
     {
       "k": "13-RVV",
       "l": "Revestimientos verticales",
-      "n": 61,
+      "n": 101,
       "s": "revestimientos-verticales"
     },
     {
       "k": "14-TEC",
       "l": "Falsos techos",
-      "n": 18,
+      "n": 31,
       "s": "falsos-techos"
     },
     {
@@ -207,5 +207,5 @@
     }
   ],
   "total": 6468,
-  "version": "0.3.0"
+  "version": "0.4.0"
 }

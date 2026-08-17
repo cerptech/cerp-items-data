@@ -114,10 +114,11 @@
       "updatedAt": "2026-07-21T11:25:32.116Z",
       "verification": {
         "findings": [
+          "chapter_mismatch-e073c6bef63a76d2",
           "stale_edition-2a020cf867b7695f"
         ],
-        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
-        "status": "auto_ok"
+        "lastCheckedAt": "2026-08-17T18:24:17.833Z",
+        "status": "conflicted"
       }
     },
     {
@@ -167,10 +168,11 @@
       "updatedAt": "2026-07-21T11:25:32.116Z",
       "verification": {
         "findings": [
+          "chapter_mismatch-ada0e2f1052f78e6",
           "stale_edition-78d7ab40443f713d"
         ],
-        "lastCheckedAt": "2026-07-21T11:26:30.206Z",
-        "status": "auto_ok"
+        "lastCheckedAt": "2026-08-17T18:24:17.833Z",
+        "status": "conflicted"
       }
     },
     {
@@ -366,5 +368,5 @@
       }
     }
   ],
-  "version": "0.3.0"
+  "version": "0.4.0"
 }

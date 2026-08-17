@@ -4,19 +4,10 @@
     {
       "d": "2022-12",
       "g": [],
-      "id": "wi-enlucido-en-paredes-pasta-de-escayola",
-      "m": 2,
-      "p": 3.35,
-      "s": "ENLUCIDO EN PAREDES, PASTA DE ESCAYOLA",
-      "u": "m2"
-    },
-    {
-      "d": "2022-12",
-      "g": [],
-      "id": "wi-enlucido-en-techos-pasta-de-escayola",
-      "m": 2,
-      "p": 3.93,
-      "s": "ENLUCIDO EN TECHOS, PASTA DE ESCAYOLA",
+      "id": "wi-emplomado-de-techos",
+      "m": 5,
+      "p": 98.75,
+      "s": "EMPLOMADO DE TECHOS",
       "u": "m2"
     },
     {
@@ -27,42 +18,6 @@
       "p": 8.5,
       "s": "FOSEADO PLANCHA DE ESCAYOLA LISA 10x10 cm",
       "u": "m"
-    },
-    {
-      "d": "2022-12",
-      "g": [],
-      "id": "wi-guarnecido-y-enlucido-maestreado-en-paredes-mort-escayola",
-      "m": 2,
-      "p": 15.39,
-      "s": "GUARNECIDO Y ENLUCIDO MAESTREADO EN PAREDES, MORT. ESCAYOLA",
-      "u": "m2"
-    },
-    {
-      "d": "2022-12",
-      "g": [],
-      "id": "wi-guarnecido-y-enlucido-maestreado-en-techos-mort-escayola",
-      "m": 2,
-      "p": 29.87,
-      "s": "GUARNECIDO Y ENLUCIDO MAESTREADO EN TECHOS, MORT. ESCAYOLA",
-      "u": "m2"
-    },
-    {
-      "d": "2022-12",
-      "g": [],
-      "id": "wi-guarnecido-y-enlucido-sin-maestrear-en-paredes-mort-escayola",
-      "m": 2,
-      "p": 10.41,
-      "s": "GUARNECIDO Y ENLUCIDO SIN MAESTREAR EN PAREDES, MORT. ESCAYOLA",
-      "u": "m2"
-    },
-    {
-      "d": "2022-12",
-      "g": [],
-      "id": "wi-guarnecido-y-enlucido-sin-maestrear-en-techos-mort-escayola",
-      "m": 2,
-      "p": 18.29,
-      "s": "GUARNECIDO Y ENLUCIDO SIN MAESTREAR EN TECHOS, MORT. ESCAYOLA",
-      "u": "m2"
     },
     {
       "d": "2022-01",
@@ -137,6 +92,141 @@
       "u": "m2"
     },
     {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-techo-de-duelas-de-madera-pino-flandes-primera-calidad",
+      "m": 6,
+      "p": 48.66,
+      "s": "TECHO DE DUELAS DE MADERA PINO FLANDES PRIMERA CALIDAD",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-techo-de-placas-acusticas-de-acero-galvanizado-al-duco",
+      "m": 4,
+      "p": 46.56,
+      "s": "TECHO DE PLACAS ACÚSTICAS DE ACERO GALVANIZADO AL DUCO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-techo-de-placas-acusticas-de-aluminio-anodizado",
+      "m": 4,
+      "p": 26.39,
+      "s": "TECHO DE PLACAS ACÚSTICAS DE ALUMINIO ANODIZADO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-techo-de-placas-acusticas-de-aluminio-de-color",
+      "m": 4,
+      "p": 34.79,
+      "s": "TECHO DE PLACAS ACÚSTICAS DE ALUMINIO DE COLOR",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-techo-de-placas-acusticas-de-conglom-de-fibra-de-vidrio",
+      "m": 4,
+      "p": 19.08,
+      "s": "TECHO DE PLACAS ACÚSTICAS DE CONGLOM. DE FIBRA DE VIDRIO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-techo-de-placas-acusticas-de-conglom-de-lana-mineral",
+      "m": 4,
+      "p": 18.23,
+      "s": "TECHO DE PLACAS ACÚSTICAS DE CONGLOM. DE LANA MINERAL",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-techo-de-placas-de-tablero-aglomerado-de-25-mm-esp",
+      "m": 4,
+      "p": 38.05,
+      "s": "TECHO DE PLACAS DE TABLERO AGLOMERADO DE 25 mm ESP.",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-techo-lamas-alum-lacadas-color-acust-desmont-y-entram-oculto",
+      "m": 5,
+      "p": 73.5,
+      "s": "TECHO LAMAS ALUM. LACADAS COLOR ACÚST. DESMONT. Y ENTRAM. OCULTO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-techo-lamas-alum-lacadas-color-desmont-y-entram-oculto",
+      "m": 5,
+      "p": 54.28,
+      "s": "TECHO LAMAS ALUM. LACADAS COLOR DESMONT. Y ENTRAM. OCULTO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-techo-lamas-alum-lacadas-est-acust-desmont-y-entram-oculto",
+      "m": 5,
+      "p": 63.63,
+      "s": "TECHO LAMAS ALUM. LACADAS EST. ACÚST. DESMONT. Y ENTRAM. OCULTO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-techo-lamas-alum-lacadas-estandar-desmont-y-entram-oculto",
+      "m": 5,
+      "p": 49.14,
+      "s": "TECHO LAMAS ALUM. LACADAS ESTÁNDAR, DESMONT. Y ENTRAM. OCULTO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-techo-lamas-pvc-lacadas-desmont-y-entramado-oculto",
+      "m": 5,
+      "p": 31.13,
+      "s": "TECHO LAMAS PVC LACADAS DESMONT. Y ENTRAMADO OCULTO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-techo-lamas-pvc-lacadas-madera-desmont-y-entramado-oculto",
+      "m": 5,
+      "p": 53.86,
+      "s": "TECHO LAMAS PVC LACADAS-MADERA DESMONT. Y ENTRAMADO OCULTO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-techo-placas-acust-fibra-mineral-desmontables-y-entr-oculto",
+      "m": 5,
+      "p": 26.35,
+      "s": "TECHO PLACAS ACÚST. FIBRA MINERAL DESMONTABLES Y ENTR. OCULTO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-techo-placas-acust-fibra-mineral-desmontables-y-entram-visto",
+      "m": 4,
+      "p": 18.99,
+      "s": "TECHO PLACAS ACÚST. FIBRA MINERAL DESMONTABLES Y ENTRAM. VISTO",
+      "u": "m2"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-techo-placas-de-escayola-acustica-fij-metalica",
@@ -155,6 +245,33 @@
       "u": "m2"
     },
     {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-techo-placas-madera-lisa-melaminada-desmont-y-entram-oculto",
+      "m": 5,
+      "p": 84.29,
+      "s": "TECHO PLACAS MADERA LISA MELAMINADA DESMONT. Y ENTRAM. OCULTO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-techo-placas-madera-lisa-melaminada-desmont-y-entram-visto",
+      "m": 5,
+      "p": 71,
+      "s": "TECHO PLACAS MADERA LISA MELAMINADA DESMONT. Y ENTRAM. VISTO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-techo-placas-yeso-laminado-desmont-y-entramado-oculto",
+      "m": 5,
+      "p": 29.12,
+      "s": "TECHO PLACAS YESO LAMINADO DESMONT. Y ENTRAMADO OCULTO",
+      "u": "m2"
+    },
+    {
       "d": "2022-01",
       "g": [],
       "id": "wi-techo-registrable-con-placas-de-yeso-laminado",
@@ -165,5 +282,5 @@
     }
   ],
   "title": "Falsos techos",
-  "version": "0.3.0"
+  "version": "0.4.0"
 }

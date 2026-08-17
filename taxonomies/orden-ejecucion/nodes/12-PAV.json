@@ -2,6 +2,51 @@
   "key": "12-PAV",
   "rows": [
     {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bordillo-prefabricado-de-hormigon-hm-40-achaflanado",
+      "m": 5,
+      "p": 26.56,
+      "s": "BORDILLO PREFABRICADO DE HORMIGÓN HM-40 ACHAFLANADO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-bordillo-prefabricado-hm-40-rebajado-5-15x20x50-cm",
+      "m": 5,
+      "p": 19.9,
+      "s": "BORDILLO PREFABRICADO HM-40 REBAJADO 5/15x20x50 cm",
+      "u": "m"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-cinta-antideslizante-base-aluminio",
+      "m": 2,
+      "p": 1.6,
+      "s": "CINTA ANTIDESLIZANTE BASE ALUMINIO",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cubrejuntas-de-laton",
+      "m": 2,
+      "p": 6.57,
+      "s": "CUBREJUNTAS DE LATÓN",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-cubrejuntas-de-pvc",
+      "m": 2,
+      "p": 5.5,
+      "s": "CUBREJUNTAS DE PVC",
+      "u": "m"
+    },
+    {
       "d": "2017-07",
       "g": [],
       "id": "wi-entarimado-con-tablas-paralelas-de-roble",
@@ -236,11 +281,47 @@
       "u": "ml"
     },
     {
-      "d": "2017-07",
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-parque-de-baldosas-con-tablillas-de-roble",
+      "m": 5,
+      "p": 55.31,
+      "s": "PARQUE DE BALDOSAS CON TABLILLAS DE ROBLE",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-parque-de-mosaico",
+      "m": 7,
+      "p": 74.94,
+      "s": "PARQUE DE MOSAICO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pav-pvc-antideslizante-rollos-2mm",
+      "m": 5,
+      "p": 33.6,
+      "s": "PAV. PVC ANTIDESLIZANTE ROLLOS 2mm.",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-pav-pvc-rollos-suelo-conductivo",
+      "m": 5,
+      "p": 42.74,
+      "s": "PAV. PVC ROLLOS SUELO CONDUCTIVO",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
       "g": [],
       "id": "wi-pavimento-baldosas-chapa-de-acero-20x20-cm",
       "m": 3,
-      "p": 320.51,
+      "p": 34.96,
       "s": "PAVIMENTO BALDOSAS CHAPA DE ACERO 20X20 cm",
       "u": "m2"
     },
@@ -812,39 +893,21 @@
       "u": "m"
     },
     {
-      "d": "2017-07",
+      "d": "2022-12",
       "g": [],
-      "id": "wi-revestido-vinilico",
-      "m": 5,
-      "p": 19.19,
-      "s": "REVESTIDO VINÍLICO",
+      "id": "wi-recrecido-de-suelos-de-5-cm-esp-con-arena-gruesa",
+      "m": 2,
+      "p": 4,
+      "s": "RECRECIDO DE SUELOS DE 5 cm ESP. CON ARENA GRUESA",
       "u": "m2"
     },
     {
-      "d": "2017-07",
+      "d": "2022-12",
       "g": [],
-      "id": "wi-revestimiento-lamina-vinilica-ref",
+      "id": "wi-recrecido-de-suelos-de-5-cm-esp-con-mortero",
       "m": 3,
-      "p": 28.79,
-      "s": "REVESTIMIENTO LÁMINA VINÍLICA REF.",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-moqueta-fibra-sintetica-en-bucle",
-      "m": 4,
-      "p": 17.7,
-      "s": "REVESTIMIENTO MOQUETA FIBRA SINTÉTICA EN BUCLE",
-      "u": "m2"
-    },
-    {
-      "d": "2021-12",
-      "g": [],
-      "id": "wi-revestimiento-moqueta-fibra-sintetica-en-pelo-cortado",
-      "m": 4,
-      "p": 16.37,
-      "s": "REVESTIMIENTO MOQUETA FIBRA SINTÉTICA EN PELO CORTADO",
+      "p": 11.68,
+      "s": "RECRECIDO DE SUELOS DE 5 cm ESP. CON MORTERO",
       "u": "m2"
     },
     {
@@ -1188,6 +1251,15 @@
       "p": 3.73,
       "s": "SEPARADOR ENTRE PAVIMENTOS DE PVC",
       "u": "m"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-sol-g-catalan-antidesliz-31x31",
+      "m": 7,
+      "p": 45.11,
+      "s": "SOL. G. CATALÁN ANTIDESLIZ. 31x31",
+      "u": "m2"
     },
     {
       "d": "2021-12",
@@ -2083,6 +2155,24 @@
     {
       "d": "2021-12",
       "g": [],
+      "id": "wi-suelo-elevado-y-registrable-con-baldosas-de-pvc",
+      "m": 6,
+      "p": 90.29,
+      "s": "SUELO ELEVADO Y REGISTRABLE CON BALDOSAS DE PVC",
+      "u": "m2"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-suelo-formado-por-entramado-metalico-galvanizado",
+      "m": 4,
+      "p": 70.63,
+      "s": "SUELO FORMADO POR ENTRAMADO METÁLICO GALVANIZADO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
       "id": "wi-tarima-chapada-haya-1250x188x12-mm",
       "m": 4,
       "p": 44.05,
@@ -2115,6 +2205,150 @@
       "p": 133.97,
       "s": "TARIMA ROBLE MACIZO SOBRE RASTRELES",
       "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-trat-sup-acabado-con-silice-corindon-cuarzo",
+      "m": 8,
+      "p": 11.74,
+      "s": "TRAT. SUP. ACABADO CON SÍLICE, CORINDÓN, CUARZO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-trat-sup-antipolvo-con-pintura-acrilica",
+      "m": 3,
+      "p": 7.29,
+      "s": "TRAT. SUP. ANTIPOLVO CON PINTURA ACRÍLICA",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-trat-sup-antipolvo-con-pintura-clorocaucho",
+      "m": 3,
+      "p": 7.79,
+      "s": "TRAT. SUP. ANTIPOLVO CON PINTURA CLOROCAUCHO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-trat-sup-antipolvo-con-pintura-resinas",
+      "m": 3,
+      "p": 10.38,
+      "s": "TRAT. SUP. ANTIPOLVO CON PINTURA RESINAS",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-trat-sup-antipolvo-con-slurry-acrilico",
+      "m": 5,
+      "p": 10.7,
+      "s": "TRAT. SUP. ANTIPOLVO CON \"SLURRY\" ACRÍLICO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-trat-sup-antipolvo-con-slurry-asfaltico",
+      "m": 5,
+      "p": 110.24,
+      "s": "TRAT. SUP. ANTIPOLVO CON \"SLURRY\" ASFÁLTICO",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-tratamiento-superficial-antipolvo-con-pintura-epoxi",
+      "m": 4,
+      "p": 14.68,
+      "s": "TRATAMIENTO SUPERFICIAL ANTIPOLVO CON PINTURA EPOXI",
+      "u": "m2"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-umbral-de-bald-granito-gris-quintana-30x2-cm",
+      "m": 5,
+      "p": 51.95,
+      "s": "UMBRAL DE BALD. GRANITO GRIS QUINTANA 30x2 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-umbral-de-bald-granito-negro-sudafrica-30x2-cm",
+      "m": 5,
+      "p": 163.74,
+      "s": "UMBRAL DE BALD. GRANITO NEGRO SUDÁFRICA 30x2 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-umbral-de-bald-granito-rosa-porrino-30x2-cm",
+      "m": 5,
+      "p": 45.76,
+      "s": "UMBRAL DE BALD. GRANITO ROSA PORRIÑO 30x2 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-umbral-de-marmol-blanco-macael",
+      "m": 5,
+      "p": 38.47,
+      "s": "UMBRAL DE MÁRMOL \"BLANCO MACAEL\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-umbral-de-marmol-rojo-alicante",
+      "m": 5,
+      "p": 33.94,
+      "s": "UMBRAL DE MÁRMOL \"ROJO ALICANTE\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-umbral-de-marmol-travertino-30x2-cm",
+      "m": 5,
+      "p": 51.22,
+      "s": "UMBRAL DE MÁRMOL \"TRAVERTINO\" 30x2 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-umbral-de-piedra-caliza-25x2-cm",
+      "m": 5,
+      "p": 25.67,
+      "s": "UMBRAL DE PIEDRA CALIZA 25x2 cm",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-umbral-de-piedra-caliza-crema-sevilla",
+      "m": 5,
+      "p": 29.85,
+      "s": "UMBRAL DE PIEDRA CALIZA \"CREMA SEVILLA\"",
+      "u": "m"
+    },
+    {
+      "d": "2021-12",
+      "g": [],
+      "id": "wi-umbral-de-pizarra-30x2-cm",
+      "m": 5,
+      "p": 35.26,
+      "s": "UMBRAL DE PIZARRA 30x2 cm",
+      "u": "m"
     },
     {
       "d": "2021-12",
@@ -2289,5 +2523,5 @@
     }
   ],
   "title": "Pavimentos",
-  "version": "0.3.0"
+  "version": "0.4.0"
 }

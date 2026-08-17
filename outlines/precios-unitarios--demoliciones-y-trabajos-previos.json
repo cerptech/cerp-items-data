@@ -153,7 +153,7 @@
       ],
       "id": "wi-demolicion-de-particion-interior-de-tabique-l-hueco-sencillo",
       "m": 3,
-      "p": 95.67,
+      "p": 9.56,
       "s": "DEMOLICIÓN DE PARTICIÓN INTERIOR DE TABIQUE L/HUECO SENCILLO",
       "u": "m2"
     },
@@ -166,7 +166,7 @@
       ],
       "id": "wi-demolicion-de-tabique-de-l-hueco-sencillo-c-manual-t-vert",
       "m": 2,
-      "p": 60.13,
+      "p": 7.09,
       "s": "DEMOLICIÓN DE TABIQUE DE L/ HUECO SENCILLO, C. MANUAL, T. VERT.",
       "u": "m2"
     },
@@ -179,7 +179,7 @@
       ],
       "id": "wi-demolicion-de-tabique-de-l-hueco-sencillo-c-mecanica-t-vert",
       "m": 3,
-      "p": 95.67,
+      "p": 6.43,
       "s": "DEMOLICIÓN DE TABIQUE DE L/HUECO SENCILLO, C. MECÁNICA, T. VERT.",
       "u": "m2"
     },
@@ -6370,5 +6370,5 @@
     }
   ],
   "title": "Precios Unitarios > DEMOLICIONES Y TRABAJOS PREVIOS",
-  "version": "0.3.0"
+  "version": "0.4.0"
 }

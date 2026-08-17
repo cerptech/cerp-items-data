@@ -2720,6 +2720,114 @@
       "u": "m2"
     },
     {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-tradosado-simple-pl-yeso-laminado-perforado-13-70-83-mm",
+      "m": 8,
+      "p": 39.13,
+      "s": "TRADOSADO SIMPLE PL. YESO LAMINADO PERFORADO 13+70 (83 mm)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-trasdosado-autop-48-13-2mm-pb-48-13-13-de-plomo-2-mm",
+      "m": 4,
+      "p": 81.11,
+      "s": "TRASDOSADO AUTOP.48+13+ 2mm PB+48+13+13 de PLOMO 2 mm",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-trasdosado-de-carton-yeso-13mm-13mm-perf-ac-gal-fij-mec",
+      "m": 7,
+      "p": 35.99,
+      "s": "TRASDOSADO DE CARTON-YESO 13mm+13mm PERF. AC. GAL. FIJ. MEC",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-trasdosado-de-carton-yeso-13mm-rf-13mm-rf-perf-ac-gal-fij-me",
+      "m": 3,
+      "p": 30.32,
+      "s": "TRASDOSADO DE CARTON-YESO 13mm RF+13mm RF PERF. AC. GAL. FIJ. MEC",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-trasdosado-de-carton-yeso-13mm-wa-13mm-wa-perf-ac-gal-fij-me",
+      "m": 3,
+      "p": 29.06,
+      "s": "TRASDOSADO DE CARTON-YESO 13mm WA+13mm WA PERF. AC. GAL. FIJ. MEC",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-trasdosado-directo-con-pasta-de-agarre-13-13",
+      "m": 3,
+      "p": 23.83,
+      "s": "TRASDOSADO DIRECTO CON PASTA DE AGARRE 13+13",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-trasdosado-directo-con-pasta-de-agarre-13rf-13rf",
+      "m": 3,
+      "p": 29.83,
+      "s": "TRASDOSADO DIRECTO CON PASTA DE AGARRE 13RF+13RF",
+      "u": "m2"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-trasdosado-directo-con-pasta-de-agarre-13wa-13wa",
+      "m": 3,
+      "p": 26.83,
+      "s": "TRASDOSADO DIRECTO CON PASTA DE AGARRE 13WA+13WA",
+      "u": "m2"
+    },
+    {
+      "d": "2017-07",
+      "g": [],
+      "id": "wi-trasdosado-multiple-pl-yeso-laminado-13-13-70mm-96mm",
+      "m": 8,
+      "p": 31.06,
+      "s": "TRASDOSADO MÚLTIPLE PL. YESO LAMINADO 13+13+70mm (96mm)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-trasdosado-simple-pl-yeso-laminado-15wr-90-85mm",
+      "m": 7,
+      "p": 21.73,
+      "s": "TRASDOSADO SIMPLE PL. YESO LAMINADO 15WR + 90 (85mm)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-trasdosado-simple-pl-yeso-laminado-antih-15-46-61mm",
+      "m": 7,
+      "p": 24.72,
+      "s": "TRASDOSADO SIMPLE PL. YESO LAMINADO ANTIH. 15+46 (61mm)",
+      "u": "m2"
+    },
+    {
+      "d": "2022-01",
+      "g": [],
+      "id": "wi-trasdosado-simple-placa-fonoabsorbente-de-200mm-ventilacion",
+      "m": 7,
+      "p": 23.53,
+      "s": "TRASDOSADO SIMPLE PLACA FONOABSORBENTE DE 200mm. VENTILACIÓN",
+      "u": "ml"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-vierteaguas-de-piedra-caliza-30x3-cm",
@@ -2739,5 +2847,5 @@
     }
   ],
   "title": "Albañilería y tabiquería",
-  "version": "0.3.0"
+  "version": "0.4.0"
 }
