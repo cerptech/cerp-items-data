@@ -1,0 +1,347 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Estructura de hormigón armado > Fundaciones",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 6.5,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 14.1,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado",
+          "Fundaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.573Z",
+      "id": "wi-ar-base-de-hormigon-armado",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 411990.56
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 438284.3
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 595870.93
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 643753.82
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-base-de-hormigon-armado",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Base de hormigón armado",
+      "tags": [
+        "base",
+        "hormigón armado",
+        "fundación",
+        "hºaº"
+      ],
+      "text": "Base céntrica o excéntrica de hormigón armado H-21, incluidos hormigón elaborado, armadura de hierro nervurado ADN 420 elaborada y colocada, encofrado lateral, colocación, vibrado y curado. Medida por volumen neto de la pieza terminada, sin descontar el volumen de las armaduras. El precio unitario del metro cúbico de hormigón armado en un itemizado argentino es \"todo incluido\" (hormigón + armadura + encofrado), a diferencia del catálogo español, que abre las tres partidas por separado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "unit": "m3",
+      "updatedAt": "2026-09-08T09:15:59.019Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.7,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.7,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mt-ar-hormigon-elaborado-h-8-puesto-en-obra",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado",
+          "Fundaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.575Z",
+      "id": "wi-ar-hormigon-de-limpieza-bajo-fundaciones",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 205193.89
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 209474.19
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 235745.53
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 242747.98
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-hormigon-de-limpieza-bajo-fundaciones",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Hormigón de limpieza bajo fundaciones",
+      "tags": [
+        "hormigón de limpieza",
+        "fundación",
+        "h-8"
+      ],
+      "text": "Hormigón de limpieza H-8 bajo bases, vigas de fundación y plateas, de 5 cm de espesor, para nivelación y aislación del terreno. Medido por volumen neto de la pieza. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "unit": "m3",
+      "updatedAt": "2026-09-08T09:15:59.107Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.1,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 6.5,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.03,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado",
+          "Fundaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.577Z",
+      "id": "wi-ar-viga-de-fundacion-de-hormigon-armado",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 275808.07
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 286687.22
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 352906.85
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 371414.64
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-viga-de-fundacion-de-hormigon-armado",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Viga de fundación de hormigón armado",
+      "tags": [
+        "viga de fundación",
+        "hormigón armado",
+        "hºaº"
+      ],
+      "text": "Viga de fundación de hormigón armado H-21, incluidos hormigón elaborado, armadura elaborada y colocada, encofrado, colocación, vibrado y curado. Medida por volumen neto de la pieza terminada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "unit": "m3",
+      "updatedAt": "2026-09-08T09:15:59.154Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.5.0"
+}

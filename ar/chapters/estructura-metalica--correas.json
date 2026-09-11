@@ -1,0 +1,72 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Estructura metálica > Correas",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.0875,
+          "ref": "mt-ar-perfil-c-galvanizado-de-100x50x15x2-mm-en-barra-de-12-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.008,
+          "ref": "mt-ar-electrodo-e6013-de-3-25-mm-en-caja-de-5-kg",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura metálica",
+          "Correas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.574Z",
+      "id": "wi-ar-correa-de-perfil-c-galvanizado-de-100x50x15x2-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 9561.11
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-correa-de-perfil-c-galvanizado-de-100x50x15x2-mm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Correa de perfil C galvanizado de 100x50x15x2 mm",
+      "tags": [
+        "perfil c",
+        "correa",
+        "galvanizado"
+      ],
+      "text": "Correa de techo de perfil C conformado en frío de chapa galvanizada de 100x50x15 mm y 2,0 mm de espesor, cortada a medida y fijada a la estructura. Medida por metro lineal de correa colocada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Se compra por barra de 12 m, de modo que un metro consume 0,0833 barras más un 5 % de desperdicio. Al ser galvanizada no lleva antióxido. SIN RENDIMIENTO DE MANO DE OBRA. Se relevaron manuales técnicos de fabricante (Ternium, Acindar, INCOSE), colegios profesionales de doce provincias, institutos provinciales de vivienda, pliegos de obra pública y cátedras universitarias: ninguna fuente argentina de descarga libre publica el armado y montaje de estructura metálica con horas por categoría. Se descartó deliberadamente la única fuente que sí los publica desagregados, por estar bloqueada por licencia para este banco. Hasta conseguir una fuente habilitada esta partida cubre sólo los materiales y su precio subestima el costo real.",
+      "unit": "m",
+      "updatedAt": "2026-09-08T09:15:59.069Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.5.0"
+}

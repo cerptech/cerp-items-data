@@ -1,0 +1,59 @@
+{
+  "key": "estructura-de-madera--techos",
+  "rows": [
+    {
+      "g": [],
+      "id": "mt-ar-clavadera-de-pino-de-1x2-pulgadas",
+      "m": 0,
+      "s": "Clavadera de pino de 1x2 pulgadas",
+      "u": "m"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-machimbre-de-pino-comercial-de-1-2-pulgada",
+      "m": 0,
+      "p": 6898.35,
+      "s": "Machimbre de pino comercial de 1/2 pulgada",
+      "u": "m2"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-tirante-de-pino-elliotis-de-2x6-pulgadas",
+      "m": 0,
+      "p": 3332.23,
+      "s": "Tirante de pino elliotis de 2x6 pulgadas",
+      "u": "m"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-tirante-de-pino-elliotis-de-3x6-pulgadas",
+      "m": 0,
+      "p": 4679.34,
+      "s": "Tirante de pino elliotis de 3x6 pulgadas",
+      "u": "m"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "wi-ar-estructura-de-techo-de-madera-con-tirantes-de-pino-de-2x6-pu",
+      "m": 2,
+      "p": 5345.41,
+      "s": "Estructura de techo de madera con tirantes de pino de 2x6 pulgadas",
+      "u": "m2"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "wi-ar-estructura-de-techo-de-madera-con-tirantes-de-pino-de-3x6-pu",
+      "m": 2,
+      "p": 7366.08,
+      "s": "Estructura de techo de madera con tirantes de pino de 3x6 pulgadas",
+      "u": "m2"
+    }
+  ],
+  "title": "Estructura de madera > Techos",
+  "version": "0.5.0"
+}

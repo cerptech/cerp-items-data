@@ -387,6 +387,15 @@
       "u": "kg"
     },
     {
+      "g": [
+        "morteros"
+      ],
+      "id": "mt-mortero-de-junta-delgada-tipo-t-segun-une-en-998-2",
+      "m": 0,
+      "s": "Mortero de junta delgada tipo T según UNE-EN 998-2",
+      "u": "kg"
+    },
+    {
       "d": "2022-12",
       "g": [
         "morteros"
@@ -706,6 +715,15 @@
       "u": "kg"
     },
     {
+      "g": [
+        "resinas"
+      ],
+      "id": "mt-adhesivo-de-poliuretano-bicomponente-para-pavimentos-de-made",
+      "m": 0,
+      "s": "Adhesivo de poliuretano bicomponente para pavimentos de madera",
+      "u": "kg"
+    },
+    {
       "d": "2022-01",
       "g": [
         "resinas"
@@ -828,5 +846,5 @@
     }
   ],
   "title": "Precios Básicos > AGLOMERANTES Y MORTEROS",
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

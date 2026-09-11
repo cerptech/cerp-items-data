@@ -1,0 +1,48 @@
+{
+  "key": "estructura-de-hormigon-armado--hormigon-elaborado",
+  "rows": [
+    {
+      "d": "2026-09",
+      "g": [],
+      "id": "mt-ar-hormigon-elaborado-h-17-puesto-en-obra",
+      "m": 0,
+      "p": 166628.5,
+      "s": "Hormigón elaborado H-17 puesto en obra",
+      "u": "m3"
+    },
+    {
+      "g": [],
+      "id": "mt-ar-hormigon-elaborado-h-21-bombeado",
+      "m": 0,
+      "s": "Hormigón elaborado H-21 bombeado",
+      "u": "m3"
+    },
+    {
+      "d": "2026-09",
+      "g": [],
+      "id": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+      "m": 0,
+      "p": 172706.5,
+      "s": "Hormigón elaborado H-21 puesto en obra",
+      "u": "m3"
+    },
+    {
+      "g": [],
+      "id": "mt-ar-hormigon-elaborado-h-25-puesto-en-obra",
+      "m": 0,
+      "s": "Hormigón elaborado H-25 puesto en obra",
+      "u": "m3"
+    },
+    {
+      "d": "2026-09",
+      "g": [],
+      "id": "mt-ar-hormigon-elaborado-h-8-puesto-en-obra",
+      "m": 0,
+      "p": 162750,
+      "s": "Hormigón elaborado H-8 puesto en obra",
+      "u": "m3"
+    }
+  ],
+  "title": "Estructura de hormigón armado > Hormigón elaborado",
+  "version": "0.5.0"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T18:31:23.103Z",
+  "generatedAt": "2026-09-11T11:10:37.293Z",
   "roots": [
     {
       "c": [
@@ -13,6 +13,197 @@
       "l": "Mano de obra",
       "n": 5,
       "s": "mano-de-obra"
+    },
+    {
+      "c": [
+        {
+          "k": "maquinaria-y-equipos--alquiler",
+          "l": "Alquiler",
+          "n": 10,
+          "s": "alquiler"
+        }
+      ],
+      "l": "Maquinaria y equipos",
+      "n": 10,
+      "s": "maquinaria-y-equipos"
+    },
+    {
+      "c": [
+        {
+          "k": "instalacion-sanitaria--artefactos",
+          "l": "Artefactos",
+          "n": 2,
+          "s": "artefactos"
+        },
+        {
+          "k": "instalacion-sanitaria--artefactos-y-griferia",
+          "l": "Artefactos y grifería",
+          "n": 6,
+          "s": "artefactos-y-griferia"
+        },
+        {
+          "k": "instalacion-sanitaria--canerias",
+          "l": "Cañerías",
+          "n": 2,
+          "s": "canerias"
+        },
+        {
+          "k": "instalacion-sanitaria--canerias-y-accesorios",
+          "l": "Cañerías y accesorios",
+          "n": 11,
+          "s": "canerias-y-accesorios"
+        },
+        {
+          "k": "instalacion-sanitaria--desagues",
+          "l": "Desagües",
+          "n": 2,
+          "s": "desagues"
+        }
+      ],
+      "l": "Instalación sanitaria",
+      "n": 23,
+      "s": "instalacion-sanitaria"
+    },
+    {
+      "c": [
+        {
+          "k": "solados--pisos",
+          "l": "Pisos",
+          "n": 15,
+          "s": "pisos"
+        },
+        {
+          "k": "solados--zocalos",
+          "l": "Zócalos",
+          "n": 7,
+          "s": "zocalos"
+        }
+      ],
+      "l": "Solados",
+      "n": 22,
+      "s": "solados"
+    },
+    {
+      "c": [
+        {
+          "k": "estructura-de-hormigon-armado--armaduras",
+          "l": "Armaduras",
+          "n": 12,
+          "s": "armaduras"
+        },
+        {
+          "k": "estructura-de-hormigon-armado--bases",
+          "l": "Bases",
+          "n": 1,
+          "s": "bases"
+        },
+        {
+          "k": "estructura-de-hormigon-armado--columnas",
+          "l": "Columnas",
+          "n": 1,
+          "s": "columnas"
+        },
+        {
+          "k": "estructura-de-hormigon-armado--dinteles",
+          "l": "Dinteles",
+          "n": 1,
+          "s": "dinteles"
+        },
+        {
+          "k": "estructura-de-hormigon-armado--encadenados",
+          "l": "Encadenados",
+          "n": 1,
+          "s": "encadenados"
+        },
+        {
+          "k": "estructura-de-hormigon-armado--encofrados",
+          "l": "Encofrados",
+          "n": 5,
+          "s": "encofrados"
+        },
+        {
+          "k": "estructura-de-hormigon-armado--escaleras",
+          "l": "Escaleras",
+          "n": 1,
+          "s": "escaleras"
+        },
+        {
+          "k": "estructura-de-hormigon-armado--estructura-resistente",
+          "l": "Estructura resistente",
+          "n": 4,
+          "s": "estructura-resistente"
+        },
+        {
+          "k": "estructura-de-hormigon-armado--fundaciones",
+          "l": "Fundaciones",
+          "n": 3,
+          "s": "fundaciones"
+        },
+        {
+          "k": "estructura-de-hormigon-armado--hormigon-elaborado",
+          "l": "Hormigón elaborado",
+          "n": 5,
+          "s": "hormigon-elaborado"
+        },
+        {
+          "k": "estructura-de-hormigon-armado--hormigones",
+          "l": "Hormigones",
+          "n": 3,
+          "s": "hormigones"
+        },
+        {
+          "k": "estructura-de-hormigon-armado--losas",
+          "l": "Losas",
+          "n": 1,
+          "s": "losas"
+        },
+        {
+          "k": "estructura-de-hormigon-armado--losas-alivianadas",
+          "l": "Losas alivianadas",
+          "n": 7,
+          "s": "losas-alivianadas"
+        },
+        {
+          "k": "estructura-de-hormigon-armado--plateas",
+          "l": "Plateas",
+          "n": 1,
+          "s": "plateas"
+        },
+        {
+          "k": "estructura-de-hormigon-armado--tabiques",
+          "l": "Tabiques",
+          "n": 1,
+          "s": "tabiques"
+        },
+        {
+          "k": "estructura-de-hormigon-armado--vigas",
+          "l": "Vigas",
+          "n": 1,
+          "s": "vigas"
+        }
+      ],
+      "l": "Estructura de hormigón armado",
+      "n": 48,
+      "s": "estructura-de-hormigon-armado"
+    },
+    {
+      "c": [
+        {
+          "k": "estructura-metalica--correas",
+          "l": "Correas",
+          "n": 1,
+          "s": "correas"
+        },
+        {
+          "k": "estructura-metalica--perfiles",
+          "l": "Perfiles",
+          "n": 16,
+          "s": "perfiles"
+        }
+      ],
+      "l": "Estructura metálica",
+      "n": 17,
+      "s": "estructura-metalica"
     },
     {
       "c": [
@@ -36,6 +227,131 @@
     {
       "c": [
         {
+          "k": "aridos-y-aglomerantes--aglomerantes",
+          "l": "Aglomerantes",
+          "n": 3,
+          "s": "aglomerantes"
+        },
+        {
+          "k": "aridos-y-aglomerantes--aridos",
+          "l": "Áridos",
+          "n": 4,
+          "s": "aridos"
+        }
+      ],
+      "l": "Áridos y aglomerantes",
+      "n": 7,
+      "s": "aridos-y-aglomerantes"
+    },
+    {
+      "c": [
+        {
+          "k": "seguridad-e-higiene--proteccion",
+          "l": "Protección",
+          "n": 13,
+          "s": "proteccion"
+        }
+      ],
+      "l": "Seguridad e higiene",
+      "n": 13,
+      "s": "seguridad-e-higiene"
+    },
+    {
+      "c": [
+        {
+          "k": "cubiertas--chapa",
+          "l": "Chapa",
+          "n": 1,
+          "s": "chapa"
+        },
+        {
+          "k": "cubiertas--chapas-y-accesorios",
+          "l": "Chapas y accesorios",
+          "n": 5,
+          "s": "chapas-y-accesorios"
+        },
+        {
+          "k": "cubiertas--tejas",
+          "l": "Tejas",
+          "n": 2,
+          "s": "tejas"
+        },
+        {
+          "k": "cubiertas--zingueria",
+          "l": "Zinguería",
+          "n": 2,
+          "s": "zingueria"
+        }
+      ],
+      "l": "Cubiertas",
+      "n": 10,
+      "s": "cubiertas"
+    },
+    {
+      "c": [
+        {
+          "k": "albanileria--bloques",
+          "l": "Bloques",
+          "n": 3,
+          "s": "bloques"
+        },
+        {
+          "k": "albanileria--construccion-en-seco",
+          "l": "Construcción en seco",
+          "n": 1,
+          "s": "construccion-en-seco"
+        },
+        {
+          "k": "albanileria--ladrillos",
+          "l": "Ladrillos",
+          "n": 5,
+          "s": "ladrillos"
+        },
+        {
+          "k": "albanileria--mamposteria",
+          "l": "Mampostería",
+          "n": 6,
+          "s": "mamposteria"
+        }
+      ],
+      "l": "Albañilería",
+      "n": 15,
+      "s": "albanileria"
+    },
+    {
+      "c": [
+        {
+          "k": "instalacion-electrica--bocas",
+          "l": "Bocas",
+          "n": 3,
+          "s": "bocas"
+        },
+        {
+          "k": "instalacion-electrica--canerias-y-conductores",
+          "l": "Cañerías y conductores",
+          "n": 6,
+          "s": "canerias-y-conductores"
+        },
+        {
+          "k": "instalacion-electrica--mecanismos-y-tableros",
+          "l": "Mecanismos y tableros",
+          "n": 5,
+          "s": "mecanismos-y-tableros"
+        },
+        {
+          "k": "instalacion-electrica--tableros",
+          "l": "Tableros",
+          "n": 1,
+          "s": "tableros"
+        }
+      ],
+      "l": "Instalación eléctrica",
+      "n": 15,
+      "s": "instalacion-electrica"
+    },
+    {
+      "c": [
+        {
           "k": "aglomerantes--cal",
           "l": "Cal",
           "n": 1,
@@ -55,6 +371,120 @@
     {
       "c": [
         {
+          "k": "instalacion-de-gas--canerias",
+          "l": "Cañerías",
+          "n": 2,
+          "s": "canerias"
+        },
+        {
+          "k": "instalacion-de-gas--canerias-y-accesorios",
+          "l": "Cañerías y accesorios",
+          "n": 5,
+          "s": "canerias-y-accesorios"
+        }
+      ],
+      "l": "Instalación de gas",
+      "n": 7,
+      "s": "instalacion-de-gas"
+    },
+    {
+      "c": [
+        {
+          "k": "construccion-en-seco--placas-y-perfiles",
+          "l": "Placas y perfiles",
+          "n": 10,
+          "s": "placas-y-perfiles"
+        }
+      ],
+      "l": "Construcción en seco",
+      "n": 10,
+      "s": "construccion-en-seco"
+    },
+    {
+      "c": [
+        {
+          "k": "estructura-de-madera--techos",
+          "l": "Techos",
+          "n": 6,
+          "s": "techos"
+        }
+      ],
+      "l": "Estructura de madera",
+      "n": 6,
+      "s": "estructura-de-madera"
+    },
+    {
+      "c": [
+        {
+          "k": "pinturas--exteriores",
+          "l": "Exteriores",
+          "n": 1,
+          "s": "exteriores"
+        },
+        {
+          "k": "pinturas--herreria",
+          "l": "Herrería",
+          "n": 1,
+          "s": "herreria"
+        },
+        {
+          "k": "pinturas--interiores",
+          "l": "Interiores",
+          "n": 2,
+          "s": "interiores"
+        },
+        {
+          "k": "pinturas--materiales",
+          "l": "Materiales",
+          "n": 6,
+          "s": "materiales"
+        }
+      ],
+      "l": "Pinturas",
+      "n": 10,
+      "s": "pinturas"
+    },
+    {
+      "c": [
+        {
+          "k": "herramientas--demolicion",
+          "l": "Demolición",
+          "n": 2,
+          "s": "demolicion"
+        }
+      ],
+      "l": "Herramientas",
+      "n": 2,
+      "s": "herramientas"
+    },
+    {
+      "c": [
+        {
+          "k": "aislaciones--capas-aisladoras",
+          "l": "Capas aisladoras",
+          "n": 3,
+          "s": "capas-aisladoras"
+        },
+        {
+          "k": "aislaciones--cubiertas",
+          "l": "Cubiertas",
+          "n": 1,
+          "s": "cubiertas"
+        },
+        {
+          "k": "aislaciones--membranas",
+          "l": "Membranas",
+          "n": 5,
+          "s": "membranas"
+        }
+      ],
+      "l": "Aislaciones",
+      "n": 9,
+      "s": "aislaciones"
+    },
+    {
+      "c": [
+        {
           "k": "acero--barras-nervuradas",
           "l": "Barras nervuradas",
           "n": 4,
@@ -64,25 +494,6 @@
       "l": "Acero",
       "n": 4,
       "s": "acero"
-    },
-    {
-      "c": [
-        {
-          "k": "albanileria--ladrillos",
-          "l": "Ladrillos",
-          "n": 1,
-          "s": "ladrillos"
-        },
-        {
-          "k": "albanileria--mamposteria",
-          "l": "Mampostería",
-          "n": 2,
-          "s": "mamposteria"
-        }
-      ],
-      "l": "Albañilería",
-      "n": 3,
-      "s": "albanileria"
     },
     {
       "c": [
@@ -100,6 +511,183 @@
     {
       "c": [
         {
+          "k": "carpinterias--aluminio",
+          "l": "Aluminio",
+          "n": 4,
+          "s": "aluminio"
+        },
+        {
+          "k": "carpinterias--chapa",
+          "l": "Chapa",
+          "n": 2,
+          "s": "chapa"
+        },
+        {
+          "k": "carpinterias--madera",
+          "l": "Madera",
+          "n": 2,
+          "s": "madera"
+        }
+      ],
+      "l": "Carpinterías",
+      "n": 8,
+      "s": "carpinterias"
+    },
+    {
+      "c": [
+        {
+          "k": "revestimientos--ceramicos",
+          "l": "Cerámicos",
+          "n": 4,
+          "s": "ceramicos"
+        }
+      ],
+      "l": "Revestimientos",
+      "n": 4,
+      "s": "revestimientos"
+    },
+    {
+      "c": [
+        {
+          "k": "gestion-de-residuos--retiro-de-escombros",
+          "l": "Retiro de escombros",
+          "n": 2,
+          "s": "retiro-de-escombros"
+        }
+      ],
+      "l": "Gestión de residuos",
+      "n": 2,
+      "s": "gestion-de-residuos"
+    },
+    {
+      "c": [
+        {
+          "k": "movimiento-de-suelos--achique",
+          "l": "Achique",
+          "n": 1,
+          "s": "achique"
+        },
+        {
+          "k": "movimiento-de-suelos--excavaciones",
+          "l": "Excavaciones",
+          "n": 2,
+          "s": "excavaciones"
+        },
+        {
+          "k": "movimiento-de-suelos--rellenos-y-compactaciones",
+          "l": "Rellenos y compactaciones",
+          "n": 1,
+          "s": "rellenos-y-compactaciones"
+        }
+      ],
+      "l": "Movimiento de suelos",
+      "n": 4,
+      "s": "movimiento-de-suelos"
+    },
+    {
+      "c": [
+        {
+          "k": "contrapisos-y-carpetas--carpetas",
+          "l": "Carpetas",
+          "n": 2,
+          "s": "carpetas"
+        },
+        {
+          "k": "contrapisos-y-carpetas--contrapisos",
+          "l": "Contrapisos",
+          "n": 5,
+          "s": "contrapisos"
+        }
+      ],
+      "l": "Contrapisos y carpetas",
+      "n": 7,
+      "s": "contrapisos-y-carpetas"
+    },
+    {
+      "c": [
+        {
+          "k": "cielorrasos--aplicados",
+          "l": "Aplicados",
+          "n": 1,
+          "s": "aplicados"
+        },
+        {
+          "k": "cielorrasos--madera",
+          "l": "Madera",
+          "n": 1,
+          "s": "madera"
+        },
+        {
+          "k": "cielorrasos--suspendidos",
+          "l": "Suspendidos",
+          "n": 1,
+          "s": "suspendidos"
+        }
+      ],
+      "l": "Cielorrasos",
+      "n": 3,
+      "s": "cielorrasos"
+    },
+    {
+      "c": [
+        {
+          "k": "demoliciones-y-trabajos-previos--demoliciones",
+          "l": "Demoliciones",
+          "n": 8,
+          "s": "demoliciones"
+        },
+        {
+          "k": "demoliciones-y-trabajos-previos--trabajos-previos",
+          "l": "Trabajos previos",
+          "n": 1,
+          "s": "trabajos-previos"
+        }
+      ],
+      "l": "Demoliciones y trabajos previos",
+      "n": 9,
+      "s": "demoliciones-y-trabajos-previos"
+    },
+    {
+      "c": [
+        {
+          "k": "revoques--exteriores",
+          "l": "Exteriores",
+          "n": 1,
+          "s": "exteriores"
+        },
+        {
+          "k": "revoques--interiores",
+          "l": "Interiores",
+          "n": 2,
+          "s": "interiores"
+        },
+        {
+          "k": "revoques--yeseria",
+          "l": "Yesería",
+          "n": 1,
+          "s": "yeseria"
+        }
+      ],
+      "l": "Revoques",
+      "n": 4,
+      "s": "revoques"
+    },
+    {
+      "c": [
+        {
+          "k": "varios-y-limpieza--limpieza",
+          "l": "Limpieza",
+          "n": 2,
+          "s": "limpieza"
+        }
+      ],
+      "l": "Varios y limpieza",
+      "n": 2,
+      "s": "varios-y-limpieza"
+    },
+    {
+      "c": [
+        {
           "k": "morteros--mortero-de-cemento",
           "l": "Mortero de cemento",
           "n": 1,
@@ -109,8 +697,21 @@
       "l": "Morteros",
       "n": 1,
       "s": "morteros"
+    },
+    {
+      "c": [
+        {
+          "k": "trabajos-preliminares--replanteo-y-obrador",
+          "l": "Replanteo y obrador",
+          "n": 2,
+          "s": "replanteo-y-obrador"
+        }
+      ],
+      "l": "Trabajos preliminares",
+      "n": 2,
+      "s": "trabajos-preliminares"
     }
   ],
-  "total": 18,
-  "version": "0.4.0"
+  "total": 284,
+  "version": "0.5.0"
 }

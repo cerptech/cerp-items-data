@@ -1,0 +1,71 @@
+{
+  "key": "demoliciones-y-trabajos-previos--demoliciones",
+  "rows": [
+    {
+      "g": [],
+      "id": "wi-ar-demolicion-de-contrapiso-y-piso",
+      "m": 0,
+      "s": "Demolición de contrapiso y piso",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-ar-demolicion-de-losa-de-hormigon-armado",
+      "m": 0,
+      "s": "Demolición de losa de hormigón armado",
+      "u": "m2"
+    },
+    {
+      "d": "2026-07",
+      "g": [],
+      "id": "wi-ar-demolicion-de-mamposteria-de-ladrillo-comun-a-mano",
+      "m": 1,
+      "p": 31985.85,
+      "s": "Demolición de mampostería de ladrillo común a mano",
+      "u": "m3"
+    },
+    {
+      "d": "2026-07",
+      "g": [],
+      "id": "wi-ar-demolicion-de-tabique-de-ladrillo-hueco",
+      "m": 1,
+      "p": 3838.3,
+      "s": "Demolición de tabique de ladrillo hueco",
+      "u": "m2"
+    },
+    {
+      "d": "2026-07",
+      "g": [],
+      "id": "wi-ar-picado-de-revoque-en-paredes",
+      "m": 1,
+      "p": 3198.59,
+      "s": "Picado de revoque en paredes",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-ar-retiro-de-artefacto-sanitario",
+      "m": 0,
+      "s": "Retiro de artefacto sanitario",
+      "u": "u"
+    },
+    {
+      "g": [],
+      "id": "wi-ar-retiro-de-carpinteria",
+      "m": 0,
+      "s": "Retiro de carpintería",
+      "u": "m2"
+    },
+    {
+      "d": "2026-07",
+      "g": [],
+      "id": "wi-ar-retiro-de-piso-ceramico",
+      "m": 1,
+      "p": 5864.07,
+      "s": "Retiro de piso cerámico",
+      "u": "m2"
+    }
+  ],
+  "title": "Demoliciones y trabajos previos > Demoliciones",
+  "version": "0.5.0"
+}

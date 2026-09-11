@@ -1,0 +1,25 @@
+{
+  "key": "instalacion-sanitaria--desagues",
+  "rows": [
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "wi-ar-caneria-cloacal-de-pvc-3-2-de-110-mm",
+      "m": 3,
+      "p": 17490.43,
+      "s": "Cañería cloacal de PVC 3,2 de ø110 mm",
+      "u": "m"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "wi-ar-colocacion-de-pileta-de-patio-abierta-de-20x20-cm",
+      "m": 1,
+      "p": 18925.62,
+      "s": "Colocación de pileta de patio abierta de 20x20 cm",
+      "u": "u"
+    }
+  ],
+  "title": "Instalación sanitaria > Desagües",
+  "version": "0.5.0"
+}

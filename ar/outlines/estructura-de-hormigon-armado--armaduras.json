@@ -1,0 +1,105 @@
+{
+  "key": "estructura-de-hormigon-armado--armaduras",
+  "rows": [
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+      "m": 0,
+      "p": 3825.52,
+      "s": "Alambre recocido Nº 16 para atado de armaduras",
+      "u": "kg"
+    },
+    {
+      "g": [],
+      "id": "mt-ar-hierro-nervurado-adn-420-diametro-16-mm-en-barra-de-12-m",
+      "m": 0,
+      "s": "Hierro nervurado ADN 420 diámetro 16 mm en barra de 12 m",
+      "u": "u"
+    },
+    {
+      "g": [],
+      "id": "mt-ar-hierro-nervurado-adn-420-diametro-20-mm-en-barra-de-12-m",
+      "m": 0,
+      "s": "Hierro nervurado ADN 420 diámetro 20 mm en barra de 12 m",
+      "u": "u"
+    },
+    {
+      "g": [],
+      "id": "mt-ar-hierro-nervurado-adn-420-diametro-25-mm-en-barra-de-12-m",
+      "m": 0,
+      "s": "Hierro nervurado ADN 420 diámetro 25 mm en barra de 12 m",
+      "u": "u"
+    },
+    {
+      "g": [],
+      "id": "mt-ar-malla-de-acero-soldada-q131-en-pano-de-2-15-x-6-00-m",
+      "m": 0,
+      "s": "Malla de acero soldada Q131 en paño de 2,15 x 6,00 m",
+      "u": "u"
+    },
+    {
+      "g": [],
+      "id": "mt-ar-malla-de-acero-soldada-q188-en-pano-de-2-15-x-6-00-m",
+      "m": 0,
+      "s": "Malla de acero soldada Q188 en paño de 2,15 x 6,00 m",
+      "u": "u"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-malla-de-acero-soldada-q92-en-pano-de-2-15-x-6-00-m",
+      "m": 0,
+      "p": 28461.98,
+      "s": "Malla de acero soldada Q92 en paño de 2,15 x 6,00 m",
+      "u": "u"
+    },
+    {
+      "d": "2026-09",
+      "g": [],
+      "id": "mt-ar-separador-plastico-de-armadura",
+      "m": 0,
+      "p": 54.49,
+      "s": "Separador plástico de armadura",
+      "u": "u"
+    },
+    {
+      "d": "2026-09",
+      "g": [],
+      "id": "wi-ar-armadura-de-hierro-nervurado-adn-420-de-10-mm-elaborada-y-co",
+      "m": 3,
+      "p": 2118.72,
+      "s": "Armadura de hierro nervurado ADN 420 de 10 mm elaborada y colocada",
+      "u": "kg"
+    },
+    {
+      "d": "2026-09",
+      "g": [],
+      "id": "wi-ar-armadura-de-hierro-nervurado-adn-420-de-12-mm-elaborada-y-co",
+      "m": 3,
+      "p": 2137.82,
+      "s": "Armadura de hierro nervurado ADN 420 de 12 mm elaborada y colocada",
+      "u": "kg"
+    },
+    {
+      "d": "2026-09",
+      "g": [],
+      "id": "wi-ar-armadura-de-hierro-nervurado-adn-420-de-6-mm-elaborada-y-col",
+      "m": 3,
+      "p": 2157.86,
+      "s": "Armadura de hierro nervurado ADN 420 de 6 mm elaborada y colocada",
+      "u": "kg"
+    },
+    {
+      "d": "2026-09",
+      "g": [],
+      "id": "wi-ar-armadura-de-hierro-nervurado-adn-420-elaborada-y-colocada",
+      "m": 3,
+      "p": 2074.72,
+      "s": "Armadura de hierro nervurado ADN 420 elaborada y colocada",
+      "u": "kg"
+    }
+  ],
+  "title": "Estructura de hormigón armado > Armaduras",
+  "version": "0.5.0"
+}

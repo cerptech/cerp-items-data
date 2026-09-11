@@ -13920,6 +13920,156 @@
       "bom": [
         {
           "factor": 1,
+          "quantity": 0.45,
+          "ref": "mo-of-1-albanileria",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.22,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 17.2,
+          "ref": "mt-bloque-ceramico-de-arcilla-aligerada-rectificado-30x19x24-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mt-mortero-de-junta-delgada-tipo-t-segun-une-en-998-2",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "ALBAÑILERÍA",
+          "FÁBRICAS DE BLOQUES",
+          "Huecos",
+          "Arcilla aligerada"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.095Z",
+      "id": "wi-fabrica-de-bloque-de-arcilla-aligerada-rectificado-de-24-cm",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-fabrica-de-bloque-de-arcilla-aligerada-rectificado-de-24-cm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-fabrica-resistente-24-cm-esp-bloques-arcilla-aligerada",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Fábrica de bloque de arcilla aligerada rectificado de 24 cm con junta delgada",
+      "tags": [
+        "termoarcilla",
+        "bloque cerámico aligerado",
+        "arcilla aligerada",
+        "cerramiento",
+        "rectificado",
+        "junta fina",
+        "cerramiento"
+      ],
+      "text": "Fábrica para revestir de 24 cm de espesor, de bloque cerámico de arcilla aligerada rectificado de 30x19x24 cm, pieza LD según UNE-EN 771-1 con marcado CE, recibida con mortero de junta delgada tipo T según UNE-EN 998-2, con junta horizontal de 1 mm aplicada con llana dentada y junta vertical machihembrada colocada a hueso; incluso nivelación de la primera hilada, p.p. de piezas especiales, formación de jambas y mochetas, replanteo, nivelación, aplomado y limpieza. Ejecutada según CTE DB-SE-F. Medida deduciendo huecos. Curación CERP (2026-08): el banco ya cubre la fábrica de bloque de arcilla aligerada con junta gruesa (partidas FÁBRICA LIGERA / FÁBRICA RESISTENTE, BCCA 2024-01); esta partida cubre el hueco real, que es el sistema de bloque rectificado con mortero de junta delgada. El rendimiento de mano de obra se adapta del de junta gruesa aplicando la reducción de tiempo de tendel propia del sistema rectificado: es una ESTIMACIÓN, no un dato publicado. El consumo de bloque (17,2 u/m²) es geométrico: 1/(0,30 x 0,20) más un 3 % de merma. Rendimientos adaptados de BCCA wi-fabrica-resistente-24-cm-esp-bloques-arcilla-aligerada: rendimiento de mano de obra adaptado del de la fábrica de junta gruesa de igual espesor, con la reducción propia del bloque rectificado; el consumo de mortero se sustituye por el de junta delgada",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.095Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-305ce1bb7816b2fe"
+        ],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-of-1-albanileria",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-peon-especial",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 17.2,
+          "ref": "mt-bloque-ceramico-de-arcilla-aligerada-rectificado-30x19x29-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.4,
+          "ref": "mt-mortero-de-junta-delgada-tipo-t-segun-une-en-998-2",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "ALBAÑILERÍA",
+          "FÁBRICAS DE BLOQUES",
+          "Huecos",
+          "Arcilla aligerada"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.095Z",
+      "id": "wi-fabrica-de-bloque-de-arcilla-aligerada-rectificado-de-29-cm",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-fabrica-de-bloque-de-arcilla-aligerada-rectificado-de-29-cm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-fabrica-resistente-29-cm-esp-bloques-arcilla-aligerada",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Fábrica de bloque de arcilla aligerada rectificado de 29 cm con junta delgada",
+      "tags": [
+        "termoarcilla",
+        "bloque cerámico aligerado",
+        "arcilla aligerada",
+        "cerramiento",
+        "rectificado",
+        "junta fina",
+        "cerramiento"
+      ],
+      "text": "Fábrica para revestir de 29 cm de espesor, de bloque cerámico de arcilla aligerada rectificado de 30x19x29 cm, pieza LD según UNE-EN 771-1 con marcado CE, recibida con mortero de junta delgada tipo T según UNE-EN 998-2, con junta horizontal de 1 mm aplicada con llana dentada y junta vertical machihembrada colocada a hueso; incluso nivelación de la primera hilada, p.p. de piezas especiales, formación de jambas y mochetas, replanteo, nivelación, aplomado y limpieza. Ejecutada según CTE DB-SE-F. Medida deduciendo huecos. Curación CERP (2026-08): el banco ya cubre la fábrica de bloque de arcilla aligerada con junta gruesa (partidas FÁBRICA LIGERA / FÁBRICA RESISTENTE, BCCA 2024-01); esta partida cubre el hueco real, que es el sistema de bloque rectificado con mortero de junta delgada. El rendimiento de mano de obra se adapta del de junta gruesa aplicando la reducción de tiempo de tendel propia del sistema rectificado: es una ESTIMACIÓN, no un dato publicado. El consumo de bloque (17,2 u/m²) es geométrico: 1/(0,30 x 0,20) más un 3 % de merma. Rendimientos adaptados de BCCA wi-fabrica-resistente-29-cm-esp-bloques-arcilla-aligerada: rendimiento de mano de obra adaptado del de la fábrica de junta gruesa de igual espesor, con la reducción propia del bloque rectificado; el consumo de mortero se sustituye por el de junta delgada",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.095Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
           "quantity": 0.46,
           "ref": "mo-of-1-albanileria",
           "role": "labor"
@@ -26344,5 +26494,5 @@
       }
     }
   ],
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

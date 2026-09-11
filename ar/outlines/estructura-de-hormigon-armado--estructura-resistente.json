@@ -1,0 +1,43 @@
+{
+  "key": "estructura-de-hormigon-armado--estructura-resistente",
+  "rows": [
+    {
+      "d": "2026-09",
+      "g": [],
+      "id": "wi-ar-columna-de-hormigon-armado",
+      "m": 3,
+      "p": 216796.7,
+      "s": "Columna de hormigón armado",
+      "u": "m3"
+    },
+    {
+      "d": "2026-09",
+      "g": [],
+      "id": "wi-ar-encadenado-horizontal-de-hormigon-armado",
+      "m": 4,
+      "p": 244270.14,
+      "s": "Encadenado horizontal de hormigón armado",
+      "u": "m3"
+    },
+    {
+      "d": "2026-09",
+      "g": [],
+      "id": "wi-ar-losa-maciza-de-hormigon-armado",
+      "m": 4,
+      "p": 242831.76,
+      "s": "Losa maciza de hormigón armado",
+      "u": "m3"
+    },
+    {
+      "d": "2026-09",
+      "g": [],
+      "id": "wi-ar-viga-resistente-de-hormigon-armado",
+      "m": 3,
+      "p": 233592.89,
+      "s": "Viga resistente de hormigón armado",
+      "u": "m3"
+    }
+  ],
+  "title": "Estructura de hormigón armado > Estructura resistente",
+  "version": "0.5.0"
+}

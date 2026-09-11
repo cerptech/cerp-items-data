@@ -146,6 +146,22 @@
       "u": "kg"
     },
     {
+      "g": [],
+      "id": "wi-acero-s235jrc-en-correas-de-cubierta-de-perfil-conformado-en",
+      "m": 5,
+      "s": "Acero S235JRC en correas de cubierta de perfil conformado en frío galvanizado",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-acero-s275jr-en-pilares-de-perfil-laminado-en-caliente-ejecu",
+      "m": 5,
+      "p": 3.54,
+      "s": "Acero S275JR en pilares de perfil laminado en caliente, ejecución EXC2",
+      "u": "kg"
+    },
+    {
       "d": "2022-01",
       "g": [],
       "id": "wi-acero-s275jr-en-placa-de-anclaje-a-cimentacion",
@@ -161,6 +177,29 @@
       "m": 5,
       "p": 2.73,
       "s": "ACERO S275JR EN PLACA DE ANCLAJE A MURO HORMIGÓN O FÁBRICA",
+      "u": "kg"
+    },
+    {
+      "d": "2022-12",
+      "g": [],
+      "id": "wi-acero-s275jr-en-vigas-y-jacenas-de-perfil-laminado-en-calien",
+      "m": 5,
+      "p": 3.54,
+      "s": "Acero S275JR en vigas y jácenas de perfil laminado en caliente, ejecución EXC2",
+      "u": "kg"
+    },
+    {
+      "g": [],
+      "id": "wi-acero-s355jr-en-pilares-de-perfil-laminado-en-caliente-ejecu",
+      "m": 5,
+      "s": "Acero S355JR en pilares de perfil laminado en caliente, ejecución EXC2",
+      "u": "kg"
+    },
+    {
+      "g": [],
+      "id": "wi-acero-s355jr-en-vigas-y-jacenas-de-perfil-laminado-en-calien",
+      "m": 5,
+      "s": "Acero S355JR en vigas y jácenas de perfil laminado en caliente, ejecución EXC2",
       "u": "kg"
     },
     {
@@ -713,6 +752,13 @@
       "u": "m2"
     },
     {
+      "g": [],
+      "id": "wi-forjado-de-panel-de-madera-contralaminada-clt-de-5-capas-y-1",
+      "m": 1,
+      "s": "Forjado de panel de madera contralaminada CLT de 5 capas y 140 mm",
+      "u": "m2"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-forjado-unidireccional-in-situ-20-5-cm",
@@ -1208,6 +1254,13 @@
       "u": "m2"
     },
     {
+      "g": [],
+      "id": "wi-galvanizado-en-caliente-por-inmersion-de-perfileria-de-acero",
+      "m": 0,
+      "s": "Galvanizado en caliente por inmersión de perfilería de acero, recubrimiento medio 85 micras",
+      "u": "kg"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-horm-arm-ha-25-p-20-en-muros-i-enc-mad-2c-vistas",
@@ -1613,6 +1666,20 @@
       "u": "m"
     },
     {
+      "g": [],
+      "id": "wi-madera-estructural-tratada-en-autoclave-para-clase-de-uso-3",
+      "m": 0,
+      "s": "Madera estructural tratada en autoclave para clase de uso 3.2",
+      "u": "m3"
+    },
+    {
+      "g": [],
+      "id": "wi-madera-estructural-tratada-en-autoclave-para-clase-de-uso-4",
+      "m": 0,
+      "s": "Madera estructural tratada en autoclave para clase de uso 4",
+      "u": "m3"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-madera-laminada-gl-24-jacenas-directriz-recta-luz-5-10-m",
@@ -1649,6 +1716,48 @@
       "u": "m3"
     },
     {
+      "g": [],
+      "id": "wi-muro-estructural-de-panel-de-madera-contralaminada-clt-de-3",
+      "m": 1,
+      "s": "Muro estructural de panel de madera contralaminada CLT de 3 capas y 100 mm",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-pilar-de-madera-laminada-encolada-gl24h-de-seccion-rectangul",
+      "m": 2,
+      "s": "Pilar de madera laminada encolada GL24h de sección rectangular",
+      "u": "m3"
+    },
+    {
+      "g": [],
+      "id": "wi-pintura-intumescente-sobre-estructura-de-acero-para-r-120-en",
+      "m": 3,
+      "s": "Pintura intumescente sobre estructura de acero para R 120 en perfil de masividad hasta 200 m-1",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-pintura-intumescente-sobre-estructura-de-acero-para-r-30-en",
+      "m": 3,
+      "s": "Pintura intumescente sobre estructura de acero para R 30 en perfil de masividad hasta 200 m-1",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-pintura-intumescente-sobre-estructura-de-acero-para-r-60-en",
+      "m": 3,
+      "s": "Pintura intumescente sobre estructura de acero para R 60 en perfil de masividad hasta 200 m-1",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-pintura-intumescente-sobre-estructura-de-acero-para-r-90-en",
+      "m": 3,
+      "s": "Pintura intumescente sobre estructura de acero para R 90 en perfil de masividad hasta 200 m-1",
+      "u": "m2"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-soporte-vertical-madera-pino-tratada-20x20-cm",
@@ -1676,6 +1785,20 @@
       "u": "m2"
     },
     {
+      "g": [],
+      "id": "wi-viga-de-madera-laminada-encolada-gl24h-de-directriz-recta",
+      "m": 2,
+      "s": "Viga de madera laminada encolada GL24h de directriz recta",
+      "u": "m3"
+    },
+    {
+      "g": [],
+      "id": "wi-viga-de-madera-laminada-encolada-gl28h-de-directriz-recta",
+      "m": 2,
+      "s": "Viga de madera laminada encolada GL28h de directriz recta",
+      "u": "m3"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-vigueta-madera-pino-17x20-cm",
@@ -1686,5 +1809,5 @@
     }
   ],
   "title": "Estructura",
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

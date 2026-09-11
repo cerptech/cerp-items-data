@@ -211,6 +211,24 @@
       "u": "kg"
     },
     {
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-s235jrc-en-perfil-conformado-en-frio-galvanizado",
+      "m": 0,
+      "s": "Acero S235JRC en perfil conformado en frío galvanizado",
+      "u": "kg"
+    },
+    {
+      "g": [
+        "aceros"
+      ],
+      "id": "mt-acero-s355jr-en-perfil-laminado-en-caliente",
+      "m": 0,
+      "s": "Acero S355JR en perfil laminado en caliente",
+      "u": "kg"
+    },
+    {
       "d": "2022-12",
       "g": [
         "aceros"
@@ -1377,6 +1395,24 @@
       "u": "m2"
     },
     {
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-estribo-de-acero-galvanizado-para-apoyo-de-viga-de-madera",
+      "m": 0,
+      "s": "Estribo de acero galvanizado para apoyo de viga de madera",
+      "u": "u"
+    },
+    {
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-madera-aserrada-estructural-c24",
+      "m": 0,
+      "s": "Madera aserrada estructural C24",
+      "u": "m3"
+    },
+    {
       "d": "2022-12",
       "g": [
         "maderas-y-elementos-de-encofrado"
@@ -1407,6 +1443,24 @@
       "m": 0,
       "p": 424.53,
       "s": "MADERA DE PINO EN TABLONCILLO",
+      "u": "m3"
+    },
+    {
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-madera-laminada-encolada-homogenea-gl24h",
+      "m": 0,
+      "s": "Madera laminada encolada homogénea GL24h",
+      "u": "m3"
+    },
+    {
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-madera-laminada-encolada-homogenea-gl28h",
+      "m": 0,
+      "s": "Madera laminada encolada homogénea GL28h",
       "u": "m3"
     },
     {
@@ -1452,6 +1506,24 @@
       "p": 20.96,
       "s": "MOLDE ESCAYOLA HASTA 30 cm DE DESARROLLO.",
       "u": "m"
+    },
+    {
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-panel-de-madera-contralaminada-clt-de-3-capas-y-100-mm",
+      "m": 0,
+      "s": "Panel de madera contralaminada CLT de 3 capas y 100 mm",
+      "u": "m2"
+    },
+    {
+      "g": [
+        "maderas-y-elementos-de-encofrado"
+      ],
+      "id": "mt-panel-de-madera-contralaminada-clt-de-5-capas-y-140-mm",
+      "m": 0,
+      "s": "Panel de madera contralaminada CLT de 5 capas y 140 mm",
+      "u": "m2"
     },
     {
       "d": "2022-12",
@@ -1818,5 +1890,5 @@
     }
   ],
   "title": "Precios Básicos > CIMENTACIONES Y ESTRUCTURAS",
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

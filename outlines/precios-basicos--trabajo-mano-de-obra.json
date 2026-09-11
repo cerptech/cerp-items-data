@@ -352,8 +352,17 @@
       "p": 445.52,
       "s": "REVISIÓN Y MANTENIMIENTO ANDAMIO ESTABILIZADOR",
       "u": "u"
+    },
+    {
+      "g": [
+        "varios"
+      ],
+      "id": "mo-tecnico-integrador-de-sistemas-de-control-knx",
+      "m": 0,
+      "s": "Técnico integrador de sistemas de control KNX",
+      "u": "h"
     }
   ],
   "title": "Precios Básicos > TRABAJO (MANO DE OBRA)",
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

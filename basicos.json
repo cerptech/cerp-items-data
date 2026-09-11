@@ -2217,6 +2217,47 @@
     },
     {
       "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "TRABAJO (MANO DE OBRA)",
+          "Varios"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.090Z",
+      "id": "mo-tecnico-integrador-de-sistemas-de-control-knx",
+      "kind": "labor",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mo-tecnico-integrador-de-sistemas-de-control-knx",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Técnico integrador de sistemas de control KNX",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "programación"
+      ],
+      "text": "Técnico integrador de sistemas de automatización de viviendas y edificios, con certificación KNX Partner, para programación con ETS, puesta en marcha y documentación del sistema. Curación CERP (2026-08): concepto acuñado SIN PRECIO. No es una categoría de los convenios de construcción y no tiene coste horario homologable al de un oficial de obra; su precio requiere una fuente propia todavía no disponible.",
+      "unit": "h",
+      "updatedAt": "2026-09-08T09:13:27.090Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mq-abrasivo-limpieza-chorro-a-presion-formado-por-particulas-si",
       "kind": "machinery",
@@ -7318,6 +7359,87 @@
       "classification": {
         "path": [
           "Precios Básicos",
+          "CIMENTACIONES Y ESTRUCTURAS",
+          "Aceros"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.084Z",
+      "id": "mt-acero-s235jrc-en-perfil-conformado-en-frio-galvanizado",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-acero-s235jrc-en-perfil-conformado-en-frio-galvanizado",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Acero S235JRC en perfil conformado en frío galvanizado",
+      "tags": [
+        "estructura",
+        "acero",
+        "UNE-EN 1090-2",
+        "Código Estructural",
+        "s235jrc",
+        "conformado en frío",
+        "correa"
+      ],
+      "text": "Acero estructural S235JRC en perfil conformado en frío tipo Z o C, galvanizado, para correas de cubierta y elementos secundarios. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:27.084Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "CIMENTACIONES Y ESTRUCTURAS",
+          "Aceros"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.085Z",
+      "id": "mt-acero-s355jr-en-perfil-laminado-en-caliente",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-acero-s355jr-en-perfil-laminado-en-caliente",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Acero S355JR en perfil laminado en caliente",
+      "tags": [
+        "estructura",
+        "acero",
+        "UNE-EN 1090-2",
+        "Código Estructural",
+        "s355jr",
+        "perfil laminado"
+      ],
+      "text": "Acero estructural S355JR según UNE-EN 10025-2, en perfil laminado en caliente. El grado JR corresponde a una resiliencia Charpy de 27 J a +20 °C. Ausente por completo del catálogo hasta esta curación: solo existía S275JR. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:27.085Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
           "AGLOMERANTES Y MORTEROS",
           "Aditivos"
         ]
@@ -9366,6 +9488,129 @@
         "path": [
           "Precios Básicos",
           "INSTALACIONES",
+          "Eléctricas"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.085Z",
+      "id": "mt-acoplador-de-linea-y-area-knx-con-separacion-galvanica-carri",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-acoplador-de-linea-y-area-knx-con-separacion-galvanica-carri",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Acoplador de línea y área KNX con separación galvánica, carril DIN",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51"
+      ],
+      "text": "Acoplador para sistema de bus KNX con separación galvánica entre líneas, configurable como acoplador de línea, acoplador de área o amplificador de línea, con tabla de filtrado, para montaje en carril DIN, 2 módulos de 18 mm, alimentado por el bus.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.085Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
+          "Eléctricas"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.085Z",
+      "id": "mt-actuador-de-conmutacion-knx-de-8-salidas-16-a-carril-din",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-actuador-de-conmutacion-knx-de-8-salidas-16-a-carril-din",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Actuador de conmutación KNX de 8 salidas, 16 A, carril DIN",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "actuador"
+      ],
+      "text": "Actuador de conmutación para sistema de bus KNX, de 8 salidas libres de potencial de 16 A / 140 µF por canal, con mando manual, para montaje en carril DIN, 8 módulos de 18 mm, alimentado por el bus.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.085Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
+          "Eléctricas"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.085Z",
+      "id": "mt-actuador-de-persianas-knx-de-4-salidas-230-v-c-a-carril-din",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-actuador-de-persianas-knx-de-4-salidas-230-v-c-a-carril-din",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Actuador de persianas KNX de 4 salidas, 230 V c.a., carril DIN",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "actuador",
+        "persianas"
+      ],
+      "text": "Actuador de persianas para sistema de bus KNX, de 4 salidas para motores de persiana o toldo de 230 V c.a., con mando manual y control de recorrido por tiempo, para montaje en carril DIN, 4 módulos de 18 mm.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.085Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
           "Climatización"
         ]
       },
@@ -9641,6 +9886,48 @@
           "stale_edition-e4e8dfe7dbd95003"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
+          "Eléctricas"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.085Z",
+      "id": "mt-actuador-regulador-knx-universal-de-4-salidas-carril-din",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-actuador-regulador-knx-universal-de-4-salidas-carril-din",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Actuador regulador KNX universal de 4 salidas, carril DIN",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "actuador",
+        "regulación de iluminación"
+      ],
+      "text": "Actuador regulador universal para sistema de bus KNX, de 4 salidas, apto para carga resistiva, inductiva, capacitiva y LED regulable, con protección contra sobrecarga y cortocircuito, para montaje en carril DIN, 4 módulos de 18 mm.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.085Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -10623,6 +10910,46 @@
     },
     {
       "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "AGLOMERANTES Y MORTEROS",
+          "Resinas"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.085Z",
+      "id": "mt-adhesivo-de-poliuretano-bicomponente-para-pavimentos-de-made",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-adhesivo-de-poliuretano-bicomponente-para-pavimentos-de-made",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Adhesivo de poliuretano bicomponente para pavimentos de madera",
+      "tags": [
+        "parquet",
+        "tarima",
+        "suelo de madera",
+        "pavimento",
+        "adhesivo",
+        "encolado"
+      ],
+      "text": "Adhesivo de poliuretano de dos componentes, exento de agua, para encolado de pavimentos de madera sobre soporte de mortero u hormigón, aplicado con llana dentada. Consumo de referencia 0,85 kg/m² con llana dentada n.º 4. Exige soporte con humedad máxima del 4,5 %.",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:27.085Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-adhesivo-para-coquilla-elastomerica",
       "kind": "material",
@@ -11399,6 +11726,45 @@
           "stale_edition-8a2789f208f97c5f"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
+          "Protección"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.085Z",
+      "id": "mt-aislador-de-cortocircuito-de-lazo-direccionable",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-aislador-de-cortocircuito-de-lazo-direccionable",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Aislador de cortocircuito de lazo direccionable",
+      "tags": [
+        "detección de incendios",
+        "direccionable",
+        "analógico",
+        "PCI",
+        "UNE-EN 54"
+      ],
+      "text": "Aislador de cortocircuito de lazo direccionable, en caja o integrado en zócalo, para segmentación del lazo de detección, según UNE-EN 54-17.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.085Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -25971,6 +26337,45 @@
       "classification": {
         "path": [
           "Precios Básicos",
+          "AISLAMIENTOS",
+          "Impermeabilizaciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.086Z",
+      "id": "mt-banda-de-refuerzo-elastica-para-puntos-singulares-de-imperme",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-banda-de-refuerzo-elastica-para-puntos-singulares-de-imperme",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Banda de refuerzo elástica para puntos singulares de impermeabilización",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "banda de refuerzo",
+        "punto singular"
+      ],
+      "text": "Banda elástica de refuerzo para sellado de encuentros, rincones, juntas de movimiento y pasos de instalaciones en sistemas de impermeabilización líquida, según UNE-EN 14891. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m",
+      "updatedAt": "2026-09-08T09:13:27.086Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
           "URBANIZACIÓN",
           "Suministro de agua"
         ]
@@ -27565,6 +27970,84 @@
           "stale_edition-8312dffa15243327"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "PINTURAS",
+          "Barnices"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.086Z",
+      "id": "mt-barniz-de-poliuretano-al-agua-antideslizante-para-microcemen",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-barniz-de-poliuretano-al-agua-antideslizante-para-microcemen",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Barniz de poliuretano al agua antideslizante para microcemento",
+      "tags": [
+        "microcemento",
+        "revestimiento continuo",
+        "cemento pulido",
+        "reforma",
+        "exterior",
+        "antideslizante"
+      ],
+      "text": "Barniz de poliuretano al agua de dos componentes con carga antideslizante y protección frente a radiación ultravioleta, para sellado de revestimientos continuos de microcemento en exteriores y zonas húmedas. Consumo de referencia 0,12 l/m² en dos manos.",
+      "unit": "l",
+      "updatedAt": "2026-09-08T09:13:27.086Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "PINTURAS",
+          "Barnices"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.086Z",
+      "id": "mt-barniz-de-poliuretano-al-agua-bicomponente-para-microcemento",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-barniz-de-poliuretano-al-agua-bicomponente-para-microcemento",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Barniz de poliuretano al agua bicomponente para microcemento",
+      "tags": [
+        "microcemento",
+        "revestimiento continuo",
+        "cemento pulido",
+        "reforma"
+      ],
+      "text": "Barniz de poliuretano al agua de dos componentes para sellado y protección final de revestimientos continuos de microcemento. Consumo de referencia 0,15 l/m² en dos manos.",
+      "unit": "l",
+      "updatedAt": "2026-09-08T09:13:27.086Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -33078,6 +33561,7 @@
           "Bloques"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-bloque-arcilla-aligerada-30x19x14-cm",
       "kind": "material",
@@ -33102,12 +33586,24 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "mt-bloque-arcilla-aligerada-30x19x14-cm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "BLOQUE ARCILLA ALIGERADA 30x19x14 cm",
-      "text": "Medida la cantidad útil descargada",
+      "tags": [
+        "termoarcilla",
+        "bloque cerámico aligerado",
+        "arcilla aligerada",
+        "cerramiento"
+      ],
+      "text": "Medida la cantidad útil descargada. Bloque cerámico aligerado de arcilla cocida con perforación vertical, tipo LD según UNE-EN 771-1 con marcado CE, de 30x19x14 cm, machihembrado, para fábrica a revestir. Curación CERP (2026-08): se añaden los sinónimos comerciales con los que se pide este material en obra —\"termoarcilla\" es marca registrada del Consorcio Termoarcilla y no puede ser la denominación canónica del banco, pero es como se busca—. No se modifican ni la unidad, ni el precio, ni la descomposición del ítem original.",
       "unit": "u",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "updatedAt": "2026-09-08T09:13:27.086Z",
       "verification": {
         "findings": [
           "duplicate_candidate-0553c166583e83e9",
@@ -33128,6 +33624,7 @@
           "Bloques"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-bloque-arcilla-aligerada-30x19x19-cm",
       "kind": "material",
@@ -33152,12 +33649,24 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "mt-bloque-arcilla-aligerada-30x19x19-cm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "BLOQUE ARCILLA ALIGERADA 30x19x19 cm",
-      "text": "Medida la cantidad útil descargada",
+      "tags": [
+        "termoarcilla",
+        "bloque cerámico aligerado",
+        "arcilla aligerada",
+        "cerramiento"
+      ],
+      "text": "Medida la cantidad útil descargada. Bloque cerámico aligerado de arcilla cocida con perforación vertical, tipo LD según UNE-EN 771-1 con marcado CE, de 30x19x19 cm, machihembrado, para fábrica a revestir. Curación CERP (2026-08): se añaden los sinónimos comerciales con los que se pide este material en obra —\"termoarcilla\" es marca registrada del Consorcio Termoarcilla y no puede ser la denominación canónica del banco, pero es como se busca—. No se modifican ni la unidad, ni el precio, ni la descomposición del ítem original.",
       "unit": "u",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "updatedAt": "2026-09-08T09:13:27.086Z",
       "verification": {
         "findings": [
           "duplicate_candidate-1d00549dd883d141",
@@ -33177,6 +33686,7 @@
           "Bloques"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-bloque-arcilla-aligerada-30x19x24-cm",
       "kind": "material",
@@ -33201,12 +33711,24 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "mt-bloque-arcilla-aligerada-30x19x24-cm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "BLOQUE ARCILLA ALIGERADA 30x19x24 cm",
-      "text": "Medida la cantidad útil descargada",
+      "tags": [
+        "termoarcilla",
+        "bloque cerámico aligerado",
+        "arcilla aligerada",
+        "cerramiento"
+      ],
+      "text": "Medida la cantidad útil descargada. Bloque cerámico aligerado de arcilla cocida con perforación vertical, tipo LD según UNE-EN 771-1 con marcado CE, de 30x19x24 cm, machihembrado, para fábrica a revestir. Curación CERP (2026-08): se añaden los sinónimos comerciales con los que se pide este material en obra —\"termoarcilla\" es marca registrada del Consorcio Termoarcilla y no puede ser la denominación canónica del banco, pero es como se busca—. No se modifican ni la unidad, ni el precio, ni la descomposición del ítem original.",
       "unit": "u",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "updatedAt": "2026-09-08T09:13:27.086Z",
       "verification": {
         "findings": [
           "duplicate_candidate-ae36a1ce38b4dcc7",
@@ -33225,6 +33747,7 @@
           "Bloques"
         ]
       },
+      "country": "ES",
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-bloque-arcilla-aligerada-30x19x29-cm",
       "kind": "material",
@@ -33249,17 +33772,111 @@
           "edition": "2024-01",
           "matchedBy": "seed",
           "source": "bcca"
+        },
+        {
+          "code": "mt-bloque-arcilla-aligerada-30x19x29-cm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
         }
       ],
       "summary": "BLOQUE ARCILLA ALIGERADA 30x19x29 cm",
-      "text": "Medida la cantidad útil descargada",
+      "tags": [
+        "termoarcilla",
+        "bloque cerámico aligerado",
+        "arcilla aligerada",
+        "cerramiento"
+      ],
+      "text": "Medida la cantidad útil descargada. Bloque cerámico aligerado de arcilla cocida con perforación vertical, tipo LD según UNE-EN 771-1 con marcado CE, de 30x19x29 cm, machihembrado, para fábrica a revestir. Curación CERP (2026-08): se añaden los sinónimos comerciales con los que se pide este material en obra —\"termoarcilla\" es marca registrada del Consorcio Termoarcilla y no puede ser la denominación canónica del banco, pero es como se busca—. No se modifican ni la unidad, ni el precio, ni la descomposición del ítem original.",
       "unit": "u",
-      "updatedAt": "2026-07-21T11:25:32.116Z",
+      "updatedAt": "2026-09-08T09:13:27.086Z",
       "verification": {
         "findings": [
           "stale_edition-90d41d811e28ef27"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "FÁBRICAS (ALBAÑILERÍA)",
+          "Bloques"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.086Z",
+      "id": "mt-bloque-ceramico-de-arcilla-aligerada-rectificado-30x19x24-cm",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-bloque-ceramico-de-arcilla-aligerada-rectificado-30x19x24-cm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Bloque cerámico de arcilla aligerada rectificado 30x19x24 cm",
+      "tags": [
+        "termoarcilla",
+        "bloque cerámico aligerado",
+        "arcilla aligerada",
+        "cerramiento",
+        "rectificado",
+        "junta fina"
+      ],
+      "text": "Bloque cerámico aligerado de arcilla cocida con perforación vertical, tipo LD según UNE-EN 771-1 con marcado CE, de 30x19x24 cm, rectificado, con tolerancias de planeidad y paralelismo de las caras de asiento inferiores a 1,0 mm según UNE-EN 772-20, machihembrado en la junta vertical, para fábrica a revestir recibida con mortero de junta delgada.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.086Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-35cbde84770a3a6c"
+        ],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "FÁBRICAS (ALBAÑILERÍA)",
+          "Bloques"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-bloque-ceramico-de-arcilla-aligerada-rectificado-30x19x29-cm",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-bloque-ceramico-de-arcilla-aligerada-rectificado-30x19x29-cm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Bloque cerámico de arcilla aligerada rectificado 30x19x29 cm",
+      "tags": [
+        "termoarcilla",
+        "bloque cerámico aligerado",
+        "arcilla aligerada",
+        "cerramiento",
+        "rectificado",
+        "junta fina"
+      ],
+      "text": "Bloque cerámico aligerado de arcilla cocida con perforación vertical, tipo LD según UNE-EN 771-1 con marcado CE, de 30x19x29 cm, rectificado, con tolerancias de planeidad y paralelismo de las caras de asiento inferiores a 1,0 mm según UNE-EN 772-20, machihembrado en la junta vertical, para fábrica a revestir recibida con mortero de junta delgada.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -37655,6 +38272,47 @@
       "classification": {
         "path": [
           "Precios Básicos",
+          "INSTALACIONES",
+          "Eléctricas"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-borne-de-conexion-de-bus-knx",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-borne-de-conexion-de-bus-knx",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Borne de conexión de bus KNX",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "pequeño material"
+      ],
+      "text": "Borne de conexión de bus KNX de cuatro vías, en colores rojo y negro, para derivación y empalme de la línea de bus.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
           "AISLAMIENTOS",
           "Térmicos"
         ]
@@ -40135,6 +40793,48 @@
     },
     {
       "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
+          "Protección"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-cable-apantallado-resistente-al-fuego-2x1-5-mm2-ph-120-cca-s",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-cable-apantallado-resistente-al-fuego-2x1-5-mm2-ph-120-cca-s",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cable apantallado resistente al fuego 2x1,5 mm2, PH 120, Cca-s1b,d1,a1",
+      "tags": [
+        "detección de incendios",
+        "direccionable",
+        "analógico",
+        "PCI",
+        "UNE-EN 54",
+        "cable",
+        "CPR",
+        "libre de halógenos"
+      ],
+      "text": "Cable de 300/500 V con conductor de cobre clase 5 de 2x1,5 mm², aislamiento reticulado a base de silicona, pantalla de aluminio-poliéster con conductor de drenaje y cubierta termoplástica libre de halógenos; resistencia al fuego PH 120 según UNE-EN 50200 y reacción al fuego Cca-s1b,d1,a1 según UNE-EN 50575 (marco CPR), para instalaciones de detección y alarma de incendios.",
+      "unit": "m",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-cable-bus-apantallado-de-2-hilos-de-0-5-mm-de-seccion-por-hi",
       "kind": "material",
@@ -42002,6 +42702,47 @@
           "stale_edition-c44be4384964e0a4"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
+          "Eléctricas"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-cable-de-bus-knx-2x2x0-8-mm-apantallado-libre-de-halogenos",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-cable-de-bus-knx-2x2x0-8-mm-apantallado-libre-de-halogenos",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cable de bus KNX 2x2x0,8 mm apantallado libre de halógenos",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "cable"
+      ],
+      "text": "Cable de bus para sistema KNX TP1, de dos pares trenzados de 0,8 mm de diámetro de conductor (2x2x0,8 mm), apantallado y libre de halógenos. Atención: el 0,8 es el DIÁMETRO del conductor en mm, no la sección en mm²; equivale a unos 0,5 mm² de sección.",
+      "unit": "m",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -76527,6 +77268,46 @@
       "classification": {
         "path": [
           "Precios Básicos",
+          "AISLAMIENTOS",
+          "Impermeabilizaciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-crema-de-inyeccion-de-silanos-para-corte-de-humedad-por-capi",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-crema-de-inyeccion-de-silanos-para-corte-de-humedad-por-capi",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Crema de inyección de silanos para corte de humedad por capilaridad",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "silanos",
+        "capilaridad",
+        "rehabilitación"
+      ],
+      "text": "Crema de inyección a base de silanos con 80 % de ingrediente activo y densidad aproximada de 0,90 kg/l, para formación de barrera química contra la humedad ascendente por capilaridad en muros de fábrica, aplicada con pistola y sin bomba. Ensayada según la directriz WTA 4-4-04/D. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "l",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
           "CARPINTERÍA Y ELEMENTOS DE SEGURIDAD Y PROTECCIÓN",
           "Varios"
         ]
@@ -79454,6 +80235,90 @@
           "Eléctricas"
         ]
       },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-detector-de-inundacion-con-sonda-y-contacto-libre-de-potenci",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-detector-de-inundacion-con-sonda-y-contacto-libre-de-potenci",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Detector de inundación con sonda y contacto libre de potencial",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "alarma técnica",
+        "inundación"
+      ],
+      "text": "Detector de inundación con sonda de electrodos y salida por contacto libre de potencial, para integración en entrada binaria de sistema de control domótico.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
+          "Eléctricas"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-detector-de-presencia-knx-de-techo-con-sensor-de-luminosidad",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-detector-de-presencia-knx-de-techo-con-sensor-de-luminosidad",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Detector de presencia KNX de techo con sensor de luminosidad",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "presencia",
+        "eficiencia energética"
+      ],
+      "text": "Detector de presencia por infrarrojos pasivos para sistema de bus KNX, de montaje en techo, con sensor de luminosidad integrado para regulación en función de la luz natural y acoplador al bus integrado.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
+          "Eléctricas"
+        ]
+      },
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-detector-elementos-de-presencia",
       "kind": "material",
@@ -79722,6 +80587,46 @@
           "Protección"
         ]
       },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-detector-multicriterio-optico-termico-direccionable-con-zoca",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-detector-multicriterio-optico-termico-direccionable-con-zoca",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Detector multicriterio óptico-térmico direccionable, con zócalo",
+      "tags": [
+        "detección de incendios",
+        "direccionable",
+        "analógico",
+        "PCI",
+        "UNE-EN 54",
+        "multicriterio"
+      ],
+      "text": "Detector multicriterio óptico-térmico direccionable analógico para lazo, con algoritmos de discriminación de falsas alarmas, zócalo intercambiable y piloto de alarma, según UNE-EN 54-7 y UNE-EN 54-5.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
+          "Protección"
+        ]
+      },
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-detector-optico-de-humo",
       "kind": "material",
@@ -79757,6 +80662,45 @@
           "stale_edition-f7e6eebfce920cf0"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
+          "Protección"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-detector-optico-de-humos-direccionable-analogico-con-zocalo",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-detector-optico-de-humos-direccionable-analogico-con-zocalo",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Detector óptico de humos direccionable analógico, con zócalo",
+      "tags": [
+        "detección de incendios",
+        "direccionable",
+        "analógico",
+        "PCI",
+        "UNE-EN 54"
+      ],
+      "text": "Detector óptico de humos direccionable analógico para lazo, con zócalo intercambiable, dirección programable y piloto de alarma, según UNE-EN 54-7.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -85811,6 +86755,48 @@
         "path": [
           "Precios Básicos",
           "INSTALACIONES",
+          "Fontanería"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-electrovalvula-de-corte-de-agua-de-3-4-230-v-normalmente-abi",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-electrovalvula-de-corte-de-agua-de-3-4-230-v-normalmente-abi",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Electroválvula de corte de agua de 3/4\", 230 V, normalmente abierta",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "alarma técnica",
+        "inundación"
+      ],
+      "text": "Electroválvula de corte de suministro de agua de 3/4\", de 230 V, normalmente abierta, para maniobra desde actuador de sistema de control domótico ante alarma de inundación.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
           "Gases y licuados"
         ]
       },
@@ -89779,6 +90765,47 @@
           "stale_edition-a0f83d791b4fb023"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
+          "Eléctricas"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-entrada-binaria-knx-de-4-canales-carril-din",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-entrada-binaria-knx-de-4-canales-carril-din",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Entrada binaria KNX de 4 canales, carril DIN",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "alarma técnica"
+      ],
+      "text": "Entrada binaria o interfaz de contactos libres de potencial para sistema de bus KNX, de 4 canales, para montaje en carril DIN, para integración de contactos convencionales y alarmas técnicas.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -98070,6 +99097,46 @@
       "classification": {
         "path": [
           "Precios Básicos",
+          "CIMENTACIONES Y ESTRUCTURAS",
+          "Maderas y elementos de encofrado"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-estribo-de-acero-galvanizado-para-apoyo-de-viga-de-madera",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-estribo-de-acero-galvanizado-para-apoyo-de-viga-de-madera",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estribo de acero galvanizado para apoyo de viga de madera",
+      "tags": [
+        "estructura",
+        "madera",
+        "CTE DB-SE-M",
+        "herraje",
+        "estribo",
+        "conector"
+      ],
+      "text": "Estribo de acero galvanizado para apoyo oculto o visto de viga de madera, con tirafondos estructurales. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
           "CUBIERTAS",
           "Lucernarios y claraboyas"
         ]
@@ -104710,6 +105777,46 @@
     },
     {
       "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
+          "Eléctricas"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-fuente-de-alimentacion-knx-de-640-ma-con-bobina-30-v-c-c-car",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-fuente-de-alimentacion-knx-de-640-ma-con-bobina-30-v-c-c-car",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Fuente de alimentación KNX de 640 mA con bobina, 30 V c.c., carril DIN",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51"
+      ],
+      "text": "Fuente de alimentación para sistema de bus KNX, de 640 mA, salida de 30 V c.c. en muy baja tensión de seguridad, con bobina (choque) integrada, LED de señalización y pulsador de reset de línea, para montaje en carril DIN, 4 módulos de 18 mm.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-fuente-doble-adaptada",
       "kind": "material",
@@ -105799,6 +106906,86 @@
           "stale_edition-7beb2ffff20ce233"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "AISLAMIENTOS",
+          "Impermeabilizaciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-geotextil-no-tejido-de-poliester-de-200-g-m2",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-geotextil-no-tejido-de-poliester-de-200-g-m2",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Geotextil no tejido de poliéster de 200 g/m2",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "geotextil",
+        "separador"
+      ],
+      "text": "Geotextil no tejido de fibra de poliéster de 200 g/m², para capa separadora, antipunzonante y filtrante en sistemas de impermeabilización y drenaje, según UNE-EN 13252. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-c1eabcb63510c519"
+        ],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "AISLAMIENTOS",
+          "Impermeabilizaciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-geotextil-no-tejido-de-poliester-de-300-g-m2",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-geotextil-no-tejido-de-poliester-de-300-g-m2",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Geotextil no tejido de poliéster de 300 g/m2",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "geotextil",
+        "antipunzonante"
+      ],
+      "text": "Geotextil no tejido de fibra de poliéster de 300 g/m², para capa separadora y antipunzonante bajo lámina sintética o sobre aislamiento con acabado de grava, según UNE-EN 13252. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -117466,6 +118653,122 @@
           "Imprimaciones"
         ]
       },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-imprimacion-acrilica-para-soportes-absorbentes",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-imprimacion-acrilica-para-soportes-absorbentes",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Imprimación acrílica para soportes absorbentes",
+      "tags": [
+        "microcemento",
+        "revestimiento continuo",
+        "cemento pulido",
+        "reforma"
+      ],
+      "text": "Imprimación acrílica en dispersión acuosa para consolidación y regulación de la absorción de soportes porosos (mortero, hormigón, yeso, cartón-yeso), previa a la aplicación de revestimientos continuos de microcemento. Consumo de referencia 0,10 l/m² en una mano.",
+      "unit": "l",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "PINTURAS",
+          "Imprimaciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-imprimacion-acrilica-puente-de-union-para-soportes-no-absorb",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-imprimacion-acrilica-puente-de-union-para-soportes-no-absorb",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Imprimación acrílica puente de unión para soportes no absorbentes",
+      "tags": [
+        "microcemento",
+        "revestimiento continuo",
+        "cemento pulido",
+        "reforma"
+      ],
+      "text": "Imprimación acrílica en dispersión acuosa, con función de puente de unión sobre soportes no absorbentes (gres, terrazo, mármol, pintura firme), previa a la aplicación de revestimientos continuos de microcemento. Consumo de referencia 0,10 l/m² en una mano.",
+      "unit": "l",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "PINTURAS",
+          "Especiales"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-imprimacion-anticorrosiva-de-dos-componentes-para-estructura",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-imprimacion-anticorrosiva-de-dos-componentes-para-estructura",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Imprimación anticorrosiva de dos componentes para estructura de acero",
+      "tags": [
+        "estructura",
+        "acero",
+        "UNE-EN 1090-2",
+        "Código Estructural",
+        "imprimación",
+        "anticorrosiva"
+      ],
+      "text": "Imprimación anticorrosiva de dos componentes para protección de estructura de acero, para un espesor de película seca de 40 micras por mano. El consumo húmedo se obtiene dividiendo el espesor seco entre el contenido en sólidos en volumen del producto. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "l",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "PINTURAS",
+          "Imprimaciones"
+        ]
+      },
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-imprimacion-antioxidante",
       "kind": "material",
@@ -117545,6 +118848,45 @@
     },
     {
       "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "AISLAMIENTOS",
+          "Impermeabilizaciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-imprimacion-asfaltica-de-aplicacion-en-frio",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-imprimacion-asfaltica-de-aplicacion-en-frio",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Imprimación asfáltica de aplicación en frío",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "imprimación",
+        "asfáltica"
+      ],
+      "text": "Pintura asfáltica de aplicación en frío para imprimación de soportes previa a la colocación de láminas bituminosas, según UNE 104234. Consumo declarado por fabricante: 0,4 a 0,5 l/m² por capa en soporte poroso de hormigón o mortero, y 0,2 l/m² en soporte metálico no poroso. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "l",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-imprimacion-color-a-elegir",
       "kind": "material",
@@ -117579,6 +118921,45 @@
           "stale_edition-e98c3e224b53bdd4"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "PINTURAS",
+          "Imprimaciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-imprimacion-epoxi-bicomponente-con-barrera-antihumedad",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-imprimacion-epoxi-bicomponente-con-barrera-antihumedad",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Imprimación epoxi bicomponente con barrera antihumedad",
+      "tags": [
+        "microcemento",
+        "revestimiento continuo",
+        "cemento pulido",
+        "reforma",
+        "zona húmeda"
+      ],
+      "text": "Imprimación epoxi de dos componentes con función de barrera frente a humedad residual del soporte, para revestimientos continuos en zonas húmedas o sobre solera sin lámina antihumedad.",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -117720,6 +119101,44 @@
           "stale_edition-b163b25d0fe4324f"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "PINTURAS",
+          "Imprimaciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-imprimacion-selladora-acrilica-al-agua-para-microcemento",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-imprimacion-selladora-acrilica-al-agua-para-microcemento",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Imprimación selladora acrílica al agua para microcemento",
+      "tags": [
+        "microcemento",
+        "revestimiento continuo",
+        "cemento pulido",
+        "reforma"
+      ],
+      "text": "Imprimación selladora acrílica al agua, tapaporos previo al barniz de acabado en revestimientos continuos de microcemento. Consumo de referencia 0,12 l/m² en dos manos.",
+      "unit": "l",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -120015,6 +121434,47 @@
           "stale_edition-097ee75b3359b598"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
+          "Eléctricas"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-interfaz-usb-knx-de-puesta-en-marcha-carril-din",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-interfaz-usb-knx-de-puesta-en-marcha-carril-din",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Interfaz USB-KNX de puesta en marcha, carril DIN",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "ETS"
+      ],
+      "text": "Interfaz de puesta en marcha USB-KNX con separación galvánica, para montaje en carril DIN, 2 módulos de 18 mm, para descarga del programa de aplicación desde ETS.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -128785,6 +130245,167 @@
           "Impermeabilizaciones"
         ]
       },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-lamina-asfaltica-antirraices-lbm-50-fp-para-cubierta-ajardin",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-lamina-asfaltica-antirraices-lbm-50-fp-para-cubierta-ajardin",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Lámina asfáltica antirraíces LBM-50-FP para cubierta ajardinada",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "antirraíces",
+        "cubierta ajardinada"
+      ],
+      "text": "Lámina bituminosa de betún modificado con elastómero SBS y aditivo antirraíces, con armadura de fieltro de poliéster, de masa nominal 5 kg/m², según UNE-EN 13707 y UNE-EN 13948 (resistencia a la penetración de raíces). Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "AISLAMIENTOS",
+          "Impermeabilizaciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-lamina-asfaltica-lbm-30-fv-de-betun-modificado-con-elastomer",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-lamina-asfaltica-lbm-30-fv-de-betun-modificado-con-elastomer",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Lámina asfáltica LBM-30-FV de betún modificado con elastómero SBS",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "lámina asfáltica",
+        "lbm",
+        "bicapa"
+      ],
+      "text": "Lámina bituminosa de betún modificado con elastómero SBS, con armadura de fieltro de fibra de vidrio, de masa nominal 3 kg/m², según UNE-EN 13707. Se emplea como primera capa en sistemas bicapa. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-3699dcc57bed221e"
+        ],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "AISLAMIENTOS",
+          "Impermeabilizaciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-lamina-asfaltica-lbm-40-fp-de-betun-modificado-con-elastomer",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-lamina-asfaltica-lbm-40-fp-de-betun-modificado-con-elastomer",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Lámina asfáltica LBM-40-FP de betún modificado con elastómero SBS",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "lámina asfáltica",
+        "lbm",
+        "sbs"
+      ],
+      "text": "Lámina bituminosa de betún modificado con elastómero SBS, con armadura de fieltro de poliéster no tejido, de masa nominal 4 kg/m² y 3,3 mm de espesor, según UNE-EN 13707. Solape recomendado por el fabricante: 8 cm longitudinal y transversal. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "REVESTIMIENTOS",
+          "Suelos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-lamina-base-de-espuma-de-polietileno-de-3-mm-con-barrera-ant",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-lamina-base-de-espuma-de-polietileno-de-3-mm-con-barrera-ant",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Lámina base de espuma de polietileno de 3 mm con barrera antihumedad",
+      "tags": [
+        "parquet",
+        "tarima",
+        "suelo de madera",
+        "pavimento",
+        "lámina base",
+        "flotante"
+      ],
+      "text": "Lámina base de espuma de polietileno de 3 mm de espesor, con film de barrera antihumedad incorporado, para colocación flotante de pavimentos de madera y laminados.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "AISLAMIENTOS",
+          "Impermeabilizaciones"
+        ]
+      },
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-lamina-caucho-butilo-2-mm",
       "kind": "material",
@@ -129338,6 +130959,46 @@
           "stale_edition-3c5578ed882e4ebf"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "AISLAMIENTOS",
+          "Impermeabilizaciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-lamina-drenante-nodular-de-polietileno-de-alta-densidad-con",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-lamina-drenante-nodular-de-polietileno-de-alta-densidad-con",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Lámina drenante nodular de polietileno de alta densidad con geotextil filtrante",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "drenante",
+        "nodular",
+        "muro enterrado"
+      ],
+      "text": "Geocompuesto de drenaje formado por lámina nodular de polietileno de alta densidad con geotextil de polipropileno calandrado, según UNE-EN 13252 y UNE-EN 13967, para drenaje y protección de muro enterrado. Solape declarado por fabricante: 12 cm de lámina, con fijación cada 50 cm. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -140860,6 +142521,45 @@
           "Maderas y elementos de encofrado"
         ]
       },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-madera-aserrada-estructural-c24",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-madera-aserrada-estructural-c24",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Madera aserrada estructural C24",
+      "tags": [
+        "estructura",
+        "madera",
+        "CTE DB-SE-M",
+        "aserrada",
+        "c24"
+      ],
+      "text": "Madera aserrada estructural de clase resistente C24 según UNE-EN 338, clasificada según UNE-EN 14081 y con marcado CE, de especie conífera. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m3",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "CIMENTACIONES Y ESTRUCTURAS",
+          "Maderas y elementos de encofrado"
+        ]
+      },
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-madera-de-pino-en-tabla",
       "kind": "material",
@@ -140989,6 +142689,86 @@
           "stale_edition-e75431a1901b538b"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "CIMENTACIONES Y ESTRUCTURAS",
+          "Maderas y elementos de encofrado"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-madera-laminada-encolada-homogenea-gl24h",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-madera-laminada-encolada-homogenea-gl24h",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Madera laminada encolada homogénea GL24h",
+      "tags": [
+        "estructura",
+        "madera",
+        "CTE DB-SE-M",
+        "laminada encolada",
+        "gl24h"
+      ],
+      "text": "Madera laminada encolada homogénea de clase resistente GL24h según UNE-EN 14080, de especie conífera, con laminaciones encoladas y clasificación resistente de la madera de partida. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m3",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-65c3f8b7a3f021ba"
+        ],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "CIMENTACIONES Y ESTRUCTURAS",
+          "Maderas y elementos de encofrado"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-madera-laminada-encolada-homogenea-gl28h",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-madera-laminada-encolada-homogenea-gl28h",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Madera laminada encolada homogénea GL28h",
+      "tags": [
+        "estructura",
+        "madera",
+        "CTE DB-SE-M",
+        "laminada encolada",
+        "gl28h"
+      ],
+      "text": "Madera laminada encolada homogénea de clase resistente GL28h según UNE-EN 14080, de especie conífera. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m3",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -141229,6 +143009,44 @@
       "classification": {
         "path": [
           "Precios Básicos",
+          "REVESTIMIENTOS",
+          "Varios"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-malla-abrasiva-de-lijado-para-microcemento",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-malla-abrasiva-de-lijado-para-microcemento",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Malla abrasiva de lijado para microcemento",
+      "tags": [
+        "microcemento",
+        "revestimiento continuo",
+        "cemento pulido",
+        "reforma"
+      ],
+      "text": "Malla o disco abrasivo de grano 40 a 120 para el lijado intermedio entre manos y el lijado final de revestimientos continuos de microcemento.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
           "CARPINTERÍA Y ELEMENTOS DE SEGURIDAD Y PROTECCIÓN",
           "Acero"
         ]
@@ -141345,6 +143163,44 @@
           "stale_edition-c9083a4427f0798a"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "REVESTIMIENTOS",
+          "Continuos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-malla-de-refuerzo-de-fibra-de-vidrio-para-microcemento-58-g",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-malla-de-refuerzo-de-fibra-de-vidrio-para-microcemento-58-g",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Malla de refuerzo de fibra de vidrio para microcemento, 58 g/m2",
+      "tags": [
+        "microcemento",
+        "revestimiento continuo",
+        "cemento pulido",
+        "reforma"
+      ],
+      "text": "Malla de refuerzo de fibra de vidrio de 58 g/m² y luz de malla aproximada de 2,2x2,3 mm, para armado de la capa base de revestimientos continuos de microcemento. Preceptiva en pavimentos. Se mide la superficie de malla consumida, con solape de bandas incluido.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -144939,6 +146795,43 @@
       "classification": {
         "path": [
           "Precios Básicos",
+          "AISLAMIENTOS",
+          "Impermeabilizaciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-manta-precultivada-de-sedum-para-cubierta-ajardinada-extensi",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-manta-precultivada-de-sedum-para-cubierta-ajardinada-extensi",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Manta precultivada de sedum para cubierta ajardinada extensiva",
+      "tags": [
+        "cubierta ajardinada",
+        "sedum",
+        "naturación urbana"
+      ],
+      "text": "Manta precultivada de sedum de especies mixtas sobre soporte biodegradable, para cubierta ajardinada extensiva de mantenimiento reducido. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
           "URBANIZACIÓN",
           "Jardinería"
         ]
@@ -147382,6 +149275,46 @@
       "classification": {
         "path": [
           "Precios Básicos",
+          "AISLAMIENTOS",
+          "Impermeabilizaciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-membrana-liquida-de-poliuretano-monocomponente-para-impermea",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-membrana-liquida-de-poliuretano-monocomponente-para-impermea",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Membrana líquida de poliuretano monocomponente para impermeabilización",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "poliuretano",
+        "membrana líquida",
+        "etag 005"
+      ],
+      "text": "Membrana líquida de poliuretano aromático monocomponente de curado por humedad, para impermeabilización continua de cubiertas, con evaluación técnica europea según ETAG 005 y clasificación de reacción al fuego exterior BRoof(t1). Consumo declarado por fabricante: 1,0 a 1,4 kg/m² por mano, en una o dos manos, para un espesor de película seca de 0,7 a 1,4 mm. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
           "SEGURIDAD Y SALUD",
           "Locales"
         ]
@@ -148350,6 +150283,159 @@
           "stale_edition-ea07e7e980d86040"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "REVESTIMIENTOS",
+          "Continuos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-microcemento-de-acabado-de-granulometria-gruesa-para-exterio",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-microcemento-de-acabado-de-granulometria-gruesa-para-exterio",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Microcemento de acabado de granulometría gruesa para exteriores",
+      "tags": [
+        "microcemento",
+        "revestimiento continuo",
+        "cemento pulido",
+        "reforma",
+        "exterior"
+      ],
+      "text": "Mortero de microcemento de granulometría gruesa para capa de acabado en pavimentos y paramentos exteriores, aplicado en dos manos. Consumo de referencia 2,00 kg/m² para las dos manos.",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "REVESTIMIENTOS",
+          "Continuos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-microcemento-de-acabado-fino-para-paramentos-verticales",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-microcemento-de-acabado-fino-para-paramentos-verticales",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Microcemento de acabado fino para paramentos verticales",
+      "tags": [
+        "microcemento",
+        "revestimiento continuo",
+        "cemento pulido",
+        "reforma"
+      ],
+      "text": "Mortero de microcemento de granulometría fina para capa de acabado en paramentos verticales interiores, aplicado en dos manos. Consumo de referencia 0,50 kg/m² para las dos manos.",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "REVESTIMIENTOS",
+          "Continuos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.087Z",
+      "id": "mt-microcemento-de-acabado-para-pavimentos",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-microcemento-de-acabado-para-pavimentos",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Microcemento de acabado para pavimentos",
+      "tags": [
+        "microcemento",
+        "revestimiento continuo",
+        "cemento pulido",
+        "reforma"
+      ],
+      "text": "Mortero de microcemento de granulometría fina (árido máximo 0,18-0,20 mm) para capa de acabado en pavimentos, aplicado en dos manos. Consumo de referencia 1,40 kg/m² para las dos manos en formulación monocomponente.",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:27.087Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "REVESTIMIENTOS",
+          "Continuos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.088Z",
+      "id": "mt-microcemento-de-base-o-preparacion",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-microcemento-de-base-o-preparacion",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Microcemento de base o preparación",
+      "tags": [
+        "microcemento",
+        "revestimiento continuo",
+        "cemento pulido",
+        "reforma"
+      ],
+      "text": "Mortero de microcemento de granulometría media para capa base o de preparación de revestimientos continuos, aplicado en dos manos de espesor máximo 1 mm por mano. Consumo de referencia 2,20 kg/m² para las dos manos.",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:27.088Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -149902,6 +151988,46 @@
         "path": [
           "Precios Básicos",
           "INSTALACIONES",
+          "Protección"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.088Z",
+      "id": "mt-modulo-direccionable-de-entrada-supervisada-y-salida-de-rele",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-modulo-direccionable-de-entrada-supervisada-y-salida-de-rele",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Módulo direccionable de entrada supervisada y salida de relé",
+      "tags": [
+        "detección de incendios",
+        "direccionable",
+        "analógico",
+        "PCI",
+        "UNE-EN 54",
+        "maniobras"
+      ],
+      "text": "Módulo direccionable con una entrada supervisada y una salida de relé libre de tensión, en caja, para maniobras de compuertas cortafuego, retenedores de puerta y ascensores, según UNE-EN 54-18.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.088Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
           "Eléctricas"
         ]
       },
@@ -151128,6 +153254,44 @@
     },
     {
       "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "AGLOMERANTES Y MORTEROS",
+          "Morteros"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.088Z",
+      "id": "mt-mortero-de-junta-delgada-tipo-t-segun-une-en-998-2",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-mortero-de-junta-delgada-tipo-t-segun-une-en-998-2",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Mortero de junta delgada tipo T según UNE-EN 998-2",
+      "tags": [
+        "junta delgada",
+        "junta fina",
+        "termoarcilla",
+        "rectificado"
+      ],
+      "text": "Mortero industrial de albañilería de junta delgada, tipo T según UNE-EN 998-2, para fábricas de piezas rectificadas con junta horizontal de 1 mm aplicada con llana dentada. Rendimiento de referencia: 1 saco de 20 kg por cada 36 m² de fábrica de 12 cm de espesor.",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:27.088Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-mortero-de-reparacion-estructural-de-1-componente-reforzado",
       "kind": "material",
@@ -151702,6 +153866,45 @@
           "stale_edition-b079370e67b83dd0"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "AISLAMIENTOS",
+          "Impermeabilizaciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.088Z",
+      "id": "mt-mortero-impermeabilizante-cementoso-monocomponente",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-mortero-impermeabilizante-cementoso-monocomponente",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Mortero impermeabilizante cementoso monocomponente",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "mortero impermeabilizante",
+        "osmótico"
+      ],
+      "text": "Mortero impermeabilizante monocomponente a base de cemento, áridos seleccionados y aditivos, para impermeabilización de estructuras de hormigón y fábrica en contacto con agua, según UNE-EN 1504-2. Consumo declarado por fabricante: 1,5 kg/m² por capa para columna de agua inferior a 1 m y 2 kg/m² por capa para columna superior, en un mínimo de dos capas. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:27.088Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -155414,6 +157617,88 @@
       "classification": {
         "path": [
           "Precios Básicos",
+          "CIMENTACIONES Y ESTRUCTURAS",
+          "Maderas y elementos de encofrado"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.088Z",
+      "id": "mt-panel-de-madera-contralaminada-clt-de-3-capas-y-100-mm",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-panel-de-madera-contralaminada-clt-de-3-capas-y-100-mm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Panel de madera contralaminada CLT de 3 capas y 100 mm",
+      "tags": [
+        "estructura",
+        "madera",
+        "CTE DB-SE-M",
+        "clt",
+        "contralaminada",
+        "muro"
+      ],
+      "text": "Panel de madera contralaminada de tres capas de madera aserrada encoladas con fibras perpendiculares entre capas adyacentes, de 100 mm de espesor total, según UNE-EN 16351. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.088Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-56feb3787f9a8620"
+        ],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "CIMENTACIONES Y ESTRUCTURAS",
+          "Maderas y elementos de encofrado"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.088Z",
+      "id": "mt-panel-de-madera-contralaminada-clt-de-5-capas-y-140-mm",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-panel-de-madera-contralaminada-clt-de-5-capas-y-140-mm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Panel de madera contralaminada CLT de 5 capas y 140 mm",
+      "tags": [
+        "estructura",
+        "madera",
+        "CTE DB-SE-M",
+        "clt",
+        "contralaminada",
+        "forjado"
+      ],
+      "text": "Panel de madera contralaminada de cinco capas de madera aserrada encoladas con fibras perpendiculares entre capas adyacentes y estructura transversal simétrica, de 140 mm de espesor total, según UNE-EN 16351. Apto para clases de uso 1 y 2. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.088Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
           "INSTALACIONES",
           "Comunicaciones"
         ]
@@ -155453,6 +157738,84 @@
           "stale_edition-285e113d3ca30353"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "AISLAMIENTOS",
+          "Térmicos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.088Z",
+      "id": "mt-panel-de-poliestireno-extruido-xps-de-100-mm",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-panel-de-poliestireno-extruido-xps-de-100-mm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Panel de poliestireno extruido XPS de 100 mm",
+      "tags": [
+        "xps",
+        "poliestireno extruido",
+        "cubierta ajardinada",
+        "aislamiento"
+      ],
+      "text": "Panel rígido de poliestireno extruido de 100 mm de espesor y conductividad térmica de 0,033 a 0,035 W/m·K, según UNE-EN 13164, para aislamiento térmico de cubierta invertida y cubierta ajardinada. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.088Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-de8871e5ec8ea5b4"
+        ],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "AISLAMIENTOS",
+          "Térmicos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.088Z",
+      "id": "mt-panel-de-poliestireno-extruido-xps-de-60-mm",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-panel-de-poliestireno-extruido-xps-de-60-mm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Panel de poliestireno extruido XPS de 60 mm",
+      "tags": [
+        "xps",
+        "poliestireno extruido",
+        "cubierta invertida",
+        "aislamiento"
+      ],
+      "text": "Panel rígido de poliestireno extruido de 60 mm de espesor y conductividad térmica de 0,033 a 0,035 W/m·K, según UNE-EN 13164, para aislamiento térmico de cubierta invertida. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.088Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -158925,6 +161288,46 @@
       "classification": {
         "path": [
           "Precios Básicos",
+          "INSTALACIONES",
+          "Eléctricas"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.088Z",
+      "id": "mt-pantalla-tactil-de-control-knx-a-color-para-empotrar",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-pantalla-tactil-de-control-knx-a-color-para-empotrar",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Pantalla táctil de control KNX a color para empotrar",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51"
+      ],
+      "text": "Pantalla táctil a color para control y visualización de sistema de bus KNX, con acoplador al bus integrado, para montaje empotrado en caja de obra.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.088Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
           "PINTURAS",
           "Varios"
         ]
@@ -161169,6 +163572,46 @@
           "stale_edition-91eba43c7f8745b0"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "REVESTIMIENTOS",
+          "Suelos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.088Z",
+      "id": "mt-parquet-multicapa-de-roble-de-14-mm-con-capa-noble-de-3-mm",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-parquet-multicapa-de-roble-de-14-mm-con-capa-noble-de-3-mm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Parquet multicapa de roble de 14 mm con capa noble de 3 mm",
+      "tags": [
+        "parquet",
+        "tarima",
+        "suelo de madera",
+        "pavimento",
+        "multicapa",
+        "roble"
+      ],
+      "text": "Parquet multicapa de roble de 14 mm de espesor total, con capa noble de 3 mm, capa intermedia y contracara, según UNE-EN 13489, acabado en fábrica con barniz, con machihembrado de ensamblaje mecánico.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.088Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -164378,6 +166821,46 @@
           "stale_edition-f1c67010c0543068"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "REVESTIMIENTOS",
+          "Varios"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.088Z",
+      "id": "mt-perfil-de-transicion-de-aluminio-anodizado-de-40-mm",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-perfil-de-transicion-de-aluminio-anodizado-de-40-mm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Perfil de transición de aluminio anodizado de 40 mm",
+      "tags": [
+        "parquet",
+        "tarima",
+        "suelo de madera",
+        "pavimento",
+        "remate",
+        "transición"
+      ],
+      "text": "Perfil de transición de aluminio anodizado de 40 mm de ancho, con sistema de fijación oculta mediante base atornillada, para encuentro entre pavimentos de distinto tipo o espesor y para paso de puerta.",
+      "unit": "m",
+      "updatedAt": "2026-09-08T09:13:27.088Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -169548,6 +172031,44 @@
       "classification": {
         "path": [
           "Precios Básicos",
+          "PINTURAS",
+          "Varios"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.088Z",
+      "id": "mt-pigmento-concentrado-para-microcemento",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-pigmento-concentrado-para-microcemento",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Pigmento concentrado para microcemento",
+      "tags": [
+        "microcemento",
+        "revestimiento continuo",
+        "cemento pulido",
+        "reforma"
+      ],
+      "text": "Pigmento concentrado para tinción en masa del microcemento, dosificado en monodosis por saco de amasado.",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:27.088Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
           "SEGURIDAD Y SALUD",
           "Señalizaciones y acotamientos"
         ]
@@ -170841,6 +173362,47 @@
           "stale_edition-859d4ede1e64816e"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "PINTURAS",
+          "Especiales"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.088Z",
+      "id": "mt-pintura-intumescente-base-agua-para-proteccion-de-estructura",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-pintura-intumescente-base-agua-para-proteccion-de-estructura",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Pintura intumescente base agua para protección de estructura de acero",
+      "tags": [
+        "estructura",
+        "acero",
+        "UNE-EN 1090-2",
+        "Código Estructural",
+        "intumescente",
+        "protección al fuego",
+        "eta"
+      ],
+      "text": "Pintura intumescente de base acuosa para protección al fuego de estructura de acero, con evaluación técnica europea y espesores obtenidos por ensayo según UNE-EN 13381-8. El espesor de película seca NO es un valor fijo por clase R: depende de la masividad del perfil, del número de caras expuestas, de la temperatura crítica y del producto concreto, y se lee de las tablas de la ETA. Control de espesor en obra según UNE 48287. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:27.088Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -181451,6 +184013,45 @@
         "path": [
           "Precios Básicos",
           "AISLAMIENTOS",
+          "Impermeabilizaciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.089Z",
+      "id": "mt-poliurea-pura-para-proyeccion-en-caliente",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-poliurea-pura-para-proyeccion-en-caliente",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Poliurea pura para proyección en caliente",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "poliurea",
+        "proyectada"
+      ],
+      "text": "Poliurea pura bicomponente para aplicación por proyección en caliente con equipo de dos componentes, con evaluación técnica europea, resistencia a tracción superior a 21 MPa y alargamiento superior al 400 %. Consumo declarado por fabricante: 2 kg/m² para unos 2 mm de espesor. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:27.089Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "AISLAMIENTOS",
           "Térmicos"
         ]
       },
@@ -190644,6 +193245,45 @@
           "Protección"
         ]
       },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.089Z",
+      "id": "mt-pulsador-de-alarma-manual-direccionable-rearmable-tipo-a",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-pulsador-de-alarma-manual-direccionable-rearmable-tipo-a",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Pulsador de alarma manual direccionable rearmable, tipo A",
+      "tags": [
+        "detección de incendios",
+        "direccionable",
+        "analógico",
+        "PCI",
+        "UNE-EN 54"
+      ],
+      "text": "Pulsador de alarma manual direccionable rearmable, tipo A de acción directa, con elemento frangible de recambio y tapa de protección, según UNE-EN 54-11.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.089Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
+          "Protección"
+        ]
+      },
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-pulsador-de-alarma-por-zonas",
       "kind": "material",
@@ -190867,6 +193507,47 @@
           "stale_edition-019da728ff599ebd"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
+          "Eléctricas"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.089Z",
+      "id": "mt-pulsador-knx-de-2-canales-con-acoplador-al-bus-integrado",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-pulsador-knx-de-2-canales-con-acoplador-al-bus-integrado",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Pulsador KNX de 2 canales con acoplador al bus integrado",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "mecanismo"
+      ],
+      "text": "Pulsador para sistema de bus KNX de 2 canales, con acoplador al bus integrado, marco y tecla, para montaje empotrado en caja universal enlazable.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.089Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -203283,6 +205964,46 @@
           "Suelos"
         ]
       },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.089Z",
+      "id": "mt-rodapie-de-mdf-lacado-en-blanco-de-80x12-mm",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-rodapie-de-mdf-lacado-en-blanco-de-80x12-mm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Rodapié de MDF lacado en blanco de 80x12 mm",
+      "tags": [
+        "parquet",
+        "tarima",
+        "suelo de madera",
+        "pavimento",
+        "rodapié",
+        "MDF"
+      ],
+      "text": "Rodapié de tablero de fibras de densidad media (MDF) lacado en blanco, de 80x12 mm, con canto superior recto o moldurado, para fijación al paramento.",
+      "unit": "m",
+      "updatedAt": "2026-09-08T09:13:27.089Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "REVESTIMIENTOS",
+          "Suelos"
+        ]
+      },
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-rodapie-dm-roble-7x1-6-cm",
       "kind": "material",
@@ -205671,6 +208392,46 @@
     },
     {
       "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
+          "Eléctricas"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.089Z",
+      "id": "mt-router-ip-knx-knxnet-ip-carril-din",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-router-ip-knx-knxnet-ip-carril-din",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Router IP KNX (KNXnet/IP), carril DIN",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51"
+      ],
+      "text": "Router IP para sistema de bus KNX, con acoplamiento KNX/IP en modos routing y tunneling, función de acoplador de línea con tabla de filtrado, para montaje en carril DIN.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.089Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-router-lonworks-ethernet",
       "kind": "material",
@@ -207211,6 +209972,46 @@
           "stale_edition-8bbe5bef57ecbb24"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "PINTURAS",
+          "Especiales"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.089Z",
+      "id": "mt-sellador-de-acabado-para-pintura-intumescente",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-sellador-de-acabado-para-pintura-intumescente",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Sellador de acabado para pintura intumescente",
+      "tags": [
+        "estructura",
+        "acero",
+        "UNE-EN 1090-2",
+        "Código Estructural",
+        "intumescente",
+        "sellador"
+      ],
+      "text": "Sellador de acabado para sistema de pintura intumescente, obligatorio en exterior y en ambiente húmedo. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:27.089Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -209987,6 +212788,46 @@
       "classification": {
         "path": [
           "Precios Básicos",
+          "INSTALACIONES",
+          "Protección"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.089Z",
+      "id": "mt-sirena-optico-acustica-direccionable-de-exterior-ip66",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-sirena-optico-acustica-direccionable-de-exterior-ip66",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Sirena óptico-acústica direccionable de exterior IP66",
+      "tags": [
+        "detección de incendios",
+        "direccionable",
+        "analógico",
+        "PCI",
+        "UNE-EN 54",
+        "sirena"
+      ],
+      "text": "Sirena óptico-acústica direccionable de exterior, con grado de protección IP66, alimentada por lazo, con dispositivo de alarma visual de categoría W según UNE-EN 54-23 y señal acústica según UNE-EN 54-3.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.089Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
           "CARPINTERÍA Y ELEMENTOS DE SEGURIDAD Y PROTECCIÓN",
           "Seguridad y protección"
         ]
@@ -211347,6 +214188,47 @@
         "path": [
           "Precios Básicos",
           "INSTALACIONES",
+          "Eléctricas"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.089Z",
+      "id": "mt-sonda-de-temperatura-ambiente-knx-para-empotrar",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-sonda-de-temperatura-ambiente-knx-para-empotrar",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Sonda de temperatura ambiente KNX para empotrar",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "climatización"
+      ],
+      "text": "Sonda de temperatura ambiente para sistema de bus KNX, con acoplador al bus, para montaje empotrado en caja universal enlazable.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.089Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
           "Climatización"
         ]
       },
@@ -212572,6 +215454,88 @@
     },
     {
       "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "REVESTIMIENTOS",
+          "Suelos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.089Z",
+      "id": "mt-suelo-laminado-ac4-clase-32-de-8-mm",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-suelo-laminado-ac4-clase-32-de-8-mm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Suelo laminado AC4 clase 32, de 8 mm",
+      "tags": [
+        "parquet",
+        "tarima",
+        "suelo de madera",
+        "pavimento",
+        "suelo laminado",
+        "AC4",
+        "clase 32"
+      ],
+      "text": "Suelo laminado de 8 mm de espesor, con clase de abrasión AC4 y clase de uso 32 (doméstico intenso / comercial normal) según UNE-EN 13329, con núcleo de tablero de fibras de alta densidad, capa decorativa impresa y capa superficial de resinas melamínicas, con sistema de ensamblaje mecánico sin cola.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.089Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "REVESTIMIENTOS",
+          "Suelos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.089Z",
+      "id": "mt-suelo-laminado-ac5-clase-33-de-10-mm",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-suelo-laminado-ac5-clase-33-de-10-mm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Suelo laminado AC5 clase 33, de 10 mm",
+      "tags": [
+        "parquet",
+        "tarima",
+        "suelo de madera",
+        "pavimento",
+        "suelo laminado",
+        "AC5",
+        "clase 33"
+      ],
+      "text": "Suelo laminado de 10 mm de espesor, con clase de abrasión AC5 y clase de uso 33 (comercial intensivo) según UNE-EN 13329, con núcleo de tablero de fibras de alta densidad, capa decorativa impresa y capa superficial de resinas melamínicas, con sistema de ensamblaje mecánico sin cola.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.089Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
       "createdAt": "2026-07-21T11:25:32.116Z",
       "id": "mt-sumidero-20-20",
       "kind": "material",
@@ -212787,6 +215751,43 @@
           "stale_edition-daa5156ea37afcc0"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "AISLAMIENTOS",
+          "Impermeabilizaciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.089Z",
+      "id": "mt-sustrato-para-cubierta-ajardinada-extensiva",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-sustrato-para-cubierta-ajardinada-extensiva",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Sustrato para cubierta ajardinada extensiva",
+      "tags": [
+        "cubierta ajardinada",
+        "sustrato",
+        "naturación urbana"
+      ],
+      "text": "Sustrato mineral ligero de granulometría controlada para cubierta ajardinada extensiva, con baja retención de agua y densidad reducida en saturación. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m3",
+      "updatedAt": "2026-09-08T09:13:27.089Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -220512,6 +223513,47 @@
           "stale_edition-d5ca2a6ebd42f8c7"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
+          "INSTALACIONES",
+          "Eléctricas"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.090Z",
+      "id": "mt-termostato-knx-de-ambiente-con-display-para-empotrar",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-termostato-knx-de-ambiente-con-display-para-empotrar",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Termostato KNX de ambiente con display para empotrar",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "climatización"
+      ],
+      "text": "Termostato de ambiente para sistema de bus KNX, con display, sonda de temperatura integrada y regulador proporcional-integral para control de calefacción y refrigeración (fan-coil o suelo radiante), para montaje empotrado en caja universal enlazable.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.090Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -252431,6 +255473,46 @@
       "classification": {
         "path": [
           "Precios Básicos",
+          "AISLAMIENTOS",
+          "Impermeabilizaciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.090Z",
+      "id": "mt-velo-de-poliester-de-refuerzo-para-membrana-liquida",
+      "kind": "material",
+      "prices": [],
+      "sources": [
+        {
+          "code": "mt-velo-de-poliester-de-refuerzo-para-membrana-liquida",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Velo de poliéster de refuerzo para membrana líquida",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "velo",
+        "refuerzo",
+        "poliuretano"
+      ],
+      "text": "Velo de fibra de poliéster de refuerzo, para armado de membranas líquidas de poliuretano en zonas de movimiento, fisuras y juntas. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.090Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Básicos",
           "CARPINTERÍA Y ELEMENTOS DE SEGURIDAD Y PROTECCIÓN",
           "Acero"
         ]
@@ -283858,5 +286940,5 @@
       }
     }
   ],
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

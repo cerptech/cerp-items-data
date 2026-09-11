@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T18:31:23.103Z",
+  "generatedAt": "2026-09-11T11:10:37.293Z",
   "roots": [
     {
       "c": [
@@ -305,6 +305,18 @@
                 {
                   "c": [
                     {
+                      "l": "Cubiertas",
+                      "n": 4,
+                      "s": "cubiertas"
+                    }
+                  ],
+                  "l": "Cubiertas",
+                  "n": 4,
+                  "s": "cubiertas"
+                },
+                {
+                  "c": [
+                    {
                       "l": "Juntas",
                       "n": 2,
                       "s": "juntas"
@@ -313,6 +325,18 @@
                   "l": "Juntas",
                   "n": 2,
                   "s": "juntas"
+                },
+                {
+                  "c": [
+                    {
+                      "l": "Muros",
+                      "n": 5,
+                      "s": "muros"
+                    }
+                  ],
+                  "l": "Muros",
+                  "n": 5,
+                  "s": "muros"
                 },
                 {
                   "c": [
@@ -340,7 +364,7 @@
                 }
               ],
               "l": "IMPERMEABILIZACIÓN",
-              "n": 19,
+              "n": 28,
               "s": "impermeabilizacion"
             },
             {
@@ -432,7 +456,7 @@
           ],
           "k": "precios-unitarios--aislamientos",
           "l": "AISLAMIENTOS",
-          "n": 147,
+          "n": 156,
           "s": "aislamientos"
         },
         {
@@ -660,7 +684,7 @@
                   "c": [
                     {
                       "l": "Arcilla aligerada",
-                      "n": 7,
+                      "n": 9,
                       "s": "arcilla-aligerada"
                     },
                     {
@@ -680,7 +704,7 @@
                     }
                   ],
                   "l": "Huecos",
-                  "n": 37,
+                  "n": 39,
                   "s": "huecos"
                 },
                 {
@@ -709,7 +733,7 @@
                 }
               ],
               "l": "FÁBRICAS DE BLOQUES",
-              "n": 41,
+              "n": 43,
               "s": "fabricas-de-bloques"
             },
             {
@@ -952,7 +976,7 @@
           ],
           "k": "precios-unitarios--albanileria",
           "l": "ALBAÑILERÍA",
-          "n": 322,
+          "n": 324,
           "s": "albanileria"
         },
         {
@@ -3986,10 +4010,34 @@
                   "l": "Laminados en frío",
                   "n": 1,
                   "s": "laminados-en-frio"
+                },
+                {
+                  "c": [
+                    {
+                      "l": "Perfiles laminados",
+                      "n": 5,
+                      "s": "perfiles-laminados"
+                    }
+                  ],
+                  "l": "Perfiles laminados",
+                  "n": 5,
+                  "s": "perfiles-laminados"
+                },
+                {
+                  "c": [
+                    {
+                      "l": "Protecciones",
+                      "n": 5,
+                      "s": "protecciones"
+                    }
+                  ],
+                  "l": "Protecciones",
+                  "n": 5,
+                  "s": "protecciones"
                 }
               ],
               "l": "ACERO",
-              "n": 14,
+              "n": 24,
               "s": "acero"
             },
             {
@@ -4184,6 +4232,18 @@
                 {
                   "c": [
                     {
+                      "l": "Madera laminada",
+                      "n": 7,
+                      "s": "madera-laminada"
+                    }
+                  ],
+                  "l": "Madera laminada",
+                  "n": 7,
+                  "s": "madera-laminada"
+                },
+                {
+                  "c": [
+                    {
                       "l": "Tradicionales",
                       "n": 9,
                       "s": "tradicionales"
@@ -4195,7 +4255,7 @@
                 }
               ],
               "l": "MADERA",
-              "n": 13,
+              "n": 20,
               "s": "madera"
             },
             {
@@ -4237,7 +4297,7 @@
           ],
           "k": "precios-unitarios--estructuras",
           "l": "ESTRUCTURAS",
-          "n": 187,
+          "n": 204,
           "s": "estructuras"
         },
         {
@@ -4638,22 +4698,22 @@
                   "c": [
                     {
                       "l": "Aparatos",
-                      "n": 19,
+                      "n": 29,
                       "s": "aparatos"
                     },
                     {
                       "l": "Canalizaciones",
-                      "n": 1,
+                      "n": 2,
                       "s": "canalizaciones"
                     }
                   ],
                   "l": "Control Remoto",
-                  "n": 20,
+                  "n": 31,
                   "s": "control-remoto"
                 }
               ],
               "l": "CONTROL REMOTO",
-              "n": 20,
+              "n": 31,
               "s": "control-remoto"
             },
             {
@@ -5415,7 +5475,7 @@
                     },
                     {
                       "l": "Detección y alarma",
-                      "n": 50,
+                      "n": 57,
                       "s": "deteccion-y-alarma"
                     },
                     {
@@ -5455,7 +5515,7 @@
                     }
                   ],
                   "l": "Contra incendios",
-                  "n": 244,
+                  "n": 251,
                   "s": "contra-incendios"
                 },
                 {
@@ -5477,7 +5537,7 @@
                 }
               ],
               "l": "PROTECCIONES",
-              "n": 252,
+              "n": 259,
               "s": "protecciones"
             },
             {
@@ -5502,7 +5562,7 @@
           ],
           "k": "precios-unitarios--instalaciones",
           "l": "INSTALACIONES",
-          "n": 1989,
+          "n": 2007,
           "s": "instalaciones"
         },
         {
@@ -6822,17 +6882,17 @@
                     },
                     {
                       "l": "Varios",
-                      "n": 12,
+                      "n": 14,
                       "s": "varios"
                     }
                   ],
                   "l": "Varios",
-                  "n": 16,
+                  "n": 18,
                   "s": "varios"
                 }
               ],
               "l": "CONTÍNUOS",
-              "n": 55,
+              "n": 57,
               "s": "continuos"
             },
             {
@@ -7027,12 +7087,12 @@
                   "c": [
                     {
                       "l": "Solerías",
-                      "n": 13,
+                      "n": 15,
                       "s": "solerias"
                     }
                   ],
                   "l": "Especiales",
-                  "n": 13,
+                  "n": 15,
                   "s": "especiales"
                 },
                 {
@@ -7073,17 +7133,17 @@
                   "c": [
                     {
                       "l": "Rodapiés",
-                      "n": 5,
+                      "n": 6,
                       "s": "rodapies"
                     },
                     {
                       "l": "Solerías",
-                      "n": 9,
+                      "n": 13,
                       "s": "solerias"
                     }
                   ],
                   "l": "Maderas",
-                  "n": 14,
+                  "n": 19,
                   "s": "maderas"
                 },
                 {
@@ -7151,7 +7211,7 @@
                 }
               ],
               "l": "SUELOS",
-              "n": 193,
+              "n": 200,
               "s": "suelos"
             },
             {
@@ -7286,12 +7346,12 @@
                     },
                     {
                       "l": "Varios",
-                      "n": 8,
+                      "n": 9,
                       "s": "varios"
                     }
                   ],
                   "l": "Remates",
-                  "n": 30,
+                  "n": 31,
                   "s": "remates"
                 },
                 {
@@ -7308,13 +7368,13 @@
                 }
               ],
               "l": "VARIOS",
-              "n": 48,
+              "n": 49,
               "s": "varios"
             }
           ],
           "k": "precios-unitarios--revestimientos",
           "l": "REVESTIMIENTOS",
-          "n": 525,
+          "n": 535,
           "s": "revestimientos"
         },
         {
@@ -8917,7 +8977,7 @@
         }
       ],
       "l": "Precios Unitarios",
-      "n": 6461,
+      "n": 6517,
       "s": "precios-unitarios"
     },
     {
@@ -9022,7 +9082,7 @@
             },
             {
               "l": "Morteros",
-              "n": 22,
+              "n": 23,
               "s": "morteros"
             },
             {
@@ -9032,7 +9092,7 @@
             },
             {
               "l": "Resinas",
-              "n": 4,
+              "n": 5,
               "s": "resinas"
             },
             {
@@ -9048,7 +9108,7 @@
           ],
           "k": "precios-basicos--aglomerantes-y-morteros",
           "l": "AGLOMERANTES Y MORTEROS",
-          "n": 75,
+          "n": 77,
           "s": "aglomerantes-y-morteros"
         },
         {
@@ -9060,12 +9120,12 @@
             },
             {
               "l": "Impermeabilizaciones",
-              "n": 36,
+              "n": 51,
               "s": "impermeabilizaciones"
             },
             {
               "l": "Térmicos",
-              "n": 194,
+              "n": 196,
               "s": "termicos"
             },
             {
@@ -9076,7 +9136,7 @@
           ],
           "k": "precios-basicos--aislamientos",
           "l": "AISLAMIENTOS",
-          "n": 237,
+          "n": 254,
           "s": "aislamientos"
         },
         {
@@ -9192,7 +9252,7 @@
           "c": [
             {
               "l": "Aceros",
-              "n": 37,
+              "n": 39,
               "s": "aceros"
             },
             {
@@ -9212,7 +9272,7 @@
             },
             {
               "l": "Maderas y elementos de encofrado",
-              "n": 19,
+              "n": 25,
               "s": "maderas-y-elementos-de-encofrado"
             },
             {
@@ -9233,7 +9293,7 @@
           ],
           "k": "precios-basicos--cimentaciones-y-estructuras",
           "l": "CIMENTACIONES Y ESTRUCTURAS",
-          "n": 165,
+          "n": 173,
           "s": "cimentaciones-y-estructuras"
         },
         {
@@ -9306,7 +9366,7 @@
           "c": [
             {
               "l": "Bloques",
-              "n": 41,
+              "n": 43,
               "s": "bloques"
             },
             {
@@ -9332,7 +9392,7 @@
           ],
           "k": "precios-basicos--fabricas-albanileria",
           "l": "FÁBRICAS (ALBAÑILERÍA)",
-          "n": 134,
+          "n": 136,
           "s": "fabricas-albanileria"
         },
         {
@@ -9354,7 +9414,7 @@
             },
             {
               "l": "Eléctricas",
-              "n": 201,
+              "n": 217,
               "s": "electricas"
             },
             {
@@ -9369,7 +9429,7 @@
             },
             {
               "l": "Fontanería",
-              "n": 439,
+              "n": 440,
               "s": "fontaneria"
             },
             {
@@ -9379,7 +9439,7 @@
             },
             {
               "l": "Protección",
-              "n": 243,
+              "n": 250,
               "s": "proteccion"
             },
             {
@@ -9390,7 +9450,7 @@
           ],
           "k": "precios-basicos--instalaciones",
           "l": "INSTALACIONES",
-          "n": 2093,
+          "n": 2117,
           "s": "instalaciones"
         },
         {
@@ -9480,7 +9540,7 @@
             },
             {
               "l": "Barnices",
-              "n": 11,
+              "n": 13,
               "s": "barnices"
             },
             {
@@ -9495,12 +9555,12 @@
             },
             {
               "l": "Especiales",
-              "n": 10,
+              "n": 13,
               "s": "especiales"
             },
             {
               "l": "Imprimaciones",
-              "n": 5,
+              "n": 9,
               "s": "imprimaciones"
             },
             {
@@ -9530,13 +9590,13 @@
             },
             {
               "l": "Varios",
-              "n": 21,
+              "n": 22,
               "s": "varios"
             }
           ],
           "k": "precios-basicos--pinturas",
           "l": "PINTURAS",
-          "n": 70,
+          "n": 80,
           "s": "pinturas"
         },
         {
@@ -9581,7 +9641,7 @@
             },
             {
               "l": "Continuos",
-              "n": 7,
+              "n": 12,
               "s": "continuos"
             },
             {
@@ -9596,7 +9656,7 @@
             },
             {
               "l": "Suelos",
-              "n": 165,
+              "n": 170,
               "s": "suelos"
             },
             {
@@ -9606,13 +9666,13 @@
             },
             {
               "l": "Varios",
-              "n": 74,
+              "n": 76,
               "s": "varios"
             }
           ],
           "k": "precios-basicos--revestimientos",
           "l": "REVESTIMIENTOS",
-          "n": 503,
+          "n": 515,
           "s": "revestimientos"
         },
         {
@@ -9738,13 +9798,13 @@
             },
             {
               "l": "Varios",
-              "n": 3,
+              "n": 4,
               "s": "varios"
             }
           ],
           "k": "precios-basicos--trabajo-mano-de-obra",
           "l": "TRABAJO (MANO DE OBRA)",
-          "n": 32,
+          "n": 33,
           "s": "trabajo-mano-de-obra"
         },
         {
@@ -9853,7 +9913,7 @@
         }
       ],
       "l": "Precios Básicos",
-      "n": 6051,
+      "n": 6127,
       "s": "precios-basicos"
     },
     {
@@ -9863,6 +9923,6 @@
       "s": "sin-clasificar"
     }
   ],
-  "total": 12565,
-  "version": "0.4.0"
+  "total": 12697,
+  "version": "0.5.0"
 }

@@ -1,0 +1,52 @@
+{
+  "key": "instalacion-electrica--mecanismos-y-tableros",
+  "rows": [
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-gabinete-para-tablero-seccional-de-12-modulos",
+      "m": 0,
+      "p": 16257.02,
+      "s": "Gabinete para tablero seccional de 12 módulos",
+      "u": "u"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-interruptor-diferencial-bipolar-de-25-a-y-30-ma",
+      "m": 0,
+      "p": 29814.05,
+      "s": "Interruptor diferencial bipolar de 25 A y 30 mA",
+      "u": "u"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-interruptor-termomagnetico-bipolar-de-16-a",
+      "m": 0,
+      "p": 9093.39,
+      "s": "Interruptor termomagnético bipolar de 16 A",
+      "u": "u"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-llave-de-un-punto-con-bastidor-y-tapa",
+      "m": 0,
+      "p": 1386.62,
+      "s": "Llave de un punto con bastidor y tapa",
+      "u": "u"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-tomacorriente-doble-con-toma-de-tierra-bastidor-y-tapa",
+      "m": 0,
+      "p": 3383.47,
+      "s": "Tomacorriente doble con toma de tierra, bastidor y tapa",
+      "u": "u"
+    }
+  ],
+  "title": "Instalación eléctrica > Mecanismos y tableros",
+  "version": "0.5.0"
+}

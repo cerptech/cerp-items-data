@@ -1,0 +1,415 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Instalación eléctrica > Bocas",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.65,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.36,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.7,
+          "ref": "mt-ar-cano-corrugado-semipesado-de-3-4-pulgada-en-barra-de-3-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.24,
+          "ref": "mt-ar-cable-unipolar-de-1-5-mm2-en-rollo-de-100-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-caja-rectangular-de-chapa-de-10x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-caja-octogonal-chica-de-chapa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-llave-de-un-punto-con-bastidor-y-tapa",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Instalación eléctrica",
+          "Bocas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.574Z",
+      "id": "wi-ar-boca-de-iluminacion-completa",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 32737.04
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 34079.03
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 41572.63
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 44720.58
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-boca-de-iluminacion-completa",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-punto-de-luz-conmutado-empotrado",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Boca de iluminación completa",
+      "tags": [
+        "boca",
+        "iluminación",
+        "eléctrica",
+        "punto de luz"
+      ],
+      "text": "Boca de iluminación embutida completa, con caño corrugado semipesado, cajas, conductores unipolares desde el tablero seccional, llave de un punto con bastidor y tapa, incluidos canaleteado, amure y ensayo. Medida por unidad ejecutada. La boca es la unidad atómica del presupuesto eléctrico argentino: según la definición de la AEA 90364-7-770, es el punto de un circuito terminal donde se conecta el aparato utilizador. La partida es \"llave en mano\" por punto e incluye el prorrateo de cañería, cajas y conductores desde el tablero, más el mecanismo. NO incluye el artefacto de iluminación, que se computa aparte. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimientos adaptados de BCCA wi-punto-de-luz-conmutado-empotrado: rendimiento de mano de obra adaptado del punto de luz conmutado empotrado de la BCCA 2024-01 (0,65 h de oficial 1ª electricista + 0,36 h de cuadrilla de albañilería), reasignado a las categorías del CCT 76/75",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:15:59.021Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.75,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 3,
+          "ref": "mt-ar-cano-corrugado-semipesado-de-3-4-pulgada-en-barra-de-3-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mt-ar-cable-unipolar-de-4-mm2-en-rollo-de-100-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-caja-rectangular-de-chapa-de-10x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-tomacorriente-doble-con-toma-de-tierra-bastidor-y-tapa",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Instalación eléctrica",
+          "Bocas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.574Z",
+      "id": "wi-ar-boca-de-tomacorriente-de-uso-especial",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 64007.03
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 65536.61
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 74061.97
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 77670.19
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-boca-de-tomacorriente-de-uso-especial",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-punto-de-luz-conmutado-empotrado",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Boca de tomacorriente de uso especial",
+      "tags": [
+        "boca",
+        "tomacorriente",
+        "tue",
+        "uso especial"
+      ],
+      "text": "Boca de tomacorriente de uso especial (TUE) embutida para aire acondicionado o termotanque, con caño corrugado semipesado, cajas, conductores unipolares de 4 mm2 desde el tablero seccional, tomacorriente con toma de tierra, bastidor y tapa, incluidos canaleteado, amure y ensayo. Medida por unidad ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimientos adaptados de BCCA wi-punto-de-luz-conmutado-empotrado: rendimiento de mano de obra adaptado del punto de luz conmutado empotrado de la BCCA 2024-01, con incremento por mayor sección de conductor",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:15:59.023Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.65,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.36,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.7,
+          "ref": "mt-ar-cano-corrugado-semipesado-de-3-4-pulgada-en-barra-de-3-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.27,
+          "ref": "mt-ar-cable-unipolar-de-2-5-mm2-en-rollo-de-100-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-caja-rectangular-de-chapa-de-10x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-tomacorriente-doble-con-toma-de-tierra-bastidor-y-tapa",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Instalación eléctrica",
+          "Bocas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.574Z",
+      "id": "wi-ar-boca-de-tomacorriente-doble-de-uso-general",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 45094.28
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 46436.27
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 53929.87
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 57077.82
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-boca-de-tomacorriente-doble-de-uso-general",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-punto-de-luz-conmutado-empotrado",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Boca de tomacorriente doble de uso general",
+      "tags": [
+        "boca",
+        "tomacorriente",
+        "tug",
+        "eléctrica"
+      ],
+      "text": "Boca de tomacorriente doble de uso general (TUG) embutida, con caño corrugado semipesado, cajas, conductores unipolares de 2,5 mm2 desde el tablero seccional, tomacorriente doble con toma de tierra, bastidor y tapa, incluidos canaleteado, amure y ensayo. Medida por unidad ejecutada. Máximo 15 bocas por circuito según AEA 90364-7-770. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimientos adaptados de BCCA wi-punto-de-luz-conmutado-empotrado: rendimiento de mano de obra adaptado del punto de luz conmutado empotrado de la BCCA 2024-01, reasignado a las categorías del CCT 76/75",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:15:59.025Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.5.0"
+}

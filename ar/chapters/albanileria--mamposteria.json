@@ -9,6 +9,351 @@
       "bom": [
         {
           "factor": 1,
+          "quantity": 0.76,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.84,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 12.5,
+          "ref": "mt-ar-bloque-de-hormigon-19x19x39-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.02,
+          "ref": "wi-ar-mortero-de-cemento-1-6-preparado-en-obra",
+          "role": "work_item"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Albañilería",
+          "Mampostería"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.575Z",
+      "id": "wi-ar-mamposteria-de-bloque-de-hormigon-19x19x39",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 41869.43
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 43977.61
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 56200.27
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 60567.82
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-mamposteria-de-bloque-de-hormigon-19x19x39",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Mampostería de bloque de hormigón 19x19x39",
+      "tags": [
+        "mampostería",
+        "bloque",
+        "hormigón"
+      ],
+      "text": "Muro de bloque de hormigón vibrocomprimido de 19x19x39 cm, tomado con mortero de cemento, con junta de 1,5 cm, aplomado y nivelado. Sin revoques. Medido por metro cuadrado de muro, descontando vanos. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO POR ANALOGÍA, INCORPORADO EN SEPTIEMBRE DE 2026. No existe fuente argentina de descarga libre que publique esta partida con horas por categoría, así que se aplicó el rendimiento de una tarea análoga que sí está cargada en el banco con su fuente declarada: la mampostería de elevación de ladrillo hueco cerámico de 18x18x33, que ya está cargada con rendimiento del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta. Es la analogía más sólida de esta ronda: misma tarea de levantar pared con mampuesto grande asentado con mortero, y piezas de tamaño y peso comparables. El bloque de hormigón rinde 12,5 unidades por metro cuadrado contra 16,7 del ladrillo hueco, así que si algo, el rendimiento aplicado queda del lado conservador. La analogía es una decisión de curación de CERP, no un dato de fuente: queda declarada acá para que se pueda revisar y, llegado el caso, revertir.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:15:59.115Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.76,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.84,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 17,
+          "ref": "mt-ar-ladrillo-hueco-ceramico-18x18x33-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.03,
+          "ref": "wi-ar-mortero-de-cemento-1-6-preparado-en-obra",
+          "role": "work_item"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Albañilería",
+          "Mampostería"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.575Z",
+      "id": "wi-ar-mamposteria-de-elevacion-de-ladrillo-hueco-ceramico-18x18x33",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 39352.19
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 41473
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 53776.73
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 58160.38
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-mamposteria-de-elevacion-de-ladrillo-hueco-ceramico-18x18x33",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Mampostería de elevación de ladrillo hueco cerámico 18x18x33",
+      "tags": [
+        "mampostería",
+        "ladrillo hueco",
+        "muro"
+      ],
+      "text": "Muro de ladrillo hueco cerámico no portante de 18x18x33 cm, tomado con mortero de cemento 1:6, con junta de 1,5 cm, aplomado y nivelado. Sin revoques. Medido por metro cuadrado de muro, descontando vanos. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:15:59.116Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-e06ce159c0cfe5df"
+        ],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.7,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 17,
+          "ref": "mt-ar-ladrillo-hueco-ceramico-8x18x33-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.014,
+          "ref": "wi-ar-mortero-de-cemento-1-6-preparado-en-obra",
+          "role": "work_item"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Albañilería",
+          "Mampostería"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.575Z",
+      "id": "wi-ar-mamposteria-de-elevacion-de-ladrillo-hueco-ceramico-8x18x33",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 23707.32
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 25185.31
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 33465.72
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 36897.58
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-mamposteria-de-elevacion-de-ladrillo-hueco-ceramico-8x18x33",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Mampostería de elevación de ladrillo hueco cerámico 8x18x33",
+      "tags": [
+        "mampostería",
+        "ladrillo hueco",
+        "muro",
+        "tabique"
+      ],
+      "text": "Muro de ladrillo hueco cerámico no portante de 8x18x33 cm, tomado con mortero de cemento 1:6, con junta de 1,5 cm, aplomado y nivelado. Sin revoques. Medido por metro cuadrado de muro, descontando vanos. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:15:59.117Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
           "quantity": 61,
           "ref": "mt-ar-ladrillo-comun-de-tierra-cocida-25x12x5-cm",
           "role": "material"
@@ -45,8 +390,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-07",
-          "edition": "2026-07",
+          "date": "2026-08",
+          "edition": "2026-09",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -54,12 +399,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 31229.61
+          "value": 28151.55
         },
         {
           "currency": "ARS",
-          "date": "2026-07",
-          "edition": "2026-07",
+          "date": "2026-08",
+          "edition": "2026-09",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -67,12 +412,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32577.72
+          "value": 29499.66
         },
         {
           "currency": "ARS",
-          "date": "2026-07",
-          "edition": "2026-07",
+          "date": "2026-08",
+          "edition": "2026-09",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -80,12 +425,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 40093.34
+          "value": 37015.28
         },
         {
           "currency": "ARS",
-          "date": "2026-07",
-          "edition": "2026-07",
+          "date": "2026-08",
+          "edition": "2026-09",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -93,7 +438,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 43271.21
+          "value": 40193.14
         }
       ],
       "sources": [
@@ -110,16 +455,16 @@
           "source": "bcca"
         }
       ],
-      "summary": "Mamposteria de ladrillo comun de soga, espesor 12 cm",
+      "summary": "Mampostería de ladrillo común de soga, espesor 12 cm",
       "tags": [
         "mamposteria",
         "ladrillo comun",
         "muro",
         "soga"
       ],
-      "text": "Muro de ladrillo comun de tierra cocida 25x12x5 cm colocado de soga (espesor de pared 12 cm), tomado con mortero de cemento 1:6, junta de 1,5 cm. Sin revoques. Unidad = metro cuadrado de muro. Rendimientos adaptados de BCCA wi-citara-ladrillo-macizo-c-v: Mano de obra y mortero tomados sin cambios de la citara BCCA de ladrillo macizo (0,66 h oficial 1a + 0,33 h peon especial + 0,023 m3 de mortero M5 1:6), que es el mismo muro de medio pie con otra denominacion. Solo se recalculo el consumo de ladrillos por la medida argentina: modulo (25+1,5)x(5+1,5) = 0,017225 m2 -> 58,1 u/m2, mas 5% de roturas = 61 u/m2 (la BCCA computa 70 u/m2 para su ladrillo de 24x11,5x5 con junta de 1 cm)",
+      "text": "Muro de ladrillo común de tierra cocida 25x12x5 cm colocado de soga (espesor de pared 12 cm), tomado con mortero de cemento 1:6, junta de 1,5 cm. Sin revoques. Unidad = metro cuadrado de muro. Rendimientos adaptados de BCCA wi-citara-ladrillo-macizo-c-v: Mano de obra y mortero tomados sin cambios de la citara BCCA de ladrillo macizo (0,66 h oficial 1a + 0,33 h peon especial + 0,023 m3 de mortero M5 1:6), que es el mismo muro de medio pie con otra denominacion. Solo se recalculo el consumo de ladrillos por la medida argentina: modulo (25+1,5)x(5+1,5) = 0,017225 m2 -> 58,1 u/m2, mas 5% de roturas = 61 u/m2 (la BCCA computa 70 u/m2 para su ladrillo de 24x11,5x5 con junta de 1 cm)",
       "unit": "m2",
-      "updatedAt": "2026-07-22T01:35:30.003Z",
+      "updatedAt": "2026-09-08T09:15:59.119Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-07-22T00:58:53.003Z",
@@ -166,8 +511,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-07",
-          "edition": "2026-07",
+          "date": "2026-08",
+          "edition": "2026-09",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -175,12 +520,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26125.08
+          "value": 23687.77
         },
         {
           "currency": "ARS",
-          "date": "2026-07",
-          "edition": "2026-07",
+          "date": "2026-08",
+          "edition": "2026-09",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -188,12 +533,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27367.7
+          "value": 24930.38
         },
         {
           "currency": "ARS",
-          "date": "2026-07",
-          "edition": "2026-07",
+          "date": "2026-08",
+          "edition": "2026-09",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -201,12 +546,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 34309.6
+          "value": 31872.29
         },
         {
           "currency": "ARS",
-          "date": "2026-07",
-          "edition": "2026-07",
+          "date": "2026-08",
+          "edition": "2026-09",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -214,7 +559,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 37220.3
+          "value": 34782.99
         }
       ],
       "sources": [
@@ -231,7 +576,7 @@
           "source": "bcca"
         }
       ],
-      "summary": "Mamposteria de ladrillo hueco 12x18x33, espesor 12 cm",
+      "summary": "Mampostería de ladrillo hueco 12x18x33, espesor 12 cm",
       "tags": [
         "mamposteria",
         "ladrillo",
@@ -240,13 +585,128 @@
       ],
       "text": "Muro no portante de ladrillo hueco cerámico 12x18x33 colocado de canto (espesor de pared 12 cm), tomado con mortero de cemento 1:6. Unidad = metro cuadrado de muro. Rendimientos adaptados de BCCA wi-cegado-de-hueco-con-tabicon-hueco-doble-de-7-cm: Mano de obra tomada de la partida BCCA equivalente (0,6 h oficial + 0,32 h peón por m2). Consumo de ladrillos calculado por geometría del hueco argentino (cara 18x33 cm = 0,0594 m2 -> ~16 u/m2 con juntas), no del BCCA (que usa ladrillo 24x11,5x7). Mortero de asiento 0,015 m3/m2 (valor técnico estándar para muro de 12 cm)",
       "unit": "m2",
-      "updatedAt": "2026-07-22T01:35:30.007Z",
+      "updatedAt": "2026-09-08T09:15:59.120Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-07-21T22:07:55.939Z",
         "status": "auto_ok"
       }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.76,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.84,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 16,
+          "ref": "mt-ar-ladrillo-ceramico-portante-18x19x33-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.028,
+          "ref": "wi-ar-mortero-de-cemento-1-6-preparado-en-obra",
+          "role": "work_item"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Albañilería",
+          "Mampostería"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.576Z",
+      "id": "wi-ar-mamposteria-portante-de-ladrillo-ceramico-portante-18x19x33",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 42475.45
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 44593.73
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 56881.25
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 61261.68
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-mamposteria-portante-de-ladrillo-ceramico-portante-18x19x33",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Mampostería portante de ladrillo cerámico portante 18x19x33",
+      "tags": [
+        "mampostería portante",
+        "ladrillo portante",
+        "muro de carga",
+        "retak"
+      ],
+      "text": "Muro portante de ladrillo cerámico portante de 18x19x33 cm de tubos verticales, tomado con mortero de cemento reforzado, con junta de 1,5 cm, aplomado y nivelado. Sin revoques. Medido por metro cuadrado de muro, descontando vanos. No confundir con el ladrillo hueco no portante de 18x18x33, que difiere en el alto y en la disposición de tabiques internos. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:15:59.121Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
     }
   ],
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

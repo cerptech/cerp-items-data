@@ -1,0 +1,25 @@
+{
+  "key": "revoques--interiores",
+  "rows": [
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "wi-ar-revoque-grueso-bajo-revestimiento",
+      "m": 5,
+      "p": 16228.13,
+      "s": "Revoque grueso bajo revestimiento",
+      "u": "m2"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "wi-ar-revoque-interior-completo-a-la-cal-grueso-y-fino",
+      "m": 5,
+      "p": 21099.5,
+      "s": "Revoque interior completo a la cal, grueso y fino",
+      "u": "m2"
+    }
+  ],
+  "title": "Revoques > Interiores",
+  "version": "0.5.0"
+}

@@ -380,6 +380,34 @@
       "u": "m2"
     },
     {
+      "g": [],
+      "id": "wi-pavimento-de-parquet-multicapa-de-roble-de-14-mm-colocado-fl",
+      "m": 4,
+      "s": "Pavimento de parquet multicapa de roble de 14 mm, colocado flotante",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-pavimento-de-parquet-multicapa-de-roble-de-14-mm-encolado",
+      "m": 4,
+      "s": "Pavimento de parquet multicapa de roble de 14 mm, encolado",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-pavimento-de-suelo-laminado-ac4-clase-32-de-8-mm-colocado-fl",
+      "m": 4,
+      "s": "Pavimento de suelo laminado AC4 clase 32 de 8 mm, colocado flotante",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-pavimento-de-suelo-laminado-ac5-clase-33-de-10-mm-colocado-f",
+      "m": 4,
+      "s": "Pavimento de suelo laminado AC5 clase 33 de 10 mm, colocado flotante",
+      "u": "m2"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-pavimento-deportivo-bicapa-3-5-mm-adhesivo",
@@ -911,6 +939,20 @@
       "u": "m2"
     },
     {
+      "g": [],
+      "id": "wi-revestimiento-de-microcemento-en-suelo-exterior-antideslizan",
+      "m": 9,
+      "s": "Revestimiento de microcemento en suelo exterior, antideslizante",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-revestimiento-de-microcemento-en-suelo-interior-2-3-mm-sobre",
+      "m": 10,
+      "s": "Revestimiento de microcemento en suelo interior, 2-3 mm, sobre soporte existente",
+      "u": "m2"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-rodapie-baldosas-ceramicas-10x20-cm-adhesivo",
@@ -1007,6 +1049,13 @@
       "m": 7,
       "p": 12.41,
       "s": "RODAPIÉ DE MADERA DE ROBLE EN TABLAS DE 60x15 mm",
+      "u": "m"
+    },
+    {
+      "g": [],
+      "id": "wi-rodapie-de-mdf-lacado-en-blanco-de-80x12-mm",
+      "m": 2,
+      "s": "Rodapié de MDF lacado en blanco de 80x12 mm",
       "u": "m"
     },
     {
@@ -2523,5 +2572,5 @@
     }
   ],
   "title": "Pavimentos",
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

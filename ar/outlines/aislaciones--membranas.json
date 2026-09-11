@@ -1,0 +1,48 @@
+{
+  "key": "aislaciones--membranas",
+  "rows": [
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-film-de-polietileno-de-200-micrones",
+      "m": 0,
+      "p": 444.63,
+      "s": "Film de polietileno de 200 micrones",
+      "u": "m2"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-imprimacion-asfaltica-en-balde-de-20-l",
+      "m": 0,
+      "p": 123206.61,
+      "s": "Imprimación asfáltica en balde de 20 l",
+      "u": "u"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-membrana-asfaltica-de-4-mm-con-terminacion-de-aluminio",
+      "m": 0,
+      "p": 5373.55,
+      "s": "Membrana asfáltica de 4 mm con terminación de aluminio",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "mt-ar-membrana-asfaltica-de-4-mm-con-terminacion-geotextil",
+      "m": 0,
+      "s": "Membrana asfáltica de 4 mm con terminación geotextil",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "mt-ar-membrana-liquida-acrilica-en-balde-de-20-kg",
+      "m": 0,
+      "s": "Membrana líquida acrílica en balde de 20 kg",
+      "u": "u"
+    }
+  ],
+  "title": "Aislaciones > Membranas",
+  "version": "0.5.0"
+}

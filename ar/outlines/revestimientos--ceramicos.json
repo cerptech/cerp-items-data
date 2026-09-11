@@ -1,0 +1,41 @@
+{
+  "key": "revestimientos--ceramicos",
+  "rows": [
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-revestimiento-ceramico-esmaltado-blanco-20x30-cm",
+      "m": 0,
+      "p": 19159.5,
+      "s": "Revestimiento cerámico esmaltado blanco 20x30 cm",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "mt-ar-tejuela-simil-ladrillo",
+      "m": 0,
+      "s": "Tejuela símil ladrillo",
+      "u": "m2"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "wi-ar-revestimiento-ceramico-esmaltado-20x30-cm",
+      "m": 5,
+      "p": 49185.8,
+      "s": "Revestimiento cerámico esmaltado 20x30 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "wi-ar-revestimiento-de-porcelanato-en-paramento",
+      "m": 5,
+      "p": 58298.1,
+      "s": "Revestimiento de porcelanato en paramento",
+      "u": "m2"
+    }
+  ],
+  "title": "Revestimientos > Cerámicos",
+  "version": "0.5.0"
+}

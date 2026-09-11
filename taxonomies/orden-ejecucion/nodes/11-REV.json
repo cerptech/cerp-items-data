@@ -578,6 +578,13 @@
       "u": "m"
     },
     {
+      "g": [],
+      "id": "wi-perfil-de-transicion-de-aluminio-anodizado-de-40-mm",
+      "m": 2,
+      "s": "Perfil de transición de aluminio anodizado de 40 mm",
+      "u": "m"
+    },
+    {
       "d": "2022-12",
       "g": [],
       "id": "wi-proteccion-spm-contact-200",
@@ -767,6 +774,20 @@
       "u": "m2"
     },
     {
+      "g": [],
+      "id": "wi-revestimiento-de-microcemento-en-paramento-vertical-interior",
+      "m": 9,
+      "s": "Revestimiento de microcemento en paramento vertical interior, 1-2 mm",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-revestimiento-de-microcemento-en-zona-humeda-con-barrera-ant",
+      "m": 9,
+      "s": "Revestimiento de microcemento en zona húmeda, con barrera antihumedad",
+      "u": "m2"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-revestimiento-exterior-red-polimerica",
@@ -921,5 +942,5 @@
     }
   ],
   "title": "Revestimientos continuos interiores",
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

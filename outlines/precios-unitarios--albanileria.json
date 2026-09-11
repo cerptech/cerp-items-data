@@ -1289,6 +1289,28 @@
       "u": "m2"
     },
     {
+      "g": [
+        "fabricas-de-bloques",
+        "huecos",
+        "arcilla-aligerada"
+      ],
+      "id": "wi-fabrica-de-bloque-de-arcilla-aligerada-rectificado-de-24-cm",
+      "m": 4,
+      "s": "Fábrica de bloque de arcilla aligerada rectificado de 24 cm con junta delgada",
+      "u": "m2"
+    },
+    {
+      "g": [
+        "fabricas-de-bloques",
+        "huecos",
+        "arcilla-aligerada"
+      ],
+      "id": "wi-fabrica-de-bloque-de-arcilla-aligerada-rectificado-de-29-cm",
+      "m": 4,
+      "s": "Fábrica de bloque de arcilla aligerada rectificado de 29 cm con junta delgada",
+      "u": "m2"
+    },
+    {
       "d": "2022-01",
       "g": [
         "fabricas-de-bloques",
@@ -4189,5 +4211,5 @@
     }
   ],
   "title": "Precios Unitarios > ALBAÑILERÍA",
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

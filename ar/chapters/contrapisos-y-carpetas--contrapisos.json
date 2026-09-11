@@ -1,0 +1,613 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Contrapisos y carpetas > Contrapisos",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.18,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.03,
+          "ref": "mt-ar-arena-gruesa-a-granel",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Contrapisos y carpetas",
+          "Contrapisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.574Z",
+      "id": "wi-ar-contrapiso-alivianado-con-esferas-de-poliestireno-expandido",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 16813.42
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 17798.47
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 23811.79
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 25465.12
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-contrapiso-alivianado-con-esferas-de-poliestireno-expandido",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Contrapiso alivianado con esferas de poliestireno expandido de 8 cm",
+      "tags": [
+        "contrapiso",
+        "alivianado",
+        "eps",
+        "poliestireno"
+      ],
+      "text": "Contrapiso alivianado de 8 cm de espesor con esferas de poliestireno expandido, sobre losa, para reducción de carga y mejora de la aislación térmica. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. No se localizó rendimiento de mano de obra en ninguna fuente pública argentina para esta partida: no se carga mano de obra hasta conseguirlo. Ningún organismo público argentino publica rendimientos (los pliegos fijan la forma de medición, pero el análisis de precio lo presenta el oferente). RENDIMIENTO INCORPORADO EN SEPTIEMBRE DE 2026. Rendimiento de mano de obra transcripto de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán, de descarga libre. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes, y usa sólo las categorías Oficial y Ayudante, sin medio oficial. Nivel de verificación cross-check-secundario, pendiente de contraste. RENDIMIENTO DECLARADO COMO APROXIMACIÓN: la fuente no tiene contrapiso alivianado, así que se aplicó el de \"Contrapisos — Hormigón de ripio bruto de 7 cm\", que es el espesor más cercano a los 8 cm de esta partida y la misma tarea de extendido y nivelado. El alivianado es más liviano de manipular, de modo que el valor queda del lado conservador. Pendiente de contraste.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:15:59.061Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.9,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.53,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.06,
+          "ref": "mt-ar-arena-gruesa-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.09,
+          "ref": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.0833,
+          "ref": "mt-ar-malla-electrosoldada-q188-en-pano-de-2-40-x-6-00-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.02,
+          "ref": "mq-ar-hormigonera-de-130-litros-en-alquiler",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Contrapisos y carpetas",
+          "Contrapisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.574Z",
+      "id": "wi-ar-contrapiso-de-hormigon-armado-con-malla-q188-de-12-cm-elabor",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 36690.46
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 38209.59
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 47444.64
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 50043.98
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-contrapiso-de-hormigon-armado-con-malla-q188-de-12-cm-elabor",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Contrapiso de hormigón armado con malla Q188 de 12 cm elaborado en obra",
+      "tags": [
+        "contrapiso",
+        "armado",
+        "malla",
+        "q188"
+      ],
+      "text": "Contrapiso de hormigón armado de 12 cm de espesor con malla electrosoldada Q188, ejecutado con hormigón preparado en obra sobre terreno compactado. Es la alternativa costeable a la partida hermana que usa hormigón elaborado de planta, que sigue sin precio porque ninguna hormigonera del AMBA lo cotiza en público. Medido por metro cuadrado de contrapiso ejecutado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. El consumo de 0,0833 paños de malla por metro cuadrado sale del paño de 2,40 x 6,00 m, que rinde 14,4 metros cuadrados. Rendimiento de mano de obra transcripto de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán, de descarga libre. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes, y usa sólo las categorías Oficial y Ayudante, sin medio oficial. Nivel de verificación cross-check-secundario, pendiente de contraste. Corresponde al ítem \"Contrapisos — Hormigón de ripio bruto de 10 cm\", escalado al espesor de 12 cm.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:15:59.062Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.125,
+          "ref": "mt-ar-hormigon-elaborado-h-17-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.085,
+          "ref": "mt-ar-malla-de-acero-soldada-q92-en-pano-de-2-15-x-6-00-m",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Contrapisos y carpetas",
+          "Contrapisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.574Z",
+      "id": "wi-ar-contrapiso-de-hormigon-armado-con-malla-q92-de-12-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 34846.04
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 36151.85
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 43672.11
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 46442.1
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-contrapiso-de-hormigon-armado-con-malla-q92-de-12-cm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Contrapiso de hormigón armado con malla Q92 de 12 cm",
+      "tags": [
+        "contrapiso",
+        "armado",
+        "malla",
+        "q92"
+      ],
+      "text": "Contrapiso de hormigón armado de 12 cm de espesor con malla de acero soldada Q92, sobre suelo compactado, incluidos nivelación, reglado y curado. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:15:59.064Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.09,
+          "ref": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.035,
+          "ref": "mt-ar-arena-gruesa-a-granel",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Contrapisos y carpetas",
+          "Contrapisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.574Z",
+      "id": "wi-ar-contrapiso-de-hormigon-de-cascote-sobre-losa-de-8-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 21444.84
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 22643.99
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 29306.85
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 32162.18
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-contrapiso-de-hormigon-de-cascote-sobre-losa-de-8-cm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Contrapiso de hormigón de cascote sobre losa de 8 cm",
+      "tags": [
+        "contrapiso",
+        "cascote",
+        "losa"
+      ],
+      "text": "Contrapiso de hormigón de cascote de 8 cm de espesor sobre losa, incluidos nivelación y reglado, para recibir carpeta y solado. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:15:59.066Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.36,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.44,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.13,
+          "ref": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.9,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.05,
+          "ref": "mt-ar-arena-gruesa-a-granel",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Contrapisos y carpetas",
+          "Contrapisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.574Z",
+      "id": "wi-ar-contrapiso-de-hormigon-de-cascote-sobre-terreno-natural-de-1",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 25055.62
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 26093.88
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 32138.19
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 34257.56
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-contrapiso-de-hormigon-de-cascote-sobre-terreno-natural-de-1",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Contrapiso de hormigón de cascote sobre terreno natural de 12 cm",
+      "tags": [
+        "contrapiso",
+        "cascote",
+        "terreno natural"
+      ],
+      "text": "Contrapiso de hormigón de cascote de 12 cm de espesor sobre terreno natural compactado, incluidos nivelación y reglado. Medido por metro cuadrado de superficie ejecutada. En Argentina se dice \"contrapiso\", no \"solera\". La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:15:59.068Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.5.0"
+}

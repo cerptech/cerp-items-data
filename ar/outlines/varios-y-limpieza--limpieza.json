@@ -1,0 +1,21 @@
+{
+  "key": "varios-y-limpieza--limpieza",
+  "rows": [
+    {
+      "g": [],
+      "id": "wi-ar-limpieza-final-de-obra",
+      "m": 0,
+      "s": "Limpieza final de obra",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-ar-limpieza-periodica-de-obra",
+      "m": 0,
+      "s": "Limpieza periódica de obra",
+      "u": "mes"
+    }
+  ],
+  "title": "Varios y limpieza > Limpieza",
+  "version": "0.5.0"
+}

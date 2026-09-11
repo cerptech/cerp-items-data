@@ -1,0 +1,84 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Estructura de hormigón armado > Encofrados",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.12,
+          "ref": "mt-ar-placa-de-fenolico-de-18-mm-de-1-22-x-2-44-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mt-ar-puntal-metalico-extensible-de-1-80-a-3-20-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.004,
+          "ref": "mt-ar-desmoldante-para-encofrado-en-bidon-de-20-l",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado",
+          "Encofrados"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.574Z",
+      "id": "wi-ar-encofrado-de-fenolico-de-18-mm-para-estructura",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 14541.38
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-encofrado-de-fenolico-de-18-mm-para-estructura",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Encofrado de fenólico de 18 mm para estructura",
+      "tags": [
+        "encofrado",
+        "fenólico",
+        "apuntalamiento"
+      ],
+      "text": "Encofrado con placa de fenólico de 18 mm, incluidos armado, apuntalamiento con puntales metálicos, aplicación de desmoldante, desencofrado y limpieza. Medido por metro cuadrado de superficie de contacto con el hormigón. Se acuña como partida independiente para los itemizados que abren la estructura en tres (hormigón, armadura y encofrado); en el itemizado corriente de vivienda va incorporada al metro cúbico de hormigón armado. No se localizó rendimiento de mano de obra en ninguna fuente pública argentina para esta partida: no se carga mano de obra hasta conseguirlo. Ningún organismo público argentino publica rendimientos (los pliegos fijan la forma de medición, pero el análisis de precio lo presenta el oferente).",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:15:59.082Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.5.0"
+}

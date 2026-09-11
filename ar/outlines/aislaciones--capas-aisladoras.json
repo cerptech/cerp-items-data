@@ -1,0 +1,34 @@
+{
+  "key": "aislaciones--capas-aisladoras",
+  "rows": [
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "wi-ar-azotado-hidrofugo-vertical",
+      "m": 3,
+      "p": 8030.22,
+      "s": "Azotado hidrófugo vertical",
+      "u": "m2"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "wi-ar-capa-aisladora-horizontal-con-film-de-polietileno",
+      "m": 3,
+      "p": 2022.72,
+      "s": "Capa aisladora horizontal con film de polietileno",
+      "u": "m2"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "wi-ar-capa-aisladora-tipo-cajon-en-primera-hilada",
+      "m": 3,
+      "p": 10906.31,
+      "s": "Capa aisladora tipo cajón en primera hilada",
+      "u": "m"
+    }
+  ],
+  "title": "Aislaciones > Capas aisladoras",
+  "version": "0.5.0"
+}

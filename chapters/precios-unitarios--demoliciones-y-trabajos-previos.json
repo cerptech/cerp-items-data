@@ -4179,7 +4179,7 @@
         {
           "currency": "EUR",
           "date": "2022-12",
-          "edition": "2026-08",
+          "edition": "2026-09",
           "kind": "computed_from_bom",
           "scope": {
             "country": "ES"
@@ -4206,7 +4206,7 @@
       "summary": "DEMOLICIÓN DE PARTICIÓN INTERIOR DE TABIQUE L/HUECO SENCILLO",
       "text": "Demolición de partición interior de tabique de ladrillo hueco sencillo, con medios manuales, incluso revestimientos continuos, delcolgado de carpintería, desmontado de cerco. p.p. de instalaciones, alicatados, carga mecánica y transporte de material sobrante a vertedero. Medida la superfice inicial deduciendo huecos. Corrección CERP (2026-08, incidente Cresata): la BCCA 2024-01 imputaba 1 h completa de pala cargadora, 1 h de camión basculante y 1 h de peón por cada m² demolido (95,67 €/m²). Rendimientos adaptados de la partida hermana de la propia BCCA \"demolición de partición interior de tabicón de l/gafa sencillo\" (peón 0,405 / pala 0,014 / camión 0,004 h/m²; el tabique hueco sencillo es más ligero, así que el valor es conservador). El precio de lista derivado se suprime; el vigente es el computado desde la descomposición corregida (cli compute).",
       "unit": "m2",
-      "updatedAt": "2026-08-17T17:37:32.310Z",
+      "updatedAt": "2026-09-08T09:13:49.044Z",
       "verification": {
         "findings": [
           "stale_edition-e3ad3fa6a2df9ae1"
@@ -5325,7 +5325,7 @@
         {
           "currency": "EUR",
           "date": "2022-12",
-          "edition": "2026-08",
+          "edition": "2026-09",
           "kind": "computed_from_bom",
           "scope": {
             "country": "ES"
@@ -5352,7 +5352,7 @@
       "summary": "DEMOLICIÓN DE TABIQUE DE L/ HUECO SENCILLO, C. MANUAL, T. VERT.",
       "text": "Demolición de tabique de ladrillo hueco sencillo con medios manuales, incluso carga manual y transporte de material sobrante a vertedero. Medida la superfice inicial deduciendo huecos. Corrección CERP (2026-08, incidente Cresata): la BCCA 2024-01 imputaba 1 h completa de camión basculante y 1 h de peón por cada m² demolido (60,13 €/m² — un camión entero por m² de tabique). Rendimientos adaptados de las partidas hermanas de la propia BCCA: peón 0,27 h/m² (demolición selectiva de tabique hueco sencillo) y camión 0,03 h/m² (demolición de doble tabique a la capuchina). El precio de lista derivado se suprime; el vigente es el computado desde la descomposición corregida (cli compute).",
       "unit": "m2",
-      "updatedAt": "2026-08-17T17:37:32.326Z",
+      "updatedAt": "2026-09-08T09:13:49.045Z",
       "verification": {
         "findings": [
           "stale_edition-62aaabf2aeab9ecc"
@@ -5399,7 +5399,7 @@
         {
           "currency": "EUR",
           "date": "2022-12",
-          "edition": "2026-08",
+          "edition": "2026-09",
           "kind": "computed_from_bom",
           "scope": {
             "country": "ES"
@@ -5426,7 +5426,7 @@
       "summary": "DEMOLICIÓN DE TABIQUE DE L/HUECO SENCILLO, C. MECÁNICA, T. VERT.",
       "text": "Demolición de tabique de ladrillo hueco sencillo con medios manuales, incluso carga mecánica y transporte de material sobrante a vertedero. Medida la superficie inicial deduciendo huecos. Corrección CERP (2026-08, incidente Cresata): la BCCA 2024-01 imputaba 1 h completa de pala cargadora, 1 h de camión basculante y 1 h de peón por cada m² demolido (95,67 €/m²). Rendimientos adaptados de las partidas hermanas de la propia BCCA: peón 0,27 h/m² (demolición selectiva de tabique hueco sencillo) y pala 0,003 / camión 0,01 h/m² (demolición de tabicón de ladrillo, c. mecánica, t. vertedero). El precio de lista derivado se suprime; el vigente es el computado desde la descomposición corregida (cli compute).",
       "unit": "m2",
-      "updatedAt": "2026-08-17T17:37:32.334Z",
+      "updatedAt": "2026-09-08T09:13:49.047Z",
       "verification": {
         "findings": [
           "stale_edition-2e76309b2e63f29a"
@@ -31310,5 +31310,5 @@
       }
     }
   ],
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

@@ -1047,6 +1047,51 @@
       "u": "u"
     },
     {
+      "g": [
+        "continuos"
+      ],
+      "id": "mt-malla-de-refuerzo-de-fibra-de-vidrio-para-microcemento-58-g",
+      "m": 0,
+      "s": "Malla de refuerzo de fibra de vidrio para microcemento, 58 g/m2",
+      "u": "m2"
+    },
+    {
+      "g": [
+        "continuos"
+      ],
+      "id": "mt-microcemento-de-acabado-de-granulometria-gruesa-para-exterio",
+      "m": 0,
+      "s": "Microcemento de acabado de granulometría gruesa para exteriores",
+      "u": "kg"
+    },
+    {
+      "g": [
+        "continuos"
+      ],
+      "id": "mt-microcemento-de-acabado-fino-para-paramentos-verticales",
+      "m": 0,
+      "s": "Microcemento de acabado fino para paramentos verticales",
+      "u": "kg"
+    },
+    {
+      "g": [
+        "continuos"
+      ],
+      "id": "mt-microcemento-de-acabado-para-pavimentos",
+      "m": 0,
+      "s": "Microcemento de acabado para pavimentos",
+      "u": "kg"
+    },
+    {
+      "g": [
+        "continuos"
+      ],
+      "id": "mt-microcemento-de-base-o-preparacion",
+      "m": 0,
+      "s": "Microcemento de base o preparación",
+      "u": "kg"
+    },
+    {
       "d": "2022-12",
       "g": [
         "continuos"
@@ -3170,6 +3215,15 @@
       "u": "m"
     },
     {
+      "g": [
+        "suelos"
+      ],
+      "id": "mt-lamina-base-de-espuma-de-polietileno-de-3-mm-con-barrera-ant",
+      "m": 0,
+      "s": "Lámina base de espuma de polietileno de 3 mm con barrera antihumedad",
+      "u": "m2"
+    },
+    {
       "d": "2017-07",
       "g": [
         "suelos"
@@ -3200,6 +3254,15 @@
       "m": 0,
       "p": 27.19,
       "s": "PARQUE MOSAICO ROBLE",
+      "u": "m2"
+    },
+    {
+      "g": [
+        "suelos"
+      ],
+      "id": "mt-parquet-multicapa-de-roble-de-14-mm-con-capa-noble-de-3-mm",
+      "m": 0,
+      "s": "Parquet multicapa de roble de 14 mm con capa noble de 3 mm",
       "u": "m2"
     },
     {
@@ -3376,6 +3439,15 @@
       "m": 0,
       "p": 3.05,
       "s": "RODAPIÉ CORCHO BARNIZADO 7 cm",
+      "u": "m"
+    },
+    {
+      "g": [
+        "suelos"
+      ],
+      "id": "mt-rodapie-de-mdf-lacado-en-blanco-de-80x12-mm",
+      "m": 0,
+      "s": "Rodapié de MDF lacado en blanco de 80x12 mm",
       "u": "m"
     },
     {
@@ -3860,6 +3932,24 @@
       "m": 0,
       "p": 69.38,
       "s": "SUELO ELEVADO REGISTRABLE PVC",
+      "u": "m2"
+    },
+    {
+      "g": [
+        "suelos"
+      ],
+      "id": "mt-suelo-laminado-ac4-clase-32-de-8-mm",
+      "m": 0,
+      "s": "Suelo laminado AC4 clase 32, de 8 mm",
+      "u": "m2"
+    },
+    {
+      "g": [
+        "suelos"
+      ],
+      "id": "mt-suelo-laminado-ac5-clase-33-de-10-mm",
+      "m": 0,
+      "s": "Suelo laminado AC5 clase 33, de 10 mm",
       "u": "m2"
     },
     {
@@ -5304,6 +5394,24 @@
       "u": "u"
     },
     {
+      "g": [
+        "varios"
+      ],
+      "id": "mt-malla-abrasiva-de-lijado-para-microcemento",
+      "m": 0,
+      "s": "Malla abrasiva de lijado para microcemento",
+      "u": "u"
+    },
+    {
+      "g": [
+        "varios"
+      ],
+      "id": "mt-perfil-de-transicion-de-aluminio-anodizado-de-40-mm",
+      "m": 0,
+      "s": "Perfil de transición de aluminio anodizado de 40 mm",
+      "u": "m"
+    },
+    {
       "d": "2021-12",
       "g": [
         "varios"
@@ -5536,5 +5644,5 @@
     }
   ],
   "title": "Precios Básicos > REVESTIMIENTOS",
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

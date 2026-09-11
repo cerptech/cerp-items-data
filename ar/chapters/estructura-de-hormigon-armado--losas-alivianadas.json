@@ -1,0 +1,288 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Estructura de hormigón armado > Losas alivianadas",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.5,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.1,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.525,
+          "ref": "mt-ar-vigueta-pretensada-de-hormigon-para-losa-en-pieza-de-4-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-bloque-de-poliestireno-expandido-para-losa-de-12-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.0833,
+          "ref": "mt-ar-malla-electrosoldada-q131-en-pano-de-2-40-x-6-00-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.44,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.03,
+          "ref": "mt-ar-arena-gruesa-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.05,
+          "ref": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado",
+          "Losas alivianadas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.575Z",
+      "id": "wi-ar-losa-alivianada-de-viguetas-pretensadas-y-bloque-de-poliesti",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 95643.54
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 102908.24
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 145232.41
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 160019.72
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-losa-alivianada-de-viguetas-pretensadas-y-bloque-de-poliesti",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Losa alivianada de viguetas pretensadas y bloque de poliestireno para luz de hasta 4 m",
+      "tags": [
+        "losa",
+        "alivianada",
+        "vigueta",
+        "telgopor"
+      ],
+      "text": "Losa alivianada de viguetas pretensadas de hormigón con relleno de bloque de poliestireno expandido de 12 cm y capa de compresión con malla electrosoldada, para luz de hasta 4,00 m. Es la variante liviana del sistema de entrepiso más usado en Argentina: el bloque de poliestireno pesa una fracción del ladrillo cerámico y mejora el comportamiento térmico, a cambio de no aportar rigidez. Medida por metro cuadrado de losa ejecutada; no incluye apuntalamiento ni encofrado de borde. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. El consumo de 2 bloques por metro cuadrado es el que declaran los fabricantes para el bloque de 1,00 x 0,42 m. Rendimiento de mano de obra y consumo de vigueta y malla transcriptos del ítem 3.8 del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, julio 2025), con las mismas dos salvedades que la partida hermana de ladrillo cerámico: la fuente rotula el ítem en metros cúbicos por arrastre del encabezado del rubro pero sus insumos son por metro cuadrado, y no declara la procedencia metodológica de sus rendimientos. Vale también el mismo control de coherencia: la mano de obra queda alta para una losa alivianada, así que tratá el precio como un techo hasta verificar la unidad en el PDF original.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:15:59.111Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.5,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.1,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.525,
+          "ref": "mt-ar-vigueta-pretensada-de-hormigon-para-losa-en-pieza-de-4-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 8,
+          "ref": "mt-ar-ladrillo-ceramico-para-losa-alivianada-de-16-5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.0833,
+          "ref": "mt-ar-malla-electrosoldada-q131-en-pano-de-2-40-x-6-00-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.44,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.03,
+          "ref": "mt-ar-arena-gruesa-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.05,
+          "ref": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado",
+          "Losas alivianadas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.575Z",
+      "id": "wi-ar-losa-alivianada-de-viguetas-pretensadas-y-ladrillo-ceramico",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 105402.24
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 112666.94
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 154991.11
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 169778.42
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-losa-alivianada-de-viguetas-pretensadas-y-ladrillo-ceramico",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Losa alivianada de viguetas pretensadas y ladrillo cerámico para luz de hasta 4 m",
+      "tags": [
+        "losa",
+        "alivianada",
+        "vigueta",
+        "bovedilla"
+      ],
+      "text": "Losa alivianada de viguetas pretensadas de hormigón con relleno de ladrillo cerámico y capa de compresión con malla electrosoldada, para luz de hasta 4,00 m. Es el sistema de entrepiso más usado en Argentina. Medida por metro cuadrado de superficie de losa ejecutada; no incluye apuntalamiento ni encofrado de borde. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Consumos y rendimiento transcriptos del ítem 3.8 \"Hormigón armado para losa alivianada con viguetas\" del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, julio 2025, descarga libre): 2,10 m de vigueta, 8 unidades de bovedilla, 1,20 m2 de malla Q131, 22 kg de cemento, 0,03 m3 de arena y 0,05 m3 de ripio, con 2,50 h de oficial y 3,10 h de ayudante. DOS SALVEDADES DECLARADAS. Primera: la planilla de la fuente rotula el ítem en metros cúbicos por arrastre del encabezado del rubro, pero sus insumos son inequívocamente por metro cuadrado (8 bovedillas y 1,20 m2 de malla por unidad), y así se interpretó; conviene verificarlo a mano en el PDF original. Segunda: la fuente usa bovedilla de 12,5x40x25, formato de plaza salteña; acá se sustituyó por el ladrillo cerámico de 16,5 cm, que es el estándar del AMBA, manteniendo el consumo de 8 unidades por metro cuadrado. El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. CONTROL DE COHERENCIA QUE CONVIENE MIRAR ANTES DE USARLA: con el rendimiento transcripto, la mano de obra representa alrededor del 61 % del precio de la partida, proporción muy alta para una losa alivianada, donde lo habitual es que manden los materiales. Es exactamente el síntoma que se esperaría si el rendimiento de la fuente estuviera expresado por metro cúbico de hormigón y no por metro cuadrado de losa. Mientras la unidad no se verifique a mano en el PDF original, tratá el precio de esta partida como un techo y no como un valor cerrado.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:15:59.113Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.5.0"
+}

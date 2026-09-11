@@ -1,0 +1,41 @@
+{
+  "key": "aridos-y-aglomerantes--aridos",
+  "rows": [
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-arena-gruesa-a-granel",
+      "m": 0,
+      "p": 42249.59,
+      "s": "Arena gruesa a granel",
+      "u": "m3"
+    },
+    {
+      "g": [],
+      "id": "mt-ar-canto-rodado-a-granel",
+      "m": 0,
+      "s": "Canto rodado a granel",
+      "u": "m3"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
+      "m": 0,
+      "p": 26158.68,
+      "s": "Cascote de ladrillo triturado a granel",
+      "u": "m3"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-suelo-seleccionado-para-relleno-a-granel",
+      "m": 0,
+      "p": 27770.25,
+      "s": "Suelo seleccionado para relleno a granel",
+      "u": "m3"
+    }
+  ],
+  "title": "Áridos y aglomerantes > Áridos",
+  "version": "0.5.0"
+}

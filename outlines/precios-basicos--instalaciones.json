@@ -9726,6 +9726,42 @@
       "u": "u"
     },
     {
+      "g": [
+        "electricas"
+      ],
+      "id": "mt-acoplador-de-linea-y-area-knx-con-separacion-galvanica-carri",
+      "m": 0,
+      "s": "Acoplador de línea y área KNX con separación galvánica, carril DIN",
+      "u": "u"
+    },
+    {
+      "g": [
+        "electricas"
+      ],
+      "id": "mt-actuador-de-conmutacion-knx-de-8-salidas-16-a-carril-din",
+      "m": 0,
+      "s": "Actuador de conmutación KNX de 8 salidas, 16 A, carril DIN",
+      "u": "u"
+    },
+    {
+      "g": [
+        "electricas"
+      ],
+      "id": "mt-actuador-de-persianas-knx-de-4-salidas-230-v-c-a-carril-din",
+      "m": 0,
+      "s": "Actuador de persianas KNX de 4 salidas, 230 V c.a., carril DIN",
+      "u": "u"
+    },
+    {
+      "g": [
+        "electricas"
+      ],
+      "id": "mt-actuador-regulador-knx-universal-de-4-salidas-carril-din",
+      "m": 0,
+      "s": "Actuador regulador KNX universal de 4 salidas, carril DIN",
+      "u": "u"
+    },
+    {
       "d": "2021-12",
       "g": [
         "electricas"
@@ -10012,6 +10048,15 @@
       "u": "u"
     },
     {
+      "g": [
+        "electricas"
+      ],
+      "id": "mt-borne-de-conexion-de-bus-knx",
+      "m": 0,
+      "s": "Borne de conexión de bus KNX",
+      "u": "u"
+    },
+    {
       "d": "2022-12",
       "g": [
         "electricas"
@@ -10284,6 +10329,15 @@
       "m": 0,
       "p": 2.14,
       "s": "CABLE COBREAPANTALLADO 2x1,5 mm2 LiYCY",
+      "u": "m"
+    },
+    {
+      "g": [
+        "electricas"
+      ],
+      "id": "mt-cable-de-bus-knx-2x2x0-8-mm-apantallado-libre-de-halogenos",
+      "m": 0,
+      "s": "Cable de bus KNX 2x2x0,8 mm apantallado libre de halógenos",
       "u": "m"
     },
     {
@@ -10771,6 +10825,24 @@
       "u": "u"
     },
     {
+      "g": [
+        "electricas"
+      ],
+      "id": "mt-detector-de-inundacion-con-sonda-y-contacto-libre-de-potenci",
+      "m": 0,
+      "s": "Detector de inundación con sonda y contacto libre de potencial",
+      "u": "u"
+    },
+    {
+      "g": [
+        "electricas"
+      ],
+      "id": "mt-detector-de-presencia-knx-de-techo-con-sensor-de-luminosidad",
+      "m": 0,
+      "s": "Detector de presencia KNX de techo con sensor de luminosidad",
+      "u": "u"
+    },
+    {
       "d": "2022-12",
       "g": [
         "electricas"
@@ -10782,6 +10854,24 @@
       "u": "u"
     },
     {
+      "g": [
+        "electricas"
+      ],
+      "id": "mt-entrada-binaria-knx-de-4-canales-carril-din",
+      "m": 0,
+      "s": "Entrada binaria KNX de 4 canales, carril DIN",
+      "u": "u"
+    },
+    {
+      "g": [
+        "electricas"
+      ],
+      "id": "mt-fuente-de-alimentacion-knx-de-640-ma-con-bobina-30-v-c-c-car",
+      "m": 0,
+      "s": "Fuente de alimentación KNX de 640 mA con bobina, 30 V c.c., carril DIN",
+      "u": "u"
+    },
+    {
       "d": "2021-12",
       "g": [
         "electricas"
@@ -10790,6 +10880,15 @@
       "m": 0,
       "p": 3.12,
       "s": "FUSIBLE CARTUCHO 50 AMP. S/CARTUCHO",
+      "u": "u"
+    },
+    {
+      "g": [
+        "electricas"
+      ],
+      "id": "mt-interfaz-usb-knx-de-puesta-en-marcha-carril-din",
+      "m": 0,
+      "s": "Interfaz USB-KNX de puesta en marcha, carril DIN",
       "u": "u"
     },
     {
@@ -11530,6 +11629,15 @@
       "u": "u"
     },
     {
+      "g": [
+        "electricas"
+      ],
+      "id": "mt-pantalla-tactil-de-control-knx-a-color-para-empotrar",
+      "m": 0,
+      "s": "Pantalla táctil de control KNX a color para empotrar",
+      "u": "u"
+    },
+    {
       "d": "2022-12",
       "g": [
         "electricas"
@@ -11618,6 +11726,15 @@
       "u": "u"
     },
     {
+      "g": [
+        "electricas"
+      ],
+      "id": "mt-pulsador-knx-de-2-canales-con-acoplador-al-bus-integrado",
+      "m": 0,
+      "s": "Pulsador KNX de 2 canales con acoplador al bus integrado",
+      "u": "u"
+    },
+    {
       "d": "2022-12",
       "g": [
         "electricas"
@@ -11673,6 +11790,15 @@
       "u": "u"
     },
     {
+      "g": [
+        "electricas"
+      ],
+      "id": "mt-router-ip-knx-knxnet-ip-carril-din",
+      "m": 0,
+      "s": "Router IP KNX (KNXnet/IP), carril DIN",
+      "u": "u"
+    },
+    {
       "d": "2022-12",
       "g": [
         "electricas"
@@ -11684,6 +11810,15 @@
       "u": "u"
     },
     {
+      "g": [
+        "electricas"
+      ],
+      "id": "mt-sonda-de-temperatura-ambiente-knx-para-empotrar",
+      "m": 0,
+      "s": "Sonda de temperatura ambiente KNX para empotrar",
+      "u": "u"
+    },
+    {
       "d": "2021-12",
       "g": [
         "electricas"
@@ -11692,6 +11827,15 @@
       "m": 0,
       "p": 8.41,
       "s": "TABLERO AISLANTE",
+      "u": "u"
+    },
+    {
+      "g": [
+        "electricas"
+      ],
+      "id": "mt-termostato-knx-de-ambiente-con-display-para-empotrar",
+      "m": 0,
+      "s": "Termostato KNX de ambiente con display para empotrar",
       "u": "u"
     },
     {
@@ -15168,6 +15312,15 @@
       "m": 0,
       "p": 11.75,
       "s": "DUCHA TELEFONO FLEX. CROMADO CAL. MED. 1,50 m",
+      "u": "u"
+    },
+    {
+      "g": [
+        "fontaneria"
+      ],
+      "id": "mt-electrovalvula-de-corte-de-agua-de-3-4-230-v-normalmente-abi",
+      "m": 0,
+      "s": "Electroválvula de corte de agua de 3/4\", 230 V, normalmente abierta",
       "u": "u"
     },
     {
@@ -19835,6 +19988,15 @@
       "u": "u"
     },
     {
+      "g": [
+        "proteccion"
+      ],
+      "id": "mt-aislador-de-cortocircuito-de-lazo-direccionable",
+      "m": 0,
+      "s": "Aislador de cortocircuito de lazo direccionable",
+      "u": "u"
+    },
+    {
       "d": "2021-12",
       "g": [
         "proteccion"
@@ -20075,6 +20237,15 @@
       "p": 104.2,
       "s": "CABEZA DE PUNTAS",
       "u": "u"
+    },
+    {
+      "g": [
+        "proteccion"
+      ],
+      "id": "mt-cable-apantallado-resistente-al-fuego-2x1-5-mm2-ph-120-cca-s",
+      "m": 0,
+      "s": "Cable apantallado resistente al fuego 2x1,5 mm2, PH 120, Cca-s1b,d1,a1",
+      "u": "m"
     },
     {
       "d": "2021-12",
@@ -20407,6 +20578,15 @@
       "u": "u"
     },
     {
+      "g": [
+        "proteccion"
+      ],
+      "id": "mt-detector-multicriterio-optico-termico-direccionable-con-zoca",
+      "m": 0,
+      "s": "Detector multicriterio óptico-térmico direccionable, con zócalo",
+      "u": "u"
+    },
+    {
       "d": "2021-12",
       "g": [
         "proteccion"
@@ -20415,6 +20595,15 @@
       "m": 0,
       "p": 53.92,
       "s": "DETECTOR ÓPTICO DE HUMO",
+      "u": "u"
+    },
+    {
+      "g": [
+        "proteccion"
+      ],
+      "id": "mt-detector-optico-de-humos-direccionable-analogico-con-zocalo",
+      "m": 0,
+      "s": "Detector óptico de humos direccionable analógico, con zócalo",
       "u": "u"
     },
     {
@@ -21143,6 +21332,15 @@
       "u": "u"
     },
     {
+      "g": [
+        "proteccion"
+      ],
+      "id": "mt-modulo-direccionable-de-entrada-supervisada-y-salida-de-rele",
+      "m": 0,
+      "s": "Módulo direccionable de entrada supervisada y salida de relé",
+      "u": "u"
+    },
+    {
       "d": "2021-12",
       "g": [
         "proteccion"
@@ -21294,6 +21492,15 @@
       "m": 0,
       "p": 34.61,
       "s": "PULSADOR DE ALARMA IDENTIFICABLE",
+      "u": "u"
+    },
+    {
+      "g": [
+        "proteccion"
+      ],
+      "id": "mt-pulsador-de-alarma-manual-direccionable-rearmable-tipo-a",
+      "m": 0,
+      "s": "Pulsador de alarma manual direccionable rearmable, tipo A",
       "u": "u"
     },
     {
@@ -21591,6 +21798,15 @@
       "m": 0,
       "p": 14.95,
       "s": "ROTULO SALIDA, DIM 420X297 MM",
+      "u": "u"
+    },
+    {
+      "g": [
+        "proteccion"
+      ],
+      "id": "mt-sirena-optico-acustica-direccionable-de-exterior-ip66",
+      "m": 0,
+      "s": "Sirena óptico-acústica direccionable de exterior IP66",
       "u": "u"
     },
     {
@@ -23025,5 +23241,5 @@
     }
   ],
   "title": "Precios Básicos > INSTALACIONES",
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

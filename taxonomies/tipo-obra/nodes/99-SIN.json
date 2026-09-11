@@ -713,6 +713,20 @@
       "u": "m2"
     },
     {
+      "g": [],
+      "id": "wi-actuador-de-conmutacion-knx-de-8-salidas-instalado-en-cuadro",
+      "m": 3,
+      "s": "Actuador de conmutación KNX de 8 salidas instalado en cuadro",
+      "u": "u"
+    },
+    {
+      "g": [],
+      "id": "wi-actuador-de-persianas-knx-de-4-salidas-instalado-en-cuadro",
+      "m": 3,
+      "s": "Actuador de persianas KNX de 4 salidas instalado en cuadro",
+      "u": "u"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-actuador-motorizado-para-compuerta-hasta-0-20-m2",
@@ -728,6 +742,13 @@
       "m": 4,
       "p": 297.93,
       "s": "ACTUADOR MOTORIZADO ROTATIVO, PARA COMPUERTA",
+      "u": "u"
+    },
+    {
+      "g": [],
+      "id": "wi-actuador-regulador-knx-universal-de-4-salidas-instalado-en-c",
+      "m": 3,
+      "s": "Actuador regulador KNX universal de 4 salidas instalado en cuadro",
       "u": "u"
     },
     {
@@ -873,6 +894,13 @@
       "p": 8.52,
       "s": "AISL. PAREDES PANEL SEMIRRÍG. LANA MINERAL + P. KRAFF 80 mm",
       "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-aislador-de-cortocircuito-de-lazo-direccionable-instalado",
+      "m": 2,
+      "s": "Aislador de cortocircuito de lazo direccionable, instalado",
+      "u": "u"
     },
     {
       "d": "2021-12",
@@ -1512,6 +1540,13 @@
       "p": 18.41,
       "s": "AISLAMIENTO TECHOS PLANCHAS RÍGIDAS POLIEST. EXTRUS. 30 mm",
       "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-alarma-tecnica-de-inundacion-knx-con-corte-automatico-de-agu",
+      "m": 5,
+      "s": "Alarma técnica de inundación KNX con corte automático de agua",
+      "u": "u"
     },
     {
       "d": "2021-12",
@@ -11207,6 +11242,20 @@
       "u": "m"
     },
     {
+      "g": [],
+      "id": "wi-corte-de-humedad-por-capilaridad-en-muro-de-medio-pie-median",
+      "m": 3,
+      "s": "Corte de humedad por capilaridad en muro de medio pie mediante inyección de crema de silanos",
+      "u": "m"
+    },
+    {
+      "g": [],
+      "id": "wi-corte-de-humedad-por-capilaridad-en-muro-de-un-pie-mediante",
+      "m": 3,
+      "s": "Corte de humedad por capilaridad en muro de un pie mediante inyección de crema de silanos",
+      "u": "m"
+    },
+    {
       "d": "2022-01",
       "g": [],
       "id": "wi-corte-en-pendiente-fachada-ventilada",
@@ -11259,6 +11308,20 @@
       "p": 109.94,
       "s": "CUADRO MANDO Y CONTROL VENTILOC. CON TERMOSTATO",
       "u": "u"
+    },
+    {
+      "g": [],
+      "id": "wi-cubierta-plana-ajardinada-extensiva-con-lamina-antirraices-y",
+      "m": 10,
+      "s": "Cubierta plana ajardinada extensiva con lámina antirraíces y sedum",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-cubierta-plana-invertida-no-transitable-con-acabado-de-grava",
+      "m": 8,
+      "s": "Cubierta plana invertida no transitable con acabado de grava y XPS de 100 mm",
+      "u": "m2"
     },
     {
       "d": "2021-12",
@@ -11810,6 +11873,13 @@
       "u": "u"
     },
     {
+      "g": [],
+      "id": "wi-detector-de-presencia-knx-de-techo-instalado",
+      "m": 3,
+      "s": "Detector de presencia KNX de techo instalado",
+      "u": "u"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-detector-elementos-presencia",
@@ -11855,6 +11925,13 @@
       "u": "u"
     },
     {
+      "g": [],
+      "id": "wi-detector-multicriterio-optico-termico-direccionable-instalad",
+      "m": 2,
+      "s": "Detector multicriterio óptico-térmico direccionable, instalado y direccionado",
+      "u": "u"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-detector-optico-de-humos",
@@ -11870,6 +11947,13 @@
       "m": 2,
       "p": 58.47,
       "s": "DETECTOR ÓPTICO DE HUMOS",
+      "u": "u"
+    },
+    {
+      "g": [],
+      "id": "wi-detector-optico-de-humos-direccionable-analogico-instalado-y",
+      "m": 2,
+      "s": "Detector óptico de humos direccionable analógico, instalado y direccionado",
       "u": "u"
     },
     {
@@ -15941,6 +16025,20 @@
       "u": "m2"
     },
     {
+      "g": [],
+      "id": "wi-fabrica-de-bloque-de-arcilla-aligerada-rectificado-de-24-cm",
+      "m": 4,
+      "s": "Fábrica de bloque de arcilla aligerada rectificado de 24 cm con junta delgada",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-fabrica-de-bloque-de-arcilla-aligerada-rectificado-de-29-cm",
+      "m": 4,
+      "s": "Fábrica de bloque de arcilla aligerada rectificado de 29 cm con junta delgada",
+      "u": "m2"
+    },
+    {
       "d": "2022-01",
       "g": [],
       "id": "wi-fabrica-ligera-14-cm-esp-bloques-arcilla-aligerada",
@@ -16769,6 +16867,13 @@
       "u": "m2"
     },
     {
+      "g": [],
+      "id": "wi-fuente-de-alimentacion-knx-de-640-ma-instalada-en-cuadro",
+      "m": 3,
+      "s": "Fuente de alimentación KNX de 640 mA instalada en cuadro",
+      "u": "u"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-fuente-mueble-bebedero",
@@ -17495,6 +17600,41 @@
       "m": 6,
       "p": 59.94,
       "s": "IMPERMEAB. SUELOS, PINTURA RESINA EPOXI + ARM. FIBRA VIDRIO",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-impermeabilizacion-de-cubierta-con-poliurea-pura-proyectada",
+      "m": 3,
+      "s": "Impermeabilización de cubierta con poliurea pura proyectada en caliente de 2 mm",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-impermeabilizacion-de-muro-enterrado-por-el-intrados-con-mor",
+      "m": 3,
+      "s": "Impermeabilización de muro enterrado por el intradós con mortero cementoso, dos manos",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-impermeabilizacion-de-muro-enterrado-por-el-trasdos-con-lami",
+      "m": 5,
+      "s": "Impermeabilización de muro enterrado por el trasdós con lámina asfáltica y lámina drenante",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-impermeabilizacion-de-zona-humeda-bajo-revestimiento-ceramic",
+      "m": 4,
+      "s": "Impermeabilización de zona húmeda bajo revestimiento cerámico con membrana líquida",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-impermeabilizacion-liquida-de-cubierta-con-membrana-de-poliu",
+      "m": 5,
+      "s": "Impermeabilización líquida de cubierta con membrana de poliuretano, dos manos",
       "u": "m2"
     },
     {
@@ -19244,6 +19384,13 @@
       "u": "u"
     },
     {
+      "g": [],
+      "id": "wi-lazo-de-deteccion-de-incendios-con-cable-resistente-al-fuego",
+      "m": 3,
+      "s": "Lazo de detección de incendios con cable resistente al fuego 2x1,5 mm2 bajo tubo",
+      "u": "m"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-letrero-luminoso-extincion-disparada-gas-fe-13-disparado",
@@ -19287,6 +19434,13 @@
       "p": 328.9,
       "s": "LIMITADOR SOBRETENSIÓN 20A. 35kA. TIPO II y III",
       "u": "u"
+    },
+    {
+      "g": [],
+      "id": "wi-linea-de-bus-knx-bajo-tubo-corrugado-de-pvc-de-20-mm",
+      "m": 3,
+      "s": "Línea de bus KNX bajo tubo corrugado de PVC de 20 mm",
+      "u": "m"
     },
     {
       "d": "2022-01",
@@ -20684,6 +20838,13 @@
       "u": "u"
     },
     {
+      "g": [],
+      "id": "wi-modulo-direccionable-de-entrada-y-salida-de-rele-para-maniob",
+      "m": 2,
+      "s": "Módulo direccionable de entrada y salida de relé para maniobras, instalado",
+      "u": "u"
+    },
+    {
       "d": "2022-01",
       "g": [],
       "id": "wi-modulo-fotovoltaico-policristalino-330wp-24v-y-pp-auxiliares",
@@ -21152,6 +21313,13 @@
       "u": "u"
     },
     {
+      "g": [],
+      "id": "wi-pantalla-tactil-de-control-knx-empotrada",
+      "m": 3,
+      "s": "Pantalla táctil de control KNX, empotrada",
+      "u": "u"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-pararrayos-de-puntas",
@@ -21329,6 +21497,34 @@
       "m": 3,
       "p": 23.99,
       "s": "PAVIMENTO CONTINUO CON MORTERO 7 mm ESP. S/HORMIGÓN",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-pavimento-de-parquet-multicapa-de-roble-de-14-mm-colocado-fl",
+      "m": 4,
+      "s": "Pavimento de parquet multicapa de roble de 14 mm, colocado flotante",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-pavimento-de-parquet-multicapa-de-roble-de-14-mm-encolado",
+      "m": 4,
+      "s": "Pavimento de parquet multicapa de roble de 14 mm, encolado",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-pavimento-de-suelo-laminado-ac4-clase-32-de-8-mm-colocado-fl",
+      "m": 4,
+      "s": "Pavimento de suelo laminado AC4 clase 32 de 8 mm, colocado flotante",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-pavimento-de-suelo-laminado-ac5-clase-33-de-10-mm-colocado-f",
+      "m": 4,
+      "s": "Pavimento de suelo laminado AC5 clase 33 de 10 mm, colocado flotante",
       "u": "m2"
     },
     {
@@ -21861,6 +22057,13 @@
       "p": 14.51,
       "s": "PERCHA DE PORCELANA VITRIFICADA BLANCO",
       "u": "u"
+    },
+    {
+      "g": [],
+      "id": "wi-perfil-de-transicion-de-aluminio-anodizado-de-40-mm",
+      "m": 2,
+      "s": "Perfil de transición de aluminio anodizado de 40 mm",
+      "u": "m"
     },
     {
       "d": "2021-12",
@@ -22994,6 +23197,13 @@
       "m": 2,
       "p": 51.4,
       "s": "PRESOSTATO DIFERENCIAL PARA AIRE 600Pa",
+      "u": "u"
+    },
+    {
+      "g": [],
+      "id": "wi-programacion-y-puesta-en-marcha-de-sistema-knx-por-dispositi",
+      "m": 1,
+      "s": "Programación y puesta en marcha de sistema KNX, por dispositivo",
       "u": "u"
     },
     {
@@ -24617,6 +24827,13 @@
       "u": "u"
     },
     {
+      "g": [],
+      "id": "wi-pulsador-de-alarma-direccionable-rearmable-instalado-y-direc",
+      "m": 2,
+      "s": "Pulsador de alarma direccionable rearmable, instalado y direccionado",
+      "u": "u"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-pulsador-de-alarma-identificable",
@@ -24920,6 +25137,13 @@
       "m": 7,
       "p": 55.13,
       "s": "PUNTO DE LUZ SENCILLO MONTAJE SUPERFICIAL",
+      "u": "u"
+    },
+    {
+      "g": [],
+      "id": "wi-punto-de-mando-knx-con-pulsador-de-2-canales-empotrado",
+      "m": 4,
+      "s": "Punto de mando KNX con pulsador de 2 canales, empotrado",
       "u": "u"
     },
     {
@@ -26417,6 +26641,34 @@
       "u": "m2"
     },
     {
+      "g": [],
+      "id": "wi-revestimiento-de-microcemento-en-paramento-vertical-interior",
+      "m": 9,
+      "s": "Revestimiento de microcemento en paramento vertical interior, 1-2 mm",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-revestimiento-de-microcemento-en-suelo-exterior-antideslizan",
+      "m": 9,
+      "s": "Revestimiento de microcemento en suelo exterior, antideslizante",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-revestimiento-de-microcemento-en-suelo-interior-2-3-mm-sobre",
+      "m": 10,
+      "s": "Revestimiento de microcemento en suelo interior, 2-3 mm, sobre soporte existente",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-revestimiento-de-microcemento-en-zona-humeda-con-barrera-ant",
+      "m": 9,
+      "s": "Revestimiento de microcemento en zona húmeda, con barrera antihumedad",
+      "u": "m2"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-revestimiento-de-paredes-con-chapa-pleg-acero-1-mm-galv",
@@ -27047,6 +27299,13 @@
       "u": "m"
     },
     {
+      "g": [],
+      "id": "wi-rodapie-de-mdf-lacado-en-blanco-de-80x12-mm",
+      "m": 2,
+      "s": "Rodapié de MDF lacado en blanco de 80x12 mm",
+      "u": "m"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-rodapie-dm-roble-7x1-6-cm",
@@ -27656,6 +27915,13 @@
       "m": 2,
       "p": 225.11,
       "s": "SIRENA EXTERIOR VÍA RADIO",
+      "u": "u"
+    },
+    {
+      "g": [],
+      "id": "wi-sirena-optico-acustica-direccionable-de-exterior-instalada",
+      "m": 2,
+      "s": "Sirena óptico-acústica direccionable de exterior, instalada",
       "u": "u"
     },
     {
@@ -29591,6 +29857,13 @@
       "m": 3,
       "p": 116.02,
       "s": "TERMOSTATO DIFERENCIAL SIN VISUALIZACIÓN",
+      "u": "u"
+    },
+    {
+      "g": [],
+      "id": "wi-termostato-knx-de-ambiente-con-display-empotrado",
+      "m": 4,
+      "s": "Termostato KNX de ambiente con display, empotrado",
       "u": "u"
     },
     {
@@ -34158,5 +34431,5 @@
     }
   ],
   "title": "Sin clasificar",
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

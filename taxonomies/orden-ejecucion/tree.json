@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T18:31:23.103Z",
+  "generatedAt": "2026-09-11T11:10:37.293Z",
   "roots": [
     {
       "k": "01-IMP",
@@ -28,7 +28,7 @@
     {
       "k": "05-EST",
       "l": "Estructura",
-      "n": 187,
+      "n": 204,
       "s": "estructura"
     },
     {
@@ -46,13 +46,13 @@
     {
       "k": "08-ALB",
       "l": "Albañilería y tabiquería",
-      "n": 316,
+      "n": 318,
       "s": "albanileria-y-tabiqueria"
     },
     {
       "k": "09-IMP",
       "l": "Impermeabilizaciones",
-      "n": 19,
+      "n": 28,
       "s": "impermeabilizaciones"
     },
     {
@@ -64,13 +64,13 @@
     {
       "k": "11-REV",
       "l": "Revestimientos continuos interiores",
-      "n": 102,
+      "n": 105,
       "s": "revestimientos-continuos-interiores"
     },
     {
       "k": "12-PAV",
       "l": "Pavimentos",
-      "n": 280,
+      "n": 287,
       "s": "pavimentos"
     },
     {
@@ -130,7 +130,7 @@
     {
       "k": "22-TEL",
       "l": "Telecomunicaciones y control",
-      "n": 117,
+      "n": 128,
       "s": "telecomunicaciones-y-control"
     },
     {
@@ -148,7 +148,7 @@
     {
       "k": "25-PCI",
       "l": "Protección contra incendios",
-      "n": 251,
+      "n": 258,
       "s": "proteccion-contra-incendios"
     },
     {
@@ -206,6 +206,6 @@
       "s": "mantenimiento-y-conservacion"
     }
   ],
-  "total": 6468,
-  "version": "0.4.0"
+  "total": 6524,
+  "version": "0.5.0"
 }

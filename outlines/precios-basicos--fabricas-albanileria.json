@@ -46,6 +46,24 @@
       "u": "u"
     },
     {
+      "g": [
+        "bloques"
+      ],
+      "id": "mt-bloque-ceramico-de-arcilla-aligerada-rectificado-30x19x24-cm",
+      "m": 0,
+      "s": "Bloque cerámico de arcilla aligerada rectificado 30x19x24 cm",
+      "u": "u"
+    },
+    {
+      "g": [
+        "bloques"
+      ],
+      "id": "mt-bloque-ceramico-de-arcilla-aligerada-rectificado-30x19x29-cm",
+      "m": 0,
+      "s": "Bloque cerámico de arcilla aligerada rectificado 30x19x29 cm",
+      "u": "u"
+    },
+    {
       "d": "2022-12",
       "g": [
         "bloques"
@@ -1477,5 +1495,5 @@
     }
   ],
   "title": "Precios Básicos > FÁBRICAS (ALBAÑILERÍA)",
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

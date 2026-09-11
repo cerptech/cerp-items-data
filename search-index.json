@@ -386,6 +386,14 @@
     },
     {
       "c": "",
+      "i": "mo-tecnico-integrador-de-sistemas-de-control-knx",
+      "k": "labor",
+      "p": null,
+      "s": "Técnico integrador de sistemas de control KNX",
+      "u": "h"
+    },
+    {
+      "c": "",
       "i": "mq-abrasivo-limpieza-chorro-a-presion-formado-por-particulas-si",
       "k": "machinery",
       "p": 0.25,
@@ -1274,6 +1282,22 @@
     },
     {
       "c": "",
+      "i": "mt-acero-s235jrc-en-perfil-conformado-en-frio-galvanizado",
+      "k": "material",
+      "p": null,
+      "s": "Acero S235JRC en perfil conformado en frío galvanizado",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-acero-s355jr-en-perfil-laminado-en-caliente",
+      "k": "material",
+      "p": null,
+      "s": "Acero S355JR en perfil laminado en caliente",
+      "u": "kg"
+    },
+    {
+      "c": "",
       "i": "mt-acetato-de-etilo",
       "k": "material",
       "p": 22.56,
@@ -1610,6 +1634,30 @@
     },
     {
       "c": "",
+      "i": "mt-acoplador-de-linea-y-area-knx-con-separacion-galvanica-carri",
+      "k": "material",
+      "p": null,
+      "s": "Acoplador de línea y área KNX con separación galvánica, carril DIN",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-actuador-de-conmutacion-knx-de-8-salidas-16-a-carril-din",
+      "k": "material",
+      "p": null,
+      "s": "Actuador de conmutación KNX de 8 salidas, 16 A, carril DIN",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-actuador-de-persianas-knx-de-4-salidas-230-v-c-a-carril-din",
+      "k": "material",
+      "p": null,
+      "s": "Actuador de persianas KNX de 4 salidas, 230 V c.a., carril DIN",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-actuador-motoriz-modulante-y-equip-acopl-para-valv-3-vias",
       "k": "material",
       "p": 225.45,
@@ -1654,6 +1702,14 @@
       "k": "material",
       "p": 199.6,
       "s": "ACTUADOR MOTORIZADO TODO-NADA PARA COMPUERT. HASTA 0,40 m2",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-actuador-regulador-knx-universal-de-4-salidas-carril-din",
+      "k": "material",
+      "p": null,
+      "s": "Actuador regulador KNX universal de 4 salidas, carril DIN",
       "u": "u"
     },
     {
@@ -1826,6 +1882,14 @@
     },
     {
       "c": "",
+      "i": "mt-adhesivo-de-poliuretano-bicomponente-para-pavimentos-de-made",
+      "k": "material",
+      "p": null,
+      "s": "Adhesivo de poliuretano bicomponente para pavimentos de madera",
+      "u": "kg"
+    },
+    {
+      "c": "",
       "i": "mt-adhesivo-para-coquilla-elastomerica",
       "k": "material",
       "p": 10.28,
@@ -1959,6 +2023,14 @@
       "p": 1.16,
       "s": "AGUA POTABLE",
       "u": "m3"
+    },
+    {
+      "c": "",
+      "i": "mt-aislador-de-cortocircuito-de-lazo-direccionable",
+      "k": "material",
+      "p": null,
+      "s": "Aislador de cortocircuito de lazo direccionable",
+      "u": "u"
     },
     {
       "c": "",
@@ -4458,6 +4530,14 @@
     },
     {
       "c": "",
+      "i": "mt-banda-de-refuerzo-elastica-para-puntos-singulares-de-imperme",
+      "k": "material",
+      "p": null,
+      "s": "Banda de refuerzo elástica para puntos singulares de impermeabilización",
+      "u": "m"
+    },
+    {
+      "c": "",
       "i": "mt-banda-de-senalizacion",
       "k": "material",
       "p": 0.29,
@@ -4727,6 +4807,22 @@
       "p": 56.03,
       "s": "BARANDILLA RETIC. 60x60 cm PLETINAS 20.2, 10.2",
       "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-barniz-de-poliuretano-al-agua-antideslizante-para-microcemen",
+      "k": "material",
+      "p": null,
+      "s": "Barniz de poliuretano al agua antideslizante para microcemento",
+      "u": "l"
+    },
+    {
+      "c": "",
+      "i": "mt-barniz-de-poliuretano-al-agua-bicomponente-para-microcemento",
+      "k": "material",
+      "p": null,
+      "s": "Barniz de poliuretano al agua bicomponente para microcemento",
+      "u": "l"
     },
     {
       "c": "",
@@ -5690,6 +5786,22 @@
     },
     {
       "c": "",
+      "i": "mt-bloque-ceramico-de-arcilla-aligerada-rectificado-30x19x24-cm",
+      "k": "material",
+      "p": null,
+      "s": "Bloque cerámico de arcilla aligerada rectificado 30x19x24 cm",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-bloque-ceramico-de-arcilla-aligerada-rectificado-30x19x29-cm",
+      "k": "material",
+      "p": null,
+      "s": "Bloque cerámico de arcilla aligerada rectificado 30x19x29 cm",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-bloque-ceramico-forjado-reticular",
       "k": "material",
       "p": 2.15,
@@ -6426,6 +6538,14 @@
     },
     {
       "c": "",
+      "i": "mt-borne-de-conexion-de-bus-knx",
+      "k": "material",
+      "p": null,
+      "s": "Borne de conexión de bus KNX",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-borra-fibra-vidrio-80-kg-m3",
       "k": "material",
       "p": 298.12,
@@ -6842,6 +6962,14 @@
     },
     {
       "c": "",
+      "i": "mt-cable-apantallado-resistente-al-fuego-2x1-5-mm2-ph-120-cca-s",
+      "k": "material",
+      "p": null,
+      "s": "Cable apantallado resistente al fuego 2x1,5 mm2, PH 120, Cca-s1b,d1,a1",
+      "u": "m"
+    },
+    {
+      "c": "",
       "i": "mt-cable-bus-apantallado-de-2-hilos-de-0-5-mm-de-seccion-por-hi",
       "k": "material",
       "p": 0.7,
@@ -7150,6 +7278,14 @@
       "k": "material",
       "p": 0.9,
       "s": "CABLE CU 1 KV LH 1X6 MM2",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-cable-de-bus-knx-2x2x0-8-mm-apantallado-libre-de-halogenos",
+      "k": "material",
+      "p": null,
+      "s": "Cable de bus KNX 2x2x0,8 mm apantallado libre de halógenos",
       "u": "m"
     },
     {
@@ -12866,6 +13002,14 @@
     },
     {
       "c": "",
+      "i": "mt-crema-de-inyeccion-de-silanos-para-corte-de-humedad-por-capi",
+      "k": "material",
+      "p": null,
+      "s": "Crema de inyección de silanos para corte de humedad por capilaridad",
+      "u": "l"
+    },
+    {
+      "c": "",
       "i": "mt-cremona-b",
       "k": "material",
       "p": 7.68,
@@ -13370,6 +13514,22 @@
     },
     {
       "c": "",
+      "i": "mt-detector-de-inundacion-con-sonda-y-contacto-libre-de-potenci",
+      "k": "material",
+      "p": null,
+      "s": "Detector de inundación con sonda y contacto libre de potencial",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-detector-de-presencia-knx-de-techo-con-sensor-de-luminosidad",
+      "k": "material",
+      "p": null,
+      "s": "Detector de presencia KNX de techo con sensor de luminosidad",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-detector-elementos-de-presencia",
       "k": "material",
       "p": 57.71,
@@ -13418,10 +13578,26 @@
     },
     {
       "c": "",
+      "i": "mt-detector-multicriterio-optico-termico-direccionable-con-zoca",
+      "k": "material",
+      "p": null,
+      "s": "Detector multicriterio óptico-térmico direccionable, con zócalo",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-detector-optico-de-humo",
       "k": "material",
       "p": 53.92,
       "s": "DETECTOR ÓPTICO DE HUMO",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-detector-optico-de-humos-direccionable-analogico-con-zocalo",
+      "k": "material",
+      "p": null,
+      "s": "Detector óptico de humos direccionable analógico, con zócalo",
       "u": "u"
     },
     {
@@ -14466,6 +14642,14 @@
     },
     {
       "c": "",
+      "i": "mt-electrovalvula-de-corte-de-agua-de-3-4-230-v-normalmente-abi",
+      "k": "material",
+      "p": null,
+      "s": "Electroválvula de corte de agua de 3/4\", 230 V, normalmente abierta",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-electrovalvula-dn-10-3-8",
       "k": "material",
       "p": 239.86,
@@ -15127,6 +15311,14 @@
       "p": 46,
       "s": "ENTR. MET GALV, RET 35 mm, PLET. 30-10x3 mm",
       "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-entrada-binaria-knx-de-4-canales-carril-din",
+      "k": "material",
+      "p": null,
+      "s": "Entrada binaria KNX de 4 canales, carril DIN",
+      "u": "u"
     },
     {
       "c": "",
@@ -16538,6 +16730,14 @@
     },
     {
       "c": "",
+      "i": "mt-estribo-de-acero-galvanizado-para-apoyo-de-viga-de-madera",
+      "k": "material",
+      "p": null,
+      "s": "Estribo de acero galvanizado para apoyo de viga de madera",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-estructura-lucern-fijo-perf-acero-galv-max-3x6-m",
       "k": "material",
       "p": 50.34,
@@ -17666,6 +17866,14 @@
     },
     {
       "c": "",
+      "i": "mt-fuente-de-alimentacion-knx-de-640-ma-con-bobina-30-v-c-c-car",
+      "k": "material",
+      "p": null,
+      "s": "Fuente de alimentación KNX de 640 mA con bobina, 30 V c.c., carril DIN",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-fuente-doble-adaptada",
       "k": "material",
       "p": 620.53,
@@ -17855,6 +18063,22 @@
       "p": 8.95,
       "s": "GAS REFRIGERANTE ALTA SEGURIDAD R-410A",
       "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-geotextil-no-tejido-de-poliester-de-200-g-m2",
+      "k": "material",
+      "p": null,
+      "s": "Geotextil no tejido de poliéster de 200 g/m2",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-geotextil-no-tejido-de-poliester-de-300-g-m2",
+      "k": "material",
+      "p": null,
+      "s": "Geotextil no tejido de poliéster de 300 g/m2",
+      "u": "m2"
     },
     {
       "c": "",
@@ -19746,6 +19970,30 @@
     },
     {
       "c": "",
+      "i": "mt-imprimacion-acrilica-para-soportes-absorbentes",
+      "k": "material",
+      "p": null,
+      "s": "Imprimación acrílica para soportes absorbentes",
+      "u": "l"
+    },
+    {
+      "c": "",
+      "i": "mt-imprimacion-acrilica-puente-de-union-para-soportes-no-absorb",
+      "k": "material",
+      "p": null,
+      "s": "Imprimación acrílica puente de unión para soportes no absorbentes",
+      "u": "l"
+    },
+    {
+      "c": "",
+      "i": "mt-imprimacion-anticorrosiva-de-dos-componentes-para-estructura",
+      "k": "material",
+      "p": null,
+      "s": "Imprimación anticorrosiva de dos componentes para estructura de acero",
+      "u": "l"
+    },
+    {
+      "c": "",
       "i": "mt-imprimacion-antioxidante",
       "k": "material",
       "p": 10.75,
@@ -19762,11 +20010,27 @@
     },
     {
       "c": "",
+      "i": "mt-imprimacion-asfaltica-de-aplicacion-en-frio",
+      "k": "material",
+      "p": null,
+      "s": "Imprimación asfáltica de aplicación en frío",
+      "u": "l"
+    },
+    {
+      "c": "",
       "i": "mt-imprimacion-color-a-elegir",
       "k": "material",
       "p": 6.26,
       "s": "Imprimación color a elegir",
       "u": "l"
+    },
+    {
+      "c": "",
+      "i": "mt-imprimacion-epoxi-bicomponente-con-barrera-antihumedad",
+      "k": "material",
+      "p": null,
+      "s": "Imprimación epoxi bicomponente con barrera antihumedad",
+      "u": "kg"
     },
     {
       "c": "",
@@ -19791,6 +20055,14 @@
       "p": 2.83,
       "s": "IMPRIMACIÓN SELLADORA",
       "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-imprimacion-selladora-acrilica-al-agua-para-microcemento",
+      "k": "material",
+      "p": null,
+      "s": "Imprimación selladora acrílica al agua para microcemento",
+      "u": "l"
     },
     {
       "c": "",
@@ -20182,6 +20454,14 @@
       "k": "material",
       "p": 6400,
       "s": "INTERFACE BACNET 64 VRF INT.",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-interfaz-usb-knx-de-puesta-en-marcha-carril-din",
+      "k": "material",
+      "p": null,
+      "s": "Interfaz USB-KNX de puesta en marcha, carril DIN",
       "u": "u"
     },
     {
@@ -21674,6 +21954,38 @@
     },
     {
       "c": "",
+      "i": "mt-lamina-asfaltica-antirraices-lbm-50-fp-para-cubierta-ajardin",
+      "k": "material",
+      "p": null,
+      "s": "Lámina asfáltica antirraíces LBM-50-FP para cubierta ajardinada",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-lamina-asfaltica-lbm-30-fv-de-betun-modificado-con-elastomer",
+      "k": "material",
+      "p": null,
+      "s": "Lámina asfáltica LBM-30-FV de betún modificado con elastómero SBS",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-lamina-asfaltica-lbm-40-fp-de-betun-modificado-con-elastomer",
+      "k": "material",
+      "p": null,
+      "s": "Lámina asfáltica LBM-40-FP de betún modificado con elastómero SBS",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-lamina-base-de-espuma-de-polietileno-de-3-mm-con-barrera-ant",
+      "k": "material",
+      "p": null,
+      "s": "Lámina base de espuma de polietileno de 3 mm con barrera antihumedad",
+      "u": "m2"
+    },
+    {
+      "c": "",
       "i": "mt-lamina-caucho-butilo-2-mm",
       "k": "material",
       "p": 12.11,
@@ -21766,6 +22078,14 @@
       "k": "material",
       "p": 1.97,
       "s": "LÁMINA DE POLIETILENO RETICULADO 5 mm",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-lamina-drenante-nodular-de-polietileno-de-alta-densidad-con",
+      "k": "material",
+      "p": null,
+      "s": "Lámina drenante nodular de polietileno de alta densidad con geotextil filtrante",
       "u": "m2"
     },
     {
@@ -23722,6 +24042,14 @@
     },
     {
       "c": "",
+      "i": "mt-madera-aserrada-estructural-c24",
+      "k": "material",
+      "p": null,
+      "s": "Madera aserrada estructural C24",
+      "u": "m3"
+    },
+    {
+      "c": "",
       "i": "mt-madera-de-pino-en-tabla",
       "k": "material",
       "p": 412.45,
@@ -23742,6 +24070,22 @@
       "k": "material",
       "p": 424.53,
       "s": "MADERA DE PINO EN TABLONCILLO",
+      "u": "m3"
+    },
+    {
+      "c": "",
+      "i": "mt-madera-laminada-encolada-homogenea-gl24h",
+      "k": "material",
+      "p": null,
+      "s": "Madera laminada encolada homogénea GL24h",
+      "u": "m3"
+    },
+    {
+      "c": "",
+      "i": "mt-madera-laminada-encolada-homogenea-gl28h",
+      "k": "material",
+      "p": null,
+      "s": "Madera laminada encolada homogénea GL28h",
       "u": "m3"
     },
     {
@@ -23786,6 +24130,14 @@
     },
     {
       "c": "",
+      "i": "mt-malla-abrasiva-de-lijado-para-microcemento",
+      "k": "material",
+      "p": null,
+      "s": "Malla abrasiva de lijado para microcemento",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-malla-de-acero-galvanizado-de-150-mm",
       "k": "material",
       "p": 2.58,
@@ -23806,6 +24158,14 @@
       "k": "material",
       "p": 1.55,
       "s": "MALLA DE FIBRA DE VIDRIO TEJIDA, CON IMPREGNACIÓN DE PVC, DE 10x10 mm DE LUZ DE MALLA, ANTIÁLCALIS, de 115 a 125 g/m² y ",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-malla-de-refuerzo-de-fibra-de-vidrio-para-microcemento-58-g",
+      "k": "material",
+      "p": null,
+      "s": "Malla de refuerzo de fibra de vidrio para microcemento, 58 g/m2",
       "u": "m2"
     },
     {
@@ -24418,6 +24778,14 @@
     },
     {
       "c": "",
+      "i": "mt-manta-precultivada-de-sedum-para-cubierta-ajardinada-extensi",
+      "k": "material",
+      "p": null,
+      "s": "Manta precultivada de sedum para cubierta ajardinada extensiva",
+      "u": "m2"
+    },
+    {
+      "c": "",
       "i": "mt-mantillo",
       "k": "material",
       "p": 17.69,
@@ -24858,6 +25226,14 @@
     },
     {
       "c": "",
+      "i": "mt-membrana-liquida-de-poliuretano-monocomponente-para-impermea",
+      "k": "material",
+      "p": null,
+      "s": "Membrana líquida de poliuretano monocomponente para impermeabilización",
+      "u": "kg"
+    },
+    {
+      "c": "",
       "i": "mt-mesa-comedor-obra-para-4-plazas",
       "k": "material",
       "p": 56.01,
@@ -25015,6 +25391,38 @@
       "p": 290,
       "s": "MEZCLA PREFABR. ESCAYOLA Y PERLITA",
       "u": "t"
+    },
+    {
+      "c": "",
+      "i": "mt-microcemento-de-acabado-de-granulometria-gruesa-para-exterio",
+      "k": "material",
+      "p": null,
+      "s": "Microcemento de acabado de granulometría gruesa para exteriores",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-microcemento-de-acabado-fino-para-paramentos-verticales",
+      "k": "material",
+      "p": null,
+      "s": "Microcemento de acabado fino para paramentos verticales",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-microcemento-de-acabado-para-pavimentos",
+      "k": "material",
+      "p": null,
+      "s": "Microcemento de acabado para pavimentos",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-microcemento-de-base-o-preparacion",
+      "k": "material",
+      "p": null,
+      "s": "Microcemento de base o preparación",
+      "u": "kg"
     },
     {
       "c": "",
@@ -25282,6 +25690,14 @@
     },
     {
       "c": "",
+      "i": "mt-modulo-direccionable-de-entrada-supervisada-y-salida-de-rele",
+      "k": "material",
+      "p": null,
+      "s": "Módulo direccionable de entrada supervisada y salida de relé",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-modulo-homologado-para-alojamiento-de-contador",
       "k": "material",
       "p": 57.97,
@@ -25498,6 +25914,14 @@
     },
     {
       "c": "",
+      "i": "mt-mortero-de-junta-delgada-tipo-t-segun-une-en-998-2",
+      "k": "material",
+      "p": null,
+      "s": "Mortero de junta delgada tipo T según UNE-EN 998-2",
+      "u": "kg"
+    },
+    {
+      "c": "",
       "i": "mt-mortero-de-reparacion-estructural-de-1-componente-reforzado",
       "k": "material",
       "p": 1.16,
@@ -25598,6 +26022,14 @@
       "k": "material",
       "p": 0.42,
       "s": "Mortero impermeabilizante",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-mortero-impermeabilizante-cementoso-monocomponente",
+      "k": "material",
+      "p": null,
+      "s": "Mortero impermeabilizante cementoso monocomponente",
       "u": "kg"
     },
     {
@@ -26250,11 +26682,43 @@
     },
     {
       "c": "",
+      "i": "mt-panel-de-madera-contralaminada-clt-de-3-capas-y-100-mm",
+      "k": "material",
+      "p": null,
+      "s": "Panel de madera contralaminada CLT de 3 capas y 100 mm",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-panel-de-madera-contralaminada-clt-de-5-capas-y-140-mm",
+      "k": "material",
+      "p": null,
+      "s": "Panel de madera contralaminada CLT de 5 capas y 140 mm",
+      "u": "m2"
+    },
+    {
+      "c": "",
       "i": "mt-panel-de-parcheo-19-de-24-puertos-rj45-cat-6",
       "k": "material",
       "p": 121.85,
       "s": "PANEL DE PARCHEO 19\" DE 24 PUERTOS RJ45 CAT 6",
       "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-panel-de-poliestireno-extruido-xps-de-100-mm",
+      "k": "material",
+      "p": null,
+      "s": "Panel de poliestireno extruido XPS de 100 mm",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-panel-de-poliestireno-extruido-xps-de-60-mm",
+      "k": "material",
+      "p": null,
+      "s": "Panel de poliestireno extruido XPS de 60 mm",
+      "u": "m2"
     },
     {
       "c": "",
@@ -26842,6 +27306,14 @@
     },
     {
       "c": "",
+      "i": "mt-pantalla-tactil-de-control-knx-a-color-para-empotrar",
+      "k": "material",
+      "p": null,
+      "s": "Pantalla táctil de control KNX a color para empotrar",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-papel-pintado-t-medio",
       "k": "material",
       "p": 2.32,
@@ -27222,6 +27694,14 @@
       "k": "material",
       "p": 27.19,
       "s": "PARQUE MOSAICO ROBLE",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-parquet-multicapa-de-roble-de-14-mm-con-capa-noble-de-3-mm",
+      "k": "material",
+      "p": null,
+      "s": "Parquet multicapa de roble de 14 mm con capa noble de 3 mm",
       "u": "m2"
     },
     {
@@ -27783,6 +28263,14 @@
       "p": 5.27,
       "s": "Perfil de arranque",
       "u": "ml"
+    },
+    {
+      "c": "",
+      "i": "mt-perfil-de-transicion-de-aluminio-anodizado-de-40-mm",
+      "k": "material",
+      "p": null,
+      "s": "Perfil de transición de aluminio anodizado de 40 mm",
+      "u": "m"
     },
     {
       "c": "",
@@ -28642,6 +29130,14 @@
     },
     {
       "c": "",
+      "i": "mt-pigmento-concentrado-para-microcemento",
+      "k": "material",
+      "p": null,
+      "s": "Pigmento concentrado para microcemento",
+      "u": "kg"
+    },
+    {
+      "c": "",
       "i": "mt-pila-para-lampara",
       "k": "material",
       "p": 6.25,
@@ -28862,6 +29358,14 @@
       "k": "material",
       "p": 9.6,
       "s": "PINTURA INSECTICIDA-FUNGICIDA ACEITE CON RESINAS, INCOL.",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-pintura-intumescente-base-agua-para-proteccion-de-estructura",
+      "k": "material",
+      "p": null,
+      "s": "Pintura intumescente base agua para protección de estructura de acero",
       "u": "kg"
     },
     {
@@ -30666,6 +31170,14 @@
     },
     {
       "c": "",
+      "i": "mt-poliurea-pura-para-proyeccion-en-caliente",
+      "k": "material",
+      "p": null,
+      "s": "Poliurea pura para proyección en caliente",
+      "u": "kg"
+    },
+    {
+      "c": "",
       "i": "mt-poliuretano-densidad-30-kg-m3",
       "k": "material",
       "p": 113.19,
@@ -32242,6 +32754,14 @@
     },
     {
       "c": "",
+      "i": "mt-pulsador-de-alarma-manual-direccionable-rearmable-tipo-a",
+      "k": "material",
+      "p": null,
+      "s": "Pulsador de alarma manual direccionable rearmable, tipo A",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-pulsador-de-alarma-por-zonas",
       "k": "material",
       "p": 12.06,
@@ -32278,6 +32798,14 @@
       "k": "material",
       "p": 14.44,
       "s": "PULSADOR ELÉCTRICO",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-pulsador-knx-de-2-canales-con-acoplador-al-bus-integrado",
+      "k": "material",
+      "p": null,
+      "s": "Pulsador KNX de 2 canales con acoplador al bus integrado",
       "u": "u"
     },
     {
@@ -34394,6 +34922,14 @@
     },
     {
       "c": "",
+      "i": "mt-rodapie-de-mdf-lacado-en-blanco-de-80x12-mm",
+      "k": "material",
+      "p": null,
+      "s": "Rodapié de MDF lacado en blanco de 80x12 mm",
+      "u": "m"
+    },
+    {
+      "c": "",
       "i": "mt-rodapie-dm-roble-7x1-6-cm",
       "k": "material",
       "p": 1.58,
@@ -34802,6 +35338,14 @@
     },
     {
       "c": "",
+      "i": "mt-router-ip-knx-knxnet-ip-carril-din",
+      "k": "material",
+      "p": null,
+      "s": "Router IP KNX (KNXnet/IP), carril DIN",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-router-lonworks-ethernet",
       "k": "material",
       "p": 751.59,
@@ -35063,6 +35607,14 @@
       "p": 1.13,
       "s": "SELLADO SILICONA",
       "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-sellador-de-acabado-para-pintura-intumescente",
+      "k": "material",
+      "p": null,
+      "s": "Sellador de acabado para pintura intumescente",
+      "u": "kg"
     },
     {
       "c": "",
@@ -35554,6 +36106,14 @@
     },
     {
       "c": "",
+      "i": "mt-sirena-optico-acustica-direccionable-de-exterior-ip66",
+      "k": "material",
+      "p": null,
+      "s": "Sirena óptico-acústica direccionable de exterior IP66",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-sistema-accionante-veneciana-varilla-metacrilato",
       "k": "material",
       "p": 27.2,
@@ -35794,6 +36354,14 @@
     },
     {
       "c": "",
+      "i": "mt-sonda-de-temperatura-ambiente-knx-para-empotrar",
+      "k": "material",
+      "p": null,
+      "s": "Sonda de temperatura ambiente KNX para empotrar",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-sonda-de-temperatura-ambiente-regulable",
       "k": "material",
       "p": 70.05,
@@ -36010,6 +36578,22 @@
     },
     {
       "c": "",
+      "i": "mt-suelo-laminado-ac4-clase-32-de-8-mm",
+      "k": "material",
+      "p": null,
+      "s": "Suelo laminado AC4 clase 32, de 8 mm",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-suelo-laminado-ac5-clase-33-de-10-mm",
+      "k": "material",
+      "p": null,
+      "s": "Suelo laminado AC5 clase 33, de 10 mm",
+      "u": "m2"
+    },
+    {
+      "c": "",
       "i": "mt-sumidero-20-20",
       "k": "material",
       "p": 24.38,
@@ -36046,6 +36630,14 @@
       "k": "material",
       "p": 10.04,
       "s": "SUSTRATO",
+      "u": "m3"
+    },
+    {
+      "c": "",
+      "i": "mt-sustrato-para-cubierta-ajardinada-extensiva",
+      "k": "material",
+      "p": null,
+      "s": "Sustrato para cubierta ajardinada extensiva",
       "u": "m3"
     },
     {
@@ -37374,6 +37966,14 @@
       "k": "material",
       "p": 89.8,
       "s": "TERMOSTATO INMERSIÓN 100º CON VARILLA",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-termostato-knx-de-ambiente-con-display-para-empotrar",
+      "k": "material",
+      "p": null,
+      "s": "Termostato KNX de ambiente con display para empotrar",
       "u": "u"
     },
     {
@@ -42758,6 +43358,14 @@
       "k": "material",
       "p": 1.8,
       "s": "VELO ACÚSTICO",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-velo-de-poliester-de-refuerzo-para-membrana-liquida",
+      "k": "material",
+      "p": null,
+      "s": "Velo de poliéster de refuerzo para membrana líquida",
       "u": "m2"
     },
     {
@@ -48722,6 +49330,22 @@
     },
     {
       "c": "precios-unitarios--estructuras",
+      "i": "wi-acero-s235jrc-en-correas-de-cubierta-de-perfil-conformado-en",
+      "k": "work_item",
+      "p": null,
+      "s": "Acero S235JRC en correas de cubierta de perfil conformado en frío galvanizado",
+      "u": "kg"
+    },
+    {
+      "c": "precios-unitarios--estructuras",
+      "i": "wi-acero-s275jr-en-pilares-de-perfil-laminado-en-caliente-ejecu",
+      "k": "work_item",
+      "p": 3.54,
+      "s": "Acero S275JR en pilares de perfil laminado en caliente, ejecución EXC2",
+      "u": "kg"
+    },
+    {
+      "c": "precios-unitarios--estructuras",
       "i": "wi-acero-s275jr-en-placa-de-anclaje-a-cimentacion",
       "k": "work_item",
       "p": 3.43,
@@ -48734,6 +49358,30 @@
       "k": "work_item",
       "p": 2.73,
       "s": "ACERO S275JR EN PLACA DE ANCLAJE A MURO HORMIGÓN O FÁBRICA",
+      "u": "kg"
+    },
+    {
+      "c": "precios-unitarios--estructuras",
+      "i": "wi-acero-s275jr-en-vigas-y-jacenas-de-perfil-laminado-en-calien",
+      "k": "work_item",
+      "p": 3.54,
+      "s": "Acero S275JR en vigas y jácenas de perfil laminado en caliente, ejecución EXC2",
+      "u": "kg"
+    },
+    {
+      "c": "precios-unitarios--estructuras",
+      "i": "wi-acero-s355jr-en-pilares-de-perfil-laminado-en-caliente-ejecu",
+      "k": "work_item",
+      "p": null,
+      "s": "Acero S355JR en pilares de perfil laminado en caliente, ejecución EXC2",
+      "u": "kg"
+    },
+    {
+      "c": "precios-unitarios--estructuras",
+      "i": "wi-acero-s355jr-en-vigas-y-jacenas-de-perfil-laminado-en-calien",
+      "k": "work_item",
+      "p": null,
+      "s": "Acero S355JR en vigas y jácenas de perfil laminado en caliente, ejecución EXC2",
       "u": "kg"
     },
     {
@@ -49434,6 +50082,22 @@
     },
     {
       "c": "precios-unitarios--instalaciones",
+      "i": "wi-actuador-de-conmutacion-knx-de-8-salidas-instalado-en-cuadro",
+      "k": "work_item",
+      "p": null,
+      "s": "Actuador de conmutación KNX de 8 salidas instalado en cuadro",
+      "u": "u"
+    },
+    {
+      "c": "precios-unitarios--instalaciones",
+      "i": "wi-actuador-de-persianas-knx-de-4-salidas-instalado-en-cuadro",
+      "k": "work_item",
+      "p": null,
+      "s": "Actuador de persianas KNX de 4 salidas instalado en cuadro",
+      "u": "u"
+    },
+    {
+      "c": "precios-unitarios--instalaciones",
       "i": "wi-actuador-motorizado-para-compuerta-hasta-0-20-m2",
       "k": "work_item",
       "p": 183.98,
@@ -49446,6 +50110,14 @@
       "k": "work_item",
       "p": 297.93,
       "s": "ACTUADOR MOTORIZADO ROTATIVO, PARA COMPUERTA",
+      "u": "u"
+    },
+    {
+      "c": "precios-unitarios--instalaciones",
+      "i": "wi-actuador-regulador-knx-universal-de-4-salidas-instalado-en-c",
+      "k": "work_item",
+      "p": null,
+      "s": "Actuador regulador KNX universal de 4 salidas instalado en cuadro",
       "u": "u"
     },
     {
@@ -49695,6 +50367,14 @@
       "p": 8.52,
       "s": "AISL. PAREDES PANEL SEMIRRÍG. LANA MINERAL + P. KRAFF 80 mm",
       "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--instalaciones",
+      "i": "wi-aislador-de-cortocircuito-de-lazo-direccionable-instalado",
+      "k": "work_item",
+      "p": null,
+      "s": "Aislador de cortocircuito de lazo direccionable, instalado",
+      "u": "u"
     },
     {
       "c": "precios-unitarios--aislamientos",
@@ -50263,6 +50943,14 @@
       "p": 18.41,
       "s": "AISLAMIENTO TECHOS PLANCHAS RÍGIDAS POLIEST. EXTRUS. 30 mm",
       "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--instalaciones",
+      "i": "wi-alarma-tecnica-de-inundacion-knx-con-corte-automatico-de-agu",
+      "k": "work_item",
+      "p": null,
+      "s": "Alarma técnica de inundación KNX con corte automático de agua",
+      "u": "u"
     },
     {
       "c": "precios-unitarios--revestimientos",
@@ -62753,6 +63441,22 @@
       "u": "m"
     },
     {
+      "c": "precios-unitarios--aislamientos",
+      "i": "wi-corte-de-humedad-por-capilaridad-en-muro-de-medio-pie-median",
+      "k": "work_item",
+      "p": null,
+      "s": "Corte de humedad por capilaridad en muro de medio pie mediante inyección de crema de silanos",
+      "u": "m"
+    },
+    {
+      "c": "precios-unitarios--aislamientos",
+      "i": "wi-corte-de-humedad-por-capilaridad-en-muro-de-un-pie-mediante",
+      "k": "work_item",
+      "p": null,
+      "s": "Corte de humedad por capilaridad en muro de un pie mediante inyección de crema de silanos",
+      "u": "m"
+    },
+    {
       "c": "precios-unitarios--albanileria",
       "i": "wi-corte-en-pendiente-fachada-ventilada",
       "k": "work_item",
@@ -62807,6 +63511,22 @@
       "p": 109.94,
       "s": "CUADRO MANDO Y CONTROL VENTILOC. CON TERMOSTATO",
       "u": "u"
+    },
+    {
+      "c": "precios-unitarios--aislamientos",
+      "i": "wi-cubierta-plana-ajardinada-extensiva-con-lamina-antirraices-y",
+      "k": "work_item",
+      "p": null,
+      "s": "Cubierta plana ajardinada extensiva con lámina antirraíces y sedum",
+      "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--aislamientos",
+      "i": "wi-cubierta-plana-invertida-no-transitable-con-acabado-de-grava",
+      "k": "work_item",
+      "p": null,
+      "s": "Cubierta plana invertida no transitable con acabado de grava y XPS de 100 mm",
+      "u": "m2"
     },
     {
       "c": "precios-unitarios--revestimientos",
@@ -67418,6 +68138,14 @@
     },
     {
       "c": "precios-unitarios--instalaciones",
+      "i": "wi-detector-de-presencia-knx-de-techo-instalado",
+      "k": "work_item",
+      "p": null,
+      "s": "Detector de presencia KNX de techo instalado",
+      "u": "u"
+    },
+    {
+      "c": "precios-unitarios--instalaciones",
       "i": "wi-detector-elementos-presencia",
       "k": "work_item",
       "p": 75.82,
@@ -67458,6 +68186,14 @@
     },
     {
       "c": "precios-unitarios--instalaciones",
+      "i": "wi-detector-multicriterio-optico-termico-direccionable-instalad",
+      "k": "work_item",
+      "p": null,
+      "s": "Detector multicriterio óptico-térmico direccionable, instalado y direccionado",
+      "u": "u"
+    },
+    {
+      "c": "precios-unitarios--instalaciones",
       "i": "wi-detector-optico-de-humos",
       "k": "work_item",
       "p": 61.8,
@@ -67470,6 +68206,14 @@
       "k": "work_item",
       "p": 58.47,
       "s": "DETECTOR ÓPTICO DE HUMOS",
+      "u": "u"
+    },
+    {
+      "c": "precios-unitarios--instalaciones",
+      "i": "wi-detector-optico-de-humos-direccionable-analogico-instalado-y",
+      "k": "work_item",
+      "p": null,
+      "s": "Detector óptico de humos direccionable analógico, instalado y direccionado",
       "u": "u"
     },
     {
@@ -73482,6 +74226,22 @@
     },
     {
       "c": "precios-unitarios--albanileria",
+      "i": "wi-fabrica-de-bloque-de-arcilla-aligerada-rectificado-de-24-cm",
+      "k": "work_item",
+      "p": null,
+      "s": "Fábrica de bloque de arcilla aligerada rectificado de 24 cm con junta delgada",
+      "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--albanileria",
+      "i": "wi-fabrica-de-bloque-de-arcilla-aligerada-rectificado-de-29-cm",
+      "k": "work_item",
+      "p": null,
+      "s": "Fábrica de bloque de arcilla aligerada rectificado de 29 cm con junta delgada",
+      "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--albanileria",
       "i": "wi-fabrica-ligera-14-cm-esp-bloques-arcilla-aligerada",
       "k": "work_item",
       "p": 35.94,
@@ -74366,6 +75126,14 @@
       "k": "work_item",
       "p": 72.66,
       "s": "FORJADO CHAPA COLABORANTE 20 cm ESPESOR",
+      "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--estructuras",
+      "i": "wi-forjado-de-panel-de-madera-contralaminada-clt-de-5-capas-y-1",
+      "k": "work_item",
+      "p": null,
+      "s": "Forjado de panel de madera contralaminada CLT de 5 capas y 140 mm",
       "u": "m2"
     },
     {
@@ -75321,6 +76089,14 @@
       "u": "u"
     },
     {
+      "c": "precios-unitarios--instalaciones",
+      "i": "wi-fuente-de-alimentacion-knx-de-640-ma-instalada-en-cuadro",
+      "k": "work_item",
+      "p": null,
+      "s": "Fuente de alimentación KNX de 640 mA instalada en cuadro",
+      "u": "u"
+    },
+    {
       "c": "precios-unitarios--urbanizaciones",
       "i": "wi-fuente-de-fundicion-de-hierro",
       "k": "work_item",
@@ -75439,6 +76215,14 @@
       "p": 8.4,
       "s": "GAFAS PANORÁM. MONTURA ESTANCA, PANT. POLICARBONATO",
       "u": "u"
+    },
+    {
+      "c": "precios-unitarios--estructuras",
+      "i": "wi-galvanizado-en-caliente-por-inmersion-de-perfileria-de-acero",
+      "k": "work_item",
+      "p": null,
+      "s": "Galvanizado en caliente por inmersión de perfilería de acero, recubrimiento medio 85 micras",
+      "u": "kg"
     },
     {
       "c": "precios-unitarios--albanileria",
@@ -77327,6 +78111,46 @@
       "p": 213,
       "s": "Impermeabilidad en piezas o tejas de hormigón",
       "u": "u"
+    },
+    {
+      "c": "precios-unitarios--aislamientos",
+      "i": "wi-impermeabilizacion-de-cubierta-con-poliurea-pura-proyectada",
+      "k": "work_item",
+      "p": null,
+      "s": "Impermeabilización de cubierta con poliurea pura proyectada en caliente de 2 mm",
+      "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--aislamientos",
+      "i": "wi-impermeabilizacion-de-muro-enterrado-por-el-intrados-con-mor",
+      "k": "work_item",
+      "p": null,
+      "s": "Impermeabilización de muro enterrado por el intradós con mortero cementoso, dos manos",
+      "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--aislamientos",
+      "i": "wi-impermeabilizacion-de-muro-enterrado-por-el-trasdos-con-lami",
+      "k": "work_item",
+      "p": null,
+      "s": "Impermeabilización de muro enterrado por el trasdós con lámina asfáltica y lámina drenante",
+      "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--aislamientos",
+      "i": "wi-impermeabilizacion-de-zona-humeda-bajo-revestimiento-ceramic",
+      "k": "work_item",
+      "p": null,
+      "s": "Impermeabilización de zona húmeda bajo revestimiento cerámico con membrana líquida",
+      "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--aislamientos",
+      "i": "wi-impermeabilizacion-liquida-de-cubierta-con-membrana-de-poliu",
+      "k": "work_item",
+      "p": null,
+      "s": "Impermeabilización líquida de cubierta con membrana de poliuretano, dos manos",
+      "u": "m2"
     },
     {
       "c": "precios-unitarios--aislamientos",
@@ -79233,6 +80057,14 @@
       "u": "u"
     },
     {
+      "c": "precios-unitarios--instalaciones",
+      "i": "wi-lazo-de-deteccion-de-incendios-con-cable-resistente-al-fuego",
+      "k": "work_item",
+      "p": null,
+      "s": "Lazo de detección de incendios con cable resistente al fuego 2x1,5 mm2 bajo tubo",
+      "u": "m"
+    },
+    {
       "c": "precios-auxiliares--aglomerantes-y-morteros",
       "i": "wi-lechada-de-cal-aerea-cl-90",
       "k": "work_item",
@@ -79654,6 +80486,14 @@
       "k": "work_item",
       "p": 212.71,
       "s": "LÍNEA DE ANCLAJE HORIZONTAL PERMANENTE, DE CABLE DE ACERO, SIN AMORTIGUADOR DE CAÍDAS",
+      "u": "m"
+    },
+    {
+      "c": "precios-unitarios--instalaciones",
+      "i": "wi-linea-de-bus-knx-bajo-tubo-corrugado-de-pvc-de-20-mm",
+      "k": "work_item",
+      "p": null,
+      "s": "Línea de bus KNX bajo tubo corrugado de PVC de 20 mm",
       "u": "m"
     },
     {
@@ -81090,6 +81930,22 @@
     },
     {
       "c": "precios-unitarios--estructuras",
+      "i": "wi-madera-estructural-tratada-en-autoclave-para-clase-de-uso-3",
+      "k": "work_item",
+      "p": null,
+      "s": "Madera estructural tratada en autoclave para clase de uso 3.2",
+      "u": "m3"
+    },
+    {
+      "c": "precios-unitarios--estructuras",
+      "i": "wi-madera-estructural-tratada-en-autoclave-para-clase-de-uso-4",
+      "k": "work_item",
+      "p": null,
+      "s": "Madera estructural tratada en autoclave para clase de uso 4",
+      "u": "m3"
+    },
+    {
+      "c": "precios-unitarios--estructuras",
       "i": "wi-madera-laminada-gl-24-jacenas-directriz-recta-luz-5-10-m",
       "k": "work_item",
       "p": 186.37,
@@ -81818,6 +82674,14 @@
     },
     {
       "c": "precios-unitarios--instalaciones",
+      "i": "wi-modulo-direccionable-de-entrada-y-salida-de-rele-para-maniob",
+      "k": "work_item",
+      "p": null,
+      "s": "Módulo direccionable de entrada y salida de relé para maniobras, instalado",
+      "u": "u"
+    },
+    {
+      "c": "precios-unitarios--instalaciones",
       "i": "wi-modulo-fotovoltaico-policristalino-330wp-24v-y-pp-auxiliares",
       "k": "work_item",
       "p": 213.76,
@@ -82270,6 +83134,14 @@
       "k": "work_item",
       "p": 6.25,
       "s": "MULCHING CORTEZA PINO 10 cm.",
+      "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--estructuras",
+      "i": "wi-muro-estructural-de-panel-de-madera-contralaminada-clt-de-3",
+      "k": "work_item",
+      "p": null,
+      "s": "Muro estructural de panel de madera contralaminada CLT de 3 capas y 100 mm",
       "u": "m2"
     },
     {
@@ -82766,6 +83638,14 @@
       "k": "work_item",
       "p": 11.58,
       "s": "PANTALLA SOLDADURA OXIACET. COMPATIBLE CON CASCO",
+      "u": "u"
+    },
+    {
+      "c": "precios-unitarios--instalaciones",
+      "i": "wi-pantalla-tactil-de-control-knx-empotrada",
+      "k": "work_item",
+      "p": null,
+      "s": "Pantalla táctil de control KNX, empotrada",
       "u": "u"
     },
     {
@@ -83393,11 +84273,43 @@
       "u": "m2"
     },
     {
+      "c": "precios-unitarios--revestimientos",
+      "i": "wi-pavimento-de-parquet-multicapa-de-roble-de-14-mm-colocado-fl",
+      "k": "work_item",
+      "p": null,
+      "s": "Pavimento de parquet multicapa de roble de 14 mm, colocado flotante",
+      "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--revestimientos",
+      "i": "wi-pavimento-de-parquet-multicapa-de-roble-de-14-mm-encolado",
+      "k": "work_item",
+      "p": null,
+      "s": "Pavimento de parquet multicapa de roble de 14 mm, encolado",
+      "u": "m2"
+    },
+    {
       "c": "precios-unitarios--urbanizaciones",
       "i": "wi-pavimento-de-pistas-polideportivas",
       "k": "work_item",
       "p": 47.44,
       "s": "PAVIMENTO DE PISTAS POLIDEPORTIVAS",
+      "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--revestimientos",
+      "i": "wi-pavimento-de-suelo-laminado-ac4-clase-32-de-8-mm-colocado-fl",
+      "k": "work_item",
+      "p": null,
+      "s": "Pavimento de suelo laminado AC4 clase 32 de 8 mm, colocado flotante",
+      "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--revestimientos",
+      "i": "wi-pavimento-de-suelo-laminado-ac5-clase-33-de-10-mm-colocado-f",
+      "k": "work_item",
+      "p": null,
+      "s": "Pavimento de suelo laminado AC5 clase 33 de 10 mm, colocado flotante",
       "u": "m2"
     },
     {
@@ -83905,6 +84817,14 @@
       "u": "u"
     },
     {
+      "c": "precios-unitarios--revestimientos",
+      "i": "wi-perfil-de-transicion-de-aluminio-anodizado-de-40-mm",
+      "k": "work_item",
+      "p": null,
+      "s": "Perfil de transición de aluminio anodizado de 40 mm",
+      "u": "m"
+    },
+    {
       "c": "precios-unitarios--control-de-calidad-pruebas-y-ensayos",
       "i": "wi-permeabilidad-al-aire-en-carpinteria",
       "k": "work_item",
@@ -84215,6 +85135,14 @@
       "p": 50.72,
       "s": "PILAR 1x1 PIE L/PERF. TALADRO GRANDE C/V",
       "u": "m"
+    },
+    {
+      "c": "precios-unitarios--estructuras",
+      "i": "wi-pilar-de-madera-laminada-encolada-gl24h-de-seccion-rectangul",
+      "k": "work_item",
+      "p": null,
+      "s": "Pilar de madera laminada encolada GL24h de sección rectangular",
+      "u": "m3"
     },
     {
       "c": "precios-unitarios--instalaciones",
@@ -84985,6 +85913,38 @@
       "u": "m2"
     },
     {
+      "c": "precios-unitarios--estructuras",
+      "i": "wi-pintura-intumescente-sobre-estructura-de-acero-para-r-120-en",
+      "k": "work_item",
+      "p": null,
+      "s": "Pintura intumescente sobre estructura de acero para R 120 en perfil de masividad hasta 200 m-1",
+      "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--estructuras",
+      "i": "wi-pintura-intumescente-sobre-estructura-de-acero-para-r-30-en",
+      "k": "work_item",
+      "p": null,
+      "s": "Pintura intumescente sobre estructura de acero para R 30 en perfil de masividad hasta 200 m-1",
+      "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--estructuras",
+      "i": "wi-pintura-intumescente-sobre-estructura-de-acero-para-r-60-en",
+      "k": "work_item",
+      "p": null,
+      "s": "Pintura intumescente sobre estructura de acero para R 60 en perfil de masividad hasta 200 m-1",
+      "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--estructuras",
+      "i": "wi-pintura-intumescente-sobre-estructura-de-acero-para-r-90-en",
+      "k": "work_item",
+      "p": null,
+      "s": "Pintura intumescente sobre estructura de acero para R 90 en perfil de masividad hasta 200 m-1",
+      "u": "m2"
+    },
+    {
       "c": "precios-unitarios--pinturas",
       "i": "wi-pintura-intumscnte-no-emisora-de-gases-tox-haluros-humos-opa",
       "k": "work_item",
@@ -85606,6 +86566,14 @@
       "k": "work_item",
       "p": 51.4,
       "s": "PRESOSTATO DIFERENCIAL PARA AIRE 600Pa",
+      "u": "u"
+    },
+    {
+      "c": "precios-unitarios--instalaciones",
+      "i": "wi-programacion-y-puesta-en-marcha-de-sistema-knx-por-dispositi",
+      "k": "work_item",
+      "p": null,
+      "s": "Programación y puesta en marcha de sistema KNX, por dispositivo",
       "u": "u"
     },
     {
@@ -87650,6 +88618,14 @@
     },
     {
       "c": "precios-unitarios--instalaciones",
+      "i": "wi-pulsador-de-alarma-direccionable-rearmable-instalado-y-direc",
+      "k": "work_item",
+      "p": null,
+      "s": "Pulsador de alarma direccionable rearmable, instalado y direccionado",
+      "u": "u"
+    },
+    {
+      "c": "precios-unitarios--instalaciones",
       "i": "wi-pulsador-de-alarma-identificable",
       "k": "work_item",
       "p": 39.16,
@@ -87918,6 +88894,14 @@
       "k": "work_item",
       "p": 55.13,
       "s": "PUNTO DE LUZ SENCILLO MONTAJE SUPERFICIAL",
+      "u": "u"
+    },
+    {
+      "c": "precios-unitarios--instalaciones",
+      "i": "wi-punto-de-mando-knx-con-pulsador-de-2-canales-empotrado",
+      "k": "work_item",
+      "p": null,
+      "s": "Punto de mando KNX con pulsador de 2 canales, empotrado",
       "u": "u"
     },
     {
@@ -91602,6 +92586,38 @@
     },
     {
       "c": "precios-unitarios--revestimientos",
+      "i": "wi-revestimiento-de-microcemento-en-paramento-vertical-interior",
+      "k": "work_item",
+      "p": null,
+      "s": "Revestimiento de microcemento en paramento vertical interior, 1-2 mm",
+      "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--revestimientos",
+      "i": "wi-revestimiento-de-microcemento-en-suelo-exterior-antideslizan",
+      "k": "work_item",
+      "p": null,
+      "s": "Revestimiento de microcemento en suelo exterior, antideslizante",
+      "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--revestimientos",
+      "i": "wi-revestimiento-de-microcemento-en-suelo-interior-2-3-mm-sobre",
+      "k": "work_item",
+      "p": null,
+      "s": "Revestimiento de microcemento en suelo interior, 2-3 mm, sobre soporte existente",
+      "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--revestimientos",
+      "i": "wi-revestimiento-de-microcemento-en-zona-humeda-con-barrera-ant",
+      "k": "work_item",
+      "p": null,
+      "s": "Revestimiento de microcemento en zona húmeda, con barrera antihumedad",
+      "u": "m2"
+    },
+    {
+      "c": "precios-unitarios--revestimientos",
       "i": "wi-revestimiento-de-paredes-con-chapa-pleg-acero-1-mm-galv",
       "k": "work_item",
       "p": 58.03,
@@ -92182,6 +93198,14 @@
       "k": "work_item",
       "p": 12.41,
       "s": "RODAPIÉ DE MADERA DE ROBLE EN TABLAS DE 60x15 mm",
+      "u": "m"
+    },
+    {
+      "c": "precios-unitarios--revestimientos",
+      "i": "wi-rodapie-de-mdf-lacado-en-blanco-de-80x12-mm",
+      "k": "work_item",
+      "p": null,
+      "s": "Rodapié de MDF lacado en blanco de 80x12 mm",
       "u": "m"
     },
     {
@@ -93134,6 +94158,14 @@
       "k": "work_item",
       "p": 225.11,
       "s": "SIRENA EXTERIOR VÍA RADIO",
+      "u": "u"
+    },
+    {
+      "c": "precios-unitarios--instalaciones",
+      "i": "wi-sirena-optico-acustica-direccionable-de-exterior-instalada",
+      "k": "work_item",
+      "p": null,
+      "s": "Sirena óptico-acústica direccionable de exterior, instalada",
       "u": "u"
     },
     {
@@ -95942,6 +96974,14 @@
       "k": "work_item",
       "p": 116.02,
       "s": "TERMOSTATO DIFERENCIAL SIN VISUALIZACIÓN",
+      "u": "u"
+    },
+    {
+      "c": "precios-unitarios--instalaciones",
+      "i": "wi-termostato-knx-de-ambiente-con-display-empotrado",
+      "k": "work_item",
+      "p": null,
+      "s": "Termostato KNX de ambiente con display, empotrado",
       "u": "u"
     },
     {
@@ -100330,6 +101370,22 @@
     },
     {
       "c": "precios-unitarios--estructuras",
+      "i": "wi-viga-de-madera-laminada-encolada-gl24h-de-directriz-recta",
+      "k": "work_item",
+      "p": null,
+      "s": "Viga de madera laminada encolada GL24h de directriz recta",
+      "u": "m3"
+    },
+    {
+      "c": "precios-unitarios--estructuras",
+      "i": "wi-viga-de-madera-laminada-encolada-gl28h-de-directriz-recta",
+      "k": "work_item",
+      "p": null,
+      "s": "Viga de madera laminada encolada GL28h de directriz recta",
+      "u": "m3"
+    },
+    {
+      "c": "precios-unitarios--estructuras",
       "i": "wi-vigueta-madera-pino-17x20-cm",
       "k": "work_item",
       "p": 44.69,
@@ -100521,5 +101577,5 @@
       "u": "m2"
     }
   ],
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

@@ -1,0 +1,73 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Cubiertas > Chapa",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.15,
+          "ref": "mt-ar-chapa-trapezoidal-t101-n-25-cincalum",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 8,
+          "ref": "mt-ar-tornillo-autoperforante-con-arandela-de-neopreno-para-chapa",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Cubiertas",
+          "Chapa"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.574Z",
+      "id": "wi-ar-cubierta-de-chapa-trapezoidal-t101-sobre-estructura",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 14438.71
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cubierta-de-chapa-trapezoidal-t101-sobre-estructura",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cubierta de chapa trapezoidal T101 sobre estructura",
+      "tags": [
+        "cubierta",
+        "chapa",
+        "trapezoidal",
+        "cincalum"
+      ],
+      "text": "Cubierta de chapa de acero cincalum conformada trapezoidal T101 calibre Nº 25, fijada con tornillos autoperforantes con arandela de neopreno sobre correas, con solapes laterales y longitudinales. Medida por metro cuadrado de superficie cubierta; los solapes no se computan aparte, están en el rendimiento del material. No incluye la estructura de sostén. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. No se localizó rendimiento de mano de obra en ninguna fuente pública argentina para esta partida: no se carga mano de obra hasta conseguirlo. Ningún organismo público argentino publica rendimientos (los pliegos fijan la forma de medición, pero el análisis de precio lo presenta el oferente).",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:15:59.072Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.5.0"
+}

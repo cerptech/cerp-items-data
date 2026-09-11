@@ -5,12 +5,36 @@
   ],
   "basicoChapters": [],
   "basicos": {
-    "count": 15,
+    "count": 169,
     "file": "basicos.json"
   },
   "chapters": [
     {
-      "items": 2,
+      "items": 3,
+      "json": "chapters/aislaciones--capas-aisladoras.json",
+      "key": "aislaciones--capas-aisladoras",
+      "md": "chapters/aislaciones--capas-aisladoras.md",
+      "outline": "outlines/aislaciones--capas-aisladoras.json",
+      "title": "Aislaciones > Capas aisladoras"
+    },
+    {
+      "items": 1,
+      "json": "chapters/aislaciones--cubiertas.json",
+      "key": "aislaciones--cubiertas",
+      "md": "chapters/aislaciones--cubiertas.md",
+      "outline": "outlines/aislaciones--cubiertas.json",
+      "title": "Aislaciones > Cubiertas"
+    },
+    {
+      "items": 1,
+      "json": "chapters/albanileria--construccion-en-seco.json",
+      "key": "albanileria--construccion-en-seco",
+      "md": "chapters/albanileria--construccion-en-seco.md",
+      "outline": "outlines/albanileria--construccion-en-seco.json",
+      "title": "Albañilería > Construcción en seco"
+    },
+    {
+      "items": 6,
       "json": "chapters/albanileria--mamposteria.json",
       "key": "albanileria--mamposteria",
       "md": "chapters/albanileria--mamposteria.md",
@@ -19,32 +43,458 @@
     },
     {
       "items": 1,
+      "json": "chapters/carpinterias--aluminio.json",
+      "key": "carpinterias--aluminio",
+      "md": "chapters/carpinterias--aluminio.md",
+      "outline": "outlines/carpinterias--aluminio.json",
+      "title": "Carpinterías > Aluminio"
+    },
+    {
+      "items": 1,
+      "json": "chapters/carpinterias--chapa.json",
+      "key": "carpinterias--chapa",
+      "md": "chapters/carpinterias--chapa.md",
+      "outline": "outlines/carpinterias--chapa.json",
+      "title": "Carpinterías > Chapa"
+    },
+    {
+      "items": 1,
+      "json": "chapters/carpinterias--madera.json",
+      "key": "carpinterias--madera",
+      "md": "chapters/carpinterias--madera.md",
+      "outline": "outlines/carpinterias--madera.json",
+      "title": "Carpinterías > Madera"
+    },
+    {
+      "items": 1,
+      "json": "chapters/cielorrasos--aplicados.json",
+      "key": "cielorrasos--aplicados",
+      "md": "chapters/cielorrasos--aplicados.md",
+      "outline": "outlines/cielorrasos--aplicados.json",
+      "title": "Cielorrasos > Aplicados"
+    },
+    {
+      "items": 1,
+      "json": "chapters/cielorrasos--madera.json",
+      "key": "cielorrasos--madera",
+      "md": "chapters/cielorrasos--madera.md",
+      "outline": "outlines/cielorrasos--madera.json",
+      "title": "Cielorrasos > Madera"
+    },
+    {
+      "items": 1,
+      "json": "chapters/cielorrasos--suspendidos.json",
+      "key": "cielorrasos--suspendidos",
+      "md": "chapters/cielorrasos--suspendidos.md",
+      "outline": "outlines/cielorrasos--suspendidos.json",
+      "title": "Cielorrasos > Suspendidos"
+    },
+    {
+      "items": 2,
+      "json": "chapters/contrapisos-y-carpetas--carpetas.json",
+      "key": "contrapisos-y-carpetas--carpetas",
+      "md": "chapters/contrapisos-y-carpetas--carpetas.md",
+      "outline": "outlines/contrapisos-y-carpetas--carpetas.json",
+      "title": "Contrapisos y carpetas > Carpetas"
+    },
+    {
+      "items": 5,
+      "json": "chapters/contrapisos-y-carpetas--contrapisos.json",
+      "key": "contrapisos-y-carpetas--contrapisos",
+      "md": "chapters/contrapisos-y-carpetas--contrapisos.md",
+      "outline": "outlines/contrapisos-y-carpetas--contrapisos.json",
+      "title": "Contrapisos y carpetas > Contrapisos"
+    },
+    {
+      "items": 1,
+      "json": "chapters/cubiertas--chapa.json",
+      "key": "cubiertas--chapa",
+      "md": "chapters/cubiertas--chapa.md",
+      "outline": "outlines/cubiertas--chapa.json",
+      "title": "Cubiertas > Chapa"
+    },
+    {
+      "items": 1,
+      "json": "chapters/cubiertas--tejas.json",
+      "key": "cubiertas--tejas",
+      "md": "chapters/cubiertas--tejas.md",
+      "outline": "outlines/cubiertas--tejas.json",
+      "title": "Cubiertas > Tejas"
+    },
+    {
+      "items": 2,
+      "json": "chapters/cubiertas--zingueria.json",
+      "key": "cubiertas--zingueria",
+      "md": "chapters/cubiertas--zingueria.md",
+      "outline": "outlines/cubiertas--zingueria.json",
+      "title": "Cubiertas > Zinguería"
+    },
+    {
+      "items": 8,
+      "json": "chapters/demoliciones-y-trabajos-previos--demoliciones.json",
+      "key": "demoliciones-y-trabajos-previos--demoliciones",
+      "md": "chapters/demoliciones-y-trabajos-previos--demoliciones.md",
+      "outline": "outlines/demoliciones-y-trabajos-previos--demoliciones.json",
+      "title": "Demoliciones y trabajos previos > Demoliciones"
+    },
+    {
+      "items": 1,
+      "json": "chapters/demoliciones-y-trabajos-previos--trabajos-previos.json",
+      "key": "demoliciones-y-trabajos-previos--trabajos-previos",
+      "md": "chapters/demoliciones-y-trabajos-previos--trabajos-previos.md",
+      "outline": "outlines/demoliciones-y-trabajos-previos--trabajos-previos.json",
+      "title": "Demoliciones y trabajos previos > Trabajos previos"
+    },
+    {
+      "items": 4,
+      "json": "chapters/estructura-de-hormigon-armado--armaduras.json",
+      "key": "estructura-de-hormigon-armado--armaduras",
+      "md": "chapters/estructura-de-hormigon-armado--armaduras.md",
+      "outline": "outlines/estructura-de-hormigon-armado--armaduras.json",
+      "title": "Estructura de hormigón armado > Armaduras"
+    },
+    {
+      "items": 1,
+      "json": "chapters/estructura-de-hormigon-armado--bases.json",
+      "key": "estructura-de-hormigon-armado--bases",
+      "md": "chapters/estructura-de-hormigon-armado--bases.md",
+      "outline": "outlines/estructura-de-hormigon-armado--bases.json",
+      "title": "Estructura de hormigón armado > Bases"
+    },
+    {
+      "items": 1,
+      "json": "chapters/estructura-de-hormigon-armado--columnas.json",
+      "key": "estructura-de-hormigon-armado--columnas",
+      "md": "chapters/estructura-de-hormigon-armado--columnas.md",
+      "outline": "outlines/estructura-de-hormigon-armado--columnas.json",
+      "title": "Estructura de hormigón armado > Columnas"
+    },
+    {
+      "items": 1,
+      "json": "chapters/estructura-de-hormigon-armado--dinteles.json",
+      "key": "estructura-de-hormigon-armado--dinteles",
+      "md": "chapters/estructura-de-hormigon-armado--dinteles.md",
+      "outline": "outlines/estructura-de-hormigon-armado--dinteles.json",
+      "title": "Estructura de hormigón armado > Dinteles"
+    },
+    {
+      "items": 1,
+      "json": "chapters/estructura-de-hormigon-armado--encadenados.json",
+      "key": "estructura-de-hormigon-armado--encadenados",
+      "md": "chapters/estructura-de-hormigon-armado--encadenados.md",
+      "outline": "outlines/estructura-de-hormigon-armado--encadenados.json",
+      "title": "Estructura de hormigón armado > Encadenados"
+    },
+    {
+      "items": 1,
+      "json": "chapters/estructura-de-hormigon-armado--encofrados.json",
+      "key": "estructura-de-hormigon-armado--encofrados",
+      "md": "chapters/estructura-de-hormigon-armado--encofrados.md",
+      "outline": "outlines/estructura-de-hormigon-armado--encofrados.json",
+      "title": "Estructura de hormigón armado > Encofrados"
+    },
+    {
+      "items": 1,
+      "json": "chapters/estructura-de-hormigon-armado--escaleras.json",
+      "key": "estructura-de-hormigon-armado--escaleras",
+      "md": "chapters/estructura-de-hormigon-armado--escaleras.md",
+      "outline": "outlines/estructura-de-hormigon-armado--escaleras.json",
+      "title": "Estructura de hormigón armado > Escaleras"
+    },
+    {
+      "items": 4,
+      "json": "chapters/estructura-de-hormigon-armado--estructura-resistente.json",
+      "key": "estructura-de-hormigon-armado--estructura-resistente",
+      "md": "chapters/estructura-de-hormigon-armado--estructura-resistente.md",
+      "outline": "outlines/estructura-de-hormigon-armado--estructura-resistente.json",
+      "title": "Estructura de hormigón armado > Estructura resistente"
+    },
+    {
+      "items": 3,
+      "json": "chapters/estructura-de-hormigon-armado--fundaciones.json",
+      "key": "estructura-de-hormigon-armado--fundaciones",
+      "md": "chapters/estructura-de-hormigon-armado--fundaciones.md",
+      "outline": "outlines/estructura-de-hormigon-armado--fundaciones.json",
+      "title": "Estructura de hormigón armado > Fundaciones"
+    },
+    {
+      "items": 2,
+      "json": "chapters/estructura-de-hormigon-armado--hormigones.json",
+      "key": "estructura-de-hormigon-armado--hormigones",
+      "md": "chapters/estructura-de-hormigon-armado--hormigones.md",
+      "outline": "outlines/estructura-de-hormigon-armado--hormigones.json",
+      "title": "Estructura de hormigón armado > Hormigones"
+    },
+    {
+      "items": 1,
+      "json": "chapters/estructura-de-hormigon-armado--losas.json",
+      "key": "estructura-de-hormigon-armado--losas",
+      "md": "chapters/estructura-de-hormigon-armado--losas.md",
+      "outline": "outlines/estructura-de-hormigon-armado--losas.json",
+      "title": "Estructura de hormigón armado > Losas"
+    },
+    {
+      "items": 2,
+      "json": "chapters/estructura-de-hormigon-armado--losas-alivianadas.json",
+      "key": "estructura-de-hormigon-armado--losas-alivianadas",
+      "md": "chapters/estructura-de-hormigon-armado--losas-alivianadas.md",
+      "outline": "outlines/estructura-de-hormigon-armado--losas-alivianadas.json",
+      "title": "Estructura de hormigón armado > Losas alivianadas"
+    },
+    {
+      "items": 1,
+      "json": "chapters/estructura-de-hormigon-armado--plateas.json",
+      "key": "estructura-de-hormigon-armado--plateas",
+      "md": "chapters/estructura-de-hormigon-armado--plateas.md",
+      "outline": "outlines/estructura-de-hormigon-armado--plateas.json",
+      "title": "Estructura de hormigón armado > Plateas"
+    },
+    {
+      "items": 1,
+      "json": "chapters/estructura-de-hormigon-armado--tabiques.json",
+      "key": "estructura-de-hormigon-armado--tabiques",
+      "md": "chapters/estructura-de-hormigon-armado--tabiques.md",
+      "outline": "outlines/estructura-de-hormigon-armado--tabiques.json",
+      "title": "Estructura de hormigón armado > Tabiques"
+    },
+    {
+      "items": 1,
+      "json": "chapters/estructura-de-hormigon-armado--vigas.json",
+      "key": "estructura-de-hormigon-armado--vigas",
+      "md": "chapters/estructura-de-hormigon-armado--vigas.md",
+      "outline": "outlines/estructura-de-hormigon-armado--vigas.json",
+      "title": "Estructura de hormigón armado > Vigas"
+    },
+    {
+      "items": 2,
+      "json": "chapters/estructura-de-madera--techos.json",
+      "key": "estructura-de-madera--techos",
+      "md": "chapters/estructura-de-madera--techos.md",
+      "outline": "outlines/estructura-de-madera--techos.json",
+      "title": "Estructura de madera > Techos"
+    },
+    {
+      "items": 1,
+      "json": "chapters/estructura-metalica--correas.json",
+      "key": "estructura-metalica--correas",
+      "md": "chapters/estructura-metalica--correas.md",
+      "outline": "outlines/estructura-metalica--correas.json",
+      "title": "Estructura metálica > Correas"
+    },
+    {
+      "items": 4,
+      "json": "chapters/estructura-metalica--perfiles.json",
+      "key": "estructura-metalica--perfiles",
+      "md": "chapters/estructura-metalica--perfiles.md",
+      "outline": "outlines/estructura-metalica--perfiles.json",
+      "title": "Estructura metálica > Perfiles"
+    },
+    {
+      "items": 1,
+      "json": "chapters/gestion-de-residuos--retiro-de-escombros.json",
+      "key": "gestion-de-residuos--retiro-de-escombros",
+      "md": "chapters/gestion-de-residuos--retiro-de-escombros.md",
+      "outline": "outlines/gestion-de-residuos--retiro-de-escombros.json",
+      "title": "Gestión de residuos > Retiro de escombros"
+    },
+    {
+      "items": 2,
+      "json": "chapters/instalacion-de-gas--canerias.json",
+      "key": "instalacion-de-gas--canerias",
+      "md": "chapters/instalacion-de-gas--canerias.md",
+      "outline": "outlines/instalacion-de-gas--canerias.json",
+      "title": "Instalación de gas > Cañerías"
+    },
+    {
+      "items": 3,
+      "json": "chapters/instalacion-electrica--bocas.json",
+      "key": "instalacion-electrica--bocas",
+      "md": "chapters/instalacion-electrica--bocas.md",
+      "outline": "outlines/instalacion-electrica--bocas.json",
+      "title": "Instalación eléctrica > Bocas"
+    },
+    {
+      "items": 1,
+      "json": "chapters/instalacion-electrica--tableros.json",
+      "key": "instalacion-electrica--tableros",
+      "md": "chapters/instalacion-electrica--tableros.md",
+      "outline": "outlines/instalacion-electrica--tableros.json",
+      "title": "Instalación eléctrica > Tableros"
+    },
+    {
+      "items": 2,
+      "json": "chapters/instalacion-sanitaria--artefactos.json",
+      "key": "instalacion-sanitaria--artefactos",
+      "md": "chapters/instalacion-sanitaria--artefactos.md",
+      "outline": "outlines/instalacion-sanitaria--artefactos.json",
+      "title": "Instalación sanitaria > Artefactos"
+    },
+    {
+      "items": 2,
+      "json": "chapters/instalacion-sanitaria--canerias.json",
+      "key": "instalacion-sanitaria--canerias",
+      "md": "chapters/instalacion-sanitaria--canerias.md",
+      "outline": "outlines/instalacion-sanitaria--canerias.json",
+      "title": "Instalación sanitaria > Cañerías"
+    },
+    {
+      "items": 2,
+      "json": "chapters/instalacion-sanitaria--desagues.json",
+      "key": "instalacion-sanitaria--desagues",
+      "md": "chapters/instalacion-sanitaria--desagues.md",
+      "outline": "outlines/instalacion-sanitaria--desagues.json",
+      "title": "Instalación sanitaria > Desagües"
+    },
+    {
+      "items": 1,
       "json": "chapters/morteros--mortero-de-cemento.json",
       "key": "morteros--mortero-de-cemento",
       "md": "chapters/morteros--mortero-de-cemento.md",
       "outline": "outlines/morteros--mortero-de-cemento.json",
       "title": "Morteros > Mortero de cemento"
+    },
+    {
+      "items": 1,
+      "json": "chapters/movimiento-de-suelos--achique.json",
+      "key": "movimiento-de-suelos--achique",
+      "md": "chapters/movimiento-de-suelos--achique.md",
+      "outline": "outlines/movimiento-de-suelos--achique.json",
+      "title": "Movimiento de suelos > Achique"
+    },
+    {
+      "items": 2,
+      "json": "chapters/movimiento-de-suelos--excavaciones.json",
+      "key": "movimiento-de-suelos--excavaciones",
+      "md": "chapters/movimiento-de-suelos--excavaciones.md",
+      "outline": "outlines/movimiento-de-suelos--excavaciones.json",
+      "title": "Movimiento de suelos > Excavaciones"
+    },
+    {
+      "items": 1,
+      "json": "chapters/movimiento-de-suelos--rellenos-y-compactaciones.json",
+      "key": "movimiento-de-suelos--rellenos-y-compactaciones",
+      "md": "chapters/movimiento-de-suelos--rellenos-y-compactaciones.md",
+      "outline": "outlines/movimiento-de-suelos--rellenos-y-compactaciones.json",
+      "title": "Movimiento de suelos > Rellenos y compactaciones"
+    },
+    {
+      "items": 1,
+      "json": "chapters/pinturas--exteriores.json",
+      "key": "pinturas--exteriores",
+      "md": "chapters/pinturas--exteriores.md",
+      "outline": "outlines/pinturas--exteriores.json",
+      "title": "Pinturas > Exteriores"
+    },
+    {
+      "items": 1,
+      "json": "chapters/pinturas--herreria.json",
+      "key": "pinturas--herreria",
+      "md": "chapters/pinturas--herreria.md",
+      "outline": "outlines/pinturas--herreria.json",
+      "title": "Pinturas > Herrería"
+    },
+    {
+      "items": 2,
+      "json": "chapters/pinturas--interiores.json",
+      "key": "pinturas--interiores",
+      "md": "chapters/pinturas--interiores.md",
+      "outline": "outlines/pinturas--interiores.json",
+      "title": "Pinturas > Interiores"
+    },
+    {
+      "items": 2,
+      "json": "chapters/revestimientos--ceramicos.json",
+      "key": "revestimientos--ceramicos",
+      "md": "chapters/revestimientos--ceramicos.md",
+      "outline": "outlines/revestimientos--ceramicos.json",
+      "title": "Revestimientos > Cerámicos"
+    },
+    {
+      "items": 1,
+      "json": "chapters/revoques--exteriores.json",
+      "key": "revoques--exteriores",
+      "md": "chapters/revoques--exteriores.md",
+      "outline": "outlines/revoques--exteriores.json",
+      "title": "Revoques > Exteriores"
+    },
+    {
+      "items": 2,
+      "json": "chapters/revoques--interiores.json",
+      "key": "revoques--interiores",
+      "md": "chapters/revoques--interiores.md",
+      "outline": "outlines/revoques--interiores.json",
+      "title": "Revoques > Interiores"
+    },
+    {
+      "items": 1,
+      "json": "chapters/revoques--yeseria.json",
+      "key": "revoques--yeseria",
+      "md": "chapters/revoques--yeseria.md",
+      "outline": "outlines/revoques--yeseria.json",
+      "title": "Revoques > Yesería"
+    },
+    {
+      "items": 5,
+      "json": "chapters/seguridad-e-higiene--proteccion.json",
+      "key": "seguridad-e-higiene--proteccion",
+      "md": "chapters/seguridad-e-higiene--proteccion.md",
+      "outline": "outlines/seguridad-e-higiene--proteccion.json",
+      "title": "Seguridad e higiene > Protección"
+    },
+    {
+      "items": 6,
+      "json": "chapters/solados--pisos.json",
+      "key": "solados--pisos",
+      "md": "chapters/solados--pisos.md",
+      "outline": "outlines/solados--pisos.json",
+      "title": "Solados > Pisos"
+    },
+    {
+      "items": 3,
+      "json": "chapters/solados--zocalos.json",
+      "key": "solados--zocalos",
+      "md": "chapters/solados--zocalos.md",
+      "outline": "outlines/solados--zocalos.json",
+      "title": "Solados > Zócalos"
+    },
+    {
+      "items": 2,
+      "json": "chapters/trabajos-preliminares--replanteo-y-obrador.json",
+      "key": "trabajos-preliminares--replanteo-y-obrador",
+      "md": "chapters/trabajos-preliminares--replanteo-y-obrador.md",
+      "outline": "outlines/trabajos-preliminares--replanteo-y-obrador.json",
+      "title": "Trabajos preliminares > Replanteo y obrador"
+    },
+    {
+      "items": 2,
+      "json": "chapters/varios-y-limpieza--limpieza.json",
+      "key": "varios-y-limpieza--limpieza",
+      "md": "chapters/varios-y-limpieza--limpieza.md",
+      "outline": "outlines/varios-y-limpieza--limpieza.json",
+      "title": "Varios y limpieza > Limpieza"
     }
   ],
-  "generatedAt": "2026-08-17T18:31:23.103Z",
+  "generatedAt": "2026-09-11T11:10:37.293Z",
   "stats": {
     "byKind": {
       "labor": 5,
-      "material": 10,
-      "work_item": 3
+      "machinery": 10,
+      "material": 154,
+      "work_item": 115
     },
     "bySources": {
-      "bcca": 3,
-      "cerp": 13,
+      "bcca": 9,
+      "cerp": 279,
       "uocra": 5
     },
     "byStatus": {
-      "auto_ok": 18
+      "auto_ok": 248,
+      "conflicted": 36
     },
     "quarantined": 0,
-    "total": 18
+    "total": 284
   },
   "taxonomies": [],
   "tree": "tree.json",
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

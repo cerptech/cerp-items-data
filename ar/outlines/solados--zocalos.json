@@ -1,0 +1,64 @@
+{
+  "key": "solados--zocalos",
+  "rows": [
+    {
+      "g": [],
+      "id": "mt-ar-zocalo-ceramico-de-10-cm",
+      "m": 0,
+      "s": "Zócalo cerámico de 10 cm",
+      "u": "m"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-zocalo-de-mdf-prepintado-blanco-de-7-cm",
+      "m": 0,
+      "p": 3771.9,
+      "s": "Zócalo de MDF prepintado blanco de 7 cm",
+      "u": "m"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-zocalo-de-poliestireno-expandido-de-7-cm",
+      "m": 0,
+      "p": 5495.87,
+      "s": "Zócalo de poliestireno expandido de 7 cm",
+      "u": "m"
+    },
+    {
+      "g": [],
+      "id": "mt-ar-zocalo-de-porcelanato-de-10x50-cm",
+      "m": 0,
+      "s": "Zócalo de porcelanato de 10x50 cm",
+      "u": "m"
+    },
+    {
+      "g": [],
+      "id": "wi-ar-zocalo-ceramico-de-10-cm",
+      "m": 4,
+      "s": "Zócalo cerámico de 10 cm",
+      "u": "m"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "wi-ar-zocalo-de-mdf-prepintado-blanco-de-7-cm",
+      "m": 3,
+      "p": 6831.42,
+      "s": "Zócalo de MDF prepintado blanco de 7 cm",
+      "u": "m"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "wi-ar-zocalo-de-poliestireno-expandido-de-7-cm-colocado",
+      "m": 3,
+      "p": 8607.11,
+      "s": "Zócalo de poliestireno expandido de 7 cm colocado",
+      "u": "m"
+    }
+  ],
+  "title": "Solados > Zócalos",
+  "version": "0.5.0"
+}

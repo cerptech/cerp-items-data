@@ -1,0 +1,149 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Cielorrasos > Suspendidos",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.38,
+          "ref": "mt-ar-placa-de-roca-de-yeso-de-9-5-mm-de-1-20-x-2-40-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.5,
+          "ref": "mt-ar-perfil-montante-de-34-mm-para-cielorraso",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.9,
+          "ref": "mt-ar-perfil-solera-de-35-mm-para-cielorraso",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.015,
+          "ref": "mt-ar-masilla-para-juntas-de-placa-de-roca-de-yeso-en-balde-de-32",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.012,
+          "ref": "mt-ar-cinta-de-papel-microperforada-para-juntas-en-rollo-de-150-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 18,
+          "ref": "mt-ar-tornillo-autoperforante-t2-para-placa-de-roca-de-yeso",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Cielorrasos",
+          "Suspendidos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.574Z",
+      "id": "wi-ar-cielorraso-suspendido-de-placa-de-roca-de-yeso",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 30231.55
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 32534.17
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 46281.37
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 50542.71
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cielorraso-suspendido-de-placa-de-roca-de-yeso",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cielorraso suspendido de placa de roca de yeso",
+      "tags": [
+        "cielorraso",
+        "suspendido",
+        "placa de roca de yeso",
+        "durlock"
+      ],
+      "text": "Cielorraso suspendido de placa de roca de yeso de 9,5 mm sobre estructura de perfiles de chapa galvanizada montante de 34 mm y solera de 35 mm, con velas rígidas de suspensión, tomado de juntas con masilla y cinta, listo para pintar. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:15:59.044Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.5.0"
+}

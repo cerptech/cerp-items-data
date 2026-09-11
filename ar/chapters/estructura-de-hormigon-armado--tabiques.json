@@ -1,0 +1,161 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Estructura de hormigón armado > Tabiques",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 26,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 23,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 6.52,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mt-ar-arena-gruesa-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.75,
+          "ref": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 13.16,
+          "ref": "mt-ar-hierro-nervurado-adn-420-diametro-8-mm-en-barra-de-12-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 24,
+          "ref": "mt-ar-separador-plastico-de-armadura",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mq-ar-hormigonera-de-130-litros-en-alquiler",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mq-ar-vibrador-de-inmersion-para-hormigon-en-alquiler",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado",
+          "Tabiques"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.575Z",
+      "id": "wi-ar-hormigon-armado-para-tabiques-elaborado-en-obra",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 849482.81
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 913706.69
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1281145.48
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-09",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1420498.53
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-hormigon-armado-para-tabiques-elaborado-en-obra",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Hormigón armado para tabiques elaborado en obra",
+      "tags": [
+        "hormigón",
+        "armado",
+        "pastón",
+        "en obra"
+      ],
+      "text": "Hormigón armado preparado EN OBRA con hormigonera, incluida la armadura elaborada y colocada. NO incluye el encofrado, que va por su propia partida y se mide en metros cuadrados: sumarlo acá lo mediría dos veces. Medido por metro cúbico de hormigón colocado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Dosificación, cuantía de armadura y rendimiento transcriptos de \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán: 326 kg de cemento, 0,50 m3 de arena gruesa y 0,75 m3 de ripio por metro cúbico, con 60 kg de hierro y 26 horas de oficial más 23 de ayudante. Valen las mismas advertencias que en el resto de los ítems tomados de esa fuente: no tiene fecha ni encabezado institucional, no declara metodología y usa sólo Oficial y Ayudante. El hierro se resolvió con barras de 8 mm como diámetro representativo, dato declarado. El alquiler de hormigonera y de vibrador de inmersión es elaboración propia de CERP, no viene de la fuente. CONTROL DE COHERENCIA QUE CONVIENE MIRAR: con este rendimiento la mano de obra queda entre el 55 % y el 65 % del precio de la partida, proporción alta para hormigón estructural. Puede ser real en obra chica, donde el metro cúbico es caro en horas porque los volúmenes son mínimos, pero conviene contrastarlo contra una obra propia antes de usar estas partidas para presupuestar volumen grande. Tratá el precio como un techo.",
+      "unit": "m3",
+      "updatedAt": "2026-09-08T09:15:59.104Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.5.0"
+}

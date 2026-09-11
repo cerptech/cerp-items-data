@@ -123,6 +123,24 @@
       "u": "kg"
     },
     {
+      "g": [
+        "barnices"
+      ],
+      "id": "mt-barniz-de-poliuretano-al-agua-antideslizante-para-microcemen",
+      "m": 0,
+      "s": "Barniz de poliuretano al agua antideslizante para microcemento",
+      "u": "l"
+    },
+    {
+      "g": [
+        "barnices"
+      ],
+      "id": "mt-barniz-de-poliuretano-al-agua-bicomponente-para-microcemento",
+      "m": 0,
+      "s": "Barniz de poliuretano al agua bicomponente para microcemento",
+      "u": "l"
+    },
+    {
       "d": "2021-12",
       "g": [
         "barnices"
@@ -288,6 +306,15 @@
       "u": "kg"
     },
     {
+      "g": [
+        "especiales"
+      ],
+      "id": "mt-imprimacion-anticorrosiva-de-dos-componentes-para-estructura",
+      "m": 0,
+      "s": "Imprimación anticorrosiva de dos componentes para estructura de acero",
+      "u": "l"
+    },
+    {
       "d": "2021-12",
       "g": [
         "especiales"
@@ -340,6 +367,15 @@
       "m": 0,
       "p": 9.6,
       "s": "PINTURA INSECTICIDA-FUNGICIDA ACEITE CON RESINAS, INCOL.",
+      "u": "kg"
+    },
+    {
+      "g": [
+        "especiales"
+      ],
+      "id": "mt-pintura-intumescente-base-agua-para-proteccion-de-estructura",
+      "m": 0,
+      "s": "Pintura intumescente base agua para protección de estructura de acero",
       "u": "kg"
     },
     {
@@ -398,6 +434,15 @@
       "u": "kg"
     },
     {
+      "g": [
+        "especiales"
+      ],
+      "id": "mt-sellador-de-acabado-para-pintura-intumescente",
+      "m": 0,
+      "s": "Sellador de acabado para pintura intumescente",
+      "u": "kg"
+    },
+    {
       "d": "2022-12",
       "g": [
         "imprimaciones"
@@ -409,6 +454,24 @@
       "u": "l"
     },
     {
+      "g": [
+        "imprimaciones"
+      ],
+      "id": "mt-imprimacion-acrilica-para-soportes-absorbentes",
+      "m": 0,
+      "s": "Imprimación acrílica para soportes absorbentes",
+      "u": "l"
+    },
+    {
+      "g": [
+        "imprimaciones"
+      ],
+      "id": "mt-imprimacion-acrilica-puente-de-union-para-soportes-no-absorb",
+      "m": 0,
+      "s": "Imprimación acrílica puente de unión para soportes no absorbentes",
+      "u": "l"
+    },
+    {
       "d": "2022-12",
       "g": [
         "imprimaciones"
@@ -417,6 +480,15 @@
       "m": 0,
       "p": 10.75,
       "s": "IMPRIMACIÓN ANTIOXIDANTE",
+      "u": "kg"
+    },
+    {
+      "g": [
+        "imprimaciones"
+      ],
+      "id": "mt-imprimacion-epoxi-bicomponente-con-barrera-antihumedad",
+      "m": 0,
+      "s": "Imprimación epoxi bicomponente con barrera antihumedad",
       "u": "kg"
     },
     {
@@ -440,6 +512,15 @@
       "p": 5.58,
       "s": "IMPRIMACIÓN INTUMESCENTE",
       "u": "kg"
+    },
+    {
+      "g": [
+        "imprimaciones"
+      ],
+      "id": "mt-imprimacion-selladora-acrilica-al-agua-para-microcemento",
+      "m": 0,
+      "s": "Imprimación selladora acrílica al agua para microcemento",
+      "u": "l"
     },
     {
       "d": "2021-12",
@@ -706,6 +787,15 @@
       "u": "m2"
     },
     {
+      "g": [
+        "varios"
+      ],
+      "id": "mt-pigmento-concentrado-para-microcemento",
+      "m": 0,
+      "s": "Pigmento concentrado para microcemento",
+      "u": "kg"
+    },
+    {
       "d": "2021-12",
       "g": [
         "varios"
@@ -773,5 +863,5 @@
     }
   ],
   "title": "Precios Básicos > PINTURAS",
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

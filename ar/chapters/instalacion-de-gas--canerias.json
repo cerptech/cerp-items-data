@@ -1,0 +1,125 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Instalación de gas > Cañerías",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.17,
+          "ref": "mt-ar-cano-de-hierro-negro-con-costura-de-1-2-pulgada-con-protecci",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Instalación de gas",
+          "Cañerías"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.574Z",
+      "id": "wi-ar-caneria-de-gas-de-hierro-negro-con-proteccion-epoxi-de-1-2-p",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 5773.96
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-caneria-de-gas-de-hierro-negro-con-proteccion-epoxi-de-1-2-p",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cañería de gas de hierro negro con protección epoxi de ø1/2 pulgada",
+      "tags": [
+        "gas",
+        "hierro negro",
+        "epoxi",
+        "matriculado",
+        "nag-200"
+      ],
+      "text": "Cañería de instalación interna de gas de hierro negro con costura de ø1/2\" con revestimiento epoxídico, embutida o a la vista según proyecto, incluidos accesorios, grapas, amure y prueba de hermeticidad, ejecutada por gasista matriculado ante la distribuidora, según NAG-200 de ENARGAS. Medida por metro lineal de cañería instalada. En gas los diámetros se dan en pulgadas. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. No se localizó rendimiento de mano de obra en ninguna fuente pública argentina para esta partida: no se carga mano de obra hasta conseguirlo. Ningún organismo público argentino publica rendimientos (los pliegos fijan la forma de medición, pero el análisis de precio lo presenta el oferente).",
+      "unit": "m",
+      "updatedAt": "2026-09-08T09:15:59.030Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-gabinete-para-medidor-y-regulador-de-gas",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Instalación de gas",
+          "Cañerías"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.574Z",
+      "id": "wi-ar-colocacion-de-gabinete-para-medidor-y-regulador-de-gas",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 51121.49
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-colocacion-de-gabinete-para-medidor-y-regulador-de-gas",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Colocación de gabinete para medidor y regulador de gas",
+      "tags": [
+        "gas",
+        "gabinete",
+        "medidor",
+        "regulador"
+      ],
+      "text": "Provisión y colocación de gabinete reglamentario para medidor y regulador de gas, con ventilaciones inferior y superior, incluidos amure, pintura y trámite ante la distribuidora. Medida por unidad colocada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. No se localizó rendimiento de mano de obra en ninguna fuente pública argentina para esta partida: no se carga mano de obra hasta conseguirlo. Ningún organismo público argentino publica rendimientos (los pliegos fijan la forma de medición, pero el análisis de precio lo presenta el oferente).",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:15:59.046Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.5.0"
+}

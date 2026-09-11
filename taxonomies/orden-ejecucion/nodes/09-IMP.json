@@ -2,6 +2,34 @@
   "key": "09-IMP",
   "rows": [
     {
+      "g": [],
+      "id": "wi-corte-de-humedad-por-capilaridad-en-muro-de-medio-pie-median",
+      "m": 3,
+      "s": "Corte de humedad por capilaridad en muro de medio pie mediante inyección de crema de silanos",
+      "u": "m"
+    },
+    {
+      "g": [],
+      "id": "wi-corte-de-humedad-por-capilaridad-en-muro-de-un-pie-mediante",
+      "m": 3,
+      "s": "Corte de humedad por capilaridad en muro de un pie mediante inyección de crema de silanos",
+      "u": "m"
+    },
+    {
+      "g": [],
+      "id": "wi-cubierta-plana-ajardinada-extensiva-con-lamina-antirraices-y",
+      "m": 10,
+      "s": "Cubierta plana ajardinada extensiva con lámina antirraíces y sedum",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-cubierta-plana-invertida-no-transitable-con-acabado-de-grava",
+      "m": 8,
+      "s": "Cubierta plana invertida no transitable con acabado de grava y XPS de 100 mm",
+      "u": "m2"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-impermeab-suelos-b-vapor-emulsion-asfaltica",
@@ -146,6 +174,41 @@
       "u": "m2"
     },
     {
+      "g": [],
+      "id": "wi-impermeabilizacion-de-cubierta-con-poliurea-pura-proyectada",
+      "m": 3,
+      "s": "Impermeabilización de cubierta con poliurea pura proyectada en caliente de 2 mm",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-impermeabilizacion-de-muro-enterrado-por-el-intrados-con-mor",
+      "m": 3,
+      "s": "Impermeabilización de muro enterrado por el intradós con mortero cementoso, dos manos",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-impermeabilizacion-de-muro-enterrado-por-el-trasdos-con-lami",
+      "m": 5,
+      "s": "Impermeabilización de muro enterrado por el trasdós con lámina asfáltica y lámina drenante",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-impermeabilizacion-de-zona-humeda-bajo-revestimiento-ceramic",
+      "m": 4,
+      "s": "Impermeabilización de zona húmeda bajo revestimiento cerámico con membrana líquida",
+      "u": "m2"
+    },
+    {
+      "g": [],
+      "id": "wi-impermeabilizacion-liquida-de-cubierta-con-membrana-de-poliu",
+      "m": 5,
+      "s": "Impermeabilización líquida de cubierta con membrana de poliuretano, dos manos",
+      "u": "m2"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-impermeabilizacion-paramentos-pintura-oxiasfalto",
@@ -174,5 +237,5 @@
     }
   ],
   "title": "Impermeabilizaciones",
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

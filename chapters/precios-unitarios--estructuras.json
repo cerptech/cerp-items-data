@@ -1261,6 +1261,181 @@
       "bom": [
         {
           "factor": 1,
+          "quantity": 0.035,
+          "ref": "mo-of-1-cerrajero-chapista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.035,
+          "ref": "mo-ayudante-especialista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.005,
+          "ref": "mq-grua-movil-autopropulsada",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-acero-s235jrc-en-perfil-conformado-en-frio-galvanizado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.02,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "ESTRUCTURAS",
+          "ACERO",
+          "Perfiles laminados",
+          "Perfiles laminados"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.090Z",
+      "id": "wi-acero-s235jrc-en-correas-de-cubierta-de-perfil-conformado-en",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-acero-s235jrc-en-correas-de-cubierta-de-perfil-conformado-en",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-acero-estructura-espacial-s275jr-perf-laminados",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Acero S235JRC en correas de cubierta de perfil conformado en frío galvanizado",
+      "tags": [
+        "estructura",
+        "acero",
+        "UNE-EN 1090-2",
+        "Código Estructural",
+        "correa",
+        "conformado en frío",
+        "s235jrc"
+      ],
+      "text": "Correa de cubierta de acero S235JRC en perfil conformado en frío tipo Z o C, galvanizado, atornillada a la estructura principal. Medida por el peso teórico del perfil; a diferencia de los perfiles laminados, los solapes de continuidad sí se miden, por ser material realmente colocado. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo. Rendimientos adaptados de BCCA wi-acero-estructura-espacial-s275jr-perf-laminados: rendimiento de mano de obra y de grúa adaptado de la partida de estructura espacial de acero S275JR con perfiles laminados de la BCCA 2024-01 (0,035 h de oficial 1ª cerrajero-chapista + 0,035 h de ayudante especialista + 0,005 h de grúa móvil por kg)",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:27.090Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.035,
+          "ref": "mo-of-1-cerrajero-chapista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.035,
+          "ref": "mo-ayudante-especialista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.005,
+          "ref": "mq-grua-movil-autopropulsada",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-acero-s-275-jr-en-perfiles-tubulares",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.02,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "ESTRUCTURAS",
+          "ACERO",
+          "Perfiles laminados",
+          "Perfiles laminados"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.090Z",
+      "id": "wi-acero-s275jr-en-pilares-de-perfil-laminado-en-caliente-ejecu",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "ES"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 3.54
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-acero-s275jr-en-pilares-de-perfil-laminado-en-caliente-ejecu",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-acero-estructura-espacial-s275jr-perf-laminados",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Acero S275JR en pilares de perfil laminado en caliente, ejecución EXC2",
+      "tags": [
+        "estructura",
+        "acero",
+        "UNE-EN 1090-2",
+        "Código Estructural",
+        "pilar",
+        "s275jr"
+      ],
+      "text": "Pilar de acero estructural S275JR según UNE-EN 10025-2, con perfil laminado en caliente, soldado, montado y aplomado, con dos manos de imprimación anticorrosiva. Medido por el peso teórico nominal del perfil multiplicado por su longitud real, sin incrementos por despuntes, soldaduras, tornillería ni recortes, que van en parte proporcional. La clase de ejecución debe declararse en el proyecto según UNE-EN 1090-2: EXC2 es la habitual en edificación y cambia de forma material el coste, porque determina el régimen de calidad de soldadura exigible (EN ISO 3834-3 en EXC2 frente a 3834-4 en EXC1) y el nivel de aceptación ISO 5817. Conforme al Código Estructural aprobado por el RD 470/2021; la EAE ya no está vigente como norma independiente y no debe citarse. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo. Rendimientos adaptados de BCCA wi-acero-estructura-espacial-s275jr-perf-laminados: rendimiento de mano de obra y de grúa adaptado de la partida de estructura espacial de acero S275JR con perfiles laminados de la BCCA 2024-01 (0,035 h de oficial 1ª cerrajero-chapista + 0,035 h de ayudante especialista + 0,005 h de grúa móvil por kg)",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:49.012Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-5591e830953a44dd",
+          "stale_edition-94d189ab8a7d9d6e"
+        ],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
           "quantity": 0.045,
           "ref": "mo-oficial-1",
           "role": "labor"
@@ -1414,6 +1589,261 @@
           "stale_edition-34611d612495d9f2"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.035,
+          "ref": "mo-of-1-cerrajero-chapista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.035,
+          "ref": "mo-ayudante-especialista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.005,
+          "ref": "mq-grua-movil-autopropulsada",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-acero-s-275-jr-en-perfiles-tubulares",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.02,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "ESTRUCTURAS",
+          "ACERO",
+          "Perfiles laminados",
+          "Perfiles laminados"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.090Z",
+      "id": "wi-acero-s275jr-en-vigas-y-jacenas-de-perfil-laminado-en-calien",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "EUR",
+          "date": "2022-12",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "ES"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 3.54
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-acero-s275jr-en-vigas-y-jacenas-de-perfil-laminado-en-calien",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-acero-estructura-espacial-s275jr-perf-laminados",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Acero S275JR en vigas y jácenas de perfil laminado en caliente, ejecución EXC2",
+      "tags": [
+        "estructura",
+        "acero",
+        "UNE-EN 1090-2",
+        "Código Estructural",
+        "viga",
+        "jácena",
+        "s275jr"
+      ],
+      "text": "Viga o jácena de acero estructural S275JR según UNE-EN 10025-2, con perfil laminado en caliente, soldada, montada y nivelada, con dos manos de imprimación anticorrosiva. Medido por el peso teórico nominal del perfil multiplicado por su longitud real, sin incrementos por despuntes, soldaduras, tornillería ni recortes, que van en parte proporcional. La clase de ejecución debe declararse en el proyecto según UNE-EN 1090-2: EXC2 es la habitual en edificación y cambia de forma material el coste, porque determina el régimen de calidad de soldadura exigible (EN ISO 3834-3 en EXC2 frente a 3834-4 en EXC1) y el nivel de aceptación ISO 5817. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo. Rendimientos adaptados de BCCA wi-acero-estructura-espacial-s275jr-perf-laminados: rendimiento de mano de obra y de grúa adaptado de la partida de estructura espacial de acero S275JR con perfiles laminados de la BCCA 2024-01 (0,035 h de oficial 1ª cerrajero-chapista + 0,035 h de ayudante especialista + 0,005 h de grúa móvil por kg)",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:49.017Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-9e646ba36c58c500",
+          "stale_edition-beb283355222b20f"
+        ],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.035,
+          "ref": "mo-of-1-cerrajero-chapista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.035,
+          "ref": "mo-ayudante-especialista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.005,
+          "ref": "mq-grua-movil-autopropulsada",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-acero-s355jr-en-perfil-laminado-en-caliente",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.02,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "ESTRUCTURAS",
+          "ACERO",
+          "Perfiles laminados",
+          "Perfiles laminados"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.090Z",
+      "id": "wi-acero-s355jr-en-pilares-de-perfil-laminado-en-caliente-ejecu",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-acero-s355jr-en-pilares-de-perfil-laminado-en-caliente-ejecu",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-acero-estructura-espacial-s275jr-perf-laminados",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Acero S355JR en pilares de perfil laminado en caliente, ejecución EXC2",
+      "tags": [
+        "estructura",
+        "acero",
+        "UNE-EN 1090-2",
+        "Código Estructural",
+        "pilar",
+        "s355jr"
+      ],
+      "text": "Pilar de acero estructural S355JR según UNE-EN 10025-2, con perfil laminado en caliente, soldado, montado y aplomado, con dos manos de imprimación anticorrosiva. Medido por el peso teórico nominal del perfil multiplicado por su longitud real, sin incrementos por despuntes, soldaduras, tornillería ni recortes, que van en parte proporcional. La clase de ejecución debe declararse en el proyecto según UNE-EN 1090-2: EXC2 es la habitual en edificación y cambia de forma material el coste, porque determina el régimen de calidad de soldadura exigible (EN ISO 3834-3 en EXC2 frente a 3834-4 en EXC1) y el nivel de aceptación ISO 5817. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo. Rendimientos adaptados de BCCA wi-acero-estructura-espacial-s275jr-perf-laminados: rendimiento de mano de obra y de grúa adaptado de la partida de estructura espacial de acero S275JR con perfiles laminados de la BCCA 2024-01 (0,035 h de oficial 1ª cerrajero-chapista + 0,035 h de ayudante especialista + 0,005 h de grúa móvil por kg)",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:27.090Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.035,
+          "ref": "mo-of-1-cerrajero-chapista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.035,
+          "ref": "mo-ayudante-especialista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.005,
+          "ref": "mq-grua-movil-autopropulsada",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-acero-s355jr-en-perfil-laminado-en-caliente",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.02,
+          "ref": "mt-pequeno-material",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "ESTRUCTURAS",
+          "ACERO",
+          "Perfiles laminados",
+          "Perfiles laminados"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.090Z",
+      "id": "wi-acero-s355jr-en-vigas-y-jacenas-de-perfil-laminado-en-calien",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-acero-s355jr-en-vigas-y-jacenas-de-perfil-laminado-en-calien",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-acero-estructura-espacial-s275jr-perf-laminados",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Acero S355JR en vigas y jácenas de perfil laminado en caliente, ejecución EXC2",
+      "tags": [
+        "estructura",
+        "acero",
+        "UNE-EN 1090-2",
+        "Código Estructural",
+        "viga",
+        "jácena",
+        "s355jr"
+      ],
+      "text": "Viga o jácena de acero estructural S355JR según UNE-EN 10025-2, con perfil laminado en caliente, soldada, montada y nivelada, con dos manos de imprimación anticorrosiva. Medido por el peso teórico nominal del perfil multiplicado por su longitud real, sin incrementos por despuntes, soldaduras, tornillería ni recortes, que van en parte proporcional. La clase de ejecución debe declararse en el proyecto según UNE-EN 1090-2: EXC2 es la habitual en edificación y cambia de forma material el coste, porque determina el régimen de calidad de soldadura exigible (EN ISO 3834-3 en EXC2 frente a 3834-4 en EXC1) y el nivel de aceptación ISO 5817. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo. Rendimientos adaptados de BCCA wi-acero-estructura-espacial-s275jr-perf-laminados: rendimiento de mano de obra y de grúa adaptado de la partida de estructura espacial de acero S275JR con perfiles laminados de la BCCA 2024-01 (0,035 h de oficial 1ª cerrajero-chapista + 0,035 h de ayudante especialista + 0,005 h de grúa móvil por kg)",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:27.090Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -7389,6 +7819,55 @@
           "stale_edition-6f5cc2acb98db88d"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-panel-de-madera-contralaminada-clt-de-5-capas-y-140-mm",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "ESTRUCTURAS",
+          "MADERA",
+          "Madera laminada",
+          "Madera laminada"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.095Z",
+      "id": "wi-forjado-de-panel-de-madera-contralaminada-clt-de-5-capas-y-1",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-forjado-de-panel-de-madera-contralaminada-clt-de-5-capas-y-1",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Forjado de panel de madera contralaminada CLT de 5 capas y 140 mm",
+      "tags": [
+        "estructura",
+        "madera",
+        "CTE DB-SE-M",
+        "clt",
+        "forjado",
+        "contralaminada"
+      ],
+      "text": "Forjado de panel de madera contralaminada de cinco capas y 140 mm de espesor según UNE-EN 16351, colocado con medios de elevación, con uniones atornilladas y sellado de juntas. Medida la superficie realmente colocada, sin descontar huecos menores o iguales a 1 m²; los recortes de mecanizado no se miden. No se localizó rendimiento de mano de obra en ninguna fuente pública española gratuita para esta partida. La única base pública que declara publicar rendimientos es la de Extremadura, cuya reutilización está pendiente de decisión legal. No se carga mano de obra hasta resolverlo. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.095Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -14212,6 +14691,51 @@
       }
     },
     {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "ESTRUCTURAS",
+          "ACERO",
+          "Protecciones",
+          "Protecciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.095Z",
+      "id": "wi-galvanizado-en-caliente-por-inmersion-de-perfileria-de-acero",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-galvanizado-en-caliente-por-inmersion-de-perfileria-de-acero",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Galvanizado en caliente por inmersión de perfilería de acero, recubrimiento medio 85 micras",
+      "tags": [
+        "estructura",
+        "acero",
+        "UNE-EN 1090-2",
+        "Código Estructural",
+        "galvanizado",
+        "une-en iso 1461",
+        "corrosión"
+      ],
+      "text": "Galvanizado en caliente por inmersión de perfilería de acero de espesor superior a 6 mm, con recubrimiento local mínimo de 505 g/m² (70 micras) y medio mínimo de 610 g/m² (85 micras), según UNE-EN ISO 1461. Medido en kilogramos de acero galvanizado: aunque es un tratamiento superficial, la industria factura por peso de pieza sumergida. Conviene separar la partida por tipología de perfil, porque el precio por kilogramo depende de la relación entre superficie y masa. La duración de la protección es proporcional al espesor del recubrimiento. No se localizó rendimiento de mano de obra en ninguna fuente pública española gratuita para esta partida. La única base pública que declara publicar rendimientos es la de Extremadura, cuya reutilización está pendiente de decisión legal. No se carga mano de obra hasta resolverlo. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "kg",
+      "updatedAt": "2026-09-08T09:13:27.095Z",
+      "verification": {
+        "findings": [
+          "missing_bom-83c61fc6f0b08851"
+        ],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
       "bom": [
         {
           "factor": 1,
@@ -17500,6 +18024,95 @@
       }
     },
     {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "ESTRUCTURAS",
+          "MADERA",
+          "Madera laminada",
+          "Madera laminada"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.095Z",
+      "id": "wi-madera-estructural-tratada-en-autoclave-para-clase-de-uso-3",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-madera-estructural-tratada-en-autoclave-para-clase-de-uso-3",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Madera estructural tratada en autoclave para clase de uso 3.2",
+      "tags": [
+        "estructura",
+        "madera",
+        "CTE DB-SE-M",
+        "autoclave",
+        "clase de uso 3.2",
+        "tratamiento"
+      ],
+      "text": "Tratamiento protector de madera estructural en autoclave por el método de vacío-presión, para clase de uso 3.2 según UNE-EN 335, es decir, madera al exterior por encima del suelo y no protegida. Es una partida de proceso industrial y se mide en metros cúbicos de madera tratada, no en metros cuadrados de superficie. El certificado debe declarar la retención de producto protector en kilogramos por metro cúbico y su penetración. No se localizó rendimiento de mano de obra en ninguna fuente pública española gratuita para esta partida. La única base pública que declara publicar rendimientos es la de Extremadura, cuya reutilización está pendiente de decisión legal. No se carga mano de obra hasta resolverlo. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m3",
+      "updatedAt": "2026-09-08T09:13:27.095Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-4b143e94be2b6c42",
+          "missing_bom-6fd167e17d911d2b"
+        ],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "ESTRUCTURAS",
+          "MADERA",
+          "Madera laminada",
+          "Madera laminada"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.095Z",
+      "id": "wi-madera-estructural-tratada-en-autoclave-para-clase-de-uso-4",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-madera-estructural-tratada-en-autoclave-para-clase-de-uso-4",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Madera estructural tratada en autoclave para clase de uso 4",
+      "tags": [
+        "estructura",
+        "madera",
+        "CTE DB-SE-M",
+        "autoclave",
+        "clase de uso 4",
+        "tratamiento"
+      ],
+      "text": "Tratamiento protector de madera estructural en autoclave por el método de vacío-presión, para clase de uso 4 según UNE-EN 335, es decir, madera en contacto con el suelo o con agua dulce y expuesta a humectación permanente. Se mide en metros cúbicos de madera tratada. No se localizó rendimiento de mano de obra en ninguna fuente pública española gratuita para esta partida. La única base pública que declara publicar rendimientos es la de Extremadura, cuya reutilización está pendiente de decisión legal. No se carga mano de obra hasta resolverlo. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m3",
+      "updatedAt": "2026-09-08T09:13:27.095Z",
+      "verification": {
+        "findings": [
+          "missing_bom-c6a12d47f96b353e"
+        ],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
       "bom": [
         {
           "factor": 1,
@@ -17842,6 +18455,371 @@
       "bom": [
         {
           "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-panel-de-madera-contralaminada-clt-de-3-capas-y-100-mm",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "ESTRUCTURAS",
+          "MADERA",
+          "Madera laminada",
+          "Madera laminada"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.095Z",
+      "id": "wi-muro-estructural-de-panel-de-madera-contralaminada-clt-de-3",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-muro-estructural-de-panel-de-madera-contralaminada-clt-de-3",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Muro estructural de panel de madera contralaminada CLT de 3 capas y 100 mm",
+      "tags": [
+        "estructura",
+        "madera",
+        "CTE DB-SE-M",
+        "clt",
+        "muro",
+        "contralaminada"
+      ],
+      "text": "Muro estructural de panel de madera contralaminada de tres capas y 100 mm de espesor según UNE-EN 16351, colocado con medios de elevación, aplomado, con uniones atornilladas y herrajes de anclaje. Medida la superficie realmente colocada, sin descontar huecos menores o iguales a 1 m². No se localizó rendimiento de mano de obra en ninguna fuente pública española gratuita para esta partida. La única base pública que declara publicar rendimientos es la de Extremadura, cuya reutilización está pendiente de decisión legal. No se carga mano de obra hasta resolverlo. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.095Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-madera-laminada-encolada-homogenea-gl24h",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-estribo-de-acero-galvanizado-para-apoyo-de-viga-de-madera",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "ESTRUCTURAS",
+          "MADERA",
+          "Madera laminada",
+          "Madera laminada"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.096Z",
+      "id": "wi-pilar-de-madera-laminada-encolada-gl24h-de-seccion-rectangul",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-pilar-de-madera-laminada-encolada-gl24h-de-seccion-rectangul",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Pilar de madera laminada encolada GL24h de sección rectangular",
+      "tags": [
+        "estructura",
+        "madera",
+        "CTE DB-SE-M",
+        "pilar",
+        "gl24h",
+        "laminada"
+      ],
+      "text": "Pilar de madera laminada encolada homogénea GL24h según UNE-EN 14080, de sección rectangular, montado y aplomado, con herrajes de base y de cabeza. Medida por el volumen realmente ejecutado, sobre la escuadría y la longitud real de la pieza. Se consideran incluidas la nivelación, los medios auxiliares de montaje, los desperdicios por uniones y ensambladuras y los herrajes necesarios para las uniones. No confundir la clase de servicio del CTE DB-SE-M, que es de cálculo estructural, con la clase de uso de la UNE-EN 335, que es de protección biológica: son dos ejes distintos y ambos deben declararse. No se localizó rendimiento de mano de obra en ninguna fuente pública española gratuita para esta partida. La única base pública que declara publicar rendimientos es la de Extremadura, cuya reutilización está pendiente de decisión legal. No se carga mano de obra hasta resolverlo. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m3",
+      "updatedAt": "2026-09-08T09:13:27.096Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pintura-intumescente-base-agua-para-proteccion-de-estructura",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.28,
+          "ref": "mt-imprimacion-anticorrosiva-de-dos-componentes-para-estructura",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mt-sellador-de-acabado-para-pintura-intumescente",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "ESTRUCTURAS",
+          "ACERO",
+          "Protecciones",
+          "Protecciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.096Z",
+      "id": "wi-pintura-intumescente-sobre-estructura-de-acero-para-r-120-en",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-pintura-intumescente-sobre-estructura-de-acero-para-r-120-en",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Pintura intumescente sobre estructura de acero para R 120 en perfil de masividad hasta 200 m-1",
+      "tags": [
+        "estructura",
+        "acero",
+        "UNE-EN 1090-2",
+        "Código Estructural",
+        "intumescente",
+        "protección al fuego",
+        "r120",
+        "cte db-si"
+      ],
+      "text": "Protección al fuego de estructura de acero para una resistencia R 120, en perfil de masividad hasta 200 m⁻¹, mediante sistema completo de imprimación anticorrosiva, pintura intumescente base agua y sellador de acabado. Medida por metro cuadrado de superficie realmente protegida, sobre el desarrollo del perfil y según las caras expuestas. El espesor de película seca se determina a partir de las tablas de la evaluación técnica europea del producto, en función de la masividad del perfil y del número de caras expuestas, y se verifica en obra según UNE 48287. No existe un espesor en micras universal asociado a una clase R. La exigencia R 120 corresponde, según la tabla 3.1 de la sección SI 6 del CTE, a residencial vivienda y administrativo por encima de 28 m, sótanos, y aparcamiento bajo otro uso. No se localizó rendimiento de mano de obra en ninguna fuente pública española gratuita para esta partida. La única base pública que declara publicar rendimientos es la de Extremadura, cuya reutilización está pendiente de decisión legal. No se carga mano de obra hasta resolverlo. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.096Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-16329a679777de83",
+          "duplicate_candidate-b2d97494500cebb6",
+          "duplicate_candidate-bff2bc72cb7c4159"
+        ],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pintura-intumescente-base-agua-para-proteccion-de-estructura",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.28,
+          "ref": "mt-imprimacion-anticorrosiva-de-dos-componentes-para-estructura",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mt-sellador-de-acabado-para-pintura-intumescente",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "ESTRUCTURAS",
+          "ACERO",
+          "Protecciones",
+          "Protecciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.096Z",
+      "id": "wi-pintura-intumescente-sobre-estructura-de-acero-para-r-30-en",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-pintura-intumescente-sobre-estructura-de-acero-para-r-30-en",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Pintura intumescente sobre estructura de acero para R 30 en perfil de masividad hasta 200 m-1",
+      "tags": [
+        "estructura",
+        "acero",
+        "UNE-EN 1090-2",
+        "Código Estructural",
+        "intumescente",
+        "protección al fuego",
+        "r30",
+        "cte db-si"
+      ],
+      "text": "Protección al fuego de estructura de acero para una resistencia R 30, en perfil de masividad hasta 200 m⁻¹, mediante sistema completo de imprimación anticorrosiva, pintura intumescente base agua y sellador de acabado. Medida por metro cuadrado de superficie realmente protegida, sobre el desarrollo del perfil y según las caras expuestas. El espesor de película seca se determina a partir de las tablas de la evaluación técnica europea del producto, en función de la masividad del perfil y del número de caras expuestas, y se verifica en obra según UNE 48287. No existe un espesor en micras universal asociado a una clase R. La exigencia R 30 corresponde, según la tabla 3.1 de la sección SI 6 del CTE, a vivienda unifamiliar. No se localizó rendimiento de mano de obra en ninguna fuente pública española gratuita para esta partida. La única base pública que declara publicar rendimientos es la de Extremadura, cuya reutilización está pendiente de decisión legal. No se carga mano de obra hasta resolverlo. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.096Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-bf8237f2db624dd6",
+          "duplicate_candidate-ec63203d21c3c858"
+        ],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pintura-intumescente-base-agua-para-proteccion-de-estructura",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.28,
+          "ref": "mt-imprimacion-anticorrosiva-de-dos-componentes-para-estructura",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mt-sellador-de-acabado-para-pintura-intumescente",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "ESTRUCTURAS",
+          "ACERO",
+          "Protecciones",
+          "Protecciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.096Z",
+      "id": "wi-pintura-intumescente-sobre-estructura-de-acero-para-r-60-en",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-pintura-intumescente-sobre-estructura-de-acero-para-r-60-en",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Pintura intumescente sobre estructura de acero para R 60 en perfil de masividad hasta 200 m-1",
+      "tags": [
+        "estructura",
+        "acero",
+        "UNE-EN 1090-2",
+        "Código Estructural",
+        "intumescente",
+        "protección al fuego",
+        "r60",
+        "cte db-si"
+      ],
+      "text": "Protección al fuego de estructura de acero para una resistencia R 60, en perfil de masividad hasta 200 m⁻¹, mediante sistema completo de imprimación anticorrosiva, pintura intumescente base agua y sellador de acabado. Medida por metro cuadrado de superficie realmente protegida, sobre el desarrollo del perfil y según las caras expuestas. El espesor de película seca se determina a partir de las tablas de la evaluación técnica europea del producto, en función de la masividad del perfil y del número de caras expuestas, y se verifica en obra según UNE 48287. No existe un espesor en micras universal asociado a una clase R. La exigencia R 60 corresponde, según la tabla 3.1 de la sección SI 6 del CTE, a residencial vivienda y administrativo hasta 15 m de altura de evacuación. No se localizó rendimiento de mano de obra en ninguna fuente pública española gratuita para esta partida. La única base pública que declara publicar rendimientos es la de Extremadura, cuya reutilización está pendiente de decisión legal. No se carga mano de obra hasta resolverlo. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.096Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-d542e9689bd7c71a"
+        ],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pintura-intumescente-base-agua-para-proteccion-de-estructura",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.28,
+          "ref": "mt-imprimacion-anticorrosiva-de-dos-componentes-para-estructura",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mt-sellador-de-acabado-para-pintura-intumescente",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "ESTRUCTURAS",
+          "ACERO",
+          "Protecciones",
+          "Protecciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.096Z",
+      "id": "wi-pintura-intumescente-sobre-estructura-de-acero-para-r-90-en",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-pintura-intumescente-sobre-estructura-de-acero-para-r-90-en",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Pintura intumescente sobre estructura de acero para R 90 en perfil de masividad hasta 200 m-1",
+      "tags": [
+        "estructura",
+        "acero",
+        "UNE-EN 1090-2",
+        "Código Estructural",
+        "intumescente",
+        "protección al fuego",
+        "r90",
+        "cte db-si"
+      ],
+      "text": "Protección al fuego de estructura de acero para una resistencia R 90, en perfil de masividad hasta 200 m⁻¹, mediante sistema completo de imprimación anticorrosiva, pintura intumescente base agua y sellador de acabado. Medida por metro cuadrado de superficie realmente protegida, sobre el desarrollo del perfil y según las caras expuestas. El espesor de película seca se determina a partir de las tablas de la evaluación técnica europea del producto, en función de la masividad del perfil y del número de caras expuestas, y se verifica en obra según UNE 48287. No existe un espesor en micras universal asociado a una clase R. La exigencia R 90 corresponde, según la tabla 3.1 de la sección SI 6 del CTE, a residencial vivienda y administrativo hasta 28 m, aparcamiento, y comercial y pública concurrencia hasta 15 m. No se localizó rendimiento de mano de obra en ninguna fuente pública española gratuita para esta partida. La única base pública que declara publicar rendimientos es la de Extremadura, cuya reutilización está pendiente de decisión legal. No se carga mano de obra hasta resolverlo. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.096Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
           "quantity": 0.8,
           "ref": "mo-ayudante-carpinteria",
           "role": "labor"
@@ -18065,6 +19043,118 @@
       "bom": [
         {
           "factor": 1,
+          "quantity": 1,
+          "ref": "mt-madera-laminada-encolada-homogenea-gl24h",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mt-estribo-de-acero-galvanizado-para-apoyo-de-viga-de-madera",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "ESTRUCTURAS",
+          "MADERA",
+          "Madera laminada",
+          "Madera laminada"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.096Z",
+      "id": "wi-viga-de-madera-laminada-encolada-gl24h-de-directriz-recta",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-viga-de-madera-laminada-encolada-gl24h-de-directriz-recta",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Viga de madera laminada encolada GL24h de directriz recta",
+      "tags": [
+        "estructura",
+        "madera",
+        "CTE DB-SE-M",
+        "viga",
+        "gl24h",
+        "laminada"
+      ],
+      "text": "Viga de madera laminada encolada homogénea GL24h según UNE-EN 14080, de directriz recta, montada y nivelada, con herrajes de apoyo. Medida por el volumen realmente ejecutado, sobre la escuadría y la longitud real de la pieza. Se consideran incluidas la nivelación, los medios auxiliares de montaje, los desperdicios por uniones y ensambladuras y los herrajes necesarios para las uniones. No confundir la clase de servicio del CTE DB-SE-M, que es de cálculo estructural, con la clase de uso de la UNE-EN 335, que es de protección biológica: son dos ejes distintos y ambos deben declararse. No se localizó rendimiento de mano de obra en ninguna fuente pública española gratuita para esta partida. La única base pública que declara publicar rendimientos es la de Extremadura, cuya reutilización está pendiente de decisión legal. No se carga mano de obra hasta resolverlo. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m3",
+      "updatedAt": "2026-09-08T09:13:27.096Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-5e43edeaa15ffc65"
+        ],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-madera-laminada-encolada-homogenea-gl28h",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mt-estribo-de-acero-galvanizado-para-apoyo-de-viga-de-madera",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "ESTRUCTURAS",
+          "MADERA",
+          "Madera laminada",
+          "Madera laminada"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.096Z",
+      "id": "wi-viga-de-madera-laminada-encolada-gl28h-de-directriz-recta",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-viga-de-madera-laminada-encolada-gl28h-de-directriz-recta",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Viga de madera laminada encolada GL28h de directriz recta",
+      "tags": [
+        "estructura",
+        "madera",
+        "CTE DB-SE-M",
+        "viga",
+        "gl28h",
+        "laminada"
+      ],
+      "text": "Viga de madera laminada encolada homogénea GL28h según UNE-EN 14080, de directriz recta, montada y nivelada, con herrajes de apoyo. Medida por el volumen realmente ejecutado, sobre la escuadría y la longitud real de la pieza. Se consideran incluidas la nivelación, los medios auxiliares de montaje, los desperdicios por uniones y ensambladuras y los herrajes necesarios para las uniones. No confundir la clase de servicio del CTE DB-SE-M, que es de cálculo estructural, con la clase de uso de la UNE-EN 335, que es de protección biológica: son dos ejes distintos y ambos deben declararse. No se localizó rendimiento de mano de obra en ninguna fuente pública española gratuita para esta partida. La única base pública que declara publicar rendimientos es la de Extremadura, cuya reutilización está pendiente de decisión legal. No se carga mano de obra hasta resolverlo. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente española 2026 legalmente habilitada de la que tomarlo.",
+      "unit": "m3",
+      "updatedAt": "2026-09-08T09:13:27.096Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
           "quantity": 0.55,
           "ref": "mo-ayudante-carpinteria",
           "role": "labor"
@@ -18136,5 +19226,5 @@
       }
     }
   ],
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

@@ -8699,6 +8699,50 @@
       "u": "u"
     },
     {
+      "g": [
+        "control-remoto",
+        "control-remoto",
+        "aparatos"
+      ],
+      "id": "wi-actuador-de-conmutacion-knx-de-8-salidas-instalado-en-cuadro",
+      "m": 3,
+      "s": "Actuador de conmutación KNX de 8 salidas instalado en cuadro",
+      "u": "u"
+    },
+    {
+      "g": [
+        "control-remoto",
+        "control-remoto",
+        "aparatos"
+      ],
+      "id": "wi-actuador-de-persianas-knx-de-4-salidas-instalado-en-cuadro",
+      "m": 3,
+      "s": "Actuador de persianas KNX de 4 salidas instalado en cuadro",
+      "u": "u"
+    },
+    {
+      "g": [
+        "control-remoto",
+        "control-remoto",
+        "aparatos"
+      ],
+      "id": "wi-actuador-regulador-knx-universal-de-4-salidas-instalado-en-c",
+      "m": 3,
+      "s": "Actuador regulador KNX universal de 4 salidas instalado en cuadro",
+      "u": "u"
+    },
+    {
+      "g": [
+        "control-remoto",
+        "control-remoto",
+        "aparatos"
+      ],
+      "id": "wi-alarma-tecnica-de-inundacion-knx-con-corte-automatico-de-agu",
+      "m": 5,
+      "s": "Alarma técnica de inundación KNX con corte automático de agua",
+      "u": "u"
+    },
+    {
       "d": "2022-12",
       "g": [
         "control-remoto",
@@ -8748,6 +8792,28 @@
       "m": 3,
       "p": 250.53,
       "s": "CONTROLADOR SISTEMA MEZCLA (BOMBA + VÁLVULA",
+      "u": "u"
+    },
+    {
+      "g": [
+        "control-remoto",
+        "control-remoto",
+        "aparatos"
+      ],
+      "id": "wi-detector-de-presencia-knx-de-techo-instalado",
+      "m": 3,
+      "s": "Detector de presencia KNX de techo instalado",
+      "u": "u"
+    },
+    {
+      "g": [
+        "control-remoto",
+        "control-remoto",
+        "aparatos"
+      ],
+      "id": "wi-fuente-de-alimentacion-knx-de-640-ma-instalada-en-cuadro",
+      "m": 3,
+      "s": "Fuente de alimentación KNX de 640 mA instalada en cuadro",
       "u": "u"
     },
     {
@@ -8816,6 +8882,17 @@
       "u": "u"
     },
     {
+      "g": [
+        "control-remoto",
+        "control-remoto",
+        "aparatos"
+      ],
+      "id": "wi-pantalla-tactil-de-control-knx-empotrada",
+      "m": 3,
+      "s": "Pantalla táctil de control KNX, empotrada",
+      "u": "u"
+    },
+    {
       "d": "2022-12",
       "g": [
         "control-remoto",
@@ -8839,6 +8916,28 @@
       "m": 2,
       "p": 51.4,
       "s": "PRESOSTATO DIFERENCIAL PARA AIRE 600Pa",
+      "u": "u"
+    },
+    {
+      "g": [
+        "control-remoto",
+        "control-remoto",
+        "aparatos"
+      ],
+      "id": "wi-programacion-y-puesta-en-marcha-de-sistema-knx-por-dispositi",
+      "m": 1,
+      "s": "Programación y puesta en marcha de sistema KNX, por dispositivo",
+      "u": "u"
+    },
+    {
+      "g": [
+        "control-remoto",
+        "control-remoto",
+        "aparatos"
+      ],
+      "id": "wi-punto-de-mando-knx-con-pulsador-de-2-canales-empotrado",
+      "m": 4,
+      "s": "Punto de mando KNX con pulsador de 2 canales, empotrado",
       "u": "u"
     },
     {
@@ -8920,6 +9019,17 @@
       "u": "u"
     },
     {
+      "g": [
+        "control-remoto",
+        "control-remoto",
+        "aparatos"
+      ],
+      "id": "wi-termostato-knx-de-ambiente-con-display-empotrado",
+      "m": 4,
+      "s": "Termostato KNX de ambiente con display, empotrado",
+      "u": "u"
+    },
+    {
       "d": "2022-12",
       "g": [
         "control-remoto",
@@ -8956,6 +9066,17 @@
       "m": 3,
       "p": 5.09,
       "s": "Bus de comunicaciones LON par trenzado 1mm2",
+      "u": "m"
+    },
+    {
+      "g": [
+        "control-remoto",
+        "control-remoto",
+        "canalizaciones"
+      ],
+      "id": "wi-linea-de-bus-knx-bajo-tubo-corrugado-de-pvc-de-20-mm",
+      "m": 3,
+      "s": "Línea de bus KNX bajo tubo corrugado de PVC de 20 mm",
       "u": "m"
     },
     {
@@ -22514,6 +22635,17 @@
       "u": "m"
     },
     {
+      "g": [
+        "protecciones",
+        "contra-incendios",
+        "deteccion-y-alarma"
+      ],
+      "id": "wi-aislador-de-cortocircuito-de-lazo-direccionable-instalado",
+      "m": 2,
+      "s": "Aislador de cortocircuito de lazo direccionable, instalado",
+      "u": "u"
+    },
+    {
       "d": "2021-12",
       "g": [
         "protecciones",
@@ -22800,6 +22932,17 @@
       "u": "u"
     },
     {
+      "g": [
+        "protecciones",
+        "contra-incendios",
+        "deteccion-y-alarma"
+      ],
+      "id": "wi-detector-multicriterio-optico-termico-direccionable-instalad",
+      "m": 2,
+      "s": "Detector multicriterio óptico-térmico direccionable, instalado y direccionado",
+      "u": "u"
+    },
+    {
       "d": "2021-12",
       "g": [
         "protecciones",
@@ -22823,6 +22966,17 @@
       "m": 2,
       "p": 58.47,
       "s": "DETECTOR ÓPTICO DE HUMOS",
+      "u": "u"
+    },
+    {
+      "g": [
+        "protecciones",
+        "contra-incendios",
+        "deteccion-y-alarma"
+      ],
+      "id": "wi-detector-optico-de-humos-direccionable-analogico-instalado-y",
+      "m": 2,
+      "s": "Detector óptico de humos direccionable analógico, instalado y direccionado",
       "u": "u"
     },
     {
@@ -22915,6 +23069,17 @@
       "p": 409.1,
       "s": "KIT ALARMA ASEO",
       "u": "u"
+    },
+    {
+      "g": [
+        "protecciones",
+        "contra-incendios",
+        "deteccion-y-alarma"
+      ],
+      "id": "wi-lazo-de-deteccion-de-incendios-con-cable-resistente-al-fuego",
+      "m": 3,
+      "s": "Lazo de detección de incendios con cable resistente al fuego 2x1,5 mm2 bajo tubo",
+      "u": "m"
     },
     {
       "d": "2021-12",
@@ -23021,6 +23186,17 @@
       "u": "u"
     },
     {
+      "g": [
+        "protecciones",
+        "contra-incendios",
+        "deteccion-y-alarma"
+      ],
+      "id": "wi-modulo-direccionable-de-entrada-y-salida-de-rele-para-maniob",
+      "m": 2,
+      "s": "Módulo direccionable de entrada y salida de relé para maniobras, instalado",
+      "u": "u"
+    },
+    {
       "d": "2021-12",
       "g": [
         "protecciones",
@@ -23070,6 +23246,17 @@
       "m": 3,
       "p": 112.41,
       "s": "PUESTO DE ALARMA ÓPTICO-ACÚSTICA",
+      "u": "u"
+    },
+    {
+      "g": [
+        "protecciones",
+        "contra-incendios",
+        "deteccion-y-alarma"
+      ],
+      "id": "wi-pulsador-de-alarma-direccionable-rearmable-instalado-y-direc",
+      "m": 2,
+      "s": "Pulsador de alarma direccionable rearmable, instalado y direccionado",
       "u": "u"
     },
     {
@@ -23148,6 +23335,17 @@
       "m": 2,
       "p": 16.2,
       "s": "PULSADOR PARADA EXTINCIÓN",
+      "u": "u"
+    },
+    {
+      "g": [
+        "protecciones",
+        "contra-incendios",
+        "deteccion-y-alarma"
+      ],
+      "id": "wi-sirena-optico-acustica-direccionable-de-exterior-instalada",
+      "m": 2,
+      "s": "Sirena óptico-acústica direccionable de exterior, instalada",
       "u": "u"
     },
     {
@@ -25856,5 +26054,5 @@
     }
   ],
   "title": "Precios Unitarios > INSTALACIONES",
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

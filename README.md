@@ -1,8 +1,8 @@
 # Banco de ítems de construcción CERP
 
-Catálogo abierto de **12565 ítems de construcción de España** con precios de referencia y descomposición completa (mano de obra, materiales y maquinaria con rendimientos). Versión **0.4.0** · generado 2026-08-17 · mantenido por [CERP](https://cerp.es).
+Catálogo abierto de **12697 ítems de construcción de España** con precios de referencia y descomposición completa (mano de obra, materiales y maquinaria con rendimientos). Versión **0.5.0** · generado 2026-09-11 · mantenido por [CERP](https://cerp.es).
 
-6510 partidas de obra · 5639 materiales · 107 recursos de mano de obra y maquinaria
+6566 partidas de obra · 5714 materiales · 108 recursos de mano de obra y maquinaria
 
 ## Para personas
 
@@ -15,20 +15,20 @@ También podés navegar los capítulos en [`chapters/`](./chapters): cada capít
 | [Precios Auxiliares > AGLOMERANTES Y MORTEROS](./chapters/precios-auxiliares--aglomerantes-y-morteros.md) | 39 | [JSON](./chapters/precios-auxiliares--aglomerantes-y-morteros.json) |
 | [Precios Auxiliares > RESIDUOS](./chapters/precios-auxiliares--residuos.md) | 3 | [JSON](./chapters/precios-auxiliares--residuos.json) |
 | [Precios Unitarios > ACONDICIONAMIENTO DE TERRENOS](./chapters/precios-unitarios--acondicionamiento-de-terrenos.md) | 137 | [JSON](./chapters/precios-unitarios--acondicionamiento-de-terrenos.json) |
-| [Precios Unitarios > AISLAMIENTOS](./chapters/precios-unitarios--aislamientos.md) | 147 | [JSON](./chapters/precios-unitarios--aislamientos.json) |
-| [Precios Unitarios > ALBAÑILERÍA](./chapters/precios-unitarios--albanileria.md) | 322 | [JSON](./chapters/precios-unitarios--albanileria.json) |
+| [Precios Unitarios > AISLAMIENTOS](./chapters/precios-unitarios--aislamientos.md) | 156 | [JSON](./chapters/precios-unitarios--aislamientos.json) |
+| [Precios Unitarios > ALBAÑILERÍA](./chapters/precios-unitarios--albanileria.md) | 324 | [JSON](./chapters/precios-unitarios--albanileria.json) |
 | [Precios Unitarios > CARPINTERÍA Y ELEMENTOS DE SEGURIDAD Y PROTECCIÓN](./chapters/precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion.md) | 475 | [JSON](./chapters/precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion.json) |
 | [Precios Unitarios > CIMENTACIONES](./chapters/precios-unitarios--cimentaciones.md) | 181 | [JSON](./chapters/precios-unitarios--cimentaciones.json) |
 | [Precios Unitarios > CONTROL DE CALIDAD, PRUEBAS Y ENSAYOS](./chapters/precios-unitarios--control-de-calidad-pruebas-y-ensayos.md) | 335 | [JSON](./chapters/precios-unitarios--control-de-calidad-pruebas-y-ensayos.json) |
 | [Precios Unitarios > CUBIERTAS](./chapters/precios-unitarios--cubiertas.md) | 120 | [JSON](./chapters/precios-unitarios--cubiertas.json) |
 | [Precios Unitarios > DEMOLICIONES Y TRABAJOS PREVIOS](./chapters/precios-unitarios--demoliciones-y-trabajos-previos.md) | 490 | [JSON](./chapters/precios-unitarios--demoliciones-y-trabajos-previos.json) |
 | [Precios Unitarios > EQUIPAMIENTO](./chapters/precios-unitarios--equipamiento.md) | 54 | [JSON](./chapters/precios-unitarios--equipamiento.json) |
-| [Precios Unitarios > ESTRUCTURAS](./chapters/precios-unitarios--estructuras.md) | 187 | [JSON](./chapters/precios-unitarios--estructuras.json) |
+| [Precios Unitarios > ESTRUCTURAS](./chapters/precios-unitarios--estructuras.md) | 204 | [JSON](./chapters/precios-unitarios--estructuras.json) |
 | [Precios Unitarios > GESTIÓN DE RESIDUOS](./chapters/precios-unitarios--gestion-de-residuos.md) | 104 | [JSON](./chapters/precios-unitarios--gestion-de-residuos.json) |
-| [Precios Unitarios > INSTALACIONES](./chapters/precios-unitarios--instalaciones.md) | 1989 | [JSON](./chapters/precios-unitarios--instalaciones.json) |
+| [Precios Unitarios > INSTALACIONES](./chapters/precios-unitarios--instalaciones.md) | 2007 | [JSON](./chapters/precios-unitarios--instalaciones.json) |
 | [Precios Unitarios > MANTENIMIENTO](./chapters/precios-unitarios--mantenimiento.md) | 288 | [JSON](./chapters/precios-unitarios--mantenimiento.json) |
 | [Precios Unitarios > PINTURAS](./chapters/precios-unitarios--pinturas.md) | 97 | [JSON](./chapters/precios-unitarios--pinturas.json) |
-| [Precios Unitarios > REVESTIMIENTOS](./chapters/precios-unitarios--revestimientos.md) | 525 | [JSON](./chapters/precios-unitarios--revestimientos.json) |
+| [Precios Unitarios > REVESTIMIENTOS](./chapters/precios-unitarios--revestimientos.md) | 535 | [JSON](./chapters/precios-unitarios--revestimientos.json) |
 | [Precios Unitarios > SANEAMIENTO](./chapters/precios-unitarios--saneamiento.md) | 68 | [JSON](./chapters/precios-unitarios--saneamiento.json) |
 | [Precios Unitarios > SEGURIDAD Y SALUD](./chapters/precios-unitarios--seguridad-y-salud.md) | 243 | [JSON](./chapters/precios-unitarios--seguridad-y-salud.json) |
 | [Precios Unitarios > URBANIZACIONES](./chapters/precios-unitarios--urbanizaciones.md) | 604 | [JSON](./chapters/precios-unitarios--urbanizaciones.json) |

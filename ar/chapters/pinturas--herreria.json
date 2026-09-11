@@ -1,0 +1,125 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Pinturas > Herrería",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.27,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.64,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.04,
+          "ref": "mt-ar-esmalte-sintetico-brillante-en-lata-de-4-litros",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.025,
+          "ref": "mt-ar-convertidor-de-oxido-en-lata-de-4-litros",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Pinturas",
+          "Herrería"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.575Z",
+      "id": "wi-ar-esmalte-sintetico-sobre-herreria-con-convertidor-de-oxido",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 14406.23
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 15565.02
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 22538.41
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 24612.23
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-esmalte-sintetico-sobre-herreria-con-convertidor-de-oxido",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Esmalte sintético sobre herrería con convertidor de óxido",
+      "tags": [
+        "esmalte",
+        "sintético",
+        "herrería",
+        "antióxido"
+      ],
+      "text": "Esmalte sintético brillante sobre herrería, en dos manos, previa limpieza mecánica y aplicación de convertidor de óxido. Medido por metro cuadrado de superficie desarrollada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:15:59.086Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.5.0"
+}

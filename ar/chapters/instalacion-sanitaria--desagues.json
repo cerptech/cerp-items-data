@@ -1,0 +1,181 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Instalación sanitaria > Desagües",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.27,
+          "ref": "mt-ar-cano-de-pvc-3-2-cloacal-de-110-mm-en-barra-de-4-m",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Instalación sanitaria",
+          "Desagües"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.574Z",
+      "id": "wi-ar-caneria-cloacal-de-pvc-3-2-de-110-mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 17490.43
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 18404.49
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 23668.67
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 25607.67
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-caneria-cloacal-de-pvc-3-2-de-110-mm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-bajante-de-pvc-reforzado-diam-110-mm",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Cañería cloacal de PVC 3,2 de ø110 mm",
+      "tags": [
+        "cañería",
+        "cloacal",
+        "pvc",
+        "desagüe"
+      ],
+      "text": "Cañería de desagüe cloacal de PVC de pared 3,2 mm y ø110 mm, con unión por junta deslizante, incluidos accesorios, grapas, amure y prueba hidráulica. Medida por metro lineal de cañería instalada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimientos adaptados de BCCA wi-bajante-de-pvc-reforzado-diam-110-mm: rendimiento de mano de obra adaptado de la partida equivalente de bajante de PVC reforzado de 110 mm de la BCCA 2024-01, reasignado a las categorías del CCT 76/75",
+      "unit": "m",
+      "updatedAt": "2026-09-08T09:15:59.027Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-pileta-de-patio-abierta-de-20x20-cm",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Instalación sanitaria",
+          "Desagües"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.574Z",
+      "id": "wi-ar-colocacion-de-pileta-de-patio-abierta-de-20x20-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 18925.62
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-colocacion-de-pileta-de-patio-abierta-de-20x20-cm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Colocación de pileta de patio abierta de 20x20 cm",
+      "tags": [
+        "pileta de patio",
+        "sumidero",
+        "desagüe"
+      ],
+      "text": "Provisión y colocación de pileta de patio abierta de 20x20 cm con reja, incluidos conexión a la red de desagüe, amure y nivelación con el solado. Medida por unidad colocada. En Argentina \"pileta de patio\" es un sumidero de desagüe, no una piscina. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. No se localizó rendimiento de mano de obra en ninguna fuente pública argentina para esta partida: no se carga mano de obra hasta conseguirlo. Ningún organismo público argentino publica rendimientos (los pliegos fijan la forma de medición, pero el análisis de precio lo presenta el oferente).",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:15:59.050Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.5.0"
+}

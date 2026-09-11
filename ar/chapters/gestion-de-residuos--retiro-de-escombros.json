@@ -1,0 +1,53 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Gestión de residuos > Retiro de escombros",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mt-ar-volquete-para-escombros-de-5-m3-con-entrega-retiro-y-disposi",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Gestión de residuos",
+          "Retiro de escombros"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.577Z",
+      "id": "wi-ar-retiro-de-escombros-con-volquete",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-ar-retiro-de-escombros-con-volquete",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Retiro de escombros con volquete",
+      "tags": [
+        "escombros",
+        "volquete",
+        "residuos"
+      ],
+      "text": "Retiro de escombros de obra mediante volquete de 5 m3, con entrega, permanencia, retiro y disposición final en planta autorizada. Medido por metro cúbico de escombro retirado. En el presupuesto argentino el volquete es una línea propia y no va dentro de las partidas de demolición: por eso se acuña separado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. No costea todavía porque ninguna empresa de volquetes del AMBA publica tarifa. SIN RENDIMIENTO DE MANO DE OBRA. Se buscó en colegios profesionales, institutos provinciales de vivienda, pliegos de organismos públicos y apuntes de cátedra de universidades nacionales. La única fuente que publica rendimientos horarios desagregados para esta partida es un generador de precios comercial cuya licencia está expresamente bloqueada para este banco, de modo que NO se transcribió ni se usó como referencia. Hasta conseguir una fuente habilitada, la partida queda acuñada con su descripción y su forma de medición pero sin descomposición: no costea, y así debe verse.",
+      "unit": "m3",
+      "updatedAt": "2026-09-08T09:15:32.577Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.5.0"
+}

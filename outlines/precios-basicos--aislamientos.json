@@ -68,6 +68,15 @@
       "u": "m2"
     },
     {
+      "g": [
+        "impermeabilizaciones"
+      ],
+      "id": "mt-banda-de-refuerzo-elastica-para-puntos-singulares-de-imperme",
+      "m": 0,
+      "s": "Banda de refuerzo elástica para puntos singulares de impermeabilización",
+      "u": "m"
+    },
+    {
       "d": "2021-12",
       "g": [
         "impermeabilizaciones"
@@ -77,6 +86,15 @@
       "p": 8.59,
       "s": "COLA DE CONTACTO",
       "u": "kg"
+    },
+    {
+      "g": [
+        "impermeabilizaciones"
+      ],
+      "id": "mt-crema-de-inyeccion-de-silanos-para-corte-de-humedad-por-capi",
+      "m": 0,
+      "s": "Crema de inyección de silanos para corte de humedad por capilaridad",
+      "u": "l"
     },
     {
       "d": "2021-12",
@@ -112,6 +130,24 @@
       "u": "m"
     },
     {
+      "g": [
+        "impermeabilizaciones"
+      ],
+      "id": "mt-geotextil-no-tejido-de-poliester-de-200-g-m2",
+      "m": 0,
+      "s": "Geotextil no tejido de poliéster de 200 g/m2",
+      "u": "m2"
+    },
+    {
+      "g": [
+        "impermeabilizaciones"
+      ],
+      "id": "mt-geotextil-no-tejido-de-poliester-de-300-g-m2",
+      "m": 0,
+      "s": "Geotextil no tejido de poliéster de 300 g/m2",
+      "u": "m2"
+    },
+    {
       "d": "2021-12",
       "g": [
         "impermeabilizaciones"
@@ -123,6 +159,15 @@
       "u": "kg"
     },
     {
+      "g": [
+        "impermeabilizaciones"
+      ],
+      "id": "mt-imprimacion-asfaltica-de-aplicacion-en-frio",
+      "m": 0,
+      "s": "Imprimación asfáltica de aplicación en frío",
+      "u": "l"
+    },
+    {
       "d": "2021-12",
       "g": [
         "impermeabilizaciones"
@@ -132,6 +177,33 @@
       "p": 1.84,
       "s": "IMPRIMADOR DE BASE ASFÁLTICA",
       "u": "kg"
+    },
+    {
+      "g": [
+        "impermeabilizaciones"
+      ],
+      "id": "mt-lamina-asfaltica-antirraices-lbm-50-fp-para-cubierta-ajardin",
+      "m": 0,
+      "s": "Lámina asfáltica antirraíces LBM-50-FP para cubierta ajardinada",
+      "u": "m2"
+    },
+    {
+      "g": [
+        "impermeabilizaciones"
+      ],
+      "id": "mt-lamina-asfaltica-lbm-30-fv-de-betun-modificado-con-elastomer",
+      "m": 0,
+      "s": "Lámina asfáltica LBM-30-FV de betún modificado con elastómero SBS",
+      "u": "m2"
+    },
+    {
+      "g": [
+        "impermeabilizaciones"
+      ],
+      "id": "mt-lamina-asfaltica-lbm-40-fp-de-betun-modificado-con-elastomer",
+      "m": 0,
+      "s": "Lámina asfáltica LBM-40-FP de betún modificado con elastómero SBS",
+      "u": "m2"
     },
     {
       "d": "2021-12",
@@ -211,6 +283,15 @@
       "u": "m2"
     },
     {
+      "g": [
+        "impermeabilizaciones"
+      ],
+      "id": "mt-lamina-drenante-nodular-de-polietileno-de-alta-densidad-con",
+      "m": 0,
+      "s": "Lámina drenante nodular de polietileno de alta densidad con geotextil filtrante",
+      "u": "m2"
+    },
+    {
       "d": "2021-12",
       "g": [
         "impermeabilizaciones"
@@ -274,6 +355,15 @@
       "m": 0,
       "p": 8.24,
       "s": "LÁMINA VINILICA PVC FLEXIBLE 1 COMPT. 1 mm",
+      "u": "m2"
+    },
+    {
+      "g": [
+        "impermeabilizaciones"
+      ],
+      "id": "mt-manta-precultivada-de-sedum-para-cubierta-ajardinada-extensi",
+      "m": 0,
+      "s": "Manta precultivada de sedum para cubierta ajardinada extensiva",
       "u": "m2"
     },
     {
@@ -354,6 +444,24 @@
       "u": "m2"
     },
     {
+      "g": [
+        "impermeabilizaciones"
+      ],
+      "id": "mt-membrana-liquida-de-poliuretano-monocomponente-para-impermea",
+      "m": 0,
+      "s": "Membrana líquida de poliuretano monocomponente para impermeabilización",
+      "u": "kg"
+    },
+    {
+      "g": [
+        "impermeabilizaciones"
+      ],
+      "id": "mt-mortero-impermeabilizante-cementoso-monocomponente",
+      "m": 0,
+      "s": "Mortero impermeabilizante cementoso monocomponente",
+      "u": "kg"
+    },
+    {
       "d": "2021-12",
       "g": [
         "impermeabilizaciones"
@@ -409,6 +517,15 @@
       "u": "kg"
     },
     {
+      "g": [
+        "impermeabilizaciones"
+      ],
+      "id": "mt-poliurea-pura-para-proyeccion-en-caliente",
+      "m": 0,
+      "s": "Poliurea pura para proyección en caliente",
+      "u": "kg"
+    },
+    {
       "d": "2021-12",
       "g": [
         "impermeabilizaciones"
@@ -418,6 +535,24 @@
       "p": 14.29,
       "s": "RESINA EPOXI DOS COMPONENTES",
       "u": "kg"
+    },
+    {
+      "g": [
+        "impermeabilizaciones"
+      ],
+      "id": "mt-sustrato-para-cubierta-ajardinada-extensiva",
+      "m": 0,
+      "s": "Sustrato para cubierta ajardinada extensiva",
+      "u": "m3"
+    },
+    {
+      "g": [
+        "impermeabilizaciones"
+      ],
+      "id": "mt-velo-de-poliester-de-refuerzo-para-membrana-liquida",
+      "m": 0,
+      "s": "Velo de poliéster de refuerzo para membrana líquida",
+      "u": "m2"
     },
     {
       "d": "2021-12",
@@ -1872,6 +2007,24 @@
       "u": "m2"
     },
     {
+      "g": [
+        "termicos"
+      ],
+      "id": "mt-panel-de-poliestireno-extruido-xps-de-100-mm",
+      "m": 0,
+      "s": "Panel de poliestireno extruido XPS de 100 mm",
+      "u": "m2"
+    },
+    {
+      "g": [
+        "termicos"
+      ],
+      "id": "mt-panel-de-poliestireno-extruido-xps-de-60-mm",
+      "m": 0,
+      "s": "Panel de poliestireno extruido XPS de 60 mm",
+      "u": "m2"
+    },
+    {
       "d": "2021-12",
       "g": [
         "termicos"
@@ -2610,5 +2763,5 @@
     }
   ],
   "title": "Precios Básicos > AISLAMIENTOS",
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

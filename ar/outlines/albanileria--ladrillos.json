@@ -2,15 +2,49 @@
   "key": "albanileria--ladrillos",
   "rows": [
     {
-      "d": "2026-07",
+      "g": [],
+      "id": "mt-ar-ladrillo-ceramico-portante-12x19x33-cm",
+      "m": 0,
+      "s": "Ladrillo cerámico portante 12x19x33 cm",
+      "u": "u"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-ladrillo-ceramico-portante-18x19x33-cm",
+      "m": 0,
+      "p": 1305.79,
+      "s": "Ladrillo cerámico portante 18x19x33 cm",
+      "u": "u"
+    },
+    {
+      "d": "2026-08",
       "g": [],
       "id": "mt-ar-ladrillo-comun-de-tierra-cocida-25x12x5-cm",
       "m": 0,
-      "p": 273,
-      "s": "Ladrillo comun de tierra cocida 25x12x5 cm",
+      "p": 226.45,
+      "s": "Ladrillo común de tierra cocida 25x12x5 cm",
+      "u": "u"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-ladrillo-hueco-ceramico-18x18x33-cm",
+      "m": 0,
+      "p": 1032.23,
+      "s": "Ladrillo hueco cerámico 18x18x33 cm",
+      "u": "u"
+    },
+    {
+      "d": "2026-08",
+      "g": [],
+      "id": "mt-ar-ladrillo-hueco-ceramico-8x18x33-cm",
+      "m": 0,
+      "p": 536.36,
+      "s": "Ladrillo hueco cerámico 8x18x33 cm",
       "u": "u"
     }
   ],
   "title": "Albañilería > Ladrillos",
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

@@ -4,13 +4,13 @@
   ],
   "basicoChapters": [
     {
-      "items": 75,
+      "items": 77,
       "key": "precios-basicos--aglomerantes-y-morteros",
       "outline": "outlines/precios-basicos--aglomerantes-y-morteros.json",
       "title": "Precios Básicos > AGLOMERANTES Y MORTEROS"
     },
     {
-      "items": 237,
+      "items": 254,
       "key": "precios-basicos--aislamientos",
       "outline": "outlines/precios-basicos--aislamientos.json",
       "title": "Precios Básicos > AISLAMIENTOS"
@@ -34,7 +34,7 @@
       "title": "Precios Básicos > CARPINTERÍA Y ELEMENTOS DE SEGURIDAD Y PROTECCIÓN"
     },
     {
-      "items": 165,
+      "items": 173,
       "key": "precios-basicos--cimentaciones-y-estructuras",
       "outline": "outlines/precios-basicos--cimentaciones-y-estructuras.json",
       "title": "Precios Básicos > CIMENTACIONES Y ESTRUCTURAS"
@@ -52,13 +52,13 @@
       "title": "Precios Básicos > DECORACIÓN Y EQUIPAMIENTO"
     },
     {
-      "items": 134,
+      "items": 136,
       "key": "precios-basicos--fabricas-albanileria",
       "outline": "outlines/precios-basicos--fabricas-albanileria.json",
       "title": "Precios Básicos > FÁBRICAS (ALBAÑILERÍA)"
     },
     {
-      "items": 2093,
+      "items": 2117,
       "key": "precios-basicos--instalaciones",
       "outline": "outlines/precios-basicos--instalaciones.json",
       "title": "Precios Básicos > INSTALACIONES"
@@ -70,7 +70,7 @@
       "title": "Precios Básicos > MAQUINARIA Y EQUIPOS DE OBRAS"
     },
     {
-      "items": 70,
+      "items": 80,
       "key": "precios-basicos--pinturas",
       "outline": "outlines/precios-basicos--pinturas.json",
       "title": "Precios Básicos > PINTURAS"
@@ -82,7 +82,7 @@
       "title": "Precios Básicos > RESIDUOS"
     },
     {
-      "items": 503,
+      "items": 515,
       "key": "precios-basicos--revestimientos",
       "outline": "outlines/precios-basicos--revestimientos.json",
       "title": "Precios Básicos > REVESTIMIENTOS"
@@ -106,7 +106,7 @@
       "title": "Precios Básicos > SIN CLASIFICAR"
     },
     {
-      "items": 32,
+      "items": 33,
       "key": "precios-basicos--trabajo-mano-de-obra",
       "outline": "outlines/precios-basicos--trabajo-mano-de-obra.json",
       "title": "Precios Básicos > TRABAJO (MANO DE OBRA)"
@@ -131,7 +131,7 @@
     }
   ],
   "basicos": {
-    "count": 6055,
+    "count": 6131,
     "file": "basicos.json"
   },
   "chapters": [
@@ -160,7 +160,7 @@
       "title": "Precios Unitarios > ACONDICIONAMIENTO DE TERRENOS"
     },
     {
-      "items": 147,
+      "items": 156,
       "json": "chapters/precios-unitarios--aislamientos.json",
       "key": "precios-unitarios--aislamientos",
       "md": "chapters/precios-unitarios--aislamientos.md",
@@ -168,7 +168,7 @@
       "title": "Precios Unitarios > AISLAMIENTOS"
     },
     {
-      "items": 322,
+      "items": 324,
       "json": "chapters/precios-unitarios--albanileria.json",
       "key": "precios-unitarios--albanileria",
       "md": "chapters/precios-unitarios--albanileria.md",
@@ -224,7 +224,7 @@
       "title": "Precios Unitarios > EQUIPAMIENTO"
     },
     {
-      "items": 187,
+      "items": 204,
       "json": "chapters/precios-unitarios--estructuras.json",
       "key": "precios-unitarios--estructuras",
       "md": "chapters/precios-unitarios--estructuras.md",
@@ -240,7 +240,7 @@
       "title": "Precios Unitarios > GESTIÓN DE RESIDUOS"
     },
     {
-      "items": 1989,
+      "items": 2007,
       "json": "chapters/precios-unitarios--instalaciones.json",
       "key": "precios-unitarios--instalaciones",
       "md": "chapters/precios-unitarios--instalaciones.md",
@@ -264,7 +264,7 @@
       "title": "Precios Unitarios > PINTURAS"
     },
     {
-      "items": 525,
+      "items": 535,
       "json": "chapters/precios-unitarios--revestimientos.json",
       "key": "precios-unitarios--revestimientos",
       "md": "chapters/precios-unitarios--revestimientos.md",
@@ -312,26 +312,26 @@
       "title": "Sin clasificar"
     }
   ],
-  "generatedAt": "2026-08-17T18:31:23.103Z",
+  "generatedAt": "2026-09-11T11:10:37.293Z",
   "stats": {
     "byKind": {
       "auxiliary": 12,
-      "labor": 36,
+      "labor": 37,
       "machinery": 71,
-      "material": 5639,
+      "material": 5714,
       "other": 297,
-      "work_item": 6510
+      "work_item": 6566
     },
     "bySources": {
-      "bcca": 12565,
-      "cerp": 26
+      "bcca": 12591,
+      "cerp": 162
     },
     "byStatus": {
-      "auto_ok": 8469,
-      "conflicted": 4096
+      "auto_ok": 8585,
+      "conflicted": 4112
     },
     "quarantined": 43,
-    "total": 12565
+    "total": 12697
   },
   "taxonomies": [
     {
@@ -354,5 +354,5 @@
     }
   ],
   "tree": "tree.json",
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

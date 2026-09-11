@@ -706,6 +706,131 @@
         {
           "factor": 1,
           "quantity": 0.6,
+          "ref": "mo-of-1-electricista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-actuador-de-conmutacion-knx-de-8-salidas-16-a-carril-din",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-borne-de-conexion-de-bus-knx",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "INSTALACIONES",
+          "CONTROL REMOTO",
+          "Control Remoto",
+          "Aparatos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.090Z",
+      "id": "wi-actuador-de-conmutacion-knx-de-8-salidas-instalado-en-cuadro",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-actuador-de-conmutacion-knx-de-8-salidas-instalado-en-cuadro",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Actuador de conmutación KNX de 8 salidas instalado en cuadro",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "actuador"
+      ],
+      "text": "Actuador de conmutación para sistema de bus KNX, de 8 salidas libres de potencial de 16 A / 140 µF, con mando manual, montado sobre carril DIN en cuadro (8 módulos de 18 mm) y conexionado a la línea de bus y a los circuitos de salida, incluso direccionamiento físico y p.p. de bornas, peines y pequeño material; según REBT (ITC-BT-51) y UNE-EN 50090. Medida la unidad instalada y direccionada. Curación CERP (2026-08): capítulo nuevo, sin equivalente en la BCCA 2024-01. Los rendimientos de mano de obra son una ESTIMACIÓN por analogía con las partidas eléctricas de la BCCA (punto de luz conmutado empotrado, equipamiento de cuadro): no existe base pública española con capítulo domótico de la que tomarlos. Pendiente de contraste.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.090Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-of-1-electricista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-actuador-de-persianas-knx-de-4-salidas-230-v-c-a-carril-din",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-borne-de-conexion-de-bus-knx",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "INSTALACIONES",
+          "CONTROL REMOTO",
+          "Control Remoto",
+          "Aparatos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.090Z",
+      "id": "wi-actuador-de-persianas-knx-de-4-salidas-instalado-en-cuadro",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-actuador-de-persianas-knx-de-4-salidas-instalado-en-cuadro",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Actuador de persianas KNX de 4 salidas instalado en cuadro",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "actuador",
+        "persianas"
+      ],
+      "text": "Actuador de persianas para sistema de bus KNX, de 4 salidas para motores de 230 V c.a., con mando manual, montado sobre carril DIN en cuadro (4 módulos de 18 mm) y conexionado a la línea de bus y a los circuitos de motor, incluso direccionamiento físico, ajuste de tiempos de recorrido y p.p. de pequeño material; según REBT (ITC-BT-51) y UNE-EN 50090. Medida la unidad instalada y direccionada. Curación CERP (2026-08): capítulo nuevo, sin equivalente en la BCCA 2024-01. Los rendimientos de mano de obra son una ESTIMACIÓN por analogía con las partidas eléctricas de la BCCA (punto de luz conmutado empotrado, equipamiento de cuadro): no existe base pública española con capítulo domótico de la que tomarlos. Pendiente de contraste.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.090Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.6,
           "ref": "mo-of-1-calefactor-o-mecanico",
           "role": "labor"
         },
@@ -846,6 +971,69 @@
           "stale_edition-7e286bb69a2dc18c"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-of-1-electricista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-actuador-regulador-knx-universal-de-4-salidas-carril-din",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-borne-de-conexion-de-bus-knx",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "INSTALACIONES",
+          "CONTROL REMOTO",
+          "Control Remoto",
+          "Aparatos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.090Z",
+      "id": "wi-actuador-regulador-knx-universal-de-4-salidas-instalado-en-c",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-actuador-regulador-knx-universal-de-4-salidas-instalado-en-c",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Actuador regulador KNX universal de 4 salidas instalado en cuadro",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "actuador",
+        "regulación de iluminación"
+      ],
+      "text": "Actuador regulador universal para sistema de bus KNX, de 4 salidas aptas para carga resistiva, inductiva, capacitiva y LED regulable, montado sobre carril DIN en cuadro (4 módulos de 18 mm) y conexionado a la línea de bus y a los circuitos de alumbrado, incluso direccionamiento físico, ajuste de curva de regulación y p.p. de pequeño material; según REBT (ITC-BT-51) y UNE-EN 50090. Medida la unidad instalada y direccionada. Curación CERP (2026-08): capítulo nuevo, sin equivalente en la BCCA 2024-01. Los rendimientos de mano de obra son una ESTIMACIÓN por analogía con las partidas eléctricas de la BCCA (punto de luz conmutado empotrado, equipamiento de cuadro): no existe base pública española con capítulo domótico de la que tomarlos. Pendiente de contraste.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.090Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -1318,6 +1506,141 @@
           "stale_edition-e27d07d3f59daa38"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mo-cuadrilla-formada-por-oficial-1-instalador-y-ayudante",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-aislador-de-cortocircuito-de-lazo-direccionable",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "INSTALACIONES",
+          "PROTECCIONES",
+          "Contra incendios",
+          "Detección y alarma"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.090Z",
+      "id": "wi-aislador-de-cortocircuito-de-lazo-direccionable-instalado",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-aislador-de-cortocircuito-de-lazo-direccionable-instalado",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-detector-termovelocimetro-identificable",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Aislador de cortocircuito de lazo direccionable, instalado",
+      "tags": [
+        "detección de incendios",
+        "direccionable",
+        "analógico",
+        "PCI",
+        "UNE-EN 54"
+      ],
+      "text": "Aislador de cortocircuito de lazo direccionable según UNE-EN 54-17, instalado en caja o zócalo, con direccionamiento, conexionado al lazo y comprobación funcional; incluso p.p. de pequeño material. Medida la unidad instalada y probada. Rendimientos adaptados de BCCA wi-detector-termovelocimetro-identificable: rendimiento de mano de obra tomado del de la partida equivalente de detector identificable de la BCCA 2024-01; el equipo direccionable analógico exige el mismo montaje más el direccionamiento",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.090Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mo-of-1-electricista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-entrada-binaria-knx-de-4-canales-carril-din",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-detector-de-inundacion-con-sonda-y-contacto-libre-de-potenci",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-electrovalvula-de-corte-de-agua-de-3-4-230-v-normalmente-abi",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-borne-de-conexion-de-bus-knx",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "INSTALACIONES",
+          "CONTROL REMOTO",
+          "Control Remoto",
+          "Aparatos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.090Z",
+      "id": "wi-alarma-tecnica-de-inundacion-knx-con-corte-automatico-de-agu",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-alarma-tecnica-de-inundacion-knx-con-corte-automatico-de-agu",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Alarma técnica de inundación KNX con corte automático de agua",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "alarma técnica",
+        "inundación"
+      ],
+      "text": "Alarma técnica de inundación integrada en sistema de bus KNX, formada por entrada binaria de 4 canales en carril DIN, detector de inundación con sonda de electrodos y electroválvula de corte de agua de 3/4\" normalmente abierta gobernada desde actuador; instalada, conexionada, direccionada y probada, incluso p.p. de pequeño material; según REBT (ITC-BT-51). No sustituye a la instalación reglamentaria de detección de incendios (CTE DB-SI / RIPCI), que se presupuesta en su propio capítulo. Medida la unidad instalada y probada. Curación CERP (2026-08): capítulo nuevo, sin equivalente en la BCCA 2024-01. Los rendimientos de mano de obra son una ESTIMACIÓN por analogía con las partidas eléctricas de la BCCA (punto de luz conmutado empotrado, equipamiento de cuadro): no existe base pública española con capítulo domótico de la que tomarlos. Pendiente de contraste.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.090Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -73218,6 +73541,68 @@
       "bom": [
         {
           "factor": 1,
+          "quantity": 0.45,
+          "ref": "mo-of-1-electricista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-detector-de-presencia-knx-de-techo-con-sensor-de-luminosidad",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-borne-de-conexion-de-bus-knx",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "INSTALACIONES",
+          "CONTROL REMOTO",
+          "Control Remoto",
+          "Aparatos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.095Z",
+      "id": "wi-detector-de-presencia-knx-de-techo-instalado",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-detector-de-presencia-knx-de-techo-instalado",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Detector de presencia KNX de techo instalado",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "presencia"
+      ],
+      "text": "Detector de presencia por infrarrojos pasivos para sistema de bus KNX, de montaje en techo, con sensor de luminosidad integrado para regulación en función de la luz natural, instalado y conexionado a la línea de bus, incluso caja, direccionamiento físico y p.p. de pequeño material; según UNE-EN 50090. Medida la unidad instalada y direccionada. Curación CERP (2026-08): capítulo nuevo, sin equivalente en la BCCA 2024-01. Los rendimientos de mano de obra son una ESTIMACIÓN por analogía con las partidas eléctricas de la BCCA (punto de luz conmutado empotrado, equipamiento de cuadro): no existe base pública española con capítulo domótico de la que tomarlos. Pendiente de contraste.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.095Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
           "quantity": 0.4,
           "ref": "mo-of-1-electricista",
           "role": "labor"
@@ -73576,6 +73961,67 @@
       "bom": [
         {
           "factor": 1,
+          "quantity": 0.1,
+          "ref": "mo-cuadrilla-formada-por-oficial-1-instalador-y-ayudante",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-detector-multicriterio-optico-termico-direccionable-con-zoca",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "INSTALACIONES",
+          "PROTECCIONES",
+          "Contra incendios",
+          "Detección y alarma"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.095Z",
+      "id": "wi-detector-multicriterio-optico-termico-direccionable-instalad",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-detector-multicriterio-optico-termico-direccionable-instalad",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-detector-termovelocimetro-identificable",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Detector multicriterio óptico-térmico direccionable, instalado y direccionado",
+      "tags": [
+        "detección de incendios",
+        "direccionable",
+        "analógico",
+        "PCI",
+        "UNE-EN 54",
+        "multicriterio"
+      ],
+      "text": "Detector multicriterio óptico-térmico direccionable analógico para lazo, según UNE-EN 54-7 y UNE-EN 54-5, instalado sobre zócalo intercambiable, con direccionamiento, conexionado al lazo y comprobación funcional; incluso p.p. de pequeño material. Instalado según RD 513/2017 (RIPCI), CTE DB-SI y UNE 23007-14. Medida la unidad instalada, direccionada y probada. Rendimientos adaptados de BCCA wi-detector-termovelocimetro-identificable: rendimiento de mano de obra tomado del de la partida equivalente de detector identificable de la BCCA 2024-01; el equipo direccionable analógico exige el mismo montaje más el direccionamiento",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.095Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
           "quantity": 0.3,
           "ref": "mo-of-1-electricista",
           "role": "labor"
@@ -73706,6 +74152,66 @@
           "stale_edition-d34fb0f93eb22073"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mo-cuadrilla-formada-por-oficial-1-instalador-y-ayudante",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-detector-optico-de-humos-direccionable-analogico-con-zocalo",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "INSTALACIONES",
+          "PROTECCIONES",
+          "Contra incendios",
+          "Detección y alarma"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.095Z",
+      "id": "wi-detector-optico-de-humos-direccionable-analogico-instalado-y",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-detector-optico-de-humos-direccionable-analogico-instalado-y",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-detector-termovelocimetro-identificable",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Detector óptico de humos direccionable analógico, instalado y direccionado",
+      "tags": [
+        "detección de incendios",
+        "direccionable",
+        "analógico",
+        "PCI",
+        "UNE-EN 54"
+      ],
+      "text": "Detector óptico de humos direccionable analógico para lazo, según UNE-EN 54-7, instalado sobre zócalo intercambiable, con direccionamiento, conexionado al lazo y comprobación funcional; incluso p.p. de pequeño material. Instalado según RD 513/2017 (RIPCI), CTE DB-SI y UNE 23007-14. Medida la unidad instalada, direccionada y probada. Rendimientos adaptados de BCCA wi-detector-termovelocimetro-identificable: rendimiento de mano de obra tomado del de la partida equivalente de detector identificable de la BCCA 2024-01; el equipo direccionable analógico exige el mismo montaje más el direccionamiento",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.095Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -96179,6 +96685,67 @@
       "bom": [
         {
           "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-of-1-electricista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-fuente-de-alimentacion-knx-de-640-ma-con-bobina-30-v-c-c-car",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-borne-de-conexion-de-bus-knx",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "INSTALACIONES",
+          "CONTROL REMOTO",
+          "Control Remoto",
+          "Aparatos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.095Z",
+      "id": "wi-fuente-de-alimentacion-knx-de-640-ma-instalada-en-cuadro",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-fuente-de-alimentacion-knx-de-640-ma-instalada-en-cuadro",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Fuente de alimentación KNX de 640 mA instalada en cuadro",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51"
+      ],
+      "text": "Fuente de alimentación para sistema de bus KNX de 640 mA, salida de 30 V c.c. en muy baja tensión de seguridad con bobina integrada, montada sobre carril DIN en cuadro (4 módulos de 18 mm) y conexionada a la línea de bus y a la alimentación de 230 V, incluso p.p. de pequeño material; según REBT (ITC-BT-36 e ITC-BT-51) y UNE-EN 50090. Se prevé una fuente por línea de bus (máximo 64 dispositivos por línea). Medida la unidad instalada. Curación CERP (2026-08): capítulo nuevo, sin equivalente en la BCCA 2024-01. Los rendimientos de mano de obra son una ESTIMACIÓN por analogía con las partidas eléctricas de la BCCA (punto de luz conmutado empotrado, equipamiento de cuadro): no existe base pública española con capítulo domótico de la que tomarlos. Pendiente de contraste.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.095Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
           "quantity": 0.25,
           "ref": "mo-of-1-calefactor-o-mecanico",
           "role": "labor"
@@ -111795,6 +112362,68 @@
       "bom": [
         {
           "factor": 1,
+          "quantity": 0.06,
+          "ref": "mo-of-1-electricista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-cable-apantallado-resistente-al-fuego-2x1-5-mm2-ph-120-cca-s",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-tubo-pvc-flexible-corrugado-diam-20-mm",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "INSTALACIONES",
+          "PROTECCIONES",
+          "Contra incendios",
+          "Detección y alarma"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.095Z",
+      "id": "wi-lazo-de-deteccion-de-incendios-con-cable-resistente-al-fuego",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-lazo-de-deteccion-de-incendios-con-cable-resistente-al-fuego",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Lazo de detección de incendios con cable resistente al fuego 2x1,5 mm2 bajo tubo",
+      "tags": [
+        "detección de incendios",
+        "direccionable",
+        "analógico",
+        "PCI",
+        "UNE-EN 54",
+        "cable",
+        "canalización"
+      ],
+      "text": "Lazo de detección de incendios formado por cable apantallado resistente al fuego de 2x1,5 mm², con resistencia al fuego PH 120 según UNE-EN 50200 y reacción al fuego Cca-s1b,d1,a1 según UNE-EN 50575, bajo tubo de PVC flexible corrugado de 20 mm de diámetro empotrado; incluso p.p. de cajas de registro y derivación, conexionado, ayudas de albañilería y pequeño material. Instalado según RD 513/2017 (RIPCI) y REBT. Medida la longitud ejecutada.",
+      "unit": "m",
+      "updatedAt": "2026-09-08T09:13:27.095Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
           "quantity": 0.5,
           "ref": "mo-of-1-electricista",
           "role": "labor"
@@ -112142,6 +112771,69 @@
           "stale_edition-f8b91a8446915ee8"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.06,
+          "ref": "mo-of-1-electricista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-cable-de-bus-knx-2x2x0-8-mm-apantallado-libre-de-halogenos",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-tubo-pvc-flexible-corrugado-diam-20-mm",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "INSTALACIONES",
+          "CONTROL REMOTO",
+          "Control Remoto",
+          "Canalizaciones"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.095Z",
+      "id": "wi-linea-de-bus-knx-bajo-tubo-corrugado-de-pvc-de-20-mm",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-linea-de-bus-knx-bajo-tubo-corrugado-de-pvc-de-20-mm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Línea de bus KNX bajo tubo corrugado de PVC de 20 mm",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "cable",
+        "canalización"
+      ],
+      "text": "Línea de bus para sistema KNX, formada por cable de par trenzado apantallado de 2x2x0,8 mm libre de halógenos, bajo tubo de PVC flexible corrugado de 20 mm de diámetro empotrado e independiente de las canalizaciones de potencia, incluso p.p. de cajas de derivación, bornes de conexión de bus, ayudas de albañilería y pequeño material; según REBT (ITC-BT-21 e ITC-BT-51) y UNE-EN 50090. Medida la longitud ejecutada. Curación CERP (2026-08): capítulo nuevo, sin equivalente en la BCCA 2024-01. Los rendimientos de mano de obra son una ESTIMACIÓN por analogía con las partidas eléctricas de la BCCA (punto de luz conmutado empotrado, equipamiento de cuadro): no existe base pública española con capítulo domótico de la que tomarlos. Pendiente de contraste.",
+      "unit": "m",
+      "updatedAt": "2026-09-08T09:13:27.095Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -121466,6 +122158,67 @@
       "bom": [
         {
           "factor": 1,
+          "quantity": 0.15,
+          "ref": "mo-cuadrilla-formada-por-oficial-1-instalador-y-ayudante",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-modulo-direccionable-de-entrada-supervisada-y-salida-de-rele",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "INSTALACIONES",
+          "PROTECCIONES",
+          "Contra incendios",
+          "Detección y alarma"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.095Z",
+      "id": "wi-modulo-direccionable-de-entrada-y-salida-de-rele-para-maniob",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-modulo-direccionable-de-entrada-y-salida-de-rele-para-maniob",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-detector-termovelocimetro-identificable",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Módulo direccionable de entrada y salida de relé para maniobras, instalado",
+      "tags": [
+        "detección de incendios",
+        "direccionable",
+        "analógico",
+        "PCI",
+        "UNE-EN 54",
+        "maniobras"
+      ],
+      "text": "Módulo direccionable con una entrada supervisada y una salida de relé libre de tensión según UNE-EN 54-18, instalado en caja, con direccionamiento, conexionado al lazo y al elemento gobernado (compuerta cortafuego, retenedor de puerta o maniobra de ascensor) y comprobación funcional; incluso p.p. de pequeño material. Medida la unidad instalada y probada. Rendimientos adaptados de BCCA wi-detector-termovelocimetro-identificable: rendimiento de mano de obra tomado del de la partida equivalente de detector identificable de la BCCA 2024-01; el equipo direccionable analógico exige el mismo montaje más el direccionamiento",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.095Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
           "quantity": 0.4,
           "ref": "mo-cuadrilla-formada-por-oficial-1-instalador-y-ayudante",
           "role": "labor"
@@ -123539,6 +124292,67 @@
           "stale_edition-9974f40333ffa63d"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.8,
+          "ref": "mo-of-1-electricista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pantalla-tactil-de-control-knx-a-color-para-empotrar",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-borne-de-conexion-de-bus-knx",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "INSTALACIONES",
+          "CONTROL REMOTO",
+          "Control Remoto",
+          "Aparatos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.095Z",
+      "id": "wi-pantalla-tactil-de-control-knx-empotrada",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-pantalla-tactil-de-control-knx-empotrada",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Pantalla táctil de control KNX, empotrada",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51"
+      ],
+      "text": "Pantalla táctil a color para control y visualización del sistema de bus KNX, con acoplador al bus integrado, empotrada en caja de obra, incluso marco, conexionado a la línea de bus, direccionamiento físico, configuración de las páginas de visualización y p.p. de pequeño material; según UNE-EN 50090. Medida la unidad instalada y configurada. Curación CERP (2026-08): capítulo nuevo, sin equivalente en la BCCA 2024-01. Los rendimientos de mano de obra son una ESTIMACIÓN por analogía con las partidas eléctricas de la BCCA (punto de luz conmutado empotrado, equipamiento de cuadro): no existe base pública española con capítulo domótico de la que tomarlos. Pendiente de contraste.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.095Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -126188,6 +127002,57 @@
       "bom": [
         {
           "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-tecnico-integrador-de-sistemas-de-control-knx",
+          "role": "labor"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "INSTALACIONES",
+          "CONTROL REMOTO",
+          "Control Remoto",
+          "Aparatos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.096Z",
+      "id": "wi-programacion-y-puesta-en-marcha-de-sistema-knx-por-dispositi",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-programacion-y-puesta-en-marcha-de-sistema-knx-por-dispositi",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Programación y puesta en marcha de sistema KNX, por dispositivo",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "programación",
+        "ETS"
+      ],
+      "text": "Programación y puesta en marcha del sistema de bus KNX mediante software ETS, repercutida por dispositivo del proyecto: creación del proyecto y de la topología, asignación de direcciones físicas, parametrización del programa de aplicación, definición de direcciones de grupo y objetos de comunicación, descarga al dispositivo, pruebas funcionales y entrega de documentación (proyecto ETS, esquema de topología, manual de usuario y acta de puesta en marcha). Ejecutada por integrador certificado KNX Partner. Medida la unidad de dispositivo programado y probado. Curación CERP (2026-08): la partida se mide POR DISPOSITIVO y no como partida alzada de sistema, para que el precio sea comparable entre obras. El rendimiento del técnico integrador no procede de ninguna fuente publicada y es una estimación pendiente de contraste; además, el concepto de mano de obra que la descompone todavía no tiene precio.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.096Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
           "quantity": 0.5,
           "ref": "mo-of-1-electricista",
           "role": "labor"
@@ -127195,6 +128060,66 @@
           "stale_edition-773ddbae09528b52"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mo-cuadrilla-formada-por-oficial-1-instalador-y-ayudante",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pulsador-de-alarma-manual-direccionable-rearmable-tipo-a",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "INSTALACIONES",
+          "PROTECCIONES",
+          "Contra incendios",
+          "Detección y alarma"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.096Z",
+      "id": "wi-pulsador-de-alarma-direccionable-rearmable-instalado-y-direc",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-pulsador-de-alarma-direccionable-rearmable-instalado-y-direc",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-detector-termovelocimetro-identificable",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Pulsador de alarma direccionable rearmable, instalado y direccionado",
+      "tags": [
+        "detección de incendios",
+        "direccionable",
+        "analógico",
+        "PCI",
+        "UNE-EN 54"
+      ],
+      "text": "Pulsador de alarma manual direccionable rearmable, tipo A de acción directa, según UNE-EN 54-11, instalado en superficie o empotrado, con tapa de protección, direccionamiento, conexionado al lazo y comprobación funcional; incluso p.p. de pequeño material. Instalado según RD 513/2017 (RIPCI). Medida la unidad instalada, direccionada y probada. Rendimientos adaptados de BCCA wi-detector-termovelocimetro-identificable: rendimiento de mano de obra tomado del de la partida equivalente de detector identificable de la BCCA 2024-01; el equipo direccionable analógico exige el mismo montaje más el direccionamiento",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.096Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -130173,6 +131098,74 @@
           "stale_edition-48f48f843b72abea"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-of-1-electricista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-pulsador-knx-de-2-canales-con-acoplador-al-bus-integrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-cajillo-universal-enlazable",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-borne-de-conexion-de-bus-knx",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "INSTALACIONES",
+          "CONTROL REMOTO",
+          "Control Remoto",
+          "Aparatos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.096Z",
+      "id": "wi-punto-de-mando-knx-con-pulsador-de-2-canales-empotrado",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-punto-de-mando-knx-con-pulsador-de-2-canales-empotrado",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Punto de mando KNX con pulsador de 2 canales, empotrado",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "mecanismo"
+      ],
+      "text": "Punto de mando para sistema de bus KNX, formado por pulsador de 2 canales con acoplador al bus integrado, marco y tecla, empotrado en caja universal enlazable, incluso conexionado a la línea de bus, direccionamiento físico y p.p. de pequeño material; según REBT (ITC-BT-51) y UNE-EN 50090. Medida la unidad instalada y direccionada. Curación CERP (2026-08): capítulo nuevo, sin equivalente en la BCCA 2024-01. Los rendimientos de mano de obra son una ESTIMACIÓN por analogía con las partidas eléctricas de la BCCA (punto de luz conmutado empotrado, equipamiento de cuadro): no existe base pública española con capítulo domótico de la que tomarlos. Pendiente de contraste.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.096Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -140815,6 +141808,67 @@
       "bom": [
         {
           "factor": 1,
+          "quantity": 0.2,
+          "ref": "mo-cuadrilla-formada-por-oficial-1-instalador-y-ayudante",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-sirena-optico-acustica-direccionable-de-exterior-ip66",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "INSTALACIONES",
+          "PROTECCIONES",
+          "Contra incendios",
+          "Detección y alarma"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.096Z",
+      "id": "wi-sirena-optico-acustica-direccionable-de-exterior-instalada",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-sirena-optico-acustica-direccionable-de-exterior-instalada",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-detector-termovelocimetro-identificable",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Sirena óptico-acústica direccionable de exterior, instalada",
+      "tags": [
+        "detección de incendios",
+        "direccionable",
+        "analógico",
+        "PCI",
+        "UNE-EN 54",
+        "sirena"
+      ],
+      "text": "Sirena óptico-acústica direccionable de exterior con grado de protección IP66, con dispositivo de alarma visual de categoría W según UNE-EN 54-23 y señal acústica según UNE-EN 54-3, alimentada por lazo, instalada en paramento, con direccionamiento, conexionado y comprobación funcional; incluso p.p. de fijaciones y pequeño material. Instalada según RD 513/2017 (RIPCI). Medida la unidad instalada y probada. Rendimientos adaptados de BCCA wi-detector-termovelocimetro-identificable: rendimiento de mano de obra tomado del de la partida equivalente de detector identificable de la BCCA 2024-01; el equipo direccionable analógico exige el mismo montaje más el direccionamiento",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.096Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
           "quantity": 4.5,
           "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
           "role": "labor"
@@ -144106,6 +145160,74 @@
           "stale_edition-7f04c5450cdb45b7"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mo-of-1-electricista",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-termostato-knx-de-ambiente-con-display-para-empotrar",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-cajillo-universal-enlazable",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-borne-de-conexion-de-bus-knx",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "INSTALACIONES",
+          "CONTROL REMOTO",
+          "Control Remoto",
+          "Aparatos"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.096Z",
+      "id": "wi-termostato-knx-de-ambiente-con-display-empotrado",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-termostato-knx-de-ambiente-con-display-empotrado",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Termostato KNX de ambiente con display, empotrado",
+      "tags": [
+        "domótica",
+        "inmótica",
+        "KNX",
+        "bus",
+        "automatización",
+        "ITC-BT-51",
+        "climatización"
+      ],
+      "text": "Termostato de ambiente para sistema de bus KNX con display, sonda de temperatura integrada y regulador proporcional-integral para control de calefacción y refrigeración, empotrado en caja universal enlazable, incluso marco, conexionado a la línea de bus, direccionamiento físico y p.p. de pequeño material; según UNE-EN 50090. Medida la unidad instalada y direccionada. Curación CERP (2026-08): capítulo nuevo, sin equivalente en la BCCA 2024-01. Los rendimientos de mano de obra son una ESTIMACIÓN por analogía con las partidas eléctricas de la BCCA (punto de luz conmutado empotrado, equipamiento de cuadro): no existe base pública española con capítulo domótico de la que tomarlos. Pendiente de contraste.",
+      "unit": "u",
+      "updatedAt": "2026-09-08T09:13:27.096Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -162765,5 +163887,5 @@
       }
     }
   ],
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

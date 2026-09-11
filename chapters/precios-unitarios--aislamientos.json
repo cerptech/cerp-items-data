@@ -6939,6 +6939,350 @@
       "bom": [
         {
           "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-of-1-impermeabilizador",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.08,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.085,
+          "ref": "mt-crema-de-inyeccion-de-silanos-para-corte-de-humedad-por-capi",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "AISLAMIENTOS",
+          "IMPERMEABILIZACIÓN",
+          "Muros",
+          "Muros"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.094Z",
+      "id": "wi-corte-de-humedad-por-capilaridad-en-muro-de-medio-pie-median",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-corte-de-humedad-por-capilaridad-en-muro-de-medio-pie-median",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-impermeab-suelos-membrana-betun-4-mm",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Corte de humedad por capilaridad en muro de medio pie mediante inyección de crema de silanos",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "capilaridad",
+        "inyección",
+        "silanos",
+        "rehabilitación"
+      ],
+      "text": "Formación de barrera química contra la humedad ascendente por capilaridad en muro de fábrica de medio pie (110 mm de espesor), mediante taladros de 12 mm de diámetro y 100 mm de profundidad separados 120 mm, e inyección de crema de silanos con pistola. Consumo declarado por fabricante para ese espesor: 1,5 salchichones de 560 ml por cada 10 m lineales de muro. Medida la longitud de muro tratada. Rendimiento de mano de obra adaptado de las partidas de impermeabilización con membrana de betún de la BCCA 2024-01, que son de ejecución equivalente. Rendimientos adaptados de BCCA wi-impermeab-suelos-membrana-betun-4-mm: rendimiento de mano de obra adaptado de la partida monocapa de impermeabilización con membrana de betún de 4 mm de la BCCA 2024-01",
+      "unit": "m",
+      "updatedAt": "2026-09-08T09:13:27.094Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-3ed80bb664fc47bc"
+        ],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-of-1-impermeabilizador",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.17,
+          "ref": "mt-crema-de-inyeccion-de-silanos-para-corte-de-humedad-por-capi",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "AISLAMIENTOS",
+          "IMPERMEABILIZACIÓN",
+          "Muros",
+          "Muros"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.094Z",
+      "id": "wi-corte-de-humedad-por-capilaridad-en-muro-de-un-pie-mediante",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-corte-de-humedad-por-capilaridad-en-muro-de-un-pie-mediante",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-impermeab-suelos-membrana-betun-4-mm",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Corte de humedad por capilaridad en muro de un pie mediante inyección de crema de silanos",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "capilaridad",
+        "inyección",
+        "silanos",
+        "rehabilitación"
+      ],
+      "text": "Formación de barrera química contra la humedad ascendente por capilaridad en muro de fábrica de un pie (220 mm de espesor), mediante taladros de 12 mm de diámetro y 190 mm de profundidad separados 120 mm, e inyección de crema de silanos con pistola. Consumo declarado por fabricante para ese espesor: 3,0 salchichones de 560 ml por cada 10 m lineales de muro. Medida la longitud de muro tratada; la unidad es el metro lineal y el espesor del muro forma parte de la denominación, porque el consumo varía casi cinco veces entre medio pie y dos pies. Rendimiento de mano de obra adaptado de las partidas de impermeabilización con membrana de betún de la BCCA 2024-01, que son de ejecución equivalente. Rendimientos adaptados de BCCA wi-impermeab-suelos-membrana-betun-4-mm: rendimiento de mano de obra adaptado de la partida monocapa de impermeabilización con membrana de betún de 4 mm de la BCCA 2024-01",
+      "unit": "m",
+      "updatedAt": "2026-09-08T09:13:27.094Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-of-1-impermeabilizador",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mt-imprimacion-asfaltica-de-aplicacion-en-frio",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-lamina-asfaltica-lbm-40-fp-de-betun-modificado-con-elastomer",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-lamina-asfaltica-antirraices-lbm-50-fp-para-cubierta-ajardin",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.3,
+          "ref": "mt-geotextil-no-tejido-de-poliester-de-200-g-m2",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-panel-de-poliestireno-extruido-xps-de-100-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.15,
+          "ref": "mt-lamina-drenante-nodular-de-polietileno-de-alta-densidad-con",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.08,
+          "ref": "mt-sustrato-para-cubierta-ajardinada-extensiva",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-manta-precultivada-de-sedum-para-cubierta-ajardinada-extensi",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "AISLAMIENTOS",
+          "IMPERMEABILIZACIÓN",
+          "Cubiertas",
+          "Cubiertas"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.094Z",
+      "id": "wi-cubierta-plana-ajardinada-extensiva-con-lamina-antirraices-y",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-cubierta-plana-ajardinada-extensiva-con-lamina-antirraices-y",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-impermeab-suelos-doble-membrana-betun-4-mm",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Cubierta plana ajardinada extensiva con lámina antirraíces y sedum",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "cubierta ajardinada",
+        "sedum",
+        "naturación urbana"
+      ],
+      "text": "Cubierta plana ajardinada extensiva, formada por imprimación asfáltica, lámina LBM-40-FP, lámina antirraíces LBM-50-FP según UNE-EN 13948, geotextil separador de 200 g/m², aislamiento de poliestireno extruido de 100 mm, geotextil de protección, lámina nodular de drenaje y retención, geotextil filtrante, sustrato de cubierta extensiva y manta precultivada de sedum. Medida en proyección horizontal, incluida la capa vegetal. Ejecutada según las condiciones de la sección HS 1 del CTE. Rendimiento de mano de obra adaptado de las partidas de impermeabilización con membrana de betún de la BCCA 2024-01, que son de ejecución equivalente. Rendimientos adaptados de BCCA wi-impermeab-suelos-doble-membrana-betun-4-mm: rendimiento de mano de obra adaptado de la partida bicapa de impermeabilización con membrana de betún de 4 mm de la BCCA 2024-01",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.094Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mo-of-1-impermeabilizador",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mt-imprimacion-asfaltica-de-aplicacion-en-frio",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-lamina-asfaltica-lbm-30-fv-de-betun-modificado-con-elastomer",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-lamina-asfaltica-lbm-40-fp-de-betun-modificado-con-elastomer",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-geotextil-no-tejido-de-poliester-de-200-g-m2",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-panel-de-poliestireno-extruido-xps-de-100-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-geotextil-no-tejido-de-poliester-de-300-g-m2",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "AISLAMIENTOS",
+          "IMPERMEABILIZACIÓN",
+          "Cubiertas",
+          "Cubiertas"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.094Z",
+      "id": "wi-cubierta-plana-invertida-no-transitable-con-acabado-de-grava",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-cubierta-plana-invertida-no-transitable-con-acabado-de-grava",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-impermeab-suelos-doble-membrana-betun-4-mm",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Cubierta plana invertida no transitable con acabado de grava y XPS de 100 mm",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "cubierta invertida",
+        "xps",
+        "grava"
+      ],
+      "text": "Cubierta plana invertida no transitable, formada por imprimación asfáltica, impermeabilización bicapa con lámina LBM-30-FV y lámina LBM-40-FP soldadas, capa separadora de geotextil de 200 g/m², aislamiento térmico de poliestireno extruido de 100 mm, capa separadora de geotextil de 300 g/m² y acabado de grava. Medida en proyección horizontal entre caras interiores de petos, descontando huecos mayores de 1 m²; los remontes en paramentos y petos se miden aparte. Ejecutada según las condiciones de la sección HS 1 del CTE. Rendimiento de mano de obra adaptado de las partidas de impermeabilización con membrana de betún de la BCCA 2024-01, que son de ejecución equivalente. Rendimientos adaptados de BCCA wi-impermeab-suelos-doble-membrana-betun-4-mm: rendimiento de mano de obra adaptado de la partida bicapa de impermeabilización con membrana de betún de 4 mm de la BCCA 2024-01",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.094Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
           "quantity": 0.08,
           "ref": "mo-of-1-impermeabilizador",
           "role": "labor"
@@ -8287,6 +8631,373 @@
           "stale_edition-13148fe841c88b61"
         ],
         "lastCheckedAt": "2026-07-21T11:26:30.206Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mo-of-1-impermeabilizador",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.1,
+          "ref": "mt-poliurea-pura-para-proyeccion-en-caliente",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "AISLAMIENTOS",
+          "IMPERMEABILIZACIÓN",
+          "Cubiertas",
+          "Cubiertas"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.095Z",
+      "id": "wi-impermeabilizacion-de-cubierta-con-poliurea-pura-proyectada",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-impermeabilizacion-de-cubierta-con-poliurea-pura-proyectada",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-impermeab-suelos-membrana-betun-4-mm",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Impermeabilización de cubierta con poliurea pura proyectada en caliente de 2 mm",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "poliurea",
+        "proyectada",
+        "industrial"
+      ],
+      "text": "Impermeabilización continua de cubierta con poliurea pura bicomponente proyectada en caliente, de 2 mm de espesor y 2 kg/m² de consumo, sobre imprimación epoxi bicomponente sin disolventes, con puente de unión de poliuretano y espolvoreo de árido de sílice cuando lleva acabado. Requiere equipo de proyección bicomponente en caliente, que se incluye en la partida. Medida la superficie realmente tratada. Rendimiento de mano de obra adaptado de las partidas de impermeabilización con membrana de betún de la BCCA 2024-01, que son de ejecución equivalente. Rendimientos adaptados de BCCA wi-impermeab-suelos-membrana-betun-4-mm: rendimiento de mano de obra adaptado de la partida monocapa de impermeabilización con membrana de betún de 4 mm de la BCCA 2024-01",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.095Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-of-1-impermeabilizador",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.5,
+          "ref": "mt-mortero-impermeabilizante-cementoso-monocomponente",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "AISLAMIENTOS",
+          "IMPERMEABILIZACIÓN",
+          "Muros",
+          "Muros"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.095Z",
+      "id": "wi-impermeabilizacion-de-muro-enterrado-por-el-intrados-con-mor",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-impermeabilizacion-de-muro-enterrado-por-el-intrados-con-mor",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-impermeab-suelos-membrana-betun-4-mm",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Impermeabilización de muro enterrado por el intradós con mortero cementoso, dos manos",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "muro enterrado",
+        "intradós",
+        "osmótico",
+        "rehabilitación"
+      ],
+      "text": "Impermeabilización de muro enterrado por su cara interior con mortero impermeabilizante cementoso monocomponente aplicado en dos manos, con un consumo de 3,0 a 4,0 kg/m², sobre soporte saturado sin agua encharcada. Medida la superficie de paramento interior tratada. Producto conforme a UNE-EN 1504-2. Solución de rehabilitación, aplicable cuando no es posible actuar por el trasdós. Rendimiento de mano de obra adaptado de las partidas de impermeabilización con membrana de betún de la BCCA 2024-01, que son de ejecución equivalente. Rendimientos adaptados de BCCA wi-impermeab-suelos-membrana-betun-4-mm: rendimiento de mano de obra adaptado de la partida monocapa de impermeabilización con membrana de betún de 4 mm de la BCCA 2024-01",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.095Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-of-1-impermeabilizador",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mt-imprimacion-asfaltica-de-aplicacion-en-frio",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-lamina-asfaltica-lbm-40-fp-de-betun-modificado-con-elastomer",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.15,
+          "ref": "mt-lamina-drenante-nodular-de-polietileno-de-alta-densidad-con",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "AISLAMIENTOS",
+          "IMPERMEABILIZACIÓN",
+          "Muros",
+          "Muros"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.095Z",
+      "id": "wi-impermeabilizacion-de-muro-enterrado-por-el-trasdos-con-lami",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-impermeabilizacion-de-muro-enterrado-por-el-trasdos-con-lami",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-impermeab-suelos-membrana-betun-4-mm",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Impermeabilización de muro enterrado por el trasdós con lámina asfáltica y lámina drenante",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "muro enterrado",
+        "trasdós",
+        "drenante"
+      ],
+      "text": "Impermeabilización de muro enterrado por su cara exterior, formada por imprimación asfáltica, lámina LBM-40-FP adherida y lámina drenante nodular de polietileno de alta densidad con geotextil filtrante, fijada mecánicamente. Medida la superficie de paramento realmente impermeabilizada, entre la coronación y la cara superior de la zapata. La norma de producto de la lámina en estructura enterrada es UNE-EN 13969, no UNE-EN 13707. Ejecutada según las condiciones de la sección HS 1 del CTE. Rendimiento de mano de obra adaptado de las partidas de impermeabilización con membrana de betún de la BCCA 2024-01, que son de ejecución equivalente. Rendimientos adaptados de BCCA wi-impermeab-suelos-membrana-betun-4-mm: rendimiento de mano de obra adaptado de la partida monocapa de impermeabilización con membrana de betún de 4 mm de la BCCA 2024-01",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.095Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-of-1-impermeabilizador",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.6,
+          "ref": "mt-membrana-liquida-de-poliuretano-monocomponente-para-impermea",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mt-banda-de-refuerzo-elastica-para-puntos-singulares-de-imperme",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "AISLAMIENTOS",
+          "IMPERMEABILIZACIÓN",
+          "Muros",
+          "Muros"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.095Z",
+      "id": "wi-impermeabilizacion-de-zona-humeda-bajo-revestimiento-ceramic",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-impermeabilizacion-de-zona-humeda-bajo-revestimiento-ceramic",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-impermeab-suelos-membrana-betun-4-mm",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Impermeabilización de zona húmeda bajo revestimiento cerámico con membrana líquida",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "zona húmeda",
+        "baño",
+        "ducha",
+        "rehabilitación"
+      ],
+      "text": "Impermeabilización de suelo y paramento de baño, plato de ducha o zona húmeda con membrana líquida bajo revestimiento cerámico adherido, con banda de refuerzo en rincones, encuentros y pasos de instalaciones. Producto conforme a UNE-EN 14891. Medida la superficie útil tratada; la banda de refuerzo va en parte proporcional. Rendimiento de mano de obra adaptado de las partidas de impermeabilización con membrana de betún de la BCCA 2024-01, que son de ejecución equivalente. Rendimientos adaptados de BCCA wi-impermeab-suelos-membrana-betun-4-mm: rendimiento de mano de obra adaptado de la partida monocapa de impermeabilización con membrana de betún de 4 mm de la BCCA 2024-01",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.095Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-of-1-impermeabilizador",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mo-cuadrilla-albanileria-formada-por-oficial-1-y-peon-esp",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.2,
+          "ref": "mt-membrana-liquida-de-poliuretano-monocomponente-para-impermea",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mt-velo-de-poliester-de-refuerzo-para-membrana-liquida",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mt-banda-de-refuerzo-elastica-para-puntos-singulares-de-imperme",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Precios Unitarios",
+          "AISLAMIENTOS",
+          "IMPERMEABILIZACIÓN",
+          "Cubiertas",
+          "Cubiertas"
+        ]
+      },
+      "country": "ES",
+      "createdAt": "2026-09-08T09:13:27.095Z",
+      "id": "wi-impermeabilizacion-liquida-de-cubierta-con-membrana-de-poliu",
+      "kind": "work_item",
+      "prices": [],
+      "sources": [
+        {
+          "code": "wi-impermeabilizacion-liquida-de-cubierta-con-membrana-de-poliu",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "wi-impermeab-suelos-membrana-betun-4-mm",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
+        }
+      ],
+      "summary": "Impermeabilización líquida de cubierta con membrana de poliuretano, dos manos",
+      "tags": [
+        "impermeabilización",
+        "CTE DB-HS1",
+        "rehabilitación",
+        "poliuretano",
+        "membrana líquida",
+        "rehabilitación"
+      ],
+      "text": "Impermeabilización continua de cubierta con membrana líquida de poliuretano monocomponente aplicada en dos manos sobre imprimación, con refuerzo de velo de poliéster en encuentros, fisuras y juntas de movimiento. Consumo total de referencia 2,0 a 2,4 kg/m². Medida la superficie realmente tratada, incluidos remontes y petos hasta 20 cm. Sistema con evaluación técnica europea según ETAG 005. Ejecutada según las condiciones de la sección HS 1 del CTE. Rendimiento de mano de obra adaptado de las partidas de impermeabilización con membrana de betún de la BCCA 2024-01, que son de ejecución equivalente. Rendimientos adaptados de BCCA wi-impermeab-suelos-membrana-betun-4-mm: rendimiento de mano de obra adaptado de la partida monocapa de impermeabilización con membrana de betún de 4 mm de la BCCA 2024-01",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:13:27.095Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
     },
@@ -11509,5 +12220,5 @@
       }
     }
   ],
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

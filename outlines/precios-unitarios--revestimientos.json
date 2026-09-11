@@ -1380,6 +1380,28 @@
       "u": "m2"
     },
     {
+      "g": [
+        "continuos",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-revestimiento-de-microcemento-en-paramento-vertical-interior",
+      "m": 9,
+      "s": "Revestimiento de microcemento en paramento vertical interior, 1-2 mm",
+      "u": "m2"
+    },
+    {
+      "g": [
+        "continuos",
+        "varios",
+        "varios"
+      ],
+      "id": "wi-revestimiento-de-microcemento-en-zona-humeda-con-barrera-ant",
+      "m": 9,
+      "s": "Revestimiento de microcemento en zona húmeda, con barrera antihumedad",
+      "u": "m2"
+    },
+    {
       "d": "2022-01",
       "g": [
         "continuos",
@@ -3811,6 +3833,28 @@
       "u": "m2"
     },
     {
+      "g": [
+        "suelos",
+        "especiales",
+        "solerias"
+      ],
+      "id": "wi-revestimiento-de-microcemento-en-suelo-exterior-antideslizan",
+      "m": 9,
+      "s": "Revestimiento de microcemento en suelo exterior, antideslizante",
+      "u": "m2"
+    },
+    {
+      "g": [
+        "suelos",
+        "especiales",
+        "solerias"
+      ],
+      "id": "wi-revestimiento-de-microcemento-en-suelo-interior-2-3-mm-sobre",
+      "m": 10,
+      "s": "Revestimiento de microcemento en suelo interior, 2-3 mm, sobre soporte existente",
+      "u": "m2"
+    },
+    {
       "d": "2021-12",
       "g": [
         "suelos",
@@ -4383,6 +4427,17 @@
       "u": "m"
     },
     {
+      "g": [
+        "suelos",
+        "maderas",
+        "rodapies"
+      ],
+      "id": "wi-rodapie-de-mdf-lacado-en-blanco-de-80x12-mm",
+      "m": 2,
+      "s": "Rodapié de MDF lacado en blanco de 80x12 mm",
+      "u": "m"
+    },
+    {
       "d": "2021-12",
       "g": [
         "suelos",
@@ -4484,6 +4539,50 @@
       "m": 7,
       "p": 74.94,
       "s": "PARQUE DE MOSAICO",
+      "u": "m2"
+    },
+    {
+      "g": [
+        "suelos",
+        "maderas",
+        "solerias"
+      ],
+      "id": "wi-pavimento-de-parquet-multicapa-de-roble-de-14-mm-colocado-fl",
+      "m": 4,
+      "s": "Pavimento de parquet multicapa de roble de 14 mm, colocado flotante",
+      "u": "m2"
+    },
+    {
+      "g": [
+        "suelos",
+        "maderas",
+        "solerias"
+      ],
+      "id": "wi-pavimento-de-parquet-multicapa-de-roble-de-14-mm-encolado",
+      "m": 4,
+      "s": "Pavimento de parquet multicapa de roble de 14 mm, encolado",
+      "u": "m2"
+    },
+    {
+      "g": [
+        "suelos",
+        "maderas",
+        "solerias"
+      ],
+      "id": "wi-pavimento-de-suelo-laminado-ac4-clase-32-de-8-mm-colocado-fl",
+      "m": 4,
+      "s": "Pavimento de suelo laminado AC4 clase 32 de 8 mm, colocado flotante",
+      "u": "m2"
+    },
+    {
+      "g": [
+        "suelos",
+        "maderas",
+        "solerias"
+      ],
+      "id": "wi-pavimento-de-suelo-laminado-ac5-clase-33-de-10-mm-colocado-f",
+      "m": 4,
+      "s": "Pavimento de suelo laminado AC5 clase 33 de 10 mm, colocado flotante",
       "u": "m2"
     },
     {
@@ -6710,6 +6809,17 @@
       "u": "m"
     },
     {
+      "g": [
+        "varios",
+        "remates",
+        "varios"
+      ],
+      "id": "wi-perfil-de-transicion-de-aluminio-anodizado-de-40-mm",
+      "m": 2,
+      "s": "Perfil de transición de aluminio anodizado de 40 mm",
+      "u": "m"
+    },
+    {
       "d": "2022-12",
       "g": [
         "varios",
@@ -6828,5 +6938,5 @@
     }
   ],
   "title": "Precios Unitarios > REVESTIMIENTOS",
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

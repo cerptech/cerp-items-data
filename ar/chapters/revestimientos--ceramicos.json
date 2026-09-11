@@ -1,0 +1,251 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Revestimientos > Cerámicos",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.38,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.79,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.07,
+          "ref": "mt-ar-revestimiento-ceramico-esmaltado-blanco-20x30-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mt-ar-adhesivo-impermeable-para-ceramicos-en-bolsa-de-30-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mt-ar-pastina-para-juntas",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revestimientos",
+          "Cerámicos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.577Z",
+      "id": "wi-ar-revestimiento-ceramico-esmaltado-20x30-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 49185.8
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 52066.45
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 68178.18
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 74901.65
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-revestimiento-ceramico-esmaltado-20x30-cm",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Revestimiento cerámico esmaltado 20x30 cm",
+      "tags": [
+        "revestimiento",
+        "cerámico",
+        "pared",
+        "baño"
+      ],
+      "text": "Revestimiento de paramento con cerámico esmaltado de 20x30 cm colocado con adhesivo impermeable sobre revoque grueso, con junta tomada con pastina. Medido por metro cuadrado de superficie ejecutada; cortes y desperdicios incluidos en el precio. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:15:59.143Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.3,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.85,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.07,
+          "ref": "mt-ar-porcelanato-esmaltado-60x60-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.13,
+          "ref": "mt-ar-adhesivo-impermeable-para-ceramicos-en-bolsa-de-30-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mt-ar-pastina-para-juntas",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revestimientos",
+          "Cerámicos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-09-08T09:15:32.577Z",
+      "id": "wi-ar-revestimiento-de-porcelanato-en-paramento",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 58298.1
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 61141.47
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 77151.97
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-08",
+          "edition": "2026-09",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 83650.95
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-revestimiento-de-porcelanato-en-paramento",
+          "edition": "2026-09",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Revestimiento de porcelanato en paramento",
+      "tags": [
+        "revestimiento",
+        "porcelanato",
+        "pared"
+      ],
+      "text": "Revestimiento de paramento con porcelanato esmaltado rectificado colocado con adhesivo impermeable sobre revoque grueso, con junta mínima tomada con pastina. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "unit": "m2",
+      "updatedAt": "2026-09-08T09:15:59.145Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.5.0"
+}

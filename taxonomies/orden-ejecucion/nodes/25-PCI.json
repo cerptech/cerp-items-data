@@ -11,6 +11,13 @@
       "u": "u"
     },
     {
+      "g": [],
+      "id": "wi-aislador-de-cortocircuito-de-lazo-direccionable-instalado",
+      "m": 2,
+      "s": "Aislador de cortocircuito de lazo direccionable, instalado",
+      "u": "u"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-avisador-acustico-interior",
@@ -929,6 +936,13 @@
       "u": "u"
     },
     {
+      "g": [],
+      "id": "wi-detector-multicriterio-optico-termico-direccionable-instalad",
+      "m": 2,
+      "s": "Detector multicriterio óptico-térmico direccionable, instalado y direccionado",
+      "u": "u"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-detector-optico-de-humos",
@@ -944,6 +958,13 @@
       "m": 2,
       "p": 58.47,
       "s": "DETECTOR ÓPTICO DE HUMOS",
+      "u": "u"
+    },
+    {
+      "g": [],
+      "id": "wi-detector-optico-de-humos-direccionable-analogico-instalado-y",
+      "m": 2,
+      "s": "Detector óptico de humos direccionable analógico, instalado y direccionado",
       "u": "u"
     },
     {
@@ -1307,6 +1328,13 @@
       "u": "u"
     },
     {
+      "g": [],
+      "id": "wi-lazo-de-deteccion-de-incendios-con-cable-resistente-al-fuego",
+      "m": 3,
+      "s": "Lazo de detección de incendios con cable resistente al fuego 2x1,5 mm2 bajo tubo",
+      "u": "m"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-letrero-luminoso-extincion-disparada-gas-fe-13-disparado",
@@ -1397,6 +1425,13 @@
       "u": "u"
     },
     {
+      "g": [],
+      "id": "wi-modulo-direccionable-de-entrada-y-salida-de-rele-para-maniob",
+      "m": 2,
+      "s": "Módulo direccionable de entrada y salida de relé para maniobras, instalado",
+      "u": "u"
+    },
+    {
       "d": "2021-12",
       "g": [],
       "id": "wi-panel-de-control-de-extincion",
@@ -1475,6 +1510,13 @@
       "m": 4,
       "p": 2324.23,
       "s": "PUESTO DE CONTROL DE 8\"",
+      "u": "u"
+    },
+    {
+      "g": [],
+      "id": "wi-pulsador-de-alarma-direccionable-rearmable-instalado-y-direc",
+      "m": 2,
+      "s": "Pulsador de alarma direccionable rearmable, instalado y direccionado",
       "u": "u"
     },
     {
@@ -1754,6 +1796,13 @@
       "m": 2,
       "p": 225.11,
       "s": "SIRENA EXTERIOR VÍA RADIO",
+      "u": "u"
+    },
+    {
+      "g": [],
+      "id": "wi-sirena-optico-acustica-direccionable-de-exterior-instalada",
+      "m": 2,
+      "s": "Sirena óptico-acústica direccionable de exterior, instalada",
       "u": "u"
     },
     {
@@ -2262,5 +2311,5 @@
     }
   ],
   "title": "Protección contra incendios",
-  "version": "0.4.0"
+  "version": "0.5.0"
 }

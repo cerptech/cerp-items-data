@@ -1,6 +1,6 @@
 # Banco de ítems de construcción CERP
 
-> Catálogo abierto de 12565 ítems de construcción de España con precios de referencia y descomposición (BOM: mano de obra, materiales, maquinaria). Versión 0.4.0. Formato canónico JSON; cada capítulo también en Markdown. Ids: wi=partida, mt=material, mo=mano de obra, mq=maquinaria, au=auxiliar, ot=otro. Cada precio lleva procedencia (fuente, código origen, edición, ámbito, fecha).
+> Catálogo abierto de 12697 ítems de construcción de España con precios de referencia y descomposición (BOM: mano de obra, materiales, maquinaria). Versión 0.5.0. Formato canónico JSON; cada capítulo también en Markdown. Ids: wi=partida, mt=material, mo=mano de obra, mq=maquinaria, au=auxiliar, ot=otro. Cada precio lleva procedencia (fuente, código origen, edición, ámbito, fecha).
 
 Atribución obligatoria al reutilizar: "Información obtenida del Portal de la Junta de Andalucía".
 
@@ -9,7 +9,7 @@ Atribución obligatoria al reutilizar: "Información obtenida del Portal de la J
 - [index.json](./index.json): índice máquina de todos los chunks con conteos
 - [tree.json](./tree.json): árbol de navegación jerárquico completo (labels, slugs, conteos)
 - outlines/<chunk>.json: filas livianas por capítulo (id, resumen, unidad, precio, subgrupos) — para listados sin cargar el capítulo entero
-- [basicos.json](./basicos.json): los 6055 conceptos simples (materiales, mano de obra, maquinaria) — resuelve cualquier ref de BOM
+- [basicos.json](./basicos.json): los 6131 conceptos simples (materiales, mano de obra, maquinaria) — resuelve cualquier ref de BOM
 - [catalog.json](./catalog.json): catálogo completo en un archivo
 - [countries.json](./countries.json): países disponibles. Este bundle es el del país de la raíz; los demás viven en su subcarpeta (p.ej. [ar/](./ar/llms.txt) para Argentina) con la misma estructura de archivos
 
@@ -18,20 +18,20 @@ Atribución obligatoria al reutilizar: "Información obtenida del Portal de la J
 - [Precios Auxiliares > AGLOMERANTES Y MORTEROS](./chapters/precios-auxiliares--aglomerantes-y-morteros.json): 39 ítems ([markdown](./chapters/precios-auxiliares--aglomerantes-y-morteros.md))
 - [Precios Auxiliares > RESIDUOS](./chapters/precios-auxiliares--residuos.json): 3 ítems ([markdown](./chapters/precios-auxiliares--residuos.md))
 - [Precios Unitarios > ACONDICIONAMIENTO DE TERRENOS](./chapters/precios-unitarios--acondicionamiento-de-terrenos.json): 137 ítems ([markdown](./chapters/precios-unitarios--acondicionamiento-de-terrenos.md))
-- [Precios Unitarios > AISLAMIENTOS](./chapters/precios-unitarios--aislamientos.json): 147 ítems ([markdown](./chapters/precios-unitarios--aislamientos.md))
-- [Precios Unitarios > ALBAÑILERÍA](./chapters/precios-unitarios--albanileria.json): 322 ítems ([markdown](./chapters/precios-unitarios--albanileria.md))
+- [Precios Unitarios > AISLAMIENTOS](./chapters/precios-unitarios--aislamientos.json): 156 ítems ([markdown](./chapters/precios-unitarios--aislamientos.md))
+- [Precios Unitarios > ALBAÑILERÍA](./chapters/precios-unitarios--albanileria.json): 324 ítems ([markdown](./chapters/precios-unitarios--albanileria.md))
 - [Precios Unitarios > CARPINTERÍA Y ELEMENTOS DE SEGURIDAD Y PROTECCIÓN](./chapters/precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion.json): 475 ítems ([markdown](./chapters/precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion.md))
 - [Precios Unitarios > CIMENTACIONES](./chapters/precios-unitarios--cimentaciones.json): 181 ítems ([markdown](./chapters/precios-unitarios--cimentaciones.md))
 - [Precios Unitarios > CONTROL DE CALIDAD, PRUEBAS Y ENSAYOS](./chapters/precios-unitarios--control-de-calidad-pruebas-y-ensayos.json): 335 ítems ([markdown](./chapters/precios-unitarios--control-de-calidad-pruebas-y-ensayos.md))
 - [Precios Unitarios > CUBIERTAS](./chapters/precios-unitarios--cubiertas.json): 120 ítems ([markdown](./chapters/precios-unitarios--cubiertas.md))
 - [Precios Unitarios > DEMOLICIONES Y TRABAJOS PREVIOS](./chapters/precios-unitarios--demoliciones-y-trabajos-previos.json): 490 ítems ([markdown](./chapters/precios-unitarios--demoliciones-y-trabajos-previos.md))
 - [Precios Unitarios > EQUIPAMIENTO](./chapters/precios-unitarios--equipamiento.json): 54 ítems ([markdown](./chapters/precios-unitarios--equipamiento.md))
-- [Precios Unitarios > ESTRUCTURAS](./chapters/precios-unitarios--estructuras.json): 187 ítems ([markdown](./chapters/precios-unitarios--estructuras.md))
+- [Precios Unitarios > ESTRUCTURAS](./chapters/precios-unitarios--estructuras.json): 204 ítems ([markdown](./chapters/precios-unitarios--estructuras.md))
 - [Precios Unitarios > GESTIÓN DE RESIDUOS](./chapters/precios-unitarios--gestion-de-residuos.json): 104 ítems ([markdown](./chapters/precios-unitarios--gestion-de-residuos.md))
-- [Precios Unitarios > INSTALACIONES](./chapters/precios-unitarios--instalaciones.json): 1989 ítems ([markdown](./chapters/precios-unitarios--instalaciones.md))
+- [Precios Unitarios > INSTALACIONES](./chapters/precios-unitarios--instalaciones.json): 2007 ítems ([markdown](./chapters/precios-unitarios--instalaciones.md))
 - [Precios Unitarios > MANTENIMIENTO](./chapters/precios-unitarios--mantenimiento.json): 288 ítems ([markdown](./chapters/precios-unitarios--mantenimiento.md))
 - [Precios Unitarios > PINTURAS](./chapters/precios-unitarios--pinturas.json): 97 ítems ([markdown](./chapters/precios-unitarios--pinturas.md))
-- [Precios Unitarios > REVESTIMIENTOS](./chapters/precios-unitarios--revestimientos.json): 525 ítems ([markdown](./chapters/precios-unitarios--revestimientos.md))
+- [Precios Unitarios > REVESTIMIENTOS](./chapters/precios-unitarios--revestimientos.json): 535 ítems ([markdown](./chapters/precios-unitarios--revestimientos.md))
 - [Precios Unitarios > SANEAMIENTO](./chapters/precios-unitarios--saneamiento.json): 68 ítems ([markdown](./chapters/precios-unitarios--saneamiento.md))
 - [Precios Unitarios > SEGURIDAD Y SALUD](./chapters/precios-unitarios--seguridad-y-salud.json): 243 ítems ([markdown](./chapters/precios-unitarios--seguridad-y-salud.md))
 - [Precios Unitarios > URBANIZACIONES](./chapters/precios-unitarios--urbanizaciones.json): 604 ítems ([markdown](./chapters/precios-unitarios--urbanizaciones.md))

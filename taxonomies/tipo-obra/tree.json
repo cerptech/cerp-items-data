@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-17T18:31:23.103Z",
+  "generatedAt": "2026-09-11T11:10:37.293Z",
   "roots": [
     {
       "k": "01-ONU",
       "l": "Obra nueva",
-      "n": 483,
+      "n": 500,
       "s": "obra-nueva"
     },
     {
@@ -28,10 +28,10 @@
     {
       "k": "99-SIN",
       "l": "Sin clasificar",
-      "n": 3795,
+      "n": 3834,
       "s": "sin-clasificar"
     }
   ],
-  "total": 6468,
-  "version": "0.4.0"
+  "total": 6524,
+  "version": "0.5.0"
 }
