@@ -1,0 +1,151 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Instalación de agua",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mo-ar-oficial-especializado-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-tanque-de-agua-tricapa-de-1-100-l",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-base-de-apoyo-para-tanque-de-agua",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-aireador-para-tanque-de-agua",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-flotante-mecanico-para-tanque-de-agua",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-valvula-de-seguridad-para-tanque-de-agua",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-brida-para-colector-de-polipropileno-de-1-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Instalación de agua"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.427Z",
+      "id": "wi-ar-tanque-de-reserva-domiciliario-cap-1100-lts-tanque-tricapa-1",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 474619.81
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 480295.55
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 508497.59
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 525240.39
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-tanque-de-reserva-domiciliario-cap-1100-lts-tanque-tricapa-1",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Tanque de reserva domiciliario-cap. 1100 lts, tanque tricapa 1,44 m altura, 1,10 m diametro. se considera que el…",
+      "tags": [
+        "instalación de agua"
+      ],
+      "text": "Tanque de reserva domiciliario-cap. 1100 lts, tanque tricapa 1,44 m altura, 1,10 m diametro. se considera que el…. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código IAGU-002, que remite al Manual del computista de la construcción). Medida por u. Precio computado desde la descomposición.",
+      "unit": "u",
+      "updatedAt": "2026-10-06T23:05:18.667Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.6.0"
+}

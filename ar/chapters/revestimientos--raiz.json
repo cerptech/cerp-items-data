@@ -1,0 +1,1276 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Revestimientos",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-ar-guarda-ceramica-de-6-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-adhesivo-para-placas-aislantes",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mt-ar-pastina-para-juntas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.001,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revestimientos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.414Z",
+      "id": "wi-ar-colocacion-de-guardas-ceramicas-sobre-revoque-grueso-existen",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 23183.49
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 23982.92
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 28424.83
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 30328.38
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-colocacion-de-guardas-ceramicas-sobre-revoque-grueso-existen",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Colocación de guardas cerámicas, sobre revoque grueso existente",
+      "tags": [
+        "revestimientos"
+      ],
+      "text": "Colocación de guardas cerámicas, sobre revoque grueso existente. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código REST-014, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "unit": "m",
+      "updatedAt": "2026-10-06T23:05:18.481Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.9,
+          "ref": "mt-ar-tabla-de-madera-de-1-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revestimientos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.426Z",
+      "id": "wi-ar-revestimiento-con-madera-sobre-escalera-de-hormigon-ancho-0",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 59827.31
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 65369.47
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 94045.55
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 109956.59
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-revestimiento-con-madera-sobre-escalera-de-hormigon-ancho-0",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Revestimiento con madera sobre escalera de hormigón, ancho 0,90 m,zócalo rampante,tramos rectos",
+      "tags": [
+        "revestimientos"
+      ],
+      "text": "Revestimiento con madera sobre escalera de hormigón, ancho 0,90 m,zócalo rampante,tramos rectos. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código REST-015, que remite al Manual del computista de la construcción). Medida por u. Precio computado desde la descomposición.",
+      "unit": "u",
+      "updatedAt": "2026-10-06T23:05:18.640Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.04,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.65,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-ar-azulejo-15x15-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3,
+          "ref": "mt-ar-adhesivo-para-placas-aislantes",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mt-ar-pastina-para-juntas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.015,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revestimientos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.426Z",
+      "id": "wi-ar-revestimiento-de-azulejos-15x15-colocados-con-adhesivo",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 57285.23
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 59523.14
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 72095.39
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 77247.71
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-revestimiento-de-azulejos-15x15-colocados-con-adhesivo",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Revestimiento de azulejos 15x15 colocados con adhesivo",
+      "tags": [
+        "revestimientos"
+      ],
+      "text": "Revestimiento de azulejos 15x15 colocados con adhesivo. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código REST-010, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.641Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.29,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.77,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-ar-azulejo-15x15-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.054,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1096,
+          "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.018,
+          "ref": "mt-ar-arena-fina-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mt-ar-pastina-para-juntas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.02,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revestimientos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.426Z",
+      "id": "wi-ar-revestimiento-de-azulejos-15x15-colocados-con-mezcla-de-cal",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 59361.34
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 62092.77
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 77401.85
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 83736.08
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-revestimiento-de-azulejos-15x15-colocados-con-mezcla-de-cal",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Revestimiento de azulejos 15x15 colocados con mezcla de cal",
+      "tags": [
+        "revestimientos"
+      ],
+      "text": "Revestimiento de azulejos 15x15 colocados con mezcla de cal. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código REST-012, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.642Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.28,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.77,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mt-ar-azulejo-15x15-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3,
+          "ref": "mt-ar-adhesivo-para-placas-aislantes",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mt-ar-pastina-para-juntas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.02,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revestimientos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.426Z",
+      "id": "wi-ar-revestimiento-de-azulejos-15x15-decorados-no-ortogonal-con-j",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 66152.83
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 68870.41
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 84107.8
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 90402.25
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-revestimiento-de-azulejos-15x15-decorados-no-ortogonal-con-j",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Revestimiento de azulejos 15x15-decorados-no ortogonal, con junta cerrada, colocados con adhesivo",
+      "tags": [
+        "revestimientos"
+      ],
+      "text": "Revestimiento de azulejos 15x15-decorados-no ortogonal, con junta cerrada, colocados con adhesivo. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código REST-011, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.643Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.15,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.15,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.65,
+          "ref": "mt-ar-ceramico-esmaltado-para-piso-51x51-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.043,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.0876,
+          "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.015,
+          "ref": "mt-ar-arena-fina-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mt-ar-pastina-para-juntas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.9,
+          "ref": "mt-ar-madera-cepillada-de-1x2-pulgadas-con-nariz",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revestimientos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.426Z",
+      "id": "wi-ar-revestimiento-de-ceramicos-sobre-escalera-de-hormigon-con-na",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 59416.19
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 65031.18
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 97368.27
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 109279.25
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-revestimiento-de-ceramicos-sobre-escalera-de-hormigon-con-na",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Revestimiento de cerámicos sobre escalera de hormigón, con nariz de madera, zócalo cerámico",
+      "tags": [
+        "revestimientos"
+      ],
+      "text": "Revestimiento de cerámicos sobre escalera de hormigón, con nariz de madera, zócalo cerámico. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código REST-016, que remite al Manual del computista de la construcción). Medida por u. Precio computado desde la descomposición.",
+      "unit": "u",
+      "updatedAt": "2026-10-06T23:05:18.643Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 5.88,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.73,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.562,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 25.04,
+          "ref": "mt-ar-cal-hidraulica-en-polvo-por-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mt-ar-arena-fina-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.18,
+          "ref": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 58,
+          "ref": "mt-ar-ladrillo-de-maquina",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revestimientos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.426Z",
+      "id": "wi-ar-revestimiento-de-escalones-con-ladrillos-de-maquina-sobre-te",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 163002.25
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 175722.5
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 247236.99
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 276453.34
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-revestimiento-de-escalones-con-ladrillos-de-maquina-sobre-te",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Revestimiento de escalones con ladrillos de máquina, sobre terreno natural con base H° pobre",
+      "tags": [
+        "revestimientos"
+      ],
+      "text": "Revestimiento de escalones con ladrillos de máquina, sobre terreno natural con base H° pobre. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código REST-018, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.644Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mt-ar-machimbre-de-1x4-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-tabla-de-pino-de-1x2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mt-ar-media-cana-de-borde-de-1x1-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.02,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revestimientos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.426Z",
+      "id": "wi-ar-revestimiento-de-madera-machihembrada",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 21224.09
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 21746.41
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 24754.52
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 25862.51
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-revestimiento-de-madera-machihembrada",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Revestimiento de madera machihembrada",
+      "tags": [
+        "revestimientos"
+      ],
+      "text": "Revestimiento de madera machihembrada. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código REST-003, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.645Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 28,
+          "ref": "mt-ar-piedra-natural-para-zocalo",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.262,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.033,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.02,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revestimientos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.426Z",
+      "id": "wi-ar-revestimiento-de-piedra-natural-espesor-1-2-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 49868.99
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 51190.75
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 58640.75
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 61652.3
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-revestimiento-de-piedra-natural-espesor-1-2-cm",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Revestimiento de piedra natural, espesor 1,2 cm",
+      "tags": [
+        "revestimientos"
+      ],
+      "text": "Revestimiento de piedra natural, espesor 1,2 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código REST-004, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.647Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.8,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.65,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.11,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 6,
+          "ref": "mt-ar-adhesivo-cementicio-impermeable-para-ceramicos-por-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 63,
+          "ref": "mt-ar-tejuela-imitacion-ladrillo-comun",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.015,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revestimientos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.426Z",
+      "id": "wi-ar-revestimiento-de-tejuelas-imitacion-ladrillo-comun-con-tomad",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 56822.88
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 60113.8
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 78134.51
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 86309.92
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-revestimiento-de-tejuelas-imitacion-ladrillo-comun-con-tomad",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Revestimiento de tejuelas imitacion ladrillo comun, con tomado de juntas al concreto",
+      "tags": [
+        "revestimientos"
+      ],
+      "text": "Revestimiento de tejuelas imitacion ladrillo comun, con tomado de juntas al concreto. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código REST-005, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.648Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.6.0"
+}

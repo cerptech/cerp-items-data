@@ -34,7 +34,7 @@
         {
           "currency": "ARS",
           "date": "2026-07",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -47,7 +47,7 @@
         {
           "currency": "ARS",
           "date": "2026-07",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -60,7 +60,7 @@
         {
           "currency": "ARS",
           "date": "2026-07",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -73,7 +73,7 @@
         {
           "currency": "ARS",
           "date": "2026-07",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -100,7 +100,7 @@
       ],
       "text": "Replanteo general de la obra sobre el terreno, con nivelación, marcación de ejes, colocación de caballetes y verificación de escuadras. Medido por metro cuadrado de superficie cubierta a construir. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.141Z",
+      "updatedAt": "2026-10-06T23:05:18.638Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -130,7 +130,7 @@
         {
           "currency": "ARS",
           "date": "2026-07",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -143,7 +143,7 @@
         {
           "currency": "ARS",
           "date": "2026-07",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -156,7 +156,7 @@
         {
           "currency": "ARS",
           "date": "2026-07",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -169,7 +169,7 @@
         {
           "currency": "ARS",
           "date": "2026-07",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -196,7 +196,7 @@
       ],
       "text": "Servicio de sereno de obra, por mes de permanencia. Se computa como partida de trabajos preliminares medida en mes, no como mano de obra directa de una partida de construcción: así figura en las planillas de cotización de obra pública. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado.",
       "unit": "mes",
-      "updatedAt": "2026-09-08T09:15:59.151Z",
+      "updatedAt": "2026-10-06T23:05:18.662Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -204,5 +204,5 @@
       }
     }
   ],
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

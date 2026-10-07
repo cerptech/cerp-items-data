@@ -1,0 +1,874 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Cubiertas",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.7,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.5,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.5,
+          "ref": "mt-ar-tirante-de-3x8-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mt-ar-clavos-de-5-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.8,
+          "ref": "mt-ar-bulones-y-herrajes-por-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Cubiertas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.413Z",
+      "id": "wi-ar-cabriada-de-madera-estructura-a-la-vista-cepillada",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 144980.41
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 150560.48
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 181724.07
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 194807.37
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cabriada-de-madera-estructura-a-la-vista-cepillada",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cabriada de madera, estructura a la vista-cepillada",
+      "tags": [
+        "cubiertas"
+      ],
+      "text": "Cabriada de madera, estructura a la vista-cepillada. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CUB-004, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "unit": "m",
+      "updatedAt": "2026-10-06T23:05:18.445Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.39,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.49,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.286885,
+          "ref": "mt-ar-tabla-de-pino-de-1x6-pulgadas-de-3-66-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.04,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.12,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Cubiertas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.413Z",
+      "id": "wi-ar-cenefa-de-madera",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 12171.95
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 13313.09
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 19966.04
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 22282.86
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cenefa-de-madera",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cenefa de madera",
+      "tags": [
+        "cubiertas"
+      ],
+      "text": "Cenefa de madera. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CUB-005, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "unit": "m",
+      "updatedAt": "2026-10-06T23:05:18.470Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.77,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.59,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.265823,
+          "ref": "mt-ar-tirante-de-pino-de-3x6-pulgadas-en-pieza-de-3-66-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.05,
+          "ref": "mt-ar-clavos-de-5-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Cubiertas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.414Z",
+      "id": "wi-ar-colocacion-de-vigas-o-correas-bajo-cabios-madera-cepillada",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 26063.01
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 27853.27
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 38017.59
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 42002.18
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-colocacion-de-vigas-o-correas-bajo-cabios-madera-cepillada",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Colocación de vigas o correas bajo cabios, madera cepillada",
+      "tags": [
+        "cubiertas"
+      ],
+      "text": "Colocación de vigas o correas bajo cabios, madera cepillada. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CUB-003, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "unit": "m",
+      "updatedAt": "2026-10-06T23:05:18.489Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.7,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.8,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.2,
+          "ref": "mt-ar-tirante-de-pino-de-2x5-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.101266,
+          "ref": "mt-ar-tirante-de-pino-de-3x6-pulgadas-en-pieza-de-3-66-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.15,
+          "ref": "mt-ar-machimbre-de-pino-de-3-4-x-5-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mt-ar-fieltro-asfaltico",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-tabla-de-pino-de-1x2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-liston-de-1-2-x-1-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.06,
+          "ref": "mt-ar-clavos-cabeza-de-plomo",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.02,
+          "ref": "mt-ar-clavos-de-cobre",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-ar-plancha-de-poliestireno-expandido-de-2-5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.25,
+          "ref": "mt-ar-chapa-acanalada-galvanizada-calibre-24-por-m2",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Cubiertas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.415Z",
+      "id": "wi-ar-cubierta-de-chapas-galvanizadas-onduladas-sobre-estructura-d",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 75952.7
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 77903.44
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 89218.95
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 93253.16
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cubierta-de-chapas-galvanizadas-onduladas-sobre-estructura-d",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cubierta de chapas galvanizadas onduladas, sobre estructura de madera cepillada",
+      "tags": [
+        "cubiertas"
+      ],
+      "text": "Cubierta de chapas galvanizadas onduladas, sobre estructura de madera cepillada. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CUB-006, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.512Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.3,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.4,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.2,
+          "ref": "mt-ar-tirante-de-pino-de-2x5-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.101266,
+          "ref": "mt-ar-tirante-de-pino-de-3x6-pulgadas-en-pieza-de-3-66-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.15,
+          "ref": "mt-ar-machimbre-de-pino-de-3-4-x-5-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mt-ar-fieltro-asfaltico",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-tabla-de-pino-de-1x2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-liston-de-1-2-x-1-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.06,
+          "ref": "mt-ar-clavos-cabeza-de-plomo",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.02,
+          "ref": "mt-ar-clavos-de-cobre",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-ar-plancha-de-poliestireno-expandido-de-2-5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.378788,
+          "ref": "mt-ar-chapa-trapezoidal-cincalum-de-3-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Cubiertas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.415Z",
+      "id": "wi-ar-cubierta-de-chapas-galvanizadas-trapezoidales-sobre-estructu",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 86623.7
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 90141.42
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 110481.23
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 117839.44
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cubierta-de-chapas-galvanizadas-trapezoidales-sobre-estructu",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cubierta de chapas galvanizadas trapezoidales, sobre estructura de madera cepillada",
+      "tags": [
+        "cubiertas"
+      ],
+      "text": "Cubierta de chapas galvanizadas trapezoidales, sobre estructura de madera cepillada. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CUB-007, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.512Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.85,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.3,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.2,
+          "ref": "mt-ar-tirante-de-pino-de-2x5-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-ar-machimbre-de-pino-de-3-4-x-5-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mt-ar-fieltro-asfaltico",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-liston-de-1-2-x-1-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3,
+          "ref": "mt-ar-alfajia-de-pino-de-1x3-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4.5,
+          "ref": "mt-ar-liston-caballete-para-teja-de-1-x-3-1-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.058334,
+          "ref": "mt-ar-lana-de-vidrio-de-50-mm-en-rollo-de-1-20-x-18-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.066656,
+          "ref": "mt-ar-teja-colonial-ceramica-44x20-cm-por-m2-de-cubierta",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.04,
+          "ref": "mt-ar-clavos-de-cobre",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Cubiertas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.415Z",
+      "id": "wi-ar-cubierta-de-tejas-coloniales-espanolas-estructura-de-madera",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 153916.92
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 159300.15
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 190667.26
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 201619.25
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cubierta-de-tejas-coloniales-espanolas-estructura-de-madera",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cubierta de tejas coloniales-españolas, estructura de madera sin cepillar",
+      "tags": [
+        "cubiertas"
+      ],
+      "text": "Cubierta de tejas coloniales-españolas, estructura de madera sin cepillar. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CUB-001, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.514Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.6.0"
+}

@@ -29,11 +29,11 @@
       "u": "m"
     },
     {
-      "d": "2026-08",
+      "d": "2026-10",
       "g": [],
       "id": "mt-ar-perfil-montante-de-69-mm-para-tabique",
       "m": 0,
-      "p": 1773.55,
+      "p": 2067.5,
       "s": "Perfil montante de 69 mm para tabique",
       "u": "m"
     },
@@ -47,11 +47,11 @@
       "u": "m"
     },
     {
-      "d": "2026-08",
+      "d": "2026-10",
       "g": [],
       "id": "mt-ar-perfil-solera-de-70-mm-para-tabique",
       "m": 0,
-      "p": 1590.91,
+      "p": 1843,
       "s": "Perfil solera de 70 mm para tabique",
       "u": "m"
     },
@@ -65,11 +65,11 @@
       "u": "u"
     },
     {
-      "d": "2026-08",
+      "d": "2026-10",
       "g": [],
       "id": "mt-ar-placa-de-roca-de-yeso-estandar-de-12-5-mm-de-1-20-x-2-40-m",
       "m": 0,
-      "p": 13801.65,
+      "p": 16010,
       "s": "Placa de roca de yeso estándar de 12,5 mm de 1,20 x 2,40 m",
       "u": "u"
     },
@@ -91,5 +91,5 @@
     }
   ],
   "title": "Construcción en seco > Placas y perfiles",
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

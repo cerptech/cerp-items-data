@@ -1,0 +1,1677 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Estructura metálica",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.06,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.06,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-ar-perfiles-y-angulos-de-acero",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.005,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura metálica"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.412Z",
+      "id": "wi-ar-barandas-de-hierro-simples-de-uso-comun-en-industrias",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4216.54
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4373.24
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 5275.67
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 5608.07
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-barandas-de-hierro-simples-de-uso-comun-en-industrias",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Barandas de hierro-simples, de uso común en industrias",
+      "tags": [
+        "estructura metálica"
+      ],
+      "text": "Barandas de hierro-simples, de uso común en industrias. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTFE-014, que remite al Manual del computista de la construcción). Medida por kg. Precio computado desde la descomposición.",
+      "unit": "kg",
+      "updatedAt": "2026-10-06T23:05:18.440Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 22.5,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 22.5,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 300,
+          "ref": "mt-ar-perfiles-y-angulos-de-acero",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura metálica"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.413Z",
+      "id": "wi-ar-cabriadas-de-perfiles-normalizados-luz-10-m-separacion-4-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1291357.45
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1350118.9
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1688530.38
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1813180.15
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cabriadas-de-perfiles-normalizados-luz-10-m-separacion-4-m",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cabriadas de perfiles normalizados, luz 10 m-separacion 4 m",
+      "tags": [
+        "estructura metálica"
+      ],
+      "text": "Cabriadas de perfiles normalizados, luz 10 m-separacion 4 m. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTFE-024, que remite al Manual del computista de la construcción). Medida por u. Precio computado desde la descomposición.",
+      "unit": "u",
+      "updatedAt": "2026-10-06T23:05:18.446Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-4900717ae7a46bc0"
+        ],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 9.35,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 9.35,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 110,
+          "ref": "mt-ar-perfiles-y-angulos-de-acero",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura metálica"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.413Z",
+      "id": "wi-ar-cabriadas-de-perfiles-normalizados-luz-6-m-separacion-4-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 499032.13
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 523450.77
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 664079.54
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 715878.45
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cabriadas-de-perfiles-normalizados-luz-6-m-separacion-4-m",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cabriadas de perfiles normalizados, luz 6 m-separacion 4 m",
+      "tags": [
+        "estructura metálica"
+      ],
+      "text": "Cabriadas de perfiles normalizados, luz 6 m-separacion 4 m. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTFE-023, que remite al Manual del computista de la construcción). Medida por u. Precio computado desde la descomposición.",
+      "unit": "u",
+      "updatedAt": "2026-10-06T23:05:18.447Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.97,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.97,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 23,
+          "ref": "mt-ar-perfiles-y-angulos-de-acero",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura metálica"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.414Z",
+      "id": "wi-ar-columna-de-doble-perfil-normalizado-n-10-fabricadas-en-obrad",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 81459.61
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 83992.88
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 98582.17
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 103955.96
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-columna-de-doble-perfil-normalizado-n-10-fabricadas-en-obrad",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Columna de doble perfil normalizado N° 10, fabricadas en obrador y montadas en posicion para soldar",
+      "tags": [
+        "estructura metálica"
+      ],
+      "text": "Columna de doble perfil normalizado N° 10, fabricadas en obrador y montadas en posicion para soldar. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTFE-025, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "unit": "m",
+      "updatedAt": "2026-10-06T23:05:18.490Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.27,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.27,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 8.5,
+          "ref": "mt-ar-perfiles-y-angulos-de-acero",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.005,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura metálica"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.415Z",
+      "id": "wi-ar-correas-de-perfil-normalizado-fijacion-por-soldadura-o-abulo",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 28053.69
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 28758.83
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 32819.77
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 34315.57
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-correas-de-perfil-normalizado-fijacion-por-soldadura-o-abulo",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Correas de perfil normalizado, fijación por soldadura o abulonado",
+      "tags": [
+        "estructura metálica"
+      ],
+      "text": "Correas de perfil normalizado, fijación por soldadura o abulonado. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTFE-026, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "unit": "m",
+      "updatedAt": "2026-10-06T23:05:18.510Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.055,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.055,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.15,
+          "ref": "mt-ar-perfiles-y-angulos-de-acero",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.005,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura metálica"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-escaleras-metalicas-prefabricacion-en-obrador",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4228.71
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4372.35
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 5199.57
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 5504.27
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-escaleras-metalicas-prefabricacion-en-obrador",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Escaleras metálicas, prefabricación en obrador",
+      "tags": [
+        "estructura metálica"
+      ],
+      "text": "Escaleras metálicas, prefabricación en obrador. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTFE-012, que remite al Manual del computista de la construcción). Medida por kg. Precio computado desde la descomposición.",
+      "unit": "kg",
+      "updatedAt": "2026-10-06T23:05:18.537Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.924,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.924,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 13.2,
+          "ref": "mt-ar-perfiles-y-angulos-de-acero",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura metálica"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructura-completa-de-columnas-y-vigas-de-hierro-altura-3-0",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 55429.56
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 57842.7
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 71740.13
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 76859.08
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructura-completa-de-columnas-y-vigas-de-hierro-altura-3-0",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructura completa de columnas y vigas de hierro, altura 3,00 m, luz 4,50 m",
+      "tags": [
+        "estructura metálica"
+      ],
+      "text": "Estructura completa de columnas y vigas de hierro, altura 3,00 m, luz 4,50 m. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTFE-020, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.538Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.04,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.04,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-ar-perfiles-y-angulos-de-acero",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.005,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura metálica"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructura-semi-pesada-de-hierro-menores-a-ipn-n-24",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 3752.61
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 3857.08
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4458.7
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4680.3
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructura-semi-pesada-de-hierro-menores-a-ipn-n-24",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructura semi pesada de hierro, menores a ipn N° 24",
+      "tags": [
+        "estructura metálica"
+      ],
+      "text": "Estructura semi pesada de hierro, menores a ipn N° 24. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTFE-003, que remite al Manual del computista de la construcción). Medida por kg. Precio computado desde la descomposición.",
+      "unit": "kg",
+      "updatedAt": "2026-10-06T23:05:18.542Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.06,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.06,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.15,
+          "ref": "mt-ar-perfiles-de-chapa-galvanizada-por-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.005,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura metálica"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-de-chapa-de-hierro-galvanizado-l-u-c-omega-coloc",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4674.08
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4830.78
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 5733.21
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 6065.61
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-de-chapa-de-hierro-galvanizado-l-u-c-omega-coloc",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras de chapa de hierro galvanizado-\"l\"-\"u\"-\"c\"-omega, colocación abulonada",
+      "tags": [
+        "estructura metálica"
+      ],
+      "text": "Estructuras de chapa de hierro galvanizado-\"l\"-\"u\"-\"c\"-omega, colocación abulonada. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTFE-009, que remite al Manual del computista de la construcción). Medida por kg. Precio computado desde la descomposición.",
+      "unit": "kg",
+      "updatedAt": "2026-10-06T23:05:18.543Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.28,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.28,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 4.4,
+          "ref": "mt-ar-perfiles-de-chapa-galvanizada-por-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura metálica"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-de-cubiertas-con-pendiente-con-perfiles-ch-galv",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 19142.31
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 19873.57
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 24084.91
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 25636.11
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-de-cubiertas-con-pendiente-con-perfiles-ch-galv",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras de cubiertas con pendiente-con perfiles CH° galv, perfiles \"u\"-\"c\"-\"l\"-omega y similares-abulonados",
+      "tags": [
+        "estructura metálica"
+      ],
+      "text": "Estructuras de cubiertas con pendiente-con perfiles CH° galv, perfiles \"u\"-\"c\"-\"l\"-omega y similares-abulonados. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTFE-022, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.544Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.045,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.045,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-ar-perfiles-y-angulos-de-acero",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.005,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura metálica"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-livianas-de-hierro-menores-a-ipn-n-12",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 3868.59
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 3986.12
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4662.94
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4912.24
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-livianas-de-hierro-menores-a-ipn-n-12",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras livianas de hierro, menores a ipn N° 12",
+      "tags": [
+        "estructura metálica"
+      ],
+      "text": "Estructuras livianas de hierro, menores a ipn N° 12. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTFE-001, que remite al Manual del computista de la construcción). Medida por kg. Precio computado desde la descomposición.",
+      "unit": "kg",
+      "updatedAt": "2026-10-06T23:05:18.562Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.035,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.035,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-ar-perfiles-y-angulos-de-acero",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.005,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura metálica"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-pesadas-de-hierro-menores-a-ipn-n-24",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 3636.63
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 3728.04
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4254.46
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4448.35
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-pesadas-de-hierro-menores-a-ipn-n-24",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras pesadas de hierro, menores a ipn N° 24",
+      "tags": [
+        "estructura metálica"
+      ],
+      "text": "Estructuras pesadas de hierro, menores a ipn N° 24. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTFE-005, que remite al Manual del computista de la construcción). Medida por kg. Precio computado desde la descomposición.",
+      "unit": "kg",
+      "updatedAt": "2026-10-06T23:05:18.563Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.05,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.05,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.15,
+          "ref": "mt-ar-perfiles-y-angulos-de-acero",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.005,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura metálica"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.424Z",
+      "id": "wi-ar-plataformas-y-pasarelas-de-hierro-prefabricacion-en-obrador",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4112.73
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4243.31
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4995.33
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 5272.33
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-plataformas-y-pasarelas-de-hierro-prefabricacion-en-obrador",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Plataformas y pasarelas de hierro, prefabricación en obrador",
+      "tags": [
+        "estructura metálica"
+      ],
+      "text": "Plataformas y pasarelas de hierro, prefabricación en obrador. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTFE-010, que remite al Manual del computista de la construcción). Medida por kg. Precio computado desde la descomposición.",
+      "unit": "kg",
+      "updatedAt": "2026-10-06T23:05:18.631Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.08,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.08,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-ar-perfiles-y-angulos-de-acero",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.005,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura metálica"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.427Z",
+      "id": "wi-ar-soportes-livianos-para-canerias-menores-a-4",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4552.32
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4761.25
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 5964.49
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 6407.69
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-soportes-livianos-para-canerias-menores-a-4",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Soportes livianos-para cañerías, menores a ø 4\"",
+      "tags": [
+        "estructura metálica"
+      ],
+      "text": "Soportes livianos-para cañerías, menores a ø 4\". Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTFE-016, que remite al Manual del computista de la construcción). Medida por kg. Precio computado desde la descomposición.",
+      "unit": "kg",
+      "updatedAt": "2026-10-06T23:05:18.663Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.065,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.065,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-ar-perfiles-y-angulos-de-acero",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.005,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura metálica"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.427Z",
+      "id": "wi-ar-soportes-pesados-para-canerias-mayores-a-4",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4204.38
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4374.13
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 5351.76
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 5711.86
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-soportes-pesados-para-canerias-mayores-a-4",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Soportes pesados-para cañerías, mayores a ø 4\"",
+      "tags": [
+        "estructura metálica"
+      ],
+      "text": "Soportes pesados-para cañerías, mayores a ø 4\". Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTFE-018, que remite al Manual del computista de la construcción). Medida por kg. Precio computado desde la descomposición.",
+      "unit": "kg",
+      "updatedAt": "2026-10-06T23:05:18.663Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.6.0"
+}

@@ -45,8 +45,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -54,12 +54,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16218.66
+          "value": 17025.73
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -67,12 +67,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 17417.81
+          "value": 18224.88
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -80,12 +80,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24080.67
+          "value": 24887.73
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -93,7 +93,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26935.99
+          "value": 27743.06
         }
       ],
       "sources": [
@@ -112,7 +112,7 @@
       ],
       "text": "Carpeta de nivelación de mortero de cemento de 3 cm de espesor sobre contrapiso, fratasada, para recibir el solado. Medida por metro cuadrado de superficie ejecutada. En Argentina se dice \"carpeta\"; el término español \"capa de regularización\" no se usa. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.035Z",
+      "updatedAt": "2026-10-06T23:05:18.466Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -165,8 +165,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -174,12 +174,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 15272.79
+          "value": 15918.44
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -187,12 +187,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16471.94
+          "value": 17117.59
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -200,12 +200,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23134.8
+          "value": 23780.45
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -213,7 +213,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25990.12
+          "value": 26635.77
         }
       ],
       "sources": [
@@ -232,7 +232,7 @@
       ],
       "text": "Carpeta hidrófuga de mortero de cemento 1:3 con hidrófugo inorgánico, de 2 cm de espesor, sobre contrapiso en locales húmedos y balcones. Medida por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.037Z",
+      "updatedAt": "2026-10-06T23:05:18.467Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -240,5 +240,5 @@
       }
     }
   ],
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

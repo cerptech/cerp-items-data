@@ -1,0 +1,163 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Instalación cloacal",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 32.3,
+          "ref": "mo-ar-oficial-especializado-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 50.9,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 10.4,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 58,
+          "ref": "mt-ar-cal-hidraulica-en-polvo-por-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.37,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.06,
+          "ref": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.47,
+          "ref": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-tapa-de-hormigon-con-marco-de-hierro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 600,
+          "ref": "mt-ar-ladrillo-comun-de-tierra-cocida-25x12x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.75,
+          "ref": "mt-ar-cano-de-pvc-3-2-cloacal-de-110-mm-en-barra-de-4-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Instalación cloacal"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.424Z",
+      "id": "wi-ar-pozo-absorvente-4-5-m3-diametro-1-20-m-profundidad-4-00-mts",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1517018.94
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1631487.23
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 2233359.89
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 2532813.59
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-pozo-absorvente-4-5-m3-diametro-1-20-m-profundidad-4-00-mts",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Pozo absorvente, 4,5 m3, diametro 1,20 m-profundidad 4,00 mts",
+      "tags": [
+        "instalación cloacal"
+      ],
+      "text": "Pozo absorvente, 4,5 m3, diametro 1,20 m-profundidad 4,00 mts. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ICLO-003, que remite al Manual del computista de la construcción). Medida por u. Precio computado desde la descomposición.",
+      "unit": "u",
+      "updatedAt": "2026-10-06T23:05:18.632Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.6.0"
+}

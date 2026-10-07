@@ -1,0 +1,139 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Instalaciones especiales",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-cano-tritubo-de-40-mm-para-fibra-optica",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.05,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-ar-malla-de-advertencia-de-0-30-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.025,
+          "ref": "mq-ar-plancha-vibratoria-compactadora-en-alquiler",
+          "role": "machinery"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.025,
+          "ref": "mq-ar-retroexcavadora-con-pala-cargadora-en-alquiler",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Instalaciones especiales"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.427Z",
+      "id": "wi-ar-tritubo-para-fibra-optica",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 24897.97
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 25404.34
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 28482.69
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 29349.14
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-tritubo-para-fibra-optica",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Tritubo, para fibra óptica",
+      "tags": [
+        "instalaciones especiales"
+      ],
+      "text": "Tritubo, para fibra óptica. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código IESP-001, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "unit": "m",
+      "updatedAt": "2026-10-06T23:05:18.668Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.6.0"
+}

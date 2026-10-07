@@ -1,0 +1,1998 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Estructura de madera",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.126582,
+          "ref": "mt-ar-tirante-de-pino-de-3x6-pulgadas-en-pieza-de-3-66-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.18,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.7,
+          "ref": "mt-ar-bulones-y-herrajes-por-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de madera"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.412Z",
+      "id": "wi-ar-armado-de-cabriadas-en-escuadrias-de-2-x-5-y-3-x-6",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 24449.01
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 25109.89
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 28834.89
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 30340.66
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-armado-de-cabriadas-en-escuadrias-de-2-x-5-y-3-x-6",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Armado de cabriadas, en escuadrías de 2\" x 5\" y 3\" x 6\"",
+      "tags": [
+        "estructura de madera"
+      ],
+      "text": "Armado de cabriadas, en escuadrías de 2\" x 5\" y 3\" x 6\". Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTMA-018, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "unit": "m",
+      "updatedAt": "2026-10-06T23:05:18.431Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-ar-tirante-de-2x6-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.03,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de madera"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.414Z",
+      "id": "wi-ar-colocacion-de-tirantes-cepillados-con-encastres-0-15-h-de-of",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 9529.24
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 9920.99
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 12177.06
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 13008.06
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-colocacion-de-tirantes-cepillados-con-encastres-0-15-h-de-of",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Colocación de tirantes cepillados con encastres (0,15 h de oficial por m)",
+      "tags": [
+        "estructura de madera"
+      ],
+      "text": "Colocación de tirantes cepillados con encastres (0,15 h de oficial por m). Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTMA-007, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "unit": "m",
+      "updatedAt": "2026-10-06T23:05:18.487Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-5cc075962ace6b8b"
+        ],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-ar-tirante-de-2x6-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.05,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de madera"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.414Z",
+      "id": "wi-ar-colocacion-de-tirantes-cepillados-con-encastres-0-35-h-de-of",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 14267.62
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 15181.68
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 20445.86
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 22384.86
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-colocacion-de-tirantes-cepillados-con-encastres-0-35-h-de-of",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Colocación de tirantes cepillados con encastres (0,35 h de oficial por m)",
+      "tags": [
+        "estructura de madera"
+      ],
+      "text": "Colocación de tirantes cepillados con encastres (0,35 h de oficial por m). Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTMA-008, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "unit": "m",
+      "updatedAt": "2026-10-06T23:05:18.488Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-ar-tirante-de-5x5-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.002,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de madera"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.414Z",
+      "id": "wi-ar-columnas-de-hasta-5-x-5-con-encastre-simple-en-un-extremo",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 29850.41
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 30895.06
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 36911.27
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 39127.26
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-columnas-de-hasta-5-x-5-con-encastre-simple-en-un-extremo",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Columnas de hasta 5\" x 5\", con encastre simple en un extremo",
+      "tags": [
+        "estructura de madera"
+      ],
+      "text": "Columnas de hasta 5\" x 5\", con encastre simple en un extremo. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTMA-013, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "unit": "m",
+      "updatedAt": "2026-10-06T23:05:18.491Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.7,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.7,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.1,
+          "ref": "mt-ar-tirante-de-2x4-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-taco-de-madera-de-1x2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-bulon",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.002,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de madera"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.414Z",
+      "id": "wi-ar-columnas-formadas-por-2-tirantes-de-2-x-4-separadas-entre-si",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 25128.26
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 26956.4
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 37484.75
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 41362.75
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-columnas-formadas-por-2-tirantes-de-2-x-4-separadas-entre-si",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Columnas formadas por 2 tirantes de 2\" x 4\", separadas entre si y unidos por tacos y bulones",
+      "tags": [
+        "estructura de madera"
+      ],
+      "text": "Columnas formadas por 2 tirantes de 2\" x 4\", separadas entre si y unidos por tacos y bulones. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTMA-014, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "unit": "m",
+      "updatedAt": "2026-10-06T23:05:18.492Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-bulones-y-herrajes-por-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.002,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de madera"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.415Z",
+      "id": "wi-ar-empalme-de-vigas-a-pico-de-flauta-con-bulones",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 47795.13
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 48970.36
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 55738.59
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 58231.58
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-empalme-de-vigas-a-pico-de-flauta-con-bulones",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Empalme de vigas, a \"pico de flauta\", con bulones",
+      "tags": [
+        "estructura de madera"
+      ],
+      "text": "Empalme de vigas, a \"pico de flauta\", con bulones. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTMA-010, que remite al Manual del computista de la construcción). Medida por u. Precio computado desde la descomposición.",
+      "unit": "u",
+      "updatedAt": "2026-10-06T23:05:18.522Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.65,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.65,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-bulones-y-herrajes-por-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-cuna-de-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.002,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de madera"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.415Z",
+      "id": "wi-ar-empalme-de-vigas-a-rayo-de-jupiter-con-cunas-y-bulones",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 53135.23
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 54832.79
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 64609.12
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 68210.11
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-empalme-de-vigas-a-rayo-de-jupiter-con-cunas-y-bulones",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Empalme de vigas, a \"rayo de júpiter\", con cuñas y bulones",
+      "tags": [
+        "estructura de madera"
+      ],
+      "text": "Empalme de vigas, a \"rayo de júpiter\", con cuñas y bulones. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTMA-009, que remite al Manual del computista de la construcción). Medida por u. Precio computado desde la descomposición.",
+      "unit": "u",
+      "updatedAt": "2026-10-06T23:05:18.523Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-ar-tabla-de-3-4-x-4-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.09,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de madera"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-entablonado-de-madera-en-bruto-de-3-4-pulgada-0-20-h-de-ofic",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 11152.89
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 11675.22
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 14683.32
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 15791.32
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-entablonado-de-madera-en-bruto-de-3-4-pulgada-0-20-h-de-ofic",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Entablonado de madera en bruto de 3/4 pulgada (0,20 h de oficial por m2)",
+      "tags": [
+        "estructura de madera"
+      ],
+      "text": "Entablonado de madera en bruto de 3/4 pulgada (0,20 h de oficial por m2). Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTMA-001, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.527Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-ea7ebfdb2b929d43"
+        ],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-ar-tabla-de-3-4-x-4-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.09,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de madera"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-entablonado-de-madera-en-bruto-de-3-4-pulgada-0-30-h-de-ofic",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 13472.53
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 14256.02
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 18768.17
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 20430.17
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-entablonado-de-madera-en-bruto-de-3-4-pulgada-0-30-h-de-ofic",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Entablonado de madera en bruto de 3/4 pulgada (0,30 h de oficial por m2)",
+      "tags": [
+        "estructura de madera"
+      ],
+      "text": "Entablonado de madera en bruto de 3/4 pulgada (0,30 h de oficial por m2). Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTMA-002, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.528Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.84,
+          "ref": "mt-ar-tabla-de-1x3-pulgadas-para-deck",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.015,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de madera"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-entablonado-en-superficies-horizontales-madera-en-bruto-sin",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 43220.64
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 44395.87
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 51164.1
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 53657.09
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-entablonado-en-superficies-horizontales-madera-en-bruto-sin",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Entablonado en superficies horizontales, madera en bruto sin cepillar",
+      "tags": [
+        "estructura de madera"
+      ],
+      "text": "Entablonado en superficies horizontales, madera en bruto sin cepillar. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTMA-006, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.529Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.27,
+          "ref": "mt-ar-tabla-de-1x5-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.12,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.015,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de madera"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-entablonado-en-superficies-verticales-madera-en-bruto-sin-ce",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 23407.25
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 24451.9
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 30468.1
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 32684.1
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-entablonado-en-superficies-verticales-madera-en-bruto-sin-ce",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Entablonado en superficies verticales, madera en bruto sin cepillar",
+      "tags": [
+        "estructura de madera"
+      ],
+      "text": "Entablonado en superficies verticales, madera en bruto sin cepillar. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTMA-005, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.529Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-ar-tabla-de-3-4-x-4-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.09,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de madera"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-entablonado-machihembrado-cepillado-de-3-4-pulgada-0-25-h-de",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 12312.71
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 12965.62
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 16725.75
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 18110.74
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-entablonado-machihembrado-cepillado-de-3-4-pulgada-0-25-h-de",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Entablonado machihembrado cepillado de 3/4 pulgada (0,25 h de oficial por m2)",
+      "tags": [
+        "estructura de madera"
+      ],
+      "text": "Entablonado machihembrado cepillado de 3/4 pulgada (0,25 h de oficial por m2). Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTMA-003, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.530Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-e71bf691a09d9c91"
+        ],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-ar-tabla-de-3-4-x-4-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.09,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de madera"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-entablonado-machihembrado-cepillado-de-3-4-pulgada-0-35-h-de",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 14632.36
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 15546.42
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 20810.6
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 22749.6
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-entablonado-machihembrado-cepillado-de-3-4-pulgada-0-35-h-de",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Entablonado machihembrado cepillado de 3/4 pulgada (0,35 h de oficial por m2)",
+      "tags": [
+        "estructura de madera"
+      ],
+      "text": "Entablonado machihembrado cepillado de 3/4 pulgada (0,35 h de oficial por m2). Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTMA-004, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.531Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 5.28,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-tabla-de-madera-de-1-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de madera"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-escalera-de-madera-huellas-y-contrahuellas-encastradas-tramo",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 87579.62
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 94895.27
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 132747.7
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 153750.27
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-escalera-de-madera-huellas-y-contrahuellas-encastradas-tramo",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Escalera de madera, huellas y contrahuellas encastradas, tramos rectos",
+      "tags": [
+        "estructura de madera"
+      ],
+      "text": "Escalera de madera, huellas y contrahuellas encastradas, tramos rectos. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTMA-022, que remite al Manual del computista de la construcción). Medida por u. Precio computado desde la descomposición.",
+      "unit": "u",
+      "updatedAt": "2026-10-06T23:05:18.536Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mt-ar-fieltro-asfaltico",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.3,
+          "ref": "mt-ar-liston-de-1-2-x-1-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de madera"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-fieltro-y-enlistonado-sobre-entablonado-inclinado-1-3-m-de-l",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 8847.02
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 9630.51
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 14142.66
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 15804.66
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-fieltro-y-enlistonado-sobre-entablonado-inclinado-1-3-m-de-l",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Fieltro y enlistonado sobre entablonado inclinado, 1,3 m de listón por m2",
+      "tags": [
+        "estructura de madera"
+      ],
+      "text": "Fieltro y enlistonado sobre entablonado inclinado, 1,3 m de listón por m2. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTMA-016, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.567Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-0a25be7a77b62ecf",
+          "duplicate_candidate-ee988d800e37b101"
+        ],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mt-ar-fieltro-asfaltico",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-liston-de-1-2-x-1-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de madera"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-fieltro-y-enlistonado-sobre-entablonado-inclinado-1-m-de-lis",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 6294.69
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 6817.01
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 9825.11
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 10933.11
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-fieltro-y-enlistonado-sobre-entablonado-inclinado-1-m-de-lis",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Fieltro y enlistonado sobre entablonado inclinado, 1 m de listón por m2",
+      "tags": [
+        "estructura de madera"
+      ],
+      "text": "Fieltro y enlistonado sobre entablonado inclinado, 1 m de listón por m2. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTMA-017, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.568Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-eb8ff883b5ec2c05"
+        ],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mt-ar-fieltro-asfaltico",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3,
+          "ref": "mt-ar-liston-de-1-2-x-1-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de madera"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-fieltro-y-enlistonado-sobre-entablonado-inclinado-3-m-de-lis",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 11325.43
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 12239.5
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 17503.68
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 19442.67
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-fieltro-y-enlistonado-sobre-entablonado-inclinado-3-m-de-lis",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Fieltro y enlistonado sobre entablonado inclinado, 3 m de listón por m2",
+      "tags": [
+        "estructura de madera"
+      ],
+      "text": "Fieltro y enlistonado sobre entablonado inclinado, 3 m de listón por m2. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTMA-015, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.568Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.6.0"
+}

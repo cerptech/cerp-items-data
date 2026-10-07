@@ -1,0 +1,402 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Instalación de gas",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-ar-oficial-especializado-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-ar-cano-de-termofusion-para-gas-de-1-2-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mt-ar-niple-de-termofusion-para-gas-de-1-2-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.12,
+          "ref": "mt-ar-codo-de-termofusion-para-gas-de-1-2-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.05,
+          "ref": "mt-ar-tee-de-termofusion-para-gas-de-1-2-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Instalación de gas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.413Z",
+      "id": "wi-ar-caneria-de-distribucion-1-2-canos-epoxi-o-termofusion",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 16869.64
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 18004.78
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 23645.19
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 26993.75
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-caneria-de-distribucion-1-2-canos-epoxi-o-termofusion",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cañeria de distribucion 1/2\", caños epoxi o termofusión",
+      "tags": [
+        "instalación de gas"
+      ],
+      "text": "Cañeria de distribucion 1/2\", caños epoxi o termofusión. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código IGAS-004, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "unit": "m",
+      "updatedAt": "2026-10-06T23:05:18.452Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-53177b81513ff5f9",
+          "duplicate_candidate-77a87e9134487b89"
+        ],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mo-ar-oficial-especializado-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-ar-cano-de-termofusion-para-gas-de-1-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mt-ar-niple-de-termofusion-para-gas-de-1-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.12,
+          "ref": "mt-ar-codo-de-termofusion-para-gas-de-1-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.05,
+          "ref": "mt-ar-tee-de-termofusion-para-gas-de-1-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Instalación de gas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.413Z",
+      "id": "wi-ar-caneria-de-distribucion-1-canos-epoxi-o-termofusion",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 27757.71
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 29460.44
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 37921.05
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 42943.89
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-caneria-de-distribucion-1-canos-epoxi-o-termofusion",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cañeria de distribucion 1\", caños epoxi o termofusión",
+      "tags": [
+        "instalación de gas"
+      ],
+      "text": "Cañeria de distribucion 1\", caños epoxi o termofusión. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código IGAS-002, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "unit": "m",
+      "updatedAt": "2026-10-06T23:05:18.453Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-0c139874ce7da81e"
+        ],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-ar-oficial-especializado-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-ar-cano-de-termofusion-para-gas-de-3-4-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mt-ar-niple-de-termofusion-para-gas-de-3-4-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.12,
+          "ref": "mt-ar-codo-de-termofusion-para-gas-de-3-4-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.05,
+          "ref": "mt-ar-tee-de-termofusion-para-gas-de-3-4-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Instalación de gas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.413Z",
+      "id": "wi-ar-caneria-de-distribucion-3-4-canos-epoxi-o-termofusion",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 19529.8
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 20948.73
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 27999.24
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 32184.94
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-caneria-de-distribucion-3-4-canos-epoxi-o-termofusion",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cañeria de distribucion 3/4\", caños epoxi o termofusión",
+      "tags": [
+        "instalación de gas"
+      ],
+      "text": "Cañeria de distribucion 3/4\", caños epoxi o termofusión. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código IGAS-003, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "unit": "m",
+      "updatedAt": "2026-10-06T23:05:18.454Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.6.0"
+}

@@ -1,0 +1,1252 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Pisos",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 60,
+          "ref": "mt-ar-adoquin-de-porfido-10x10-cm-por-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.262,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.033,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Pisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.423Z",
+      "id": "wi-ar-piso-de-adoquines-sobre-contrapiso-adoquin-de-piedra-natural",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 60145.31
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 61467.07
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 68917.07
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 71928.62
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-piso-de-adoquines-sobre-contrapiso-adoquin-de-piedra-natural",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Piso de adoquines sobre contrapiso, adoquín de piedra natural 10x10x2cm",
+      "tags": [
+        "pisos"
+      ],
+      "text": "Piso de adoquines sobre contrapiso, adoquín de piedra natural 10x10x2cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código PISO-022, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.619Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.65,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.0468,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1952,
+          "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.032,
+          "ref": "mt-ar-arena-fina-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-mosaico-calcareo-20x20-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.015,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Pisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.423Z",
+      "id": "wi-ar-piso-de-baldosas-calcareas-o-ceramico-para-azotea-20x20-junt",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 37056.83
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 39239.32
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 51524.81
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 56518.02
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-piso-de-baldosas-calcareas-o-ceramico-para-azotea-20x20-junt",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Piso de baldosas calcareas o cerámico para azotea 20x20, junta cerrada",
+      "tags": [
+        "pisos"
+      ],
+      "text": "Piso de baldosas calcareas o cerámico para azotea 20x20, junta cerrada. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código PISO-003, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.620Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.7,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.34,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2826,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.031,
+          "ref": "mt-ar-arena-fina-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Pisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.423Z",
+      "id": "wi-ar-piso-de-cemento-alisado-rodillado-o-cepillado-espesor-2-5-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 17465.97
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 18852.71
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 26547.34
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 29862.93
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-piso-de-cemento-alisado-rodillado-o-cepillado-espesor-2-5-cm",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Piso de cemento alisado-rodillado o cepillado, espesor 2,5 cm-(2 + 0,5 cm)",
+      "tags": [
+        "pisos"
+      ],
+      "text": "Piso de cemento alisado-rodillado o cepillado, espesor 2,5 cm-(2 + 0,5 cm). Análisis de precio unitario con rendimientos del template de ítems SAXUM (código PISO-001, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.621Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.93,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.114,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 5.78,
+          "ref": "mt-ar-cal-hidraulica-en-polvo-por-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.042,
+          "ref": "mt-ar-arena-fina-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 28,
+          "ref": "mt-ar-ladrillo-comun-de-tierra-cocida-25x12x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.015,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Pisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.424Z",
+      "id": "wi-ar-piso-de-ladrillos-comunes-junta-recta-colocado-de-plano-junt",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 30256.93
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 32281.13
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 43671.22
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 48307.87
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-piso-de-ladrillos-comunes-junta-recta-colocado-de-plano-junt",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Piso de ladrillos comunes, junta recta, colocado de plano. junta abierta tomada con concreto",
+      "tags": [
+        "pisos"
+      ],
+      "text": "Piso de ladrillos comunes, junta recta, colocado de plano. junta abierta tomada con concreto. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código PISO-002, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.624Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.9,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.9,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1074,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2252,
+          "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.043,
+          "ref": "mt-ar-arena-fina-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 50,
+          "ref": "mt-ar-laja-de-piedra-irregular",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Pisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.424Z",
+      "id": "wi-ar-piso-de-lajas-irregulares-junta-tomada-con-concreto",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 45039.77
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 47390.23
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 60926.69
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 65912.68
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-piso-de-lajas-irregulares-junta-tomada-con-concreto",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Piso de lajas irregulares, junta tomada con concreto",
+      "tags": [
+        "pisos"
+      ],
+      "text": "Piso de lajas irregulares, junta tomada con concreto. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código PISO-005, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.625Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.19,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.77,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.0468,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1952,
+          "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.032,
+          "ref": "mt-ar-arena-fina-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.08,
+          "ref": "mt-ar-mosaico-granitico-30x30-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mt-ar-pastina-para-juntas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.015,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Pisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.424Z",
+      "id": "wi-ar-piso-de-mosaicos-graniticos-en-locales-sanitarios",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 54112.33
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 56705.2
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 71297.38
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 77233.83
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-piso-de-mosaicos-graniticos-en-locales-sanitarios",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Piso de mosaicos graniticos, en locales sanitarios",
+      "tags": [
+        "pisos"
+      ],
+      "text": "Piso de mosaicos graniticos, en locales sanitarios. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código PISO-006, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.626Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-ar-oficial-especializado-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-ar-tabla-de-1x3-pulgadas-para-deck",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 24,
+          "ref": "mt-ar-tornillo-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-clavadera-de-pino-de-2x2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Pisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.424Z",
+      "id": "wi-ar-piso-deck-madera-bastidor-clavadera-cada-60-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 58123.06
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 59296.77
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 64772.99
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 68646.24
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-piso-deck-madera-bastidor-clavadera-cada-60-cm",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Piso deck-madera, bastidor clavadera cada 60 cm",
+      "tags": [
+        "pisos"
+      ],
+      "text": "Piso deck-madera, bastidor clavadera cada 60 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código PISO-017, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.628Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.55,
+          "ref": "mo-ar-oficial-especializado-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-ar-tabla-de-madera-cepillada-10-x-120-x-2-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-tabla-de-pino-de-1x2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Pisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.424Z",
+      "id": "wi-ar-piso-madera-entablonada-machiembrada-clavada-espesor-de-made",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 40043.97
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 41359.58
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 47540.84
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 51832.67
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-piso-madera-entablonada-machiembrada-clavada-espesor-de-made",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Piso madera entablonada machiembrada-clavada, espesor de madera 2 cm",
+      "tags": [
+        "pisos"
+      ],
+      "text": "Piso madera entablonada machiembrada-clavada, espesor de madera 2 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código PISO-014, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.629Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mo-ar-oficial-especializado-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-ar-tabla-de-madera-cepillada-10-x-120-x-2-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-brea-en-panes",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 30,
+          "ref": "mt-ar-juego-de-tarugo-y-tornillo-para-piso-de-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Pisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.424Z",
+      "id": "wi-ar-piso-madera-tarugada-sobre-carpeta-o-piso-liso-existente-esp",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 47604.07
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 49061.57
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 55947.89
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 60658.28
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-piso-madera-tarugada-sobre-carpeta-o-piso-liso-existente-esp",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Piso madera tarugada-sobre  carpeta o piso liso existente, espesor de madera 2 cm",
+      "tags": [
+        "pisos"
+      ],
+      "text": "Piso madera tarugada-sobre  carpeta o piso liso existente, espesor de madera 2 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código PISO-013, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.630Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.65,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mt-ar-pastina-para-juntas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Pisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.424Z",
+      "id": "wi-ar-pulido-de-pisos",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 12042.89
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 13250.01
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 19877.75
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 22853.85
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-pulido-de-pisos",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Pulido de pisos",
+      "tags": [
+        "pisos"
+      ],
+      "text": "Pulido de pisos. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código PISO-011, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.635Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.6.0"
+}

@@ -39,15 +39,15 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR"
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24979.94
+          "value": 24998.55
         }
       ],
       "sources": [
@@ -66,7 +66,7 @@
       ],
       "text": "Columna de caño estructural de sección cuadrada de 100x100 mm y 3,2 mm de espesor, cortada a medida, soldada y con una mano de antióxido al cromato. Medida por metro lineal de columna colocada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. El caño se compra por barra de 6 m, de modo que un metro consume 0,1667 barras más un 5 % de desperdicio. SIN RENDIMIENTO DE MANO DE OBRA. Se relevaron manuales técnicos de fabricante (Ternium, Acindar, INCOSE), colegios profesionales de doce provincias, institutos provinciales de vivienda, pliegos de obra pública y cátedras universitarias: ninguna fuente argentina de descarga libre publica el armado y montaje de estructura metálica con horas por categoría. Se descartó deliberadamente la única fuente que sí los publica desagregados, por estar bloqueada por licencia para este banco. Hasta conseguir una fuente habilitada esta partida cubre sólo los materiales y su precio subestima el costo real.",
       "unit": "m",
-      "updatedAt": "2026-09-08T09:15:59.058Z",
+      "updatedAt": "2026-10-06T23:05:18.490Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -107,15 +107,15 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR"
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24702.67
+          "value": 24716.63
         }
       ],
       "sources": [
@@ -134,7 +134,7 @@
       ],
       "text": "Viga o dintel de perfil normal UPN de 100 mm laminado en caliente, cortado a medida, soldado en obra y con una mano de antióxido al cromato. Medido por metro lineal de perfil colocado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. El perfil se compra por barra de 12 m, de modo que un metro consume 0,0833 barras más un 5 % de desperdicio por recortes. SIN RENDIMIENTO DE MANO DE OBRA. Se relevaron manuales técnicos de fabricante (Ternium, Acindar, INCOSE), colegios profesionales de doce provincias, institutos provinciales de vivienda, pliegos de obra pública y cátedras universitarias: ninguna fuente argentina de descarga libre publica el armado y montaje de estructura metálica con horas por categoría. Se descartó deliberadamente la única fuente que sí los publica desagregados, por estar bloqueada por licencia para este banco. Hasta conseguir una fuente habilitada esta partida cubre sólo los materiales y su precio subestima el costo real.",
       "unit": "m",
-      "updatedAt": "2026-09-08T09:15:59.079Z",
+      "updatedAt": "2026-10-06T23:05:18.521Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -175,15 +175,15 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR"
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24213.83
+          "value": 24227.78
         }
       ],
       "sources": [
@@ -202,7 +202,7 @@
       ],
       "text": "Viga o dintel de perfil normal IPN de 100 mm laminado en caliente, cortado a medida, soldado en obra y con una mano de antióxido al cromato. Medido por metro lineal de perfil colocado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. El perfil se compra por barra de 12 m, de modo que un metro consume 0,0833 barras más un 5 % de desperdicio por recortes. SIN RENDIMIENTO DE MANO DE OBRA. Se relevaron manuales técnicos de fabricante (Ternium, Acindar, INCOSE), colegios profesionales de doce provincias, institutos provinciales de vivienda, pliegos de obra pública y cátedras universitarias: ninguna fuente argentina de descarga libre publica el armado y montaje de estructura metálica con horas por categoría. Se descartó deliberadamente la única fuente que sí los publica desagregados, por estar bloqueada por licencia para este banco. Hasta conseguir una fuente habilitada esta partida cubre sólo los materiales y su precio subestima el costo real.",
       "unit": "m",
-      "updatedAt": "2026-09-08T09:15:59.155Z",
+      "updatedAt": "2026-10-06T23:05:18.673Z",
       "verification": {
         "findings": [
           "duplicate_candidate-10b88ad4168b3c9b"
@@ -245,15 +245,15 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR"
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27734.94
+          "value": 27748.9
         }
       ],
       "sources": [
@@ -272,7 +272,7 @@
       ],
       "text": "Viga o dintel de perfil normal IPN de 120 mm laminado en caliente, cortado a medida, soldado en obra y con una mano de antióxido al cromato. Medido por metro lineal de perfil colocado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. El perfil se compra por barra de 12 m, de modo que un metro consume 0,0833 barras más un 5 % de desperdicio por recortes. SIN RENDIMIENTO DE MANO DE OBRA. Se relevaron manuales técnicos de fabricante (Ternium, Acindar, INCOSE), colegios profesionales de doce provincias, institutos provinciales de vivienda, pliegos de obra pública y cátedras universitarias: ninguna fuente argentina de descarga libre publica el armado y montaje de estructura metálica con horas por categoría. Se descartó deliberadamente la única fuente que sí los publica desagregados, por estar bloqueada por licencia para este banco. Hasta conseguir una fuente habilitada esta partida cubre sólo los materiales y su precio subestima el costo real.",
       "unit": "m",
-      "updatedAt": "2026-09-08T09:15:59.157Z",
+      "updatedAt": "2026-10-06T23:05:18.673Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -280,5 +280,5 @@
       }
     }
   ],
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

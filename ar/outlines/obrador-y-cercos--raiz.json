@@ -1,0 +1,43 @@
+{
+  "key": "obrador-y-cercos--raiz",
+  "rows": [
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-cerco-de-obra-madera-altura-1-80-m-postes-cada-2-40-m",
+      "m": 7,
+      "p": 29194.55,
+      "s": "Cerco de obra-madera, altura 1,80 m-postes cada 2,40 m",
+      "u": "m"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-cerco-de-obra-metalico-altura-2-00-m-postes-cada-2-50-m",
+      "m": 7,
+      "p": 16051.09,
+      "s": "Cerco de obra-metalico, altura 2,00 m-postes cada 2,50 m",
+      "u": "m"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-cerco-olimpico-altura-2-40m-con-alambre-romboidal",
+      "m": 12,
+      "p": 63323.85,
+      "s": "Cerco olimpico, altura 2,40m-con alambre romboidal",
+      "u": "m"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-cerco-olimpico-con-postes-de-hormigon-premoldeados-altura-2",
+      "m": 16,
+      "p": 46895.11,
+      "s": "Cerco olimpico con postes de hormigón premoldeados, altura 2,40m-con postes con codo. sin viga encad",
+      "u": "m"
+    }
+  ],
+  "title": "Obrador y cercos",
+  "version": "0.6.0"
+}

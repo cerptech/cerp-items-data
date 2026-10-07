@@ -1,0 +1,61 @@
+{
+  "key": "cubiertas--raiz",
+  "rows": [
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-cabriada-de-madera-estructura-a-la-vista-cepillada",
+      "m": 6,
+      "p": 144980.41,
+      "s": "Cabriada de madera, estructura a la vista-cepillada",
+      "u": "m"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-cenefa-de-madera",
+      "m": 5,
+      "p": 12171.95,
+      "s": "Cenefa de madera",
+      "u": "m"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-colocacion-de-vigas-o-correas-bajo-cabios-madera-cepillada",
+      "m": 5,
+      "p": 26063.01,
+      "s": "Colocación de vigas o correas bajo cabios, madera cepillada",
+      "u": "m"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-cubierta-de-chapas-galvanizadas-onduladas-sobre-estructura-d",
+      "m": 14,
+      "p": 75952.7,
+      "s": "Cubierta de chapas galvanizadas onduladas, sobre estructura de madera cepillada",
+      "u": "m2"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-cubierta-de-chapas-galvanizadas-trapezoidales-sobre-estructu",
+      "m": 14,
+      "p": 86623.7,
+      "s": "Cubierta de chapas galvanizadas trapezoidales, sobre estructura de madera cepillada",
+      "u": "m2"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-cubierta-de-tejas-coloniales-espanolas-estructura-de-madera",
+      "m": 13,
+      "p": 153916.92,
+      "s": "Cubierta de tejas coloniales-españolas, estructura de madera sin cepillar",
+      "u": "m2"
+    }
+  ],
+  "title": "Cubiertas",
+  "version": "0.6.0"
+}

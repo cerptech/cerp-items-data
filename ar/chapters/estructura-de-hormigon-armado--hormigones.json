@@ -57,8 +57,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -66,12 +66,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 183159.39
+          "value": 196659.61
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -79,12 +79,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 187439.69
+          "value": 200939.9
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -92,12 +92,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 213711.02
+          "value": 227211.24
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -105,7 +105,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 220713.48
+          "value": 234213.69
         }
       ],
       "sources": [
@@ -124,7 +124,7 @@
       ],
       "text": "Hormigón preparado EN OBRA con hormigonera, lo que en obra se llama \"pastón\". NO reemplaza al hormigón elaborado de planta, que tiene control de calidad certificado y es el que corresponde para estructura resistente por encima de volúmenes chicos: esta partida cubre los volúmenes que no justifican un camión mixer y el mínimo de descarga de 6 a 8 metros cúbicos que exigen las plantas. Medido por metro cúbico de hormigón colocado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Dosificación transcripta del ítem 3.7 \"Hormigón armado para losa maciza\" del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, julio 2025, descarga libre): 310 kg de cemento, 0,70 m3 de arena y 0,60 m3 de ripio por metro cúbico, tomando sólo la parte de hormigón y descartando encofrado y armadura, que en la fuente van dentro del mismo ítem. CONTRASTE: una calculadora argentina de acceso libre que cita el CIRSOC 201-2025 da para el H-17 una dosificación en peso de 300 kg de cemento, 670 kg de arena y 1.080 kg de piedra por metro cúbico, coherente con la anterior en cuanto al cemento. RENDIMIENTO DECLARADO COMO APROXIMACIÓN: no existe rendimiento publicado del pastón como partida independiente, así que se aplicó el del hormigón pobre de la misma fuente (0,70 h de oficial y 2,70 h de ayudante), que es el ítem más cercano por no llevar encofrado ni armadura. Queda pendiente de contraste y es la mayor debilidad de esta partida.",
       "unit": "m3",
-      "updatedAt": "2026-09-08T09:15:59.108Z",
+      "updatedAt": "2026-10-06T23:05:18.583Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -183,8 +183,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -192,12 +192,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 145805.43
+          "value": 153079.72
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -205,12 +205,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 150085.73
+          "value": 157360.02
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -218,12 +218,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 176357.07
+          "value": 183631.35
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -231,7 +231,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 183359.52
+          "value": 190633.81
         }
       ],
       "sources": [
@@ -251,7 +251,7 @@
       ],
       "text": "Hormigón preparado EN OBRA con hormigonera, lo que en obra se llama \"pastón\". NO reemplaza al hormigón elaborado de planta, que tiene control de calidad certificado y es el que corresponde para estructura resistente por encima de volúmenes chicos: esta partida cubre los volúmenes que no justifican un camión mixer y el mínimo de descarga de 6 a 8 metros cúbicos que exigen las plantas. Medido por metro cúbico de hormigón colocado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Dosificación y rendimiento transcriptos del ítem 3.1 \"Hormigón pobre bajo fundaciones\" del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, julio 2025, descarga libre): 175 kg de cemento, 0,55 m3 de arena y 0,60 m3 de ripio por metro cúbico, con 0,70 h de oficial y 2,70 h de ayudante. El documento no declara la procedencia metodológica: nivel de verificación cross-check-secundario, pendiente de contraste. Se sumó el alquiler de hormigonera, que la fuente no desagrega.",
       "unit": "m3",
-      "updatedAt": "2026-09-08T09:15:59.110Z",
+      "updatedAt": "2026-10-06T23:05:18.584Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -259,5 +259,5 @@
       }
     }
   ],
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

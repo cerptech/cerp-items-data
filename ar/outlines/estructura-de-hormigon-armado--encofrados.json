@@ -2,11 +2,11 @@
   "key": "estructura-de-hormigon-armado--encofrados",
   "rows": [
     {
-      "d": "2026-08",
+      "d": "2026-10",
       "g": [],
       "id": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
       "m": 0,
-      "p": 6941.32,
+      "p": 4954.55,
       "s": "Clavos de punta París de 2 pulgadas",
       "u": "kg"
     },
@@ -20,11 +20,11 @@
       "u": "u"
     },
     {
-      "d": "2026-08",
+      "d": "2026-10",
       "g": [],
       "id": "mt-ar-placa-de-fenolico-de-18-mm-de-1-22-x-2-44-m",
       "m": 0,
-      "p": 45551.86,
+      "p": 38100.87,
       "s": "Placa de fenólico de 18 mm de 1,22 x 2,44 m",
       "u": "u"
     },
@@ -38,15 +38,15 @@
       "u": "u"
     },
     {
-      "d": "2026-09",
+      "d": "2026-10",
       "g": [],
       "id": "wi-ar-encofrado-de-fenolico-de-18-mm-para-estructura",
       "m": 4,
-      "p": 14541.38,
+      "p": 13448.58,
       "s": "Encofrado de fenólico de 18 mm para estructura",
       "u": "m2"
     }
   ],
   "title": "Estructura de hormigón armado > Encofrados",
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

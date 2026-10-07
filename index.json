@@ -132,7 +132,12 @@
   ],
   "basicos": {
     "count": 6131,
-    "file": "basicos.json"
+    "file": "basicos.json",
+    "sha256": "d4d59b884bd8fe20ca7516fdc023a9788484cf461e9386fc8cc9408cf1916884"
+  },
+  "catalog": {
+    "file": "catalog.json",
+    "sha256": "2770f161686399921ad402a94f2e3536f4afb0e7c81dd02dc71a1763996a5ae2"
   },
   "chapters": [
     {
@@ -141,6 +146,7 @@
       "key": "precios-auxiliares--aglomerantes-y-morteros",
       "md": "chapters/precios-auxiliares--aglomerantes-y-morteros.md",
       "outline": "outlines/precios-auxiliares--aglomerantes-y-morteros.json",
+      "sha256": "234d48fb047ac75fc94109d0c61963d4f03cbdddef9d38d3bc5faee650daae02",
       "title": "Precios Auxiliares > AGLOMERANTES Y MORTEROS"
     },
     {
@@ -149,6 +155,7 @@
       "key": "precios-auxiliares--residuos",
       "md": "chapters/precios-auxiliares--residuos.md",
       "outline": "outlines/precios-auxiliares--residuos.json",
+      "sha256": "d613e91db1afd903f161235ac887c56b6168254a51d13611c71542784e7c5e2d",
       "title": "Precios Auxiliares > RESIDUOS"
     },
     {
@@ -157,6 +164,7 @@
       "key": "precios-unitarios--acondicionamiento-de-terrenos",
       "md": "chapters/precios-unitarios--acondicionamiento-de-terrenos.md",
       "outline": "outlines/precios-unitarios--acondicionamiento-de-terrenos.json",
+      "sha256": "96fcb9788ad193f7615fb84a1085145fc110e6b933cc3770a5e99e38fbae783d",
       "title": "Precios Unitarios > ACONDICIONAMIENTO DE TERRENOS"
     },
     {
@@ -165,6 +173,7 @@
       "key": "precios-unitarios--aislamientos",
       "md": "chapters/precios-unitarios--aislamientos.md",
       "outline": "outlines/precios-unitarios--aislamientos.json",
+      "sha256": "4ba3166c0f263035f340a42e70c98747b7def77127f02440ca6e047450c6b684",
       "title": "Precios Unitarios > AISLAMIENTOS"
     },
     {
@@ -173,6 +182,7 @@
       "key": "precios-unitarios--albanileria",
       "md": "chapters/precios-unitarios--albanileria.md",
       "outline": "outlines/precios-unitarios--albanileria.json",
+      "sha256": "82dc022b039b05373e43806380fb38f7df31d7e680401330e79f8be85d789f16",
       "title": "Precios Unitarios > ALBAÑILERÍA"
     },
     {
@@ -181,6 +191,7 @@
       "key": "precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion",
       "md": "chapters/precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion.md",
       "outline": "outlines/precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion.json",
+      "sha256": "d166cd60035f6720f22df707582beca14cd4a9f6127649d2bbb6bb33daa6648f",
       "title": "Precios Unitarios > CARPINTERÍA Y ELEMENTOS DE SEGURIDAD Y PROTECCIÓN"
     },
     {
@@ -189,6 +200,7 @@
       "key": "precios-unitarios--cimentaciones",
       "md": "chapters/precios-unitarios--cimentaciones.md",
       "outline": "outlines/precios-unitarios--cimentaciones.json",
+      "sha256": "cee2e3d7ac49b09fc6b5fcda1cdaf2a8901ff6176f37df96f6cfe94da6a2581e",
       "title": "Precios Unitarios > CIMENTACIONES"
     },
     {
@@ -197,6 +209,7 @@
       "key": "precios-unitarios--control-de-calidad-pruebas-y-ensayos",
       "md": "chapters/precios-unitarios--control-de-calidad-pruebas-y-ensayos.md",
       "outline": "outlines/precios-unitarios--control-de-calidad-pruebas-y-ensayos.json",
+      "sha256": "c31eb8d4096115d03a7329c9e1ce57644e576392559de6345aa2d1cbe6276381",
       "title": "Precios Unitarios > CONTROL DE CALIDAD, PRUEBAS Y ENSAYOS"
     },
     {
@@ -205,6 +218,7 @@
       "key": "precios-unitarios--cubiertas",
       "md": "chapters/precios-unitarios--cubiertas.md",
       "outline": "outlines/precios-unitarios--cubiertas.json",
+      "sha256": "b98dcd9948b74c33f399454e9955bda4df2064e51d801ce2cc4d964ee403283e",
       "title": "Precios Unitarios > CUBIERTAS"
     },
     {
@@ -213,6 +227,7 @@
       "key": "precios-unitarios--demoliciones-y-trabajos-previos",
       "md": "chapters/precios-unitarios--demoliciones-y-trabajos-previos.md",
       "outline": "outlines/precios-unitarios--demoliciones-y-trabajos-previos.json",
+      "sha256": "bd23adcdab075e4c4ec1062cb77e3299799b615ece1a607361a85828a1da8e46",
       "title": "Precios Unitarios > DEMOLICIONES Y TRABAJOS PREVIOS"
     },
     {
@@ -221,6 +236,7 @@
       "key": "precios-unitarios--equipamiento",
       "md": "chapters/precios-unitarios--equipamiento.md",
       "outline": "outlines/precios-unitarios--equipamiento.json",
+      "sha256": "a73559b70461350cea1e1cdb1fc93fd69f0dc61fc6d7f2a72f276faf289de420",
       "title": "Precios Unitarios > EQUIPAMIENTO"
     },
     {
@@ -229,6 +245,7 @@
       "key": "precios-unitarios--estructuras",
       "md": "chapters/precios-unitarios--estructuras.md",
       "outline": "outlines/precios-unitarios--estructuras.json",
+      "sha256": "94cf5f83a08c921e964002d3a894fe7d17ab429c84a0d1c8a466c5a39f333207",
       "title": "Precios Unitarios > ESTRUCTURAS"
     },
     {
@@ -237,6 +254,7 @@
       "key": "precios-unitarios--gestion-de-residuos",
       "md": "chapters/precios-unitarios--gestion-de-residuos.md",
       "outline": "outlines/precios-unitarios--gestion-de-residuos.json",
+      "sha256": "d728a656e512100786379b2bc8beafd72addb423f796940e83716acb63af0382",
       "title": "Precios Unitarios > GESTIÓN DE RESIDUOS"
     },
     {
@@ -245,6 +263,7 @@
       "key": "precios-unitarios--instalaciones",
       "md": "chapters/precios-unitarios--instalaciones.md",
       "outline": "outlines/precios-unitarios--instalaciones.json",
+      "sha256": "83bdbc7af99a7842284eaf75f8b70a32258fb24873c972f209501a7499c8e3ef",
       "title": "Precios Unitarios > INSTALACIONES"
     },
     {
@@ -253,6 +272,7 @@
       "key": "precios-unitarios--mantenimiento",
       "md": "chapters/precios-unitarios--mantenimiento.md",
       "outline": "outlines/precios-unitarios--mantenimiento.json",
+      "sha256": "1e3d2b904297f92f13b3cb49ddfae83145cf0412dd083ee1f4cea8f10972bf1d",
       "title": "Precios Unitarios > MANTENIMIENTO"
     },
     {
@@ -261,6 +281,7 @@
       "key": "precios-unitarios--pinturas",
       "md": "chapters/precios-unitarios--pinturas.md",
       "outline": "outlines/precios-unitarios--pinturas.json",
+      "sha256": "66ab0866ef2940f0a3458f7ea4b693b917abc629ff051b805c13d2c52408e66c",
       "title": "Precios Unitarios > PINTURAS"
     },
     {
@@ -269,6 +290,7 @@
       "key": "precios-unitarios--revestimientos",
       "md": "chapters/precios-unitarios--revestimientos.md",
       "outline": "outlines/precios-unitarios--revestimientos.json",
+      "sha256": "8199fdbcd51a44073214f7284fae59b63db5b06ed1def645ff1380716623c94a",
       "title": "Precios Unitarios > REVESTIMIENTOS"
     },
     {
@@ -277,6 +299,7 @@
       "key": "precios-unitarios--saneamiento",
       "md": "chapters/precios-unitarios--saneamiento.md",
       "outline": "outlines/precios-unitarios--saneamiento.json",
+      "sha256": "3acceb434d5c016c20b169620a8836a9726dad23e7a44f90899994a044b77587",
       "title": "Precios Unitarios > SANEAMIENTO"
     },
     {
@@ -285,6 +308,7 @@
       "key": "precios-unitarios--seguridad-y-salud",
       "md": "chapters/precios-unitarios--seguridad-y-salud.md",
       "outline": "outlines/precios-unitarios--seguridad-y-salud.json",
+      "sha256": "568f6dc7e7306cba92a60c3478eb2f692afee805fabc71af86149a5c5dc1e967",
       "title": "Precios Unitarios > SEGURIDAD Y SALUD"
     },
     {
@@ -293,6 +317,7 @@
       "key": "precios-unitarios--urbanizaciones",
       "md": "chapters/precios-unitarios--urbanizaciones.md",
       "outline": "outlines/precios-unitarios--urbanizaciones.json",
+      "sha256": "2f8f01d333c441e06e99f44b019360badf4267f5c89861db3edce1e135f867ae",
       "title": "Precios Unitarios > URBANIZACIONES"
     },
     {
@@ -301,6 +326,7 @@
       "key": "precios-unitarios--vidrieria-y-elaborados-sinteticos",
       "md": "chapters/precios-unitarios--vidrieria-y-elaborados-sinteticos.md",
       "outline": "outlines/precios-unitarios--vidrieria-y-elaborados-sinteticos.json",
+      "sha256": "033c93d6426dca6a8231183f6bfcbde6bad531ec9be0b9f4e484ecb8ce07f2bd",
       "title": "Precios Unitarios > VIDRIERÍA Y ELABORADOS SINTÉTICOS"
     },
     {
@@ -309,10 +335,165 @@
       "key": "sin-clasificar",
       "md": "chapters/sin-clasificar.md",
       "outline": "outlines/sin-clasificar.json",
+      "sha256": "d50dfb046caf02e4651c78d1ca0ed8706b8a697503a5c64e785486d7d799093e",
       "title": "Sin clasificar"
     }
   ],
-  "generatedAt": "2026-09-11T11:10:37.293Z",
+  "checksums": {
+    "algorithm": "sha256",
+    "files": {
+      "CHANGELOG.md": "6b9f6b4e30938d971a07ab4aac6d3d4ed5c3a4919ae8ecfc5625e7b6d5e26b73",
+      "LICENSE": "deca2abfd1c2ff65644e65271f440f446ad28ac3ba890e8fdbe8fc7f3a9c98dc",
+      "README.md": "52eb3b077fe5e8cdb5d22ec500f3d0c50ce03a96c93012a7f51da0e9d30b3d39",
+      "STABILITY.md": "b8f9608a9ebf1e3801f460995ed1c3af9081ffc4b09f6cbf248f5cd2cd794db9",
+      "VERSION": "97a5d6e540a6120d09c39ddb667e0e8e2bac7fcc2ffef813b82e08fd60365bce",
+      "basicos.json": "d4d59b884bd8fe20ca7516fdc023a9788484cf461e9386fc8cc9408cf1916884",
+      "catalog.json": "2770f161686399921ad402a94f2e3536f4afb0e7c81dd02dc71a1763996a5ae2",
+      "chapters/precios-auxiliares--aglomerantes-y-morteros.json": "234d48fb047ac75fc94109d0c61963d4f03cbdddef9d38d3bc5faee650daae02",
+      "chapters/precios-auxiliares--aglomerantes-y-morteros.md": "6f23dbaeec9b0ea4408478ff39d032db96a3cffed21512f178f5c792012593f5",
+      "chapters/precios-auxiliares--residuos.json": "d613e91db1afd903f161235ac887c56b6168254a51d13611c71542784e7c5e2d",
+      "chapters/precios-auxiliares--residuos.md": "370a4af7b65c8b544f4bf96da63e3bb80f7095f476fe934a1ba3cd4f96fd87e9",
+      "chapters/precios-unitarios--acondicionamiento-de-terrenos.json": "96fcb9788ad193f7615fb84a1085145fc110e6b933cc3770a5e99e38fbae783d",
+      "chapters/precios-unitarios--acondicionamiento-de-terrenos.md": "a129243004efdd4c650926ff530b33a31841e6954d3f3d5fb5dd8cd17ec7e71a",
+      "chapters/precios-unitarios--aislamientos.json": "4ba3166c0f263035f340a42e70c98747b7def77127f02440ca6e047450c6b684",
+      "chapters/precios-unitarios--aislamientos.md": "84b19cb3b76de311678b0150b2c5c4f1b6da5d07d790cf6dee221c7749fc1a43",
+      "chapters/precios-unitarios--albanileria.json": "82dc022b039b05373e43806380fb38f7df31d7e680401330e79f8be85d789f16",
+      "chapters/precios-unitarios--albanileria.md": "7caa7e29f47b49861d3176d25eda9d3ec8a89d9db5ea6e0c808ab84fee89d57c",
+      "chapters/precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion.json": "d166cd60035f6720f22df707582beca14cd4a9f6127649d2bbb6bb33daa6648f",
+      "chapters/precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion.md": "71cd0bcb1ec5b685fa8463d41421cbd048b1097458370add20bd5c1cee4adb50",
+      "chapters/precios-unitarios--cimentaciones.json": "cee2e3d7ac49b09fc6b5fcda1cdaf2a8901ff6176f37df96f6cfe94da6a2581e",
+      "chapters/precios-unitarios--cimentaciones.md": "e5941b474f05ef52dc69efb79be1107dacac20458ca23e767e14c0421fd377f1",
+      "chapters/precios-unitarios--control-de-calidad-pruebas-y-ensayos.json": "c31eb8d4096115d03a7329c9e1ce57644e576392559de6345aa2d1cbe6276381",
+      "chapters/precios-unitarios--control-de-calidad-pruebas-y-ensayos.md": "0c8cca224389927e581f4f717dd9f57a00ab973ebe91fe7421a8bd6ddb0eb4d9",
+      "chapters/precios-unitarios--cubiertas.json": "b98dcd9948b74c33f399454e9955bda4df2064e51d801ce2cc4d964ee403283e",
+      "chapters/precios-unitarios--cubiertas.md": "c4d01b1d966316ec9f22e14b220e913d56071f70782b84708c66d19202f9834c",
+      "chapters/precios-unitarios--demoliciones-y-trabajos-previos.json": "bd23adcdab075e4c4ec1062cb77e3299799b615ece1a607361a85828a1da8e46",
+      "chapters/precios-unitarios--demoliciones-y-trabajos-previos.md": "f8f50f1015b6d53dfc593e9d09ea7e514beb4234a7d341d2fcf0654615e5605d",
+      "chapters/precios-unitarios--equipamiento.json": "a73559b70461350cea1e1cdb1fc93fd69f0dc61fc6d7f2a72f276faf289de420",
+      "chapters/precios-unitarios--equipamiento.md": "e014dc051e1723c14a4a25558eddd9dd963e3b1c1b0960e8371c602d4a2fb0e2",
+      "chapters/precios-unitarios--estructuras.json": "94cf5f83a08c921e964002d3a894fe7d17ab429c84a0d1c8a466c5a39f333207",
+      "chapters/precios-unitarios--estructuras.md": "23340b2791f031312f1410eeb019badfebb584aa7afc2522b4f0c9577c491621",
+      "chapters/precios-unitarios--gestion-de-residuos.json": "d728a656e512100786379b2bc8beafd72addb423f796940e83716acb63af0382",
+      "chapters/precios-unitarios--gestion-de-residuos.md": "f8e5771488adf5d0c293bad5f7b9b04efdb07116e66ff5a2baf81d2797eba1b0",
+      "chapters/precios-unitarios--instalaciones.json": "83bdbc7af99a7842284eaf75f8b70a32258fb24873c972f209501a7499c8e3ef",
+      "chapters/precios-unitarios--instalaciones.md": "69c0ece7c7825f126d778f602e7e1ee4fdd15be71662cc8ca7f052404aefb310",
+      "chapters/precios-unitarios--mantenimiento.json": "1e3d2b904297f92f13b3cb49ddfae83145cf0412dd083ee1f4cea8f10972bf1d",
+      "chapters/precios-unitarios--mantenimiento.md": "6bb347ac9c749c037a72d117afa1099a15c6554e012222a475765bb4a04c6b52",
+      "chapters/precios-unitarios--pinturas.json": "66ab0866ef2940f0a3458f7ea4b693b917abc629ff051b805c13d2c52408e66c",
+      "chapters/precios-unitarios--pinturas.md": "9e0b282b3e1deeef451a068595c2c1fe695ebed5ddece9eed719139a82f7299b",
+      "chapters/precios-unitarios--revestimientos.json": "8199fdbcd51a44073214f7284fae59b63db5b06ed1def645ff1380716623c94a",
+      "chapters/precios-unitarios--revestimientos.md": "bb320613f337dc52e5f0142bbb8ec8111a6ef56cdca9d7cae6873073e48dc749",
+      "chapters/precios-unitarios--saneamiento.json": "3acceb434d5c016c20b169620a8836a9726dad23e7a44f90899994a044b77587",
+      "chapters/precios-unitarios--saneamiento.md": "b119cb2e3dd27d0e1bdd6575326464f9f11aa0255a3001f3fc3f1cb0bab7b098",
+      "chapters/precios-unitarios--seguridad-y-salud.json": "568f6dc7e7306cba92a60c3478eb2f692afee805fabc71af86149a5c5dc1e967",
+      "chapters/precios-unitarios--seguridad-y-salud.md": "b2b79baee035725286ddc1b35d962bac09aa005e08a1d7cb8cdf0901ae4c59a0",
+      "chapters/precios-unitarios--urbanizaciones.json": "2f8f01d333c441e06e99f44b019360badf4267f5c89861db3edce1e135f867ae",
+      "chapters/precios-unitarios--urbanizaciones.md": "1913521ce891a38facfbd3bb94a9e80238c89e54ab5beda74e828333c1cef673",
+      "chapters/precios-unitarios--vidrieria-y-elaborados-sinteticos.json": "033c93d6426dca6a8231183f6bfcbde6bad531ec9be0b9f4e484ecb8ce07f2bd",
+      "chapters/precios-unitarios--vidrieria-y-elaborados-sinteticos.md": "b7cb2b27ba60f9ada91be01e0fe7b403ad129605296073fa0f1e4ab4d5396bbd",
+      "chapters/sin-clasificar.json": "d50dfb046caf02e4651c78d1ca0ed8706b8a697503a5c64e785486d7d799093e",
+      "chapters/sin-clasificar.md": "7be4d965c8982cfedb490bd74543ba43a80726c50bb9a938652f0e3c61c574f5",
+      "llms.txt": "af9c844891d427fa3c5c6b6fa68aafe7134c182de6c4a5e17eb5a191ca009b8d",
+      "outlines/precios-auxiliares--aglomerantes-y-morteros.json": "3a5ca50568eead1051c726b412345096cfd726861e99d31eaa0748f773cb2a50",
+      "outlines/precios-auxiliares--residuos.json": "9e167487339d5bc917709cfef0d734ee84441f73b3f541b72c75c57b2e77c157",
+      "outlines/precios-auxiliares--trabajo-mano-de-obra.json": "f45ea1404bed99b3f86a5819b7c45866715d207e1ac445efc5b86bf052a0563c",
+      "outlines/precios-basicos--aglomerantes-y-morteros.json": "1192111fb81cf1d1c85c2df2d957bf226de87cfefd6443b4279b441d6e6bf4ef",
+      "outlines/precios-basicos--aislamientos.json": "d9381b717adc1cea9b4eadd13fb5daa013c4b36e221c9bdc31af4497a8e0388f",
+      "outlines/precios-basicos--analisis-pruebas-y-ensayos.json": "718df8034633bd3b602bee775cdb6e5467d1fd56be2ed53e0c277b0167be1921",
+      "outlines/precios-basicos--aridos-y-piedras.json": "70bb97dafe2fb352cb954dea7f866203d97cb83d5b5e79e9a68a8b40b2c1e5cc",
+      "outlines/precios-basicos--carpinteria-y-elementos-de-seguridad-y-proteccion.json": "258fc9d0490e111a9af932c640e4626e99df59f09559e9723ee9163900daff7b",
+      "outlines/precios-basicos--cimentaciones-y-estructuras.json": "21c13450a56ac00accd033ddb1b922b6965ea0358aa72d0cf116af34974e6a4c",
+      "outlines/precios-basicos--cubiertas.json": "b61a72eea0c97946e897785a5b8b5f2d804b03bede843231127ec9810b790963",
+      "outlines/precios-basicos--decoracion-y-equipamiento.json": "341d5906b00f4ba66a2bff55a9cb936b022b60eb950ce0440ef4b98c6e549260",
+      "outlines/precios-basicos--fabricas-albanileria.json": "e7b010051ed532a1c8fe01a805a3bf3d5f1743f0877594a11be9e10cd047ed9c",
+      "outlines/precios-basicos--instalaciones.json": "2e320389977e230d044d85d5a064a37332d271ab4e47e4c4bc96cf3f7dc0c38b",
+      "outlines/precios-basicos--maquinaria-y-equipos-de-obras.json": "103fea0a0472f4aab0ff6687a4fa5bbed15cee9f1c23e08936541dc37306e446",
+      "outlines/precios-basicos--pinturas.json": "82dd616b767a537e513f4af18a32ad07e52b37e3a6bc6527bde5f4e2ade7522d",
+      "outlines/precios-basicos--residuos.json": "14f7a3a1e731b2b9bd678884b91d742aff2f50286d0a92041c4e46b90093b9fd",
+      "outlines/precios-basicos--revestimientos.json": "cb62ec5b5d0182299a3cef5a07067b68248d90aad9f6cd9ee321a3e38db9430f",
+      "outlines/precios-basicos--saneamiento.json": "e6147b14e1224bff761cab2318bfa1031695bd98d939c873303912b2b94d4d75",
+      "outlines/precios-basicos--seguridad-y-salud.json": "2c1980a4ce390bfb2459cdbc8edcf68197af88051aeecc617d688cc198022db5",
+      "outlines/precios-basicos--sin-clasificar.json": "4505890a2d6be00c196c720eba1e40465689d6bd69bfe4a026271381137c4d56",
+      "outlines/precios-basicos--trabajo-mano-de-obra.json": "7c3e672ecea2af39c07c07112bc52daf4f2bb171b751f0b2e0d0aa6fe2a35215",
+      "outlines/precios-basicos--urbanizacion.json": "8fa837725f6a29861666063bbde7f2516d8887c9f7c491db09b26e675ac95678",
+      "outlines/precios-basicos--varios.json": "3221a08f5bd836e52187f79885c112ede950f4728584821f0191c78f756bbe38",
+      "outlines/precios-basicos--vidrios-y-sinteticos.json": "694834a0e77c4bc23846a0d0452163bdcd3b0bbb3dd93b9444a4b32689b1873b",
+      "outlines/precios-unitarios--acondicionamiento-de-terrenos.json": "d90ad48e8d1fc10c19076875000d125347b06ab3d150599780859809cb760f2c",
+      "outlines/precios-unitarios--aislamientos.json": "d855636a4591d3a698292cf68821cff0cd048189a83eadd72c0d17662a35ce8d",
+      "outlines/precios-unitarios--albanileria.json": "3b122c79980dd30efab11b439f62b7ac3d28175d807e0591025161142a396a96",
+      "outlines/precios-unitarios--carpinteria-y-elementos-de-seguridad-y-proteccion.json": "f1a9f870f9be1af355208cfca76d9e1c0861991eea00312126e4d4549195a2ee",
+      "outlines/precios-unitarios--cimentaciones.json": "177d331184e1972c320e58df66b976fae5f4d146d1cbf5751934b73e231cd208",
+      "outlines/precios-unitarios--control-de-calidad-pruebas-y-ensayos.json": "ff1c9945e51f3f05a15201454b32f0992b83359f7912aa61f57a35f363ecf72e",
+      "outlines/precios-unitarios--cubiertas.json": "d6d5f744bef36418f3606a94dc2bac728c7f237255b375f1a42b51d457d9ea03",
+      "outlines/precios-unitarios--demoliciones-y-trabajos-previos.json": "22a3e24ec736873f49407a99b0e722d39ea51d25531e83ebcc7b58d75a28b01b",
+      "outlines/precios-unitarios--equipamiento.json": "8e0d397838afbf29f1b51894474c4dbae019a1c8747e60861b297e2a12b12078",
+      "outlines/precios-unitarios--estructuras.json": "c40642b9f999f9589df1a15ddd9cc27e349a79c75bb71a142b863bbb22dcd747",
+      "outlines/precios-unitarios--gestion-de-residuos.json": "b266c036e89c0c1e59b5099dbec6ab05753767df29c55faba0ffe49c771d1e32",
+      "outlines/precios-unitarios--instalaciones.json": "7bc06f3ad5e95c20b8c9eaee66972066cf8c22954571fcb72225c8e6638428b6",
+      "outlines/precios-unitarios--mantenimiento.json": "2f1b7151bf00ecf2603bbcc7ea83067f95ede5d1ea132bbfa573eebb4deab737",
+      "outlines/precios-unitarios--pinturas.json": "4527e3b1171ea1ca08e005332c962b7c3f61cd2b64535538b6c64bad38509888",
+      "outlines/precios-unitarios--revestimientos.json": "3634e8f556e189e1f61906723b024fad005fc983c79b121059c026076faa314d",
+      "outlines/precios-unitarios--saneamiento.json": "935860370fa97b2178612692370d5ac3a2a96270915348b9e79d356af84b6046",
+      "outlines/precios-unitarios--seguridad-y-salud.json": "3459b84fe749e20c534f2c1e0f8a6fe5398a8bc04896a8a887c0c4ad59ce3203",
+      "outlines/precios-unitarios--urbanizaciones.json": "a426b1538783c98892ed7a271188fdcbd6f43aa2f94a06bfec0accffdbdee528",
+      "outlines/precios-unitarios--vidrieria-y-elaborados-sinteticos.json": "af2c80ddc10e76ee3dca6b054857d698e56e7273e10c149b118013e7288d57b2",
+      "outlines/sin-clasificar.json": "a0955e312875f6ba610765060bacb81d7eb8a4a909f5eedda926342f6e36044b",
+      "search-index.json": "f9c5255e995cccff476b31efc415bb5f9924bc930b2e55c60c3cbbe0bea179c8",
+      "taxonomies/orden-ejecucion/nodes/01-IMP.json": "ad151ae340122bbdb0de69f1e79e6e0e67e0be946718c299a110b4d2179df2bd",
+      "taxonomies/orden-ejecucion/nodes/02-DEM.json": "91ab7291ee7f254fa5bcbc06899f1cce45fa4aacdf373d79c7ddc8d88d11f10c",
+      "taxonomies/orden-ejecucion/nodes/03-MOV.json": "7c1b974452e0b4c379eaeb58361fb66476bd37897242ab5ff44fea4e048ee059",
+      "taxonomies/orden-ejecucion/nodes/04-CIM.json": "c865a51e68ac7216850155e11c2a4021306fd47b30d39cae40e77e8e7a46334a",
+      "taxonomies/orden-ejecucion/nodes/05-EST.json": "b7688aae3c3458a27256f6cdef4d54d7e6f46e34a5de89d1204a439d7bbbf749",
+      "taxonomies/orden-ejecucion/nodes/06-CUB.json": "70ad47b370800b2bb373a62283887c9cc37a8eee31fc892d9145da4fd0a69b5a",
+      "taxonomies/orden-ejecucion/nodes/07-FAC.json": "cd1b12b880216ffc848745bb34d92d89122f3d8dfb5e4633530b09e1fc6e56e8",
+      "taxonomies/orden-ejecucion/nodes/08-ALB.json": "0c658561d21a6fdffa4fddec47857d5abec4fa8fc30cf7302320d424dd7de219",
+      "taxonomies/orden-ejecucion/nodes/09-IMP.json": "a2adf552f6ba6b71fd2f1c3f5d9023d739d251dd5c2b2d04f30526c43bb7ae8d",
+      "taxonomies/orden-ejecucion/nodes/10-AIS.json": "31f36ae0a7f33a1b4fa677327d36f40827187dde2319fc28be770c06edc20b7a",
+      "taxonomies/orden-ejecucion/nodes/11-REV.json": "03c0f003f7e10691472ed1ba6e0746c05710f298f88cb5d778004d7a2255b630",
+      "taxonomies/orden-ejecucion/nodes/12-PAV.json": "7af23dcbb4745137a637dcad6a6e278b38a271e4874e4929e7ae7db1ad72a933",
+      "taxonomies/orden-ejecucion/nodes/13-RVV.json": "8ccfccd49b669457b2778692bbedd86ef96fbbab00f15d641bedc0966b7bfa7d",
+      "taxonomies/orden-ejecucion/nodes/14-TEC.json": "b115e2740e6216289a66944be3998c49a404a38c4883e30d9bf34d28c99b5f93",
+      "taxonomies/orden-ejecucion/nodes/15-CEX.json": "3a15fd0e338271156c168a897fd1cf7854e94066ffd265ddb94519813cb204e4",
+      "taxonomies/orden-ejecucion/nodes/16-CIN.json": "b2233c8ecb9adec39e219134b85d496f989aed519a29beca6bec841e4d322644",
+      "taxonomies/orden-ejecucion/nodes/17-CER.json": "e2439286f70c881df732444e6a0427cdb476230e9bf60eb34df2800aedc87147",
+      "taxonomies/orden-ejecucion/nodes/18-VID.json": "e8fc69d270b4a3a7f5237d0b73da3aac0145bc65305116afb784ad01dcdd8b92",
+      "taxonomies/orden-ejecucion/nodes/19-FON.json": "15a82bf11fc51a5e264ffb076eb04524e38f1b4539695498f22b606e29f4062d",
+      "taxonomies/orden-ejecucion/nodes/20-SAN.json": "088ecc5537df2df6f5f29d588d7cb2558416e891eef14e700c3e5c7e931bbd56",
+      "taxonomies/orden-ejecucion/nodes/21-ELE.json": "825f4357a80505325ffe38c17872c9e3d11b65a336f69dbbce904b4e7bf41537",
+      "taxonomies/orden-ejecucion/nodes/22-TEL.json": "57e40d3ce5b9a4514914710ed2e9dd044aabcac3395b6050767f0299d9434091",
+      "taxonomies/orden-ejecucion/nodes/23-CLI.json": "71cb5c14dcd006944628c424c73742788c5803dd2fbdd8188f44f819156aafd3",
+      "taxonomies/orden-ejecucion/nodes/24-VEN.json": "85d2b1237b3605660bc2d9c5fe3390c121f1a05bb8ef7131d6baf5542d36232c",
+      "taxonomies/orden-ejecucion/nodes/25-PCI.json": "bc9c2339017d5f762d2a5e90c08ff02f12997a9e93b3086022c032abf82b229a",
+      "taxonomies/orden-ejecucion/nodes/26-GAS.json": "773e4aedeecc71001e252c9b71f28daf1a4caebc50c58e8e2419e7ad02b383ec",
+      "taxonomies/orden-ejecucion/nodes/27-SOL.json": "9b66e0beda7fc5a99082c45ffd76dd8524f0ca56209bf3b3cd622166769514e6",
+      "taxonomies/orden-ejecucion/nodes/28-ELV.json": "3c9f142793f3ba0c395d3ed7a2c10a5e63b7cbee05c45c30f66089dc440dae35",
+      "taxonomies/orden-ejecucion/nodes/29-PIN.json": "f9d1654562ecd4d6e1a5a400161bac3a6a420274a71ef49d7d79864c59343041",
+      "taxonomies/orden-ejecucion/nodes/30-URB.json": "f6da4880c25525cf77209a62e25c54aca77a5529af0e0ef43ef79bbb9daa853c",
+      "taxonomies/orden-ejecucion/nodes/31-EQU.json": "f53936fbc01c5be2615477e3b49313fb5d582a3044caafad07ba047a9dabdb52",
+      "taxonomies/orden-ejecucion/nodes/32-CCA.json": "e6047d4d706effce1557dd0f075f658a4febe9e307f14c5583a295c85944734c",
+      "taxonomies/orden-ejecucion/nodes/33-FIN.json": "8bcd923c8b4cbc354b7a7a8e0e4c69f54e7ea14f7be76365207a9b8145dbf529",
+      "taxonomies/orden-ejecucion/nodes/34-MAN.json": "d25daa0cac87d8c76e1f01afea44641e87c68ec7ddec57b83b1e3eed98a64383",
+      "taxonomies/orden-ejecucion/tree.json": "ccf1e826c126cc42829117a7830a0224d742b09899df81568b5a059c648b2195",
+      "taxonomies/tipo-obra/nodes/01-ONU.json": "892eeab7ece0afe5dfb52483dff82686d55a4a8c438bad2e63c887f8b5ccf0ef",
+      "taxonomies/tipo-obra/nodes/02-REH.json": "e55b1b1ad7140f28f197cbe74a6ba4857d30c0dd3e743d932342a93789ff1000",
+      "taxonomies/tipo-obra/nodes/03-CIV.json": "2c85a0ac521cd8c960984a6047131fc880ece4f74778a465602368a0af500c4e",
+      "taxonomies/tipo-obra/nodes/09-COM.json": "6d538ae1d7d3710e4a1d9e5a9d4e354a232aaae13579c9edf866eabf3e13fa92",
+      "taxonomies/tipo-obra/nodes/99-SIN.json": "29c66aef351b8eb30fbea4f787870180327ac98f178009a7c04e8de62919b761",
+      "taxonomies/tipo-obra/tree.json": "becd2489791ce753bec9f8befbae993b166bf4bc0fc0533fae9a5692caa79696",
+      "tree.json": "8063947c45d11acd5b63c6b05cc7e1d2eb2696815219803826770179be180ef7"
+    },
+    "manifest": "SHA256SUMS"
+  },
+  "docs": {
+    "changelog": "CHANGELOG.md",
+    "license": "LICENSE",
+    "stability": "STABILITY.md"
+  },
+  "generatedAt": "2026-10-07T11:12:20.457Z",
+  "searchIndex": {
+    "file": "search-index.json",
+    "sha256": "f9c5255e995cccff476b31efc415bb5f9924bc930b2e55c60c3cbbe0bea179c8"
+  },
   "stats": {
     "byKind": {
       "auxiliary": 12,
@@ -340,6 +521,7 @@
         "en": "Construction execution order",
         "es": "Orden de ejecución de obra"
       },
+      "sha256": "ccf1e826c126cc42829117a7830a0224d742b09899df81568b5a059c648b2195",
       "tree": "taxonomies/orden-ejecucion/tree.json",
       "version": "1.0.0"
     },
@@ -349,10 +531,11 @@
         "en": "Work type",
         "es": "Tipo de obra"
       },
+      "sha256": "becd2489791ce753bec9f8befbae993b166bf4bc0fc0533fae9a5692caa79696",
       "tree": "taxonomies/tipo-obra/tree.json",
       "version": "1.0.0"
     }
   ],
   "tree": "tree.json",
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

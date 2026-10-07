@@ -1,0 +1,97 @@
+{
+  "key": "pisos--raiz",
+  "rows": [
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-piso-de-adoquines-sobre-contrapiso-adoquin-de-piedra-natural",
+      "m": 6,
+      "p": 60145.31,
+      "s": "Piso de adoquines sobre contrapiso, adoquín de piedra natural 10x10x2cm",
+      "u": "m2"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-piso-de-baldosas-calcareas-o-ceramico-para-azotea-20x20-junt",
+      "m": 7,
+      "p": 37056.83,
+      "s": "Piso de baldosas calcareas o cerámico para azotea 20x20, junta cerrada",
+      "u": "m2"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-piso-de-cemento-alisado-rodillado-o-cepillado-espesor-2-5-cm",
+      "m": 5,
+      "p": 17465.97,
+      "s": "Piso de cemento alisado-rodillado o cepillado, espesor 2,5 cm-(2 + 0,5 cm)",
+      "u": "m2"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-piso-de-ladrillos-comunes-junta-recta-colocado-de-plano-junt",
+      "m": 7,
+      "p": 30256.93,
+      "s": "Piso de ladrillos comunes, junta recta, colocado de plano. junta abierta tomada con concreto",
+      "u": "m2"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-piso-de-lajas-irregulares-junta-tomada-con-concreto",
+      "m": 7,
+      "p": 45039.77,
+      "s": "Piso de lajas irregulares, junta tomada con concreto",
+      "u": "m2"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-piso-de-mosaicos-graniticos-en-locales-sanitarios",
+      "m": 8,
+      "p": 54112.33,
+      "s": "Piso de mosaicos graniticos, en locales sanitarios",
+      "u": "m2"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-piso-deck-madera-bastidor-clavadera-cada-60-cm",
+      "m": 6,
+      "p": 58123.06,
+      "s": "Piso deck-madera, bastidor clavadera cada 60 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-piso-madera-entablonada-machiembrada-clavada-espesor-de-made",
+      "m": 6,
+      "p": 40043.97,
+      "s": "Piso madera entablonada machiembrada-clavada, espesor de madera 2 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-piso-madera-tarugada-sobre-carpeta-o-piso-liso-existente-esp",
+      "m": 6,
+      "p": 47604.07,
+      "s": "Piso madera tarugada-sobre  carpeta o piso liso existente, espesor de madera 2 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-pulido-de-pisos",
+      "m": 4,
+      "p": 12042.89,
+      "s": "Pulido de pisos",
+      "u": "m2"
+    }
+  ],
+  "title": "Pisos",
+  "version": "0.6.0"
+}

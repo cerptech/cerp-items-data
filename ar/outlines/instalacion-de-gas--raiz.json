@@ -1,0 +1,34 @@
+{
+  "key": "instalacion-de-gas--raiz",
+  "rows": [
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-caneria-de-distribucion-1-2-canos-epoxi-o-termofusion",
+      "m": 7,
+      "p": 16869.64,
+      "s": "Cañeria de distribucion 1/2\", caños epoxi o termofusión",
+      "u": "m"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-caneria-de-distribucion-1-canos-epoxi-o-termofusion",
+      "m": 7,
+      "p": 27757.71,
+      "s": "Cañeria de distribucion 1\", caños epoxi o termofusión",
+      "u": "m"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-caneria-de-distribucion-3-4-canos-epoxi-o-termofusion",
+      "m": 7,
+      "p": 19529.8,
+      "s": "Cañeria de distribucion 3/4\", caños epoxi o termofusión",
+      "u": "m"
+    }
+  ],
+  "title": "Instalación de gas",
+  "version": "0.6.0"
+}

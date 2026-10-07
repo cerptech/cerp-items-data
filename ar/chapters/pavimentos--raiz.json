@@ -1,0 +1,151 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Pavimentos",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.23,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.53,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.16,
+          "ref": "mt-ar-hormigon-elaborado-h-30-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-ar-malla-de-acero-soldada-8-mm-15x15-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.048781,
+          "ref": "mt-ar-hierro-liso-diametro-12-mm-en-barra-de-12-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mt-ar-imprimacion-para-juntas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mt-ar-brea-en-panes",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.001,
+          "ref": "mt-ar-membrana-de-curado-para-hormigon-en-tambor-de-200-l",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Pavimentos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.423Z",
+      "id": "wi-ar-pavimento-de-hormigon-elaborado-armado-espesor-15-cm-sobre-s",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 57554.06
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 58522.55
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 64343.32
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 66086.19
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-pavimento-de-hormigon-elaborado-armado-espesor-15-cm-sobre-s",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Pavimento de hormigón elaborado-armado, espesor 15 cm-sobre sub base existente. ejecutado con moldes rígidos y regla…",
+      "tags": [
+        "pavimentos"
+      ],
+      "text": "Pavimento de hormigón elaborado-armado, espesor 15 cm-sobre sub base existente. ejecutado con moldes rígidos y regla…. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código PAV-001, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.612Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.6.0"
+}

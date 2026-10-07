@@ -45,8 +45,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -54,12 +54,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 39591.58
+          "value": 40744.53
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -67,12 +67,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 43189.03
+          "value": 44341.98
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -80,12 +80,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 63177.61
+          "value": 64330.56
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -93,7 +93,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 71743.58
+          "value": 72896.53
         }
       ],
       "sources": [
@@ -113,7 +113,7 @@
       ],
       "text": "Piso de mortero de cemento natural alisado a llana metálica, con endurecedor superficial y curado. Medido por metro cuadrado de superficie ejecutada. En Argentina se dice \"cemento alisado\". La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. No se localizó rendimiento de mano de obra en ninguna fuente pública argentina para esta partida: no se carga mano de obra hasta conseguirlo. Ningún organismo público argentino publica rendimientos (los pliegos fijan la forma de medición, pero el análisis de precio lo presenta el oferente). RENDIMIENTO INCORPORADO EN SEPTIEMBRE DE 2026. Rendimiento de mano de obra transcripto de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán, de descarga libre. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes, y usa sólo las categorías Oficial y Ayudante, sin medio oficial. Nivel de verificación cross-check-secundario, pendiente de contraste. Corresponde al ítem \"Pisos — Cemento alisado de 2 cm de espesor\".",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.131Z",
+      "updatedAt": "2026-10-06T23:05:18.622Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -234,8 +234,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -243,12 +243,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 30889.39
+          "value": 31962.21
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -256,12 +256,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33031.91
+          "value": 34104.73
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -269,12 +269,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 45095.31
+          "value": 46168.12
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -282,7 +282,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 49993.34
+          "value": 51066.15
         }
       ],
       "sources": [
@@ -302,7 +302,7 @@
       ],
       "text": "Piso de cerámico esmaltado de 51x51 cm colocado con adhesivo impermeable sobre carpeta, con junta tomada con pastina. Medido por metro cuadrado de superficie ejecutada; cortes y desperdicios incluidos en el precio. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Acuñada en agosto de 2026 para reemplazar a la partida de 30x30, cuyo material está descatalogado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre), que lo declara para formato chico: aplicado sin corrección a un formato mayor queda del lado conservador, porque la pieza grande se coloca más rápido por metro cuadrado. El documento tampoco declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.133Z",
+      "updatedAt": "2026-10-06T23:05:18.623Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -355,8 +355,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -364,12 +364,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 56584.55
+          "value": 57161.02
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -377,12 +377,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 59627.78
+          "value": 60204.25
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -390,12 +390,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 76748.75
+          "value": 77325.22
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -403,7 +403,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 83723.62
+          "value": 84300.09
         }
       ],
       "sources": [
@@ -423,7 +423,7 @@
       ],
       "text": "Piso de mosaico granítico compacto de 30x30 cm colocado con mortero sobre carpeta, con pulido y lustrado en obra. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. No se localizó rendimiento de mano de obra en ninguna fuente pública argentina para esta partida: no se carga mano de obra hasta conseguirlo. Ningún organismo público argentino publica rendimientos (los pliegos fijan la forma de medición, pero el análisis de precio lo presenta el oferente). RENDIMIENTO INCORPORADO EN SEPTIEMBRE DE 2026. Rendimiento de mano de obra transcripto de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán, de descarga libre. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes, y usa sólo las categorías Oficial y Ayudante, sin medio oficial. Nivel de verificación cross-check-secundario, pendiente de contraste. Corresponde al ítem \"Pisos — Mosaico granítico 0,30 x 0,30\". Como referencia de la propia fuente, el formato de 0,15 x 0,15 baja a 1,20 h de oficial y 0,60 de ayudante.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.134Z",
+      "updatedAt": "2026-10-06T23:05:18.625Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -476,8 +476,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -485,12 +485,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 58298.1
+          "value": 58433.03
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -498,12 +498,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 61141.47
+          "value": 61276.4
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -511,12 +511,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 77151.97
+          "value": 77286.89
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -524,7 +524,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 83650.95
+          "value": 83785.87
         }
       ],
       "sources": [
@@ -543,7 +543,7 @@
       ],
       "text": "Piso de porcelanato esmaltado rectificado de 60x60 cm colocado con adhesivo impermeable sobre carpeta, con junta mínima tomada con pastina. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.135Z",
+      "updatedAt": "2026-10-06T23:05:18.627Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -585,7 +585,7 @@
         {
           "currency": "ARS",
           "date": "2026-08",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -598,7 +598,7 @@
         {
           "currency": "ARS",
           "date": "2026-08",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -611,7 +611,7 @@
         {
           "currency": "ARS",
           "date": "2026-08",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -624,7 +624,7 @@
         {
           "currency": "ARS",
           "date": "2026-08",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -652,7 +652,7 @@
       ],
       "text": "Piso flotante laminado de 8 mm con clase de abrasión AC4, colocado flotante sobre manta de polietileno, con junta perimetral. Medido por metro cuadrado de superficie ejecutada. No incluye el zócalo. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO INCORPORADO EN SEPTIEMBRE DE 2026. Transcripto de \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán, de descarga libre, con las limitaciones ya conocidas de esa fuente: no lleva fecha ni encabezado institucional, no declara metodología y usa sólo Oficial y Ayudante. RENDIMIENTO DECLARADO COMO APROXIMACIÓN: la fuente no tiene piso flotante, así que se aplicó el de \"Pisos — Parquet sobre carpeta cementicia\", que es la tarea más cercana. El flotante con encastre mecánico se coloca más rápido que el parquet pegado, de modo que el valor queda del lado conservador. CORRECCIÓN: en la ronda anterior este rendimiento se había escrito por error en el archivo del MATERIAL homónimo en vez del de la partida, porque los dos comparten nombre y el buscador de archivos miraba primero la carpeta de materiales. El material quedó con una descomposición de mano de obra que no le correspondía y la partida sin rendimiento. Corregido acá.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.136Z",
+      "updatedAt": "2026-10-06T23:05:18.628Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -660,5 +660,5 @@
       }
     }
   ],
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

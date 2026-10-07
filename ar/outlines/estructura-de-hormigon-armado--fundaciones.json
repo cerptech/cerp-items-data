@@ -2,11 +2,11 @@
   "key": "estructura-de-hormigon-armado--fundaciones",
   "rows": [
     {
-      "d": "2026-09",
+      "d": "2026-10",
       "g": [],
       "id": "wi-ar-base-de-hormigon-armado",
       "m": 4,
-      "p": 411990.56,
+      "p": 425684.4,
       "s": "Base de hormigón armado",
       "u": "m3"
     },
@@ -20,15 +20,15 @@
       "u": "m3"
     },
     {
-      "d": "2026-09",
+      "d": "2026-10",
       "g": [],
       "id": "wi-ar-viga-de-fundacion-de-hormigon-armado",
       "m": 4,
-      "p": 275808.07,
+      "p": 289501.91,
       "s": "Viga de fundación de hormigón armado",
       "u": "m3"
     }
   ],
   "title": "Estructura de hormigón armado > Fundaciones",
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

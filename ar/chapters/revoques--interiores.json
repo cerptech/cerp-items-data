@@ -51,8 +51,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -60,12 +60,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16228.13
+          "value": 16689.31
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -73,12 +73,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 17672.5
+          "value": 18133.68
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -86,12 +86,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25909.65
+          "value": 26370.83
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -99,7 +99,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29077.42
+          "value": 29538.6
         }
       ],
       "sources": [
@@ -118,7 +118,7 @@
       ],
       "text": "Revoque grueso impermeable bajo revestimiento cerámico, de mortero de cemento con hidrófugo, reglado y sin fratasar, para recibir el adhesivo. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.148Z",
+      "updatedAt": "2026-10-06T23:05:18.656Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -171,8 +171,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -180,12 +180,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 21099.5
+          "value": 21976.41
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -193,12 +193,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22759.67
+          "value": 23636.57
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -206,12 +206,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32037.06
+          "value": 32913.96
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -219,7 +219,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 35922.27
+          "value": 36799.17
         }
       ],
       "sources": [
@@ -240,7 +240,7 @@
       ],
       "text": "Revoque interior completo sobre paramento de mampostería, compuesto por revoque grueso (jaharro) de mortero de cal reforzado y revoque fino (enlucido) a la cal, con espesor total mínimo de 1,5 cm, de los cuales de 3 a 5 mm corresponden al enlucido. Medido por metro cuadrado de superficie ejecutada. En el oficio el revoque grueso se llama \"jaharro\" y el fino \"enlucido\". La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.149Z",
+      "updatedAt": "2026-10-06T23:05:18.660Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -248,5 +248,5 @@
       }
     }
   ],
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

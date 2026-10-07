@@ -1,6 +1,6 @@
 # Banco de ítems de construcción CERP
 
-Catálogo abierto de **12697 ítems de construcción de España** con precios de referencia y descomposición completa (mano de obra, materiales y maquinaria con rendimientos). Versión **0.5.0** · generado 2026-09-11 · mantenido por [CERP](https://cerp.es).
+Catálogo abierto de **12697 ítems de construcción de España** con precios de referencia y descomposición completa (mano de obra, materiales y maquinaria con rendimientos). Versión **0.6.0** · generado 2026-10-07 · mantenido por [CERP](https://cerp.es).
 
 6566 partidas de obra · 5714 materiales · 108 recursos de mano de obra y maquinaria
 
@@ -38,11 +38,24 @@ También podés navegar los capítulos en [`chapters/`](./chapters): cada capít
 ## Para agentes y software
 
 - **[llms.txt](./llms.txt)** — índice pensado para agentes
-- **[index.json](./index.json)** — índice máquina (chunks, conteos, atribuciones)
+- **[index.json](./index.json)** — índice máquina (chunks, conteos, atribuciones, checksums)
 - **[basicos.json](./basicos.json)** — conceptos simples para resolver los BOM (2 fetches alcanzan: capítulo + básicos)
 - **[catalog.json](./catalog.json)** — todo el catálogo en un archivo
 
 Los archivos se sirven con CORS abierto vía `raw.githubusercontent.com`. Estructura de cada ítem: ver `CatalogItem` en el schema del [repo del pipeline](https://github.com/cerptech/cerp-item-bank).
+
+## Integridad y versionado
+
+- **[LICENSE](./LICENSE)** — licencia y atribución de este bundle (el mismo texto que la sección de abajo)
+- **[CHANGELOG.md](./CHANGELOG.md)** — qué cambió en cada versión del dataset
+- **[STABILITY.md](./STABILITY.md)** — qué se garantiza sobre los ids y el versionado, y qué no
+- **[SHA256SUMS](./SHA256SUMS)** — hash SHA-256 de cada archivo del bundle, países incluidos (`sha256sum -c SHA256SUMS` desde la raíz). `index.json` repite el hash por archivo en `checksums.files` y por artefacto en `sha256`.
+- Todos los archivos de texto van en LF. El `.gitattributes` de la raíz impide que git los convierta al clonar (p. ej. en Windows con `core.autocrlf`), así la verificación funciona igual sobre una descarga y sobre un clon.
+
+## Contacto y soporte
+
+- Errores en los datos, ítems que faltan o dudas de uso: [issues de `cerptech/cerp-items-data`](https://github.com/cerptech/cerp-items-data/issues).
+- Contacto directo: <admin@cerp.es>.
 
 ## Licencia y atribución
 

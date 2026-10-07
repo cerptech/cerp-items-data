@@ -1,0 +1,4066 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Estructura de hormigón armado",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 33.48,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 62.45,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1040,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 10,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 10,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.412Z",
+      "id": "wi-ar-armadura-solamente-cortado-doblado-atado-y-montado-sobre-enc",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 3671380.83
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 3794337.41
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4525930.75
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 4756667.42
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-armadura-solamente-cortado-doblado-atado-y-montado-sobre-enc",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Armadura solamente, cortado, doblado, atado y montado sobre encofrado",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Armadura solamente, cortado, doblado, atado y montado sobre encofrado. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-028, que remite al Manual del computista de la construcción). Medida por t. Precio computado desde la descomposición.",
+      "unit": "t",
+      "updatedAt": "2026-10-06T23:05:18.437Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.56,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.24,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.86122,
+          "ref": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-encofrado-solamente-medido-por-la-superficie-en-contacto-con",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 28709.61
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 31005.85
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 44781.15
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 48945.86
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-encofrado-solamente-medido-por-la-superficie-en-contacto-con",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Encofrado solamente, medido por la superficie en contacto con el H°",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Encofrado solamente, medido por la superficie en contacto con el H°. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-027, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.525Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.43,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.49,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.038,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.25,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.03,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.565945,
+          "ref": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 153,
+          "ref": "mt-ar-corte-y-doblado-de-hierro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 12,
+          "ref": "mt-ar-tirante-de-1x1-pulgada-con-chanfle",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-escalera-de-h-a-sin-revestir-ancho-0-90-m-tramos-rectos",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 217117.78
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 220925.96
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 242906.18
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 250922.1
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-escalera-de-h-a-sin-revestir-ancho-0-90-m-tramos-rectos",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Escalera de H° A°, sin revestir-ancho 0,90 m,tramos rectos",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Escalera de H° A°, sin revestir-ancho 0,90 m,tramos rectos. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-036, que remite al Manual del computista de la construcción). Medida por u. Precio computado desde la descomposición.",
+      "unit": "u",
+      "updatedAt": "2026-10-06T23:05:18.536Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 8.55,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 11.38,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 62.4,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.666339,
+          "ref": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.9,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-de-h-a-bases-centricas-con-encofrado",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 595789.16
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 621588.31
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 772460.99
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 824249.02
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-de-h-a-bases-centricas-con-encofrado",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras de h A°-BASES centricas, con encofrado",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras de h A°-BASES centricas, con encofrado. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-004, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.545Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-49bcd307e10d8024"
+        ],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 6.4,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 8.37,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 52,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-de-h-a-bases-centricas-sin-encofrado",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 487739.15
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 506868.89
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 618634.99
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 657168.52
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-de-h-a-bases-centricas-sin-encofrado",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras de h A°-BASES centricas, sin encofrado",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras de h A°-BASES centricas, sin encofrado. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-003, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.545Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 23.93,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 30.99,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 122,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.17,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 15.649607,
+          "ref": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 5.45,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 153,
+          "ref": "mt-ar-corte-y-doblado-de-hierro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 12,
+          "ref": "mt-ar-tirante-de-1x1-pulgada-con-chanfle",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-de-h-a-columnas-25x25",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1382740.73
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1453892.92
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1869385.04
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 2012986.35
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-de-h-a-columnas-25x25",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras de H° A°-COLUMNAS 25x25",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras de H° A°-COLUMNAS 25x25. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-010, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.546Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 18.03,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 23.94,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 122,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.17,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 11.491142,
+          "ref": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 153,
+          "ref": "mt-ar-corte-y-doblado-de-hierro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 12,
+          "ref": "mt-ar-tirante-de-1x1-pulgada-con-chanfle",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-de-h-a-columnas-30x30",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1208075.28
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1262408.92
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1580109.82
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1689228.62
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-de-h-a-columnas-30x30",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras de H° A°-COLUMNAS 30x30",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras de H° A°-COLUMNAS 30x30. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-011, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.547Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-a4991f4e0fe08916"
+        ],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 14.96,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 20.41,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 122,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.17,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 9.325788,
+          "ref": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.25,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 153,
+          "ref": "mt-ar-corte-y-doblado-de-hierro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 12,
+          "ref": "mt-ar-tirante-de-1x1-pulgada-con-chanfle",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-de-h-a-columnas-40x40",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1118654.63
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1164406.6
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1432312.25
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1523704.65
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-de-h-a-columnas-40x40",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras de H° A°-COLUMNAS 40x40",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras de H° A°-COLUMNAS 40x40. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-012, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.547Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 5.37,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 9.77,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 73,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.73,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.86122,
+          "ref": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-de-h-a-plateas",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 549584.88
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 569004.03
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 684406.13
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 721029.69
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-de-h-a-plateas",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras de h A°-PLATEAS",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras de h A°-PLATEAS. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-007, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.549Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.07,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.95,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-ar-malla-de-acero-soldada-8-mm-15x15-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.172244,
+          "ref": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.05,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-de-h-a-plateas-espesor-20-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 92894.89
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 96768.27
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 119788.53
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 127091.08
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-de-h-a-plateas-espesor-20-cm",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras de h A°-PLATEAS, espesor 20 cm",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras de h A°-PLATEAS, espesor 20 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-008, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.548Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 10.69,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 13.86,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 52,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 24.6063,
+          "ref": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 8.6,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 153,
+          "ref": "mt-ar-corte-y-doblado-de-hierro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 12,
+          "ref": "mt-ar-tirante-de-1x1-pulgada-con-chanfle",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-de-h-a-tabique-de-baranda-alto-1-m-espesor-7-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 915997.01
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 947801.9
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1133537.57
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1197712.34
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-de-h-a-tabique-de-baranda-alto-1-m-espesor-7-cm",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras de H° A°-TABIQUE de baranda, alto 1 m-espesor 7 cm",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras de H° A°-TABIQUE de baranda, alto 1 m-espesor 7 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-018, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.550Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 10.69,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 13.86,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 63,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.63,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 7.18504,
+          "ref": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.5,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 153,
+          "ref": "mt-ar-corte-y-doblado-de-hierro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 12,
+          "ref": "mt-ar-tirante-de-1x1-pulgada-con-chanfle",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.17,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-de-h-a-tabique-espesor-12-cm-encofrado-un-solo-l",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 838042.52
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 869847.42
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1055583.09
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1119757.85
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-de-h-a-tabique-espesor-12-cm-encofrado-un-solo-l",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras de H° A°-TABIQUE, espesor 12 cm-encofrado un solo lado",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras de H° A°-TABIQUE, espesor 12 cm-encofrado un solo lado. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-017, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.551Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 28.9,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 44.81,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 187,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.87,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 28.420277,
+          "ref": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 9.9,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-de-h-a-tensores",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1669941.92
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1764924.67
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 2324830.82
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 2509791.61
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-de-h-a-tensores",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras de H° A°-TENSORES",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras de H° A°-TENSORES. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-006, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.552Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 14.11,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 22.84,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 135.2,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.3,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 10.334646,
+          "ref": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.6,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 153,
+          "ref": "mt-ar-corte-y-doblado-de-hierro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 12,
+          "ref": "mt-ar-tirante-de-1x1-pulgada-con-chanfle",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-de-h-a-vigas-20x50",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1172836.39
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1220390.03
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1501329.73
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1593137.26
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-de-h-a-vigas-20x50",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras de H° A°-VIGAS 20x50",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras de H° A°-VIGAS 20x50. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-013, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.553Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-701bb6792579c1da"
+        ],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 10.52,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 18.89,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 135.2,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.3,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 6.692914,
+          "ref": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.33,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 153,
+          "ref": "mt-ar-corte-y-doblado-de-hierro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 12,
+          "ref": "mt-ar-tirante-de-1x1-pulgada-con-chanfle",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-de-h-a-vigas-30x90",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1063289.18
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1101025.71
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1325136.24
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1396492.8
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-de-h-a-vigas-30x90",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras de H° A°-VIGAS 30x90",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras de H° A°-VIGAS 30x90. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-014, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.553Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 13.13,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 20.13,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 156,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.56,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4.232284,
+          "ref": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.33,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-de-h-a-vigas-de-fundacion",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 988117.55
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1030990.68
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1283573
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1367248.68
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-de-h-a-vigas-de-fundacion",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras de H° A°-VIGAS de fundación",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras de H° A°-VIGAS de fundación. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-005, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.554Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 8.03,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 13.88,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 104,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4.035433,
+          "ref": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.4,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.04,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-h-a-bases-dados-para-asiento-maquinas",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 721105.72
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 749249.6
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 916073.11
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 969698.27
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-h-a-bases-dados-para-asiento-maquinas",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras H° A°-BASES-DADOS para asiento maquinas",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras H° A°-BASES-DADOS para asiento maquinas. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-022, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.555Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 22.03,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 25.2,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 122,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.17,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.67,
+          "ref": "mt-ar-tablero-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.585618,
+          "ref": "mt-ar-tabla-de-pino-de-1x6-pulgadas-de-3-66-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 153,
+          "ref": "mt-ar-corte-y-doblado-de-hierro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 12,
+          "ref": "mt-ar-tirante-de-1x1-pulgada-con-chanfle",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-h-a-columna-30x30-a-la-vista",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1276844.87
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1338265.53
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1694560.59
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1821558.84
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-h-a-columna-30x30-a-la-vista",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras H° A°-COLUMNA 30x30-a la vista",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras H° A°-COLUMNA 30x30-a la vista. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-023, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.555Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 14.99,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 18.1,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 68,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.65,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 5.019685,
+          "ref": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.74,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 153,
+          "ref": "mt-ar-corte-y-doblado-de-hierro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 12,
+          "ref": "mt-ar-tirante-de-1x1-pulgada-con-chanfle",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.08,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-h-a-graderia-escalones-20x40-espesor-de-losa-12",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 935983.92
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 978945.21
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1228882.79
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1316785.77
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-h-a-graderia-escalones-20x40-espesor-de-losa-12",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras H° A°-GRADERIA-ESCALONES 20x40, espesor de losa 12 cm",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras H° A°-GRADERIA-ESCALONES 20x40, espesor de losa 12 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-019, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.556Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 6.06,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 19.61,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 52,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.9,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-tablero-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.689214,
+          "ref": "mt-ar-tabla-de-pino-de-1x6-pulgadas-de-3-66-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 153,
+          "ref": "mt-ar-corte-y-doblado-de-hierro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 24,
+          "ref": "mt-ar-tirante-de-1x1-pulgada-con-chanfle",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.24,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-h-a-losa-maciza-a-la-vista-espesor-10-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 833781.93
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 866221.73
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1064025.91
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1118766.47
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-h-a-losa-maciza-a-la-vista-espesor-10-cm",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras H° A°-LOSA maciza-a la vista, espesor 10 cm",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras H° A°-LOSA maciza-a la vista, espesor 10 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-025, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.556Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 4.7,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 18.27,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 52,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 8.612205,
+          "ref": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 153,
+          "ref": "mt-ar-corte-y-doblado-de-hierro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 12,
+          "ref": "mt-ar-tirante-de-1x1-pulgada-con-chanfle",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-h-a-losa-maciza-espesor-10-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 789560.69
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 818473.21
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 995979.72
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1043217.14
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-h-a-losa-maciza-espesor-10-cm",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras H° A°-LOSA maciza, espesor 10 cm",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras H° A°-LOSA maciza, espesor 10 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-015, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.557Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 22.99,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 22.66,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 63,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.63,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.33,
+          "ref": "mt-ar-tablero-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4.499951,
+          "ref": "mt-ar-tabla-de-pino-de-1x6-pulgadas-de-3-66-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 5,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 153,
+          "ref": "mt-ar-corte-y-doblado-de-hierro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 24,
+          "ref": "mt-ar-tirante-de-1x1-pulgada-con-chanfle",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-h-a-tabique-a-la-vista-ambos-lados-espesor-12-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1141699.82
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1201336.35
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1544520.09
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1671368.92
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-h-a-tabique-a-la-vista-ambos-lados-espesor-12-cm",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras H° A°-TABIQUE a la vista ambos lados, espesor 12 cm",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras H° A°-TABIQUE a la vista ambos lados, espesor 12 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-026, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.558Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 17.52,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 21.19,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 63,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.63,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 14.370079,
+          "ref": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 5,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 153,
+          "ref": "mt-ar-corte-y-doblado-de-hierro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 12,
+          "ref": "mt-ar-tirante-de-1x1-pulgada-con-chanfle",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-h-a-tabique-espesor-12-cm-encofrado-ambos-lados",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1045964.11
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1096219.41
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1388617.51
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1491411.52
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-h-a-tabique-espesor-12-cm-encofrado-ambos-lados",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras H° A°-TABIQUE, espesor 12 cm-encofrado ambos lados",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras H° A°-TABIQUE, espesor 12 cm-encofrado ambos lados. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-016, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.559Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 38.11,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 33.33,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 83,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.8,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 33.218505,
+          "ref": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 18,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 153,
+          "ref": "mt-ar-corte-y-doblado-de-hierro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 12,
+          "ref": "mt-ar-tirante-de-1x1-pulgada-con-chanfle",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-h-a-tanque-circular-espesor-de-pared-10-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1628614.89
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1722283.07
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 2257851.18
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 2461512.74
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-h-a-tanque-circular-espesor-de-pared-10-cm",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras H° A°-TANQUE circular, espesor de pared 10 cm",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras H° A°-TANQUE circular, espesor de pared 10 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-021, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.560Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 28.71,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 28.21,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 72.8,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.7,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 17.22441,
+          "ref": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 6,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-h-a-tanque-rectangular-espesor-de-pared-12-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1137049.58
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1211416.15
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1639293.45
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1797565.44
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-h-a-tanque-rectangular-espesor-de-pared-12-cm",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras H° A°-TANQUE rectangular, espesor de pared 12 cm",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras H° A°-TANQUE rectangular, espesor de pared 12 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-020, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.560Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 17.65,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 24.16,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.01,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 135.2,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.3,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.4,
+          "ref": "mt-ar-tablero-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.585618,
+          "ref": "mt-ar-tabla-de-pino-de-1x6-pulgadas-de-3-66-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.6,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-desencofrante-para-madera",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 153,
+          "ref": "mt-ar-corte-y-doblado-de-hierro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 12,
+          "ref": "mt-ar-tirante-de-1x1-pulgada-con-chanfle",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.23,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-estructuras-h-a-viga-20x50-a-la-vista",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1238093.12
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1292169.99
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1608878.39
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1716829.33
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-estructuras-h-a-viga-20x50-a-la-vista",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Estructuras H° A°-VIGA 20x50-a la vista",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Estructuras H° A°-VIGA 20x50-a la vista. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-024, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.561Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 3.76,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 7.814,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.471749,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.676365,
+          "ref": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.419Z",
+      "id": "wi-ar-hormigon-elaborado-en-obra-tipo-h-21-en-hormigonera-de-350-l",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 214487.18
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 219097.24
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 248694.04
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 254568.03
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-hormigon-elaborado-en-obra-tipo-h-21-en-hormigonera-de-350-l",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Hormigón elaborado en obra-tipo h-21, en hormigonera de 350 lts",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Hormigón elaborado en obra-tipo h-21, en hormigonera de 350 lts. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-030, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.581Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.52,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.1,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Estructura de hormigón armado"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.420Z",
+      "id": "wi-ar-hormigon-elaborado-puesto-sobre-encofrado-traslado-y-llenado",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 218086.39
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 221381.64
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 241639.66
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 246988.77
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-hormigon-elaborado-puesto-sobre-encofrado-traslado-y-llenado",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Hormigón elaborado puesto sobre encofrado, traslado y llenado, traslado manual con carros",
+      "tags": [
+        "estructura de hormigón armado"
+      ],
+      "text": "Hormigón elaborado puesto sobre encofrado, traslado y llenado, traslado manual con carros. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-029, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.582Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.6.0"
+}

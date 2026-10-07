@@ -34,7 +34,7 @@
         {
           "currency": "ARS",
           "date": "2026-07",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -47,7 +47,7 @@
         {
           "currency": "ARS",
           "date": "2026-07",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -60,7 +60,7 @@
         {
           "currency": "ARS",
           "date": "2026-07",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -73,7 +73,7 @@
         {
           "currency": "ARS",
           "date": "2026-07",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -100,7 +100,7 @@
       ],
       "text": "Excavación manual o mecánica de bases, cabezales y plateas de fundación, hasta la cota de proyecto, con extracción del material al borde de la excavación. Medida por volumen teórico según plano de fundaciones, sin computar sobreexcavación ni esponjamiento. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
       "unit": "m3",
-      "updatedAt": "2026-09-08T09:15:59.091Z",
+      "updatedAt": "2026-10-06T23:05:18.564Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -136,7 +136,7 @@
         {
           "currency": "ARS",
           "date": "2026-07",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -149,7 +149,7 @@
         {
           "currency": "ARS",
           "date": "2026-07",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -162,7 +162,7 @@
         {
           "currency": "ARS",
           "date": "2026-07",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -175,7 +175,7 @@
         {
           "currency": "ARS",
           "date": "2026-07",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -202,7 +202,7 @@
       ],
       "text": "Excavación de zanjas para vigas de fundación y tensores, según sección de proyecto, con extracción del material al borde. Medida por sección de proyecto por longitud. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
       "unit": "m3",
-      "updatedAt": "2026-09-08T09:15:59.092Z",
+      "updatedAt": "2026-10-06T23:05:18.566Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -210,5 +210,5 @@
       }
     }
   ],
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

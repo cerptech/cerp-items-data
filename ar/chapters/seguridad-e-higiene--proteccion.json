@@ -28,7 +28,7 @@
         {
           "currency": "ARS",
           "date": "2026-08",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR"
@@ -54,7 +54,7 @@
       ],
       "text": "Cartel de obra reglamentario de 100x70 cm colocado en el frente de la obra según la Ley 3893 de la Ciudad de Buenos Aires. Medido por unidad colocada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. No incluye la gestión del permiso ni la generación del código QR oficial del GCBA, que son trámites aparte. SIN RENDIMIENTO DE MANO DE OBRA. Se buscó en colegios profesionales, institutos provinciales de vivienda, pliegos de organismos públicos y apuntes de cátedra de universidades nacionales. La única fuente que publica rendimientos horarios desagregados para esta partida es un generador de precios comercial cuya licencia está expresamente bloqueada para este banco, de modo que NO se transcribió ni se usó como referencia. Hasta conseguir una fuente habilitada, la partida queda acuñada con su descripción y su forma de medición pero sin descomposición: no costea, y así debe verse.",
       "unit": "u",
-      "updatedAt": "2026-09-08T09:15:59.038Z",
+      "updatedAt": "2026-10-06T23:05:18.469Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -84,7 +84,7 @@
         {
           "currency": "ARS",
           "date": "2026-08",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR"
@@ -110,7 +110,7 @@
       ],
       "text": "Cerco de obra de chapa acanalada galvanizada calibre 27 de 2,00 m de altura, sobre estructura de madera o perfilería. Medido por metro lineal de cerco ejecutado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. ADVERTENCIA DE ALCANCE: la descomposición sólo lleva la chapa. La estructura de soporte, la tornillería y el ploteo no están desagregados porque todavía no hay ítems acuñados para ellos, y la mano de obra falta por el motivo que sigue. SIN RENDIMIENTO DE MANO DE OBRA. Se buscó en colegios profesionales, institutos provinciales de vivienda, pliegos de organismos públicos y apuntes de cátedra de universidades nacionales. La única fuente que publica rendimientos horarios desagregados para esta partida es un generador de precios comercial cuya licencia está expresamente bloqueada para este banco, de modo que NO se transcribió ni se usó como referencia. Hasta conseguir una fuente habilitada, la partida queda acuñada con su descripción y su forma de medición pero sin descomposición: no costea, y así debe verse.",
       "unit": "m",
-      "updatedAt": "2026-09-08T09:15:59.039Z",
+      "updatedAt": "2026-10-06T23:05:18.470Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -152,7 +152,7 @@
         {
           "currency": "ARS",
           "date": "2026-08",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR"
@@ -178,7 +178,7 @@
       ],
       "text": "Equipo de protección personal completo por operario: casco con arnés certificado, arnés de seguridad de cuerpo completo para trabajo en altura y par de botines con puntera de acero. Medido por operario equipado. Es un costo de obra y no de partida: se computa una vez por operario y por obra, con la vida útil que fije la empresa. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. PARTIDA DE PROVISIÓN. Es una partida de PROVISIÓN: entrega el equipo al operario y no tiene tarea de obra asociada, así que no lleva mano de obra por diseño y no debe leerse como una partida incompleta.",
       "unit": "u",
-      "updatedAt": "2026-09-08T09:15:59.085Z",
+      "updatedAt": "2026-10-06T23:05:18.535Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -208,7 +208,7 @@
         {
           "currency": "ARS",
           "date": "2026-08",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR"
@@ -234,7 +234,7 @@
       ],
       "text": "Protección perimetral de obra con media sombra al 80 % colocada sobre andamio o cerco, con solape y atadura. Medida por metro cuadrado de superficie protegida. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. No es protección anticaída: para eso hace falta red certificada, que en Argentina no tiene proveedor con precio publicado. SIN RENDIMIENTO DE MANO DE OBRA. Se buscó en colegios profesionales, institutos provinciales de vivienda, pliegos de organismos públicos y apuntes de cátedra de universidades nacionales. La única fuente que publica rendimientos horarios desagregados para esta partida es un generador de precios comercial cuya licencia está expresamente bloqueada para este banco, de modo que NO se transcribió ni se usó como referencia. Hasta conseguir una fuente habilitada, la partida queda acuñada con su descripción y su forma de medición pero sin descomposición: no costea, y así debe verse.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.137Z",
+      "updatedAt": "2026-10-06T23:05:18.633Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -264,7 +264,7 @@
         {
           "currency": "ARS",
           "date": "2026-08",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR"
@@ -290,7 +290,7 @@
       ],
       "text": "Provisión y colocación en obra de matafuego de polvo químico seco ABC de 5 kg con soporte, manómetro, sello IRAM, tarjeta de carga y oblea de inspección habilitante. La oblea es lo que diferencia el equipo de obra del doméstico y es lo que exige la inspección de higiene y seguridad. Medido por unidad provista. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Es un costo de obra y no de partida: se computa por sector de riesgo según lo que fije el servicio de higiene y seguridad. La colocación es un trabajo de minutos y no se le carga mano de obra. PARTIDA DE PROVISIÓN. Es una partida de PROVISIÓN: la colocación del matafuego en su soporte es un trabajo de minutos que no justifica una línea de mano de obra, así que no la lleva por diseño y no debe leerse como una partida incompleta.",
       "unit": "u",
-      "updatedAt": "2026-09-08T09:15:59.138Z",
+      "updatedAt": "2026-10-06T23:05:18.634Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -298,5 +298,5 @@
       }
     }
   ],
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

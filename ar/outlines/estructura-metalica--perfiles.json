@@ -2,11 +2,11 @@
   "key": "estructura-metalica--perfiles",
   "rows": [
     {
-      "d": "2026-08",
+      "d": "2026-10",
       "g": [],
       "id": "mt-ar-antioxido-al-cromato-en-lata-de-4-l",
       "m": 0,
-      "p": 47649.59,
+      "p": 48580.16,
       "s": "Antióxido al cromato en lata de 4 l",
       "u": "u"
     },
@@ -110,42 +110,42 @@
       "u": "u"
     },
     {
-      "d": "2026-08",
+      "d": "2026-10",
       "g": [],
       "id": "wi-ar-columna-de-cano-estructural-cuadrado-de-100x100x3-2-mm",
       "m": 3,
-      "p": 24979.94,
+      "p": 24998.55,
       "s": "Columna de caño estructural cuadrado de 100x100x3,2 mm",
       "u": "m"
     },
     {
-      "d": "2026-08",
+      "d": "2026-10",
       "g": [],
       "id": "wi-ar-dintel-de-perfil-upn-100-colocado-y-pintado",
       "m": 3,
-      "p": 24702.67,
+      "p": 24716.63,
       "s": "Dintel de perfil UPN 100 colocado y pintado",
       "u": "m"
     },
     {
-      "d": "2026-08",
+      "d": "2026-10",
       "g": [],
       "id": "wi-ar-viga-de-perfil-ipn-100-colocada-y-pintada",
       "m": 3,
-      "p": 24213.83,
+      "p": 24227.78,
       "s": "Viga de perfil IPN 100 colocada y pintada",
       "u": "m"
     },
     {
-      "d": "2026-08",
+      "d": "2026-10",
       "g": [],
       "id": "wi-ar-viga-de-perfil-ipn-120-colocada-y-pintada",
       "m": 3,
-      "p": 27734.94,
+      "p": 27748.9,
       "s": "Viga de perfil IPN 120 colocada y pintada",
       "u": "m"
     }
   ],
   "title": "Estructura metálica > Perfiles",
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

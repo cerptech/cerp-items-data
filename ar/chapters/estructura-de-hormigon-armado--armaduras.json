@@ -39,15 +39,15 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-09",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR"
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 2118.72
+          "value": 2146.26
         }
       ],
       "sources": [
@@ -66,7 +66,7 @@
       ],
       "text": "Armadura de hierro nervurado ADN 420 de 10 mm de diámetro, cortada, doblada, atada y colocada en su posición, con separadores. Medida por kilogramo de acero colocado según planilla de despiece. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. La barra de 12 m de este diámetro pesa 7.404 kg, de modo que un kilogramo consume 0.1405 barras, incluido un 4 % de desperdicio por recortes. SIN RENDIMIENTO DE MANO DE OBRA: ninguna de las fuentes argentinas de descarga libre relevadas publica el armado y colocación de armadura como partida independiente con horas por categoría; las que tienen hormigón armado lo dan todo junto, armadura y encofrado incluidos, y esas ya están acuñadas como partidas de hormigón armado elaborado en obra. Hasta conseguir una fuente habilitada esta partida cubre sólo los materiales y su precio subestima el costo real.",
       "unit": "kg",
-      "updatedAt": "2026-09-08T09:15:59.009Z",
+      "updatedAt": "2026-10-06T23:05:18.433Z",
       "verification": {
         "findings": [
           "duplicate_candidate-42764b85cd99d378",
@@ -110,15 +110,15 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-09",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR"
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 2137.82
+          "value": 2165.36
         }
       ],
       "sources": [
@@ -137,7 +137,7 @@
       ],
       "text": "Armadura de hierro nervurado ADN 420 de 12 mm de diámetro, cortada, doblada, atada y colocada en su posición, con separadores. Medida por kilogramo de acero colocado según planilla de despiece. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. La barra de 12 m de este diámetro pesa 10.656 kg, de modo que un kilogramo consume 0.0976 barras, incluido un 4 % de desperdicio por recortes. SIN RENDIMIENTO DE MANO DE OBRA: ninguna de las fuentes argentinas de descarga libre relevadas publica el armado y colocación de armadura como partida independiente con horas por categoría; las que tienen hormigón armado lo dan todo junto, armadura y encofrado incluidos, y esas ya están acuñadas como partidas de hormigón armado elaborado en obra. Hasta conseguir una fuente habilitada esta partida cubre sólo los materiales y su precio subestima el costo real.",
       "unit": "kg",
-      "updatedAt": "2026-09-08T09:15:59.011Z",
+      "updatedAt": "2026-10-06T23:05:18.434Z",
       "verification": {
         "findings": [
           "duplicate_candidate-e2bc7b7a93bed242"
@@ -180,15 +180,15 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-09",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR"
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 2157.86
+          "value": 2185.4
         }
       ],
       "sources": [
@@ -207,7 +207,7 @@
       ],
       "text": "Armadura de hierro nervurado ADN 420 de 6 mm de diámetro, cortada, doblada, atada y colocada en su posición, con separadores. Medida por kilogramo de acero colocado según planilla de despiece. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. La barra de 12 m de este diámetro pesa 2.664 kg, de modo que un kilogramo consume 0.3903 barras, incluido un 4 % de desperdicio por recortes. SIN RENDIMIENTO DE MANO DE OBRA: ninguna de las fuentes argentinas de descarga libre relevadas publica el armado y colocación de armadura como partida independiente con horas por categoría; las que tienen hormigón armado lo dan todo junto, armadura y encofrado incluidos, y esas ya están acuñadas como partidas de hormigón armado elaborado en obra. Hasta conseguir una fuente habilitada esta partida cubre sólo los materiales y su precio subestima el costo real.",
       "unit": "kg",
-      "updatedAt": "2026-09-08T09:15:59.012Z",
+      "updatedAt": "2026-10-06T23:05:18.435Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -248,15 +248,15 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-09",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR"
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 2074.72
+          "value": 2102.26
         }
       ],
       "sources": [
@@ -276,7 +276,7 @@
       ],
       "text": "Armadura de acero nervurado de dureza natural ADN 420 según IRAM-IAS U 500-528, elaborada en obra o en taller según planilla de hierros, y colocada con separadores y ataduras de alambre. Medida por peso teórico de planilla más solapes; el desperdicio de corte y el alambre de atado no se computan aparte, van en el rendimiento. Se acuña como partida independiente para los itemizados que abren la estructura en tres. No se localizó rendimiento de mano de obra en ninguna fuente pública argentina para esta partida: no se carga mano de obra hasta conseguirlo. Ningún organismo público argentino publica rendimientos (los pliegos fijan la forma de medición, pero el análisis de precio lo presenta el oferente). CORRECCIÓN DE DESCOMPOSICIÓN, septiembre de 2026: esta partida se había acuñado SIN EL HIERRO en su descomposición, que llevaba sólo alambre y separadores. Medida en kilogramos de armadura, es un defecto grueso: el insumo principal faltaba. Se agregó el hierro nervurado de 8 mm, tomado como diámetro representativo, con 0,2194 barras de 12 m por kilogramo, que sale de dividir el kilogramo por los 4,74 kg que pesa la barra y sumar un 4 % de desperdicio por recortes. La elección del diámetro introduce un error acotado: el precio por kilogramo relevado en agosto es notablemente parejo entre diámetros, de $1.900 a $1.980 por kilo entre el 6 y el 12, de modo que la diferencia queda por debajo del 4 %.",
       "unit": "kg",
-      "updatedAt": "2026-09-08T09:15:59.014Z",
+      "updatedAt": "2026-10-06T23:05:18.436Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -284,5 +284,5 @@
       }
     }
   ],
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

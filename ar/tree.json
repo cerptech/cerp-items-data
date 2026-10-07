@@ -1,6 +1,31 @@
 {
-  "generatedAt": "2026-09-11T11:10:37.293Z",
+  "generatedAt": "2026-10-07T11:12:20.457Z",
   "roots": [
+    {
+      "c": [
+        {
+          "c": [
+            {
+              "l": "Maquinaria",
+              "n": 4,
+              "s": "maquinaria"
+            },
+            {
+              "l": "Materiales",
+              "n": 163,
+              "s": "materiales"
+            }
+          ],
+          "k": "precios-basicos--sin-clasificar",
+          "l": "SIN CLASIFICAR",
+          "n": 167,
+          "s": "sin-clasificar"
+        }
+      ],
+      "l": "Precios Básicos",
+      "n": 167,
+      "s": "precios-basicos"
+    },
     {
       "c": [
         {
@@ -183,7 +208,7 @@
         }
       ],
       "l": "Estructura de hormigón armado",
-      "n": 48,
+      "n": 76,
       "s": "estructura-de-hormigon-armado"
     },
     {
@@ -202,7 +227,7 @@
         }
       ],
       "l": "Estructura metálica",
-      "n": 17,
+      "n": 32,
       "s": "estructura-metalica"
     },
     {
@@ -284,7 +309,7 @@
         }
       ],
       "l": "Cubiertas",
-      "n": 10,
+      "n": 16,
       "s": "cubiertas"
     },
     {
@@ -384,7 +409,7 @@
         }
       ],
       "l": "Instalación de gas",
-      "n": 7,
+      "n": 10,
       "s": "instalacion-de-gas"
     },
     {
@@ -397,7 +422,7 @@
         }
       ],
       "l": "Construcción en seco",
-      "n": 10,
+      "n": 21,
       "s": "construccion-en-seco"
     },
     {
@@ -410,7 +435,7 @@
         }
       ],
       "l": "Estructura de madera",
-      "n": 6,
+      "n": 23,
       "s": "estructura-de-madera"
     },
     {
@@ -479,7 +504,7 @@
         }
       ],
       "l": "Aislaciones",
-      "n": 9,
+      "n": 11,
       "s": "aislaciones"
     },
     {
@@ -543,7 +568,7 @@
         }
       ],
       "l": "Revestimientos",
-      "n": 4,
+      "n": 14,
       "s": "revestimientos"
     },
     {
@@ -581,71 +606,8 @@
         }
       ],
       "l": "Movimiento de suelos",
-      "n": 4,
+      "n": 5,
       "s": "movimiento-de-suelos"
-    },
-    {
-      "c": [
-        {
-          "k": "contrapisos-y-carpetas--carpetas",
-          "l": "Carpetas",
-          "n": 2,
-          "s": "carpetas"
-        },
-        {
-          "k": "contrapisos-y-carpetas--contrapisos",
-          "l": "Contrapisos",
-          "n": 5,
-          "s": "contrapisos"
-        }
-      ],
-      "l": "Contrapisos y carpetas",
-      "n": 7,
-      "s": "contrapisos-y-carpetas"
-    },
-    {
-      "c": [
-        {
-          "k": "cielorrasos--aplicados",
-          "l": "Aplicados",
-          "n": 1,
-          "s": "aplicados"
-        },
-        {
-          "k": "cielorrasos--madera",
-          "l": "Madera",
-          "n": 1,
-          "s": "madera"
-        },
-        {
-          "k": "cielorrasos--suspendidos",
-          "l": "Suspendidos",
-          "n": 1,
-          "s": "suspendidos"
-        }
-      ],
-      "l": "Cielorrasos",
-      "n": 3,
-      "s": "cielorrasos"
-    },
-    {
-      "c": [
-        {
-          "k": "demoliciones-y-trabajos-previos--demoliciones",
-          "l": "Demoliciones",
-          "n": 8,
-          "s": "demoliciones"
-        },
-        {
-          "k": "demoliciones-y-trabajos-previos--trabajos-previos",
-          "l": "Trabajos previos",
-          "n": 1,
-          "s": "trabajos-previos"
-        }
-      ],
-      "l": "Demoliciones y trabajos previos",
-      "n": 9,
-      "s": "demoliciones-y-trabajos-previos"
     },
     {
       "c": [
@@ -669,8 +631,96 @@
         }
       ],
       "l": "Revoques",
-      "n": 4,
+      "n": 18,
       "s": "revoques"
+    },
+    {
+      "l": "Carpetas",
+      "n": 10,
+      "s": "carpetas"
+    },
+    {
+      "c": [
+        {
+          "k": "contrapisos-y-carpetas--carpetas",
+          "l": "Carpetas",
+          "n": 2,
+          "s": "carpetas"
+        },
+        {
+          "k": "contrapisos-y-carpetas--contrapisos",
+          "l": "Contrapisos",
+          "n": 5,
+          "s": "contrapisos"
+        }
+      ],
+      "l": "Contrapisos y carpetas",
+      "n": 7,
+      "s": "contrapisos-y-carpetas"
+    },
+    {
+      "l": "Obrador y cercos",
+      "n": 4,
+      "s": "obrador-y-cercos"
+    },
+    {
+      "c": [
+        {
+          "k": "cielorrasos--aplicados",
+          "l": "Aplicados",
+          "n": 1,
+          "s": "aplicados"
+        },
+        {
+          "k": "cielorrasos--madera",
+          "l": "Madera",
+          "n": 1,
+          "s": "madera"
+        },
+        {
+          "k": "cielorrasos--suspendidos",
+          "l": "Suspendidos",
+          "n": 1,
+          "s": "suspendidos"
+        }
+      ],
+      "l": "Cielorrasos",
+      "n": 21,
+      "s": "cielorrasos"
+    },
+    {
+      "l": "Contrapisos",
+      "n": 23,
+      "s": "contrapisos"
+    },
+    {
+      "c": [
+        {
+          "k": "demoliciones-y-trabajos-previos--demoliciones",
+          "l": "Demoliciones",
+          "n": 8,
+          "s": "demoliciones"
+        },
+        {
+          "k": "demoliciones-y-trabajos-previos--trabajos-previos",
+          "l": "Trabajos previos",
+          "n": 1,
+          "s": "trabajos-previos"
+        }
+      ],
+      "l": "Demoliciones y trabajos previos",
+      "n": 9,
+      "s": "demoliciones-y-trabajos-previos"
+    },
+    {
+      "l": "Mampostería",
+      "n": 12,
+      "s": "mamposteria"
+    },
+    {
+      "l": "Entrepisos",
+      "n": 9,
+      "s": "entrepisos"
     },
     {
       "c": [
@@ -699,6 +749,26 @@
       "s": "morteros"
     },
     {
+      "l": "Pavimentos",
+      "n": 1,
+      "s": "pavimentos"
+    },
+    {
+      "l": "Fundaciones",
+      "n": 14,
+      "s": "fundaciones"
+    },
+    {
+      "l": "Pisos",
+      "n": 10,
+      "s": "pisos"
+    },
+    {
+      "l": "Instalación cloacal",
+      "n": 1,
+      "s": "instalacion-cloacal"
+    },
+    {
       "c": [
         {
           "k": "trabajos-preliminares--replanteo-y-obrador",
@@ -710,8 +780,28 @@
       "l": "Trabajos preliminares",
       "n": 2,
       "s": "trabajos-preliminares"
+    },
+    {
+      "l": "Instalación de agua",
+      "n": 1,
+      "s": "instalacion-de-agua"
+    },
+    {
+      "l": "Instalaciones especiales",
+      "n": 1,
+      "s": "instalaciones-especiales"
+    },
+    {
+      "l": "Zócalos",
+      "n": 3,
+      "s": "zocalos"
+    },
+    {
+      "l": "Mármoles y granitos",
+      "n": 1,
+      "s": "marmoles-y-granitos"
     }
   ],
-  "total": 284,
-  "version": "0.5.0"
+  "total": 666,
+  "version": "0.6.0"
 }

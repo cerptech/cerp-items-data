@@ -1,6 +1,6 @@
 # Precios Unitarios > PINTURAS
 
-Banco de ítems de construcción CERP v0.5.0 — 97 ítems. Datos estructurados en [`precios-unitarios--pinturas.json`](./precios-unitarios--pinturas.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.6.0 — 97 ítems. Datos estructurados en [`precios-unitarios--pinturas.json`](./precios-unitarios--pinturas.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
 > Información obtenida del Portal de la Junta de Andalucía
 

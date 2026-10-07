@@ -69,8 +69,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -78,12 +78,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 95643.54
+          "value": 96591.77
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -91,12 +91,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 102908.24
+          "value": 103856.47
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -104,12 +104,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 145232.41
+          "value": 146180.64
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -117,7 +117,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 160019.72
+          "value": 160967.95
         }
       ],
       "sources": [
@@ -137,7 +137,7 @@
       ],
       "text": "Losa alivianada de viguetas pretensadas de hormigón con relleno de bloque de poliestireno expandido de 12 cm y capa de compresión con malla electrosoldada, para luz de hasta 4,00 m. Es la variante liviana del sistema de entrepiso más usado en Argentina: el bloque de poliestireno pesa una fracción del ladrillo cerámico y mejora el comportamiento térmico, a cambio de no aportar rigidez. Medida por metro cuadrado de losa ejecutada; no incluye apuntalamiento ni encofrado de borde. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. El consumo de 2 bloques por metro cuadrado es el que declaran los fabricantes para el bloque de 1,00 x 0,42 m. Rendimiento de mano de obra y consumo de vigueta y malla transcriptos del ítem 3.8 del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, julio 2025), con las mismas dos salvedades que la partida hermana de ladrillo cerámico: la fuente rotula el ítem en metros cúbicos por arrastre del encabezado del rubro pero sus insumos son por metro cuadrado, y no declara la procedencia metodológica de sus rendimientos. Vale también el mismo control de coherencia: la mano de obra queda alta para una losa alivianada, así que tratá el precio como un techo hasta verificar la unidad en el PDF original.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.111Z",
+      "updatedAt": "2026-10-06T23:05:18.585Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -208,8 +208,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -217,12 +217,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 105402.24
+          "value": 106350.47
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -230,12 +230,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 112666.94
+          "value": 113615.17
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -243,12 +243,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 154991.11
+          "value": 155939.34
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -256,7 +256,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 169778.42
+          "value": 170726.65
         }
       ],
       "sources": [
@@ -276,7 +276,7 @@
       ],
       "text": "Losa alivianada de viguetas pretensadas de hormigón con relleno de ladrillo cerámico y capa de compresión con malla electrosoldada, para luz de hasta 4,00 m. Es el sistema de entrepiso más usado en Argentina. Medida por metro cuadrado de superficie de losa ejecutada; no incluye apuntalamiento ni encofrado de borde. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Consumos y rendimiento transcriptos del ítem 3.8 \"Hormigón armado para losa alivianada con viguetas\" del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, julio 2025, descarga libre): 2,10 m de vigueta, 8 unidades de bovedilla, 1,20 m2 de malla Q131, 22 kg de cemento, 0,03 m3 de arena y 0,05 m3 de ripio, con 2,50 h de oficial y 3,10 h de ayudante. DOS SALVEDADES DECLARADAS. Primera: la planilla de la fuente rotula el ítem en metros cúbicos por arrastre del encabezado del rubro, pero sus insumos son inequívocamente por metro cuadrado (8 bovedillas y 1,20 m2 de malla por unidad), y así se interpretó; conviene verificarlo a mano en el PDF original. Segunda: la fuente usa bovedilla de 12,5x40x25, formato de plaza salteña; acá se sustituyó por el ladrillo cerámico de 16,5 cm, que es el estándar del AMBA, manteniendo el consumo de 8 unidades por metro cuadrado. El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. CONTROL DE COHERENCIA QUE CONVIENE MIRAR ANTES DE USARLA: con el rendimiento transcripto, la mano de obra representa alrededor del 61 % del precio de la partida, proporción muy alta para una losa alivianada, donde lo habitual es que manden los materiales. Es exactamente el síntoma que se esperaría si el rendimiento de la fuente estuviera expresado por metro cúbico de hormigón y no por metro cuadrado de losa. Mientras la unidad no se verifique a mano en el PDF original, tratá el precio de esta partida como un techo y no como un valor cerrado.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.113Z",
+      "updatedAt": "2026-10-06T23:05:18.586Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -284,5 +284,5 @@
       }
     }
   ],
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

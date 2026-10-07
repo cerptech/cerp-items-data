@@ -1,38 +1,52 @@
 # Banco de ítems de construcción CERP
 
-> Catálogo abierto de 284 ítems de construcción de Argentina con precios de referencia y descomposición (BOM: mano de obra, materiales, maquinaria). Versión 0.5.0. Formato canónico JSON; cada capítulo también en Markdown. Ids: wi=partida, mt=material, mo=mano de obra, mq=maquinaria, au=auxiliar, ot=otro. Cada precio lleva procedencia (fuente, código origen, edición, ámbito, fecha).
+> Catálogo abierto de 666 ítems de construcción de Argentina con precios de referencia y descomposición (BOM: mano de obra, materiales, maquinaria). Versión 0.6.0. Formato canónico JSON; cada capítulo también en Markdown. Ids: wi=partida, mt=material, mo=mano de obra, mq=maquinaria, au=auxiliar, ot=otro. Cada precio lleva procedencia (fuente, código origen, edición, ámbito, fecha).
 
 Atribución obligatoria al reutilizar: "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo".
 Atribución obligatoria al reutilizar: "Información obtenida del Portal de la Junta de Andalucía".
 
 ## Datos
 
-- [index.json](./index.json): índice máquina de todos los chunks con conteos
+- [index.json](./index.json): índice máquina de todos los chunks con conteos y hash SHA-256 por archivo
 - [tree.json](./tree.json): árbol de navegación jerárquico completo (labels, slugs, conteos)
 - outlines/<chunk>.json: filas livianas por capítulo (id, resumen, unidad, precio, subgrupos) — para listados sin cargar el capítulo entero
-- [basicos.json](./basicos.json): los 169 conceptos simples (materiales, mano de obra, maquinaria) — resuelve cualquier ref de BOM
+- [basicos.json](./basicos.json): los 336 conceptos simples (materiales, mano de obra, maquinaria) — resuelve cualquier ref de BOM
 - [catalog.json](./catalog.json): catálogo completo en un archivo
 - [countries.json](./countries.json): países disponibles. Este bundle es el del país de la raíz; los demás viven en su subcarpeta (p.ej. [ar/](./ar/llms.txt) para Argentina) con la misma estructura de archivos
+
+## Licencia, versiones e integridad
+
+- [LICENSE](./LICENSE): licencia y atribución obligatoria de este bundle
+- [CHANGELOG.md](./CHANGELOG.md): qué cambió en cada versión del dataset
+- [STABILITY.md](./STABILITY.md): qué se garantiza sobre los ids y las versiones, y qué no
+- [SHA256SUMS](../SHA256SUMS): hash SHA-256 de cada archivo del bundle, formato sha256sum
 
 ## Capítulos
 
 - [Aislaciones > Capas aisladoras](./chapters/aislaciones--capas-aisladoras.json): 3 ítems ([markdown](./chapters/aislaciones--capas-aisladoras.md))
 - [Aislaciones > Cubiertas](./chapters/aislaciones--cubiertas.json): 1 ítems ([markdown](./chapters/aislaciones--cubiertas.md))
+- [Aislaciones](./chapters/aislaciones--raiz.json): 2 ítems ([markdown](./chapters/aislaciones--raiz.md))
 - [Albañilería > Construcción en seco](./chapters/albanileria--construccion-en-seco.json): 1 ítems ([markdown](./chapters/albanileria--construccion-en-seco.md))
 - [Albañilería > Mampostería](./chapters/albanileria--mamposteria.json): 6 ítems ([markdown](./chapters/albanileria--mamposteria.md))
+- [Carpetas](./chapters/carpetas--raiz.json): 10 ítems ([markdown](./chapters/carpetas--raiz.md))
 - [Carpinterías > Aluminio](./chapters/carpinterias--aluminio.json): 1 ítems ([markdown](./chapters/carpinterias--aluminio.md))
 - [Carpinterías > Chapa](./chapters/carpinterias--chapa.json): 1 ítems ([markdown](./chapters/carpinterias--chapa.md))
 - [Carpinterías > Madera](./chapters/carpinterias--madera.json): 1 ítems ([markdown](./chapters/carpinterias--madera.md))
 - [Cielorrasos > Aplicados](./chapters/cielorrasos--aplicados.json): 1 ítems ([markdown](./chapters/cielorrasos--aplicados.md))
 - [Cielorrasos > Madera](./chapters/cielorrasos--madera.json): 1 ítems ([markdown](./chapters/cielorrasos--madera.md))
+- [Cielorrasos](./chapters/cielorrasos--raiz.json): 18 ítems ([markdown](./chapters/cielorrasos--raiz.md))
 - [Cielorrasos > Suspendidos](./chapters/cielorrasos--suspendidos.json): 1 ítems ([markdown](./chapters/cielorrasos--suspendidos.md))
+- [Construcción en seco](./chapters/construccion-en-seco--raiz.json): 11 ítems ([markdown](./chapters/construccion-en-seco--raiz.md))
+- [Contrapisos](./chapters/contrapisos--raiz.json): 23 ítems ([markdown](./chapters/contrapisos--raiz.md))
 - [Contrapisos y carpetas > Carpetas](./chapters/contrapisos-y-carpetas--carpetas.json): 2 ítems ([markdown](./chapters/contrapisos-y-carpetas--carpetas.md))
 - [Contrapisos y carpetas > Contrapisos](./chapters/contrapisos-y-carpetas--contrapisos.json): 5 ítems ([markdown](./chapters/contrapisos-y-carpetas--contrapisos.md))
 - [Cubiertas > Chapa](./chapters/cubiertas--chapa.json): 1 ítems ([markdown](./chapters/cubiertas--chapa.md))
+- [Cubiertas](./chapters/cubiertas--raiz.json): 6 ítems ([markdown](./chapters/cubiertas--raiz.md))
 - [Cubiertas > Tejas](./chapters/cubiertas--tejas.json): 1 ítems ([markdown](./chapters/cubiertas--tejas.md))
 - [Cubiertas > Zinguería](./chapters/cubiertas--zingueria.json): 2 ítems ([markdown](./chapters/cubiertas--zingueria.md))
 - [Demoliciones y trabajos previos > Demoliciones](./chapters/demoliciones-y-trabajos-previos--demoliciones.json): 8 ítems ([markdown](./chapters/demoliciones-y-trabajos-previos--demoliciones.md))
 - [Demoliciones y trabajos previos > Trabajos previos](./chapters/demoliciones-y-trabajos-previos--trabajos-previos.json): 1 ítems ([markdown](./chapters/demoliciones-y-trabajos-previos--trabajos-previos.md))
+- [Entrepisos](./chapters/entrepisos--raiz.json): 9 ítems ([markdown](./chapters/entrepisos--raiz.md))
 - [Estructura de hormigón armado > Armaduras](./chapters/estructura-de-hormigon-armado--armaduras.json): 4 ítems ([markdown](./chapters/estructura-de-hormigon-armado--armaduras.md))
 - [Estructura de hormigón armado > Bases](./chapters/estructura-de-hormigon-armado--bases.json): 1 ítems ([markdown](./chapters/estructura-de-hormigon-armado--bases.md))
 - [Estructura de hormigón armado > Columnas](./chapters/estructura-de-hormigon-armado--columnas.json): 1 ítems ([markdown](./chapters/estructura-de-hormigon-armado--columnas.md))
@@ -46,35 +60,56 @@ Atribución obligatoria al reutilizar: "Información obtenida del Portal de la J
 - [Estructura de hormigón armado > Losas](./chapters/estructura-de-hormigon-armado--losas.json): 1 ítems ([markdown](./chapters/estructura-de-hormigon-armado--losas.md))
 - [Estructura de hormigón armado > Losas alivianadas](./chapters/estructura-de-hormigon-armado--losas-alivianadas.json): 2 ítems ([markdown](./chapters/estructura-de-hormigon-armado--losas-alivianadas.md))
 - [Estructura de hormigón armado > Plateas](./chapters/estructura-de-hormigon-armado--plateas.json): 1 ítems ([markdown](./chapters/estructura-de-hormigon-armado--plateas.md))
+- [Estructura de hormigón armado](./chapters/estructura-de-hormigon-armado--raiz.json): 28 ítems ([markdown](./chapters/estructura-de-hormigon-armado--raiz.md))
 - [Estructura de hormigón armado > Tabiques](./chapters/estructura-de-hormigon-armado--tabiques.json): 1 ítems ([markdown](./chapters/estructura-de-hormigon-armado--tabiques.md))
 - [Estructura de hormigón armado > Vigas](./chapters/estructura-de-hormigon-armado--vigas.json): 1 ítems ([markdown](./chapters/estructura-de-hormigon-armado--vigas.md))
+- [Estructura de madera](./chapters/estructura-de-madera--raiz.json): 17 ítems ([markdown](./chapters/estructura-de-madera--raiz.md))
 - [Estructura de madera > Techos](./chapters/estructura-de-madera--techos.json): 2 ítems ([markdown](./chapters/estructura-de-madera--techos.md))
 - [Estructura metálica > Correas](./chapters/estructura-metalica--correas.json): 1 ítems ([markdown](./chapters/estructura-metalica--correas.md))
 - [Estructura metálica > Perfiles](./chapters/estructura-metalica--perfiles.json): 4 ítems ([markdown](./chapters/estructura-metalica--perfiles.md))
+- [Estructura metálica](./chapters/estructura-metalica--raiz.json): 15 ítems ([markdown](./chapters/estructura-metalica--raiz.md))
+- [Fundaciones](./chapters/fundaciones--raiz.json): 14 ítems ([markdown](./chapters/fundaciones--raiz.md))
 - [Gestión de residuos > Retiro de escombros](./chapters/gestion-de-residuos--retiro-de-escombros.json): 1 ítems ([markdown](./chapters/gestion-de-residuos--retiro-de-escombros.md))
+- [Instalación cloacal](./chapters/instalacion-cloacal--raiz.json): 1 ítems ([markdown](./chapters/instalacion-cloacal--raiz.md))
+- [Instalación de agua](./chapters/instalacion-de-agua--raiz.json): 1 ítems ([markdown](./chapters/instalacion-de-agua--raiz.md))
 - [Instalación de gas > Cañerías](./chapters/instalacion-de-gas--canerias.json): 2 ítems ([markdown](./chapters/instalacion-de-gas--canerias.md))
+- [Instalación de gas](./chapters/instalacion-de-gas--raiz.json): 3 ítems ([markdown](./chapters/instalacion-de-gas--raiz.md))
 - [Instalación eléctrica > Bocas](./chapters/instalacion-electrica--bocas.json): 3 ítems ([markdown](./chapters/instalacion-electrica--bocas.md))
 - [Instalación eléctrica > Tableros](./chapters/instalacion-electrica--tableros.json): 1 ítems ([markdown](./chapters/instalacion-electrica--tableros.md))
 - [Instalación sanitaria > Artefactos](./chapters/instalacion-sanitaria--artefactos.json): 2 ítems ([markdown](./chapters/instalacion-sanitaria--artefactos.md))
 - [Instalación sanitaria > Cañerías](./chapters/instalacion-sanitaria--canerias.json): 2 ítems ([markdown](./chapters/instalacion-sanitaria--canerias.md))
 - [Instalación sanitaria > Desagües](./chapters/instalacion-sanitaria--desagues.json): 2 ítems ([markdown](./chapters/instalacion-sanitaria--desagues.md))
+- [Instalaciones especiales](./chapters/instalaciones-especiales--raiz.json): 1 ítems ([markdown](./chapters/instalaciones-especiales--raiz.md))
+- [Mampostería](./chapters/mamposteria--raiz.json): 12 ítems ([markdown](./chapters/mamposteria--raiz.md))
+- [Mármoles y granitos](./chapters/marmoles-y-granitos--raiz.json): 1 ítems ([markdown](./chapters/marmoles-y-granitos--raiz.md))
 - [Morteros > Mortero de cemento](./chapters/morteros--mortero-de-cemento.json): 1 ítems ([markdown](./chapters/morteros--mortero-de-cemento.md))
 - [Movimiento de suelos > Achique](./chapters/movimiento-de-suelos--achique.json): 1 ítems ([markdown](./chapters/movimiento-de-suelos--achique.md))
 - [Movimiento de suelos > Excavaciones](./chapters/movimiento-de-suelos--excavaciones.json): 2 ítems ([markdown](./chapters/movimiento-de-suelos--excavaciones.md))
+- [Movimiento de suelos](./chapters/movimiento-de-suelos--raiz.json): 1 ítems ([markdown](./chapters/movimiento-de-suelos--raiz.md))
 - [Movimiento de suelos > Rellenos y compactaciones](./chapters/movimiento-de-suelos--rellenos-y-compactaciones.json): 1 ítems ([markdown](./chapters/movimiento-de-suelos--rellenos-y-compactaciones.md))
+- [Obrador y cercos](./chapters/obrador-y-cercos--raiz.json): 4 ítems ([markdown](./chapters/obrador-y-cercos--raiz.md))
+- [Pavimentos](./chapters/pavimentos--raiz.json): 1 ítems ([markdown](./chapters/pavimentos--raiz.md))
 - [Pinturas > Exteriores](./chapters/pinturas--exteriores.json): 1 ítems ([markdown](./chapters/pinturas--exteriores.md))
 - [Pinturas > Herrería](./chapters/pinturas--herreria.json): 1 ítems ([markdown](./chapters/pinturas--herreria.md))
 - [Pinturas > Interiores](./chapters/pinturas--interiores.json): 2 ítems ([markdown](./chapters/pinturas--interiores.md))
+- [Pisos](./chapters/pisos--raiz.json): 10 ítems ([markdown](./chapters/pisos--raiz.md))
 - [Revestimientos > Cerámicos](./chapters/revestimientos--ceramicos.json): 2 ítems ([markdown](./chapters/revestimientos--ceramicos.md))
+- [Revestimientos](./chapters/revestimientos--raiz.json): 10 ítems ([markdown](./chapters/revestimientos--raiz.md))
 - [Revoques > Exteriores](./chapters/revoques--exteriores.json): 1 ítems ([markdown](./chapters/revoques--exteriores.md))
 - [Revoques > Interiores](./chapters/revoques--interiores.json): 2 ítems ([markdown](./chapters/revoques--interiores.md))
+- [Revoques](./chapters/revoques--raiz.json): 14 ítems ([markdown](./chapters/revoques--raiz.md))
 - [Revoques > Yesería](./chapters/revoques--yeseria.json): 1 ítems ([markdown](./chapters/revoques--yeseria.md))
 - [Seguridad e higiene > Protección](./chapters/seguridad-e-higiene--proteccion.json): 5 ítems ([markdown](./chapters/seguridad-e-higiene--proteccion.md))
 - [Solados > Pisos](./chapters/solados--pisos.json): 6 ítems ([markdown](./chapters/solados--pisos.md))
 - [Solados > Zócalos](./chapters/solados--zocalos.json): 3 ítems ([markdown](./chapters/solados--zocalos.md))
 - [Trabajos preliminares > Replanteo y obrador](./chapters/trabajos-preliminares--replanteo-y-obrador.json): 2 ítems ([markdown](./chapters/trabajos-preliminares--replanteo-y-obrador.md))
 - [Varios y limpieza > Limpieza](./chapters/varios-y-limpieza--limpieza.json): 2 ítems ([markdown](./chapters/varios-y-limpieza--limpieza.md))
+- [Zócalos](./chapters/zocalos--raiz.json): 3 ítems ([markdown](./chapters/zocalos--raiz.md))
 
 ## Cómo resolver un BOM
 
 1. Tomar la partida (`wi-*`) del JSON de su capítulo. 2. Por cada línea de `bom`, buscar `ref` en basicos.json. 3. Coste directo = Σ factor × quantity × precio del hijo; las líneas `isPercentage` aplican quantity (tanto por uno) sobre el subtotal de las líneas anteriores cuyo código matchee `percentageMask`.
+
+## Contacto
+
+Errores en los datos o ítems que faltan: https://github.com/cerptech/cerp-items-data/issues · admin@cerp.es

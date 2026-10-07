@@ -1,0 +1,133 @@
+{
+  "key": "fundaciones--raiz",
+  "rows": [
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-pilotin-de-hormigon-armado-25-cm-4-12-mm-por-m3",
+      "m": 7,
+      "p": 703629.24,
+      "s": "Pilotín de hormigón armado ø 25 cm, 4 ø 12 mm (por m3)",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-pilotin-de-hormigon-armado-25-cm-4-12-mm-por-unidad",
+      "m": 7,
+      "p": 49924.85,
+      "s": "Pilotín de hormigón armado ø 25 cm, 4 ø 12 mm (por unidad)",
+      "u": "u"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-viga-de-fundacion-de-h-a-con-encofrado-339-kg-de-cemento-por",
+      "m": 10,
+      "p": 724321.45,
+      "s": "Viga de fundación de H°A° con encofrado, 339 kg de cemento por m3",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-viga-de-fundacion-de-h-a-con-encofrado-376-kg-de-cemento-por",
+      "m": 10,
+      "p": 727655.31,
+      "s": "Viga de fundación de H°A° con encofrado, 376 kg de cemento por m3",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-viga-de-fundacion-de-h-a-sin-encofrado-339-kg-de-cemento-por",
+      "m": 8,
+      "p": 646868.39,
+      "s": "Viga de fundación de H°A° sin encofrado, 339 kg de cemento por m3",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-viga-de-fundacion-de-h-a-sin-encofrado-376-kg-de-cemento-por",
+      "m": 8,
+      "p": 649254.62,
+      "s": "Viga de fundación de H°A° sin encofrado, 376 kg de cemento por m3",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-zapata-de-hormigon-armado-prof-1-50-m-elaborado-en-hormigone",
+      "m": 7,
+      "p": 283206.69,
+      "s": "Zapata de hormigón armado, prof.=1,50 m-elaborado en hormigonera",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-zapata-de-hormigon-pobre-de-cascotes-154-kg-m3-de-cemento-de",
+      "m": 6,
+      "p": 173330.94,
+      "s": "Zapata de hormigón pobre de cascotes, 154 kg/m3 de cemento de albañilería",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-zapata-de-hormigon-pobre-de-cascotes-220-kg-m3-de-cemento-de",
+      "m": 6,
+      "p": 185791.88,
+      "s": "Zapata de hormigón pobre de cascotes, 220 kg/m3 de cemento de albañilería",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-zapata-de-hormigon-pobre-de-cascotes-con-cal-135-kg-de-cemen",
+      "m": 7,
+      "p": 187729.54,
+      "s": "Zapata de hormigón pobre de cascotes con cal, 135 kg de cemento por m3",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-zapata-de-hormigon-pobre-de-cascotes-con-cal-92-kg-de-cement",
+      "m": 7,
+      "p": 177163.94,
+      "s": "Zapata de hormigón pobre de cascotes con cal, 92 kg de cemento por m3",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-zapata-de-hormigon-simple-prof-1-50-m-elaborado-en-hormigone",
+      "m": 6,
+      "p": 263642.76,
+      "s": "Zapata de hormigón simple, prof.=1,50 m-elaborado en hormigonera",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-zapata-de-mamposteria-ladrillos-comunes-con-cemento-de-alban",
+      "m": 7,
+      "p": 257407.09,
+      "s": "Zapata de mampostería ladrillos comunes, con cemento de albañilería",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-zapata-de-mamposteria-ladrillos-comunes-mezcla-1-4-1-3",
+      "m": 7,
+      "p": 263604.65,
+      "s": "Zapata de mampostería ladrillos comunes, mezcla: 1/4 : 1 : 3",
+      "u": "m3"
+    }
+  ],
+  "title": "Fundaciones",
+  "version": "0.6.0"
+}

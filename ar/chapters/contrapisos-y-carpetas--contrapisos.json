@@ -45,8 +45,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -54,12 +54,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16813.42
+          "value": 18196.96
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -67,12 +67,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 17798.47
+          "value": 19182.01
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -80,12 +80,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23811.79
+          "value": 25195.33
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -93,7 +93,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25465.12
+          "value": 26848.66
         }
       ],
       "sources": [
@@ -113,7 +113,7 @@
       ],
       "text": "Contrapiso alivianado de 8 cm de espesor con esferas de poliestireno expandido, sobre losa, para reducción de carga y mejora de la aislación térmica. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. No se localizó rendimiento de mano de obra en ninguna fuente pública argentina para esta partida: no se carga mano de obra hasta conseguirlo. Ningún organismo público argentino publica rendimientos (los pliegos fijan la forma de medición, pero el análisis de precio lo presenta el oferente). RENDIMIENTO INCORPORADO EN SEPTIEMBRE DE 2026. Rendimiento de mano de obra transcripto de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán, de descarga libre. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes, y usa sólo las categorías Oficial y Ayudante, sin medio oficial. Nivel de verificación cross-check-secundario, pendiente de contraste. RENDIMIENTO DECLARADO COMO APROXIMACIÓN: la fuente no tiene contrapiso alivianado, así que se aplicó el de \"Contrapisos — Hormigón de ripio bruto de 7 cm\", que es el espesor más cercano a los 8 cm de esta partida y la misma tarea de extendido y nivelado. El alivianado es más liviano de manipular, de modo que el valor queda del lado conservador. Pendiente de contraste.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.061Z",
+      "updatedAt": "2026-10-06T23:05:18.493Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -178,8 +178,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -187,12 +187,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36690.46
+          "value": 39604.1
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -200,12 +200,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 38209.59
+          "value": 41123.24
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -213,12 +213,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 47444.64
+          "value": 50358.28
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -226,7 +226,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 50043.98
+          "value": 52957.62
         }
       ],
       "sources": [
@@ -246,7 +246,7 @@
       ],
       "text": "Contrapiso de hormigón armado de 12 cm de espesor con malla electrosoldada Q188, ejecutado con hormigón preparado en obra sobre terreno compactado. Es la alternativa costeable a la partida hermana que usa hormigón elaborado de planta, que sigue sin precio porque ninguna hormigonera del AMBA lo cotiza en público. Medido por metro cuadrado de contrapiso ejecutado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. El consumo de 0,0833 paños de malla por metro cuadrado sale del paño de 2,40 x 6,00 m, que rinde 14,4 metros cuadrados. Rendimiento de mano de obra transcripto de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán, de descarga libre. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes, y usa sólo las categorías Oficial y Ayudante, sin medio oficial. Nivel de verificación cross-check-secundario, pendiente de contraste. Corresponde al ítem \"Contrapisos — Hormigón de ripio bruto de 10 cm\", escalado al espesor de 12 cm.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.062Z",
+      "updatedAt": "2026-10-06T23:05:18.496Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -294,7 +294,7 @@
         {
           "currency": "ARS",
           "date": "2026-09",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -307,7 +307,7 @@
         {
           "currency": "ARS",
           "date": "2026-09",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -320,7 +320,7 @@
         {
           "currency": "ARS",
           "date": "2026-09",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -333,7 +333,7 @@
         {
           "currency": "ARS",
           "date": "2026-09",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -361,7 +361,7 @@
       ],
       "text": "Contrapiso de hormigón armado de 12 cm de espesor con malla de acero soldada Q92, sobre suelo compactado, incluidos nivelación, reglado y curado. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.064Z",
+      "updatedAt": "2026-10-06T23:05:18.497Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -414,8 +414,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -423,12 +423,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 21444.84
+          "value": 23361.47
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -436,12 +436,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22643.99
+          "value": 24560.61
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -449,12 +449,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29306.85
+          "value": 31223.47
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -462,7 +462,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32162.18
+          "value": 34078.8
         }
       ],
       "sources": [
@@ -481,7 +481,7 @@
       ],
       "text": "Contrapiso de hormigón de cascote de 8 cm de espesor sobre losa, incluidos nivelación y reglado, para recibir carpeta y solado. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.066Z",
+      "updatedAt": "2026-10-06T23:05:18.497Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -534,8 +534,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -543,12 +543,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25055.62
+          "value": 27900.93
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -556,12 +556,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26093.88
+          "value": 28939.2
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -569,12 +569,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32138.19
+          "value": 34983.51
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -582,7 +582,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 34257.56
+          "value": 37102.88
         }
       ],
       "sources": [
@@ -601,7 +601,7 @@
       ],
       "text": "Contrapiso de hormigón de cascote de 12 cm de espesor sobre terreno natural compactado, incluidos nivelación y reglado. Medido por metro cuadrado de superficie ejecutada. En Argentina se dice \"contrapiso\", no \"solera\". La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.068Z",
+      "updatedAt": "2026-10-06T23:05:18.498Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -609,5 +609,5 @@
       }
     }
   ],
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

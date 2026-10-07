@@ -63,9 +63,11 @@
       "u": "d"
     },
     {
+      "d": "2026-10",
       "g": [],
       "id": "mq-ar-retroexcavadora-con-pala-cargadora-en-alquiler",
       "m": 0,
+      "p": 500000,
       "s": "Retroexcavadora con pala cargadora en alquiler",
       "u": "d"
     },
@@ -89,5 +91,5 @@
     }
   ],
   "title": "Maquinaria y equipos > Alquiler",
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

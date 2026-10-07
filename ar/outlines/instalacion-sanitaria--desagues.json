@@ -2,11 +2,11 @@
   "key": "instalacion-sanitaria--desagues",
   "rows": [
     {
-      "d": "2026-08",
+      "d": "2026-10",
       "g": [],
       "id": "wi-ar-caneria-cloacal-de-pvc-3-2-de-110-mm",
       "m": 3,
-      "p": 17490.43,
+      "p": 14611.71,
       "s": "Cañería cloacal de PVC 3,2 de ø110 mm",
       "u": "m"
     },
@@ -21,5 +21,5 @@
     }
   ],
   "title": "Instalación sanitaria > Desagües",
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

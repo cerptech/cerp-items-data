@@ -1,0 +1,610 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Obrador y cercos",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 3,
+          "ref": "mt-ar-amortizacion-de-poste-de-madera-3x3-pulgadas-para-cerco-de-o",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-amortizacion-de-tablero-de-1-22-x-2-44-m-para-cerco-de-obra",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mt-ar-esmalte-sintetico-brillante-en-lata-de-4-litros",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Obrador y cercos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.413Z",
+      "id": "wi-ar-cerco-de-obra-madera-altura-1-80-m-postes-cada-2-40-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 29194.55
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 30223.25
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 36309.7
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 38284.14
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cerco-de-obra-madera-altura-1-80-m-postes-cada-2-40-m",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cerco de obra-madera, altura 1,80 m-postes cada 2,40 m",
+      "tags": [
+        "obrador y cercos"
+      ],
+      "text": "Cerco de obra-madera, altura 1,80 m-postes cada 2,40 m. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código AND-008, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "unit": "m",
+      "updatedAt": "2026-10-06T23:05:18.471Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 3,
+          "ref": "mt-ar-amortizacion-de-poste-de-madera-3x3-pulgadas-para-cerco-de-o",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-amortizacion-de-malla-de-acero-soldada-15x15-cm-para-cerco-d",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.0375,
+          "ref": "mt-ar-antioxido-al-cromato-en-lata-de-4-l",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Obrador y cercos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.413Z",
+      "id": "wi-ar-cerco-de-obra-metalico-altura-2-00-m-postes-cada-2-50-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 16051.09
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 16965.16
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 22229.33
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 24168.33
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cerco-de-obra-metalico-altura-2-00-m-postes-cada-2-50-m",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cerco de obra-metalico, altura 2,00 m-postes cada 2,50 m",
+      "tags": [
+        "obrador y cercos"
+      ],
+      "text": "Cerco de obra-metalico, altura 2,00 m-postes cada 2,50 m. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código AND-007, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "unit": "m",
+      "updatedAt": "2026-10-06T23:05:18.472Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.4,
+          "ref": "mt-ar-alambre-tejido-romboidal",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.6875,
+          "ref": "mt-ar-poste-de-hormigon-pretensado-para-cerco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-accesorios-de-ajuste-para-alambre-romboidal",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.12,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.7,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.04,
+          "ref": "mt-ar-clavos-y-alambre-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.06,
+          "ref": "mt-ar-amortizacion-de-madera-de-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Obrador y cercos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.413Z",
+      "id": "wi-ar-cerco-olimpico-altura-2-40m-con-alambre-romboidal",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 63323.85
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 66180.69
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 82795.49
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 88647.93
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cerco-olimpico-altura-2-40m-con-alambre-romboidal",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cerco olimpico, altura 2,40m-con alambre romboidal",
+      "tags": [
+        "obrador y cercos"
+      ],
+      "text": "Cerco olimpico, altura 2,40m-con alambre romboidal. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código AND-009, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "unit": "m",
+      "updatedAt": "2026-10-06T23:05:18.472Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.44,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.89,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 7.2,
+          "ref": "mt-ar-cemento-de-albanileria-en-bolsa-de-30-kg-por-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.021,
+          "ref": "mt-ar-arena-fina-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.042,
+          "ref": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.25,
+          "ref": "mt-ar-poste-de-hormigon-pretensado-para-cerco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.06,
+          "ref": "mt-ar-poste-de-refuerzo-de-hormigon-15x15-cm-con-codo",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.08,
+          "ref": "mt-ar-puntal-metalico-para-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.08,
+          "ref": "mt-ar-alambre-tejido-romboidal",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.15,
+          "ref": "mt-ar-alambre-galvanizado-14-16",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.147369,
+          "ref": "mt-ar-planchuela-de-acero-de-1-x-3-16-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.72,
+          "ref": "mt-ar-bulon-gancho",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.23625,
+          "ref": "mt-ar-alambre-de-puas-16-127",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.23,
+          "ref": "mt-ar-torniquete-n-7-para-alambrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.08,
+          "ref": "mt-ar-bulon-para-puntales",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Obrador y cercos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.413Z",
+      "id": "wi-ar-cerco-olimpico-con-postes-de-hormigon-premoldeados-altura-2",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 46895.11
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 48595.95
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 58755.95
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 61896.55
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cerco-olimpico-con-postes-de-hormigon-premoldeados-altura-2",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cerco olimpico con postes de hormigón premoldeados, altura 2,40m-con postes con codo. sin viga encad",
+      "tags": [
+        "obrador y cercos"
+      ],
+      "text": "Cerco olimpico con postes de hormigón premoldeados, altura 2,40m-con postes con codo. sin viga encad. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código AND-010, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "unit": "m",
+      "updatedAt": "2026-10-06T23:05:18.473Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.6.0"
+}

@@ -1,0 +1,1277 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Entrepisos",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.5,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-tirante-de-pino-de-2x5-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.144304,
+          "ref": "mt-ar-tirante-de-pino-de-3x6-pulgadas-en-pieza-de-3-66-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-ar-machimbre-de-1x5-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-ar-placa-osb-de-18-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 6,
+          "ref": "mt-ar-tornillo-aguja-cabeza-perdida-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mt-ar-fijacion-de-tornillo-y-taco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mt-ar-bulon-de-4-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Entrepisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-entrepiso-con-estructura-de-madera-luces-menores-a-3-5-mts-t",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 87768.08
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 91269.84
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 111679.9
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 118796.56
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-entrepiso-con-estructura-de-madera-luces-menores-a-3-5-mts-t",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Entrepiso con estructura de madera, luces menores a 3,5 mts. tirantes 2\" x 5\" cada 0,6m-cepillados",
+      "tags": [
+        "entrepisos"
+      ],
+      "text": "Entrepiso con estructura de madera, luces menores a 3,5 mts. tirantes 2\" x 5\" cada 0,6m-cepillados. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ENT-007, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.532Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.4,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.6,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-perfil-c-de-100x45x10x2-mm-por-metro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-ar-placa-osb-de-18-mm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.05,
+          "ref": "mt-ar-machimbre-de-1x5-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 8,
+          "ref": "mt-ar-tornillo-aguja-cabeza-perdida-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mt-ar-tornillo-autoperforante-14x1-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Entrepisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-entrepiso-con-estructura-metalica-luces-menores-a-3-5-mts-pe",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 91661.54
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 95563.03
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 118194.04
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 126262.47
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-entrepiso-con-estructura-metalica-luces-menores-a-3-5-mts-pe",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Entrepiso con estructura metálica, luces menores a 3,5 mts. perfiles \"c\" 100x45x10x2 cada 50 cm",
+      "tags": [
+        "entrepisos"
+      ],
+      "text": "Entrepiso con estructura metálica, luces menores a 3,5 mts. perfiles \"c\" 100x45x10x2 cada 50 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ENT-008, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.533Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.35,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.8,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.28,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.029,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.029,
+          "ref": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-ar-malla-de-acero-soldada-4-2-mm-15x15-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mt-ar-losa-premoldeada-de-hormigon-con-alma-de-poliestireno",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.335135,
+          "ref": "mt-ar-hierro-nervurado-diametro-10-mm-en-barra-de-12-m-marca-acind",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.2,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Entrepisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.416Z",
+      "id": "wi-ar-entrepiso-losa-h-premoldeado-con-alma-de-poliestireno-expand",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 67131.13
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 68596.93
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 77403.28
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 80045.28
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-entrepiso-losa-h-premoldeado-con-alma-de-poliestireno-expand",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Entrepiso losa H° premoldeado con alma de poliestireno expandido, hasta 7,2 m de luces. espesor de losa 15 cm",
+      "tags": [
+        "entrepisos"
+      ],
+      "text": "Entrepiso losa H° premoldeado con alma de poliestireno expandido, hasta 7,2 m de luces. espesor de losa 15 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ENT-009, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.534Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.75,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.45,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.748,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.076,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.076,
+          "ref": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.2,
+          "ref": "mt-ar-vigueta-pretensada-de-hormigon-por-metro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 6.38,
+          "ref": "mt-ar-bovedilla-ceramica-12-5x25x42-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-ar-malla-de-acero-soldada-4-2-mm-15x15-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Entrepisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.421Z",
+      "id": "wi-ar-losa-de-viguetas-dobles-y-ladrillos-ceramicos-de-12-5-cm-luz",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 82203.73
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 86246.78
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 110908.7
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 117719.48
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-losa-de-viguetas-dobles-y-ladrillos-ceramicos-de-12-5-cm-luz",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Losa de viguetas dobles y ladrillos cerámicos de 12,5 cm, luz 3,50 m",
+      "tags": [
+        "entrepisos"
+      ],
+      "text": "Losa de viguetas dobles y ladrillos cerámicos de 12,5 cm, luz 3,50 m. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ENT-003, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.587Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.4066,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.045,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.029,
+          "ref": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.3,
+          "ref": "mt-ar-vigueta-hueca-pretensada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-ar-malla-de-acero-soldada-4-2-mm-15x15-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Entrepisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.421Z",
+      "id": "wi-ar-losa-de-viguetas-huecas-pretensadas-viguetas-de-9-5cm-de-esp",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 43787.05
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 45759.23
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 57643.93
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 61152.38
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-losa-de-viguetas-huecas-pretensadas-viguetas-de-9-5cm-de-esp",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Losa de viguetas huecas pretensadas, viguetas de 9,5cm de espesor x 0,30m de ancho. capa de compresión 4 cm. peso…",
+      "tags": [
+        "entrepisos"
+      ],
+      "text": "Losa de viguetas huecas pretensadas, viguetas de 9,5cm de espesor x 0,30m de ancho. capa de compresión 4 cm. peso…. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ENT-006, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.588Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.4,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.4624,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.047,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.047,
+          "ref": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-vigueta-pretensada-de-hormigon-por-metro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-bovedilla-de-poliestireno-expandido-12-5-x-100-x-50-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-ar-malla-de-acero-soldada-4-2-mm-15x15-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Entrepisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.421Z",
+      "id": "wi-ar-losa-de-viguetas-y-bloques-de-eps-de-12-5-cm-luz-3-50-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 53715.5
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 56124.78
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 70729.38
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 74905.38
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-losa-de-viguetas-y-bloques-de-eps-de-12-5-cm-luz-3-50-m",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Losa de viguetas y bloques de EPS de 12,5 cm, luz 3,50 m",
+      "tags": [
+        "entrepisos"
+      ],
+      "text": "Losa de viguetas y bloques de EPS de 12,5 cm, luz 3,50 m. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ENT-004, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.588Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-76a2916d1b8f19b7"
+        ],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.5,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.5168,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.053,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.053,
+          "ref": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-vigueta-pretensada-de-hormigon-por-metro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-bovedilla-de-poliestireno-expandido-de-16-5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-ar-malla-de-acero-soldada-4-2-mm-15x15-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Entrepisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.421Z",
+      "id": "wi-ar-losa-de-viguetas-y-bloques-de-eps-de-16-5-cm-luz-3-50-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 58750.42
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 61420.86
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 77529.51
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 82259.51
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-losa-de-viguetas-y-bloques-de-eps-de-16-5-cm-luz-3-50-m",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Losa de viguetas y bloques de EPS de 16,5 cm, luz 3,50 m",
+      "tags": [
+        "entrepisos"
+      ],
+      "text": "Losa de viguetas y bloques de EPS de 16,5 cm, luz 3,50 m. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ENT-005, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.589Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.7,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.15,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.5032,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.051,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.051,
+          "ref": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-vigueta-pretensada-de-hormigon-por-metro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 8,
+          "ref": "mt-ar-bovedilla-ceramica-12-5x25x42-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-ar-malla-de-acero-soldada-4-2-mm-15x15-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Entrepisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.421Z",
+      "id": "wi-ar-losa-de-viguetas-y-ladrillos-ceramicos-de-12-5-cm-luz-3-50-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 70975.63
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 74581.58
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 96523.59
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 102666.82
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-losa-de-viguetas-y-ladrillos-ceramicos-de-12-5-cm-luz-3-50-m",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Losa de viguetas y ladrillos cerámicos de 12,5 cm, luz 3,50 m",
+      "tags": [
+        "entrepisos"
+      ],
+      "text": "Losa de viguetas y ladrillos cerámicos de 12,5 cm, luz 3,50 m. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ENT-002, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.591Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-e645bef9603201e4"
+        ],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.7,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.442,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.045,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.045,
+          "ref": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2,
+          "ref": "mt-ar-vigueta-pretensada-de-hormigon-por-metro",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 8,
+          "ref": "mt-ar-bovedilla-ceramica-de-9-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mt-ar-malla-de-acero-soldada-4-2-mm-15x15-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.15,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Entrepisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.421Z",
+      "id": "wi-ar-losa-de-viguetas-y-ladrillos-ceramicos-de-9-cm-luz-3-50-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 61033.95
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 63949.61
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 81632.55
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 86675
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-losa-de-viguetas-y-ladrillos-ceramicos-de-9-cm-luz-3-50-m",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Losa de viguetas y ladrillos cerámicos de 9 cm, luz 3,50 m",
+      "tags": [
+        "entrepisos"
+      ],
+      "text": "Losa de viguetas y ladrillos cerámicos de 9 cm, luz 3,50 m. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ENT-001, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.592Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.6.0"
+}

@@ -1,17 +1,24 @@
 # Banco de ítems de construcción CERP
 
-> Catálogo abierto de 12697 ítems de construcción de España con precios de referencia y descomposición (BOM: mano de obra, materiales, maquinaria). Versión 0.5.0. Formato canónico JSON; cada capítulo también en Markdown. Ids: wi=partida, mt=material, mo=mano de obra, mq=maquinaria, au=auxiliar, ot=otro. Cada precio lleva procedencia (fuente, código origen, edición, ámbito, fecha).
+> Catálogo abierto de 12697 ítems de construcción de España con precios de referencia y descomposición (BOM: mano de obra, materiales, maquinaria). Versión 0.6.0. Formato canónico JSON; cada capítulo también en Markdown. Ids: wi=partida, mt=material, mo=mano de obra, mq=maquinaria, au=auxiliar, ot=otro. Cada precio lleva procedencia (fuente, código origen, edición, ámbito, fecha).
 
 Atribución obligatoria al reutilizar: "Información obtenida del Portal de la Junta de Andalucía".
 
 ## Datos
 
-- [index.json](./index.json): índice máquina de todos los chunks con conteos
+- [index.json](./index.json): índice máquina de todos los chunks con conteos y hash SHA-256 por archivo
 - [tree.json](./tree.json): árbol de navegación jerárquico completo (labels, slugs, conteos)
 - outlines/<chunk>.json: filas livianas por capítulo (id, resumen, unidad, precio, subgrupos) — para listados sin cargar el capítulo entero
 - [basicos.json](./basicos.json): los 6131 conceptos simples (materiales, mano de obra, maquinaria) — resuelve cualquier ref de BOM
 - [catalog.json](./catalog.json): catálogo completo en un archivo
 - [countries.json](./countries.json): países disponibles. Este bundle es el del país de la raíz; los demás viven en su subcarpeta (p.ej. [ar/](./ar/llms.txt) para Argentina) con la misma estructura de archivos
+
+## Licencia, versiones e integridad
+
+- [LICENSE](./LICENSE): licencia y atribución obligatoria de este bundle
+- [CHANGELOG.md](./CHANGELOG.md): qué cambió en cada versión del dataset
+- [STABILITY.md](./STABILITY.md): qué se garantiza sobre los ids y las versiones, y qué no
+- [SHA256SUMS](./SHA256SUMS): hash SHA-256 de cada archivo del bundle, formato sha256sum
 
 ## Capítulos
 
@@ -41,3 +48,7 @@ Atribución obligatoria al reutilizar: "Información obtenida del Portal de la J
 ## Cómo resolver un BOM
 
 1. Tomar la partida (`wi-*`) del JSON de su capítulo. 2. Por cada línea de `bom`, buscar `ref` en basicos.json. 3. Coste directo = Σ factor × quantity × precio del hijo; las líneas `isPercentage` aplican quantity (tanto por uno) sobre el subtotal de las líneas anteriores cuyo código matchee `percentageMask`.
+
+## Contacto
+
+Errores en los datos o ítems que faltan: https://github.com/cerptech/cerp-items-data/issues · admin@cerp.es

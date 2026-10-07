@@ -1,0 +1,1647 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Construcción en seco",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.95,
+          "ref": "mt-ar-perfil-portador-para-cielorraso",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.8,
+          "ref": "mt-ar-perfil-larguero-para-cielorraso-desmontable",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.9,
+          "ref": "mt-ar-perfil-travesano-para-cielorraso-desmontable",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mt-ar-perfil-perimetral-para-cielorraso",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.35,
+          "ref": "mt-ar-placa-de-cielorraso-de-0-61-x-1-21-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.4,
+          "ref": "mt-ar-alambre-galvanizado-n-14",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mt-ar-tornillo-con-taco-n-8",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mt-ar-tornillo-autoperforante-t2-para-placa-de-roca-de-yeso",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Construcción en seco"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.413Z",
+      "id": "wi-ar-cielorraso-de-fibras-de-vidrio-revestido-en-pvc-desmontable",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 27212.92
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 28388.15
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 35156.38
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 37649.38
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cielorraso-de-fibras-de-vidrio-revestido-en-pvc-desmontable",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cielorraso de fibras de vidrio revestido en pvc-desmontable, espesor 25 mm.placas de 0,61m x 1,21 m",
+      "tags": [
+        "construcción en seco"
+      ],
+      "text": "Cielorraso de fibras de vidrio revestido en pvc-desmontable, espesor 25 mm.placas de 0,61m x 1,21 m. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CES-014, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.474Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.65,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.65,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 13,
+          "ref": "mt-ar-tornillo-autoperforante-t2-para-placa-de-roca-de-yeso",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.011001,
+          "ref": "mt-ar-cinta-de-papel-microperforada-para-juntas-en-rollo-de-150-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.05,
+          "ref": "mt-ar-masilla-para-juntas-de-placa-de-roca-de-yeso-en-balde-de-18",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.45,
+          "ref": "mt-ar-perfil-omega",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.5,
+          "ref": "mt-ar-fijacion-de-tornillo-y-taco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.705924,
+          "ref": "mt-ar-placa-de-roca-de-yeso-de-9-5-mm-de-1-20-x-2-40-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.02,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Construcción en seco"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.414Z",
+      "id": "wi-ar-cielorraso-de-placas-de-roca-de-yeso-aplicado-bajo-losa-plac",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 29713
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 31410.56
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 41186.89
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 44787.88
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cielorraso-de-placas-de-roca-de-yeso-aplicado-bajo-losa-plac",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cielorraso de placas de roca de yeso aplicado bajo losa, placa común 1,22 m x 2,44 m-esp: 9,5mm",
+      "tags": [
+        "construcción en seco"
+      ],
+      "text": "Cielorraso de placas de roca de yeso aplicado bajo losa, placa común 1,22 m x 2,44 m-esp: 9,5mm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CES-011, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.476Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.8,
+          "ref": "mt-ar-perfil-larguero-para-cielorraso-desmontable",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.8,
+          "ref": "mt-ar-perfil-travesano-para-cielorraso-desmontable",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.5,
+          "ref": "mt-ar-perfil-perimetral-para-cielorraso",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 6,
+          "ref": "mt-ar-tornillo-con-taco-n-8",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 6,
+          "ref": "mt-ar-tornillo-autoperforante-t2-para-placa-de-roca-de-yeso",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.361571,
+          "ref": "mt-ar-placa-de-roca-de-yeso-de-9-5-mm-de-1-20-x-2-40-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Construcción en seco"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.414Z",
+      "id": "wi-ar-cielorraso-de-placas-de-roca-de-yeso-desmontable",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 21450.97
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 22626.2
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 29394.43
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 31887.42
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cielorraso-de-placas-de-roca-de-yeso-desmontable",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cielorraso de placas de roca de yeso-desmontable",
+      "tags": [
+        "construcción en seco"
+      ],
+      "text": "Cielorraso de placas de roca de yeso-desmontable. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CES-013, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.477Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.95,
+          "ref": "mt-ar-perfil-portador-para-cielorraso",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.85,
+          "ref": "mt-ar-perfil-larguero-para-cielorraso-desmontable",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.85,
+          "ref": "mt-ar-perfil-travesano-para-cielorraso-desmontable",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mt-ar-perfil-perimetral-para-cielorraso",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.7,
+          "ref": "mt-ar-placa-de-cielorraso-desmontable-de-0-61-x-0-61-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.4,
+          "ref": "mt-ar-alambre-galvanizado-n-14",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mt-ar-tornillo-con-taco-n-8",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 4,
+          "ref": "mt-ar-tornillo-autoperforante-t2-para-placa-de-roca-de-yeso",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.02,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Construcción en seco"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.414Z",
+      "id": "wi-ar-cielorraso-suspendido-de-fibras-minerales-61x61cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 44767.57
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 45942.8
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 52711.03
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 55204.02
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cielorraso-suspendido-de-fibras-minerales-61x61cm",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Cielorraso suspendido de fibras minerales 61x61cm",
+      "tags": [
+        "construcción en seco"
+      ],
+      "text": "Cielorraso suspendido de fibras minerales 61x61cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CES-015, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.479Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.02,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-perfil-solera-de-70-mm-para-tabique",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.499996,
+          "ref": "mt-ar-perfil-montante-de-69-mm-para-tabique",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.08,
+          "ref": "mt-ar-tornillo-t1-para-perfileria-de-construccion-en-seco-en-caja",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 13,
+          "ref": "mt-ar-tornillo-autoperforante-t2-para-placa-de-roca-de-yeso",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.26,
+          "ref": "mt-ar-tornillo-t3-para-placa-de-roca-de-yeso-en-caja-de-100",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.022001,
+          "ref": "mt-ar-cinta-de-papel-microperforada-para-juntas-en-rollo-de-150-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.100001,
+          "ref": "mt-ar-masilla-para-juntas-de-placa-de-roca-de-yeso-en-balde-de-18",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.5,
+          "ref": "mt-ar-fijacion-de-tornillo-y-taco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.135415,
+          "ref": "mt-ar-placa-de-roca-de-yeso-estandar-de-12-5-mm-de-1-20-x-2-40-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.015,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Construcción en seco"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.422Z",
+      "id": "wi-ar-pared-divisoria-resistente-al-fuego-placa-resistente-al-fueg",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 70900.71
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 73564.56
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 88905.88
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 94556.67
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-pared-divisoria-resistente-al-fuego-placa-resistente-al-fueg",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Pared divisoria resistente al fuego, placa resistente al fuego 1,22 mx 2,44 m",
+      "tags": [
+        "construcción en seco"
+      ],
+      "text": "Pared divisoria resistente al fuego, placa resistente al fuego 1,22 mx 2,44 m. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CES-003, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.608Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.2,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-perfil-solera-de-70-mm-para-tabique",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.999997,
+          "ref": "mt-ar-perfil-montante-de-69-mm-para-tabique",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mt-ar-tornillo-t1-para-perfileria-de-construccion-en-seco-en-caja",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 15,
+          "ref": "mt-ar-tornillo-autoperforante-t2-para-placa-de-roca-de-yeso",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mt-ar-tornillo-t3-para-placa-de-roca-de-yeso-en-caja-de-100",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.022001,
+          "ref": "mt-ar-cinta-de-papel-microperforada-para-juntas-en-rollo-de-150-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.100001,
+          "ref": "mt-ar-masilla-para-juntas-de-placa-de-roca-de-yeso-en-balde-de-18",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.5,
+          "ref": "mt-ar-fijacion-de-tornillo-y-taco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.711805,
+          "ref": "mt-ar-placa-de-roca-de-yeso-estandar-de-12-5-mm-de-1-20-x-2-40-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.02,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Construcción en seco"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.423Z",
+      "id": "wi-ar-pared-doble-placa-comun-1-22-m-x-2-44-m-esp-12-5mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 53665.98
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 56799.93
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 74848.54
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 81496.53
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-pared-doble-placa-comun-1-22-m-x-2-44-m-esp-12-5mm",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Pared doble, placa común 1,22 m x 2,44 m-esp: 12,5mm",
+      "tags": [
+        "construcción en seco"
+      ],
+      "text": "Pared doble, placa común 1,22 m x 2,44 m-esp: 12,5mm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CES-008, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.609Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.9,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.9,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-perfil-solera-de-70-mm-para-tabique",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.499996,
+          "ref": "mt-ar-perfil-montante-de-69-mm-para-tabique",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.08,
+          "ref": "mt-ar-tornillo-t1-para-perfileria-de-construccion-en-seco-en-caja",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 26,
+          "ref": "mt-ar-tornillo-autoperforante-t2-para-placa-de-roca-de-yeso",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.022001,
+          "ref": "mt-ar-cinta-de-papel-microperforada-para-juntas-en-rollo-de-150-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.100001,
+          "ref": "mt-ar-masilla-para-juntas-de-placa-de-roca-de-yeso-en-balde-de-18",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.5,
+          "ref": "mt-ar-fijacion-de-tornillo-y-taco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.711805,
+          "ref": "mt-ar-placa-de-roca-de-yeso-estandar-de-12-5-mm-de-1-20-x-2-40-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Construcción en seco"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.423Z",
+      "id": "wi-ar-pared-simple-divisoria-de-locales-humedos-placa-resistente-a",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 43843.97
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 46194.42
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 59730.88
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 64716.87
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-pared-simple-divisoria-de-locales-humedos-placa-resistente-a",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Pared simple divisoria de locales humedos, placa resistente a la humedad 1,22 m x 2,44 m",
+      "tags": [
+        "construcción en seco"
+      ],
+      "text": "Pared simple divisoria de locales humedos, placa resistente a la humedad 1,22 m x 2,44 m. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CES-002, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.610Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-perfil-solera-de-70-mm-para-tabique",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.499996,
+          "ref": "mt-ar-perfil-montante-de-69-mm-para-tabique",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.08,
+          "ref": "mt-ar-tornillo-t1-para-perfileria-de-construccion-en-seco-en-caja",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 13,
+          "ref": "mt-ar-tornillo-autoperforante-t2-para-placa-de-roca-de-yeso",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.011001,
+          "ref": "mt-ar-cinta-de-papel-microperforada-para-juntas-en-rollo-de-150-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.05,
+          "ref": "mt-ar-masilla-para-juntas-de-placa-de-roca-de-yeso-en-balde-de-18",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.5,
+          "ref": "mt-ar-fijacion-de-tornillo-y-taco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.364583,
+          "ref": "mt-ar-placa-de-roca-de-yeso-estandar-de-12-5-mm-de-1-20-x-2-40-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.008,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Construcción en seco"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.423Z",
+      "id": "wi-ar-pared-simple-revestida-de-un-solo-lado-espesor-de-pared-8-25",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 29758.58
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 31325.56
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 40349.86
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 43673.86
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-pared-simple-revestida-de-un-solo-lado-espesor-de-pared-8-25",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Pared simple revestida de un solo lado, espesor de pared 8,25 cm",
+      "tags": [
+        "construcción en seco"
+      ],
+      "text": "Pared simple revestida de un solo lado, espesor de pared 8,25 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CES-004, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.611Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.5,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 15,
+          "ref": "mt-ar-tornillo-autoperforante-t2-para-placa-de-roca-de-yeso",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.011001,
+          "ref": "mt-ar-cinta-de-papel-microperforada-para-juntas-en-rollo-de-150-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.05,
+          "ref": "mt-ar-masilla-para-juntas-de-placa-de-roca-de-yeso-en-balde-de-18",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3,
+          "ref": "mt-ar-perfil-omega",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 8,
+          "ref": "mt-ar-fijacion-de-tornillo-y-taco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.364583,
+          "ref": "mt-ar-placa-de-roca-de-yeso-estandar-de-12-5-mm-de-1-20-x-2-40-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Construcción en seco"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.426Z",
+      "id": "wi-ar-revestimiento-de-pared-existente-sobre-perfil-omega-placa-co",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 25738.34
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 27044.15
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 34564.4
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 37334.4
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-revestimiento-de-pared-existente-sobre-perfil-omega-placa-co",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Revestimiento de pared existente-sobre perfil omega, placa común 1,22 m x 2,44 m-esp: 12,5mm",
+      "tags": [
+        "construcción en seco"
+      ],
+      "text": "Revestimiento de pared existente-sobre perfil omega, placa común 1,22 m x 2,44 m-esp: 12,5mm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CES-009, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.646Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.4,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mt-ar-tirante-de-1x2-pulgadas-para-estructura-de-tabique",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.5,
+          "ref": "mt-ar-fijacion-de-tornillo-y-taco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 5.4,
+          "ref": "mt-ar-adhesivo-para-placas-aislantes",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.022001,
+          "ref": "mt-ar-cinta-de-papel-microperforada-para-juntas-en-rollo-de-150-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.100001,
+          "ref": "mt-ar-masilla-para-juntas-de-placa-de-roca-de-yeso-en-balde-de-18",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.850694,
+          "ref": "mt-ar-placa-de-roca-de-yeso-estandar-de-12-5-mm-de-1-20-x-2-40-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Construcción en seco"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.427Z",
+      "id": "wi-ar-tabique-con-estructura-de-madera-1-x-2-placa-comun-1-22-m-x",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 35216.89
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 36261.54
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 42277.74
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 44493.74
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-tabique-con-estructura-de-madera-1-x-2-placa-comun-1-22-m-x",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Tabique con estructura de madera 1\" x 2\", placa común 1,22 m x 2,44 m-esp: 12,5mm",
+      "tags": [
+        "construcción en seco"
+      ],
+      "text": "Tabique con estructura de madera 1\" x 2\", placa común 1,22 m x 2,44 m-esp: 12,5mm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CES-006, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.664Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-d979eaded17683ed"
+        ],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.45,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.18,
+          "ref": "mt-ar-tirante-de-2x2-pulgadas-para-estructura-de-tabique",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.5,
+          "ref": "mt-ar-fijacion-de-tornillo-y-taco",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 10,
+          "ref": "mt-ar-adhesivo-para-placas-aislantes",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.022001,
+          "ref": "mt-ar-cinta-de-papel-microperforada-para-juntas-en-rollo-de-150-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.100001,
+          "ref": "mt-ar-masilla-para-juntas-de-placa-de-roca-de-yeso-en-balde-de-18",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.920138,
+          "ref": "mt-ar-placa-de-roca-de-yeso-estandar-de-12-5-mm-de-1-20-x-2-40-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.008,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Construcción en seco"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.427Z",
+      "id": "wi-ar-tabique-con-estructura-de-madera-2-x-2-placa-comun-1-22-m-x",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 45106.05
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 46281.27
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 53049.5
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 55542.5
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-tabique-con-estructura-de-madera-2-x-2-placa-comun-1-22-m-x",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Tabique con estructura de madera 2\" x 2\", placa común 1,22 m x 2,44 m-esp: 12,5mm",
+      "tags": [
+        "construcción en seco"
+      ],
+      "text": "Tabique con estructura de madera 2\" x 2\", placa común 1,22 m x 2,44 m-esp: 12,5mm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CES-007, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "unit": "m2",
+      "updatedAt": "2026-10-06T23:05:18.664Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.6.0"
+}

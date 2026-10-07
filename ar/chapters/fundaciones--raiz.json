@@ -1,0 +1,1859 @@
+{
+  "attributions": [
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Fundaciones",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 10.25,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 14.2,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 7.52,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.8,
+          "ref": "mt-ar-ripio-1-a-3-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 100,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.35,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Fundaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.423Z",
+      "id": "wi-ar-pilotin-de-hormigon-armado-25-cm-4-12-mm-por-m3",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 703629.24
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 735241.36
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 920498.98
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 983454.68
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-pilotin-de-hormigon-armado-25-cm-4-12-mm-por-m3",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Pilotín de hormigón armado ø 25 cm, 4 ø 12 mm (por m3)",
+      "tags": [
+        "fundaciones"
+      ],
+      "text": "Pilotín de hormigón armado ø 25 cm, 4 ø 12 mm (por m3). Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CIM-009, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.614Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.75,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.53,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.03,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.06,
+          "ref": "mt-ar-ripio-1-a-3-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 7,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Fundaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.423Z",
+      "id": "wi-ar-pilotin-de-hormigon-armado-25-cm-4-12-mm-por-unidad",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 49924.85
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 52190.08
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 65438.34
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 69983.89
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-pilotin-de-hormigon-armado-25-cm-4-12-mm-por-unidad",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Pilotín de hormigón armado ø 25 cm, 4 ø 12 mm (por unidad)",
+      "tags": [
+        "fundaciones"
+      ],
+      "text": "Pilotín de hormigón armado ø 25 cm, 4 ø 12 mm (por unidad). Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CIM-010, que remite al Manual del computista de la construcción). Medida por u. Precio computado desde la descomposición.",
+      "unit": "u",
+      "updatedAt": "2026-10-06T23:05:18.614Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 18,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 12,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 6.78,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.57,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.86,
+          "ref": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.8,
+          "ref": "mt-ar-amortizacion-de-madera-de-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.4,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.7,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 70,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.35,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Fundaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.427Z",
+      "id": "wi-ar-viga-de-fundacion-de-h-a-con-encofrado-339-kg-de-cemento-por",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 724321.45
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 763974.13
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 987474.37
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1077820.81
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-viga-de-fundacion-de-h-a-con-encofrado-339-kg-de-cemento-por",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Viga de fundación de H°A° con encofrado, 339 kg de cemento por m3",
+      "tags": [
+        "fundaciones"
+      ],
+      "text": "Viga de fundación de H°A° con encofrado, 339 kg de cemento por m3. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CIM-013, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.669Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-52339d630c4ef79b",
+          "duplicate_candidate-818dcf00be6a7ebb",
+          "duplicate_candidate-c70d00bff0db3bfd"
+        ],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 18,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 12,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 7.52,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.8,
+          "ref": "mt-ar-ripio-1-a-3-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.8,
+          "ref": "mt-ar-amortizacion-de-madera-de-encofrado",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.4,
+          "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.7,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 70,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.35,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Fundaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.427Z",
+      "id": "wi-ar-viga-de-fundacion-de-h-a-con-encofrado-376-kg-de-cemento-por",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 727655.31
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 767307.99
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 990808.23
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1081154.67
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-viga-de-fundacion-de-h-a-con-encofrado-376-kg-de-cemento-por",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Viga de fundación de H°A° con encofrado, 376 kg de cemento por m3",
+      "tags": [
+        "fundaciones"
+      ],
+      "text": "Viga de fundación de H°A° con encofrado, 376 kg de cemento por m3. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CIM-011, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.670Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-61cc9add89fd8f0f",
+          "duplicate_candidate-cfad9a9871566a91"
+        ],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 15,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 10,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 6.78,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.57,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.86,
+          "ref": "mt-ar-ripio-1-a-3-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.7,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 70,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.35,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Fundaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.427Z",
+      "id": "wi-ar-viga-de-fundacion-de-h-a-sin-encofrado-339-kg-de-cemento-por",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 646868.39
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 679912.29
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 866162.49
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 941451.19
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-viga-de-fundacion-de-h-a-sin-encofrado-339-kg-de-cemento-por",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Viga de fundación de H°A° sin encofrado, 339 kg de cemento por m3",
+      "tags": [
+        "fundaciones"
+      ],
+      "text": "Viga de fundación de H°A° sin encofrado, 339 kg de cemento por m3. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CIM-014, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.671Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-85881fea33ff0f15"
+        ],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 15,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 10,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 7.52,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.48,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.8,
+          "ref": "mt-ar-ripio-1-a-3-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.7,
+          "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 70,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.35,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Fundaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.427Z",
+      "id": "wi-ar-viga-de-fundacion-de-h-a-sin-encofrado-376-kg-de-cemento-por",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 649254.62
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 682298.52
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 868548.72
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 943837.42
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-viga-de-fundacion-de-h-a-sin-encofrado-376-kg-de-cemento-por",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Viga de fundación de H°A° sin encofrado, 376 kg de cemento por m3",
+      "tags": [
+        "fundaciones"
+      ],
+      "text": "Viga de fundación de H°A° sin encofrado, 376 kg de cemento por m3. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CIM-012, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.671Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.3,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 6.49,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 6.8,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.57,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.86,
+          "ref": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 5.5,
+          "ref": "mt-ar-malla-de-acero-soldada-4-2-mm-15x15-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.35,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Fundaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.427Z",
+      "id": "wi-ar-zapata-de-hormigon-armado-prof-1-50-m-elaborado-en-hormigone",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 283206.69
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 292965.15
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 353370.84
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 368680.8
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-zapata-de-hormigon-armado-prof-1-50-m-elaborado-en-hormigone",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Zapata de hormigón armado, prof.=1,50 m-elaborado en hormigonera",
+      "tags": [
+        "fundaciones"
+      ],
+      "text": "Zapata de hormigón armado, prof.=1,50 m-elaborado en hormigonera. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CIM-006, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.675Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.3,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 6.49,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 154,
+          "ref": "mt-ar-cemento-de-albanileria-en-bolsa-de-30-kg-por-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.6,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.75,
+          "ref": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.35,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Fundaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.427Z",
+      "id": "wi-ar-zapata-de-hormigon-pobre-de-cascotes-154-kg-m3-de-cemento-de",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 173330.94
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 183089.4
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 243495.1
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 258805.06
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-zapata-de-hormigon-pobre-de-cascotes-154-kg-m3-de-cemento-de",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Zapata de hormigón pobre de cascotes, 154 kg/m3 de cemento de albañilería",
+      "tags": [
+        "fundaciones"
+      ],
+      "text": "Zapata de hormigón pobre de cascotes, 154 kg/m3 de cemento de albañilería. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CIM-004, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.675Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-0f291a30f89481ea"
+        ],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.3,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 6.49,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 220,
+          "ref": "mt-ar-cemento-de-albanileria-en-bolsa-de-30-kg-por-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.43,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.83,
+          "ref": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.35,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Fundaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.427Z",
+      "id": "wi-ar-zapata-de-hormigon-pobre-de-cascotes-220-kg-m3-de-cemento-de",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 185791.88
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 195550.34
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 255956.04
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 271266
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-zapata-de-hormigon-pobre-de-cascotes-220-kg-m3-de-cemento-de",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Zapata de hormigón pobre de cascotes, 220 kg/m3 de cemento de albañilería",
+      "tags": [
+        "fundaciones"
+      ],
+      "text": "Zapata de hormigón pobre de cascotes, 220 kg/m3 de cemento de albañilería. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CIM-003, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.676Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.3,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 6.49,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.7,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 79,
+          "ref": "mt-ar-cal-hidraulica-en-polvo-por-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.42,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.82,
+          "ref": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.35,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Fundaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.427Z",
+      "id": "wi-ar-zapata-de-hormigon-pobre-de-cascotes-con-cal-135-kg-de-cemen",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 187729.54
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 197488
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 257893.69
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 273203.65
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-zapata-de-hormigon-pobre-de-cascotes-con-cal-135-kg-de-cemen",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Zapata de hormigón pobre de cascotes con cal, 135 kg de cemento por m3",
+      "tags": [
+        "fundaciones"
+      ],
+      "text": "Zapata de hormigón pobre de cascotes con cal, 135 kg de cemento por m3. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CIM-002, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.676Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-bd45f62b902be3d7"
+        ],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.3,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 6.49,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.84,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 80,
+          "ref": "mt-ar-cal-hidraulica-en-polvo-por-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.43,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.84,
+          "ref": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.35,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Fundaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.427Z",
+      "id": "wi-ar-zapata-de-hormigon-pobre-de-cascotes-con-cal-92-kg-de-cement",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 177163.94
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 186922.4
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 247328.1
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 262638.06
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-zapata-de-hormigon-pobre-de-cascotes-con-cal-92-kg-de-cement",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Zapata de hormigón pobre de cascotes con cal, 92 kg de cemento por m3",
+      "tags": [
+        "fundaciones"
+      ],
+      "text": "Zapata de hormigón pobre de cascotes con cal, 92 kg de cemento por m3. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CIM-001, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.677Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.55,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 6.2,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 6.8,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.57,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.86,
+          "ref": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.35,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Fundaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.427Z",
+      "id": "wi-ar-zapata-de-hormigon-simple-prof-1-50-m-elaborado-en-hormigone",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 263642.76
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 273392.05
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 333307.26
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 349158.62
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-zapata-de-hormigon-simple-prof-1-50-m-elaborado-en-hormigone",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Zapata de hormigón simple, prof.=1,50 m-elaborado en hormigonera",
+      "tags": [
+        "fundaciones"
+      ],
+      "text": "Zapata de hormigón simple, prof.=1,50 m-elaborado en hormigonera. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CIM-005, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.678Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 4.4,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 5.85,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.24,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 84,
+          "ref": "mt-ar-cemento-de-albanileria-en-bolsa-de-30-kg-por-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.38,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 370,
+          "ref": "mt-ar-ladrillo-comun-de-tierra-cocida-25x12x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.9,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Fundaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.427Z",
+      "id": "wi-ar-zapata-de-mamposteria-ladrillos-comunes-con-cemento-de-alban",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 257407.09
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 270676.03
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 348267.93
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 374909.12
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-zapata-de-mamposteria-ladrillos-comunes-con-cemento-de-alban",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Zapata de mampostería ladrillos comunes, con cemento de albañilería",
+      "tags": [
+        "fundaciones"
+      ],
+      "text": "Zapata de mampostería ladrillos comunes, con cemento de albañilería. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CIM-008, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.678Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 4.4,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 5.85,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.72,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 82,
+          "ref": "mt-ar-cal-hidraulica-en-polvo-por-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.36,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 370,
+          "ref": "mt-ar-ladrillo-comun-de-tierra-cocida-25x12x5-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.9,
+          "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+          "role": "machinery"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Fundaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-10-06T23:05:08.427Z",
+      "id": "wi-ar-zapata-de-mamposteria-ladrillos-comunes-mezcla-1-4-1-3",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 263604.65
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 276873.59
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 354465.5
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-10",
+          "edition": "2026-10",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 381106.68
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-zapata-de-mamposteria-ladrillos-comunes-mezcla-1-4-1-3",
+          "edition": "2026-10",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Zapata de mampostería ladrillos comunes, mezcla: 1/4 : 1 : 3",
+      "tags": [
+        "fundaciones"
+      ],
+      "text": "Zapata de mampostería ladrillos comunes, mezcla: 1/4 : 1 : 3. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CIM-007, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "unit": "m3",
+      "updatedAt": "2026-10-06T23:05:18.679Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.6.0"
+}

@@ -66,6 +66,14 @@
     },
     {
       "c": "",
+      "i": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
+      "k": "machinery",
+      "p": 1100,
+      "s": "Equipos y herramientas menores (por hora de uso)",
+      "u": "h"
+    },
+    {
+      "c": "",
       "i": "mq-ar-hormigonera-de-130-litros-en-alquiler",
       "k": "machinery",
       "p": 12396.69,
@@ -90,6 +98,14 @@
     },
     {
       "c": "",
+      "i": "mq-ar-motoniveladora-de-120-hp-con-operador-en-alquiler-por-hora",
+      "k": "machinery",
+      "p": 112500,
+      "s": "Motoniveladora de 120 HP con operador en alquiler por hora",
+      "u": "h"
+    },
+    {
+      "c": "",
       "i": "mq-ar-plancha-vibratoria-compactadora-en-alquiler",
       "k": "machinery",
       "p": 57851.24,
@@ -100,9 +116,25 @@
       "c": "",
       "i": "mq-ar-retroexcavadora-con-pala-cargadora-en-alquiler",
       "k": "machinery",
-      "p": null,
+      "p": 500000,
       "s": "Retroexcavadora con pala cargadora en alquiler",
       "u": "d"
+    },
+    {
+      "c": "",
+      "i": "mq-ar-rodillo-compactador-combinado-de-14-t-con-operador-en-alquil",
+      "k": "machinery",
+      "p": 84375,
+      "s": "Rodillo compactador combinado de 14 t con operador en alquiler por hora",
+      "u": "h"
+    },
+    {
+      "c": "",
+      "i": "mq-ar-rodillo-pata-de-cabra-con-operador-en-alquiler-por-hora",
+      "k": "machinery",
+      "p": 78750,
+      "s": "Rodillo pata de cabra con operador en alquiler por hora",
+      "u": "h"
     },
     {
       "c": "",
@@ -130,6 +162,38 @@
     },
     {
       "c": "",
+      "i": "mt-ar-accesorios-de-ajuste-para-alambre-romboidal",
+      "k": "material",
+      "p": 623.03,
+      "s": "Accesorios de ajuste para alambre romboidal",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-acero-de-construccion-en-barras",
+      "k": "material",
+      "p": 2425.83,
+      "s": "Acero de construcción en barras",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-acero-liso-en-barras-por-kg",
+      "k": "material",
+      "p": 2573.54,
+      "s": "Acero liso en barras (por kg)",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-adhesivo-cementicio-impermeable-para-ceramicos-por-kg",
+      "k": "material",
+      "p": 628.2,
+      "s": "Adhesivo cementicio impermeable para cerámicos (por kg)",
+      "u": "kg"
+    },
+    {
+      "c": "",
       "i": "mt-ar-adhesivo-impermeable-para-ceramicos-en-bolsa-de-30-kg",
       "k": "material",
       "p": 23365.29,
@@ -138,25 +202,153 @@
     },
     {
       "c": "",
+      "i": "mt-ar-adhesivo-para-placas-aislantes",
+      "k": "material",
+      "p": 1491.27,
+      "s": "Adhesivo para placas aislantes",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-adhesivo-para-placas-de-yeso",
+      "k": "material",
+      "p": 974.79,
+      "s": "Adhesivo para placas de yeso",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-adhesivo-para-revoque",
+      "k": "material",
+      "p": 10355,
+      "s": "Adhesivo para revoque",
+      "u": "l"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-aditivo-para-contrapiso",
+      "k": "material",
+      "p": 7858.84,
+      "s": "Aditivo para contrapiso",
+      "u": "l"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-adoquin-de-porfido-10x10-cm-por-kg",
+      "k": "material",
+      "p": 721.38,
+      "s": "Adoquín de pórfido 10x10 cm (por kg)",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-aireador-para-tanque-de-agua",
+      "k": "material",
+      "p": 2892.56,
+      "s": "Aireador para tanque de agua",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-alambre-de-puas-16-127",
+      "k": "material",
+      "p": 6108.11,
+      "s": "Alambre de púas 16/127",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-alambre-galvanizado-14-16",
+      "k": "material",
+      "p": 156.41,
+      "s": "Alambre galvanizado 14/16",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-alambre-galvanizado-n-14",
+      "k": "material",
+      "p": 138.59,
+      "s": "Alambre galvanizado Nº 14",
+      "u": "m"
+    },
+    {
+      "c": "",
       "i": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
       "k": "material",
-      "p": 3825.52,
+      "p": 5202.48,
       "s": "Alambre recocido Nº 16 para atado de armaduras",
       "u": "kg"
     },
     {
       "c": "",
+      "i": "mt-ar-alambre-tejido-romboidal",
+      "k": "material",
+      "p": 5287.88,
+      "s": "Alambre tejido romboidal",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-alfajia-de-pino-de-1x3-pulgadas",
+      "k": "material",
+      "p": 2345.89,
+      "s": "Alfajía de pino de 1x3 pulgadas",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-amortizacion-de-madera-de-encofrado",
+      "k": "material",
+      "p": 2708.02,
+      "s": "Amortización de madera de encofrado",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-amortizacion-de-malla-de-acero-soldada-15x15-cm-para-cerco-d",
+      "k": "material",
+      "p": 583.31,
+      "s": "Amortización de malla de acero soldada 15x15 cm para cerco de obra",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-amortizacion-de-poste-de-madera-3x3-pulgadas-para-cerco-de-o",
+      "k": "material",
+      "p": 1446.17,
+      "s": "Amortización de poste de madera 3x3 pulgadas para cerco de obra",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-amortizacion-de-tablero-de-1-22-x-2-44-m-para-cerco-de-obra",
+      "k": "material",
+      "p": 4277.98,
+      "s": "Amortización de tablero de 1,22 x 2,44 m para cerco de obra",
+      "u": "m2"
+    },
+    {
+      "c": "",
       "i": "mt-ar-antioxido-al-cromato-en-lata-de-4-l",
       "k": "material",
-      "p": 47649.59,
+      "p": 48580.16,
       "s": "Antióxido al cromato en lata de 4 l",
       "u": "u"
     },
     {
       "c": "",
+      "i": "mt-ar-arcilla-expandida-a-granel",
+      "k": "material",
+      "p": null,
+      "s": "Arcilla expandida a granel",
+      "u": "m3"
+    },
+    {
+      "c": "",
       "i": "mt-ar-arena-fina-a-granel",
       "k": "material",
-      "p": 36730.58,
+      "p": 37346.28,
       "s": "Arena fina a granel",
       "u": "m3"
     },
@@ -170,11 +362,35 @@
     },
     {
       "c": "",
+      "i": "mt-ar-arena-mediana-a-granel",
+      "k": "material",
+      "p": 39337.92,
+      "s": "Arena mediana a granel",
+      "u": "m3"
+    },
+    {
+      "c": "",
       "i": "mt-ar-arnes-de-seguridad-de-cuerpo-completo",
       "k": "material",
       "p": 74090.91,
       "s": "Arnés de seguridad de cuerpo completo",
       "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-asfalto-en-panes",
+      "k": "material",
+      "p": 3069.5,
+      "s": "Asfalto en panes",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-azulejo-15x15-cm",
+      "k": "material",
+      "p": 30496,
+      "s": "Azulejo 15x15 cm",
+      "u": "m2"
     },
     {
       "c": "",
@@ -202,6 +418,14 @@
     },
     {
       "c": "",
+      "i": "mt-ar-base-de-apoyo-para-tanque-de-agua",
+      "k": "material",
+      "p": 51838,
+      "s": "Base de apoyo para tanque de agua",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-ar-bide-de-loza-de-tres-agujeros",
       "k": "material",
       "p": null,
@@ -210,10 +434,26 @@
     },
     {
       "c": "",
+      "i": "mt-ar-bloque-de-hormigon-10x20x40-cm",
+      "k": "material",
+      "p": 983.47,
+      "s": "Bloque de hormigón 10x20x40 cm",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-ar-bloque-de-hormigon-13x19x39-cm",
       "k": "material",
       "p": null,
       "s": "Bloque de hormigón 13x19x39 cm",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-bloque-de-hormigon-15x20x40-cm",
+      "k": "material",
+      "p": 1561.98,
+      "s": "Bloque de hormigón 15x20x40 cm",
       "u": "u"
     },
     {
@@ -239,6 +479,94 @@
       "p": 3950.41,
       "s": "Bloque de poliestireno expandido para losa de 12 cm",
       "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-bovedilla-ceramica-12-5x25x42-cm",
+      "k": "material",
+      "p": 1917.6,
+      "s": "Bovedilla cerámica 12,5x25x42 cm",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-bovedilla-ceramica-de-9-cm",
+      "k": "material",
+      "p": 1619.01,
+      "s": "Bovedilla cerámica de 9 cm",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-bovedilla-de-poliestireno-expandido-12-5-x-100-x-50-cm",
+      "k": "material",
+      "p": 4792.56,
+      "s": "Bovedilla de poliestireno expandido 12,5 x 100 x 50 cm",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-bovedilla-de-poliestireno-expandido-de-16-5-cm",
+      "k": "material",
+      "p": 5446.28,
+      "s": "Bovedilla de poliestireno expandido de 16,5 cm",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-brea-en-panes",
+      "k": "material",
+      "p": 3069.5,
+      "s": "Brea en panes",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-brida-para-colector-de-polipropileno-de-1-pulgada",
+      "k": "material",
+      "p": 4901,
+      "s": "Brida para colector de polipropileno de 1 pulgada",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-bulon",
+      "k": "material",
+      "p": 833.33,
+      "s": "Bulón",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-bulon-de-4-pulgadas",
+      "k": "material",
+      "p": 662.4,
+      "s": "Bulón de 4 pulgadas",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-bulon-gancho",
+      "k": "material",
+      "p": 1011.67,
+      "s": "Bulón gancho",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-bulon-para-puntales",
+      "k": "material",
+      "p": 1738,
+      "s": "Bulón para puntales",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-bulones-y-herrajes-por-kg",
+      "k": "material",
+      "p": 18677.27,
+      "s": "Bulones y herrajes (por kg)",
+      "u": "kg"
     },
     {
       "c": "",
@@ -284,9 +612,25 @@
       "c": "",
       "i": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
       "k": "material",
-      "p": 5681.82,
+      "p": 6517.25,
       "s": "Cal hidratada en bolsa de 25 kg",
       "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-cal-hidraulica-en-polvo-por-kg",
+      "k": "material",
+      "p": 261.8,
+      "s": "Cal hidráulica en polvo (por kg)",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-cal-vial-util",
+      "k": "material",
+      "p": 247.05,
+      "s": "Cal vial útil",
+      "u": "kg"
     },
     {
       "c": "",
@@ -364,7 +708,7 @@
       "c": "",
       "i": "mt-ar-cano-de-pvc-3-2-cloacal-de-110-mm-en-barra-de-4-m",
       "k": "material",
-      "p": 34709.92,
+      "p": 24048,
       "s": "Caño de PVC 3,2 cloacal de ø110 mm en barra de 4 m",
       "u": "u"
     },
@@ -386,6 +730,30 @@
     },
     {
       "c": "",
+      "i": "mt-ar-cano-de-termofusion-para-gas-de-1-2-pulgada",
+      "k": "material",
+      "p": 5202,
+      "s": "Caño de termofusión para gas de 1/2 pulgada",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-cano-de-termofusion-para-gas-de-1-pulgada",
+      "k": "material",
+      "p": 10282,
+      "s": "Caño de termofusión para gas de 1 pulgada",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-cano-de-termofusion-para-gas-de-3-4-pulgada",
+      "k": "material",
+      "p": 5236,
+      "s": "Caño de termofusión para gas de 3/4 pulgada",
+      "u": "m"
+    },
+    {
+      "c": "",
       "i": "mt-ar-cano-estructural-cuadrado-de-100x100x3-2-mm-en-barra-de-6-m",
       "k": "material",
       "p": 134144.63,
@@ -399,6 +767,14 @@
       "p": 34819.83,
       "s": "Caño estructural cuadrado de 40x40x2 mm en barra de 6 m",
       "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-cano-tritubo-de-40-mm-para-fibra-optica",
+      "k": "material",
+      "p": 3596,
+      "s": "Caño tritubo de 40 mm para fibra óptica",
+      "u": "m"
     },
     {
       "c": "",
@@ -428,17 +804,33 @@
       "c": "",
       "i": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
       "k": "material",
-      "p": 26158.68,
+      "p": 32081.82,
       "s": "Cascote de ladrillo triturado a granel",
       "u": "m3"
     },
     {
       "c": "",
+      "i": "mt-ar-cemento-de-albanileria-en-bolsa-de-30-kg-por-kg",
+      "k": "material",
+      "p": 251.24,
+      "s": "Cemento de albañilería en bolsa de 30 kg (por kg)",
+      "u": "kg"
+    },
+    {
+      "c": "",
       "i": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
       "k": "material",
-      "p": 11487.6,
+      "p": 13793.5,
       "s": "Cemento portland compuesto CPC40 en bolsa de 50 kg",
       "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-cemento-refractario-por-kg",
+      "k": "material",
+      "p": 2892.56,
+      "s": "Cemento refractario (por kg)",
+      "u": "kg"
     },
     {
       "c": "",
@@ -460,8 +852,16 @@
       "c": "",
       "i": "mt-ar-ceramico-esmaltado-para-piso-51x51-cm",
       "k": "material",
-      "p": 8240.5,
+      "p": 9075,
       "s": "Cerámico esmaltado para piso 51x51 cm",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-chapa-acanalada-galvanizada-calibre-24-por-m2",
+      "k": "material",
+      "p": 15405.24,
+      "s": "Chapa acanalada galvanizada calibre 24 (por m2)",
       "u": "m2"
     },
     {
@@ -479,6 +879,14 @@
       "p": null,
       "s": "Chapa sinusoidal galvanizada Nº 25",
       "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-chapa-trapezoidal-cincalum-de-3-m",
+      "k": "material",
+      "p": 41975.21,
+      "s": "Chapa trapezoidal cincalum de 3 m",
+      "u": "u"
     },
     {
       "c": "",
@@ -506,10 +914,82 @@
     },
     {
       "c": "",
+      "i": "mt-ar-clavadera-de-pino-de-2x2-pulgadas",
+      "k": "material",
+      "p": 2232.08,
+      "s": "Clavadera de pino de 2x2 pulgadas",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-clavos-cabeza-de-plomo",
+      "k": "material",
+      "p": 9115.7,
+      "s": "Clavos cabeza de plomo",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-clavos-de-5-pulgadas",
+      "k": "material",
+      "p": 5684.3,
+      "s": "Clavos de 5 pulgadas",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-clavos-de-cobre",
+      "k": "material",
+      "p": 148105.82,
+      "s": "Clavos de cobre",
+      "u": "kg"
+    },
+    {
+      "c": "",
       "i": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
       "k": "material",
-      "p": 6941.32,
+      "p": 4954.55,
       "s": "Clavos de punta París de 2 pulgadas",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-clavos-y-alambre-para-encofrado",
+      "k": "material",
+      "p": 5078.51,
+      "s": "Clavos y alambre para encofrado",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-codo-de-termofusion-para-gas-de-1-2-pulgada",
+      "k": "material",
+      "p": 3060,
+      "s": "Codo de termofusión para gas de 1/2 pulgada",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-codo-de-termofusion-para-gas-de-1-pulgada",
+      "k": "material",
+      "p": 4353,
+      "s": "Codo de termofusión para gas de 1 pulgada",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-codo-de-termofusion-para-gas-de-3-4-pulgada",
+      "k": "material",
+      "p": 2795,
+      "s": "Codo de termofusión para gas de 3/4 pulgada",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-concreto-asfaltico-de-planta",
+      "k": "material",
+      "p": 264.46,
+      "s": "Concreto asfáltico de planta",
       "u": "kg"
     },
     {
@@ -519,6 +999,30 @@
       "p": 65780.99,
       "s": "Convertidor de óxido en lata de 4 litros",
       "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-corte-y-doblado-de-hierro",
+      "k": "material",
+      "p": 1026.23,
+      "s": "Corte y doblado de hierro",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-cuna-de-madera",
+      "k": "material",
+      "p": 350.41,
+      "s": "Cuña de madera",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-desencofrante-para-madera",
+      "k": "material",
+      "p": 6626.86,
+      "s": "Desencofrante para madera",
+      "u": "l"
     },
     {
       "c": "",
@@ -554,6 +1058,14 @@
     },
     {
       "c": "",
+      "i": "mt-ar-emulsionante-para-hormigon-liviano",
+      "k": "material",
+      "p": 8359.66,
+      "s": "Emulsionante para hormigón liviano",
+      "u": "l"
+    },
+    {
+      "c": "",
       "i": "mt-ar-enduido-plastico-interior-en-balde-de-25-kg",
       "k": "material",
       "p": 44190.08,
@@ -564,8 +1076,32 @@
       "c": "",
       "i": "mt-ar-esmalte-sintetico-brillante-en-lata-de-4-litros",
       "k": "material",
-      "p": 63843.8,
+      "p": 66033.04,
       "s": "Esmalte sintético brillante en lata de 4 litros",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-ferrite-oxido-de-hierro-pigmento-en-bolsa-de-20-kg",
+      "k": "material",
+      "p": 74876.03,
+      "s": "Ferrite óxido de hierro pigmento en bolsa de 20 kg",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-fieltro-asfaltico",
+      "k": "material",
+      "p": 723.97,
+      "s": "Fieltro asfáltico",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-fijacion-de-tornillo-y-taco",
+      "k": "material",
+      "p": 337.31,
+      "s": "Fijación de tornillo y taco",
       "u": "u"
     },
     {
@@ -586,6 +1122,14 @@
     },
     {
       "c": "",
+      "i": "mt-ar-flotante-mecanico-para-tanque-de-agua",
+      "k": "material",
+      "p": 16198,
+      "s": "Flotante mecánico para tanque de agua",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-ar-gabinete-para-medidor-y-regulador-de-gas",
       "k": "material",
       "p": 51121.49,
@@ -599,6 +1143,22 @@
       "p": 16257.02,
       "s": "Gabinete para tablero seccional de 12 módulos",
       "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-gas-butano-para-soplete",
+      "k": "material",
+      "p": 2769,
+      "s": "Gas butano para soplete",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-granito-natural-gris-mara",
+      "k": "material",
+      "p": 162397,
+      "s": "Granito natural gris mara",
+      "u": "m2"
     },
     {
       "c": "",
@@ -618,10 +1178,34 @@
     },
     {
       "c": "",
+      "i": "mt-ar-guarda-ceramica-de-6-cm",
+      "k": "material",
+      "p": 10508.26,
+      "s": "Guarda cerámica de 6 cm",
+      "u": "m"
+    },
+    {
+      "c": "",
       "i": "mt-ar-hidrofugo-inorganico-en-bidon-de-10-l",
       "k": "material",
       "p": 23396.28,
       "s": "Hidrófugo inorgánico en bidón de 10 l",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-hidrofugo-inorganico-en-tambor-de-200-kg",
+      "k": "material",
+      "p": 231213.31,
+      "s": "Hidrófugo inorgánico en tambor de 200 kg",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-hierro-liso-diametro-12-mm-en-barra-de-12-m",
+      "k": "material",
+      "p": 26470,
+      "s": "Hierro liso diámetro 12 mm en barra de 12 m",
       "u": "u"
     },
     {
@@ -682,6 +1266,14 @@
     },
     {
       "c": "",
+      "i": "mt-ar-hierro-nervurado-diametro-10-mm-en-barra-de-12-m-marca-acind",
+      "k": "material",
+      "p": 16685.08,
+      "s": "Hierro nervurado diámetro 10 mm en barra de 12 m (marca Acindar)",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-ar-hormigon-elaborado-h-17-puesto-en-obra",
       "k": "material",
       "p": 166628.5,
@@ -700,7 +1292,7 @@
       "c": "",
       "i": "mt-ar-hormigon-elaborado-h-21-puesto-en-obra",
       "k": "material",
-      "p": 172706.5,
+      "p": 185199.38,
       "s": "Hormigón elaborado H-21 puesto en obra",
       "u": "m3"
     },
@@ -732,9 +1324,25 @@
       "c": "",
       "i": "mt-ar-imprimacion-asfaltica-en-balde-de-20-l",
       "k": "material",
-      "p": 123206.61,
+      "p": 100137.8,
       "s": "Imprimación asfáltica en balde de 20 l",
       "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-imprimacion-para-juntas",
+      "k": "material",
+      "p": 5006.89,
+      "s": "Imprimación para juntas",
+      "u": "l"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-incorporador-de-aire",
+      "k": "material",
+      "p": 7058.85,
+      "s": "Incorporador de aire",
+      "u": "l"
     },
     {
       "c": "",
@@ -758,6 +1366,14 @@
       "k": "material",
       "p": 9093.39,
       "s": "Interruptor termomagnético bipolar de 16 A",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-juego-de-tarugo-y-tornillo-para-piso-de-madera",
+      "k": "material",
+      "p": 173.06,
+      "s": "Juego de tarugo y tornillo para piso de madera",
       "u": "u"
     },
     {
@@ -788,8 +1404,16 @@
       "c": "",
       "i": "mt-ar-ladrillo-comun-de-tierra-cocida-25x12x5-cm",
       "k": "material",
-      "p": 226.45,
+      "p": 269,
       "s": "Ladrillo común de tierra cocida 25x12x5 cm",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-ladrillo-de-maquina",
+      "k": "material",
+      "p": 408.3,
+      "s": "Ladrillo de máquina",
       "u": "u"
     },
     {
@@ -818,11 +1442,75 @@
     },
     {
       "c": "",
+      "i": "mt-ar-ladrillo-refractario",
+      "k": "material",
+      "p": 3255,
+      "s": "Ladrillo refractario",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-ladrillo-semivista",
+      "k": "material",
+      "p": 315.99,
+      "s": "Ladrillo semivista",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-laja-de-piedra-irregular",
+      "k": "material",
+      "p": 391.94,
+      "s": "Laja de piedra irregular",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-lana-de-vidrio-de-50-mm-en-rollo-de-1-20-x-18-m",
+      "k": "material",
+      "p": 142288.43,
+      "s": "Lana de vidrio de 50 mm en rollo de 1,20 x 18 m",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-ar-lavatorio-de-loza-con-pie",
       "k": "material",
       "p": 120838.84,
       "s": "Lavatorio de loza con pie",
       "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-liston-caballete-para-teja-de-1-x-3-1-2-pulgadas",
+      "k": "material",
+      "p": 2198.21,
+      "s": "Listón caballete para teja de 1 x 3 1/2 pulgadas",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-liston-cepillado-de-1-x-1-1-2-pulgadas",
+      "k": "material",
+      "p": 2216.84,
+      "s": "Listón cepillado de 1 x 1 1/2 pulgadas",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-liston-de-1-2-x-1-pulgada",
+      "k": "material",
+      "p": 775.64,
+      "s": "Listón de 1/2 x 1 pulgada",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-liston-de-saligna-de-2x3-pulgadas",
+      "k": "material",
+      "p": 4238.97,
+      "s": "Listón de saligna de 2x3 pulgadas",
+      "u": "m"
     },
     {
       "c": "",
@@ -850,10 +1538,74 @@
     },
     {
       "c": "",
+      "i": "mt-ar-losa-premoldeada-de-hormigon-con-alma-de-poliestireno",
+      "k": "material",
+      "p": 9360.42,
+      "s": "Losa premoldeada de hormigón con alma de poliestireno",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-machimbre-cepillado-de-3-4-x-4-pulgadas",
+      "k": "material",
+      "p": 11633.82,
+      "s": "Machimbre cepillado de 3/4 x 4 pulgadas",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-machimbre-de-1x4-pulgadas",
+      "k": "material",
+      "p": 10867.77,
+      "s": "Machimbre de 1x4 pulgadas",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-machimbre-de-1x5-pulgadas",
+      "k": "material",
+      "p": 14640.92,
+      "s": "Machimbre de 1x5 pulgadas",
+      "u": "m2"
+    },
+    {
+      "c": "",
       "i": "mt-ar-machimbre-de-pino-comercial-de-1-2-pulgada",
       "k": "material",
       "p": 6898.35,
       "s": "Machimbre de pino comercial de 1/2 pulgada",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-machimbre-de-pino-de-3-4-x-5-pulgadas",
+      "k": "material",
+      "p": 9801.82,
+      "s": "Machimbre de pino de 3/4 x 5 pulgadas",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-madera-cepillada-de-1x2-pulgadas-con-nariz",
+      "k": "material",
+      "p": 1114.35,
+      "s": "Madera cepillada de 1x2 pulgadas con nariz",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-malla-de-acero-soldada-4-2-mm-15x15-cm",
+      "k": "material",
+      "p": 3564.65,
+      "s": "Malla de acero soldada ø 4,2 mm 15x15 cm",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-malla-de-acero-soldada-8-mm-15x15-cm",
+      "k": "material",
+      "p": 15068.26,
+      "s": "Malla de acero soldada ø 8 mm 15x15 cm",
       "u": "m2"
     },
     {
@@ -882,6 +1634,22 @@
     },
     {
       "c": "",
+      "i": "mt-ar-malla-de-advertencia-de-0-30-m",
+      "k": "material",
+      "p": 892.15,
+      "s": "Malla de advertencia de 0,30 m",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-malla-de-fibra-sintetica",
+      "k": "material",
+      "p": 1170.24,
+      "s": "Malla de fibra sintética",
+      "u": "m2"
+    },
+    {
+      "c": "",
       "i": "mt-ar-malla-electrosoldada-q131-en-pano-de-2-40-x-6-00-m",
       "k": "material",
       "p": 63590.08,
@@ -892,8 +1660,16 @@
       "c": "",
       "i": "mt-ar-malla-electrosoldada-q188-en-pano-de-2-40-x-6-00-m",
       "k": "material",
-      "p": 96301.65,
+      "p": 118042,
       "s": "Malla electrosoldada Q188 en paño de 2,40 x 6,00 m",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-masilla-para-juntas-de-placa-de-roca-de-yeso-en-balde-de-18",
+      "k": "material",
+      "p": 26155,
+      "s": "Masilla para juntas de placa de roca de yeso en balde de 18 kg",
       "u": "u"
     },
     {
@@ -911,6 +1687,14 @@
       "p": 104132.23,
       "s": "Matafuego de polvo ABC de 5 kg con carga y oblea",
       "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-media-cana-de-borde-de-1x1-pulgada",
+      "k": "material",
+      "p": 1207.49,
+      "s": "Media caña de borde de 1x1 pulgada",
+      "u": "m"
     },
     {
       "c": "",
@@ -938,6 +1722,14 @@
     },
     {
       "c": "",
+      "i": "mt-ar-membrana-de-curado-para-hormigon-en-tambor-de-200-l",
+      "k": "material",
+      "p": 1033057.85,
+      "s": "Membrana de curado para hormigón en tambor de 200 l",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-ar-membrana-liquida-acrilica-en-balde-de-20-kg",
       "k": "material",
       "p": null,
@@ -946,11 +1738,51 @@
     },
     {
       "c": "",
+      "i": "mt-ar-metal-desplegado-en-plancha-de-0-70-x-2-00-m",
+      "k": "material",
+      "p": 3239.34,
+      "s": "Metal desplegado en plancha de 0,70 x 2,00 m",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-mosaico-calcareo-20x20-cm",
+      "k": "material",
+      "p": 14462.81,
+      "s": "Mosaico calcáreo 20x20 cm",
+      "u": "m2"
+    },
+    {
+      "c": "",
       "i": "mt-ar-mosaico-granitico-30x30-cm",
       "k": "material",
       "p": 24297.52,
       "s": "Mosaico granítico 30x30 cm",
       "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-niple-de-termofusion-para-gas-de-1-2-pulgada",
+      "k": "material",
+      "p": 1865,
+      "s": "Niple de termofusión para gas de 1/2 pulgada",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-niple-de-termofusion-para-gas-de-1-pulgada",
+      "k": "material",
+      "p": 2401,
+      "s": "Niple de termofusión para gas de 1 pulgada",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-niple-de-termofusion-para-gas-de-3-4-pulgada",
+      "k": "material",
+      "p": 2077,
+      "s": "Niple de termofusión para gas de 3/4 pulgada",
+      "u": "u"
     },
     {
       "c": "",
@@ -964,9 +1796,17 @@
       "c": "",
       "i": "mt-ar-pastina-para-juntas",
       "k": "material",
-      "p": 3140.5,
+      "p": 4040,
       "s": "Pastina para juntas",
       "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-perfil-c-de-100x45x10x2-mm-por-metro",
+      "k": "material",
+      "p": 9187.33,
+      "s": "Perfil C de 100x45x10x2 mm (por metro)",
+      "u": "m"
     },
     {
       "c": "",
@@ -975,6 +1815,14 @@
       "p": 105907.44,
       "s": "Perfil C galvanizado de 100x50x15x2 mm en barra de 12 m",
       "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-perfil-c-galvanizado-de-120x50x15x2-mm-por-metro",
+      "k": "material",
+      "p": 9476.58,
+      "s": "Perfil C galvanizado de 120x50x15x2 mm (por metro)",
+      "u": "m"
     },
     {
       "c": "",
@@ -1010,6 +1858,14 @@
     },
     {
       "c": "",
+      "i": "mt-ar-perfil-larguero-para-cielorraso-desmontable",
+      "k": "material",
+      "p": 1457.12,
+      "s": "Perfil larguero para cielorraso desmontable",
+      "u": "m"
+    },
+    {
+      "c": "",
       "i": "mt-ar-perfil-montante-de-34-mm-para-cielorraso",
       "k": "material",
       "p": 1373.55,
@@ -1020,8 +1876,32 @@
       "c": "",
       "i": "mt-ar-perfil-montante-de-69-mm-para-tabique",
       "k": "material",
-      "p": 1773.55,
+      "p": 2067.5,
       "s": "Perfil montante de 69 mm para tabique",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-perfil-omega",
+      "k": "material",
+      "p": 1333.44,
+      "s": "Perfil omega",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-perfil-perimetral-para-cielorraso",
+      "k": "material",
+      "p": 907.19,
+      "s": "Perfil perimetral para cielorraso",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-perfil-portador-para-cielorraso",
+      "k": "material",
+      "p": 1555.94,
+      "s": "Perfil portador para cielorraso",
       "u": "m"
     },
     {
@@ -1036,8 +1916,16 @@
       "c": "",
       "i": "mt-ar-perfil-solera-de-70-mm-para-tabique",
       "k": "material",
-      "p": 1590.91,
+      "p": 1843,
       "s": "Perfil solera de 70 mm para tabique",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-perfil-travesano-para-cielorraso-desmontable",
+      "k": "material",
+      "p": 1534.01,
+      "s": "Perfil travesaño para cielorraso desmontable",
       "u": "m"
     },
     {
@@ -1058,9 +1946,49 @@
     },
     {
       "c": "",
+      "i": "mt-ar-perfiles-de-chapa-galvanizada-por-kg",
+      "k": "material",
+      "p": 2849.39,
+      "s": "Perfiles de chapa galvanizada (por kg)",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-perfiles-y-angulos-de-acero",
+      "k": "material",
+      "p": 2562.96,
+      "s": "Perfiles y ángulos de acero",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-perlas-de-poliestireno-expandido-por-kg",
+      "k": "material",
+      "p": 12455.93,
+      "s": "Perlas de poliestireno expandido (por kg)",
+      "u": "kg"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-perlita-expandida",
+      "k": "material",
+      "p": 191018,
+      "s": "Perlita expandida",
+      "u": "m3"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-piedra-natural-para-zocalo",
+      "k": "material",
+      "p": 1183.91,
+      "s": "Piedra natural para zócalo",
+      "u": "kg"
+    },
+    {
+      "c": "",
       "i": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
       "k": "material",
-      "p": 71567.77,
+      "p": 70240.5,
       "s": "Piedra partida 6 a 20 mm a granel",
       "u": "m3"
     },
@@ -1079,6 +2007,14 @@
       "p": 18925.62,
       "s": "Pileta de patio abierta de 20x20 cm",
       "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-pintura-asfaltica-base-solvente-por-litro",
+      "k": "material",
+      "p": 6267.68,
+      "s": "Pintura asfáltica base solvente (por litro)",
+      "u": "l"
     },
     {
       "c": "",
@@ -1106,9 +2042,25 @@
     },
     {
       "c": "",
+      "i": "mt-ar-placa-de-cielorraso-de-0-61-x-1-21-m",
+      "k": "material",
+      "p": 6620,
+      "s": "Placa de cielorraso de 0,61 x 1,21 m",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-placa-de-cielorraso-desmontable-de-0-61-x-0-61-m",
+      "k": "material",
+      "p": 9240.92,
+      "s": "Placa de cielorraso desmontable de 0,61 x 0,61 m",
+      "u": "m2"
+    },
+    {
+      "c": "",
       "i": "mt-ar-placa-de-fenolico-de-18-mm-de-1-22-x-2-44-m",
       "k": "material",
-      "p": 45551.86,
+      "p": 38100.87,
       "s": "Placa de fenólico de 18 mm de 1,22 x 2,44 m",
       "u": "u"
     },
@@ -1124,7 +2076,7 @@
       "c": "",
       "i": "mt-ar-placa-de-roca-de-yeso-estandar-de-12-5-mm-de-1-20-x-2-40-m",
       "k": "material",
-      "p": 13801.65,
+      "p": 16010,
       "s": "Placa de roca de yeso estándar de 12,5 mm de 1,20 x 2,40 m",
       "u": "u"
     },
@@ -1138,11 +2090,51 @@
     },
     {
       "c": "",
+      "i": "mt-ar-placa-osb-de-18-mm",
+      "k": "material",
+      "p": 20042,
+      "s": "Placa OSB de 18 mm",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-plancha-de-poliestireno-expandido-de-2-5-cm",
+      "k": "material",
+      "p": 3645,
+      "s": "Plancha de poliestireno expandido de 2,5 cm",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-planchuela-de-acero-de-1-x-3-16-pulgadas",
+      "k": "material",
+      "p": 2146.01,
+      "s": "Planchuela de acero de 1 x 3/16 pulgadas",
+      "u": "m"
+    },
+    {
+      "c": "",
       "i": "mt-ar-porcelanato-esmaltado-60x60-cm",
       "k": "material",
       "p": 27506.61,
       "s": "Porcelanato esmaltado 60x60 cm",
       "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-poste-de-hormigon-pretensado-para-cerco",
+      "k": "material",
+      "p": 25208.09,
+      "s": "Poste de hormigón pretensado para cerco",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-poste-de-refuerzo-de-hormigon-15x15-cm-con-codo",
+      "k": "material",
+      "p": 35267.12,
+      "s": "Poste de refuerzo de hormigón 15x15 cm con codo",
+      "u": "u"
     },
     {
       "c": "",
@@ -1186,11 +2178,35 @@
     },
     {
       "c": "",
+      "i": "mt-ar-puntal-metalico-para-encofrado",
+      "k": "material",
+      "p": 16748.56,
+      "s": "Puntal metálico para encofrado",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-ar-revestimiento-ceramico-esmaltado-blanco-20x30-cm",
       "k": "material",
       "p": 19159.5,
       "s": "Revestimiento cerámico esmaltado blanco 20x30 cm",
       "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-revoque-fino-predosificado-para-exterior-en-bolsa-de-25-kg",
+      "k": "material",
+      "p": 12809.92,
+      "s": "Revoque fino predosificado para exterior en bolsa de 25 kg",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-ripio-1-a-3-a-granel",
+      "k": "material",
+      "p": 71342.39,
+      "s": "Ripio 1 a 3 a granel",
+      "u": "m3"
     },
     {
       "c": "",
@@ -1202,11 +2218,107 @@
     },
     {
       "c": "",
+      "i": "mt-ar-suelo-seleccionado-apto-para-relleno-a-granel",
+      "k": "material",
+      "p": 22727.27,
+      "s": "Suelo seleccionado apto para relleno a granel",
+      "u": "m3"
+    },
+    {
+      "c": "",
       "i": "mt-ar-suelo-seleccionado-para-relleno-a-granel",
       "k": "material",
       "p": 27770.25,
       "s": "Suelo seleccionado para relleno a granel",
       "u": "m3"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tabla-de-1x3-pulgadas-para-deck",
+      "k": "material",
+      "p": 38417.02,
+      "s": "Tabla de 1x3 pulgadas para deck",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tabla-de-1x5-pulgadas",
+      "k": "material",
+      "p": 10643.81,
+      "s": "Tabla de 1x5 pulgadas",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tabla-de-3-4-x-4-pulgadas",
+      "k": "material",
+      "p": 5937.94,
+      "s": "Tabla de 3/4 x 4 pulgadas",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tabla-de-madera-cepillada-10-x-120-x-2-cm",
+      "k": "material",
+      "p": 21797.05,
+      "s": "Tabla de madera cepillada 10 x 120 x 2 cm",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tabla-de-madera-de-1-pulgada",
+      "k": "material",
+      "p": 10643.81,
+      "s": "Tabla de madera de 1 pulgada",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tabla-de-pino-de-1x2-pulgadas",
+      "k": "material",
+      "p": 1114.35,
+      "s": "Tabla de pino de 1x2 pulgadas",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tabla-de-pino-de-1x4-pulgadas-de-4-m-para-encofrado",
+      "k": "material",
+      "p": 4402.16,
+      "s": "Tabla de pino de 1x4 pulgadas de 4 m para encofrado",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tabla-de-pino-de-1x6-pulgadas-de-3-66-m",
+      "k": "material",
+      "p": 6026.7,
+      "s": "Tabla de pino de 1x6 pulgadas de 3,66 m",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tablero-para-encofrado",
+      "k": "material",
+      "p": 12799.27,
+      "s": "Tablero para encofrado",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-taco-de-madera-de-1x2-pulgadas",
+      "k": "material",
+      "p": 111.43,
+      "s": "Taco de madera de 1x2 pulgadas",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tanque-de-agua-tricapa-de-1-100-l",
+      "k": "material",
+      "p": 319140,
+      "s": "Tanque de agua tricapa de 1.100 l",
+      "u": "u"
     },
     {
       "c": "",
@@ -1218,10 +2330,58 @@
     },
     {
       "c": "",
+      "i": "mt-ar-tapa-de-hormigon-con-marco-de-hierro",
+      "k": "material",
+      "p": 87586.78,
+      "s": "Tapa de hormigón con marco de hierro",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tee-de-termofusion-para-gas-de-1-2-pulgada",
+      "k": "material",
+      "p": 4565,
+      "s": "Tee de termofusión para gas de 1/2 pulgada",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tee-de-termofusion-para-gas-de-1-pulgada",
+      "k": "material",
+      "p": 6405,
+      "s": "Tee de termofusión para gas de 1 pulgada",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tee-de-termofusion-para-gas-de-3-4-pulgada",
+      "k": "material",
+      "p": 4901,
+      "s": "Tee de termofusión para gas de 3/4 pulgada",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-teja-colonial-ceramica-44x20-cm-por-m2-de-cubierta",
+      "k": "material",
+      "p": 46050,
+      "s": "Teja colonial cerámica 44x20 cm (por m2 de cubierta)",
+      "u": "m2"
+    },
+    {
+      "c": "",
       "i": "mt-ar-teja-colonial-ceramica-de-20x44-cm",
       "k": "material",
       "p": 1881,
       "s": "Teja colonial cerámica de 20x44 cm",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tejuela-imitacion-ladrillo-comun",
+      "k": "material",
+      "p": 343.4,
+      "s": "Tejuela imitación ladrillo común",
       "u": "u"
     },
     {
@@ -1231,6 +2391,78 @@
       "p": null,
       "s": "Tejuela símil ladrillo",
       "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tirante-de-1x1-pulgada-con-chanfle",
+      "k": "material",
+      "p": 572.42,
+      "s": "Tirante de 1x1 pulgada con chanfle",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tirante-de-1x2-pulgadas-para-estructura-de-tabique",
+      "k": "material",
+      "p": 3096.46,
+      "s": "Tirante de 1x2 pulgadas para estructura de tabique",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tirante-de-2x2-pulgadas-para-estructura-de-tabique",
+      "k": "material",
+      "p": 5941.88,
+      "s": "Tirante de 2x2 pulgadas para estructura de tabique",
+      "u": "m2"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tirante-de-2x4-pulgadas",
+      "k": "material",
+      "p": 3332.88,
+      "s": "Tirante de 2x4 pulgadas",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tirante-de-2x6-pulgadas",
+      "k": "material",
+      "p": 5609.66,
+      "s": "Tirante de 2x6 pulgadas",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tirante-de-3x8-pulgadas",
+      "k": "material",
+      "p": 15642.99,
+      "s": "Tirante de 3x8 pulgadas",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tirante-de-5x5-pulgadas",
+      "k": "material",
+      "p": 20166.32,
+      "s": "Tirante de 5x5 pulgadas",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tirante-de-pino-de-2x5-pulgadas",
+      "k": "material",
+      "p": 5148.35,
+      "s": "Tirante de pino de 2x5 pulgadas",
+      "u": "m"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tirante-de-pino-de-3x6-pulgadas-en-pieza-de-3-66-m",
+      "k": "material",
+      "p": 36177.1,
+      "s": "Tirante de pino de 3x6 pulgadas en pieza de 3,66 m",
+      "u": "u"
     },
     {
       "c": "",
@@ -1258,6 +2490,22 @@
     },
     {
       "c": "",
+      "i": "mt-ar-tornillo-aguja-cabeza-perdida-de-2-pulgadas",
+      "k": "material",
+      "p": 96.78,
+      "s": "Tornillo aguja cabeza perdida de 2 pulgadas",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tornillo-autoperforante-14x1-pulgada",
+      "k": "material",
+      "p": 289.55,
+      "s": "Tornillo autoperforante 14x1 pulgada",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-ar-tornillo-autoperforante-con-arandela-de-neopreno-para-chapa",
       "k": "material",
       "p": 94.69,
@@ -1271,6 +2519,62 @@
       "p": 14.07,
       "s": "Tornillo autoperforante T2 para placa de roca de yeso",
       "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tornillo-con-taco-n-8",
+      "k": "material",
+      "p": 216.86,
+      "s": "Tornillo con taco Nº 8",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tornillo-para-madera",
+      "k": "material",
+      "p": 109.63,
+      "s": "Tornillo para madera",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tornillo-t1-para-perfileria-de-construccion-en-seco-en-caja",
+      "k": "material",
+      "p": 2967.74,
+      "s": "Tornillo T1 para perfilería de construcción en seco en caja de 100",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-tornillo-t3-para-placa-de-roca-de-yeso-en-caja-de-100",
+      "k": "material",
+      "p": 6379.18,
+      "s": "Tornillo T3 para placa de roca de yeso en caja de 100",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-torniquete-n-7-para-alambrado",
+      "k": "material",
+      "p": 3505.79,
+      "s": "Torniquete Nº 7 para alambrado",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-valvula-de-seguridad-para-tanque-de-agua",
+      "k": "material",
+      "p": 28471.07,
+      "s": "Válvula de seguridad para tanque de agua",
+      "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-velo-para-juntas",
+      "k": "material",
+      "p": 1254.55,
+      "s": "Velo para juntas",
+      "u": "m2"
     },
     {
       "c": "",
@@ -1290,6 +2594,22 @@
     },
     {
       "c": "",
+      "i": "mt-ar-vermiculita-expandida",
+      "k": "material",
+      "p": 1366942.15,
+      "s": "Vermiculita expandida",
+      "u": "m3"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-vigueta-hueca-pretensada",
+      "k": "material",
+      "p": 3914.14,
+      "s": "Vigueta hueca pretensada",
+      "u": "m"
+    },
+    {
+      "c": "",
       "i": "mt-ar-vigueta-pretensada-de-hormigon-para-losa-en-pieza-de-4-m",
       "k": "material",
       "p": 15537.19,
@@ -1298,11 +2618,27 @@
     },
     {
       "c": "",
+      "i": "mt-ar-vigueta-pretensada-de-hormigon-por-metro",
+      "k": "material",
+      "p": 3661,
+      "s": "Vigueta pretensada de hormigón (por metro)",
+      "u": "m"
+    },
+    {
+      "c": "",
       "i": "mt-ar-volquete-para-escombros-de-5-m3-con-entrega-retiro-y-disposi",
       "k": "material",
       "p": null,
       "s": "Volquete para escombros de 5 m3 con entrega, retiro y disposición final",
       "u": "u"
+    },
+    {
+      "c": "",
+      "i": "mt-ar-yeso-en-bolsa-de-25-kg-por-kg",
+      "k": "material",
+      "p": 483.91,
+      "s": "Yeso en bolsa de 25 kg (por kg)",
+      "u": "kg"
     },
     {
       "c": "",
@@ -1364,15 +2700,39 @@
       "c": "aislaciones--cubiertas",
       "i": "wi-ar-aislacion-hidrofuga-de-azotea-con-membrana-asfaltica-de-4-mm",
       "k": "work_item",
-      "p": 15080.23,
+      "p": 14734.2,
       "s": "Aislación hidrófuga de azotea con membrana asfáltica de 4 mm con aluminio",
       "u": "m2"
+    },
+    {
+      "c": "revoques--raiz",
+      "i": "wi-ar-alisado-de-cemento-en-interiores-de-tanques-de-agua-espesor",
+      "k": "work_item",
+      "p": 43324.36,
+      "s": "Alisado de cemento-en interiores de tanques de agua, espesor gr: 1,5 cm-espesor f: 3 mm-alisado con llana",
+      "u": "m2"
+    },
+    {
+      "c": "revoques--raiz",
+      "i": "wi-ar-alisado-de-cemento-en-paredes-espesor-gr-2-cm-espesor-f-3-mm",
+      "k": "work_item",
+      "p": 29809.95,
+      "s": "Alisado de cemento-en paredes, espesor gr: 2 cm-espesor f: 3 mm-alisado con llana",
+      "u": "m2"
+    },
+    {
+      "c": "estructura-de-madera--raiz",
+      "i": "wi-ar-armado-de-cabriadas-en-escuadrias-de-2-x-5-y-3-x-6",
+      "k": "work_item",
+      "p": 24449.01,
+      "s": "Armado de cabriadas, en escuadrías de 2\" x 5\" y 3\" x 6\"",
+      "u": "m"
     },
     {
       "c": "estructura-de-hormigon-armado--armaduras",
       "i": "wi-ar-armadura-de-hierro-nervurado-adn-420-de-10-mm-elaborada-y-co",
       "k": "work_item",
-      "p": 2118.72,
+      "p": 2146.26,
       "s": "Armadura de hierro nervurado ADN 420 de 10 mm elaborada y colocada",
       "u": "kg"
     },
@@ -1380,7 +2740,7 @@
       "c": "estructura-de-hormigon-armado--armaduras",
       "i": "wi-ar-armadura-de-hierro-nervurado-adn-420-de-12-mm-elaborada-y-co",
       "k": "work_item",
-      "p": 2137.82,
+      "p": 2165.36,
       "s": "Armadura de hierro nervurado ADN 420 de 12 mm elaborada y colocada",
       "u": "kg"
     },
@@ -1388,7 +2748,7 @@
       "c": "estructura-de-hormigon-armado--armaduras",
       "i": "wi-ar-armadura-de-hierro-nervurado-adn-420-de-6-mm-elaborada-y-col",
       "k": "work_item",
-      "p": 2157.86,
+      "p": 2185.4,
       "s": "Armadura de hierro nervurado ADN 420 de 6 mm elaborada y colocada",
       "u": "kg"
     },
@@ -1396,9 +2756,17 @@
       "c": "estructura-de-hormigon-armado--armaduras",
       "i": "wi-ar-armadura-de-hierro-nervurado-adn-420-elaborada-y-colocada",
       "k": "work_item",
-      "p": 2074.72,
+      "p": 2102.26,
       "s": "Armadura de hierro nervurado ADN 420 elaborada y colocada",
       "u": "kg"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-armadura-solamente-cortado-doblado-atado-y-montado-sobre-enc",
+      "k": "work_item",
+      "p": 3671380.83,
+      "s": "Armadura solamente, cortado, doblado, atado y montado sobre encofrado",
+      "u": "t"
     },
     {
       "c": "aislaciones--capas-aisladoras",
@@ -1417,10 +2785,18 @@
       "u": "m"
     },
     {
+      "c": "estructura-metalica--raiz",
+      "i": "wi-ar-barandas-de-hierro-simples-de-uso-comun-en-industrias",
+      "k": "work_item",
+      "p": 4216.54,
+      "s": "Barandas de hierro-simples, de uso común en industrias",
+      "u": "kg"
+    },
+    {
       "c": "estructura-de-hormigon-armado--fundaciones",
       "i": "wi-ar-base-de-hormigon-armado",
       "k": "work_item",
-      "p": 411990.56,
+      "p": 425684.4,
       "s": "Base de hormigón armado",
       "u": "m3"
     },
@@ -1449,6 +2825,30 @@
       "u": "u"
     },
     {
+      "c": "cubiertas--raiz",
+      "i": "wi-ar-cabriada-de-madera-estructura-a-la-vista-cepillada",
+      "k": "work_item",
+      "p": 144980.41,
+      "s": "Cabriada de madera, estructura a la vista-cepillada",
+      "u": "m"
+    },
+    {
+      "c": "estructura-metalica--raiz",
+      "i": "wi-ar-cabriadas-de-perfiles-normalizados-luz-10-m-separacion-4-m",
+      "k": "work_item",
+      "p": 1291357.45,
+      "s": "Cabriadas de perfiles normalizados, luz 10 m-separacion 4 m",
+      "u": "u"
+    },
+    {
+      "c": "estructura-metalica--raiz",
+      "i": "wi-ar-cabriadas-de-perfiles-normalizados-luz-6-m-separacion-4-m",
+      "k": "work_item",
+      "p": 499032.13,
+      "s": "Cabriadas de perfiles normalizados, luz 6 m-separacion 4 m",
+      "u": "u"
+    },
+    {
       "c": "cubiertas--zingueria",
       "i": "wi-ar-canaleta-de-chapa-galvanizada-para-desague-pluvial",
       "k": "work_item",
@@ -1460,7 +2860,7 @@
       "c": "instalacion-sanitaria--desagues",
       "i": "wi-ar-caneria-cloacal-de-pvc-3-2-de-110-mm",
       "k": "work_item",
-      "p": 17490.43,
+      "p": 14611.71,
       "s": "Cañería cloacal de PVC 3,2 de ø110 mm",
       "u": "m"
     },
@@ -1470,6 +2870,30 @@
       "k": "work_item",
       "p": 5709.24,
       "s": "Cañería de agua de polipropileno por termofusión de ø25 mm",
+      "u": "m"
+    },
+    {
+      "c": "instalacion-de-gas--raiz",
+      "i": "wi-ar-caneria-de-distribucion-1-2-canos-epoxi-o-termofusion",
+      "k": "work_item",
+      "p": 16869.64,
+      "s": "Cañeria de distribucion 1/2\", caños epoxi o termofusión",
+      "u": "m"
+    },
+    {
+      "c": "instalacion-de-gas--raiz",
+      "i": "wi-ar-caneria-de-distribucion-1-canos-epoxi-o-termofusion",
+      "k": "work_item",
+      "p": 27757.71,
+      "s": "Cañeria de distribucion 1\", caños epoxi o termofusión",
+      "u": "m"
+    },
+    {
+      "c": "instalacion-de-gas--raiz",
+      "i": "wi-ar-caneria-de-distribucion-3-4-canos-epoxi-o-termofusion",
+      "k": "work_item",
+      "p": 19529.8,
+      "s": "Cañeria de distribucion 3/4\", caños epoxi o termofusión",
       "u": "m"
     },
     {
@@ -1497,10 +2921,90 @@
       "u": "m"
     },
     {
+      "c": "aislaciones--raiz",
+      "i": "wi-ar-capa-de-asfalto-en-caliente-de-10-kg-m2-sobre-superficie-sem",
+      "k": "work_item",
+      "p": 48370.38,
+      "s": "Capa de asfalto en caliente de 10 kg/m2 sobre superficie semialisada",
+      "u": "m2"
+    },
+    {
+      "c": "aislaciones--raiz",
+      "i": "wi-ar-capa-de-asfalto-en-caliente-de-26-kg-m2-sobre-superficie-sem",
+      "k": "work_item",
+      "p": 94738.04,
+      "s": "Capa de asfalto en caliente de 26 kg/m2 sobre superficie semialisada",
+      "u": "m2"
+    },
+    {
+      "c": "carpetas--raiz",
+      "i": "wi-ar-carpeta-bajo-piso-ceramico-o-similar-espesor-1-8-cm",
+      "k": "work_item",
+      "p": 10586.12,
+      "s": "Carpeta bajo piso cerámico o similar, espesor 1,8 cm",
+      "u": "m2"
+    },
+    {
+      "c": "carpetas--raiz",
+      "i": "wi-ar-carpeta-cemento-alisado-ref-con-malla-de-fibra-sintetica-esp",
+      "k": "work_item",
+      "p": 16247.79,
+      "s": "Carpeta cemento alisado ref.con malla de fibra sintetica, espesor 30mm",
+      "u": "m2"
+    },
+    {
+      "c": "carpetas--raiz",
+      "i": "wi-ar-carpeta-de-asiento-para-pisos-plasticos-delgados-espesor-25m",
+      "k": "work_item",
+      "p": 14396.15,
+      "s": "Carpeta de asiento para pisos plásticos delgados, espesor 25mm. para pegar con adhesivos sint",
+      "u": "m2"
+    },
+    {
+      "c": "carpetas--raiz",
+      "i": "wi-ar-carpeta-de-cal-reforzada-espesor-30mm",
+      "k": "work_item",
+      "p": 12645.56,
+      "s": "Carpeta de cal reforzada, espesor 30mm",
+      "u": "m2"
+    },
+    {
+      "c": "carpetas--raiz",
+      "i": "wi-ar-carpeta-de-cemento-alisado-o-rodillado-espesor-25mm-terminad",
+      "k": "work_item",
+      "p": 15969.78,
+      "s": "Carpeta de cemento alisado o rodillado, espesor 25mm.terminado con cemento puro",
+      "u": "m2"
+    },
+    {
+      "c": "carpetas--raiz",
+      "i": "wi-ar-carpeta-de-cemento-alisado-o-rodillado-pigmentado-espesor-25",
+      "k": "work_item",
+      "p": 34688.79,
+      "s": "Carpeta de cemento alisado o rodillado pigmentado, espesor 25mm.terminado con cemento puro",
+      "u": "m2"
+    },
+    {
+      "c": "carpetas--raiz",
+      "i": "wi-ar-carpeta-de-concreto-asfaltico-en-caliente-compactado-con-rod",
+      "k": "work_item",
+      "p": 34564.61,
+      "s": "Carpeta de concreto asfáltico en caliente, compactado con rodillo mecánico. espesor 5 cm. sobre base firme o…",
+      "u": "m2"
+    },
+    {
+      "c": "carpetas--raiz",
+      "i": "wi-ar-carpeta-de-concreto-espesor-25mm-fratazada",
+      "k": "work_item",
+      "p": 17961.96,
+      "s": "Carpeta de concreto, espesor 25mm. fratazada",
+      "u": "m2"
+    },
+    {
       "c": "contrapisos-y-carpetas--carpetas",
       "i": "wi-ar-carpeta-de-nivelacion-de-3-cm",
       "k": "work_item",
-      "p": 16218.66,
+      "p": 17025.73,
       "s": "Carpeta de nivelación de 3 cm",
       "u": "m2"
     },
@@ -1508,8 +3012,24 @@
       "c": "contrapisos-y-carpetas--carpetas",
       "i": "wi-ar-carpeta-hidrofuga-de-2-cm",
       "k": "work_item",
-      "p": 15272.79,
+      "p": 15918.44,
       "s": "Carpeta hidrófuga de 2 cm",
+      "u": "m2"
+    },
+    {
+      "c": "carpetas--raiz",
+      "i": "wi-ar-carpeta-para-clavar-pisos-de-madera-con-cemento-albanileria",
+      "k": "work_item",
+      "p": 10039.14,
+      "s": "Carpeta para clavar pisos de madera con cemento albañilería, espesor 25mm",
+      "u": "m2"
+    },
+    {
+      "c": "carpetas--raiz",
+      "i": "wi-ar-carpeta-para-clavar-pisos-de-madera-espesor-25mm",
+      "k": "work_item",
+      "p": 10307.98,
+      "s": "Carpeta para clavar pisos de madera, espesor 25mm",
       "u": "m2"
     },
     {
@@ -1521,6 +3041,14 @@
       "u": "u"
     },
     {
+      "c": "cubiertas--raiz",
+      "i": "wi-ar-cenefa-de-madera",
+      "k": "work_item",
+      "p": 12171.95,
+      "s": "Cenefa de madera",
+      "u": "m"
+    },
+    {
       "c": "seguridad-e-higiene--proteccion",
       "i": "wi-ar-cerco-de-obra-de-chapa-acanalada-de-2-m-de-altura",
       "k": "work_item",
@@ -1529,11 +3057,51 @@
       "u": "m"
     },
     {
+      "c": "obrador-y-cercos--raiz",
+      "i": "wi-ar-cerco-de-obra-madera-altura-1-80-m-postes-cada-2-40-m",
+      "k": "work_item",
+      "p": 29194.55,
+      "s": "Cerco de obra-madera, altura 1,80 m-postes cada 2,40 m",
+      "u": "m"
+    },
+    {
+      "c": "obrador-y-cercos--raiz",
+      "i": "wi-ar-cerco-de-obra-metalico-altura-2-00-m-postes-cada-2-50-m",
+      "k": "work_item",
+      "p": 16051.09,
+      "s": "Cerco de obra-metalico, altura 2,00 m-postes cada 2,50 m",
+      "u": "m"
+    },
+    {
+      "c": "obrador-y-cercos--raiz",
+      "i": "wi-ar-cerco-olimpico-altura-2-40m-con-alambre-romboidal",
+      "k": "work_item",
+      "p": 63323.85,
+      "s": "Cerco olimpico, altura 2,40m-con alambre romboidal",
+      "u": "m"
+    },
+    {
+      "c": "obrador-y-cercos--raiz",
+      "i": "wi-ar-cerco-olimpico-con-postes-de-hormigon-premoldeados-altura-2",
+      "k": "work_item",
+      "p": 46895.11,
+      "s": "Cerco olimpico con postes de hormigón premoldeados, altura 2,40m-con postes con codo. sin viga encad",
+      "u": "m"
+    },
+    {
       "c": "cielorrasos--aplicados",
       "i": "wi-ar-cielorraso-aplicado-bajo-losa",
       "k": "work_item",
-      "p": 22942.77,
+      "p": 23802.23,
       "s": "Cielorraso aplicado bajo losa",
+      "u": "m2"
+    },
+    {
+      "c": "construccion-en-seco--raiz",
+      "i": "wi-ar-cielorraso-de-fibras-de-vidrio-revestido-en-pvc-desmontable",
+      "k": "work_item",
+      "p": 27212.92,
+      "s": "Cielorraso de fibras de vidrio revestido en pvc-desmontable, espesor 25 mm.placas de 0,61m x 1,21 m",
       "u": "m2"
     },
     {
@@ -1545,11 +3113,67 @@
       "u": "m2"
     },
     {
+      "c": "cielorrasos--raiz",
+      "i": "wi-ar-cielorraso-de-madera-fenolico-multilaminado",
+      "k": "work_item",
+      "p": 38665.81,
+      "s": "Cielorraso de madera fenolico multilaminado",
+      "u": "m2"
+    },
+    {
+      "c": "construccion-en-seco--raiz",
+      "i": "wi-ar-cielorraso-de-placas-de-roca-de-yeso-aplicado-bajo-losa-plac",
+      "k": "work_item",
+      "p": 29713,
+      "s": "Cielorraso de placas de roca de yeso aplicado bajo losa, placa común 1,22 m x 2,44 m-esp: 9,5mm",
+      "u": "m2"
+    },
+    {
+      "c": "construccion-en-seco--raiz",
+      "i": "wi-ar-cielorraso-de-placas-de-roca-de-yeso-desmontable",
+      "k": "work_item",
+      "p": 21450.97,
+      "s": "Cielorraso de placas de roca de yeso-desmontable",
+      "u": "m2"
+    },
+    {
+      "c": "cielorrasos--raiz",
+      "i": "wi-ar-cielorraso-de-yeso-aplicado-con-adhesivo-sobre-losa-placas-p",
+      "k": "work_item",
+      "p": 20387.11,
+      "s": "Cielorraso de yeso aplicado con adhesivo sobre losa, placas pegadas con adhesivo sobre losa",
+      "u": "m2"
+    },
+    {
+      "c": "cielorrasos--raiz",
+      "i": "wi-ar-cielorraso-machimbre-suspendido-bajo-losa",
+      "k": "work_item",
+      "p": 22860.21,
+      "s": "Cielorraso machimbre suspendido bajo losa",
+      "u": "m2"
+    },
+    {
+      "c": "construccion-en-seco--raiz",
+      "i": "wi-ar-cielorraso-suspendido-de-fibras-minerales-61x61cm",
+      "k": "work_item",
+      "p": 44767.57,
+      "s": "Cielorraso suspendido de fibras minerales 61x61cm",
+      "u": "m2"
+    },
+    {
       "c": "cielorrasos--suspendidos",
       "i": "wi-ar-cielorraso-suspendido-de-placa-de-roca-de-yeso",
       "k": "work_item",
       "p": 30231.55,
       "s": "Cielorraso suspendido de placa de roca de yeso",
+      "u": "m2"
+    },
+    {
+      "c": "cielorrasos--raiz",
+      "i": "wi-ar-cielorraso-suspendido-desmontable-tipo-durlock-modulacion-0",
+      "k": "work_item",
+      "p": 29456.15,
+      "s": "Cielorraso suspendido desmontable tipo durlock, modulacion 0,61 x 0,61 m",
       "u": "m2"
     },
     {
@@ -1559,6 +3183,14 @@
       "p": 51121.49,
       "s": "Colocación de gabinete para medidor y regulador de gas",
       "u": "u"
+    },
+    {
+      "c": "revestimientos--raiz",
+      "i": "wi-ar-colocacion-de-guardas-ceramicas-sobre-revoque-grueso-existen",
+      "k": "work_item",
+      "p": 23183.49,
+      "s": "Colocación de guardas cerámicas, sobre revoque grueso existente",
+      "u": "m"
     },
     {
       "c": "instalacion-sanitaria--artefactos",
@@ -1609,6 +3241,22 @@
       "u": "u"
     },
     {
+      "c": "estructura-de-madera--raiz",
+      "i": "wi-ar-colocacion-de-tirantes-cepillados-con-encastres-0-15-h-de-of",
+      "k": "work_item",
+      "p": 9529.24,
+      "s": "Colocación de tirantes cepillados con encastres (0,15 h de oficial por m)",
+      "u": "m"
+    },
+    {
+      "c": "estructura-de-madera--raiz",
+      "i": "wi-ar-colocacion-de-tirantes-cepillados-con-encastres-0-35-h-de-of",
+      "k": "work_item",
+      "p": 14267.62,
+      "s": "Colocación de tirantes cepillados con encastres (0,35 h de oficial por m)",
+      "u": "m"
+    },
+    {
       "c": "carpinterias--aluminio",
       "i": "wi-ar-colocacion-de-ventana-de-aluminio-linea-modena-de-150x110-cm",
       "k": "work_item",
@@ -1617,34 +3265,114 @@
       "u": "u"
     },
     {
+      "c": "cubiertas--raiz",
+      "i": "wi-ar-colocacion-de-vigas-o-correas-bajo-cabios-madera-cepillada",
+      "k": "work_item",
+      "p": 26063.01,
+      "s": "Colocación de vigas o correas bajo cabios, madera cepillada",
+      "u": "m"
+    },
+    {
       "c": "estructura-metalica--perfiles",
       "i": "wi-ar-columna-de-cano-estructural-cuadrado-de-100x100x3-2-mm",
       "k": "work_item",
-      "p": 24979.94,
+      "p": 24998.55,
       "s": "Columna de caño estructural cuadrado de 100x100x3,2 mm",
+      "u": "m"
+    },
+    {
+      "c": "estructura-metalica--raiz",
+      "i": "wi-ar-columna-de-doble-perfil-normalizado-n-10-fabricadas-en-obrad",
+      "k": "work_item",
+      "p": 81459.61,
+      "s": "Columna de doble perfil normalizado N° 10, fabricadas en obrador y montadas en posicion para soldar",
       "u": "m"
     },
     {
       "c": "estructura-de-hormigon-armado--estructura-resistente",
       "i": "wi-ar-columna-de-hormigon-armado",
       "k": "work_item",
-      "p": 216796.7,
+      "p": 230765.93,
       "s": "Columna de hormigón armado",
       "u": "m3"
+    },
+    {
+      "c": "estructura-de-madera--raiz",
+      "i": "wi-ar-columnas-de-hasta-5-x-5-con-encastre-simple-en-un-extremo",
+      "k": "work_item",
+      "p": 29850.41,
+      "s": "Columnas de hasta 5\" x 5\", con encastre simple en un extremo",
+      "u": "m"
+    },
+    {
+      "c": "estructura-de-madera--raiz",
+      "i": "wi-ar-columnas-formadas-por-2-tirantes-de-2-x-4-separadas-entre-si",
+      "k": "work_item",
+      "p": 25128.26,
+      "s": "Columnas formadas por 2 tirantes de 2\" x 4\", separadas entre si y unidos por tacos y bulones",
+      "u": "m"
     },
     {
       "c": "contrapisos-y-carpetas--contrapisos",
       "i": "wi-ar-contrapiso-alivianado-con-esferas-de-poliestireno-expandido",
       "k": "work_item",
-      "p": 16813.42,
+      "p": 18196.96,
       "s": "Contrapiso alivianado con esferas de poliestireno expandido de 8 cm",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-arcilla-expandida-sobre-losa-en-general-espeso",
+      "k": "work_item",
+      "p": null,
+      "s": "Contrapiso de arcilla expandida sobre losa-en general, espesor 0,06m-elevación por medios mecanicos",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-cascotes-de-12-cm-con-cal-16-5-kg-de-cemento-p",
+      "k": "work_item",
+      "p": 22476.89,
+      "s": "Contrapiso de cascotes de 12 cm con cal, 16,5 kg de cemento por m2",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-cascotes-de-12-cm-con-cal-5-6-kg-de-cemento-po",
+      "k": "work_item",
+      "p": 20146.33,
+      "s": "Contrapiso de cascotes de 12 cm con cal, 5,6 kg de cemento por m2",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-cascotes-de-15-cm-con-cal-20-6-kg-de-cemento-p",
+      "k": "work_item",
+      "p": 28175.79,
+      "s": "Contrapiso de cascotes de 15 cm con cal, 20,6 kg de cemento por m2",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-cascotes-de-15-cm-con-cal-7-5-kg-de-cemento-po",
+      "k": "work_item",
+      "p": 24599.95,
+      "s": "Contrapiso de cascotes de 15 cm con cal, 7,5 kg de cemento por m2",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-horm-con-arcilla-exp-en-azotea-con-pend-espeso",
+      "k": "work_item",
+      "p": null,
+      "s": "Contrapiso de horm. con arcilla exp. en azotea-con pend, espesor 0,10m. elevación por medios mecánicos",
       "u": "m2"
     },
     {
       "c": "contrapisos-y-carpetas--contrapisos",
       "i": "wi-ar-contrapiso-de-hormigon-armado-con-malla-q188-de-12-cm-elabor",
       "k": "work_item",
-      "p": 36690.46,
+      "p": 39604.1,
       "s": "Contrapiso de hormigón armado con malla Q188 de 12 cm elaborado en obra",
       "u": "m2"
     },
@@ -1657,10 +3385,26 @@
       "u": "m2"
     },
     {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-hormigon-con-arcilla-exp-sobre-losa-baja-espes",
+      "k": "work_item",
+      "p": null,
+      "s": "Contrapiso de hormigón con arcilla exp.- sobre losa baja, espesor 0,18m-elevacion por medios mecanicos",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-hormigon-con-arcilla-exp-sobre-losa-espesor-0",
+      "k": "work_item",
+      "p": null,
+      "s": "Contrapiso de hormigón con arcilla exp.- sobre losa, espesor 0,10m-elevacion por medios mecanicos",
+      "u": "m2"
+    },
+    {
       "c": "contrapisos-y-carpetas--contrapisos",
       "i": "wi-ar-contrapiso-de-hormigon-de-cascote-sobre-losa-de-8-cm",
       "k": "work_item",
-      "p": 21444.84,
+      "p": 23361.47,
       "s": "Contrapiso de hormigón de cascote sobre losa de 8 cm",
       "u": "m2"
     },
@@ -1668,8 +3412,128 @@
       "c": "contrapisos-y-carpetas--contrapisos",
       "i": "wi-ar-contrapiso-de-hormigon-de-cascote-sobre-terreno-natural-de-1",
       "k": "work_item",
-      "p": 25055.62,
+      "p": 27900.93,
       "s": "Contrapiso de hormigón de cascote sobre terreno natural de 12 cm",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-hormigon-de-cascotes-en-azotea-con-pend-espeso",
+      "k": "work_item",
+      "p": 24443.21,
+      "s": "Contrapiso de hormigón de cascotes en azotea-con pend, espesor 0,10m. elevación por medios mecánicos",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-hormigon-de-cascotes-pobre-espesor-0-20m-inclu",
+      "k": "work_item",
+      "p": 33548.1,
+      "s": "Contrapiso de hormigón de cascotes-pobre, espesor 0,20m-incluye nivelación de superficie",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-hormigon-de-cascotes-sobre-losa-baja-bano-espe",
+      "k": "work_item",
+      "p": 28958.69,
+      "s": "Contrapiso de hormigón de cascotes- sobre losa baja-baño, espesor 0,18m-elevacion por medios mecanicos",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-hormigon-de-cascotes-sobre-losa-en-general-esp",
+      "k": "work_item",
+      "p": 13767.05,
+      "s": "Contrapiso de hormigón de cascotes sobre losa-en general, espesor 0,06m-elevación por medios mecanicos",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-hormigon-de-cascotes-sobre-losa-espesor-0-10m",
+      "k": "work_item",
+      "p": 23189.76,
+      "s": "Contrapiso de hormigón de cascotes- sobre losa, espesor 0,10m-elevacion por medios mecanicos",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-hormigon-pobre-con-cemento-albanileria-espesor",
+      "k": "work_item",
+      "p": 32103.7,
+      "s": "Contrapiso de hormigón pobre-con cemento albañilería, espesor 15 cm-para recibir hormigón elab.armado",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-hormigon-simple-espesor-0-10-m",
+      "k": "work_item",
+      "p": 26237.93,
+      "s": "Contrapiso de hormigón simple, espesor 0,10 m",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-hormigon-simple-espesor-0-20-m",
+      "k": "work_item",
+      "p": 50727.95,
+      "s": "Contrapiso de hormigón simple, espesor 0,20 m",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-perlita-exp-sobre-losa-espesor-0-06m-elevacion",
+      "k": "work_item",
+      "p": 26758.14,
+      "s": "Contrapiso de perlita exp. sobre losa, espesor 0,06m-elevacion por medios mecanicos",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-perlita-exp-sobre-losa-espesor-0-08m-elevacion",
+      "k": "work_item",
+      "p": 26648.93,
+      "s": "Contrapiso de perlita exp. sobre losa, espesor 0,08m-elevación por medios mecanicos",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-perlitas-de-poliestireno-exp-sobre-losa-espeso",
+      "k": "work_item",
+      "p": 45119.17,
+      "s": "Contrapiso de perlitas de poliestireno exp. sobre losa, espesor 0,10m. elevación por medios mecanicos",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-suelo-cemento-espesor-15-cm-mezclado-a-mano",
+      "k": "work_item",
+      "p": 24554.76,
+      "s": "Contrapiso de suelo cemento, espesor 15 cm-mezclado a mano-",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-de-vermiculita-exp-sobre-losa-espesor-0-06m-eleva",
+      "k": "work_item",
+      "p": 96731.62,
+      "s": "Contrapiso de vermiculita exp. sobre losa, espesor 0,06m-elevacion por medios mecanicos",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-hormigon-cascote-armado-con-malla-espesor-0-12-m",
+      "k": "work_item",
+      "p": 39719.58,
+      "s": "Contrapiso hormigón cascote armado con malla, espesor 0,12 m.malla ø 6mm-15 x 15",
+      "u": "m2"
+    },
+    {
+      "c": "contrapisos--raiz",
+      "i": "wi-ar-contrapiso-hormigon-de-vermiculita-sobre-losa-espesor-0-10-m",
+      "k": "work_item",
+      "p": 167381.64,
+      "s": "Contrapiso hormigón de vermiculita sobre losa, espesor 0,10 m. como aislación acústica",
       "u": "m2"
     },
     {
@@ -1678,6 +3542,14 @@
       "k": "work_item",
       "p": 9561.11,
       "s": "Correa de perfil C galvanizado de 100x50x15x2 mm",
+      "u": "m"
+    },
+    {
+      "c": "estructura-metalica--raiz",
+      "i": "wi-ar-correas-de-perfil-normalizado-fijacion-por-soldadura-o-abulo",
+      "k": "work_item",
+      "p": 28053.69,
+      "s": "Correas de perfil normalizado, fijación por soldadura o abulonado",
       "u": "m"
     },
     {
@@ -1697,12 +3569,68 @@
       "u": "m2"
     },
     {
+      "c": "cubiertas--raiz",
+      "i": "wi-ar-cubierta-de-chapas-galvanizadas-onduladas-sobre-estructura-d",
+      "k": "work_item",
+      "p": 75952.7,
+      "s": "Cubierta de chapas galvanizadas onduladas, sobre estructura de madera cepillada",
+      "u": "m2"
+    },
+    {
+      "c": "cubiertas--raiz",
+      "i": "wi-ar-cubierta-de-chapas-galvanizadas-trapezoidales-sobre-estructu",
+      "k": "work_item",
+      "p": 86623.7,
+      "s": "Cubierta de chapas galvanizadas trapezoidales, sobre estructura de madera cepillada",
+      "u": "m2"
+    },
+    {
       "c": "cubiertas--tejas",
       "i": "wi-ar-cubierta-de-teja-colonial-ceramica-sobre-losa",
       "k": "work_item",
-      "p": 82756.99,
+      "p": 83310.4,
       "s": "Cubierta de teja colonial cerámica sobre losa",
       "u": "m2"
+    },
+    {
+      "c": "cubiertas--raiz",
+      "i": "wi-ar-cubierta-de-tejas-coloniales-espanolas-estructura-de-madera",
+      "k": "work_item",
+      "p": 153916.92,
+      "s": "Cubierta de tejas coloniales-españolas, estructura de madera sin cepillar",
+      "u": "m2"
+    },
+    {
+      "c": "mamposteria--raiz",
+      "i": "wi-ar-de-ladrillos-comunes-a-la-vista-0-15-a-0-30-m-esp-mezcla-1-4",
+      "k": "work_item",
+      "p": 364826.38,
+      "s": "De ladrillos comunes a la vista-0,15 a 0,30 m esp, mezcla: 1/4 : 1 : 3",
+      "u": "m3"
+    },
+    {
+      "c": "mamposteria--raiz",
+      "i": "wi-ar-de-ladrillos-comunes-en-elevacion-0-15-a-0-30-m-esp-mas-de-1",
+      "k": "work_item",
+      "p": 283826.37,
+      "s": "De ladrillos comunes en elevacion-0,15 a 0,30 m esp, más de 10 m de altura",
+      "u": "m3"
+    },
+    {
+      "c": "mamposteria--raiz",
+      "i": "wi-ar-de-ladrillos-comunes-en-elevacion-0-15-a-0-30-m-esp-para-cim",
+      "k": "work_item",
+      "p": 312055.96,
+      "s": "De ladrillos comunes en elevacion-0,15 a 0,30 m esp, para cimientos o medianerías",
+      "u": "m3"
+    },
+    {
+      "c": "mamposteria--raiz",
+      "i": "wi-ar-de-ladrillos-comunes-en-elevacion-0-30-a-0-45-m-esp-hasta-10",
+      "k": "work_item",
+      "p": 277559.13,
+      "s": "De ladrillos comunes en elevacion-0,30 a 0,45 m esp, hasta 10 m de altura",
+      "u": "m3"
     },
     {
       "c": "demoliciones-y-trabajos-previos--demoliciones",
@@ -1740,15 +3668,31 @@
       "c": "estructura-metalica--perfiles",
       "i": "wi-ar-dintel-de-perfil-upn-100-colocado-y-pintado",
       "k": "work_item",
-      "p": 24702.67,
+      "p": 24716.63,
       "s": "Dintel de perfil UPN 100 colocado y pintado",
       "u": "m"
+    },
+    {
+      "c": "estructura-de-madera--raiz",
+      "i": "wi-ar-empalme-de-vigas-a-pico-de-flauta-con-bulones",
+      "k": "work_item",
+      "p": 47795.13,
+      "s": "Empalme de vigas, a \"pico de flauta\", con bulones",
+      "u": "u"
+    },
+    {
+      "c": "estructura-de-madera--raiz",
+      "i": "wi-ar-empalme-de-vigas-a-rayo-de-jupiter-con-cunas-y-bulones",
+      "k": "work_item",
+      "p": 53135.23,
+      "s": "Empalme de vigas, a \"rayo de júpiter\", con cuñas y bulones",
+      "u": "u"
     },
     {
       "c": "estructura-de-hormigon-armado--estructura-resistente",
       "i": "wi-ar-encadenado-horizontal-de-hormigon-armado",
       "k": "work_item",
-      "p": 244270.14,
+      "p": 258239.37,
       "s": "Encadenado horizontal de hormigón armado",
       "u": "m3"
     },
@@ -1756,8 +3700,32 @@
       "c": "estructura-de-hormigon-armado--encofrados",
       "i": "wi-ar-encofrado-de-fenolico-de-18-mm-para-estructura",
       "k": "work_item",
-      "p": 14541.38,
+      "p": 13448.58,
       "s": "Encofrado de fenólico de 18 mm para estructura",
+      "u": "m2"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-encofrado-solamente-medido-por-la-superficie-en-contacto-con",
+      "k": "work_item",
+      "p": 28709.61,
+      "s": "Encofrado solamente, medido por la superficie en contacto con el H°",
+      "u": "m2"
+    },
+    {
+      "c": "cielorrasos--raiz",
+      "i": "wi-ar-engrosado-de-yeso-a-la-cal",
+      "k": "work_item",
+      "p": 19649.86,
+      "s": "Engrosado de yeso a la cal",
+      "u": "m2"
+    },
+    {
+      "c": "cielorrasos--raiz",
+      "i": "wi-ar-engrosado-de-yeso-reforzado-con-cemento-usado-bajo-revestimi",
+      "k": "work_item",
+      "p": 24494.05,
+      "s": "Engrosado de yeso reforzado con cemento, usado bajo revestimientos que exigen sup.lisa",
       "u": "m2"
     },
     {
@@ -1769,6 +3737,78 @@
       "u": "m2"
     },
     {
+      "c": "estructura-de-madera--raiz",
+      "i": "wi-ar-entablonado-de-madera-en-bruto-de-3-4-pulgada-0-20-h-de-ofic",
+      "k": "work_item",
+      "p": 11152.89,
+      "s": "Entablonado de madera en bruto de 3/4 pulgada (0,20 h de oficial por m2)",
+      "u": "m2"
+    },
+    {
+      "c": "estructura-de-madera--raiz",
+      "i": "wi-ar-entablonado-de-madera-en-bruto-de-3-4-pulgada-0-30-h-de-ofic",
+      "k": "work_item",
+      "p": 13472.53,
+      "s": "Entablonado de madera en bruto de 3/4 pulgada (0,30 h de oficial por m2)",
+      "u": "m2"
+    },
+    {
+      "c": "estructura-de-madera--raiz",
+      "i": "wi-ar-entablonado-en-superficies-horizontales-madera-en-bruto-sin",
+      "k": "work_item",
+      "p": 43220.64,
+      "s": "Entablonado en superficies horizontales, madera en bruto sin cepillar",
+      "u": "m2"
+    },
+    {
+      "c": "estructura-de-madera--raiz",
+      "i": "wi-ar-entablonado-en-superficies-verticales-madera-en-bruto-sin-ce",
+      "k": "work_item",
+      "p": 23407.25,
+      "s": "Entablonado en superficies verticales, madera en bruto sin cepillar",
+      "u": "m2"
+    },
+    {
+      "c": "estructura-de-madera--raiz",
+      "i": "wi-ar-entablonado-machihembrado-cepillado-de-3-4-pulgada-0-25-h-de",
+      "k": "work_item",
+      "p": 12312.71,
+      "s": "Entablonado machihembrado cepillado de 3/4 pulgada (0,25 h de oficial por m2)",
+      "u": "m2"
+    },
+    {
+      "c": "estructura-de-madera--raiz",
+      "i": "wi-ar-entablonado-machihembrado-cepillado-de-3-4-pulgada-0-35-h-de",
+      "k": "work_item",
+      "p": 14632.36,
+      "s": "Entablonado machihembrado cepillado de 3/4 pulgada (0,35 h de oficial por m2)",
+      "u": "m2"
+    },
+    {
+      "c": "entrepisos--raiz",
+      "i": "wi-ar-entrepiso-con-estructura-de-madera-luces-menores-a-3-5-mts-t",
+      "k": "work_item",
+      "p": 87768.08,
+      "s": "Entrepiso con estructura de madera, luces menores a 3,5 mts. tirantes 2\" x 5\" cada 0,6m-cepillados",
+      "u": "m2"
+    },
+    {
+      "c": "entrepisos--raiz",
+      "i": "wi-ar-entrepiso-con-estructura-metalica-luces-menores-a-3-5-mts-pe",
+      "k": "work_item",
+      "p": 91661.54,
+      "s": "Entrepiso con estructura metálica, luces menores a 3,5 mts. perfiles \"c\" 100x45x10x2 cada 50 cm",
+      "u": "m2"
+    },
+    {
+      "c": "entrepisos--raiz",
+      "i": "wi-ar-entrepiso-losa-h-premoldeado-con-alma-de-poliestireno-expand",
+      "k": "work_item",
+      "p": 67131.13,
+      "s": "Entrepiso losa H° premoldeado con alma de poliestireno expandido, hasta 7,2 m de luces. espesor de losa 15 cm",
+      "u": "m2"
+    },
+    {
       "c": "seguridad-e-higiene--proteccion",
       "i": "wi-ar-equipo-de-proteccion-personal-por-operario",
       "k": "work_item",
@@ -1777,18 +3817,66 @@
       "u": "u"
     },
     {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-escalera-de-h-a-sin-revestir-ancho-0-90-m-tramos-rectos",
+      "k": "work_item",
+      "p": 217117.78,
+      "s": "Escalera de H° A°, sin revestir-ancho 0,90 m,tramos rectos",
+      "u": "u"
+    },
+    {
+      "c": "estructura-de-madera--raiz",
+      "i": "wi-ar-escalera-de-madera-huellas-y-contrahuellas-encastradas-tramo",
+      "k": "work_item",
+      "p": 87579.62,
+      "s": "Escalera de madera, huellas y contrahuellas encastradas, tramos rectos",
+      "u": "u"
+    },
+    {
+      "c": "estructura-metalica--raiz",
+      "i": "wi-ar-escaleras-metalicas-prefabricacion-en-obrador",
+      "k": "work_item",
+      "p": 4228.71,
+      "s": "Escaleras metálicas, prefabricación en obrador",
+      "u": "kg"
+    },
+    {
       "c": "pinturas--herreria",
       "i": "wi-ar-esmalte-sintetico-sobre-herreria-con-convertidor-de-oxido",
       "k": "work_item",
-      "p": 14406.23,
+      "p": 14493.8,
       "s": "Esmalte sintético sobre herrería con convertidor de óxido",
+      "u": "m2"
+    },
+    {
+      "c": "estructura-metalica--raiz",
+      "i": "wi-ar-estructura-completa-de-columnas-y-vigas-de-hierro-altura-3-0",
+      "k": "work_item",
+      "p": 55429.56,
+      "s": "Estructura completa de columnas y vigas de hierro, altura 3,00 m, luz 4,50 m",
+      "u": "m2"
+    },
+    {
+      "c": "cielorrasos--raiz",
+      "i": "wi-ar-estructura-de-hierro-redondo-para-cielorrasos-suspendidos-co",
+      "k": "work_item",
+      "p": 42629.08,
+      "s": "Estructura de hierro redondo para cielorrasos suspendidos, colgados de losa",
+      "u": "m2"
+    },
+    {
+      "c": "cielorrasos--raiz",
+      "i": "wi-ar-estructura-de-madera-para-cielorrasos-suspendidos-para-luces",
+      "k": "work_item",
+      "p": 33302.4,
+      "s": "Estructura de madera para cielorrasos suspendidos, para luces entre 3 y 5 mts",
       "u": "m2"
     },
     {
       "c": "estructura-de-madera--techos",
       "i": "wi-ar-estructura-de-techo-de-madera-con-tirantes-de-pino-de-2x6-pu",
       "k": "work_item",
-      "p": 5345.41,
+      "p": 5246.07,
       "s": "Estructura de techo de madera con tirantes de pino de 2x6 pulgadas",
       "u": "m2"
     },
@@ -1796,9 +3884,241 @@
       "c": "estructura-de-madera--techos",
       "i": "wi-ar-estructura-de-techo-de-madera-con-tirantes-de-pino-de-3x6-pu",
       "k": "work_item",
-      "p": 7366.08,
+      "p": 7266.74,
       "s": "Estructura de techo de madera con tirantes de pino de 3x6 pulgadas",
       "u": "m2"
+    },
+    {
+      "c": "cielorrasos--raiz",
+      "i": "wi-ar-estructura-independiente-de-hierro-para-cielorrasos-susp-de",
+      "k": "work_item",
+      "p": 60975.95,
+      "s": "Estructura independiente de hierro para cielorrasos susp, de perfiles metálicos y hierros redondos",
+      "u": "m2"
+    },
+    {
+      "c": "estructura-metalica--raiz",
+      "i": "wi-ar-estructura-semi-pesada-de-hierro-menores-a-ipn-n-24",
+      "k": "work_item",
+      "p": 3752.61,
+      "s": "Estructura semi pesada de hierro, menores a ipn N° 24",
+      "u": "kg"
+    },
+    {
+      "c": "estructura-metalica--raiz",
+      "i": "wi-ar-estructuras-de-chapa-de-hierro-galvanizado-l-u-c-omega-coloc",
+      "k": "work_item",
+      "p": 4674.08,
+      "s": "Estructuras de chapa de hierro galvanizado-\"l\"-\"u\"-\"c\"-omega, colocación abulonada",
+      "u": "kg"
+    },
+    {
+      "c": "estructura-metalica--raiz",
+      "i": "wi-ar-estructuras-de-cubiertas-con-pendiente-con-perfiles-ch-galv",
+      "k": "work_item",
+      "p": 19142.31,
+      "s": "Estructuras de cubiertas con pendiente-con perfiles CH° galv, perfiles \"u\"-\"c\"-\"l\"-omega y similares-abulonados",
+      "u": "m2"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-de-h-a-bases-centricas-con-encofrado",
+      "k": "work_item",
+      "p": 595789.16,
+      "s": "Estructuras de h A°-BASES centricas, con encofrado",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-de-h-a-bases-centricas-sin-encofrado",
+      "k": "work_item",
+      "p": 487739.15,
+      "s": "Estructuras de h A°-BASES centricas, sin encofrado",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-de-h-a-columnas-25x25",
+      "k": "work_item",
+      "p": 1382740.73,
+      "s": "Estructuras de H° A°-COLUMNAS 25x25",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-de-h-a-columnas-30x30",
+      "k": "work_item",
+      "p": 1208075.28,
+      "s": "Estructuras de H° A°-COLUMNAS 30x30",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-de-h-a-columnas-40x40",
+      "k": "work_item",
+      "p": 1118654.63,
+      "s": "Estructuras de H° A°-COLUMNAS 40x40",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-de-h-a-plateas",
+      "k": "work_item",
+      "p": 549584.88,
+      "s": "Estructuras de h A°-PLATEAS",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-de-h-a-plateas-espesor-20-cm",
+      "k": "work_item",
+      "p": 92894.89,
+      "s": "Estructuras de h A°-PLATEAS, espesor 20 cm",
+      "u": "m2"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-de-h-a-tabique-de-baranda-alto-1-m-espesor-7-cm",
+      "k": "work_item",
+      "p": 915997.01,
+      "s": "Estructuras de H° A°-TABIQUE de baranda, alto 1 m-espesor 7 cm",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-de-h-a-tabique-espesor-12-cm-encofrado-un-solo-l",
+      "k": "work_item",
+      "p": 838042.52,
+      "s": "Estructuras de H° A°-TABIQUE, espesor 12 cm-encofrado un solo lado",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-de-h-a-tensores",
+      "k": "work_item",
+      "p": 1669941.92,
+      "s": "Estructuras de H° A°-TENSORES",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-de-h-a-vigas-20x50",
+      "k": "work_item",
+      "p": 1172836.39,
+      "s": "Estructuras de H° A°-VIGAS 20x50",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-de-h-a-vigas-30x90",
+      "k": "work_item",
+      "p": 1063289.18,
+      "s": "Estructuras de H° A°-VIGAS 30x90",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-de-h-a-vigas-de-fundacion",
+      "k": "work_item",
+      "p": 988117.55,
+      "s": "Estructuras de H° A°-VIGAS de fundación",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-h-a-bases-dados-para-asiento-maquinas",
+      "k": "work_item",
+      "p": 721105.72,
+      "s": "Estructuras H° A°-BASES-DADOS para asiento maquinas",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-h-a-columna-30x30-a-la-vista",
+      "k": "work_item",
+      "p": 1276844.87,
+      "s": "Estructuras H° A°-COLUMNA 30x30-a la vista",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-h-a-graderia-escalones-20x40-espesor-de-losa-12",
+      "k": "work_item",
+      "p": 935983.92,
+      "s": "Estructuras H° A°-GRADERIA-ESCALONES 20x40, espesor de losa 12 cm",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-h-a-losa-maciza-a-la-vista-espesor-10-cm",
+      "k": "work_item",
+      "p": 833781.93,
+      "s": "Estructuras H° A°-LOSA maciza-a la vista, espesor 10 cm",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-h-a-losa-maciza-espesor-10-cm",
+      "k": "work_item",
+      "p": 789560.69,
+      "s": "Estructuras H° A°-LOSA maciza, espesor 10 cm",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-h-a-tabique-a-la-vista-ambos-lados-espesor-12-cm",
+      "k": "work_item",
+      "p": 1141699.82,
+      "s": "Estructuras H° A°-TABIQUE a la vista ambos lados, espesor 12 cm",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-h-a-tabique-espesor-12-cm-encofrado-ambos-lados",
+      "k": "work_item",
+      "p": 1045964.11,
+      "s": "Estructuras H° A°-TABIQUE, espesor 12 cm-encofrado ambos lados",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-h-a-tanque-circular-espesor-de-pared-10-cm",
+      "k": "work_item",
+      "p": 1628614.89,
+      "s": "Estructuras H° A°-TANQUE circular, espesor de pared 10 cm",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-h-a-tanque-rectangular-espesor-de-pared-12-cm",
+      "k": "work_item",
+      "p": 1137049.58,
+      "s": "Estructuras H° A°-TANQUE rectangular, espesor de pared 12 cm",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-estructuras-h-a-viga-20x50-a-la-vista",
+      "k": "work_item",
+      "p": 1238093.12,
+      "s": "Estructuras H° A°-VIGA 20x50-a la vista",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-metalica--raiz",
+      "i": "wi-ar-estructuras-livianas-de-hierro-menores-a-ipn-n-12",
+      "k": "work_item",
+      "p": 3868.59,
+      "s": "Estructuras livianas de hierro, menores a ipn N° 12",
+      "u": "kg"
+    },
+    {
+      "c": "estructura-metalica--raiz",
+      "i": "wi-ar-estructuras-pesadas-de-hierro-menores-a-ipn-n-24",
+      "k": "work_item",
+      "p": 3636.63,
+      "s": "Estructuras pesadas de hierro, menores a ipn N° 24",
+      "u": "kg"
     },
     {
       "c": "movimiento-de-suelos--excavaciones",
@@ -1817,10 +4137,90 @@
       "u": "m3"
     },
     {
+      "c": "estructura-de-madera--raiz",
+      "i": "wi-ar-fieltro-y-enlistonado-sobre-entablonado-inclinado-1-3-m-de-l",
+      "k": "work_item",
+      "p": 8847.02,
+      "s": "Fieltro y enlistonado sobre entablonado inclinado, 1,3 m de listón por m2",
+      "u": "m2"
+    },
+    {
+      "c": "estructura-de-madera--raiz",
+      "i": "wi-ar-fieltro-y-enlistonado-sobre-entablonado-inclinado-1-m-de-lis",
+      "k": "work_item",
+      "p": 6294.69,
+      "s": "Fieltro y enlistonado sobre entablonado inclinado, 1 m de listón por m2",
+      "u": "m2"
+    },
+    {
+      "c": "estructura-de-madera--raiz",
+      "i": "wi-ar-fieltro-y-enlistonado-sobre-entablonado-inclinado-3-m-de-lis",
+      "k": "work_item",
+      "p": 11325.43,
+      "s": "Fieltro y enlistonado sobre entablonado inclinado, 3 m de listón por m2",
+      "u": "m2"
+    },
+    {
+      "c": "cielorrasos--raiz",
+      "i": "wi-ar-fino-de-base-cementicia-con-mezcla-predosificada",
+      "k": "work_item",
+      "p": 24350.35,
+      "s": "Fino de base cementicia-con mezcla predosificada",
+      "u": "m2"
+    },
+    {
+      "c": "cielorrasos--raiz",
+      "i": "wi-ar-fino-de-yeso-sobre-grueso-a-la-cal-tambien-para-aplicar-sobr",
+      "k": "work_item",
+      "p": 12750.75,
+      "s": "Fino de yeso sobre grueso a la cal, tambien para aplicar sobre cualquier otra sup.lisa",
+      "u": "m2"
+    },
+    {
+      "c": "cielorrasos--raiz",
+      "i": "wi-ar-fino-predosificado-bajo-losa-terminacion-al-fieltro",
+      "k": "work_item",
+      "p": 13111.34,
+      "s": "Fino predosificado bajo losa, terminación al fieltro",
+      "u": "m2"
+    },
+    {
+      "c": "cielorrasos--raiz",
+      "i": "wi-ar-fino-predosificado-bajo-losa-terminacion-fratasada",
+      "k": "work_item",
+      "p": 12233.92,
+      "s": "Fino predosificado bajo losa, terminación fratasada",
+      "u": "m2"
+    },
+    {
+      "c": "cielorrasos--raiz",
+      "i": "wi-ar-grueso-bajo-fino-a-la-cal-mezcla-1-8-1-3",
+      "k": "work_item",
+      "p": 18076.16,
+      "s": "Grueso bajo fino a la cal, mezcla: 1/8 : 1 : 3",
+      "u": "m2"
+    },
+    {
+      "c": "cielorrasos--raiz",
+      "i": "wi-ar-grueso-bajo-fino-cementicio-mezcla-1-1-5",
+      "k": "work_item",
+      "p": 19977.35,
+      "s": "Grueso bajo fino cementicio, mezcla: 1 : 1 : 5",
+      "u": "m2"
+    },
+    {
+      "c": "cielorrasos--raiz",
+      "i": "wi-ar-grueso-bajo-yeso-mezcla-1-4-1-3",
+      "k": "work_item",
+      "p": 18228.07,
+      "s": "Grueso bajo yeso, mezcla: 1/4 : 1 : 3",
+      "u": "m2"
+    },
+    {
       "c": "estructura-de-hormigon-armado--bases",
       "i": "wi-ar-hormigon-armado-para-bases-elaborado-en-obra",
       "k": "work_item",
-      "p": 907438.64,
+      "p": 924231.58,
       "s": "Hormigón armado para bases elaborado en obra",
       "u": "m3"
     },
@@ -1828,7 +4228,7 @@
       "c": "estructura-de-hormigon-armado--columnas",
       "i": "wi-ar-hormigon-armado-para-columnas-elaborado-en-obra",
       "k": "work_item",
-      "p": 854741.64,
+      "p": 871259.18,
       "s": "Hormigón armado para columnas elaborado en obra",
       "u": "m3"
     },
@@ -1836,7 +4236,7 @@
       "c": "estructura-de-hormigon-armado--dinteles",
       "i": "wi-ar-hormigon-armado-para-dinteles-elaborado-en-obra",
       "k": "work_item",
-      "p": 682227.42,
+      "p": 698469.57,
       "s": "Hormigón armado para dinteles elaborado en obra",
       "u": "m3"
     },
@@ -1844,7 +4244,7 @@
       "c": "estructura-de-hormigon-armado--encadenados",
       "i": "wi-ar-hormigon-armado-para-encadenados-elaborado-en-obra",
       "k": "work_item",
-      "p": 710304.29,
+      "p": 725995.65,
       "s": "Hormigón armado para encadenados elaborado en obra",
       "u": "m3"
     },
@@ -1852,7 +4252,7 @@
       "c": "estructura-de-hormigon-armado--escaleras",
       "i": "wi-ar-hormigon-armado-para-escaleras-elaborado-en-obra",
       "k": "work_item",
-      "p": 529777.32,
+      "p": 545468.68,
       "s": "Hormigón armado para escaleras elaborado en obra",
       "u": "m3"
     },
@@ -1860,7 +4260,7 @@
       "c": "estructura-de-hormigon-armado--losas",
       "i": "wi-ar-hormigon-armado-para-losas-macizas-elaborado-en-obra",
       "k": "work_item",
-      "p": 609954.67,
+      "p": 625095.25,
       "s": "Hormigón armado para losas macizas elaborado en obra",
       "u": "m3"
     },
@@ -1868,7 +4268,7 @@
       "c": "estructura-de-hormigon-armado--plateas",
       "i": "wi-ar-hormigon-armado-para-plateas-elaborado-en-obra",
       "k": "work_item",
-      "p": 529777.32,
+      "p": 545468.68,
       "s": "Hormigón armado para plateas elaborado en obra",
       "u": "m3"
     },
@@ -1876,7 +4276,7 @@
       "c": "estructura-de-hormigon-armado--tabiques",
       "i": "wi-ar-hormigon-armado-para-tabiques-elaborado-en-obra",
       "k": "work_item",
-      "p": 849482.81,
+      "p": 865174.17,
       "s": "Hormigón armado para tabiques elaborado en obra",
       "u": "m3"
     },
@@ -1884,7 +4284,7 @@
       "c": "estructura-de-hormigon-armado--vigas",
       "i": "wi-ar-hormigon-armado-para-vigas-elaborado-en-obra",
       "k": "work_item",
-      "p": 805575.23,
+      "p": 820991.21,
       "s": "Hormigón armado para vigas elaborado en obra",
       "u": "m3"
     },
@@ -1897,10 +4297,26 @@
       "u": "m3"
     },
     {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-hormigon-elaborado-en-obra-tipo-h-21-en-hormigonera-de-350-l",
+      "k": "work_item",
+      "p": 214487.18,
+      "s": "Hormigón elaborado en obra-tipo h-21, en hormigonera de 350 lts",
+      "u": "m3"
+    },
+    {
+      "c": "estructura-de-hormigon-armado--raiz",
+      "i": "wi-ar-hormigon-elaborado-puesto-sobre-encofrado-traslado-y-llenado",
+      "k": "work_item",
+      "p": 218086.39,
+      "s": "Hormigón elaborado puesto sobre encofrado, traslado y llenado, traslado manual con carros",
+      "u": "m3"
+    },
+    {
       "c": "estructura-de-hormigon-armado--hormigones",
       "i": "wi-ar-hormigon-h-17-elaborado-en-obra",
       "k": "work_item",
-      "p": 183159.39,
+      "p": 196659.61,
       "s": "Hormigón H-17 elaborado en obra",
       "u": "m3"
     },
@@ -1908,7 +4324,7 @@
       "c": "estructura-de-hormigon-armado--hormigones",
       "i": "wi-ar-hormigon-pobre-elaborado-en-obra",
       "k": "work_item",
-      "p": 145805.43,
+      "p": 153079.72,
       "s": "Hormigón pobre elaborado en obra",
       "u": "m3"
     },
@@ -1932,7 +4348,7 @@
       "c": "estructura-de-hormigon-armado--losas-alivianadas",
       "i": "wi-ar-losa-alivianada-de-viguetas-pretensadas-y-bloque-de-poliesti",
       "k": "work_item",
-      "p": 95643.54,
+      "p": 96591.77,
       "s": "Losa alivianada de viguetas pretensadas y bloque de poliestireno para luz de hasta 4 m",
       "u": "m2"
     },
@@ -1940,31 +4356,111 @@
       "c": "estructura-de-hormigon-armado--losas-alivianadas",
       "i": "wi-ar-losa-alivianada-de-viguetas-pretensadas-y-ladrillo-ceramico",
       "k": "work_item",
-      "p": 105402.24,
+      "p": 106350.47,
       "s": "Losa alivianada de viguetas pretensadas y ladrillo cerámico para luz de hasta 4 m",
+      "u": "m2"
+    },
+    {
+      "c": "entrepisos--raiz",
+      "i": "wi-ar-losa-de-viguetas-dobles-y-ladrillos-ceramicos-de-12-5-cm-luz",
+      "k": "work_item",
+      "p": 82203.73,
+      "s": "Losa de viguetas dobles y ladrillos cerámicos de 12,5 cm, luz 3,50 m",
+      "u": "m2"
+    },
+    {
+      "c": "entrepisos--raiz",
+      "i": "wi-ar-losa-de-viguetas-huecas-pretensadas-viguetas-de-9-5cm-de-esp",
+      "k": "work_item",
+      "p": 43787.05,
+      "s": "Losa de viguetas huecas pretensadas, viguetas de 9,5cm de espesor x 0,30m de ancho. capa de compresión 4 cm. peso…",
+      "u": "m2"
+    },
+    {
+      "c": "entrepisos--raiz",
+      "i": "wi-ar-losa-de-viguetas-y-bloques-de-eps-de-12-5-cm-luz-3-50-m",
+      "k": "work_item",
+      "p": 53715.5,
+      "s": "Losa de viguetas y bloques de EPS de 12,5 cm, luz 3,50 m",
+      "u": "m2"
+    },
+    {
+      "c": "entrepisos--raiz",
+      "i": "wi-ar-losa-de-viguetas-y-bloques-de-eps-de-16-5-cm-luz-3-50-m",
+      "k": "work_item",
+      "p": 58750.42,
+      "s": "Losa de viguetas y bloques de EPS de 16,5 cm, luz 3,50 m",
+      "u": "m2"
+    },
+    {
+      "c": "entrepisos--raiz",
+      "i": "wi-ar-losa-de-viguetas-y-ladrillos-ceramicos-de-12-5-cm-luz-3-50-m",
+      "k": "work_item",
+      "p": 70975.63,
+      "s": "Losa de viguetas y ladrillos cerámicos de 12,5 cm, luz 3,50 m",
+      "u": "m2"
+    },
+    {
+      "c": "entrepisos--raiz",
+      "i": "wi-ar-losa-de-viguetas-y-ladrillos-ceramicos-de-9-cm-luz-3-50-m",
+      "k": "work_item",
+      "p": 61033.95,
+      "s": "Losa de viguetas y ladrillos cerámicos de 9 cm, luz 3,50 m",
       "u": "m2"
     },
     {
       "c": "estructura-de-hormigon-armado--estructura-resistente",
       "i": "wi-ar-losa-maciza-de-hormigon-armado",
       "k": "work_item",
-      "p": 242831.76,
+      "p": 257076.39,
       "s": "Losa maciza de hormigón armado",
       "u": "m3"
+    },
+    {
+      "c": "mamposteria--raiz",
+      "i": "wi-ar-mamposteria-0-30m-ladrillos-comunes-mezcla-1-8-1-3",
+      "k": "work_item",
+      "p": 83751.14,
+      "s": "Mampostería 0,30m-ladrillos comunes, mezcla: 1/8 : 1 : 3",
+      "u": "m2"
+    },
+    {
+      "c": "mamposteria--raiz",
+      "i": "wi-ar-mamposteria-0-30m-ladrillos-vista-mezcla-1-8-1-3",
+      "k": "work_item",
+      "p": 96052.16,
+      "s": "Mampostería 0,30m-ladrillos vista, mezcla: 1/8 : 1 : 3",
+      "u": "m2"
     },
     {
       "c": "albanileria--mamposteria",
       "i": "wi-ar-mamposteria-de-bloque-de-hormigon-19x19x39",
       "k": "work_item",
-      "p": 41869.43,
+      "p": 42120.97,
       "s": "Mampostería de bloque de hormigón 19x19x39",
+      "u": "m2"
+    },
+    {
+      "c": "mamposteria--raiz",
+      "i": "wi-ar-mamposteria-de-bloques-de-hormigon-10x20x40-mezcla-con-cemen",
+      "k": "work_item",
+      "p": 36000.67,
+      "s": "Mampostería de bloques de hormigón 10x20x40, mezcla: con cemento de albañilería",
+      "u": "m2"
+    },
+    {
+      "c": "mamposteria--raiz",
+      "i": "wi-ar-mamposteria-de-bloques-de-hormigon-15x20x40-mezcla-con-cemen",
+      "k": "work_item",
+      "p": 49769.12,
+      "s": "Mampostería de bloques de hormigón 15x20x40, mezcla: con cemento de albañilería",
       "u": "m2"
     },
     {
       "c": "albanileria--mamposteria",
       "i": "wi-ar-mamposteria-de-elevacion-de-ladrillo-hueco-ceramico-18x18x33",
       "k": "work_item",
-      "p": 39352.19,
+      "p": 39729.5,
       "s": "Mampostería de elevación de ladrillo hueco cerámico 18x18x33",
       "u": "m2"
     },
@@ -1972,7 +4468,7 @@
       "c": "albanileria--mamposteria",
       "i": "wi-ar-mamposteria-de-elevacion-de-ladrillo-hueco-ceramico-8x18x33",
       "k": "work_item",
-      "p": 23707.32,
+      "p": 23883.4,
       "s": "Mampostería de elevación de ladrillo hueco cerámico 8x18x33",
       "u": "m2"
     },
@@ -1980,7 +4476,7 @@
       "c": "albanileria--mamposteria",
       "i": "wi-ar-mamposteria-de-ladrillo-comun-de-soga-espesor-12-cm",
       "k": "work_item",
-      "p": 28151.55,
+      "p": 31036.37,
       "s": "Mampostería de ladrillo común de soga, espesor 12 cm",
       "u": "m2"
     },
@@ -1988,15 +4484,47 @@
       "c": "albanileria--mamposteria",
       "i": "wi-ar-mamposteria-de-ladrillo-hueco-12x18x33-espesor-12-cm",
       "k": "work_item",
-      "p": 23687.77,
+      "p": 23876.42,
       "s": "Mampostería de ladrillo hueco 12x18x33, espesor 12 cm",
+      "u": "m2"
+    },
+    {
+      "c": "mamposteria--raiz",
+      "i": "wi-ar-mamposteria-de-ladrillos-comunes-para-pilares-mezcla-1-1-5",
+      "k": "work_item",
+      "p": 281170.14,
+      "s": "Mampostería de ladrillos comunes para pilares, mezcla: 1 : 1 : 5",
+      "u": "m3"
+    },
+    {
+      "c": "mamposteria--raiz",
+      "i": "wi-ar-mamposteria-en-sotanos",
+      "k": "work_item",
+      "p": 286884.42,
+      "s": "Mampostería en sotanos",
+      "u": "m3"
+    },
+    {
+      "c": "mamposteria--raiz",
+      "i": "wi-ar-mamposteria-en-submuraciones-mezcla-1-1-2-4",
+      "k": "work_item",
+      "p": 335337.65,
+      "s": "Mampostería en submuraciones, mezcla: 1 : 1/2 : 4",
+      "u": "m3"
+    },
+    {
+      "c": "mamposteria--raiz",
+      "i": "wi-ar-mamposteria-ladrillos-refractarios-6-5x11x23",
+      "k": "work_item",
+      "p": 382492.5,
+      "s": "Mampostería ladrillos refractarios 6,5x11x23",
       "u": "m2"
     },
     {
       "c": "albanileria--mamposteria",
       "i": "wi-ar-mamposteria-portante-de-ladrillo-ceramico-portante-18x19x33",
       "k": "work_item",
-      "p": 42475.45,
+      "p": 42827.61,
       "s": "Mampostería portante de ladrillo cerámico portante 18x19x33",
       "u": "m2"
     },
@@ -2004,9 +4532,49 @@
       "c": "morteros--mortero-de-cemento",
       "i": "wi-ar-mortero-de-cemento-1-6-preparado-en-obra",
       "k": "work_item",
-      "p": 110734.92,
+      "p": 123311.87,
       "s": "Mortero de cemento 1:6 preparado en obra",
       "u": "m3"
+    },
+    {
+      "c": "construccion-en-seco--raiz",
+      "i": "wi-ar-pared-divisoria-resistente-al-fuego-placa-resistente-al-fueg",
+      "k": "work_item",
+      "p": 70900.71,
+      "s": "Pared divisoria resistente al fuego, placa resistente al fuego 1,22 mx 2,44 m",
+      "u": "m2"
+    },
+    {
+      "c": "construccion-en-seco--raiz",
+      "i": "wi-ar-pared-doble-placa-comun-1-22-m-x-2-44-m-esp-12-5mm",
+      "k": "work_item",
+      "p": 53665.98,
+      "s": "Pared doble, placa común 1,22 m x 2,44 m-esp: 12,5mm",
+      "u": "m2"
+    },
+    {
+      "c": "construccion-en-seco--raiz",
+      "i": "wi-ar-pared-simple-divisoria-de-locales-humedos-placa-resistente-a",
+      "k": "work_item",
+      "p": 43843.97,
+      "s": "Pared simple divisoria de locales humedos, placa resistente a la humedad 1,22 m x 2,44 m",
+      "u": "m2"
+    },
+    {
+      "c": "construccion-en-seco--raiz",
+      "i": "wi-ar-pared-simple-revestida-de-un-solo-lado-espesor-de-pared-8-25",
+      "k": "work_item",
+      "p": 29758.58,
+      "s": "Pared simple revestida de un solo lado, espesor de pared 8,25 cm",
+      "u": "m2"
+    },
+    {
+      "c": "pavimentos--raiz",
+      "i": "wi-ar-pavimento-de-hormigon-elaborado-armado-espesor-15-cm-sobre-s",
+      "k": "work_item",
+      "p": 57554.06,
+      "s": "Pavimento de hormigón elaborado-armado, espesor 15 cm-sobre sub base existente. ejecutado con moldes rígidos y regla…",
+      "u": "m2"
     },
     {
       "c": "demoliciones-y-trabajos-previos--demoliciones",
@@ -2015,6 +4583,22 @@
       "p": 3198.59,
       "s": "Picado de revoque en paredes",
       "u": "m2"
+    },
+    {
+      "c": "fundaciones--raiz",
+      "i": "wi-ar-pilotin-de-hormigon-armado-25-cm-4-12-mm-por-m3",
+      "k": "work_item",
+      "p": 703629.24,
+      "s": "Pilotín de hormigón armado ø 25 cm, 4 ø 12 mm (por m3)",
+      "u": "m3"
+    },
+    {
+      "c": "fundaciones--raiz",
+      "i": "wi-ar-pilotin-de-hormigon-armado-25-cm-4-12-mm-por-unidad",
+      "k": "work_item",
+      "p": 49924.85,
+      "s": "Pilotín de hormigón armado ø 25 cm, 4 ø 12 mm (por unidad)",
+      "u": "u"
     },
     {
       "c": "pinturas--exteriores",
@@ -2041,11 +4625,35 @@
       "u": "m2"
     },
     {
+      "c": "pisos--raiz",
+      "i": "wi-ar-piso-de-adoquines-sobre-contrapiso-adoquin-de-piedra-natural",
+      "k": "work_item",
+      "p": 60145.31,
+      "s": "Piso de adoquines sobre contrapiso, adoquín de piedra natural 10x10x2cm",
+      "u": "m2"
+    },
+    {
+      "c": "pisos--raiz",
+      "i": "wi-ar-piso-de-baldosas-calcareas-o-ceramico-para-azotea-20x20-junt",
+      "k": "work_item",
+      "p": 37056.83,
+      "s": "Piso de baldosas calcareas o cerámico para azotea 20x20, junta cerrada",
+      "u": "m2"
+    },
+    {
       "c": "solados--pisos",
       "i": "wi-ar-piso-de-cemento-alisado",
       "k": "work_item",
-      "p": 39591.58,
+      "p": 40744.53,
       "s": "Piso de cemento alisado",
+      "u": "m2"
+    },
+    {
+      "c": "pisos--raiz",
+      "i": "wi-ar-piso-de-cemento-alisado-rodillado-o-cepillado-espesor-2-5-cm",
+      "k": "work_item",
+      "p": 17465.97,
+      "s": "Piso de cemento alisado-rodillado o cepillado, espesor 2,5 cm-(2 + 0,5 cm)",
       "u": "m2"
     },
     {
@@ -2060,24 +4668,56 @@
       "c": "solados--pisos",
       "i": "wi-ar-piso-de-ceramico-esmaltado-51x51-cm",
       "k": "work_item",
-      "p": 30889.39,
+      "p": 31962.21,
       "s": "Piso de cerámico esmaltado 51x51 cm",
+      "u": "m2"
+    },
+    {
+      "c": "pisos--raiz",
+      "i": "wi-ar-piso-de-ladrillos-comunes-junta-recta-colocado-de-plano-junt",
+      "k": "work_item",
+      "p": 30256.93,
+      "s": "Piso de ladrillos comunes, junta recta, colocado de plano. junta abierta tomada con concreto",
+      "u": "m2"
+    },
+    {
+      "c": "pisos--raiz",
+      "i": "wi-ar-piso-de-lajas-irregulares-junta-tomada-con-concreto",
+      "k": "work_item",
+      "p": 45039.77,
+      "s": "Piso de lajas irregulares, junta tomada con concreto",
       "u": "m2"
     },
     {
       "c": "solados--pisos",
       "i": "wi-ar-piso-de-mosaico-granitico-30x30-cm",
       "k": "work_item",
-      "p": 56584.55,
+      "p": 57161.02,
       "s": "Piso de mosaico granítico 30x30 cm",
+      "u": "m2"
+    },
+    {
+      "c": "pisos--raiz",
+      "i": "wi-ar-piso-de-mosaicos-graniticos-en-locales-sanitarios",
+      "k": "work_item",
+      "p": 54112.33,
+      "s": "Piso de mosaicos graniticos, en locales sanitarios",
       "u": "m2"
     },
     {
       "c": "solados--pisos",
       "i": "wi-ar-piso-de-porcelanato-60x60-cm",
       "k": "work_item",
-      "p": 58298.1,
+      "p": 58433.03,
       "s": "Piso de porcelanato 60x60 cm",
+      "u": "m2"
+    },
+    {
+      "c": "pisos--raiz",
+      "i": "wi-ar-piso-deck-madera-bastidor-clavadera-cada-60-cm",
+      "k": "work_item",
+      "p": 58123.06,
+      "s": "Piso deck-madera, bastidor clavadera cada 60 cm",
       "u": "m2"
     },
     {
@@ -2087,6 +4727,38 @@
       "p": 58808.28,
       "s": "Piso flotante laminado AC4 de 8 mm",
       "u": "m2"
+    },
+    {
+      "c": "pisos--raiz",
+      "i": "wi-ar-piso-madera-entablonada-machiembrada-clavada-espesor-de-made",
+      "k": "work_item",
+      "p": 40043.97,
+      "s": "Piso madera entablonada machiembrada-clavada, espesor de madera 2 cm",
+      "u": "m2"
+    },
+    {
+      "c": "pisos--raiz",
+      "i": "wi-ar-piso-madera-tarugada-sobre-carpeta-o-piso-liso-existente-esp",
+      "k": "work_item",
+      "p": 47604.07,
+      "s": "Piso madera tarugada-sobre  carpeta o piso liso existente, espesor de madera 2 cm",
+      "u": "m2"
+    },
+    {
+      "c": "estructura-metalica--raiz",
+      "i": "wi-ar-plataformas-y-pasarelas-de-hierro-prefabricacion-en-obrador",
+      "k": "work_item",
+      "p": 4112.73,
+      "s": "Plataformas y pasarelas de hierro, prefabricación en obrador",
+      "u": "kg"
+    },
+    {
+      "c": "instalacion-cloacal--raiz",
+      "i": "wi-ar-pozo-absorvente-4-5-m3-diametro-1-20-m-profundidad-4-00-mts",
+      "k": "work_item",
+      "p": 1517018.94,
+      "s": "Pozo absorvente, 4,5 m3, diametro 1,20 m-profundidad 4,00 mts",
+      "u": "u"
     },
     {
       "c": "seguridad-e-higiene--proteccion",
@@ -2103,6 +4775,22 @@
       "p": 104132.23,
       "s": "Provisión de matafuego de polvo ABC de 5 kg con oblea",
       "u": "u"
+    },
+    {
+      "c": "pisos--raiz",
+      "i": "wi-ar-pulido-de-pisos",
+      "k": "work_item",
+      "p": 12042.89,
+      "s": "Pulido de pisos",
+      "u": "m2"
+    },
+    {
+      "c": "movimiento-de-suelos--raiz",
+      "i": "wi-ar-relleno-con-suelo-seleccionado-e-40cm-nivelacion-y-compactac",
+      "k": "work_item",
+      "p": 109182.53,
+      "s": "Relleno con suelo seleccionado-e=40cm-, nivelación y compactación en capas de 20 cm",
+      "u": "m3"
     },
     {
       "c": "movimiento-de-suelos--rellenos-y-compactaciones",
@@ -2156,40 +4844,232 @@
       "c": "revestimientos--ceramicos",
       "i": "wi-ar-revestimiento-ceramico-esmaltado-20x30-cm",
       "k": "work_item",
-      "p": 49185.8,
+      "p": 49365.7,
       "s": "Revestimiento cerámico esmaltado 20x30 cm",
+      "u": "m2"
+    },
+    {
+      "c": "revestimientos--raiz",
+      "i": "wi-ar-revestimiento-con-madera-sobre-escalera-de-hormigon-ancho-0",
+      "k": "work_item",
+      "p": 59827.31,
+      "s": "Revestimiento con madera sobre escalera de hormigón, ancho 0,90 m,zócalo rampante,tramos rectos",
+      "u": "u"
+    },
+    {
+      "c": "revestimientos--raiz",
+      "i": "wi-ar-revestimiento-de-azulejos-15x15-colocados-con-adhesivo",
+      "k": "work_item",
+      "p": 57285.23,
+      "s": "Revestimiento de azulejos 15x15 colocados con adhesivo",
+      "u": "m2"
+    },
+    {
+      "c": "revestimientos--raiz",
+      "i": "wi-ar-revestimiento-de-azulejos-15x15-colocados-con-mezcla-de-cal",
+      "k": "work_item",
+      "p": 59361.34,
+      "s": "Revestimiento de azulejos 15x15 colocados con mezcla de cal",
+      "u": "m2"
+    },
+    {
+      "c": "revestimientos--raiz",
+      "i": "wi-ar-revestimiento-de-azulejos-15x15-decorados-no-ortogonal-con-j",
+      "k": "work_item",
+      "p": 66152.83,
+      "s": "Revestimiento de azulejos 15x15-decorados-no ortogonal, con junta cerrada, colocados con adhesivo",
+      "u": "m2"
+    },
+    {
+      "c": "revestimientos--raiz",
+      "i": "wi-ar-revestimiento-de-ceramicos-sobre-escalera-de-hormigon-con-na",
+      "k": "work_item",
+      "p": 59416.19,
+      "s": "Revestimiento de cerámicos sobre escalera de hormigón, con nariz de madera, zócalo cerámico",
+      "u": "u"
+    },
+    {
+      "c": "revestimientos--raiz",
+      "i": "wi-ar-revestimiento-de-escalones-con-ladrillos-de-maquina-sobre-te",
+      "k": "work_item",
+      "p": 163002.25,
+      "s": "Revestimiento de escalones con ladrillos de máquina, sobre terreno natural con base H° pobre",
+      "u": "m2"
+    },
+    {
+      "c": "revestimientos--raiz",
+      "i": "wi-ar-revestimiento-de-madera-machihembrada",
+      "k": "work_item",
+      "p": 21224.09,
+      "s": "Revestimiento de madera machihembrada",
+      "u": "m2"
+    },
+    {
+      "c": "construccion-en-seco--raiz",
+      "i": "wi-ar-revestimiento-de-pared-existente-sobre-perfil-omega-placa-co",
+      "k": "work_item",
+      "p": 25738.34,
+      "s": "Revestimiento de pared existente-sobre perfil omega, placa común 1,22 m x 2,44 m-esp: 12,5mm",
+      "u": "m2"
+    },
+    {
+      "c": "revestimientos--raiz",
+      "i": "wi-ar-revestimiento-de-piedra-natural-espesor-1-2-cm",
+      "k": "work_item",
+      "p": 49868.99,
+      "s": "Revestimiento de piedra natural, espesor 1,2 cm",
       "u": "m2"
     },
     {
       "c": "revestimientos--ceramicos",
       "i": "wi-ar-revestimiento-de-porcelanato-en-paramento",
       "k": "work_item",
-      "p": 58298.1,
+      "p": 58433.03,
       "s": "Revestimiento de porcelanato en paramento",
+      "u": "m2"
+    },
+    {
+      "c": "revestimientos--raiz",
+      "i": "wi-ar-revestimiento-de-tejuelas-imitacion-ladrillo-comun-con-tomad",
+      "k": "work_item",
+      "p": 56822.88,
+      "s": "Revestimiento de tejuelas imitacion ladrillo comun, con tomado de juntas al concreto",
+      "u": "m2"
+    },
+    {
+      "c": "revoques--raiz",
+      "i": "wi-ar-revoque-exterior-completo-a-la-cal-incluye-planchado-de-azot",
+      "k": "work_item",
+      "p": 32608.66,
+      "s": "Revoque exterior completo a la cal, incluye planchado de azotado hidrófugo",
       "u": "m2"
     },
     {
       "c": "revoques--exteriores",
       "i": "wi-ar-revoque-exterior-completo-impermeable-grueso-y-fino",
       "k": "work_item",
-      "p": 36758.02,
+      "p": 38021.31,
       "s": "Revoque exterior completo, impermeable, grueso y fino",
+      "u": "m2"
+    },
+    {
+      "c": "revoques--raiz",
+      "i": "wi-ar-revoque-fino-a-la-cal-espesor-4-mm",
+      "k": "work_item",
+      "p": 9271.78,
+      "s": "Revoque fino a la cal, espesor 4 mm",
+      "u": "m2"
+    },
+    {
+      "c": "revoques--raiz",
+      "i": "wi-ar-revoque-fino-a-la-cal-predosificado-espesor-3-mm-grueso-sin",
+      "k": "work_item",
+      "p": 7321.31,
+      "s": "Revoque fino a la cal-predosificado, espesor 3 mm-grueso sin peinar",
+      "u": "m2"
+    },
+    {
+      "c": "revoques--raiz",
+      "i": "wi-ar-revoque-fino-exterior-a-la-cal-espesor-3-mm",
+      "k": "work_item",
+      "p": 5717.89,
+      "s": "Revoque fino exterior a la cal, espesor 3 mm",
+      "u": "m2"
+    },
+    {
+      "c": "revoques--raiz",
+      "i": "wi-ar-revoque-fino-interior-a-la-cal-espesor-3-mm",
+      "k": "work_item",
+      "p": 6257.3,
+      "s": "Revoque fino interior a la cal, espesor 3 mm",
+      "u": "m2"
+    },
+    {
+      "c": "revoques--raiz",
+      "i": "wi-ar-revoque-fino-para-frentes-predosificado-base-cement-salpicad",
+      "k": "work_item",
+      "p": 16288.12,
+      "s": "Revoque fino para frentes-predosificado-base cement, salpicado con molinete de mano",
       "u": "m2"
     },
     {
       "c": "revoques--interiores",
       "i": "wi-ar-revoque-grueso-bajo-revestimiento",
       "k": "work_item",
-      "p": 16228.13,
+      "p": 16689.31,
       "s": "Revoque grueso bajo revestimiento",
+      "u": "m2"
+    },
+    {
+      "c": "revoques--raiz",
+      "i": "wi-ar-revoque-grueso-de-perlita-de-2-cm-5-1-kg-de-cemento-por-m2",
+      "k": "work_item",
+      "p": 20826.25,
+      "s": "Revoque grueso de perlita de 2 cm, 5,1 kg de cemento por m2",
+      "u": "m2"
+    },
+    {
+      "c": "revoques--raiz",
+      "i": "wi-ar-revoque-grueso-de-perlita-de-2-cm-5-9-kg-de-cemento-por-m2",
+      "k": "work_item",
+      "p": 21463.83,
+      "s": "Revoque grueso de perlita de 2 cm, 5,9 kg de cemento por m2",
+      "u": "m2"
+    },
+    {
+      "c": "revoques--raiz",
+      "i": "wi-ar-revoque-grueso-de-vermiculita-como-aislante-termico-espesor",
+      "k": "work_item",
+      "p": 43790.26,
+      "s": "Revoque grueso de vermiculita, como aislante térmico-espesor 2 cm",
+      "u": "m2"
+    },
+    {
+      "c": "revoques--raiz",
+      "i": "wi-ar-revoque-grueso-exterior-reforzado-espesor-2-2-cm",
+      "k": "work_item",
+      "p": 18493.38,
+      "s": "Revoque grueso exterior reforzado, espesor 2,2 cm",
+      "u": "m2"
+    },
+    {
+      "c": "revoques--raiz",
+      "i": "wi-ar-revoque-grueso-interior-bajo-revestimiento-para-revestimient",
+      "k": "work_item",
+      "p": 13300.24,
+      "s": "Revoque grueso interior-bajo revestimiento, para revestimiento colocado a la cal",
       "u": "m2"
     },
     {
       "c": "revoques--interiores",
       "i": "wi-ar-revoque-interior-completo-a-la-cal-grueso-y-fino",
       "k": "work_item",
-      "p": 21099.5,
+      "p": 21976.41,
       "s": "Revoque interior completo a la cal, grueso y fino",
+      "u": "m2"
+    },
+    {
+      "c": "revoques--raiz",
+      "i": "wi-ar-revoque-interior-completo-mezcla-az-gr-1-4-1-3-1-fn-1-8-1-3",
+      "k": "work_item",
+      "p": 17741.77,
+      "s": "Revoque interior completo, mezcla: az.:gr.: 1/4 : 1 : 3 : 1, fn.: 1/8 : 1 : 3",
+      "u": "m2"
+    },
+    {
+      "c": "cielorrasos--raiz",
+      "i": "wi-ar-salpicado-de-concreto-sobre-losa-para-recibir-grueso-mezcla",
+      "k": "work_item",
+      "p": 5308.92,
+      "s": "Salpicado de concreto sobre losa para recibir grueso, mezcla: 1 : 3",
+      "u": "m2"
+    },
+    {
+      "c": "cielorrasos--raiz",
+      "i": "wi-ar-salpicado-de-concreto-sobre-metal-desplegado-mezcla-1-3",
+      "k": "work_item",
+      "p": 10043.15,
+      "s": "Salpicado de concreto sobre metal desplegado, mezcla 1 : 3",
       "u": "m2"
     },
     {
@@ -2201,10 +5081,42 @@
       "u": "mes"
     },
     {
+      "c": "estructura-metalica--raiz",
+      "i": "wi-ar-soportes-livianos-para-canerias-menores-a-4",
+      "k": "work_item",
+      "p": 4552.32,
+      "s": "Soportes livianos-para cañerías, menores a ø 4\"",
+      "u": "kg"
+    },
+    {
+      "c": "estructura-metalica--raiz",
+      "i": "wi-ar-soportes-pesados-para-canerias-mayores-a-4",
+      "k": "work_item",
+      "p": 4204.38,
+      "s": "Soportes pesados-para cañerías, mayores a ø 4\"",
+      "u": "kg"
+    },
+    {
+      "c": "construccion-en-seco--raiz",
+      "i": "wi-ar-tabique-con-estructura-de-madera-1-x-2-placa-comun-1-22-m-x",
+      "k": "work_item",
+      "p": 35216.89,
+      "s": "Tabique con estructura de madera 1\" x 2\", placa común 1,22 m x 2,44 m-esp: 12,5mm",
+      "u": "m2"
+    },
+    {
+      "c": "construccion-en-seco--raiz",
+      "i": "wi-ar-tabique-con-estructura-de-madera-2-x-2-placa-comun-1-22-m-x",
+      "k": "work_item",
+      "p": 45106.05,
+      "s": "Tabique con estructura de madera 2\" x 2\", placa común 1,22 m x 2,44 m-esp: 12,5mm",
+      "u": "m2"
+    },
+    {
       "c": "albanileria--construccion-en-seco",
       "i": "wi-ar-tabique-interior-de-placa-de-roca-de-yeso",
       "k": "work_item",
-      "p": 28329.4,
+      "p": 31006.21,
       "s": "Tabique interior de placa de roca de yeso",
       "u": "m2"
     },
@@ -2217,10 +5129,58 @@
       "u": "u"
     },
     {
+      "c": "instalacion-de-agua--raiz",
+      "i": "wi-ar-tanque-de-reserva-domiciliario-cap-1100-lts-tanque-tricapa-1",
+      "k": "work_item",
+      "p": 474619.81,
+      "s": "Tanque de reserva domiciliario-cap. 1100 lts, tanque tricapa 1,44 m altura, 1,10 m diametro. se considera que el…",
+      "u": "u"
+    },
+    {
+      "c": "instalaciones-especiales--raiz",
+      "i": "wi-ar-tritubo-para-fibra-optica",
+      "k": "work_item",
+      "p": 24897.97,
+      "s": "Tritubo, para fibra óptica",
+      "u": "m"
+    },
+    {
+      "c": "fundaciones--raiz",
+      "i": "wi-ar-viga-de-fundacion-de-h-a-con-encofrado-339-kg-de-cemento-por",
+      "k": "work_item",
+      "p": 724321.45,
+      "s": "Viga de fundación de H°A° con encofrado, 339 kg de cemento por m3",
+      "u": "m3"
+    },
+    {
+      "c": "fundaciones--raiz",
+      "i": "wi-ar-viga-de-fundacion-de-h-a-con-encofrado-376-kg-de-cemento-por",
+      "k": "work_item",
+      "p": 727655.31,
+      "s": "Viga de fundación de H°A° con encofrado, 376 kg de cemento por m3",
+      "u": "m3"
+    },
+    {
+      "c": "fundaciones--raiz",
+      "i": "wi-ar-viga-de-fundacion-de-h-a-sin-encofrado-339-kg-de-cemento-por",
+      "k": "work_item",
+      "p": 646868.39,
+      "s": "Viga de fundación de H°A° sin encofrado, 339 kg de cemento por m3",
+      "u": "m3"
+    },
+    {
+      "c": "fundaciones--raiz",
+      "i": "wi-ar-viga-de-fundacion-de-h-a-sin-encofrado-376-kg-de-cemento-por",
+      "k": "work_item",
+      "p": 649254.62,
+      "s": "Viga de fundación de H°A° sin encofrado, 376 kg de cemento por m3",
+      "u": "m3"
+    },
+    {
       "c": "estructura-de-hormigon-armado--fundaciones",
       "i": "wi-ar-viga-de-fundacion-de-hormigon-armado",
       "k": "work_item",
-      "p": 275808.07,
+      "p": 289501.91,
       "s": "Viga de fundación de hormigón armado",
       "u": "m3"
     },
@@ -2228,7 +5188,7 @@
       "c": "estructura-metalica--perfiles",
       "i": "wi-ar-viga-de-perfil-ipn-100-colocada-y-pintada",
       "k": "work_item",
-      "p": 24213.83,
+      "p": 24227.78,
       "s": "Viga de perfil IPN 100 colocada y pintada",
       "u": "m"
     },
@@ -2236,7 +5196,7 @@
       "c": "estructura-metalica--perfiles",
       "i": "wi-ar-viga-de-perfil-ipn-120-colocada-y-pintada",
       "k": "work_item",
-      "p": 27734.94,
+      "p": 27748.9,
       "s": "Viga de perfil IPN 120 colocada y pintada",
       "u": "m"
     },
@@ -2244,8 +5204,72 @@
       "c": "estructura-de-hormigon-armado--estructura-resistente",
       "i": "wi-ar-viga-resistente-de-hormigon-armado",
       "k": "work_item",
-      "p": 233592.89,
+      "p": 247562.12,
       "s": "Viga resistente de hormigón armado",
+      "u": "m3"
+    },
+    {
+      "c": "fundaciones--raiz",
+      "i": "wi-ar-zapata-de-hormigon-armado-prof-1-50-m-elaborado-en-hormigone",
+      "k": "work_item",
+      "p": 283206.69,
+      "s": "Zapata de hormigón armado, prof.=1,50 m-elaborado en hormigonera",
+      "u": "m3"
+    },
+    {
+      "c": "fundaciones--raiz",
+      "i": "wi-ar-zapata-de-hormigon-pobre-de-cascotes-154-kg-m3-de-cemento-de",
+      "k": "work_item",
+      "p": 173330.94,
+      "s": "Zapata de hormigón pobre de cascotes, 154 kg/m3 de cemento de albañilería",
+      "u": "m3"
+    },
+    {
+      "c": "fundaciones--raiz",
+      "i": "wi-ar-zapata-de-hormigon-pobre-de-cascotes-220-kg-m3-de-cemento-de",
+      "k": "work_item",
+      "p": 185791.88,
+      "s": "Zapata de hormigón pobre de cascotes, 220 kg/m3 de cemento de albañilería",
+      "u": "m3"
+    },
+    {
+      "c": "fundaciones--raiz",
+      "i": "wi-ar-zapata-de-hormigon-pobre-de-cascotes-con-cal-135-kg-de-cemen",
+      "k": "work_item",
+      "p": 187729.54,
+      "s": "Zapata de hormigón pobre de cascotes con cal, 135 kg de cemento por m3",
+      "u": "m3"
+    },
+    {
+      "c": "fundaciones--raiz",
+      "i": "wi-ar-zapata-de-hormigon-pobre-de-cascotes-con-cal-92-kg-de-cement",
+      "k": "work_item",
+      "p": 177163.94,
+      "s": "Zapata de hormigón pobre de cascotes con cal, 92 kg de cemento por m3",
+      "u": "m3"
+    },
+    {
+      "c": "fundaciones--raiz",
+      "i": "wi-ar-zapata-de-hormigon-simple-prof-1-50-m-elaborado-en-hormigone",
+      "k": "work_item",
+      "p": 263642.76,
+      "s": "Zapata de hormigón simple, prof.=1,50 m-elaborado en hormigonera",
+      "u": "m3"
+    },
+    {
+      "c": "fundaciones--raiz",
+      "i": "wi-ar-zapata-de-mamposteria-ladrillos-comunes-con-cemento-de-alban",
+      "k": "work_item",
+      "p": 257407.09,
+      "s": "Zapata de mampostería ladrillos comunes, con cemento de albañilería",
+      "u": "m3"
+    },
+    {
+      "c": "fundaciones--raiz",
+      "i": "wi-ar-zapata-de-mamposteria-ladrillos-comunes-mezcla-1-4-1-3",
+      "k": "work_item",
+      "p": 263604.65,
+      "s": "Zapata de mampostería ladrillos comunes, mezcla: 1/4 : 1 : 3",
       "u": "m3"
     },
     {
@@ -2257,11 +5281,35 @@
       "u": "m"
     },
     {
+      "c": "zocalos--raiz",
+      "i": "wi-ar-zocalo-de-adoquin-10x10-mezcla-1-3",
+      "k": "work_item",
+      "p": 10701.51,
+      "s": "Zócalo de adoquín 10x10, mezcla: 1 : 3",
+      "u": "m"
+    },
+    {
+      "c": "zocalos--raiz",
+      "i": "wi-ar-zocalo-de-lajas-irregulares-altura-10-cm",
+      "k": "work_item",
+      "p": 9042.44,
+      "s": "Zócalo de lajas irregulares, altura 10 cm",
+      "u": "m"
+    },
+    {
       "c": "solados--zocalos",
       "i": "wi-ar-zocalo-de-mdf-prepintado-blanco-de-7-cm",
       "k": "work_item",
       "p": 6831.42,
       "s": "Zócalo de MDF prepintado blanco de 7 cm",
+      "u": "m"
+    },
+    {
+      "c": "zocalos--raiz",
+      "i": "wi-ar-zocalo-de-piedra-natural-estesor-12-mm-altura-10-cm-largo-va",
+      "k": "work_item",
+      "p": 9924.96,
+      "s": "Zócalo de piedra natural, estesor 12 mm-altura 10 cm-largo variable",
       "u": "m"
     },
     {
@@ -2271,7 +5319,15 @@
       "p": 8607.11,
       "s": "Zócalo de poliestireno expandido de 7 cm colocado",
       "u": "m"
+    },
+    {
+      "c": "marmoles-y-granitos--raiz",
+      "i": "wi-ar-zocalos-en-piso-de-marmol-o-granito",
+      "k": "work_item",
+      "p": 31169.49,
+      "s": "Zocalos en piso de marmol o granito",
+      "u": "m"
     }
   ],
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

@@ -1,0 +1,259 @@
+{
+  "key": "estructura-de-hormigon-armado--raiz",
+  "rows": [
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-armadura-solamente-cortado-doblado-atado-y-montado-sobre-enc",
+      "m": 5,
+      "p": 3671380.83,
+      "s": "Armadura solamente, cortado, doblado, atado y montado sobre encofrado",
+      "u": "t"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-encofrado-solamente-medido-por-la-superficie-en-contacto-con",
+      "m": 6,
+      "p": 28709.61,
+      "s": "Encofrado solamente, medido por la superficie en contacto con el H°",
+      "u": "m2"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-escalera-de-h-a-sin-revestir-ancho-0-90-m-tramos-rectos",
+      "m": 11,
+      "p": 217117.78,
+      "s": "Escalera de H° A°, sin revestir-ancho 0,90 m,tramos rectos",
+      "u": "u"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-de-h-a-bases-centricas-con-encofrado",
+      "m": 9,
+      "p": 595789.16,
+      "s": "Estructuras de h A°-BASES centricas, con encofrado",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-de-h-a-bases-centricas-sin-encofrado",
+      "m": 6,
+      "p": 487739.15,
+      "s": "Estructuras de h A°-BASES centricas, sin encofrado",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-de-h-a-columnas-25x25",
+      "m": 11,
+      "p": 1382740.73,
+      "s": "Estructuras de H° A°-COLUMNAS 25x25",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-de-h-a-columnas-30x30",
+      "m": 11,
+      "p": 1208075.28,
+      "s": "Estructuras de H° A°-COLUMNAS 30x30",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-de-h-a-columnas-40x40",
+      "m": 11,
+      "p": 1118654.63,
+      "s": "Estructuras de H° A°-COLUMNAS 40x40",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-de-h-a-plateas",
+      "m": 9,
+      "p": 549584.88,
+      "s": "Estructuras de h A°-PLATEAS",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-de-h-a-plateas-espesor-20-cm",
+      "m": 9,
+      "p": 92894.89,
+      "s": "Estructuras de h A°-PLATEAS, espesor 20 cm",
+      "u": "m2"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-de-h-a-tabique-de-baranda-alto-1-m-espesor-7-cm",
+      "m": 11,
+      "p": 915997.01,
+      "s": "Estructuras de H° A°-TABIQUE de baranda, alto 1 m-espesor 7 cm",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-de-h-a-tabique-espesor-12-cm-encofrado-un-solo-l",
+      "m": 11,
+      "p": 838042.52,
+      "s": "Estructuras de H° A°-TABIQUE, espesor 12 cm-encofrado un solo lado",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-de-h-a-tensores",
+      "m": 9,
+      "p": 1669941.92,
+      "s": "Estructuras de H° A°-TENSORES",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-de-h-a-vigas-20x50",
+      "m": 11,
+      "p": 1172836.39,
+      "s": "Estructuras de H° A°-VIGAS 20x50",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-de-h-a-vigas-30x90",
+      "m": 11,
+      "p": 1063289.18,
+      "s": "Estructuras de H° A°-VIGAS 30x90",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-de-h-a-vigas-de-fundacion",
+      "m": 9,
+      "p": 988117.55,
+      "s": "Estructuras de H° A°-VIGAS de fundación",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-h-a-bases-dados-para-asiento-maquinas",
+      "m": 9,
+      "p": 721105.72,
+      "s": "Estructuras H° A°-BASES-DADOS para asiento maquinas",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-h-a-columna-30x30-a-la-vista",
+      "m": 12,
+      "p": 1276844.87,
+      "s": "Estructuras H° A°-COLUMNA 30x30-a la vista",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-h-a-graderia-escalones-20x40-espesor-de-losa-12",
+      "m": 11,
+      "p": 935983.92,
+      "s": "Estructuras H° A°-GRADERIA-ESCALONES 20x40, espesor de losa 12 cm",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-h-a-losa-maciza-a-la-vista-espesor-10-cm",
+      "m": 12,
+      "p": 833781.93,
+      "s": "Estructuras H° A°-LOSA maciza-a la vista, espesor 10 cm",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-h-a-losa-maciza-espesor-10-cm",
+      "m": 11,
+      "p": 789560.69,
+      "s": "Estructuras H° A°-LOSA maciza, espesor 10 cm",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-h-a-tabique-a-la-vista-ambos-lados-espesor-12-cm",
+      "m": 12,
+      "p": 1141699.82,
+      "s": "Estructuras H° A°-TABIQUE a la vista ambos lados, espesor 12 cm",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-h-a-tabique-espesor-12-cm-encofrado-ambos-lados",
+      "m": 11,
+      "p": 1045964.11,
+      "s": "Estructuras H° A°-TABIQUE, espesor 12 cm-encofrado ambos lados",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-h-a-tanque-circular-espesor-de-pared-10-cm",
+      "m": 11,
+      "p": 1628614.89,
+      "s": "Estructuras H° A°-TANQUE circular, espesor de pared 10 cm",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-h-a-tanque-rectangular-espesor-de-pared-12-cm",
+      "m": 9,
+      "p": 1137049.58,
+      "s": "Estructuras H° A°-TANQUE rectangular, espesor de pared 12 cm",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-estructuras-h-a-viga-20x50-a-la-vista",
+      "m": 12,
+      "p": 1238093.12,
+      "s": "Estructuras H° A°-VIGA 20x50-a la vista",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-hormigon-elaborado-en-obra-tipo-h-21-en-hormigonera-de-350-l",
+      "m": 5,
+      "p": 214487.18,
+      "s": "Hormigón elaborado en obra-tipo h-21, en hormigonera de 350 lts",
+      "u": "m3"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-hormigon-elaborado-puesto-sobre-encofrado-traslado-y-llenado",
+      "m": 4,
+      "p": 218086.39,
+      "s": "Hormigón elaborado puesto sobre encofrado, traslado y llenado, traslado manual con carros",
+      "u": "m3"
+    }
+  ],
+  "title": "Estructura de hormigón armado",
+  "version": "0.6.0"
+}

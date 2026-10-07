@@ -1,0 +1,34 @@
+{
+  "key": "zocalos--raiz",
+  "rows": [
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-zocalo-de-adoquin-10x10-mezcla-1-3",
+      "m": 6,
+      "p": 10701.51,
+      "s": "Zócalo de adoquín 10x10, mezcla: 1 : 3",
+      "u": "m"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-zocalo-de-lajas-irregulares-altura-10-cm",
+      "m": 7,
+      "p": 9042.44,
+      "s": "Zócalo de lajas irregulares, altura 10 cm",
+      "u": "m"
+    },
+    {
+      "d": "2026-10",
+      "g": [],
+      "id": "wi-ar-zocalo-de-piedra-natural-estesor-12-mm-altura-10-cm-largo-va",
+      "m": 6,
+      "p": 9924.96,
+      "s": "Zócalo de piedra natural, estesor 12 mm-altura 10 cm-largo variable",
+      "u": "m"
+    }
+  ],
+  "title": "Zócalos",
+  "version": "0.6.0"
+}

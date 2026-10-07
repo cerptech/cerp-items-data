@@ -45,8 +45,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -54,12 +54,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 41869.43
+          "value": 42120.97
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -67,12 +67,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 43977.61
+          "value": 44229.15
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -80,12 +80,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 56200.27
+          "value": 56451.81
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -93,7 +93,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 60567.82
+          "value": 60819.36
         }
       ],
       "sources": [
@@ -112,7 +112,7 @@
       ],
       "text": "Muro de bloque de hormigón vibrocomprimido de 19x19x39 cm, tomado con mortero de cemento, con junta de 1,5 cm, aplomado y nivelado. Sin revoques. Medido por metro cuadrado de muro, descontando vanos. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO POR ANALOGÍA, INCORPORADO EN SEPTIEMBRE DE 2026. No existe fuente argentina de descarga libre que publique esta partida con horas por categoría, así que se aplicó el rendimiento de una tarea análoga que sí está cargada en el banco con su fuente declarada: la mampostería de elevación de ladrillo hueco cerámico de 18x18x33, que ya está cargada con rendimiento del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta. Es la analogía más sólida de esta ronda: misma tarea de levantar pared con mampuesto grande asentado con mortero, y piezas de tamaño y peso comparables. El bloque de hormigón rinde 12,5 unidades por metro cuadrado contra 16,7 del ladrillo hueco, así que si algo, el rendimiento aplicado queda del lado conservador. La analogía es una decisión de curación de CERP, no un dato de fuente: queda declarada acá para que se pueda revisar y, llegado el caso, revertir.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.115Z",
+      "updatedAt": "2026-10-06T23:05:18.595Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -159,8 +159,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -168,12 +168,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 39352.19
+          "value": 39729.5
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -181,12 +181,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 41473
+          "value": 41850.3
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -194,12 +194,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 53776.73
+          "value": 54154.04
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -207,7 +207,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 58160.38
+          "value": 58537.68
         }
       ],
       "sources": [
@@ -226,7 +226,7 @@
       ],
       "text": "Muro de ladrillo hueco cerámico no portante de 18x18x33 cm, tomado con mortero de cemento 1:6, con junta de 1,5 cm, aplomado y nivelado. Sin revoques. Medido por metro cuadrado de muro, descontando vanos. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.116Z",
+      "updatedAt": "2026-10-06T23:05:18.598Z",
       "verification": {
         "findings": [
           "duplicate_candidate-e06ce159c0cfe5df"
@@ -275,8 +275,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -284,12 +284,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23707.32
+          "value": 23883.4
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -297,12 +297,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25185.31
+          "value": 25361.39
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -310,12 +310,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33465.72
+          "value": 33641.8
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -323,7 +323,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36897.58
+          "value": 37073.65
         }
       ],
       "sources": [
@@ -343,7 +343,7 @@
       ],
       "text": "Muro de ladrillo hueco cerámico no portante de 8x18x33 cm, tomado con mortero de cemento 1:6, con junta de 1,5 cm, aplomado y nivelado. Sin revoques. Medido por metro cuadrado de muro, descontando vanos. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.117Z",
+      "updatedAt": "2026-10-06T23:05:18.600Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -390,8 +390,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -399,12 +399,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28151.55
+          "value": 31036.37
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -412,12 +412,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29499.66
+          "value": 32384.48
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -425,12 +425,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 37015.28
+          "value": 39900.1
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -438,7 +438,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 40193.14
+          "value": 43077.96
         }
       ],
       "sources": [
@@ -464,7 +464,7 @@
       ],
       "text": "Muro de ladrillo común de tierra cocida 25x12x5 cm colocado de soga (espesor de pared 12 cm), tomado con mortero de cemento 1:6, junta de 1,5 cm. Sin revoques. Unidad = metro cuadrado de muro. Rendimientos adaptados de BCCA wi-citara-ladrillo-macizo-c-v: Mano de obra y mortero tomados sin cambios de la citara BCCA de ladrillo macizo (0,66 h oficial 1a + 0,33 h peon especial + 0,023 m3 de mortero M5 1:6), que es el mismo muro de medio pie con otra denominacion. Solo se recalculo el consumo de ladrillos por la medida argentina: modulo (25+1,5)x(5+1,5) = 0,017225 m2 -> 58,1 u/m2, mas 5% de roturas = 61 u/m2 (la BCCA computa 70 u/m2 para su ladrillo de 24x11,5x5 con junta de 1 cm)",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.119Z",
+      "updatedAt": "2026-10-06T23:05:18.601Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-07-22T00:58:53.003Z",
@@ -511,8 +511,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -520,12 +520,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23687.77
+          "value": 23876.42
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -533,12 +533,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24930.38
+          "value": 25119.04
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -546,12 +546,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 31872.29
+          "value": 32060.94
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -559,7 +559,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 34782.99
+          "value": 34971.65
         }
       ],
       "sources": [
@@ -585,7 +585,7 @@
       ],
       "text": "Muro no portante de ladrillo hueco cerámico 12x18x33 colocado de canto (espesor de pared 12 cm), tomado con mortero de cemento 1:6. Unidad = metro cuadrado de muro. Rendimientos adaptados de BCCA wi-cegado-de-hueco-con-tabicon-hueco-doble-de-7-cm: Mano de obra tomada de la partida BCCA equivalente (0,6 h oficial + 0,32 h peón por m2). Consumo de ladrillos calculado por geometría del hueco argentino (cara 18x33 cm = 0,0594 m2 -> ~16 u/m2 con juntas), no del BCCA (que usa ladrillo 24x11,5x7). Mortero de asiento 0,015 m3/m2 (valor técnico estándar para muro de 12 cm)",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.120Z",
+      "updatedAt": "2026-10-06T23:05:18.602Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-07-21T22:07:55.939Z",
@@ -632,8 +632,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -641,12 +641,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 42475.45
+          "value": 42827.61
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -654,12 +654,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 44593.73
+          "value": 44945.89
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -667,12 +667,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 56881.25
+          "value": 57233.41
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-09",
+          "date": "2026-10",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -680,7 +680,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 61261.68
+          "value": 61613.83
         }
       ],
       "sources": [
@@ -700,7 +700,7 @@
       ],
       "text": "Muro portante de ladrillo cerámico portante de 18x19x33 cm de tubos verticales, tomado con mortero de cemento reforzado, con junta de 1,5 cm, aplomado y nivelado. Sin revoques. Medido por metro cuadrado de muro, descontando vanos. No confundir con el ladrillo hueco no portante de 18x18x33, que difiere en el alto y en la disposición de tabiques internos. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:59.121Z",
+      "updatedAt": "2026-10-06T23:05:18.606Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -708,5 +708,5 @@
       }
     }
   ],
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

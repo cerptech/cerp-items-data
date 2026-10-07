@@ -101,7 +101,7 @@
         {
           "currency": "ARS",
           "date": "2026-08",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -114,7 +114,7 @@
         {
           "currency": "ARS",
           "date": "2026-08",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -127,7 +127,7 @@
         {
           "currency": "ARS",
           "date": "2026-08",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -140,7 +140,7 @@
         {
           "currency": "ARS",
           "date": "2026-08",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -167,7 +167,7 @@
       ],
       "text": "Zócalo de MDF prepintado blanco de 7 cm de alto, fijado al paramento con adhesivo y clavado, con cortes a inglete en esquinas. Medido por metro lineal ejecutado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO POR ANALOGÍA, INCORPORADO EN SEPTIEMBRE DE 2026. No existe fuente argentina de descarga libre que publique esta partida con horas por categoría, así que se aplicó el rendimiento de una tarea análoga que sí está cargada en el banco con su fuente declarada: el zócalo de poliestireno expandido de 7 cm, que ya está cargado con rendimiento del APU de Salta. Misma altura, mismo tipo de fijación con adhesivo y clavado, mismos cortes a inglete en los encuentros. El MDF es más rígido y algo más lento de cortar que el poliestireno, de modo que el valor puede quedar levemente corto. La analogía es una decisión de curación de CERP, no un dato de fuente: queda declarada acá para que se pueda revisar y, llegado el caso, revertir.",
       "unit": "m",
-      "updatedAt": "2026-09-08T09:15:59.160Z",
+      "updatedAt": "2026-10-06T23:05:18.681Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -209,7 +209,7 @@
         {
           "currency": "ARS",
           "date": "2026-08",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -222,7 +222,7 @@
         {
           "currency": "ARS",
           "date": "2026-08",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -235,7 +235,7 @@
         {
           "currency": "ARS",
           "date": "2026-08",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -248,7 +248,7 @@
         {
           "currency": "ARS",
           "date": "2026-08",
-          "edition": "2026-09",
+          "edition": "2026-10",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -276,7 +276,7 @@
       ],
       "text": "Zócalo de poliestireno expandido (EPS) de 7 cm de alto colocado sobre pared terminada, con cortes a inglete en encuentros. Medido por metro lineal ejecutado. Acuñada en agosto de 2026 para reemplazar a la partida de zócalo cerámico de 10 cm, cuyo material no existe como artículo de catálogo en Argentina. ADVERTENCIA DE ALCANCE: el adhesivo de montaje no está desagregado en la descomposición porque todavía no hay un material acuñado para él; el precio computado queda por debajo del real en la proporción que representa el pegamento. Rendimiento de mano de obra tomado del zócalo cerámico del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, julio 2025): el EPS se coloca más rápido, así que el rendimiento aplicado es conservador. Nivel de verificación cross-check-secundario, pendiente de contraste.",
       "unit": "m",
-      "updatedAt": "2026-09-08T09:15:59.161Z",
+      "updatedAt": "2026-10-06T23:05:18.683Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -284,5 +284,5 @@
       }
     }
   ],
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

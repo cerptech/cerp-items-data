@@ -32,11 +32,11 @@
       "u": "m2"
     },
     {
-      "d": "2026-08",
+      "d": "2026-10",
       "g": [],
       "id": "mt-ar-ceramico-esmaltado-para-piso-51x51-cm",
       "m": 0,
-      "p": 8240.5,
+      "p": 9075,
       "s": "Cerámico esmaltado para piso 51x51 cm",
       "u": "m2"
     },
@@ -50,11 +50,11 @@
       "u": "m2"
     },
     {
-      "d": "2026-08",
+      "d": "2026-10",
       "g": [],
       "id": "mt-ar-pastina-para-juntas",
       "m": 0,
-      "p": 3140.5,
+      "p": 4040,
       "s": "Pastina para juntas",
       "u": "kg"
     },
@@ -77,11 +77,11 @@
       "u": "m2"
     },
     {
-      "d": "2026-08",
+      "d": "2026-10",
       "g": [],
       "id": "wi-ar-piso-de-cemento-alisado",
       "m": 4,
-      "p": 39591.58,
+      "p": 40744.53,
       "s": "Piso de cemento alisado",
       "u": "m2"
     },
@@ -93,29 +93,29 @@
       "u": "m2"
     },
     {
-      "d": "2026-08",
+      "d": "2026-10",
       "g": [],
       "id": "wi-ar-piso-de-ceramico-esmaltado-51x51-cm",
       "m": 5,
-      "p": 30889.39,
+      "p": 31962.21,
       "s": "Piso de cerámico esmaltado 51x51 cm",
       "u": "m2"
     },
     {
-      "d": "2026-08",
+      "d": "2026-10",
       "g": [],
       "id": "wi-ar-piso-de-mosaico-granitico-30x30-cm",
       "m": 5,
-      "p": 56584.55,
+      "p": 57161.02,
       "s": "Piso de mosaico granítico 30x30 cm",
       "u": "m2"
     },
     {
-      "d": "2026-08",
+      "d": "2026-10",
       "g": [],
       "id": "wi-ar-piso-de-porcelanato-60x60-cm",
       "m": 5,
-      "p": 58298.1,
+      "p": 58433.03,
       "s": "Piso de porcelanato 60x60 cm",
       "u": "m2"
     },
@@ -130,5 +130,5 @@
     }
   ],
   "title": "Solados > Pisos",
-  "version": "0.5.0"
+  "version": "0.6.0"
 }
