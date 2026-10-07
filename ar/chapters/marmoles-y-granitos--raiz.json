@@ -119,9 +119,9 @@
       "tags": [
         "mármoles y granitos"
       ],
-      "text": "Zocalos en piso de marmol o granito. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código MAR-007, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "text": "Zocalos en piso de marmol o granito. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-06T23:05:18.684Z",
+      "updatedAt": "2026-10-07T11:53:31.102Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -129,5 +129,5 @@
       }
     }
   ],
-  "version": "0.6.0"
+  "version": "0.6.1"
 }

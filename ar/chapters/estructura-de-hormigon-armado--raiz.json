@@ -113,9 +113,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Armadura solamente, cortado, doblado, atado y montado sobre encofrado. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-028, que remite al Manual del computista de la construcción). Medida por t. Precio computado desde la descomposición.",
+      "text": "Armadura solamente, cortado, doblado, atado y montado sobre encofrado. Análisis de precio unitario. Medida por t. Precio computado desde la descomposición.",
       "unit": "t",
-      "updatedAt": "2026-10-06T23:05:18.437Z",
+      "updatedAt": "2026-10-07T11:53:31.046Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -236,9 +236,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Encofrado solamente, medido por la superficie en contacto con el H°. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-027, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "text": "Encofrado solamente, medido por la superficie en contacto con el H°. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-06T23:05:18.525Z",
+      "updatedAt": "2026-10-07T11:53:31.071Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -389,9 +389,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Escalera de H° A°, sin revestir-ancho 0,90 m,tramos rectos. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-036, que remite al Manual del computista de la construcción). Medida por u. Precio computado desde la descomposición.",
+      "text": "Escalera de H° A°, sin revestir-ancho 0,90 m,tramos rectos. Análisis de precio unitario. Medida por u. Precio computado desde la descomposición.",
       "unit": "u",
-      "updatedAt": "2026-10-06T23:05:18.536Z",
+      "updatedAt": "2026-10-07T11:53:31.075Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -530,9 +530,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras de h A°-BASES centricas, con encofrado. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-004, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras de h A°-BASES centricas, con encofrado. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.545Z",
+      "updatedAt": "2026-10-07T11:53:31.077Z",
       "verification": {
         "findings": [
           "duplicate_candidate-49bcd307e10d8024"
@@ -655,9 +655,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras de h A°-BASES centricas, sin encofrado. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-003, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras de h A°-BASES centricas, sin encofrado. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.545Z",
+      "updatedAt": "2026-10-07T11:53:31.077Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -808,9 +808,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras de H° A°-COLUMNAS 25x25. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-010, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras de H° A°-COLUMNAS 25x25. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.546Z",
+      "updatedAt": "2026-10-07T11:53:31.077Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -961,9 +961,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras de H° A°-COLUMNAS 30x30. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-011, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras de H° A°-COLUMNAS 30x30. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.547Z",
+      "updatedAt": "2026-10-07T11:53:31.077Z",
       "verification": {
         "findings": [
           "duplicate_candidate-a4991f4e0fe08916"
@@ -1116,9 +1116,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras de H° A°-COLUMNAS 40x40. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-012, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras de H° A°-COLUMNAS 40x40. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.547Z",
+      "updatedAt": "2026-10-07T11:53:31.077Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1257,9 +1257,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras de h A°-PLATEAS. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-007, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras de h A°-PLATEAS. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.549Z",
+      "updatedAt": "2026-10-07T11:53:31.078Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1398,9 +1398,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras de h A°-PLATEAS, espesor 20 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-008, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "text": "Estructuras de h A°-PLATEAS, espesor 20 cm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-06T23:05:18.548Z",
+      "updatedAt": "2026-10-07T11:53:31.078Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1551,9 +1551,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras de H° A°-TABIQUE de baranda, alto 1 m-espesor 7 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-018, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras de H° A°-TABIQUE de baranda, alto 1 m-espesor 7 cm. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.550Z",
+      "updatedAt": "2026-10-07T11:53:31.078Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1704,9 +1704,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras de H° A°-TABIQUE, espesor 12 cm-encofrado un solo lado. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-017, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras de H° A°-TABIQUE, espesor 12 cm-encofrado un solo lado. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.551Z",
+      "updatedAt": "2026-10-07T11:53:31.078Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1845,9 +1845,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras de H° A°-TENSORES. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-006, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras de H° A°-TENSORES. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.552Z",
+      "updatedAt": "2026-10-07T11:53:31.078Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1998,9 +1998,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras de H° A°-VIGAS 20x50. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-013, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras de H° A°-VIGAS 20x50. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.553Z",
+      "updatedAt": "2026-10-07T11:53:31.078Z",
       "verification": {
         "findings": [
           "duplicate_candidate-701bb6792579c1da"
@@ -2153,9 +2153,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras de H° A°-VIGAS 30x90. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-014, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras de H° A°-VIGAS 30x90. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.553Z",
+      "updatedAt": "2026-10-07T11:53:31.078Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2294,9 +2294,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras de H° A°-VIGAS de fundación. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-005, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras de H° A°-VIGAS de fundación. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.554Z",
+      "updatedAt": "2026-10-07T11:53:31.078Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2435,9 +2435,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras H° A°-BASES-DADOS para asiento maquinas. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-022, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras H° A°-BASES-DADOS para asiento maquinas. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.555Z",
+      "updatedAt": "2026-10-07T11:53:31.078Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2594,9 +2594,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras H° A°-COLUMNA 30x30-a la vista. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-023, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras H° A°-COLUMNA 30x30-a la vista. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.555Z",
+      "updatedAt": "2026-10-07T11:53:31.078Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2747,9 +2747,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras H° A°-GRADERIA-ESCALONES 20x40, espesor de losa 12 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-019, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras H° A°-GRADERIA-ESCALONES 20x40, espesor de losa 12 cm. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.556Z",
+      "updatedAt": "2026-10-07T11:53:31.079Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2906,9 +2906,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras H° A°-LOSA maciza-a la vista, espesor 10 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-025, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras H° A°-LOSA maciza-a la vista, espesor 10 cm. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.556Z",
+      "updatedAt": "2026-10-07T11:53:31.079Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -3059,9 +3059,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras H° A°-LOSA maciza, espesor 10 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-015, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras H° A°-LOSA maciza, espesor 10 cm. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.557Z",
+      "updatedAt": "2026-10-07T11:53:31.079Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -3218,9 +3218,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras H° A°-TABIQUE a la vista ambos lados, espesor 12 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-026, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras H° A°-TABIQUE a la vista ambos lados, espesor 12 cm. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.558Z",
+      "updatedAt": "2026-10-07T11:53:31.079Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -3371,9 +3371,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras H° A°-TABIQUE, espesor 12 cm-encofrado ambos lados. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-016, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras H° A°-TABIQUE, espesor 12 cm-encofrado ambos lados. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.559Z",
+      "updatedAt": "2026-10-07T11:53:31.079Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -3524,9 +3524,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras H° A°-TANQUE circular, espesor de pared 10 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-021, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras H° A°-TANQUE circular, espesor de pared 10 cm. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.560Z",
+      "updatedAt": "2026-10-07T11:53:31.079Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -3665,9 +3665,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras H° A°-TANQUE rectangular, espesor de pared 12 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-020, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras H° A°-TANQUE rectangular, espesor de pared 12 cm. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.560Z",
+      "updatedAt": "2026-10-07T11:53:31.079Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -3824,9 +3824,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Estructuras H° A°-VIGA 20x50-a la vista. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-024, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Estructuras H° A°-VIGA 20x50-a la vista. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.561Z",
+      "updatedAt": "2026-10-07T11:53:31.079Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -3941,9 +3941,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Hormigón elaborado en obra-tipo h-21, en hormigonera de 350 lts. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-030, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Hormigón elaborado en obra-tipo h-21, en hormigonera de 350 lts. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.581Z",
+      "updatedAt": "2026-10-07T11:53:31.082Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -4052,9 +4052,9 @@
       "tags": [
         "estructura de hormigón armado"
       ],
-      "text": "Hormigón elaborado puesto sobre encofrado, traslado y llenado, traslado manual con carros. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código ESTHO-029, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Hormigón elaborado puesto sobre encofrado, traslado y llenado, traslado manual con carros. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.582Z",
+      "updatedAt": "2026-10-07T11:53:31.082Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -4062,5 +4062,5 @@
       }
     }
   ],
-  "version": "0.6.0"
+  "version": "0.6.1"
 }

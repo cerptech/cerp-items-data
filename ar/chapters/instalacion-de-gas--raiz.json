@@ -125,9 +125,9 @@
       "tags": [
         "instalación de gas"
       ],
-      "text": "Cañeria de distribucion 1/2\", caños epoxi o termofusión. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código IGAS-004, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "text": "Cañeria de distribucion 1/2\", caños epoxi o termofusión. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-06T23:05:18.452Z",
+      "updatedAt": "2026-10-07T11:53:31.049Z",
       "verification": {
         "findings": [
           "duplicate_candidate-53177b81513ff5f9",
@@ -257,9 +257,9 @@
       "tags": [
         "instalación de gas"
       ],
-      "text": "Cañeria de distribucion 1\", caños epoxi o termofusión. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código IGAS-002, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "text": "Cañeria de distribucion 1\", caños epoxi o termofusión. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-06T23:05:18.453Z",
+      "updatedAt": "2026-10-07T11:53:31.050Z",
       "verification": {
         "findings": [
           "duplicate_candidate-0c139874ce7da81e"
@@ -388,9 +388,9 @@
       "tags": [
         "instalación de gas"
       ],
-      "text": "Cañeria de distribucion 3/4\", caños epoxi o termofusión. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código IGAS-003, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "text": "Cañeria de distribucion 3/4\", caños epoxi o termofusión. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-06T23:05:18.454Z",
+      "updatedAt": "2026-10-07T11:53:31.050Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -398,5 +398,5 @@
       }
     }
   ],
-  "version": "0.6.0"
+  "version": "0.6.1"
 }

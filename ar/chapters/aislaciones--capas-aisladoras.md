@@ -1,6 +1,6 @@
 # Aislaciones > Capas aisladoras
 
-Banco de ítems de construcción CERP v0.6.0 — 3 ítems. Datos estructurados en [`aislaciones--capas-aisladoras.json`](./aislaciones--capas-aisladoras.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.6.1 — 3 ítems. Datos estructurados en [`aislaciones--capas-aisladoras.json`](./aislaciones--capas-aisladoras.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
 > Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo
 > Información obtenida del Portal de la Junta de Andalucía

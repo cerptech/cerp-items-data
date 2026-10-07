@@ -14,11 +14,11 @@
   "basicos": {
     "count": 336,
     "file": "basicos.json",
-    "sha256": "c9477b6049582aa2233c44d75d24498b751e82ee9646ac9e51dbdf74b8882295"
+    "sha256": "95c3dc7783c4d9a4d827e6423d6b6ad09de68b93c64ee41809c5cbb78e1df60a"
   },
   "catalog": {
     "file": "catalog.json",
-    "sha256": "20363d322d26980b6eb203c7e174dbe6355b09c73f9708731665cc8821151ee2"
+    "sha256": "30c0738fef71386d3a15863c047ed9602c30422952a2a7afdb8507d7b1b31ce1"
   },
   "chapters": [
     {
@@ -27,7 +27,7 @@
       "key": "aislaciones--capas-aisladoras",
       "md": "chapters/aislaciones--capas-aisladoras.md",
       "outline": "outlines/aislaciones--capas-aisladoras.json",
-      "sha256": "6882f9aaa79ea6fa52dbec71dfd6298b9ea447972632f5732e2b4f52f1a75059",
+      "sha256": "d65349fe9a1b9a1f50e40bde3213a7c7112906d9e36a8fde318119e59c6b59a7",
       "title": "Aislaciones > Capas aisladoras"
     },
     {
@@ -36,7 +36,7 @@
       "key": "aislaciones--cubiertas",
       "md": "chapters/aislaciones--cubiertas.md",
       "outline": "outlines/aislaciones--cubiertas.json",
-      "sha256": "d5473663f189a966fa35e00a3ba5ff5202ab3e479c01b79b442c37ac837fccb2",
+      "sha256": "be1178ec7293482f5cc3cd8801977585133771089a94356c44dfc1d59164fe9b",
       "title": "Aislaciones > Cubiertas"
     },
     {
@@ -45,7 +45,7 @@
       "key": "aislaciones--raiz",
       "md": "chapters/aislaciones--raiz.md",
       "outline": "outlines/aislaciones--raiz.json",
-      "sha256": "f0f5cc3607585c71d3ddc6221ec93df751fb81a4aff5a4322d1af837e02ced9d",
+      "sha256": "da7bff0b6f75d1ee208f730b6aa524e11298a2711243423762e1ec54d5bf954a",
       "title": "Aislaciones"
     },
     {
@@ -54,7 +54,7 @@
       "key": "albanileria--construccion-en-seco",
       "md": "chapters/albanileria--construccion-en-seco.md",
       "outline": "outlines/albanileria--construccion-en-seco.json",
-      "sha256": "14c9c47ce5a9004371512e65fdbc829234c2a3d630d6b6d57b4ddf76eef22d38",
+      "sha256": "97aa4268e8fe54128be9b3f2cdb7b290984d6ee66011624c811558dd3169e3f2",
       "title": "Albañilería > Construcción en seco"
     },
     {
@@ -63,7 +63,7 @@
       "key": "albanileria--mamposteria",
       "md": "chapters/albanileria--mamposteria.md",
       "outline": "outlines/albanileria--mamposteria.json",
-      "sha256": "afb7e1783d1b3fef6442f0a43e306ed193dd161398bf5e6fff98e9272d7cbfca",
+      "sha256": "b2e9886b7749d30b207274ea0b1d3a61da9ad8adc6e56fefa13806681a3f2fd6",
       "title": "Albañilería > Mampostería"
     },
     {
@@ -72,7 +72,7 @@
       "key": "carpetas--raiz",
       "md": "chapters/carpetas--raiz.md",
       "outline": "outlines/carpetas--raiz.json",
-      "sha256": "15988e6afa87ce6127eccaadf06ec1d1e018e8ff43d4fdad31b80f61bb6b3d4f",
+      "sha256": "606d4dc9ffa971a6f37a859fe4f1bc02baf7faae0d26e87450af56250781c54b",
       "title": "Carpetas"
     },
     {
@@ -81,7 +81,7 @@
       "key": "carpinterias--aluminio",
       "md": "chapters/carpinterias--aluminio.md",
       "outline": "outlines/carpinterias--aluminio.json",
-      "sha256": "bb3807d9d917f00cd561129dce3f2468aa2102014028fd84eccd53d04975ba85",
+      "sha256": "7d57a625fac288d38b8afade1eec4a70dac1f8500240abc6ea9025a3bf1771e7",
       "title": "Carpinterías > Aluminio"
     },
     {
@@ -90,7 +90,7 @@
       "key": "carpinterias--chapa",
       "md": "chapters/carpinterias--chapa.md",
       "outline": "outlines/carpinterias--chapa.json",
-      "sha256": "0b9c54f72f07102cee61d4441f33e1486808cc1c9b7975221c8a6f4736ab97fc",
+      "sha256": "88f87f96a980f3996140129b0155dd6d0d40c81d15c6a9c7c31eabd78ba2251b",
       "title": "Carpinterías > Chapa"
     },
     {
@@ -99,7 +99,7 @@
       "key": "carpinterias--madera",
       "md": "chapters/carpinterias--madera.md",
       "outline": "outlines/carpinterias--madera.json",
-      "sha256": "3975dc4ada4ace3c673a247d4c3e61b38034cc45a60e5edbcbabd53c5634eddd",
+      "sha256": "b6d6f854608a61f00c00f51ad258bc0a6d1ed3b554c0d8ddb2a9b29a77f3a9ba",
       "title": "Carpinterías > Madera"
     },
     {
@@ -108,7 +108,7 @@
       "key": "cielorrasos--aplicados",
       "md": "chapters/cielorrasos--aplicados.md",
       "outline": "outlines/cielorrasos--aplicados.json",
-      "sha256": "60df71aaca208a11fdc963da9f7dc060a8d31fa97a8b2f0ae9f4f9667acea6e2",
+      "sha256": "85804472a9785bbfdfd0ef9c7c8eeced871fb90fe411ff67c5ee0d746893e7ba",
       "title": "Cielorrasos > Aplicados"
     },
     {
@@ -117,7 +117,7 @@
       "key": "cielorrasos--madera",
       "md": "chapters/cielorrasos--madera.md",
       "outline": "outlines/cielorrasos--madera.json",
-      "sha256": "397078bf4c997862738de403d703dbf4d11dda7425d6465a32f8b90bdaeb62d9",
+      "sha256": "07c994c54963c0fd0f7a48f78524de8570cf6299ab68776ecfef4a0b5fe2a327",
       "title": "Cielorrasos > Madera"
     },
     {
@@ -126,7 +126,7 @@
       "key": "cielorrasos--raiz",
       "md": "chapters/cielorrasos--raiz.md",
       "outline": "outlines/cielorrasos--raiz.json",
-      "sha256": "cfcd2466f2a9311e4a2d45dc98e513f25ae1c31b55c203af66aa423945373645",
+      "sha256": "6aae351578ca8328b0ba5de05d8fc1e86beb608da1788476649faf9adf40bc52",
       "title": "Cielorrasos"
     },
     {
@@ -135,7 +135,7 @@
       "key": "cielorrasos--suspendidos",
       "md": "chapters/cielorrasos--suspendidos.md",
       "outline": "outlines/cielorrasos--suspendidos.json",
-      "sha256": "a8f1b9478322bb5cc2b3b6963b17d68283cc6d236b73910f749bd1cad1ba4033",
+      "sha256": "717965e757a4b0063074b585a43ae76d2492ad6951d15a4594c05622a00f928f",
       "title": "Cielorrasos > Suspendidos"
     },
     {
@@ -144,7 +144,7 @@
       "key": "construccion-en-seco--raiz",
       "md": "chapters/construccion-en-seco--raiz.md",
       "outline": "outlines/construccion-en-seco--raiz.json",
-      "sha256": "ad5cc04f390e20e5ce337d0f48dbdd55881260662df25167b4d0ca29ae958376",
+      "sha256": "2af13a7fc940a2db353499c80e788a73caf8b62651d9805f42bfe0f52da781b1",
       "title": "Construcción en seco"
     },
     {
@@ -153,7 +153,7 @@
       "key": "contrapisos--raiz",
       "md": "chapters/contrapisos--raiz.md",
       "outline": "outlines/contrapisos--raiz.json",
-      "sha256": "ed51a2277408b00fb89b4fe9541421d407542a541ccb8f4764e7a4d46f15d5f8",
+      "sha256": "8ae96fbb14ba501fb53fa31a851773d9b9bf56fa363f5c3ee027bbc2190b7fff",
       "title": "Contrapisos"
     },
     {
@@ -162,7 +162,7 @@
       "key": "contrapisos-y-carpetas--carpetas",
       "md": "chapters/contrapisos-y-carpetas--carpetas.md",
       "outline": "outlines/contrapisos-y-carpetas--carpetas.json",
-      "sha256": "ddc852d56dd1bc72b5000a06b467f3acb184f0f0c2003e553f81b35b6e9038ef",
+      "sha256": "e40137797d88a558389964e5af0f8f5578ae1f0d98f718c74360a429afd4b149",
       "title": "Contrapisos y carpetas > Carpetas"
     },
     {
@@ -171,7 +171,7 @@
       "key": "contrapisos-y-carpetas--contrapisos",
       "md": "chapters/contrapisos-y-carpetas--contrapisos.md",
       "outline": "outlines/contrapisos-y-carpetas--contrapisos.json",
-      "sha256": "07ae0cdd6e75c3997bed11d810025af49ff2bf207ed0b00e72907af98d069e63",
+      "sha256": "f67156bb5e5cc5c726f606403b686bea985f91a8c7cc6bdd57f54a3f23c33831",
       "title": "Contrapisos y carpetas > Contrapisos"
     },
     {
@@ -180,7 +180,7 @@
       "key": "cubiertas--chapa",
       "md": "chapters/cubiertas--chapa.md",
       "outline": "outlines/cubiertas--chapa.json",
-      "sha256": "b3f74fcd90171237032ec6f16a300f8fc827c9289701fdfccf93c5346585b6cb",
+      "sha256": "27b5cbaaf049805b2fbf893b5f239e17710192d54a5539d389ffd70a28db5969",
       "title": "Cubiertas > Chapa"
     },
     {
@@ -189,7 +189,7 @@
       "key": "cubiertas--raiz",
       "md": "chapters/cubiertas--raiz.md",
       "outline": "outlines/cubiertas--raiz.json",
-      "sha256": "ac766dce91beac324dc311ce53ebaebe828ae737e07e61a5b8bd8fb21d76594a",
+      "sha256": "1393ab153eedc481dd3bd788d8de96637589899a2801ce9c3c790e4a85cb4467",
       "title": "Cubiertas"
     },
     {
@@ -198,7 +198,7 @@
       "key": "cubiertas--tejas",
       "md": "chapters/cubiertas--tejas.md",
       "outline": "outlines/cubiertas--tejas.json",
-      "sha256": "75a94e4fa0a5f21b348903f221622a4d970f8dacca096cd4ed02e81a18a8586e",
+      "sha256": "c1a701b98ce68361e2472387c66f6b02f279f55deeb6143aa08f950232ebd2d0",
       "title": "Cubiertas > Tejas"
     },
     {
@@ -207,7 +207,7 @@
       "key": "cubiertas--zingueria",
       "md": "chapters/cubiertas--zingueria.md",
       "outline": "outlines/cubiertas--zingueria.json",
-      "sha256": "5b95baab9233df97d49f79e77a1ef24d9b444282c73fc7ec6ec3376d16009b14",
+      "sha256": "a30deb21c0e341e376b6c0ef1a3cb30b306ecd42872562dd5075cfbac8e5f309",
       "title": "Cubiertas > Zinguería"
     },
     {
@@ -216,7 +216,7 @@
       "key": "demoliciones-y-trabajos-previos--demoliciones",
       "md": "chapters/demoliciones-y-trabajos-previos--demoliciones.md",
       "outline": "outlines/demoliciones-y-trabajos-previos--demoliciones.json",
-      "sha256": "6eaa7b67ecf836e68b497e4bd28e197cfd82ff9a87f765867f2822383ead82c2",
+      "sha256": "c8706f52e7e9b0fa2ee3c35d282294e4ce2cf90b36414f8c22ab454f0526ec29",
       "title": "Demoliciones y trabajos previos > Demoliciones"
     },
     {
@@ -225,7 +225,7 @@
       "key": "demoliciones-y-trabajos-previos--trabajos-previos",
       "md": "chapters/demoliciones-y-trabajos-previos--trabajos-previos.md",
       "outline": "outlines/demoliciones-y-trabajos-previos--trabajos-previos.json",
-      "sha256": "0b731eed1e65fc1e2cfe46bc0a84645c0465c03524d787670e55d18e1ae648b9",
+      "sha256": "917d5e715794b05d0e6c5f0833ec60ad969dc28fd4d5d33a43ea9100293bbc3b",
       "title": "Demoliciones y trabajos previos > Trabajos previos"
     },
     {
@@ -234,7 +234,7 @@
       "key": "entrepisos--raiz",
       "md": "chapters/entrepisos--raiz.md",
       "outline": "outlines/entrepisos--raiz.json",
-      "sha256": "19a9adea849dd71782cfbc73c652e9adf79b77c5fef954d52dea6d1812c69080",
+      "sha256": "5c7dc7ed52ac034fcee80ccde6f18c6ae86825329e7dd5230e0776908e9319a3",
       "title": "Entrepisos"
     },
     {
@@ -243,7 +243,7 @@
       "key": "estructura-de-hormigon-armado--armaduras",
       "md": "chapters/estructura-de-hormigon-armado--armaduras.md",
       "outline": "outlines/estructura-de-hormigon-armado--armaduras.json",
-      "sha256": "793e78ecdd90f0d3862cb3373c66310298ddce8d1b776b5a534dcd1e09c9ad37",
+      "sha256": "5bfa09b22cad84ee2089c0633ef91505cb4fccea0a61c50a7fb33bf521c80176",
       "title": "Estructura de hormigón armado > Armaduras"
     },
     {
@@ -252,7 +252,7 @@
       "key": "estructura-de-hormigon-armado--bases",
       "md": "chapters/estructura-de-hormigon-armado--bases.md",
       "outline": "outlines/estructura-de-hormigon-armado--bases.json",
-      "sha256": "132359b1d03692bba9b41cda23f78d037b29cd3626cdbb0d42f2ec5515a1a2b6",
+      "sha256": "7c428b2a6db362df483dbf52f5625ad509de9f49189e3a7968526f9bd88475f8",
       "title": "Estructura de hormigón armado > Bases"
     },
     {
@@ -261,7 +261,7 @@
       "key": "estructura-de-hormigon-armado--columnas",
       "md": "chapters/estructura-de-hormigon-armado--columnas.md",
       "outline": "outlines/estructura-de-hormigon-armado--columnas.json",
-      "sha256": "bcf546c7835199f598c80821fd8baf068cc48cecbd8e134707c92cfe2a12be21",
+      "sha256": "a02f54f771fe009499e676a8b1b78ff30d9c4d3668e4d215e0e079ff210a405c",
       "title": "Estructura de hormigón armado > Columnas"
     },
     {
@@ -270,7 +270,7 @@
       "key": "estructura-de-hormigon-armado--dinteles",
       "md": "chapters/estructura-de-hormigon-armado--dinteles.md",
       "outline": "outlines/estructura-de-hormigon-armado--dinteles.json",
-      "sha256": "ecef388f68934be13ef98a0a90203651151cff33aac46bf7b920c6cb6a6f40c8",
+      "sha256": "31edc2749d3913e1a29c33516891e15776e3207ae11913500ef7a87de7cc13cd",
       "title": "Estructura de hormigón armado > Dinteles"
     },
     {
@@ -279,7 +279,7 @@
       "key": "estructura-de-hormigon-armado--encadenados",
       "md": "chapters/estructura-de-hormigon-armado--encadenados.md",
       "outline": "outlines/estructura-de-hormigon-armado--encadenados.json",
-      "sha256": "41f6990c5f99e279d4098f2ccd159f6dbc8cfd2fb3329c1a267e797aafb3f389",
+      "sha256": "bdd19062f985af047b5ecbc4254419a5747e352d1b935bb0b503463c94001958",
       "title": "Estructura de hormigón armado > Encadenados"
     },
     {
@@ -288,7 +288,7 @@
       "key": "estructura-de-hormigon-armado--encofrados",
       "md": "chapters/estructura-de-hormigon-armado--encofrados.md",
       "outline": "outlines/estructura-de-hormigon-armado--encofrados.json",
-      "sha256": "a61b988854f6964224b73d94a6ba94778601ba3b86b956211ab20b6816e145fc",
+      "sha256": "f08a0d18926b08aef1f54d701d3d366eaf98cdc77dd210c11099f4086f6b8561",
       "title": "Estructura de hormigón armado > Encofrados"
     },
     {
@@ -297,7 +297,7 @@
       "key": "estructura-de-hormigon-armado--escaleras",
       "md": "chapters/estructura-de-hormigon-armado--escaleras.md",
       "outline": "outlines/estructura-de-hormigon-armado--escaleras.json",
-      "sha256": "9026c46ecb4d9b0bf0c520454e84e3adf40cf44093cce6b0c46e1b3532a46519",
+      "sha256": "e7c1a14d425dd7d3e2a56a6e136fc20b63bb5a4bb0e3b956a746a63032ee9e82",
       "title": "Estructura de hormigón armado > Escaleras"
     },
     {
@@ -306,7 +306,7 @@
       "key": "estructura-de-hormigon-armado--estructura-resistente",
       "md": "chapters/estructura-de-hormigon-armado--estructura-resistente.md",
       "outline": "outlines/estructura-de-hormigon-armado--estructura-resistente.json",
-      "sha256": "f68e091ee7b36be134781847f36886874c0956d922171562c57a1051e28bbe83",
+      "sha256": "484a57117b58bf9575d4c65ff46e507b7fd0f0f8ea708d5d63861333bc43b769",
       "title": "Estructura de hormigón armado > Estructura resistente"
     },
     {
@@ -315,7 +315,7 @@
       "key": "estructura-de-hormigon-armado--fundaciones",
       "md": "chapters/estructura-de-hormigon-armado--fundaciones.md",
       "outline": "outlines/estructura-de-hormigon-armado--fundaciones.json",
-      "sha256": "24c8f90f70c5126f83b8f2a5e98f3f1b5e62aed20ce98fd06859677bcb3e5cb1",
+      "sha256": "8e8e21e81aa27e6dc516e59e9569b7ec87848b027a909543c570c90bbae9e105",
       "title": "Estructura de hormigón armado > Fundaciones"
     },
     {
@@ -324,7 +324,7 @@
       "key": "estructura-de-hormigon-armado--hormigones",
       "md": "chapters/estructura-de-hormigon-armado--hormigones.md",
       "outline": "outlines/estructura-de-hormigon-armado--hormigones.json",
-      "sha256": "1ddc2a652eba15142409b678dd92f7d1626cef2f671f7f685bd5f9fbfa25289b",
+      "sha256": "bbab2baca9d26549e517957e9dd0147aba0bba9709a60be6040e00bda608523e",
       "title": "Estructura de hormigón armado > Hormigones"
     },
     {
@@ -333,7 +333,7 @@
       "key": "estructura-de-hormigon-armado--losas",
       "md": "chapters/estructura-de-hormigon-armado--losas.md",
       "outline": "outlines/estructura-de-hormigon-armado--losas.json",
-      "sha256": "f96409b47c9aea267934bbcb5168b1d894b869e8cb33f178e02cf042c158e4cb",
+      "sha256": "63cb5d7d688e901a400fb757936329ff80ffeaa2106aad998f9b8fae76c7a4a3",
       "title": "Estructura de hormigón armado > Losas"
     },
     {
@@ -342,7 +342,7 @@
       "key": "estructura-de-hormigon-armado--losas-alivianadas",
       "md": "chapters/estructura-de-hormigon-armado--losas-alivianadas.md",
       "outline": "outlines/estructura-de-hormigon-armado--losas-alivianadas.json",
-      "sha256": "cc1746067fd0acf104ed2238b2270cb99660b24cf06fb050483d15f18a554f3d",
+      "sha256": "446d6795346076bf5a6a111e4137dcf7717f51c3e94a137417d4be9eae1002da",
       "title": "Estructura de hormigón armado > Losas alivianadas"
     },
     {
@@ -351,7 +351,7 @@
       "key": "estructura-de-hormigon-armado--plateas",
       "md": "chapters/estructura-de-hormigon-armado--plateas.md",
       "outline": "outlines/estructura-de-hormigon-armado--plateas.json",
-      "sha256": "cf97d017e14f8aa7bc15e5666f8a2b2a1a8e45887aa746834a0d68cd66f50102",
+      "sha256": "b902dd7d82efc7e5519d132842431609ad0ba5c6dc327dfea11f07f0eae4d7c7",
       "title": "Estructura de hormigón armado > Plateas"
     },
     {
@@ -360,7 +360,7 @@
       "key": "estructura-de-hormigon-armado--raiz",
       "md": "chapters/estructura-de-hormigon-armado--raiz.md",
       "outline": "outlines/estructura-de-hormigon-armado--raiz.json",
-      "sha256": "ce8852cb46f85dc95f92befd6007261e566af1b8d06c287114a7047474bd24f0",
+      "sha256": "bcecb42b10250e1783ba61b16daf6af332be339f7f22f2b6b6246ea86105b182",
       "title": "Estructura de hormigón armado"
     },
     {
@@ -369,7 +369,7 @@
       "key": "estructura-de-hormigon-armado--tabiques",
       "md": "chapters/estructura-de-hormigon-armado--tabiques.md",
       "outline": "outlines/estructura-de-hormigon-armado--tabiques.json",
-      "sha256": "3f69929f58cf88dc27968eedd74d3f0395f917e0f57e128d37667bdf0ec34961",
+      "sha256": "8f3604f81a34c1af2ef670aa735197e44ed3e73e089ecdbdb78fd4f80dddf29a",
       "title": "Estructura de hormigón armado > Tabiques"
     },
     {
@@ -378,7 +378,7 @@
       "key": "estructura-de-hormigon-armado--vigas",
       "md": "chapters/estructura-de-hormigon-armado--vigas.md",
       "outline": "outlines/estructura-de-hormigon-armado--vigas.json",
-      "sha256": "cac97afc53c68f190e4b553de1de98b2bc2bcc779183b0f5c336934d5c9561f6",
+      "sha256": "d5eeb824b9e87720e69640be2e4891bea90bd647510747655dadc655a615b000",
       "title": "Estructura de hormigón armado > Vigas"
     },
     {
@@ -387,7 +387,7 @@
       "key": "estructura-de-madera--raiz",
       "md": "chapters/estructura-de-madera--raiz.md",
       "outline": "outlines/estructura-de-madera--raiz.json",
-      "sha256": "3358a00065f8e35da7ef9e076a4ff827c2da6ae356919fb7f83298f3cdeec030",
+      "sha256": "36fe09086fea5ed0876f2b519950ed65b6dcb03e9cdbcfbde03d4843168ed7f8",
       "title": "Estructura de madera"
     },
     {
@@ -396,7 +396,7 @@
       "key": "estructura-de-madera--techos",
       "md": "chapters/estructura-de-madera--techos.md",
       "outline": "outlines/estructura-de-madera--techos.json",
-      "sha256": "e66e7647891d57695b2460f462a90848d648b78c14657cda984c0ff5e29b3cfd",
+      "sha256": "0f94c4ff89fda312eaa093babfc2dc4405a5c3b4a621b3ce096ab06ca30da6d3",
       "title": "Estructura de madera > Techos"
     },
     {
@@ -405,7 +405,7 @@
       "key": "estructura-metalica--correas",
       "md": "chapters/estructura-metalica--correas.md",
       "outline": "outlines/estructura-metalica--correas.json",
-      "sha256": "957256294c0052103d21bde90aa0523c66f05435f5c79becf5043acb076cb2c2",
+      "sha256": "314b84cfc43d4203dcc5bff97364241fc4a6c8aaac7774217798ee36f9077bf0",
       "title": "Estructura metálica > Correas"
     },
     {
@@ -414,7 +414,7 @@
       "key": "estructura-metalica--perfiles",
       "md": "chapters/estructura-metalica--perfiles.md",
       "outline": "outlines/estructura-metalica--perfiles.json",
-      "sha256": "83876fa020f7d44f11b34a3ab3cbc966d206957de948981d02bdcc1b8e0f4d0d",
+      "sha256": "bea458a45e1cf93757f71273e2cc9b45c81cef88ebcd9fccf1152eeb8f36576d",
       "title": "Estructura metálica > Perfiles"
     },
     {
@@ -423,7 +423,7 @@
       "key": "estructura-metalica--raiz",
       "md": "chapters/estructura-metalica--raiz.md",
       "outline": "outlines/estructura-metalica--raiz.json",
-      "sha256": "b1805e06f04aa14e04aeb41d3878a408c77de96ecce99086e9a16f9fcc14a0a2",
+      "sha256": "93df8579a1f83f321b427bf5a38c21b1efa2d3f8f92b66ffffe51514a405c123",
       "title": "Estructura metálica"
     },
     {
@@ -432,7 +432,7 @@
       "key": "fundaciones--raiz",
       "md": "chapters/fundaciones--raiz.md",
       "outline": "outlines/fundaciones--raiz.json",
-      "sha256": "805eead7ddeeb55dc58822b2bc1895ec3fb4c95ed1c7217f76ae3808d98a000b",
+      "sha256": "e467577f1289e1a9903b0751b6cf7802d915af59868bfcebe4e484692ce7b8ed",
       "title": "Fundaciones"
     },
     {
@@ -441,7 +441,7 @@
       "key": "gestion-de-residuos--retiro-de-escombros",
       "md": "chapters/gestion-de-residuos--retiro-de-escombros.md",
       "outline": "outlines/gestion-de-residuos--retiro-de-escombros.json",
-      "sha256": "43b86c720d9084dd89ef053f5ac62a4ff7cb4fb6b85dddffab640279dc2422d5",
+      "sha256": "2d6da4e24fccdd39dbab6cd25da110229b25219d92df2919ce4efa3c9a2d22db",
       "title": "Gestión de residuos > Retiro de escombros"
     },
     {
@@ -450,7 +450,7 @@
       "key": "instalacion-cloacal--raiz",
       "md": "chapters/instalacion-cloacal--raiz.md",
       "outline": "outlines/instalacion-cloacal--raiz.json",
-      "sha256": "e64f81be6ab8489fbf3b250538536d546aaa6ba62bc420ab07d99d1101e6d874",
+      "sha256": "b454cc5b60522d14f5aca5b2ae99ad43dddad94c8976f4a02f292e24aff8cd06",
       "title": "Instalación cloacal"
     },
     {
@@ -459,7 +459,7 @@
       "key": "instalacion-de-agua--raiz",
       "md": "chapters/instalacion-de-agua--raiz.md",
       "outline": "outlines/instalacion-de-agua--raiz.json",
-      "sha256": "1e35e4b58053557f97ee701b2ff4a137fa7b8153453ffd99bbda051418f500b4",
+      "sha256": "652c4921da3c65a41f9afe94cc36cb0ea6540509c23a09ca8bb6e15b6466eff6",
       "title": "Instalación de agua"
     },
     {
@@ -468,7 +468,7 @@
       "key": "instalacion-de-gas--canerias",
       "md": "chapters/instalacion-de-gas--canerias.md",
       "outline": "outlines/instalacion-de-gas--canerias.json",
-      "sha256": "00a95c09aca4143be46e43ce32324a683f81a0d010de27a0d5836f9a55a0ff1f",
+      "sha256": "56f24cee1cc36074c4da2aaaab8c2b3faad5cc36d2b2645fea981333415b3671",
       "title": "Instalación de gas > Cañerías"
     },
     {
@@ -477,7 +477,7 @@
       "key": "instalacion-de-gas--raiz",
       "md": "chapters/instalacion-de-gas--raiz.md",
       "outline": "outlines/instalacion-de-gas--raiz.json",
-      "sha256": "517847618d61701e0a893c95fd77a5f59bd7239b432a021887ae96a38189da6e",
+      "sha256": "061d397054669bea524508be53b5c5d90bfcde547a1f8530d87b98315479dd22",
       "title": "Instalación de gas"
     },
     {
@@ -486,7 +486,7 @@
       "key": "instalacion-electrica--bocas",
       "md": "chapters/instalacion-electrica--bocas.md",
       "outline": "outlines/instalacion-electrica--bocas.json",
-      "sha256": "a86f1b9913ab9d9b5dbd7caa5d8c160456bb346e890a8e18074d626faf054b84",
+      "sha256": "cbd2f17122ec2c4bf7984ff7dca6832e21365e92c644c189766441f2c07455d0",
       "title": "Instalación eléctrica > Bocas"
     },
     {
@@ -495,7 +495,7 @@
       "key": "instalacion-electrica--tableros",
       "md": "chapters/instalacion-electrica--tableros.md",
       "outline": "outlines/instalacion-electrica--tableros.json",
-      "sha256": "93b354061dd1bf86aabf9206436ad87bd2164d9e193e6a580e126200b07a12e1",
+      "sha256": "6053d460e0d71f15a1c9501c68f39c7953d90ed057925b8f9a97e7ab9ec53b7a",
       "title": "Instalación eléctrica > Tableros"
     },
     {
@@ -504,7 +504,7 @@
       "key": "instalacion-sanitaria--artefactos",
       "md": "chapters/instalacion-sanitaria--artefactos.md",
       "outline": "outlines/instalacion-sanitaria--artefactos.json",
-      "sha256": "694c362e77ea48350e434da0135d51199f4c0f75b95f422e70011c5e4e946340",
+      "sha256": "86b9276d4cafeed3180f9a957a806283c870c0918d5105e2ef8eaa512bb612ca",
       "title": "Instalación sanitaria > Artefactos"
     },
     {
@@ -513,7 +513,7 @@
       "key": "instalacion-sanitaria--canerias",
       "md": "chapters/instalacion-sanitaria--canerias.md",
       "outline": "outlines/instalacion-sanitaria--canerias.json",
-      "sha256": "7279affb24ed950fde2ea6ad378543106b7a3d376338a9cfea75a9cbf38c3a29",
+      "sha256": "8de39c443a1c1d80a0258692629d0428d8450d06e342d56113b956ca8bb4128f",
       "title": "Instalación sanitaria > Cañerías"
     },
     {
@@ -522,7 +522,7 @@
       "key": "instalacion-sanitaria--desagues",
       "md": "chapters/instalacion-sanitaria--desagues.md",
       "outline": "outlines/instalacion-sanitaria--desagues.json",
-      "sha256": "a30c916445748dbd255a1e984342e3730f6564cff81e163ef686668539bc17f8",
+      "sha256": "21b0548cc80eeb0075b8ba1b58cd938d81531eba51977281e8f2933ba6a5b9a2",
       "title": "Instalación sanitaria > Desagües"
     },
     {
@@ -531,7 +531,7 @@
       "key": "instalaciones-especiales--raiz",
       "md": "chapters/instalaciones-especiales--raiz.md",
       "outline": "outlines/instalaciones-especiales--raiz.json",
-      "sha256": "d6584f33c0ac656c55b92f9fffb767789ba0d511ce8ed751aeab7393e7930eb8",
+      "sha256": "a0bb9d6ad2ee122a17afe3c64ceafb60a9b689cc1752caa413eb428b564ef258",
       "title": "Instalaciones especiales"
     },
     {
@@ -540,7 +540,7 @@
       "key": "mamposteria--raiz",
       "md": "chapters/mamposteria--raiz.md",
       "outline": "outlines/mamposteria--raiz.json",
-      "sha256": "2d4c227e54b2f000f68b70fe3227dfc7c57c5739277922ba71deec3d0ff9d110",
+      "sha256": "4a60c757d78c42b33889ee414c30f67aa8364de4d50f48087630e1fefdbc846d",
       "title": "Mampostería"
     },
     {
@@ -549,7 +549,7 @@
       "key": "marmoles-y-granitos--raiz",
       "md": "chapters/marmoles-y-granitos--raiz.md",
       "outline": "outlines/marmoles-y-granitos--raiz.json",
-      "sha256": "5c02f2fc7ab78e9fc931eedeadad9838b816872f6332a99bd300274e39978d67",
+      "sha256": "03e15d71a04ba2c8588b50f6e00e888ad9d1e875ccfd12e544e975686bc025fb",
       "title": "Mármoles y granitos"
     },
     {
@@ -558,7 +558,7 @@
       "key": "morteros--mortero-de-cemento",
       "md": "chapters/morteros--mortero-de-cemento.md",
       "outline": "outlines/morteros--mortero-de-cemento.json",
-      "sha256": "d022a5ee28afc496400d47aa51f4cefa16ea4db4c24ea34ab337109a5c27026a",
+      "sha256": "ce44c660ea5a2c690743372dcb56ed9ccce0446493f3bcb6b9d85e6fdc1069e5",
       "title": "Morteros > Mortero de cemento"
     },
     {
@@ -567,7 +567,7 @@
       "key": "movimiento-de-suelos--achique",
       "md": "chapters/movimiento-de-suelos--achique.md",
       "outline": "outlines/movimiento-de-suelos--achique.json",
-      "sha256": "de22177e53285943ef25cd3424167c27ea76bb640e703abcaab12c1f04fdd408",
+      "sha256": "269b04acf16492814a5a7ebfcfba7a49f67862213012499c8c97c35af80de62b",
       "title": "Movimiento de suelos > Achique"
     },
     {
@@ -576,7 +576,7 @@
       "key": "movimiento-de-suelos--excavaciones",
       "md": "chapters/movimiento-de-suelos--excavaciones.md",
       "outline": "outlines/movimiento-de-suelos--excavaciones.json",
-      "sha256": "924fcededd66e251319a68994967ef1ae6dfede4c1cb0bc16f0e726666467343",
+      "sha256": "516005664df9f6098b2b35a8ea1d7a33130e70338ff536f3b9d42f5c88e8fef2",
       "title": "Movimiento de suelos > Excavaciones"
     },
     {
@@ -585,7 +585,7 @@
       "key": "movimiento-de-suelos--raiz",
       "md": "chapters/movimiento-de-suelos--raiz.md",
       "outline": "outlines/movimiento-de-suelos--raiz.json",
-      "sha256": "f5fb29fa7e4b42d051885e2b89c0a73ceb3ab3e7c5f2f60d5bdddc6c161c3ec5",
+      "sha256": "7ca4ffa0eb91c6c1f7defeb41350d488493d7c3c9063cbd7d3768b79908996d1",
       "title": "Movimiento de suelos"
     },
     {
@@ -594,7 +594,7 @@
       "key": "movimiento-de-suelos--rellenos-y-compactaciones",
       "md": "chapters/movimiento-de-suelos--rellenos-y-compactaciones.md",
       "outline": "outlines/movimiento-de-suelos--rellenos-y-compactaciones.json",
-      "sha256": "6c9e07d1994643ae613dc3069aa9f67d2d1361a67d7567c4bdf882278bc21c68",
+      "sha256": "6ab37cde7e7009ed720f1cd781d59ba9f6686d63e3ed3200931c7057e826d8b1",
       "title": "Movimiento de suelos > Rellenos y compactaciones"
     },
     {
@@ -603,7 +603,7 @@
       "key": "obrador-y-cercos--raiz",
       "md": "chapters/obrador-y-cercos--raiz.md",
       "outline": "outlines/obrador-y-cercos--raiz.json",
-      "sha256": "5e6738726d6af31ef0f89edfb9d84d1bebd8da8ce8ac62adc078dc6c17dec644",
+      "sha256": "ed60fab634a736f7f95b02f5f0496e6e371e4bb16a7df798b042f2d28fbccfbd",
       "title": "Obrador y cercos"
     },
     {
@@ -612,7 +612,7 @@
       "key": "pavimentos--raiz",
       "md": "chapters/pavimentos--raiz.md",
       "outline": "outlines/pavimentos--raiz.json",
-      "sha256": "3a4b687921da7eb51683a3425f759402177da5fcbb64d2cafaa932003f97ccac",
+      "sha256": "5713ad84cd646fa4eb18a2c12f9febbd597e84c985049519298e1d6529d62484",
       "title": "Pavimentos"
     },
     {
@@ -621,7 +621,7 @@
       "key": "pinturas--exteriores",
       "md": "chapters/pinturas--exteriores.md",
       "outline": "outlines/pinturas--exteriores.json",
-      "sha256": "52d4bdcf260668e173f1a48716fc972e26f70f0ba06391dddb11ba561f0b7d48",
+      "sha256": "6bffbaf4ba2c96de6040c4cfbbcf0b694215eda6ac4e04d9be329efe4c87cd87",
       "title": "Pinturas > Exteriores"
     },
     {
@@ -630,7 +630,7 @@
       "key": "pinturas--herreria",
       "md": "chapters/pinturas--herreria.md",
       "outline": "outlines/pinturas--herreria.json",
-      "sha256": "adb435bef229f0bbf9ddbc95d9f5d92eaa39f5ab95122d95ce3428d18a9c5b43",
+      "sha256": "7ec24eb0bcee318f3469c17e4d0b7f89ac7b0918fec6387374255050365a428d",
       "title": "Pinturas > Herrería"
     },
     {
@@ -639,7 +639,7 @@
       "key": "pinturas--interiores",
       "md": "chapters/pinturas--interiores.md",
       "outline": "outlines/pinturas--interiores.json",
-      "sha256": "b57decd94e04b72621df0d7e11645b165ae35c2014d57214da9caf2798890329",
+      "sha256": "e01eaff8e634d518a7a7e76f818dca5736f374a957544b621cf059673ffe35a6",
       "title": "Pinturas > Interiores"
     },
     {
@@ -648,7 +648,7 @@
       "key": "pisos--raiz",
       "md": "chapters/pisos--raiz.md",
       "outline": "outlines/pisos--raiz.json",
-      "sha256": "5a7ac67c7de95072ec00fa1ad8e3048ef5fee07f735269275da2e270de1c00fe",
+      "sha256": "9d3525fa240e3d88337ab163c29823d40b253a6f922d0c7d82ef81b54f616af6",
       "title": "Pisos"
     },
     {
@@ -657,7 +657,7 @@
       "key": "revestimientos--ceramicos",
       "md": "chapters/revestimientos--ceramicos.md",
       "outline": "outlines/revestimientos--ceramicos.json",
-      "sha256": "02469de2fac956ee835e026a0381aa8d0de010d0fa3dd918b9384a98e0a36a1c",
+      "sha256": "922aaeffc63e85ff4029c3238294d1c96fb35dcf2c1803a761fe61913c71ab30",
       "title": "Revestimientos > Cerámicos"
     },
     {
@@ -666,7 +666,7 @@
       "key": "revestimientos--raiz",
       "md": "chapters/revestimientos--raiz.md",
       "outline": "outlines/revestimientos--raiz.json",
-      "sha256": "0b1e56d0d52c1d585edfec517ae2260d65d12d918f2e4e99c4bc3529d952fb9a",
+      "sha256": "cc047167972d86912bb7681b965e27dfde07936df8bd3be5b176e2626a3f5dfe",
       "title": "Revestimientos"
     },
     {
@@ -675,7 +675,7 @@
       "key": "revoques--exteriores",
       "md": "chapters/revoques--exteriores.md",
       "outline": "outlines/revoques--exteriores.json",
-      "sha256": "fbc1679fe5f8dd3cd1ed8502008b6613999f1c670a8ff781cdd5b74912c3b982",
+      "sha256": "567b4f649ce0e38ab5fc3045f184a78e49a34375028982503376fecea2299c37",
       "title": "Revoques > Exteriores"
     },
     {
@@ -684,7 +684,7 @@
       "key": "revoques--interiores",
       "md": "chapters/revoques--interiores.md",
       "outline": "outlines/revoques--interiores.json",
-      "sha256": "cbb3f02f528b6814aef0fd832337020e9c533a9836d27477c2c80c96bdbf40ea",
+      "sha256": "b6150844183c37089a705ba2a6a2feadfbcd4739dad76e0a97f8c26e842c6bea",
       "title": "Revoques > Interiores"
     },
     {
@@ -693,7 +693,7 @@
       "key": "revoques--raiz",
       "md": "chapters/revoques--raiz.md",
       "outline": "outlines/revoques--raiz.json",
-      "sha256": "dea447b5f56e3c47e00c1237e0535c82ee5e59dc74cb785c940383b02ebb9303",
+      "sha256": "1be475c1a565358c9d0004240fcfb74775dcc30523f71bca998c443af1a61ae4",
       "title": "Revoques"
     },
     {
@@ -702,7 +702,7 @@
       "key": "revoques--yeseria",
       "md": "chapters/revoques--yeseria.md",
       "outline": "outlines/revoques--yeseria.json",
-      "sha256": "5409a48e06405afcfd1e10490f13b3edcc3ff997022c4a34f6b2eb5b3bc47d2e",
+      "sha256": "a6a6a4b0040d362c3315f7b839663a1fafb58f63274b7a5deeeba4e21f6ca056",
       "title": "Revoques > Yesería"
     },
     {
@@ -711,7 +711,7 @@
       "key": "seguridad-e-higiene--proteccion",
       "md": "chapters/seguridad-e-higiene--proteccion.md",
       "outline": "outlines/seguridad-e-higiene--proteccion.json",
-      "sha256": "fb7d0d600c2c40b668be4ab4de5b7e37f8043bbf79d18829d06a294d9ec9beea",
+      "sha256": "9cf7a79e57163f11d4680452e5913c4296edb374c34122055445be08a76c417e",
       "title": "Seguridad e higiene > Protección"
     },
     {
@@ -720,7 +720,7 @@
       "key": "solados--pisos",
       "md": "chapters/solados--pisos.md",
       "outline": "outlines/solados--pisos.json",
-      "sha256": "66cfe60bce8b99e6632b23ac0af04ef1a497f517a42ea673b2cdbfb65059d967",
+      "sha256": "23cb22e21bf7c9cf827b75c60737b6de13ee26ddff7e8aadb84b45180c627922",
       "title": "Solados > Pisos"
     },
     {
@@ -729,7 +729,7 @@
       "key": "solados--zocalos",
       "md": "chapters/solados--zocalos.md",
       "outline": "outlines/solados--zocalos.json",
-      "sha256": "f837a92f9df63b693c31db5f3d6021cde35b5abfbfea51ec0155c01f8907f7e4",
+      "sha256": "16a4ef825da41ca98b97816089d7060349411d0f9c2bfc755602249cd2fac3fa",
       "title": "Solados > Zócalos"
     },
     {
@@ -738,7 +738,7 @@
       "key": "trabajos-preliminares--replanteo-y-obrador",
       "md": "chapters/trabajos-preliminares--replanteo-y-obrador.md",
       "outline": "outlines/trabajos-preliminares--replanteo-y-obrador.json",
-      "sha256": "250c1702f82b7fbdbaff59568b82e93436afbc110a09caf571d71d15d4076998",
+      "sha256": "9b027142b7d8b59e8bff9a45630b1740919799136fda7110d9a2e3f46a203462",
       "title": "Trabajos preliminares > Replanteo y obrador"
     },
     {
@@ -747,7 +747,7 @@
       "key": "varios-y-limpieza--limpieza",
       "md": "chapters/varios-y-limpieza--limpieza.md",
       "outline": "outlines/varios-y-limpieza--limpieza.json",
-      "sha256": "e03036362571dcbf8f3f2fdf25738a26ad550d3a19c755552dd860f87fe688b3",
+      "sha256": "0c4ac9cad0c7f38cdacd309cd75cbc6d803efaabdce4e424b1a5a3223d035346",
       "title": "Varios y limpieza > Limpieza"
     },
     {
@@ -756,293 +756,293 @@
       "key": "zocalos--raiz",
       "md": "chapters/zocalos--raiz.md",
       "outline": "outlines/zocalos--raiz.json",
-      "sha256": "c0b5ae139f01024822212f30a33408dccb70ca78127dd4dcd251ac3bf4a07dbd",
+      "sha256": "2e91501a13188b8d6ea3579fb4d6e383815e02987cbf2a6acf138d57602eef82",
       "title": "Zócalos"
     }
   ],
   "checksums": {
     "algorithm": "sha256",
     "files": {
-      "CHANGELOG.md": "6b9f6b4e30938d971a07ab4aac6d3d4ed5c3a4919ae8ecfc5625e7b6d5e26b73",
-      "LICENSE": "0ff664870c2a440d9152fecad4b720a49e7dbe8bb116f8758e0aea41aca98783",
-      "README.md": "04a07662bf8fdd2397ea45b03205e7a951616959643ea06b12f5d34848b4a01d",
+      "CHANGELOG.md": "369c8e665d1423fd9c129d557aee0a6dcb0a06a1de76184b132f60255777ca62",
+      "LICENSE": "6474a32dc222b29861c90a8f21c61f9003fed631b9fe278fe29ba9c5e716ddbd",
+      "README.md": "4d13b022fbdcae2f6d311065d9be1a9992fce370427606962bc2cd64fa2619f0",
       "STABILITY.md": "b8f9608a9ebf1e3801f460995ed1c3af9081ffc4b09f6cbf248f5cd2cd794db9",
-      "VERSION": "97a5d6e540a6120d09c39ddb667e0e8e2bac7fcc2ffef813b82e08fd60365bce",
-      "basicos.json": "c9477b6049582aa2233c44d75d24498b751e82ee9646ac9e51dbdf74b8882295",
-      "catalog.json": "20363d322d26980b6eb203c7e174dbe6355b09c73f9708731665cc8821151ee2",
-      "chapters/aislaciones--capas-aisladoras.json": "6882f9aaa79ea6fa52dbec71dfd6298b9ea447972632f5732e2b4f52f1a75059",
-      "chapters/aislaciones--capas-aisladoras.md": "b6a81fd1ade85be45fb6f39452feee2604fa9ef6e243fe442ef65dd3587e9c15",
-      "chapters/aislaciones--cubiertas.json": "d5473663f189a966fa35e00a3ba5ff5202ab3e479c01b79b442c37ac837fccb2",
-      "chapters/aislaciones--cubiertas.md": "57a00c9fcca287a1c5448add4f55db6b5fb8dd109827b345bbeecacc5189417f",
-      "chapters/aislaciones--raiz.json": "f0f5cc3607585c71d3ddc6221ec93df751fb81a4aff5a4322d1af837e02ced9d",
-      "chapters/aislaciones--raiz.md": "3b60649d4c9596d5a1fb8f8efef602ad1329dd554aca678134b559d40b439e37",
-      "chapters/albanileria--construccion-en-seco.json": "14c9c47ce5a9004371512e65fdbc829234c2a3d630d6b6d57b4ddf76eef22d38",
-      "chapters/albanileria--construccion-en-seco.md": "6d4cb80fe6e96aad8f78858f2e1546adebab90222d27b6c6e43571c50ad4e226",
-      "chapters/albanileria--mamposteria.json": "afb7e1783d1b3fef6442f0a43e306ed193dd161398bf5e6fff98e9272d7cbfca",
-      "chapters/albanileria--mamposteria.md": "25121bdb85cb8c9fbb618d56b1eb4c16eed6e0e1ee666c9916028cb8a60a9c6b",
-      "chapters/carpetas--raiz.json": "15988e6afa87ce6127eccaadf06ec1d1e018e8ff43d4fdad31b80f61bb6b3d4f",
-      "chapters/carpetas--raiz.md": "18cc04d06f94bc13e4c43dbd3dcd82afaee578b337a388fea8ed997b7101648e",
-      "chapters/carpinterias--aluminio.json": "bb3807d9d917f00cd561129dce3f2468aa2102014028fd84eccd53d04975ba85",
-      "chapters/carpinterias--aluminio.md": "0535f06a193f6c27a7cefdcce5ae2a4bc741be5bb964106fa55d3f2dc0f988fe",
-      "chapters/carpinterias--chapa.json": "0b9c54f72f07102cee61d4441f33e1486808cc1c9b7975221c8a6f4736ab97fc",
-      "chapters/carpinterias--chapa.md": "1ff92f6366eacb786cc6de3a7ff129652c77dac7d8d71ad1c46cb78dd884c642",
-      "chapters/carpinterias--madera.json": "3975dc4ada4ace3c673a247d4c3e61b38034cc45a60e5edbcbabd53c5634eddd",
-      "chapters/carpinterias--madera.md": "96d29ed3634af88bca72f3ebec52fc77e3c9363b4e56a0c8f38ce2456a39abb2",
-      "chapters/cielorrasos--aplicados.json": "60df71aaca208a11fdc963da9f7dc060a8d31fa97a8b2f0ae9f4f9667acea6e2",
-      "chapters/cielorrasos--aplicados.md": "4d4ae2ac6c7a7241cd9557a26375b4e6525c116a1ed4341953a92072ab1639f4",
-      "chapters/cielorrasos--madera.json": "397078bf4c997862738de403d703dbf4d11dda7425d6465a32f8b90bdaeb62d9",
-      "chapters/cielorrasos--madera.md": "ea6ac4cf82343ba4c375311c1c105d622e99c84390e7a2a2a485c18fbee8269d",
-      "chapters/cielorrasos--raiz.json": "cfcd2466f2a9311e4a2d45dc98e513f25ae1c31b55c203af66aa423945373645",
-      "chapters/cielorrasos--raiz.md": "f36769b32f500323beb4552e53d7a66d8966bd2edc11f6e43119a320bf057b3e",
-      "chapters/cielorrasos--suspendidos.json": "a8f1b9478322bb5cc2b3b6963b17d68283cc6d236b73910f749bd1cad1ba4033",
-      "chapters/cielorrasos--suspendidos.md": "95ac24324b5f902cc6147dbe8bb995a76392fb01999aaecec6be34f4db0d92a7",
-      "chapters/construccion-en-seco--raiz.json": "ad5cc04f390e20e5ce337d0f48dbdd55881260662df25167b4d0ca29ae958376",
-      "chapters/construccion-en-seco--raiz.md": "ccf22476d18ee61dc720463b9ff2190787e95165d9fbc461aac17f031233bf2f",
-      "chapters/contrapisos--raiz.json": "ed51a2277408b00fb89b4fe9541421d407542a541ccb8f4764e7a4d46f15d5f8",
-      "chapters/contrapisos--raiz.md": "320ae3f71307ffab0ed97ec47cd9ec891518e360dfcedd2574227f15ea5c5bb3",
-      "chapters/contrapisos-y-carpetas--carpetas.json": "ddc852d56dd1bc72b5000a06b467f3acb184f0f0c2003e553f81b35b6e9038ef",
-      "chapters/contrapisos-y-carpetas--carpetas.md": "e9e26b985e8edffb1a5182330853ece843bd39a7b96811ec47528c313c831257",
-      "chapters/contrapisos-y-carpetas--contrapisos.json": "07ae0cdd6e75c3997bed11d810025af49ff2bf207ed0b00e72907af98d069e63",
-      "chapters/contrapisos-y-carpetas--contrapisos.md": "567ee6d7c459d6d4cae4f827d94d348f55811c0d479cdc4f420e3bc767cd4830",
-      "chapters/cubiertas--chapa.json": "b3f74fcd90171237032ec6f16a300f8fc827c9289701fdfccf93c5346585b6cb",
-      "chapters/cubiertas--chapa.md": "a51da4585e866cfc044f70b7abd5acb4936020cb09d43c89b06f8412235962f7",
-      "chapters/cubiertas--raiz.json": "ac766dce91beac324dc311ce53ebaebe828ae737e07e61a5b8bd8fb21d76594a",
-      "chapters/cubiertas--raiz.md": "3a54484a0b2a3570ab2d4f3df364a4523489d9a94623c0f43ce290052cd70cb6",
-      "chapters/cubiertas--tejas.json": "75a94e4fa0a5f21b348903f221622a4d970f8dacca096cd4ed02e81a18a8586e",
-      "chapters/cubiertas--tejas.md": "65c966e22568e3b9d202c72dfa5f1d775a5d87c290952d58a3a40aafb5e74247",
-      "chapters/cubiertas--zingueria.json": "5b95baab9233df97d49f79e77a1ef24d9b444282c73fc7ec6ec3376d16009b14",
-      "chapters/cubiertas--zingueria.md": "a18f6c5149ad816f61ea07799c8fc7e6041236758d6fe4196e43f404a51c32b4",
-      "chapters/demoliciones-y-trabajos-previos--demoliciones.json": "6eaa7b67ecf836e68b497e4bd28e197cfd82ff9a87f765867f2822383ead82c2",
-      "chapters/demoliciones-y-trabajos-previos--demoliciones.md": "5beaf5e59a6478d03d71e364907fc6e125f3339b1942acc45ad7fe525218b2ce",
-      "chapters/demoliciones-y-trabajos-previos--trabajos-previos.json": "0b731eed1e65fc1e2cfe46bc0a84645c0465c03524d787670e55d18e1ae648b9",
-      "chapters/demoliciones-y-trabajos-previos--trabajos-previos.md": "76616d497836461a93bc6fcf37de3f4a64dbfdd605c84b5b5a7193d2e3a7925e",
-      "chapters/entrepisos--raiz.json": "19a9adea849dd71782cfbc73c652e9adf79b77c5fef954d52dea6d1812c69080",
-      "chapters/entrepisos--raiz.md": "685a4cf8c4e17d87fb504225c30403e042861752a0ce1b80ab1276587677eb31",
-      "chapters/estructura-de-hormigon-armado--armaduras.json": "793e78ecdd90f0d3862cb3373c66310298ddce8d1b776b5a534dcd1e09c9ad37",
-      "chapters/estructura-de-hormigon-armado--armaduras.md": "fabb8796323733583e9bf3ec03ecced81bd51d9d676dba69508d9dec11276629",
-      "chapters/estructura-de-hormigon-armado--bases.json": "132359b1d03692bba9b41cda23f78d037b29cd3626cdbb0d42f2ec5515a1a2b6",
-      "chapters/estructura-de-hormigon-armado--bases.md": "80be8db66b6bf01f638ccebad3c222be444d135042f5061321258e5db77daa3c",
-      "chapters/estructura-de-hormigon-armado--columnas.json": "bcf546c7835199f598c80821fd8baf068cc48cecbd8e134707c92cfe2a12be21",
-      "chapters/estructura-de-hormigon-armado--columnas.md": "7325b9e06773d82f1121362a2ad20a810cf2e6a491333bdcdc5b9e58d5b062d1",
-      "chapters/estructura-de-hormigon-armado--dinteles.json": "ecef388f68934be13ef98a0a90203651151cff33aac46bf7b920c6cb6a6f40c8",
-      "chapters/estructura-de-hormigon-armado--dinteles.md": "921153d9bab0d3cec02843a1e6b991378d1831fbd62c69ddc4a29015a3cd58f9",
-      "chapters/estructura-de-hormigon-armado--encadenados.json": "41f6990c5f99e279d4098f2ccd159f6dbc8cfd2fb3329c1a267e797aafb3f389",
-      "chapters/estructura-de-hormigon-armado--encadenados.md": "0d40ef3ece88edb40e3eb378408718dcbfee2a46d5474e40a5a2c47e36c1a7a9",
-      "chapters/estructura-de-hormigon-armado--encofrados.json": "a61b988854f6964224b73d94a6ba94778601ba3b86b956211ab20b6816e145fc",
-      "chapters/estructura-de-hormigon-armado--encofrados.md": "8d63dbc4b5b60474abd5ea7c8d9ce1569c7c597540f4668f6de564c67e67cb08",
-      "chapters/estructura-de-hormigon-armado--escaleras.json": "9026c46ecb4d9b0bf0c520454e84e3adf40cf44093cce6b0c46e1b3532a46519",
-      "chapters/estructura-de-hormigon-armado--escaleras.md": "e8b847f054b461280022eb6e02efa55eefd1430b85ebe51a216b7a8359d9198e",
-      "chapters/estructura-de-hormigon-armado--estructura-resistente.json": "f68e091ee7b36be134781847f36886874c0956d922171562c57a1051e28bbe83",
-      "chapters/estructura-de-hormigon-armado--estructura-resistente.md": "cc546ff0cc4bb29661668993524d98cf6078f219573d317190937fa14bb364d3",
-      "chapters/estructura-de-hormigon-armado--fundaciones.json": "24c8f90f70c5126f83b8f2a5e98f3f1b5e62aed20ce98fd06859677bcb3e5cb1",
-      "chapters/estructura-de-hormigon-armado--fundaciones.md": "6eb79942c6e2f9771f629c8a1e9e8c848c60b8da39b24df21f5e8879799c78fc",
-      "chapters/estructura-de-hormigon-armado--hormigones.json": "1ddc2a652eba15142409b678dd92f7d1626cef2f671f7f685bd5f9fbfa25289b",
-      "chapters/estructura-de-hormigon-armado--hormigones.md": "e9c507250d40f799001d0c6577e40abe94af99437e08e74441e3e2af940a1e48",
-      "chapters/estructura-de-hormigon-armado--losas-alivianadas.json": "cc1746067fd0acf104ed2238b2270cb99660b24cf06fb050483d15f18a554f3d",
-      "chapters/estructura-de-hormigon-armado--losas-alivianadas.md": "393e8531b88ca2a7f720642fe78800ce72ddc3384c94cb9177c4afcc6eef0a01",
-      "chapters/estructura-de-hormigon-armado--losas.json": "f96409b47c9aea267934bbcb5168b1d894b869e8cb33f178e02cf042c158e4cb",
-      "chapters/estructura-de-hormigon-armado--losas.md": "19699ff3934323d25e3659588977bb4974d0e98933f0c98462f572b9857978a7",
-      "chapters/estructura-de-hormigon-armado--plateas.json": "cf97d017e14f8aa7bc15e5666f8a2b2a1a8e45887aa746834a0d68cd66f50102",
-      "chapters/estructura-de-hormigon-armado--plateas.md": "d651f9b9583bc2462723440999d559f6acb8c9c1daa6d930e6c6ecfcbbfcd36a",
-      "chapters/estructura-de-hormigon-armado--raiz.json": "ce8852cb46f85dc95f92befd6007261e566af1b8d06c287114a7047474bd24f0",
-      "chapters/estructura-de-hormigon-armado--raiz.md": "327b8f95c4be1ae62c2816ca579974039492334e8d58e32016b4a84c66433b18",
-      "chapters/estructura-de-hormigon-armado--tabiques.json": "3f69929f58cf88dc27968eedd74d3f0395f917e0f57e128d37667bdf0ec34961",
-      "chapters/estructura-de-hormigon-armado--tabiques.md": "befbac111d170fce91c8639589f2eea11a8f96fd0e6ffef67379b6811bc8c479",
-      "chapters/estructura-de-hormigon-armado--vigas.json": "cac97afc53c68f190e4b553de1de98b2bc2bcc779183b0f5c336934d5c9561f6",
-      "chapters/estructura-de-hormigon-armado--vigas.md": "87ce15c7a6996c7a206d12b961afabd8934539f89ff4bbbc9bdae4afc46bf013",
-      "chapters/estructura-de-madera--raiz.json": "3358a00065f8e35da7ef9e076a4ff827c2da6ae356919fb7f83298f3cdeec030",
-      "chapters/estructura-de-madera--raiz.md": "268d6ff88f9fc02eb59709b6fb7f19f59a24faa896402ec177ade9997c32faee",
-      "chapters/estructura-de-madera--techos.json": "e66e7647891d57695b2460f462a90848d648b78c14657cda984c0ff5e29b3cfd",
-      "chapters/estructura-de-madera--techos.md": "e663d79a3e0265f4bf0eb29cc015539520b7c71b84a27c6103530da9010bb3b8",
-      "chapters/estructura-metalica--correas.json": "957256294c0052103d21bde90aa0523c66f05435f5c79becf5043acb076cb2c2",
-      "chapters/estructura-metalica--correas.md": "249634627c9f499bda0457349e24ede5711c1a92551fcdfd4ecd1dedad1bb996",
-      "chapters/estructura-metalica--perfiles.json": "83876fa020f7d44f11b34a3ab3cbc966d206957de948981d02bdcc1b8e0f4d0d",
-      "chapters/estructura-metalica--perfiles.md": "89feea827a48c6b3274bf09ba08c80a5fe7fae30b2aad1aa69f0e46456a5eac8",
-      "chapters/estructura-metalica--raiz.json": "b1805e06f04aa14e04aeb41d3878a408c77de96ecce99086e9a16f9fcc14a0a2",
-      "chapters/estructura-metalica--raiz.md": "f2991cb1fff0682b24eb867291ed405f7f2c5fb1bff298a8739329aea749dfaf",
-      "chapters/fundaciones--raiz.json": "805eead7ddeeb55dc58822b2bc1895ec3fb4c95ed1c7217f76ae3808d98a000b",
-      "chapters/fundaciones--raiz.md": "7ecc250164616230de276fc960361dcbcbcbf4c86feecff6d777e48e240dcb3f",
-      "chapters/gestion-de-residuos--retiro-de-escombros.json": "43b86c720d9084dd89ef053f5ac62a4ff7cb4fb6b85dddffab640279dc2422d5",
-      "chapters/gestion-de-residuos--retiro-de-escombros.md": "be4c86c37c3794b517e4d4c8f6049a7142761592a5cd58292128f7017bfcf9e8",
-      "chapters/instalacion-cloacal--raiz.json": "e64f81be6ab8489fbf3b250538536d546aaa6ba62bc420ab07d99d1101e6d874",
-      "chapters/instalacion-cloacal--raiz.md": "e5b27df60f928db13187ea35fc9775357c40de532237ae4bb52d9a8a22a5be25",
-      "chapters/instalacion-de-agua--raiz.json": "1e35e4b58053557f97ee701b2ff4a137fa7b8153453ffd99bbda051418f500b4",
-      "chapters/instalacion-de-agua--raiz.md": "5d16d530859bc1d408a22da8b5bd3a55e9ba589582c4dcde7a4f65bce27d5c56",
-      "chapters/instalacion-de-gas--canerias.json": "00a95c09aca4143be46e43ce32324a683f81a0d010de27a0d5836f9a55a0ff1f",
-      "chapters/instalacion-de-gas--canerias.md": "31d0883e5f4754d6ac00d2b26a0322dea1bece2a9fb140229f06a7113abab2d4",
-      "chapters/instalacion-de-gas--raiz.json": "517847618d61701e0a893c95fd77a5f59bd7239b432a021887ae96a38189da6e",
-      "chapters/instalacion-de-gas--raiz.md": "78138f2800fcb7cb3d667c8be83b95ec101d222370eb51698f8a4cf3adcb9b71",
-      "chapters/instalacion-electrica--bocas.json": "a86f1b9913ab9d9b5dbd7caa5d8c160456bb346e890a8e18074d626faf054b84",
-      "chapters/instalacion-electrica--bocas.md": "983a5cca5c3e03231ca00ebcf07172249f4d38a5e6fb6829f283a5dd9b06f7c3",
-      "chapters/instalacion-electrica--tableros.json": "93b354061dd1bf86aabf9206436ad87bd2164d9e193e6a580e126200b07a12e1",
-      "chapters/instalacion-electrica--tableros.md": "419423b11721583fdfaaa6ec015b9636e5eabc422311dde521c72b23915f5501",
-      "chapters/instalacion-sanitaria--artefactos.json": "694c362e77ea48350e434da0135d51199f4c0f75b95f422e70011c5e4e946340",
-      "chapters/instalacion-sanitaria--artefactos.md": "46303918cf8929a0b7670d699b6aa818af04ee035a77dbad9fd9c860a9963083",
-      "chapters/instalacion-sanitaria--canerias.json": "7279affb24ed950fde2ea6ad378543106b7a3d376338a9cfea75a9cbf38c3a29",
-      "chapters/instalacion-sanitaria--canerias.md": "e8430f37bc093934ca2b2160bedf7c4f48b323a7d80e69b17473c81a827492eb",
-      "chapters/instalacion-sanitaria--desagues.json": "a30c916445748dbd255a1e984342e3730f6564cff81e163ef686668539bc17f8",
-      "chapters/instalacion-sanitaria--desagues.md": "c3e1a11591e02ee35719223620a6f1e97aeb6a378747661b2201bee70e15dc0d",
-      "chapters/instalaciones-especiales--raiz.json": "d6584f33c0ac656c55b92f9fffb767789ba0d511ce8ed751aeab7393e7930eb8",
-      "chapters/instalaciones-especiales--raiz.md": "1e3e4a55860da987483a88e6e1050df18cfc3eea8adc9a52b93011d41a8ca566",
-      "chapters/mamposteria--raiz.json": "2d4c227e54b2f000f68b70fe3227dfc7c57c5739277922ba71deec3d0ff9d110",
-      "chapters/mamposteria--raiz.md": "0294887bc614d1629c809ca377e3b32342241a1339d8225ae4f7e54167e9b87c",
-      "chapters/marmoles-y-granitos--raiz.json": "5c02f2fc7ab78e9fc931eedeadad9838b816872f6332a99bd300274e39978d67",
-      "chapters/marmoles-y-granitos--raiz.md": "b096f8efa586af24df0076948096355eb8f528c24092f3de864998fff5bbe549",
-      "chapters/morteros--mortero-de-cemento.json": "d022a5ee28afc496400d47aa51f4cefa16ea4db4c24ea34ab337109a5c27026a",
-      "chapters/morteros--mortero-de-cemento.md": "bd45fddbfc7502ab172d21f1a6f7e7be53fd712be63c3759e128e8593a13e1f8",
-      "chapters/movimiento-de-suelos--achique.json": "de22177e53285943ef25cd3424167c27ea76bb640e703abcaab12c1f04fdd408",
-      "chapters/movimiento-de-suelos--achique.md": "c194cb03bf0e103f01321f79c38e5b1b22ec30ff61023d011f15b0420cbba67d",
-      "chapters/movimiento-de-suelos--excavaciones.json": "924fcededd66e251319a68994967ef1ae6dfede4c1cb0bc16f0e726666467343",
-      "chapters/movimiento-de-suelos--excavaciones.md": "64e40f8e0c7664d1b7bf1bf399f0bcc38ddb41612d1b029ab7e32b5ae68e7299",
-      "chapters/movimiento-de-suelos--raiz.json": "f5fb29fa7e4b42d051885e2b89c0a73ceb3ab3e7c5f2f60d5bdddc6c161c3ec5",
-      "chapters/movimiento-de-suelos--raiz.md": "228bff297b8914dc8be98ef17f12895d404b919abc07ddc97d9034381e37a497",
-      "chapters/movimiento-de-suelos--rellenos-y-compactaciones.json": "6c9e07d1994643ae613dc3069aa9f67d2d1361a67d7567c4bdf882278bc21c68",
-      "chapters/movimiento-de-suelos--rellenos-y-compactaciones.md": "a837d59c07b67a2f851e5412f2d8e9812b2a90d54177c9fa6dcf6bf2437bd09c",
-      "chapters/obrador-y-cercos--raiz.json": "5e6738726d6af31ef0f89edfb9d84d1bebd8da8ce8ac62adc078dc6c17dec644",
-      "chapters/obrador-y-cercos--raiz.md": "a41407eade1c894b5301cf2dc5c03a268948fe8eaf618ab52c866dfd26d95768",
-      "chapters/pavimentos--raiz.json": "3a4b687921da7eb51683a3425f759402177da5fcbb64d2cafaa932003f97ccac",
-      "chapters/pavimentos--raiz.md": "d25d7670a6f53fe4845e76ddf03dfbe31c654f22dc9e6db635821e5ce3336534",
-      "chapters/pinturas--exteriores.json": "52d4bdcf260668e173f1a48716fc972e26f70f0ba06391dddb11ba561f0b7d48",
-      "chapters/pinturas--exteriores.md": "8253cb9f14a3f569210fbbf24dfd0d30e5df49426c5aab4ff1c14b0846e9e250",
-      "chapters/pinturas--herreria.json": "adb435bef229f0bbf9ddbc95d9f5d92eaa39f5ab95122d95ce3428d18a9c5b43",
-      "chapters/pinturas--herreria.md": "af209d7dd957ff6b6ad66c9266c63a2948c942995e3582079f73a572e3312b23",
-      "chapters/pinturas--interiores.json": "b57decd94e04b72621df0d7e11645b165ae35c2014d57214da9caf2798890329",
-      "chapters/pinturas--interiores.md": "28f50e1663758ff4ec46dba4b77eec69d7786a94b736294ee6c308a3d6f1ec6d",
-      "chapters/pisos--raiz.json": "5a7ac67c7de95072ec00fa1ad8e3048ef5fee07f735269275da2e270de1c00fe",
-      "chapters/pisos--raiz.md": "b528530f3db3ae2b3c36e01606fba44537013b05ae2c3cabd6072dff25c40714",
-      "chapters/revestimientos--ceramicos.json": "02469de2fac956ee835e026a0381aa8d0de010d0fa3dd918b9384a98e0a36a1c",
-      "chapters/revestimientos--ceramicos.md": "9a8d8c30b9e979aa0fcadb01b850ed92f3ec4eb4f4d935312a5f896c40f90baa",
-      "chapters/revestimientos--raiz.json": "0b1e56d0d52c1d585edfec517ae2260d65d12d918f2e4e99c4bc3529d952fb9a",
-      "chapters/revestimientos--raiz.md": "5c7b5fbc47298e457f5404fa3de3602f05adba975d2f47ac9350f88b9d78a56d",
-      "chapters/revoques--exteriores.json": "fbc1679fe5f8dd3cd1ed8502008b6613999f1c670a8ff781cdd5b74912c3b982",
-      "chapters/revoques--exteriores.md": "424cc637a712cfb7c15405265ea50cb91fa4134e879d45c36147b42ed014a719",
-      "chapters/revoques--interiores.json": "cbb3f02f528b6814aef0fd832337020e9c533a9836d27477c2c80c96bdbf40ea",
-      "chapters/revoques--interiores.md": "e7ad5863bca53743a5e0f7fbc884302824ca8b300b3c4a4843f0a0b5d592afdf",
-      "chapters/revoques--raiz.json": "dea447b5f56e3c47e00c1237e0535c82ee5e59dc74cb785c940383b02ebb9303",
-      "chapters/revoques--raiz.md": "e2467135be02ce8e48d49043f79e71efa1267252ae2d5bcd931db34472b61a78",
-      "chapters/revoques--yeseria.json": "5409a48e06405afcfd1e10490f13b3edcc3ff997022c4a34f6b2eb5b3bc47d2e",
-      "chapters/revoques--yeseria.md": "225d684662dfe65d9f7455a2a9a370875376e6ceec072145303d44bedd1e89d0",
-      "chapters/seguridad-e-higiene--proteccion.json": "fb7d0d600c2c40b668be4ab4de5b7e37f8043bbf79d18829d06a294d9ec9beea",
-      "chapters/seguridad-e-higiene--proteccion.md": "b2af51c4d1ba4dc89019182bffee2d5529267127217602c2dfe4d7e6a1865faf",
-      "chapters/solados--pisos.json": "66cfe60bce8b99e6632b23ac0af04ef1a497f517a42ea673b2cdbfb65059d967",
-      "chapters/solados--pisos.md": "4f2d830d34dbb24b9bda0cae0a8ff6e365b8106f889f7feb7e35e3c8c9945a44",
-      "chapters/solados--zocalos.json": "f837a92f9df63b693c31db5f3d6021cde35b5abfbfea51ec0155c01f8907f7e4",
-      "chapters/solados--zocalos.md": "3dd234a17b33f47623f683529735f8850b5617a439a9d622c5cc1c3f066978a2",
-      "chapters/trabajos-preliminares--replanteo-y-obrador.json": "250c1702f82b7fbdbaff59568b82e93436afbc110a09caf571d71d15d4076998",
-      "chapters/trabajos-preliminares--replanteo-y-obrador.md": "b9fad3e2e1c10ab46b3cd2a10c6e7b9ce55c2cc2b6519814ed5c340d1779963b",
-      "chapters/varios-y-limpieza--limpieza.json": "e03036362571dcbf8f3f2fdf25738a26ad550d3a19c755552dd860f87fe688b3",
-      "chapters/varios-y-limpieza--limpieza.md": "b100fbd077989e36cf493eb5fe5113b7afa8abf4d00b7e3637fa72292cfc5f60",
-      "chapters/zocalos--raiz.json": "c0b5ae139f01024822212f30a33408dccb70ca78127dd4dcd251ac3bf4a07dbd",
-      "chapters/zocalos--raiz.md": "2cf86452812f8abe760e0e3dac3dd6227f0212a4235c793eebdf296b73ce941e",
-      "llms.txt": "397ff5a5fd3751b45c1cabf0a6f1b7deca96d4c64d68111ac7cf292c87236f68",
-      "outlines/acero--barras-nervuradas.json": "ec3b82b6ca54cea3b15f8d371bbf167dbc8da5e40b9fbda15dba46f015ee829b",
-      "outlines/aglomerantes--cal.json": "e28ab8bcc6fcd07b77dadf3d7385c0f4df94f1d4dff090f9b59afc547aa0fe8e",
-      "outlines/aglomerantes--cemento.json": "f4f73a82ff029fbd04f91d66341ec833d7c317f7262ff7a0003a3ab597402c21",
-      "outlines/aislaciones--capas-aisladoras.json": "1e6edbb8bc139e23b9570671f445a72a8712d33a117ca4112f2a97280bc4a4bd",
-      "outlines/aislaciones--cubiertas.json": "bc43df45cc2ad0d934e541154a7c05dd2a97e4042ac4e2f91820788ece4b1815",
-      "outlines/aislaciones--membranas.json": "53054fa22dae0af463fa20f26f51636140fe804be73c1ef059836ad8cfac4f2e",
-      "outlines/aislaciones--raiz.json": "6a445565078d74b9bcedea552cdc3a9b91c5619945185b46bda129d39ebb5374",
-      "outlines/albanileria--bloques.json": "8264adebb607387d48d04f82896d1de38cbe805805592559a735d0ed415cd3ee",
-      "outlines/albanileria--construccion-en-seco.json": "1efedc60725a96c90838d999d1e17574338e52a624e77d56f96707d6e20b4d5d",
-      "outlines/albanileria--ladrillos.json": "aaff29b7aed93c47a875241fdd564e5a5c1f55fa4176be1e28592b28f2d59e80",
-      "outlines/albanileria--mamposteria.json": "4d22cd72e78d84e47faa97db955168b45cbf0eaceaee6328212379a5260f1991",
-      "outlines/aridos--arena.json": "5b8552ff5a2244908e482cc94b0493400c813371cf01c31743a4a0c7a1195c6e",
-      "outlines/aridos--piedra.json": "ce16e249f186f3699a23b2aeb1e0fcf0dd6b8dad708fe5aa7a49a9a06a5c3a3e",
-      "outlines/aridos-y-aglomerantes--aglomerantes.json": "8c006763c802ace60998b3e189cb1ca5ca5571151d19510262db34d7866c1893",
-      "outlines/aridos-y-aglomerantes--aridos.json": "3b75275acb1af1146f02086b9828e621812b564abfb943df4607eaf5e9696777",
-      "outlines/carpetas--raiz.json": "10b84209ccb30fd9413046bfabaec5bcc8edefbba961258c9d84618af1c3e1c9",
-      "outlines/carpinterias--aluminio.json": "c7a490c833d0cf3560490e02f988b60ff93161fda17679bf12020ba5fe0e4b53",
-      "outlines/carpinterias--chapa.json": "6697241e320ac8c5c6d1c067140747c1c93cbb1261a5ec9395e864b741a6600c",
-      "outlines/carpinterias--madera.json": "917d0c064438981c28a9523db79d74837959bb71164834b04ebf97193b881286",
-      "outlines/cielorrasos--aplicados.json": "c554b134ed517dcfe3fdafd750614fa457a16b0ee3b19d85fb990ec360d58e8c",
-      "outlines/cielorrasos--madera.json": "ce90ef21c7135208e971ea3734233b7906a4c720a89db77ceedabd04a147a706",
-      "outlines/cielorrasos--raiz.json": "359feb1d3b71ae0e571c90cee401fadcbe419cc574b8ee9ccf0e1c0dcca62f87",
-      "outlines/cielorrasos--suspendidos.json": "3eef943a23ed2b040d4d3471b83c30e8a9034e88c2bb5c74623f5b349fd081ef",
-      "outlines/construccion-en-seco--placas-y-perfiles.json": "ac7e47fd7ae6a42ea584ac402bf920f3162877a4fe56e3334664562edf5f39c8",
-      "outlines/construccion-en-seco--raiz.json": "3a6300dd757595c69b87b6cb67120b021009f64b6f89b9a858730673a975b717",
-      "outlines/contrapisos--raiz.json": "4441a26ba9a535acca05ec9b7ce1acfbb8dd17ff55f3d6f6b0e8be6d20f81832",
-      "outlines/contrapisos-y-carpetas--carpetas.json": "0ad9e0ced2edd44f833258337ef2fd50109c80269f59bd42cba1b8eaae899450",
-      "outlines/contrapisos-y-carpetas--contrapisos.json": "760338286b5fd80c1bdb28c10bc8b4554647a1492abdfbc92cb0ad803c791bc4",
-      "outlines/cubiertas--chapa.json": "189b9ed015019ac93842e9a2372227a0c101a80f30d02214953f79de0a015c8c",
-      "outlines/cubiertas--chapas-y-accesorios.json": "4a461b208b032f7eeb43c1857a10a2c21f377e4fbfa41b8c9de48dc5fb1a20e8",
-      "outlines/cubiertas--raiz.json": "688c091635793f7a7ddc6ec87164a1b0ec0625afd1df8ad92f8e6dfe4183641a",
-      "outlines/cubiertas--tejas.json": "f2ac843776e22bdcce56b475b47a5077aad59db3c049c68a03cdb9a351e4a6a0",
-      "outlines/cubiertas--zingueria.json": "9b9db1ce5fd07225f77504f369e9f81e346767fe70af3c839c5df6da9b44e6d3",
-      "outlines/demoliciones-y-trabajos-previos--demoliciones.json": "5c6ca3ac2448c1b66dfc252ab6320196d89c684f7a9d90d0460f3e9057d6a8c1",
-      "outlines/demoliciones-y-trabajos-previos--trabajos-previos.json": "c17926acae3cfb709cbe3c55e560610acc3d2d96734f10764bd9536e0c3fa439",
-      "outlines/entrepisos--raiz.json": "35a46889cf9aa76a40c9c0ec1cbf8c66742c2c59ffd8822e5c3e65ebe39b683f",
-      "outlines/estructura-de-hormigon-armado--armaduras.json": "e3aa2247ce3c9ac4cbcd061ef3b90fb047321d8879b257ca2f26b2ec82ff624d",
-      "outlines/estructura-de-hormigon-armado--bases.json": "654f67d6f9139fe0fb37a8dd1e5aba0e9fff9bc8c4259aa18efd2932f5c148eb",
-      "outlines/estructura-de-hormigon-armado--columnas.json": "1c6cc7f30e568bf4b87ad91f6738ec435fff0fd7e9b297dddab63ec18357acda",
-      "outlines/estructura-de-hormigon-armado--dinteles.json": "4caf7301ab0336854603569eeafc1746c26c431f5919c9fab01f3d683675907c",
-      "outlines/estructura-de-hormigon-armado--encadenados.json": "7e9ae582c10674f6eeeab159079c39a998ee89307794ec32ffe0b0be27fc729e",
-      "outlines/estructura-de-hormigon-armado--encofrados.json": "47a4e9741df70a29e1b13aa648cc6a03f4117d243f1576efc2c0b4da63bdae59",
-      "outlines/estructura-de-hormigon-armado--escaleras.json": "0efc047266a3aa3581dfb2e302bb1edd2018e16ddd3e297bac32c41abfa103dc",
-      "outlines/estructura-de-hormigon-armado--estructura-resistente.json": "cfe6e278d6f11c3fc6261100f23b80707472769b0e9f0468191421b6f0634de1",
-      "outlines/estructura-de-hormigon-armado--fundaciones.json": "70e84981af4d990f40e22f77a19978fca977507ff17669a395289168f801da7c",
-      "outlines/estructura-de-hormigon-armado--hormigon-elaborado.json": "2ab5ce97f57094c9f035dcfaa70cbc9209e01d109c87b8a35356dfae32f14d9b",
-      "outlines/estructura-de-hormigon-armado--hormigones.json": "999403e00833ccead02b5e0d8115d0b43f76a2a825b2d22a5292abba7989192b",
-      "outlines/estructura-de-hormigon-armado--losas-alivianadas.json": "7f5696058ce38a464e154eb45adae4383b4ff73af3574abab2eb661b6594620b",
-      "outlines/estructura-de-hormigon-armado--losas.json": "fc0d1af2509d81050f0ce1072b6bee84a330b1b67924f783296fec05984d24d3",
-      "outlines/estructura-de-hormigon-armado--plateas.json": "fa6cd21aa82ef34d9725407ea9001615d87e6ebcfd22a2629962359c29fc738e",
-      "outlines/estructura-de-hormigon-armado--raiz.json": "19388f731a9f64bc658c8e2fb214d6815e853c084aa1d6cf4e60fa8b4e81a147",
-      "outlines/estructura-de-hormigon-armado--tabiques.json": "addbb38cb8d9b485c36ab9148327dba97b0e186d21fd6aaa4f0eba29db33b1bc",
-      "outlines/estructura-de-hormigon-armado--vigas.json": "fbba23c4da7fa188a2a6ea2b366d15cc65a399e5ca3861a28643b9b6ecb65896",
-      "outlines/estructura-de-madera--raiz.json": "b9ea2a3ba0da9eb5acc6c3a88da9fc029af3382dbae0c317ba5fc03a093a38e3",
-      "outlines/estructura-de-madera--techos.json": "522614090fee2bf38654430500c4cf6dc29c0e8862cee8f921b7cee8ab863f49",
-      "outlines/estructura-metalica--correas.json": "7282abd91b114293beffe632acf337a99e666dc3b64a83b6a726ebab4c62947f",
-      "outlines/estructura-metalica--perfiles.json": "29b76f87191cc1f34a59735cfd39ca0c811ce0373671c1937ecd80901d5bcbb1",
-      "outlines/estructura-metalica--raiz.json": "e76041b5c3382f32d028ade6492bda9b4744d38f90fb2fe6171baaee59d2b57b",
-      "outlines/fundaciones--raiz.json": "af09cf492d42079e6998d3b5ddfd2405a8aaced5875193b927d490999a5de91e",
-      "outlines/gestion-de-residuos--retiro-de-escombros.json": "06769d495d2fd20913ff7dc5b93fbbfb2774c97e7678f53ca8c80005253aa3bf",
-      "outlines/herramientas--demolicion.json": "8ddc9021e6609eedaa23316ac5b37cd49fe79f8572639c348f48fab49c4aadd1",
-      "outlines/instalacion-cloacal--raiz.json": "b64d31cd27445ba1c0cb222b7d41b73ff2add07effcc4df23c0293c11b364553",
-      "outlines/instalacion-de-agua--raiz.json": "eb8abd7e44f911784250e3aff2a11c508806375502b5a8f5927207decbb6d52c",
-      "outlines/instalacion-de-gas--canerias-y-accesorios.json": "a4e08f904cb882c231110b6a89010c4e7975a412a82c39ac0bc588239b800c1f",
-      "outlines/instalacion-de-gas--canerias.json": "d0b6c8572ba8a62ac5c8813b88d318e34f9f9647d0164cbd7c5f9a954f5ca044",
-      "outlines/instalacion-de-gas--raiz.json": "63b458f9fc82e507c9d731524f28ffc12283b844c87894446cb5cc527161be1f",
-      "outlines/instalacion-electrica--bocas.json": "ea369202fd6ebf3959a3a78cb0166cb9ed1ae2c77c2a66fa07c335487a44c75a",
-      "outlines/instalacion-electrica--canerias-y-conductores.json": "fa8e832e4f39d16bed2bab5d81455fd2db7ba0a414c42389636ee4c1dbaf6377",
-      "outlines/instalacion-electrica--mecanismos-y-tableros.json": "447c8a1bf92e09a282fd5e30067a11f5c83cc92ddcc1d4b2f8cd0ed634f611d0",
-      "outlines/instalacion-electrica--tableros.json": "4d07e7ae06eb133cbfd9f4993bece262e0d9084d0d63172fe41686ecdd2cb36e",
-      "outlines/instalacion-sanitaria--artefactos-y-griferia.json": "558ff04f74d972624c2540641459539f8394add2a10c25d5f65962b62dafe2b4",
-      "outlines/instalacion-sanitaria--artefactos.json": "89077888924939ae627da19cff3f558a796aaa5a841ca5227a858c9890c30204",
-      "outlines/instalacion-sanitaria--canerias-y-accesorios.json": "26056457823828645110192480dfab86702310e811c58197a4e32c5c9d8dbb33",
-      "outlines/instalacion-sanitaria--canerias.json": "f5e46d69334be0b182e8811f0d6124780bab9e832981f79537b64ef5f4795ce8",
-      "outlines/instalacion-sanitaria--desagues.json": "dab579e45c2a2b032f5ae04e118acc21fa4f2f7b11f5f00569d81c6214668c3e",
-      "outlines/instalaciones-especiales--raiz.json": "84ffad54813838acfc71195592875bbd1be59505492142e660bf5bc82f63ee17",
-      "outlines/mamposteria--raiz.json": "ff22f0cb50c8c8ef353bc25ec004f37b0f2d2d993a576fc0dfff2c336eb89aa5",
-      "outlines/mampuestos--ladrillo-hueco.json": "b2d8a8569a24a27680ce1761765adbf236765a0965309fcb893657deadfa5a47",
-      "outlines/mano-de-obra--cct-76-75.json": "67eb9dc4da7c0a828591c111883790ef04709d78f725de28d506ec25f17e0da5",
-      "outlines/maquinaria-y-equipos--alquiler.json": "b7edeef4083c813ecab1d35106a8991ca18660e51ac63aee490c991226942afe",
-      "outlines/marmoles-y-granitos--raiz.json": "6858f7badce95c1e0f134076d7041b94f68d45c01e4981c22a5d334f810d9928",
-      "outlines/morteros--mortero-de-cemento.json": "a9eafeeeb7e787fad51f39c18a5bd4e188144afc7ca1c530de3080f1c5255a7d",
-      "outlines/movimiento-de-suelos--achique.json": "0a07e6c08bd3db67b7021acb5cc9dcd1fa31abc9d21bf9578734596dbc3e1910",
-      "outlines/movimiento-de-suelos--excavaciones.json": "95ec72c39868b622e44f565d1a0f0eab7c1ad5500761badd69b09f9be67f36d5",
-      "outlines/movimiento-de-suelos--raiz.json": "638e8f63d2f0c0baae50c9a01889e254d263ffcd0bd52ae2d5378339a6fa70bf",
-      "outlines/movimiento-de-suelos--rellenos-y-compactaciones.json": "a1e1b167d4a765798f6f5d76ed6a0d8d7847724a41998bf6c7f619f4a1f88fa8",
-      "outlines/obrador-y-cercos--raiz.json": "a88708d8affc5760c58e8f6d594bf6050361c2bdeecf29c5403a05890c2400e1",
-      "outlines/pavimentos--raiz.json": "fe839287786dbfc1d575b1ffa4d282ca1bbde84f4e4fa32bcd2eb4d6d0f79707",
-      "outlines/pinturas--exteriores.json": "2ac7367649125c1278c24a4ea965ceb9f3f928c0f31f9cc9d9692080ec14a265",
-      "outlines/pinturas--herreria.json": "751f3997992500d6eea6079948448a2bfd4b86b99ba449d84d5bc57527ac8357",
-      "outlines/pinturas--interiores.json": "bf4b5252f853f5e073f9700e5ca8ddc4dc0085b55c1e97653cdc64f1d13fa6ca",
-      "outlines/pinturas--materiales.json": "238809a6e126e47637b0d83c57468d78cb39c3c8be2ae5bd9c6c6e31b82da9ad",
-      "outlines/pisos--raiz.json": "2f3ad3ad377965d7b9dc39d86242087d84f3a5355084df678d96dfe990fcc7b0",
-      "outlines/precios-basicos--sin-clasificar.json": "94c4d1296c5f98442382ce967c286c04b333c4bf3392321830825a04a02a5e3a",
-      "outlines/revestimientos--ceramicos.json": "79c5b15bb4c394f12c317bac6461c437c40f0bbddbd62b836f78b45d14d2785e",
-      "outlines/revestimientos--raiz.json": "1da6d86358bd61a284659f663936d9fc76f2deba8731af489768ad7ee55ee919",
-      "outlines/revoques--exteriores.json": "166ca240aebb840d2059bc467130c8c40c909dbfc0c128a10cf163b85c4fcc22",
-      "outlines/revoques--interiores.json": "9c876e4da39a22188d1df1297fd4701ad1df0bba951d4bab2f3d1be5b56ee6ae",
-      "outlines/revoques--raiz.json": "6739132e42b844c84aa701e0a22ad76b60adc97ebfaf4f22e34e6fb54d165df4",
-      "outlines/revoques--yeseria.json": "f666f3f898fcf6063df2a078f1c07226e56077925377892ebdae8a02ff363f16",
-      "outlines/seguridad-e-higiene--proteccion.json": "62eee4401ea3bdc533a6360132080c5f325b699be69175fd8f4b9c1756b19fa1",
-      "outlines/solados--pisos.json": "b20be47a622f31cf6fc2e7861145c2dd2ad35faf1093c77d4905c1a9f72d3300",
-      "outlines/solados--zocalos.json": "36da7dc21cc91ad6e6eb5fcb0601f73dca7b6c930e79d11e2e457cb25b1023cb",
-      "outlines/trabajos-preliminares--replanteo-y-obrador.json": "c66cbb0097caa581d1448cb18645e063c9232b10f6f8d389387d96c76e3bede9",
-      "outlines/varios-y-limpieza--limpieza.json": "93bd3d6025ff8d71b23811c906afd7d1491269739e41c0764b98c4179ae6c7d7",
-      "outlines/zocalos--raiz.json": "e104197ced2131bbe6c63a5957c040c61a5147e070dec88ed3c3198731ecb4cf",
-      "search-index.json": "628cfa48eaef1f0deeab2796970f2dcf4ec80258238cb80354b7096f09073025",
-      "tree.json": "5c942ede0fde34d52246ed74c4004afda257b2afed2dbf9dc86c000da932cf43"
+      "VERSION": "87b241b275c591694846560e9879f50c9da3150f854efdabd782c539772f3033",
+      "basicos.json": "95c3dc7783c4d9a4d827e6423d6b6ad09de68b93c64ee41809c5cbb78e1df60a",
+      "catalog.json": "30c0738fef71386d3a15863c047ed9602c30422952a2a7afdb8507d7b1b31ce1",
+      "chapters/aislaciones--capas-aisladoras.json": "d65349fe9a1b9a1f50e40bde3213a7c7112906d9e36a8fde318119e59c6b59a7",
+      "chapters/aislaciones--capas-aisladoras.md": "8beb63f801550de58178cbd0df9cac95fbea1befb3ab116b8cbd12e34e1fc6b0",
+      "chapters/aislaciones--cubiertas.json": "be1178ec7293482f5cc3cd8801977585133771089a94356c44dfc1d59164fe9b",
+      "chapters/aislaciones--cubiertas.md": "58341ae2afd3292a474a3490e81e7de47fbf0dfb86aab275b73ea57615f295b0",
+      "chapters/aislaciones--raiz.json": "da7bff0b6f75d1ee208f730b6aa524e11298a2711243423762e1ec54d5bf954a",
+      "chapters/aislaciones--raiz.md": "63a52fca972a2d462cdd63300df7a4504080d4101aca03a19f94bcdc2c07f431",
+      "chapters/albanileria--construccion-en-seco.json": "97aa4268e8fe54128be9b3f2cdb7b290984d6ee66011624c811558dd3169e3f2",
+      "chapters/albanileria--construccion-en-seco.md": "3341a7408485a53547241defc921f9b8ed94abd91d95182f29a1b8ea8c1334df",
+      "chapters/albanileria--mamposteria.json": "b2e9886b7749d30b207274ea0b1d3a61da9ad8adc6e56fefa13806681a3f2fd6",
+      "chapters/albanileria--mamposteria.md": "598dee0ce8738656318f62dbd3245c7c8b0e2ce19e327cbc03cc2a3909d5f1e1",
+      "chapters/carpetas--raiz.json": "606d4dc9ffa971a6f37a859fe4f1bc02baf7faae0d26e87450af56250781c54b",
+      "chapters/carpetas--raiz.md": "15992ccb2670eba5ba4db5d991a4a9e8cfb3ca4b866051305efb2cc3f03a2b6a",
+      "chapters/carpinterias--aluminio.json": "7d57a625fac288d38b8afade1eec4a70dac1f8500240abc6ea9025a3bf1771e7",
+      "chapters/carpinterias--aluminio.md": "e5983bfe3eb92832e5d3f733f5c9fe7fd0575c600a3db624aa085ca5ca3864ac",
+      "chapters/carpinterias--chapa.json": "88f87f96a980f3996140129b0155dd6d0d40c81d15c6a9c7c31eabd78ba2251b",
+      "chapters/carpinterias--chapa.md": "cc5a60933e4e4dd670035c7ed429b34f65b7ec69116e5b8e23d9ab6de2f36f0f",
+      "chapters/carpinterias--madera.json": "b6d6f854608a61f00c00f51ad258bc0a6d1ed3b554c0d8ddb2a9b29a77f3a9ba",
+      "chapters/carpinterias--madera.md": "989f4fabf8f1a1fcfb8be78c7e27f7ce6b3ba2bef2502016c2f36fd643967733",
+      "chapters/cielorrasos--aplicados.json": "85804472a9785bbfdfd0ef9c7c8eeced871fb90fe411ff67c5ee0d746893e7ba",
+      "chapters/cielorrasos--aplicados.md": "8a17bab611ed0c2342b5cfced8497b1d209d845a1def9f12a75b130f954e10ae",
+      "chapters/cielorrasos--madera.json": "07c994c54963c0fd0f7a48f78524de8570cf6299ab68776ecfef4a0b5fe2a327",
+      "chapters/cielorrasos--madera.md": "379222c05a4bf65eb6ecbd2003248d73f4e471b37c84ef3c6fec3ada5cea01ca",
+      "chapters/cielorrasos--raiz.json": "6aae351578ca8328b0ba5de05d8fc1e86beb608da1788476649faf9adf40bc52",
+      "chapters/cielorrasos--raiz.md": "0e70acedd205d46259b7ff18ca735061229323efa444cd57ceb15dec9623f794",
+      "chapters/cielorrasos--suspendidos.json": "717965e757a4b0063074b585a43ae76d2492ad6951d15a4594c05622a00f928f",
+      "chapters/cielorrasos--suspendidos.md": "5d874effa66b3b916f5094e200699575cf5702ace7b216f5c304ce41da0d7025",
+      "chapters/construccion-en-seco--raiz.json": "2af13a7fc940a2db353499c80e788a73caf8b62651d9805f42bfe0f52da781b1",
+      "chapters/construccion-en-seco--raiz.md": "fac3c4607e6e9d6a086ca3ac57f059d10ab29de1a28b129ff6d18f7b1f99ed63",
+      "chapters/contrapisos--raiz.json": "8ae96fbb14ba501fb53fa31a851773d9b9bf56fa363f5c3ee027bbc2190b7fff",
+      "chapters/contrapisos--raiz.md": "a1fa9224b86830c74bac5d8e6e136edd348b9ba36cab6305fd0bc43ae48ae3f5",
+      "chapters/contrapisos-y-carpetas--carpetas.json": "e40137797d88a558389964e5af0f8f5578ae1f0d98f718c74360a429afd4b149",
+      "chapters/contrapisos-y-carpetas--carpetas.md": "0c42a04a876facd08a2489ebf0d23542e23736900cb64a0c3684fa560a9104ab",
+      "chapters/contrapisos-y-carpetas--contrapisos.json": "f67156bb5e5cc5c726f606403b686bea985f91a8c7cc6bdd57f54a3f23c33831",
+      "chapters/contrapisos-y-carpetas--contrapisos.md": "744f57a42e76507625b23c3985500307aaedf1d68757063cb3359b198ce2776b",
+      "chapters/cubiertas--chapa.json": "27b5cbaaf049805b2fbf893b5f239e17710192d54a5539d389ffd70a28db5969",
+      "chapters/cubiertas--chapa.md": "f0781b05ee506c6ea80a21426c93eb2f97c794a571f3536178e5e4761d14418f",
+      "chapters/cubiertas--raiz.json": "1393ab153eedc481dd3bd788d8de96637589899a2801ce9c3c790e4a85cb4467",
+      "chapters/cubiertas--raiz.md": "5f346a3e6bb8a154e2009856abcd0e8cb3b3428178a17c41452870a7287d4970",
+      "chapters/cubiertas--tejas.json": "c1a701b98ce68361e2472387c66f6b02f279f55deeb6143aa08f950232ebd2d0",
+      "chapters/cubiertas--tejas.md": "066397e5d4d5caa5c45a88442cf05d5d98689159b3543b19d8a2de1876b1fcc0",
+      "chapters/cubiertas--zingueria.json": "a30deb21c0e341e376b6c0ef1a3cb30b306ecd42872562dd5075cfbac8e5f309",
+      "chapters/cubiertas--zingueria.md": "d7c08b86386fd2056ecdf6a136e60324ce019d604e124a36d7f4c2aec05de733",
+      "chapters/demoliciones-y-trabajos-previos--demoliciones.json": "c8706f52e7e9b0fa2ee3c35d282294e4ce2cf90b36414f8c22ab454f0526ec29",
+      "chapters/demoliciones-y-trabajos-previos--demoliciones.md": "b56df1f94bddef77a400f8ffd26487f0d783e0cb8b7e157ae97e399cd2f4040e",
+      "chapters/demoliciones-y-trabajos-previos--trabajos-previos.json": "917d5e715794b05d0e6c5f0833ec60ad969dc28fd4d5d33a43ea9100293bbc3b",
+      "chapters/demoliciones-y-trabajos-previos--trabajos-previos.md": "8bcbe4aa080c21dc7b1aa2744de4be995aa0b795c0f964204e63a5a0f39b763f",
+      "chapters/entrepisos--raiz.json": "5c7dc7ed52ac034fcee80ccde6f18c6ae86825329e7dd5230e0776908e9319a3",
+      "chapters/entrepisos--raiz.md": "ad0c68fe277200f9417da235db546e37ee7b0328cf1ce3fd590795dab31f3739",
+      "chapters/estructura-de-hormigon-armado--armaduras.json": "5bfa09b22cad84ee2089c0633ef91505cb4fccea0a61c50a7fb33bf521c80176",
+      "chapters/estructura-de-hormigon-armado--armaduras.md": "d78371f14e109c30b1362d5dc644c374c86325ee3d293de7fbfe59bb21343fdf",
+      "chapters/estructura-de-hormigon-armado--bases.json": "7c428b2a6db362df483dbf52f5625ad509de9f49189e3a7968526f9bd88475f8",
+      "chapters/estructura-de-hormigon-armado--bases.md": "ce7f0dff4f8f2073201d8ac24525418da361a0ebe7f0cdb8a5c7c6f4c7f35263",
+      "chapters/estructura-de-hormigon-armado--columnas.json": "a02f54f771fe009499e676a8b1b78ff30d9c4d3668e4d215e0e079ff210a405c",
+      "chapters/estructura-de-hormigon-armado--columnas.md": "f8c4b00adb1223b0a1973fabe4a428aff0146f4e6a7701854b13705d1af258e3",
+      "chapters/estructura-de-hormigon-armado--dinteles.json": "31edc2749d3913e1a29c33516891e15776e3207ae11913500ef7a87de7cc13cd",
+      "chapters/estructura-de-hormigon-armado--dinteles.md": "152ddc502994a1192726e0efc0d5bce76f636c86f41ca498a25ab6471382bef1",
+      "chapters/estructura-de-hormigon-armado--encadenados.json": "bdd19062f985af047b5ecbc4254419a5747e352d1b935bb0b503463c94001958",
+      "chapters/estructura-de-hormigon-armado--encadenados.md": "1a9cb6fc0d7637ea4b069a8e2bc7883f2450dd7119e7990f1ae6bf995c2e5fc7",
+      "chapters/estructura-de-hormigon-armado--encofrados.json": "f08a0d18926b08aef1f54d701d3d366eaf98cdc77dd210c11099f4086f6b8561",
+      "chapters/estructura-de-hormigon-armado--encofrados.md": "dd12c10192b656bfc3f962dc8adf3999636d403b9232ea59746992ca92756b0b",
+      "chapters/estructura-de-hormigon-armado--escaleras.json": "e7c1a14d425dd7d3e2a56a6e136fc20b63bb5a4bb0e3b956a746a63032ee9e82",
+      "chapters/estructura-de-hormigon-armado--escaleras.md": "eac02b4b875e0be8cabda212f59618235a8ca52f6d86d5fe18edec0023304fa7",
+      "chapters/estructura-de-hormigon-armado--estructura-resistente.json": "484a57117b58bf9575d4c65ff46e507b7fd0f0f8ea708d5d63861333bc43b769",
+      "chapters/estructura-de-hormigon-armado--estructura-resistente.md": "1e12b88a3bf4088bb1f8c3179bc351a73fe4769076c01920220f5633c2187df7",
+      "chapters/estructura-de-hormigon-armado--fundaciones.json": "8e8e21e81aa27e6dc516e59e9569b7ec87848b027a909543c570c90bbae9e105",
+      "chapters/estructura-de-hormigon-armado--fundaciones.md": "d85d7d6ca28972e1f629e60eebe55dacd86cf152dd8d262eae9f34110dc4de97",
+      "chapters/estructura-de-hormigon-armado--hormigones.json": "bbab2baca9d26549e517957e9dd0147aba0bba9709a60be6040e00bda608523e",
+      "chapters/estructura-de-hormigon-armado--hormigones.md": "03f8fbe2727cb35062f2c8bd64a65d026098949fccebcf30594e22e8b24d3980",
+      "chapters/estructura-de-hormigon-armado--losas-alivianadas.json": "446d6795346076bf5a6a111e4137dcf7717f51c3e94a137417d4be9eae1002da",
+      "chapters/estructura-de-hormigon-armado--losas-alivianadas.md": "da1751359abf608a7a246a7d2d443c13814ff2b7980ea6210657042204ab6d1d",
+      "chapters/estructura-de-hormigon-armado--losas.json": "63cb5d7d688e901a400fb757936329ff80ffeaa2106aad998f9b8fae76c7a4a3",
+      "chapters/estructura-de-hormigon-armado--losas.md": "3b0075a177d7c3468ff167d09b2d7ccdfd9673941ace0e03d84e94ab87ae30c1",
+      "chapters/estructura-de-hormigon-armado--plateas.json": "b902dd7d82efc7e5519d132842431609ad0ba5c6dc327dfea11f07f0eae4d7c7",
+      "chapters/estructura-de-hormigon-armado--plateas.md": "0704ee28730d97a1a5095f11be29a59e39c647fc7c98dc0fb6bed2108672b2b0",
+      "chapters/estructura-de-hormigon-armado--raiz.json": "bcecb42b10250e1783ba61b16daf6af332be339f7f22f2b6b6246ea86105b182",
+      "chapters/estructura-de-hormigon-armado--raiz.md": "39d6ad35b22b96051341223aee536bcf8315b1321aba317b8f060b0a4df60c78",
+      "chapters/estructura-de-hormigon-armado--tabiques.json": "8f3604f81a34c1af2ef670aa735197e44ed3e73e089ecdbdb78fd4f80dddf29a",
+      "chapters/estructura-de-hormigon-armado--tabiques.md": "95987f4943261b76b3f795227414fa7cfcd1c6379a3ddeee49d0a5e79306279e",
+      "chapters/estructura-de-hormigon-armado--vigas.json": "d5eeb824b9e87720e69640be2e4891bea90bd647510747655dadc655a615b000",
+      "chapters/estructura-de-hormigon-armado--vigas.md": "0d145c238e3d576a2ee5498c0061ec6e557cc232edaf538603f1b610ea58a1c6",
+      "chapters/estructura-de-madera--raiz.json": "36fe09086fea5ed0876f2b519950ed65b6dcb03e9cdbcfbde03d4843168ed7f8",
+      "chapters/estructura-de-madera--raiz.md": "2d80b50af5f0f25ac1403c998e728a699bc0aa2ddc90dbbe9c6e0e2b4f6b6fd8",
+      "chapters/estructura-de-madera--techos.json": "0f94c4ff89fda312eaa093babfc2dc4405a5c3b4a621b3ce096ab06ca30da6d3",
+      "chapters/estructura-de-madera--techos.md": "3c1855a69d9ec7c8d065d900179196e2f34da7f86eff8a583299ac3c1b8f33a5",
+      "chapters/estructura-metalica--correas.json": "314b84cfc43d4203dcc5bff97364241fc4a6c8aaac7774217798ee36f9077bf0",
+      "chapters/estructura-metalica--correas.md": "2e7b482780942f380d2b1c1d18899f964c813ce2801eda4384013d6dc8894c68",
+      "chapters/estructura-metalica--perfiles.json": "bea458a45e1cf93757f71273e2cc9b45c81cef88ebcd9fccf1152eeb8f36576d",
+      "chapters/estructura-metalica--perfiles.md": "471a50cc05cb034596bfe3607910bd7486e8fed43aeba5f798d6d1a3fd8d2ac1",
+      "chapters/estructura-metalica--raiz.json": "93df8579a1f83f321b427bf5a38c21b1efa2d3f8f92b66ffffe51514a405c123",
+      "chapters/estructura-metalica--raiz.md": "2ca937e433095f88dd485a5ecd0adc01a260aea350d662644c6cd4190fbf6362",
+      "chapters/fundaciones--raiz.json": "e467577f1289e1a9903b0751b6cf7802d915af59868bfcebe4e484692ce7b8ed",
+      "chapters/fundaciones--raiz.md": "dee50962963061ef3837d7e353db110125ed2f543b4ddebfaf25d5b676ff9f27",
+      "chapters/gestion-de-residuos--retiro-de-escombros.json": "2d6da4e24fccdd39dbab6cd25da110229b25219d92df2919ce4efa3c9a2d22db",
+      "chapters/gestion-de-residuos--retiro-de-escombros.md": "a7e7b404b57e401019e2fa34c7fb80f9daa51433dbe82f19752cb16cdb5438f7",
+      "chapters/instalacion-cloacal--raiz.json": "b454cc5b60522d14f5aca5b2ae99ad43dddad94c8976f4a02f292e24aff8cd06",
+      "chapters/instalacion-cloacal--raiz.md": "babd1c63c35abaf1a36d29e006ca0d0369523efbe610f56bbc33c38bfd77f708",
+      "chapters/instalacion-de-agua--raiz.json": "652c4921da3c65a41f9afe94cc36cb0ea6540509c23a09ca8bb6e15b6466eff6",
+      "chapters/instalacion-de-agua--raiz.md": "7884ac8e4c53cae434500006fa2bc6efe223d46be268c2e95ff6d62cc2ec28d0",
+      "chapters/instalacion-de-gas--canerias.json": "56f24cee1cc36074c4da2aaaab8c2b3faad5cc36d2b2645fea981333415b3671",
+      "chapters/instalacion-de-gas--canerias.md": "909672cdfa490e2381312ed888dba58cfe3093faa3ed6b3671b35d9fa4a01655",
+      "chapters/instalacion-de-gas--raiz.json": "061d397054669bea524508be53b5c5d90bfcde547a1f8530d87b98315479dd22",
+      "chapters/instalacion-de-gas--raiz.md": "d890932cf2341749721c7d4b27ca58d67f5cc86d214ad91abf06b97a594bf9cf",
+      "chapters/instalacion-electrica--bocas.json": "cbd2f17122ec2c4bf7984ff7dca6832e21365e92c644c189766441f2c07455d0",
+      "chapters/instalacion-electrica--bocas.md": "960f23fcb89a0266bd3e5aad6276e64d2c4a3cb58b773f31a6d08a300f95c41d",
+      "chapters/instalacion-electrica--tableros.json": "6053d460e0d71f15a1c9501c68f39c7953d90ed057925b8f9a97e7ab9ec53b7a",
+      "chapters/instalacion-electrica--tableros.md": "37be478dd91a94fcd3954ceb59707a8efb2a1880fdb1fa09fe7c27825b08da6b",
+      "chapters/instalacion-sanitaria--artefactos.json": "86b9276d4cafeed3180f9a957a806283c870c0918d5105e2ef8eaa512bb612ca",
+      "chapters/instalacion-sanitaria--artefactos.md": "411e7b71e008d1fe8715cc686899bacf3959421121f59369a29f21c5ed7446eb",
+      "chapters/instalacion-sanitaria--canerias.json": "8de39c443a1c1d80a0258692629d0428d8450d06e342d56113b956ca8bb4128f",
+      "chapters/instalacion-sanitaria--canerias.md": "88b922fe600cba0bb2ae43de3c30c523acbc572e027303c7c8745454602de19a",
+      "chapters/instalacion-sanitaria--desagues.json": "21b0548cc80eeb0075b8ba1b58cd938d81531eba51977281e8f2933ba6a5b9a2",
+      "chapters/instalacion-sanitaria--desagues.md": "58f45f56a45fffaf56c37037df3e9947ce58a65e2f93783d22302219fc7cb591",
+      "chapters/instalaciones-especiales--raiz.json": "a0bb9d6ad2ee122a17afe3c64ceafb60a9b689cc1752caa413eb428b564ef258",
+      "chapters/instalaciones-especiales--raiz.md": "8b3ffe9dc8cbb9e7b0087fb030dfef532702929675a290ce4664ee9a1636bce3",
+      "chapters/mamposteria--raiz.json": "4a60c757d78c42b33889ee414c30f67aa8364de4d50f48087630e1fefdbc846d",
+      "chapters/mamposteria--raiz.md": "6c6e610ff7e327796d629d33e0546bf6d491663618064eefb66d82bad8563644",
+      "chapters/marmoles-y-granitos--raiz.json": "03e15d71a04ba2c8588b50f6e00e888ad9d1e875ccfd12e544e975686bc025fb",
+      "chapters/marmoles-y-granitos--raiz.md": "e6e98a867fed3c0368d9c419fa98875ed78bbdcb301789f1c915ab1f173acc08",
+      "chapters/morteros--mortero-de-cemento.json": "ce44c660ea5a2c690743372dcb56ed9ccce0446493f3bcb6b9d85e6fdc1069e5",
+      "chapters/morteros--mortero-de-cemento.md": "8729bd8cf8e1dae4c52ddc9de0d7bf8e61b67eae62ab22dbf110bca122e8be2a",
+      "chapters/movimiento-de-suelos--achique.json": "269b04acf16492814a5a7ebfcfba7a49f67862213012499c8c97c35af80de62b",
+      "chapters/movimiento-de-suelos--achique.md": "48dff704c4ee54accb3bab75f9394c3c259b01bad804540f2006ec556d131d27",
+      "chapters/movimiento-de-suelos--excavaciones.json": "516005664df9f6098b2b35a8ea1d7a33130e70338ff536f3b9d42f5c88e8fef2",
+      "chapters/movimiento-de-suelos--excavaciones.md": "bdf5490ef1fd6548e1098950d5bac74eef91ce78cb556f09dba849f7b6cdb0ba",
+      "chapters/movimiento-de-suelos--raiz.json": "7ca4ffa0eb91c6c1f7defeb41350d488493d7c3c9063cbd7d3768b79908996d1",
+      "chapters/movimiento-de-suelos--raiz.md": "8cf098d0aefba4c751c05137233dbc716e8ef643bbc71fc3db4d8a75dec9b558",
+      "chapters/movimiento-de-suelos--rellenos-y-compactaciones.json": "6ab37cde7e7009ed720f1cd781d59ba9f6686d63e3ed3200931c7057e826d8b1",
+      "chapters/movimiento-de-suelos--rellenos-y-compactaciones.md": "263ae1e76291ae0f66ed4541fd56e72760fee9fb5de98fca70515d375c6bce72",
+      "chapters/obrador-y-cercos--raiz.json": "ed60fab634a736f7f95b02f5f0496e6e371e4bb16a7df798b042f2d28fbccfbd",
+      "chapters/obrador-y-cercos--raiz.md": "b965b3a19045344b66b79e3461bb37f96212cb9acc3671ad8aa09df4c9b62141",
+      "chapters/pavimentos--raiz.json": "5713ad84cd646fa4eb18a2c12f9febbd597e84c985049519298e1d6529d62484",
+      "chapters/pavimentos--raiz.md": "f4c0a82e94d26f131d2bdfdd848c59a01ed3a547ae898538fa166c805504ae56",
+      "chapters/pinturas--exteriores.json": "6bffbaf4ba2c96de6040c4cfbbcf0b694215eda6ac4e04d9be329efe4c87cd87",
+      "chapters/pinturas--exteriores.md": "699c8ab9137bb1c47906ef0047358844a5828432b7d262f3a17c32e979fbd3ee",
+      "chapters/pinturas--herreria.json": "7ec24eb0bcee318f3469c17e4d0b7f89ac7b0918fec6387374255050365a428d",
+      "chapters/pinturas--herreria.md": "3b380cfb7c29e91759e455c0f4457c239ffd3fb2aff536e8b1932c02c34c5643",
+      "chapters/pinturas--interiores.json": "e01eaff8e634d518a7a7e76f818dca5736f374a957544b621cf059673ffe35a6",
+      "chapters/pinturas--interiores.md": "40c406bc8ca9092a62f01c0edd4d51cd02fb0e50e78f2af6ba7eefe3e1130457",
+      "chapters/pisos--raiz.json": "9d3525fa240e3d88337ab163c29823d40b253a6f922d0c7d82ef81b54f616af6",
+      "chapters/pisos--raiz.md": "38fe4c033a30ec4dc06032eaa0fcc02b12b7d6b43f2c4d8dcb4b660483bee775",
+      "chapters/revestimientos--ceramicos.json": "922aaeffc63e85ff4029c3238294d1c96fb35dcf2c1803a761fe61913c71ab30",
+      "chapters/revestimientos--ceramicos.md": "06a81c7a93262711731a0f61d86153797b5f332562eaf10126fb22a071846f95",
+      "chapters/revestimientos--raiz.json": "cc047167972d86912bb7681b965e27dfde07936df8bd3be5b176e2626a3f5dfe",
+      "chapters/revestimientos--raiz.md": "2a5ddef155d9afff4554dc8a29cae545eee69f78241e8c4f9fd9cc5d6dc70a19",
+      "chapters/revoques--exteriores.json": "567b4f649ce0e38ab5fc3045f184a78e49a34375028982503376fecea2299c37",
+      "chapters/revoques--exteriores.md": "bc0ccb24539d6a3e68165fa888395d06e76b779347882031f8a357599262a78f",
+      "chapters/revoques--interiores.json": "b6150844183c37089a705ba2a6a2feadfbcd4739dad76e0a97f8c26e842c6bea",
+      "chapters/revoques--interiores.md": "dab4e73ae949364dc0ee1b20ffa0ef4e334ed4e911058a78d69c5a155d21d811",
+      "chapters/revoques--raiz.json": "1be475c1a565358c9d0004240fcfb74775dcc30523f71bca998c443af1a61ae4",
+      "chapters/revoques--raiz.md": "67e4fc946ae4f6e285446e115ca2d1a932ddffd7e27db2980489934ce47cf86c",
+      "chapters/revoques--yeseria.json": "a6a6a4b0040d362c3315f7b839663a1fafb58f63274b7a5deeeba4e21f6ca056",
+      "chapters/revoques--yeseria.md": "b3d488c84366ad1811a4ba0302fcb67e0334b6a1ab34fc6d38464c0ad25ec591",
+      "chapters/seguridad-e-higiene--proteccion.json": "9cf7a79e57163f11d4680452e5913c4296edb374c34122055445be08a76c417e",
+      "chapters/seguridad-e-higiene--proteccion.md": "e4f8ae98f4d857e66f369b64ef093e15a019e7005a43ecd3c7122dd2f1a7183a",
+      "chapters/solados--pisos.json": "23cb22e21bf7c9cf827b75c60737b6de13ee26ddff7e8aadb84b45180c627922",
+      "chapters/solados--pisos.md": "d187e60e60da16c926521085e4afffe84135366a75ccd036974db637a7e1d5bd",
+      "chapters/solados--zocalos.json": "16a4ef825da41ca98b97816089d7060349411d0f9c2bfc755602249cd2fac3fa",
+      "chapters/solados--zocalos.md": "eb03a7bace9151e846a242e7ba816b951f551d2cee44ba1d75ece759644cbc21",
+      "chapters/trabajos-preliminares--replanteo-y-obrador.json": "9b027142b7d8b59e8bff9a45630b1740919799136fda7110d9a2e3f46a203462",
+      "chapters/trabajos-preliminares--replanteo-y-obrador.md": "4d52c73f13931975c5e36953ccce55b9ea6764f782f3bc39f8b648da64d96d4e",
+      "chapters/varios-y-limpieza--limpieza.json": "0c4ac9cad0c7f38cdacd309cd75cbc6d803efaabdce4e424b1a5a3223d035346",
+      "chapters/varios-y-limpieza--limpieza.md": "5bf73b913898f4f6af288dc09aedb50456a335c9b148001e4d7a84b799987d7c",
+      "chapters/zocalos--raiz.json": "2e91501a13188b8d6ea3579fb4d6e383815e02987cbf2a6acf138d57602eef82",
+      "chapters/zocalos--raiz.md": "f525c6d88d37074c4f61f5eff23abe9d1b53491155c6d923b4b2c64e8eb7aaca",
+      "llms.txt": "61dcff5ff2c408b82d30fee3e53c2531699e85436c56b02cb3010d13c87ba1e3",
+      "outlines/acero--barras-nervuradas.json": "b851ef23f9f317bae74dfc5ecd1ed74f1fae8e74dbdb2b92d99eee91528993f7",
+      "outlines/aglomerantes--cal.json": "042b18e65a8a17c47681c1e1c5303ed231c63ff06caba4981d6cddfa39627d51",
+      "outlines/aglomerantes--cemento.json": "ab6404f9557945e1176e52b892d6ef74c12db9b7a2dd0ca0950422943a9bf2db",
+      "outlines/aislaciones--capas-aisladoras.json": "f7fa07c73bd7e68945c1808e936569e30e37dc255eb602b0d3258a847933e67f",
+      "outlines/aislaciones--cubiertas.json": "f605562f71ab36223b4fc98ead47fb63bbf972b36146ff4afee777e845b66d44",
+      "outlines/aislaciones--membranas.json": "b6f2803e8f538c96ca2c42dc4ec02b6bea2fff9c7115464e0ac8facd9ab0d6b6",
+      "outlines/aislaciones--raiz.json": "456241888525e4cb480993d080a2117bb85100c1e3c7f054c7567abe98576fcd",
+      "outlines/albanileria--bloques.json": "61a439c4c452fdc536c768b731bf6d1e0e24f6720c542922cc31413c0119c3a7",
+      "outlines/albanileria--construccion-en-seco.json": "decda1a990527f17a2c5ec997603cdacac9c1c6f68264de53ffa58fe78b35aba",
+      "outlines/albanileria--ladrillos.json": "18bb64f5b2f339d8096aca96f8cd00c6750358ccc3d944d722f22a6a38ae9775",
+      "outlines/albanileria--mamposteria.json": "7bb5e124d21623029634c2839ab365a55916be7ca5008b1c6aefc224035c8e35",
+      "outlines/aridos--arena.json": "d843e16e773a6f253e5bfff32929b69a1e42d32f03a7cc094a2b8b9b982a36d1",
+      "outlines/aridos--piedra.json": "ff23edefbd20173c1293f31d892f5b525892cfbc102e2675bef9d33aa1685823",
+      "outlines/aridos-y-aglomerantes--aglomerantes.json": "f10d1c96013ca224e63e535f906bc366acd89e29dd88d8c984621ca6103c30e6",
+      "outlines/aridos-y-aglomerantes--aridos.json": "457644881f25f8c47b5b4e419764849317baacfd125b3169d92a363fcfc457c2",
+      "outlines/carpetas--raiz.json": "15afcc76b485d05ef9995a8d70e2d614a786f8687472fda1b3a4450ddb454213",
+      "outlines/carpinterias--aluminio.json": "076d4de8edec2128bda7b3dd675db234a5e0454d77b8ec157c7bbcd0ec6c689f",
+      "outlines/carpinterias--chapa.json": "6f3b2dedb47c5c57a728ea1deec3dc2a26cfb6540e226b72a433002b5647130f",
+      "outlines/carpinterias--madera.json": "d19a86e78fe134808fdb26125b8edda74fb5a1db83ef5c26be2e36d6b8db521a",
+      "outlines/cielorrasos--aplicados.json": "243ee29898e800f15c0c4fc570c76700b274d0cc25786297915cb8c01036f859",
+      "outlines/cielorrasos--madera.json": "ef90bec094892f61e1f02e1532f021ddaac0464e0c8425a9d93843e9b324bf68",
+      "outlines/cielorrasos--raiz.json": "b23629eb29e1f124b267355edd61da31eb2ed40a36ff2f198f12b8ba8eeddb96",
+      "outlines/cielorrasos--suspendidos.json": "5f6e03cfb4e653dd2f99f5224795dfdb984f4408c1b2eac213267a75a5819c8a",
+      "outlines/construccion-en-seco--placas-y-perfiles.json": "f20008eb4d4911bb1b03c25aa86812c6d05e30b86af1532efaf286c3b68d1d48",
+      "outlines/construccion-en-seco--raiz.json": "be60051d3d2dc12209ee77676d4d0df37f964e322b8f69f87f0178611376c715",
+      "outlines/contrapisos--raiz.json": "a94868f2580d311973157022a5c17474498cfdeb11f67640cb63f99bc67f7424",
+      "outlines/contrapisos-y-carpetas--carpetas.json": "1f8f01c2c4458e7c0a11ac6d3b491b18f7265562dc3aa4c955bcf2fa361c8664",
+      "outlines/contrapisos-y-carpetas--contrapisos.json": "80d0338b16d522398cc052d1c6b7882418cd4b0271a7a414d6bdc6fdd6777808",
+      "outlines/cubiertas--chapa.json": "ead54ff0d18b638d3b7b7eca6531a667e9e148c359d5c66a3af137bc96ad4cfe",
+      "outlines/cubiertas--chapas-y-accesorios.json": "da61d198dce5b32daab14f5b207c12d2dbbc532f7815fcad0d8de1522358fa5f",
+      "outlines/cubiertas--raiz.json": "d011d3e16418cfb1ed7ce4665cbd308f6def87aa989ffd4a9df9316498634a76",
+      "outlines/cubiertas--tejas.json": "a8a9bb27407ec1ea8353dd54280f33a1f54afa0e9791e6247c58cf33e404b56e",
+      "outlines/cubiertas--zingueria.json": "6058983c691738703ded2bc5b5cefae6438e755b424aa8b269312e77207ccca6",
+      "outlines/demoliciones-y-trabajos-previos--demoliciones.json": "825426cd7464913bb81cb3d8822b1d41c3f14cd98567ff6545b0e6c6db018543",
+      "outlines/demoliciones-y-trabajos-previos--trabajos-previos.json": "64f76471276b8a9b2e11ef551eea5791886e43bd438b61aedadc0a497c45f35d",
+      "outlines/entrepisos--raiz.json": "aad9245c34411489bc07bbd391ce2aa1326ed75a44f0a1e7c6d053a50fb14664",
+      "outlines/estructura-de-hormigon-armado--armaduras.json": "811862d00eefded3dd38993fb0595474452e52a5cf8f5bad600bc04bd66336e7",
+      "outlines/estructura-de-hormigon-armado--bases.json": "81023166107270ac856c5eae0dda7f11f58a3c137e0e526ad00d3027fb8fe20d",
+      "outlines/estructura-de-hormigon-armado--columnas.json": "60072d4f650993e8de2a41442e8cbafaa32931b4ee98ac220082cfcd7e62b9dc",
+      "outlines/estructura-de-hormigon-armado--dinteles.json": "cc6142b931710ebed24a226bd427b93997bf87d7325456ec4b333c46b8361b9c",
+      "outlines/estructura-de-hormigon-armado--encadenados.json": "bd9b7bf9df16f6c5960de81b64dd137b3502e8e6943ea1cca4da9c24225e3be4",
+      "outlines/estructura-de-hormigon-armado--encofrados.json": "7cf6a9bea70546d986d518691cc9b794898511b6e8f59b271b1fedbae4979a1a",
+      "outlines/estructura-de-hormigon-armado--escaleras.json": "d8730babcaa0f99f5ac90126f84034b3b36dfbbf25725929f35619c4a1444240",
+      "outlines/estructura-de-hormigon-armado--estructura-resistente.json": "8b9009aa1a2cf070ef80714043ffc4ae856be6d67e71ac863e55613ff2854d71",
+      "outlines/estructura-de-hormigon-armado--fundaciones.json": "19677dc766dc7d1e56c4441090f258a77636daecdb54cbcc86d91fd2e35ce0c1",
+      "outlines/estructura-de-hormigon-armado--hormigon-elaborado.json": "47f759275b2a9dfce133f2fe891e1371d01a0ce0baeaa82f4e8f8892ac5b549f",
+      "outlines/estructura-de-hormigon-armado--hormigones.json": "ce07934285804680c8e0647ea684fe08fe55dce1f3c6ba03293e379879580e19",
+      "outlines/estructura-de-hormigon-armado--losas-alivianadas.json": "846362835b9907149b6e5c355f9a9e7f1b6fc726a5aaad6f2d0c3c951e62c95c",
+      "outlines/estructura-de-hormigon-armado--losas.json": "cc59d61351d4c8565eb8587b0c299640cf18e692ea3d786f8dcf7d13bc2258de",
+      "outlines/estructura-de-hormigon-armado--plateas.json": "676baa34ff6fd7d988673630fc54e00c504f97601123c0412bf29abb7f7cd621",
+      "outlines/estructura-de-hormigon-armado--raiz.json": "1b5ad8b814415f961c91c995416babb849cb2fbfcc7837eb0218e71605414614",
+      "outlines/estructura-de-hormigon-armado--tabiques.json": "86cd2c126c21071f54e56d8d98f17677e9a6d8c1cc333e93e9538f2278cf583d",
+      "outlines/estructura-de-hormigon-armado--vigas.json": "62c66cf503ec6195490666b0077bd0f2e75464852022174e8ae941bfab2748d5",
+      "outlines/estructura-de-madera--raiz.json": "1681130bafd0a8e3947efa29720a253e8db508130dbd7c2fd9e95513283fc6e3",
+      "outlines/estructura-de-madera--techos.json": "a8bd6ffc97c48007672fa08467f6c1a7a54d304cd406f1f308ac083184af3f1c",
+      "outlines/estructura-metalica--correas.json": "45dcd0e6d64866524c379dd63a18c8188da2a1183f547982e70ba1503e912577",
+      "outlines/estructura-metalica--perfiles.json": "232f577fe532382f3d94565b071e24afa320138dbc4dac7670054a8bb9eea1dc",
+      "outlines/estructura-metalica--raiz.json": "c83c238ef665b6d5fc3e1ec45fa5c2dd558916c6a5aac7ebdab1464a411114c2",
+      "outlines/fundaciones--raiz.json": "29bec7bef2fad75408adcbc08c53b799d0f47c0a1fe249ef3cdc9ac0666ec4c6",
+      "outlines/gestion-de-residuos--retiro-de-escombros.json": "09160324f656d2f9829408d3e56d2a4af81bd2e264aec1d1e831ff81518dec16",
+      "outlines/herramientas--demolicion.json": "54b0234203422b986a7a224b05ab0cf88f1fd2bf7a56c097a0ba2822090610df",
+      "outlines/instalacion-cloacal--raiz.json": "4b0d9f91cc0cd851b27f58427634bf57f6f9133715f7c74fa6afd4de22e5da4e",
+      "outlines/instalacion-de-agua--raiz.json": "e890c172dc32cde344a04f170b6961b07ea6c2f3a8b8d8e569807e8f96ae2c50",
+      "outlines/instalacion-de-gas--canerias-y-accesorios.json": "8831468a1cc6b342b900b70ba56bdb3b36742e83959f4cdd031264fa5562b10d",
+      "outlines/instalacion-de-gas--canerias.json": "08988439d7bd0c654ec5d34e39459346326b4d543c124303ce9f3102cbfed3c0",
+      "outlines/instalacion-de-gas--raiz.json": "94771771725544c2bc1cbe28c597eea741e7e1380210b2a44da273830c9b8b70",
+      "outlines/instalacion-electrica--bocas.json": "b75654d7186e24c1309414db31d7bd9a4864633eb67fb91f201bcade3d8536a8",
+      "outlines/instalacion-electrica--canerias-y-conductores.json": "d1a6ea60d2cb595ce7707b21fdd22f36670f3ff8175c972c250a33847b9035a8",
+      "outlines/instalacion-electrica--mecanismos-y-tableros.json": "47590f0b2276e9c0cd6ccfff6dd3a729b7f29fa06c4f2dedcacb179c6e35eeb0",
+      "outlines/instalacion-electrica--tableros.json": "3253fb4b7cb8fb3efeae5f6ca6d3b6cc1c805c6cc2498ec0c0dd83acd40deaa0",
+      "outlines/instalacion-sanitaria--artefactos-y-griferia.json": "2b8c9dbc99f312753d94c693b4bd159ea75b2c5244c78d817670296490e7abb5",
+      "outlines/instalacion-sanitaria--artefactos.json": "153f53b9794571bd979c8d3cbed98d973fc4b8e8acb6dfa42e09fa2c38e37da8",
+      "outlines/instalacion-sanitaria--canerias-y-accesorios.json": "ef9b7d88eb1fefe9f5bed0f5e4739b3f462dc5c09239da1740fc8e1657184d2c",
+      "outlines/instalacion-sanitaria--canerias.json": "d20c2512c7ec144a1d2ffca122975f2707712604bf26f44929c59831b469e0d0",
+      "outlines/instalacion-sanitaria--desagues.json": "69b92c190c2c09cea738f09266407a54941c87adde26519233ddc126c830364b",
+      "outlines/instalaciones-especiales--raiz.json": "21bf4757eaeb3cdc8336449a91eda9c189f19ed5fdb0455ae94f613fd27d352c",
+      "outlines/mamposteria--raiz.json": "74161d65f58ab83823f71638a404752d9aaaaaeb4efa327d17953723c314339c",
+      "outlines/mampuestos--ladrillo-hueco.json": "e48f2122d612c636759172d0ecf6f33e9ce5d370c84695a9b7d1c56c217793df",
+      "outlines/mano-de-obra--cct-76-75.json": "8aa37504859c2cdfad3877ba4af7e12d73c39b15d1612a354d8761a98d2caa6b",
+      "outlines/maquinaria-y-equipos--alquiler.json": "613281aff6bcd28211f6555875b97c1d0d83428e5d695b57bbd0a1946447a738",
+      "outlines/marmoles-y-granitos--raiz.json": "68fc2ac63fc8e228cb5a39d58e6a32bd5f34c8f49fd9db3d249f27514667231a",
+      "outlines/morteros--mortero-de-cemento.json": "d520394f3cf7e850d387fe80bb4ed86df946136d5b191a9b1c8a03da9077380b",
+      "outlines/movimiento-de-suelos--achique.json": "7d1555976c64ee12c60fb45715bfb28593c5d8366c52d6c61655ddf1533a71ea",
+      "outlines/movimiento-de-suelos--excavaciones.json": "76e5fbb3e89acb9385ecc361d4557e6112dae5332ff13c1745ab2a52b1f1fbb2",
+      "outlines/movimiento-de-suelos--raiz.json": "91920dcb305837e6b3a61ccc223dec3aad623e1f4a21022161b76ba6f9e2d0ee",
+      "outlines/movimiento-de-suelos--rellenos-y-compactaciones.json": "84d15197d215b98cdc5de96080190dffceaffd855b9b0a8edbc40e6d05d9858e",
+      "outlines/obrador-y-cercos--raiz.json": "3800fb5aa71ecaaf331c8866eea7db82980baadbca1bb0ba3f46ced40c118802",
+      "outlines/pavimentos--raiz.json": "71b9ee8115f09ff8f7433bf995b3b8c9bee44e007cd8edca41e320b24057ff3f",
+      "outlines/pinturas--exteriores.json": "65c268af499a6de47f32daceca1f002c9e8596f6ff53762dc0fec01173ab870d",
+      "outlines/pinturas--herreria.json": "128ab556e8327722c734d4d57658f172d5618af0e58c2a10eb9b666d682a741a",
+      "outlines/pinturas--interiores.json": "6fd493e9edbf01221c3ed366564223ca48277906534377ad917548c3d4cc8163",
+      "outlines/pinturas--materiales.json": "0c8aa36a93b28744e98b1bdca8a63842e41498218241c1914d9e5cbd60c0e300",
+      "outlines/pisos--raiz.json": "7bb16d45b70ee8065af8033fa594039e86e1315fc73bf886056b755692cfe939",
+      "outlines/precios-basicos--sin-clasificar.json": "e93d1c06e6ed3344adb74ee2922610a0f15dd79265d4709616067a06ffd83228",
+      "outlines/revestimientos--ceramicos.json": "f64b8e636350e7a0ee2114d27d7617d14f1f4e2b60a44a0eddab48601a2d28dd",
+      "outlines/revestimientos--raiz.json": "25dd463126e6106893b63340ff09c8c6216aafd3e39f3f6511242d79a6a89f2a",
+      "outlines/revoques--exteriores.json": "264829ced3102e9ec958744a5ec43a4a885f3223434991c97be47aa06366ae01",
+      "outlines/revoques--interiores.json": "7b01f78b1739cdd0d38ba284cdc8867876e201adf819315bd0241ce6b306e287",
+      "outlines/revoques--raiz.json": "fbd7a27e001e2fda3aa0cdce881d5cae4c17cf02dbef071a40584a1a3f057b49",
+      "outlines/revoques--yeseria.json": "4a4a09f26ec48f3aa347fa7f159908005b6d90be2f29dccb8da6d5beafd5532f",
+      "outlines/seguridad-e-higiene--proteccion.json": "d3aba9127f9e319bb636e23a21031274b11f1911ff2bb70c9b30420a4e601034",
+      "outlines/solados--pisos.json": "061f390daa447eb28285acb28ff049472126b230caeccb7439fb57565df3a282",
+      "outlines/solados--zocalos.json": "98a70bdd69bf1bd60bce1756406c8d2fc920654f89f07afbd265408f47fd7bf6",
+      "outlines/trabajos-preliminares--replanteo-y-obrador.json": "2a2aec5d4b5c5e071565833132eeb195976722a48086fbb69a1720448b080d2a",
+      "outlines/varios-y-limpieza--limpieza.json": "674ccefc12a983dc3ef7b6e0e56caad3bf2b12d20ee898a16ec46595dc9ee729",
+      "outlines/zocalos--raiz.json": "c25823a9ea4279df62528d7b8c7c89dae7932c2bae6a58a16e81253384bc2f4e",
+      "search-index.json": "f1b7c54904b428aeadbbc8ceb3d44cbd46f8496b8b808948c1df6a8a2ddaaf15",
+      "tree.json": "6cb752bd17b416b621b5dc6d51ebeebcc7a87d105833e800f7dcc0e085bea59b"
     },
     "manifest": "../SHA256SUMS"
   },
@@ -1051,10 +1051,10 @@
     "license": "LICENSE",
     "stability": "STABILITY.md"
   },
-  "generatedAt": "2026-10-07T11:12:20.457Z",
+  "generatedAt": "2026-10-07T12:13:55.677Z",
   "searchIndex": {
     "file": "search-index.json",
-    "sha256": "628cfa48eaef1f0deeab2796970f2dcf4ec80258238cb80354b7096f09073025"
+    "sha256": "f1b7c54904b428aeadbbc8ceb3d44cbd46f8496b8b808948c1df6a8a2ddaaf15"
   },
   "stats": {
     "byKind": {
@@ -1077,5 +1077,5 @@
   },
   "taxonomies": [],
   "tree": "tree.json",
-  "version": "0.6.0"
+  "version": "0.6.1"
 }

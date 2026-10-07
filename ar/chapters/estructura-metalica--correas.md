@@ -1,6 +1,6 @@
 # Estructura metálica > Correas
 
-Banco de ítems de construcción CERP v0.6.0 — 1 ítems. Datos estructurados en [`estructura-metalica--correas.json`](./estructura-metalica--correas.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.6.1 — 1 ítems. Datos estructurados en [`estructura-metalica--correas.json`](./estructura-metalica--correas.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
 > Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo
 > Información obtenida del Portal de la Junta de Andalucía

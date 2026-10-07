@@ -137,9 +137,9 @@
       "tags": [
         "pavimentos"
       ],
-      "text": "Pavimento de hormigón elaborado-armado, espesor 15 cm-sobre sub base existente. ejecutado con moldes rígidos y regla…. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código PAV-001, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "text": "Pavimento de hormigón elaborado-armado, espesor 15 cm-sobre sub base existente. ejecutado con moldes rígidos y regla…. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-06T23:05:18.612Z",
+      "updatedAt": "2026-10-07T11:53:31.086Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -147,5 +147,5 @@
       }
     }
   ],
-  "version": "0.6.0"
+  "version": "0.6.1"
 }

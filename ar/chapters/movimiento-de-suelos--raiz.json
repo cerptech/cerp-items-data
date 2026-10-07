@@ -125,9 +125,9 @@
       "tags": [
         "movimiento de suelos"
       ],
-      "text": "Relleno con suelo seleccionado-e=40cm-, nivelación y compactación en capas de 20 cm. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código MOVS-002, que remite al Manual del computista de la construcción). Medida por m3. Precio computado desde la descomposición.",
+      "text": "Relleno con suelo seleccionado-e=40cm-, nivelación y compactación en capas de 20 cm. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-06T23:05:18.636Z",
+      "updatedAt": "2026-10-07T11:53:31.091Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -135,5 +135,5 @@
       }
     }
   ],
-  "version": "0.6.0"
+  "version": "0.6.1"
 }

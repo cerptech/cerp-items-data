@@ -125,9 +125,9 @@
       "tags": [
         "obrador y cercos"
       ],
-      "text": "Cerco de obra-madera, altura 1,80 m-postes cada 2,40 m. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código AND-008, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "text": "Cerco de obra-madera, altura 1,80 m-postes cada 2,40 m. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-06T23:05:18.471Z",
+      "updatedAt": "2026-10-07T11:53:31.054Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -254,9 +254,9 @@
       "tags": [
         "obrador y cercos"
       ],
-      "text": "Cerco de obra-metalico, altura 2,00 m-postes cada 2,50 m. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código AND-007, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "text": "Cerco de obra-metalico, altura 2,00 m-postes cada 2,50 m. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-06T23:05:18.472Z",
+      "updatedAt": "2026-10-07T11:53:31.055Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -413,9 +413,9 @@
       "tags": [
         "obrador y cercos"
       ],
-      "text": "Cerco olimpico, altura 2,40m-con alambre romboidal. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código AND-009, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "text": "Cerco olimpico, altura 2,40m-con alambre romboidal. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-06T23:05:18.472Z",
+      "updatedAt": "2026-10-07T11:53:31.055Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -596,9 +596,9 @@
       "tags": [
         "obrador y cercos"
       ],
-      "text": "Cerco olimpico con postes de hormigón premoldeados, altura 2,40m-con postes con codo. sin viga encad. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código AND-010, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "text": "Cerco olimpico con postes de hormigón premoldeados, altura 2,40m-con postes con codo. sin viga encad. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-06T23:05:18.473Z",
+      "updatedAt": "2026-10-07T11:53:31.055Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -606,5 +606,5 @@
       }
     }
   ],
-  "version": "0.6.0"
+  "version": "0.6.1"
 }

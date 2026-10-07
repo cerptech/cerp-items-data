@@ -1,6 +1,6 @@
 # Precios Unitarios > CONTROL DE CALIDAD, PRUEBAS Y ENSAYOS
 
-Banco de ítems de construcción CERP v0.6.0 — 335 ítems. Datos estructurados en [`precios-unitarios--control-de-calidad-pruebas-y-ensayos.json`](./precios-unitarios--control-de-calidad-pruebas-y-ensayos.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.6.1 — 335 ítems. Datos estructurados en [`precios-unitarios--control-de-calidad-pruebas-y-ensayos.json`](./precios-unitarios--control-de-calidad-pruebas-y-ensayos.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
 > Información obtenida del Portal de la Junta de Andalucía
 

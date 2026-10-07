@@ -16,6 +16,15 @@ Formato: [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/).
 
 ## [Unreleased]
 
+## [0.6.1] - 2026-10-07
+
+### Corregido
+
+- **Argentina**: el texto de los 382 ítems del lote 2026-10 y las notas de
+  procedencia de 52 materiales ya no nombran el origen de los rendimientos ni
+  la referencia de contraste de precio. Los precios, las descomposiciones y
+  los ids no cambian.
+
 ## [0.6.0] - 2026-10-07
 
 Lote argentino de octubre de 2026 y bundle público con checksums y licencia.
@@ -217,7 +226,8 @@ Apertura del modelo canónico a multi-país (ES + AR). Publicado en
   `basicos.json`, `catalog.json` y un JSON + Markdown por capítulo.
 
 [Unreleased]: https://github.com/cerptech/cerp-items-data/compare/main...HEAD
-[0.6.0]: https://github.com/cerptech/cerp-items-data/compare/5247c12...main
+[0.6.1]: https://github.com/cerptech/cerp-items-data/compare/19c056c...main
+[0.6.0]: https://github.com/cerptech/cerp-items-data/compare/5247c12...19c056c
 [0.5.0]: https://github.com/cerptech/cerp-items-data/commit/5247c12
 [0.4.0]: https://github.com/cerptech/cerp-items-data/commit/77272a3
 [0.3.0]: https://github.com/cerptech/cerp-items-data/commit/79d718b

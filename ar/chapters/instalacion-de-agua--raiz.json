@@ -137,9 +137,9 @@
       "tags": [
         "instalación de agua"
       ],
-      "text": "Tanque de reserva domiciliario-cap. 1100 lts, tanque tricapa 1,44 m altura, 1,10 m diametro. se considera que el…. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código IAGU-002, que remite al Manual del computista de la construcción). Medida por u. Precio computado desde la descomposición.",
+      "text": "Tanque de reserva domiciliario-cap. 1100 lts, tanque tricapa 1,44 m altura, 1,10 m diametro. se considera que el…. Análisis de precio unitario. Medida por u. Precio computado desde la descomposición.",
       "unit": "u",
-      "updatedAt": "2026-10-06T23:05:18.667Z",
+      "updatedAt": "2026-10-07T11:53:31.098Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -147,5 +147,5 @@
       }
     }
   ],
-  "version": "0.6.0"
+  "version": "0.6.1"
 }

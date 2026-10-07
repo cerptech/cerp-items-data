@@ -119,9 +119,9 @@
       "tags": [
         "cubiertas"
       ],
-      "text": "Cabriada de madera, estructura a la vista-cepillada. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CUB-004, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "text": "Cabriada de madera, estructura a la vista-cepillada. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-06T23:05:18.445Z",
+      "updatedAt": "2026-10-07T11:53:31.048Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -236,9 +236,9 @@
       "tags": [
         "cubiertas"
       ],
-      "text": "Cenefa de madera. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CUB-005, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "text": "Cenefa de madera. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-06T23:05:18.470Z",
+      "updatedAt": "2026-10-07T11:53:31.054Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -353,9 +353,9 @@
       "tags": [
         "cubiertas"
       ],
-      "text": "Colocación de vigas o correas bajo cabios, madera cepillada. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CUB-003, que remite al Manual del computista de la construcción). Medida por m. Precio computado desde la descomposición.",
+      "text": "Colocación de vigas o correas bajo cabios, madera cepillada. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-06T23:05:18.489Z",
+      "updatedAt": "2026-10-07T11:53:31.060Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -524,9 +524,9 @@
       "tags": [
         "cubiertas"
       ],
-      "text": "Cubierta de chapas galvanizadas onduladas, sobre estructura de madera cepillada. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CUB-006, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "text": "Cubierta de chapas galvanizadas onduladas, sobre estructura de madera cepillada. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-06T23:05:18.512Z",
+      "updatedAt": "2026-10-07T11:53:31.067Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -695,9 +695,9 @@
       "tags": [
         "cubiertas"
       ],
-      "text": "Cubierta de chapas galvanizadas trapezoidales, sobre estructura de madera cepillada. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CUB-007, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "text": "Cubierta de chapas galvanizadas trapezoidales, sobre estructura de madera cepillada. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-06T23:05:18.512Z",
+      "updatedAt": "2026-10-07T11:53:31.067Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -860,9 +860,9 @@
       "tags": [
         "cubiertas"
       ],
-      "text": "Cubierta de tejas coloniales-españolas, estructura de madera sin cepillar. Análisis de precio unitario con rendimientos del template de ítems SAXUM (código CUB-001, que remite al Manual del computista de la construcción). Medida por m2. Precio computado desde la descomposición.",
+      "text": "Cubierta de tejas coloniales-españolas, estructura de madera sin cepillar. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-06T23:05:18.514Z",
+      "updatedAt": "2026-10-07T11:53:31.068Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -870,5 +870,5 @@
       }
     }
   ],
-  "version": "0.6.0"
+  "version": "0.6.1"
 }
