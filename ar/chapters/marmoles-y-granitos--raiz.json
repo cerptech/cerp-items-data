@@ -56,8 +56,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -65,12 +65,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 31169.49
+          "value": 33180
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -78,12 +78,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32768.35
+          "value": 35003.28
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -91,12 +91,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 41652.16
+          "value": 45136.85
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -104,7 +104,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 45459.26
+          "value": 49481.14
         }
       ],
       "sources": [
@@ -121,7 +121,7 @@
       ],
       "text": "Zocalos en piso de marmol o granito. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-07T11:53:31.102Z",
+      "updatedAt": "2026-11-06T14:19:15.933Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -129,5 +129,5 @@
       }
     }
   ],
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

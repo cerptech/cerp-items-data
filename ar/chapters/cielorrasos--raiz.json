@@ -62,8 +62,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -71,12 +71,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 38665.81
+          "value": 40267.43
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -84,12 +84,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 39942.85
+          "value": 41723.92
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -97,12 +97,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 46288.31
+          "value": 48963.17
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -110,7 +110,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 50055.44
+          "value": 53261.57
         }
       ],
       "sources": [
@@ -127,7 +127,7 @@
       ],
       "text": "Cielorraso de madera fenolico multilaminado. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.056Z",
+      "updatedAt": "2026-11-06T14:19:14.994Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -191,8 +191,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -200,12 +200,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 20387.11
+          "value": 21866.89
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -213,12 +213,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 21560.83
+          "value": 23205.53
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -226,12 +226,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27037.05
+          "value": 29453.18
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -239,7 +239,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 30910.3
+          "value": 33872.64
         }
       ],
       "sources": [
@@ -256,7 +256,7 @@
       ],
       "text": "Cielorraso de yeso aplicado con adhesivo sobre losa, placas pegadas con adhesivo sobre losa. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.057Z",
+      "updatedAt": "2026-11-06T14:19:15.016Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -320,8 +320,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -329,12 +329,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22860.21
+          "value": 23750
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -342,12 +342,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23569.68
+          "value": 24559.16
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -355,12 +355,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27094.93
+          "value": 28580.97
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -368,7 +368,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29187.78
+          "value": 30968.97
         }
       ],
       "sources": [
@@ -385,7 +385,7 @@
       ],
       "text": "Cielorraso machimbre suspendido bajo losa. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.057Z",
+      "updatedAt": "2026-11-06T14:19:15.021Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -461,8 +461,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -470,12 +470,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29456.15
+          "value": 31057.77
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -483,12 +483,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 30733.19
+          "value": 32514.27
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -496,12 +496,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 37078.65
+          "value": 39753.52
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -509,7 +509,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 40845.78
+          "value": 44051.92
         }
       ],
       "sources": [
@@ -526,7 +526,7 @@
       ],
       "text": "Cielorraso suspendido desmontable tipo durlock, modulacion 0,61 x 0,61 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.058Z",
+      "updatedAt": "2026-11-06T14:19:15.035Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -590,8 +590,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -599,12 +599,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 19649.86
+          "value": 21457.49
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -612,12 +612,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 21088.08
+          "value": 23097.81
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -625,12 +625,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28056.49
+          "value": 31047.8
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -638,7 +638,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32504.54
+          "value": 36123.13
         }
       ],
       "sources": [
@@ -655,7 +655,7 @@
       ],
       "text": "Engrosado de yeso a la cal. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.071Z",
+      "updatedAt": "2026-11-06T14:19:15.311Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -707,8 +707,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -716,12 +716,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24494.05
+          "value": 26760.6
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -729,12 +729,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26296.65
+          "value": 28816.5
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -742,12 +742,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 34986.64
+          "value": 38730.59
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -755,7 +755,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 40612.28
+          "value": 45149.58
         }
       ],
       "sources": [
@@ -772,7 +772,7 @@
       ],
       "text": "Engrosado de yeso reforzado con cemento, usado bajo revestimientos que exigen sup.lisa. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.072Z",
+      "updatedAt": "2026-11-06T14:19:15.316Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -830,8 +830,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -839,12 +839,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 42629.08
+          "value": 45781.51
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -852,12 +852,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 45142.01
+          "value": 48647.21
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -865,12 +865,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 59290
+          "value": 64785.68
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -878,7 +878,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 65036.1
+          "value": 71342.57
         }
       ],
       "sources": [
@@ -895,7 +895,7 @@
       ],
       "text": "Estructura de hierro redondo para cielorrasos suspendidos, colgados de losa. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.076Z",
+      "updatedAt": "2026-11-06T14:19:15.358Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -959,8 +959,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -968,12 +968,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33302.4
+          "value": 36340.19
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -981,12 +981,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 35730.11
+          "value": 39108.74
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -994,12 +994,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 49589.89
+          "value": 54918.63
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1007,7 +1007,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 54895.55
+          "value": 60972.95
         }
       ],
       "sources": [
@@ -1024,7 +1024,7 @@
       ],
       "text": "Estructura de madera para cielorrasos suspendidos, para luces entre 3 y 5 mts. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.076Z",
+      "updatedAt": "2026-11-06T14:19:15.360Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1088,8 +1088,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1097,12 +1097,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 60975.95
+          "value": 64366.46
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1110,12 +1110,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 63680.76
+          "value": 67451
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1123,12 +1123,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 78974.36
+          "value": 84896.3
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1136,7 +1136,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 85075.56
+          "value": 91858.42
         }
       ],
       "sources": [
@@ -1153,7 +1153,7 @@
       ],
       "text": "Estructura independiente de hierro para cielorrasos susp, de perfiles metálicos y hierros redondos. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.077Z",
+      "updatedAt": "2026-11-06T14:19:15.377Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1199,8 +1199,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1208,12 +1208,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24350.35
+          "value": 26837.02
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1221,12 +1221,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26332.99
+          "value": 29097.99
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1234,12 +1234,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 37508
+          "value": 41845.22
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1247,7 +1247,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 42025.32
+          "value": 46999.96
         }
       ],
       "sources": [
@@ -1264,7 +1264,7 @@
       ],
       "text": "Fino de base cementicia-con mezcla predosificada. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.080Z",
+      "updatedAt": "2026-11-06T14:19:15.485Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1310,8 +1310,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1319,12 +1319,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 12750.75
+          "value": 14249.36
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1332,12 +1332,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 13947.2
+          "value": 15613.94
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1345,12 +1345,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 19981.18
+          "value": 22497.82
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1358,7 +1358,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23407.85
+          "value": 26407.76
         }
       ],
       "sources": [
@@ -1375,7 +1375,7 @@
       ],
       "text": "Fino de yeso sobre grueso a la cal, tambien para aplicar sobre cualquier otra sup.lisa. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.080Z",
+      "updatedAt": "2026-11-06T14:19:15.489Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1421,8 +1421,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1430,12 +1430,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 13111.34
+          "value": 14716.21
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1443,12 +1443,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 14391.53
+          "value": 16176.12
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1456,12 +1456,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 21626.46
+          "value": 24428.96
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1469,7 +1469,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24518.68
+          "value": 27729.29
         }
       ],
       "sources": [
@@ -1486,7 +1486,7 @@
       ],
       "text": "Fino predosificado bajo losa, terminación al fieltro. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.080Z",
+      "updatedAt": "2026-11-06T14:19:15.491Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1532,8 +1532,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1541,12 +1541,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 12233.92
+          "value": 13715.34
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1554,12 +1554,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 13417.13
+          "value": 15064.66
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1567,12 +1567,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 20150.23
+          "value": 22745.11
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1580,7 +1580,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22764
+          "value": 25727.7
         }
       ],
       "sources": [
@@ -1597,7 +1597,7 @@
       ],
       "text": "Fino predosificado bajo losa, terminación fratasada. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.080Z",
+      "updatedAt": "2026-11-06T14:19:15.493Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1655,8 +1655,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1664,12 +1664,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 18076.16
+          "value": 20183.65
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1677,12 +1677,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 19765.74
+          "value": 22110.48
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1690,12 +1690,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29577.2
+          "value": 33302.58
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1703,7 +1703,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33057.41
+          "value": 37273.89
         }
       ],
       "sources": [
@@ -1720,7 +1720,7 @@
       ],
       "text": "Grueso bajo fino a la cal, mezcla: 1/8 : 1 : 3. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.080Z",
+      "updatedAt": "2026-11-06T14:19:15.496Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1778,8 +1778,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1787,12 +1787,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 19977.35
+          "value": 22247.97
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1800,12 +1800,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 21797.51
+          "value": 24323.72
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1813,12 +1813,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32360.99
+          "value": 36373.66
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1826,7 +1826,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36118.21
+          "value": 40661.06
         }
       ],
       "sources": [
@@ -1843,7 +1843,7 @@
       ],
       "text": "Grueso bajo fino cementicio, mezcla: 1 : 1 : 5. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.080Z",
+      "updatedAt": "2026-11-06T14:19:15.498Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1901,8 +1901,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1910,12 +1910,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 18228.07
+          "value": 20335.56
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1923,12 +1923,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 19917.65
+          "value": 22262.39
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1936,12 +1936,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29729.11
+          "value": 33454.49
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1949,7 +1949,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33209.32
+          "value": 37425.8
         }
       ],
       "sources": [
@@ -1966,7 +1966,7 @@
       ],
       "text": "Grueso bajo yeso, mezcla: 1/4 : 1 : 3. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.080Z",
+      "updatedAt": "2026-11-06T14:19:15.504Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2018,8 +2018,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2027,12 +2027,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 5308.92
+          "value": 5948.22
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2040,12 +2040,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 5823.27
+          "value": 6534.81
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2053,12 +2053,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 8866.5
+          "value": 10006.32
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2066,7 +2066,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 9853.72
+          "value": 11132.85
         }
       ],
       "sources": [
@@ -2083,7 +2083,7 @@
       ],
       "text": "Salpicado de concreto sobre losa para recibir grueso, mezcla: 1 : 3. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.097Z",
+      "updatedAt": "2026-11-06T14:19:15.834Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2135,8 +2135,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2144,12 +2144,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 10043.15
+          "value": 11171.84
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2157,12 +2157,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 10949.24
+          "value": 12205.18
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2170,12 +2170,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16248.55
+          "value": 18250.22
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2183,7 +2183,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 18066.77
+          "value": 20325.01
         }
       ],
       "sources": [
@@ -2200,7 +2200,7 @@
       ],
       "text": "Salpicado de concreto sobre metal desplegado, mezcla 1 : 3. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.097Z",
+      "updatedAt": "2026-11-06T14:19:15.838Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2208,5 +2208,5 @@
       }
     }
   ],
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

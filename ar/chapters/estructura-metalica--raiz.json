@@ -44,8 +44,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -53,12 +53,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4216.54
+          "value": 4412.3
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -66,12 +66,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4373.24
+          "value": 4591
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -79,12 +79,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 5275.67
+          "value": 5620.41
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -92,7 +92,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 5608.07
+          "value": 5999.71
         }
       ],
       "sources": [
@@ -109,7 +109,7 @@
       ],
       "text": "Barandas de hierro-simples, de uso común en industrias. Análisis de precio unitario. Medida por kg. Precio computado desde la descomposición.",
       "unit": "kg",
-      "updatedAt": "2026-10-07T11:53:31.047Z",
+      "updatedAt": "2026-11-06T14:19:14.832Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -155,8 +155,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -164,12 +164,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1291357.45
+          "value": 1364766.85
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -177,12 +177,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1350118.9
+          "value": 1431779.05
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -190,12 +190,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1688530.38
+          "value": 1817808.4
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -203,7 +203,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1813180.15
+          "value": 1960047.33
         }
       ],
       "sources": [
@@ -220,7 +220,7 @@
       ],
       "text": "Cabriadas de perfiles normalizados, luz 10 m-separacion 4 m. Análisis de precio unitario. Medida por u. Precio computado desde la descomposición.",
       "unit": "u",
-      "updatedAt": "2026-10-07T11:53:31.049Z",
+      "updatedAt": "2026-11-06T14:19:14.858Z",
       "verification": {
         "findings": [
           "duplicate_candidate-4900717ae7a46bc0"
@@ -268,8 +268,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -277,12 +277,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 499032.13
+          "value": 529537.81
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -290,12 +290,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 523450.77
+          "value": 557385.1
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -303,12 +303,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 664079.54
+          "value": 717801.74
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -316,7 +316,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 715878.45
+          "value": 776909.92
         }
       ],
       "sources": [
@@ -333,7 +333,7 @@
       ],
       "text": "Cabriadas de perfiles normalizados, luz 6 m-separacion 4 m. Análisis de precio unitario. Medida por u. Precio computado desde la descomposición.",
       "unit": "u",
-      "updatedAt": "2026-10-07T11:53:31.049Z",
+      "updatedAt": "2026-11-06T14:19:14.861Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -379,8 +379,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -388,12 +388,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 81459.61
+          "value": 84624.37
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -401,12 +401,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 83992.88
+          "value": 87513.34
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -414,12 +414,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 98582.17
+          "value": 104155.49
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -427,7 +427,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 103955.96
+          "value": 110287.57
         }
       ],
       "sources": [
@@ -444,7 +444,7 @@
       ],
       "text": "Columna de doble perfil normalizado N° 10, fabricadas en obrador y montadas en posicion para soldar. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-07T11:53:31.060Z",
+      "updatedAt": "2026-11-06T14:19:15.105Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -490,8 +490,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -499,12 +499,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28053.69
+          "value": 28934.61
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -512,12 +512,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28758.83
+          "value": 29738.75
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -525,12 +525,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32819.77
+          "value": 34371.1
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -538,7 +538,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 34315.57
+          "value": 36077.97
         }
       ],
       "sources": [
@@ -555,7 +555,7 @@
       ],
       "text": "Correas de perfil normalizado, fijación por soldadura o abulonado. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-07T11:53:31.066Z",
+      "updatedAt": "2026-11-06T14:19:15.219Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -601,8 +601,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -610,12 +610,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4228.71
+          "value": 4408.15
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -623,12 +623,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4372.35
+          "value": 4571.96
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -636,12 +636,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 5199.57
+          "value": 5515.59
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -649,7 +649,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 5504.27
+          "value": 5863.28
         }
       ],
       "sources": [
@@ -666,7 +666,7 @@
       ],
       "text": "Escaleras metálicas, prefabricación en obrador. Análisis de precio unitario. Medida por kg. Precio computado desde la descomposición.",
       "unit": "kg",
-      "updatedAt": "2026-10-07T11:53:31.076Z",
+      "updatedAt": "2026-11-06T14:19:15.353Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -712,8 +712,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -721,12 +721,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 55429.56
+          "value": 58444.24
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -734,12 +734,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 57842.7
+          "value": 61196.21
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -747,12 +747,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 71740.13
+          "value": 77049.15
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -760,7 +760,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 76859.08
+          "value": 82890.43
         }
       ],
       "sources": [
@@ -777,7 +777,7 @@
       ],
       "text": "Estructura completa de columnas y vigas de hierro, altura 3,00 m, luz 4,50 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.076Z",
+      "updatedAt": "2026-11-06T14:19:15.356Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -823,8 +823,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -832,12 +832,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 3752.61
+          "value": 3883.12
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -845,12 +845,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 3857.08
+          "value": 4002.25
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -858,12 +858,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4458.7
+          "value": 4688.53
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -871,7 +871,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4680.3
+          "value": 4941.39
         }
       ],
       "sources": [
@@ -888,7 +888,7 @@
       ],
       "text": "Estructura semi pesada de hierro, menores a ipn N° 24. Análisis de precio unitario. Medida por kg. Precio computado desde la descomposición.",
       "unit": "kg",
-      "updatedAt": "2026-10-07T11:53:31.077Z",
+      "updatedAt": "2026-11-06T14:19:15.378Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -934,8 +934,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -943,12 +943,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4674.08
+          "value": 4869.84
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -956,12 +956,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4830.78
+          "value": 5048.54
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -969,12 +969,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 5733.21
+          "value": 6077.95
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -982,7 +982,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 6065.61
+          "value": 6457.26
         }
       ],
       "sources": [
@@ -999,7 +999,7 @@
       ],
       "text": "Estructuras de chapa de hierro galvanizado-\"l\"-\"u\"-\"c\"-omega, colocación abulonada. Análisis de precio unitario. Medida por kg. Precio computado desde la descomposición.",
       "unit": "kg",
-      "updatedAt": "2026-10-07T11:53:31.077Z",
+      "updatedAt": "2026-11-06T14:19:15.380Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1045,8 +1045,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1054,12 +1054,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 19142.31
+          "value": 20055.85
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1067,12 +1067,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 19873.57
+          "value": 20889.78
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1080,12 +1080,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24084.91
+          "value": 25693.7
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1093,7 +1093,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25636.11
+          "value": 27463.79
         }
       ],
       "sources": [
@@ -1110,7 +1110,7 @@
       ],
       "text": "Estructuras de cubiertas con pendiente-con perfiles CH° galv, perfiles \"u\"-\"c\"-\"l\"-omega y similares-abulonados. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.077Z",
+      "updatedAt": "2026-11-06T14:19:15.382Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1156,8 +1156,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1165,12 +1165,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 3868.59
+          "value": 4015.41
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1178,12 +1178,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 3986.12
+          "value": 4149.44
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1191,12 +1191,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4662.94
+          "value": 4921.5
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1204,7 +1204,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4912.24
+          "value": 5205.97
         }
       ],
       "sources": [
@@ -1221,7 +1221,7 @@
       ],
       "text": "Estructuras livianas de hierro, menores a ipn N° 12. Análisis de precio unitario. Medida por kg. Precio computado desde la descomposición.",
       "unit": "kg",
-      "updatedAt": "2026-10-07T11:53:31.079Z",
+      "updatedAt": "2026-11-06T14:19:15.455Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1267,8 +1267,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1276,12 +1276,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 3636.63
+          "value": 3750.82
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1289,12 +1289,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 3728.04
+          "value": 3855.06
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1302,12 +1302,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4254.46
+          "value": 4455.55
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1315,7 +1315,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4448.35
+          "value": 4676.81
         }
       ],
       "sources": [
@@ -1332,7 +1332,7 @@
       ],
       "text": "Estructuras pesadas de hierro, menores a ipn N° 24. Análisis de precio unitario. Medida por kg. Precio computado desde la descomposición.",
       "unit": "kg",
-      "updatedAt": "2026-10-07T11:53:31.080Z",
+      "updatedAt": "2026-11-06T14:19:15.461Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1378,8 +1378,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1387,12 +1387,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4112.73
+          "value": 4275.86
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1400,12 +1400,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4243.31
+          "value": 4424.77
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1413,12 +1413,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4995.33
+          "value": 5282.62
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1426,7 +1426,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 5272.33
+          "value": 5598.7
         }
       ],
       "sources": [
@@ -1443,7 +1443,7 @@
       ],
       "text": "Plataformas y pasarelas de hierro, prefabricación en obrador. Análisis de precio unitario. Medida por kg. Precio computado desde la descomposición.",
       "unit": "kg",
-      "updatedAt": "2026-10-07T11:53:31.090Z",
+      "updatedAt": "2026-11-06T14:19:15.725Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1489,8 +1489,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1498,12 +1498,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4552.32
+          "value": 4813.33
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1511,12 +1511,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4761.25
+          "value": 5051.6
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1524,12 +1524,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 5964.49
+          "value": 6424.15
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1537,7 +1537,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 6407.69
+          "value": 6929.89
         }
       ],
       "sources": [
@@ -1554,7 +1554,7 @@
       ],
       "text": "Soportes livianos-para cañerías, menores a ø 4\". Análisis de precio unitario. Medida por kg. Precio computado desde la descomposición.",
       "unit": "kg",
-      "updatedAt": "2026-10-07T11:53:31.097Z",
+      "updatedAt": "2026-11-06T14:19:15.843Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1600,8 +1600,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1609,12 +1609,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4204.38
+          "value": 4416.45
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1622,12 +1622,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4374.13
+          "value": 4610.04
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1635,12 +1635,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 5351.76
+          "value": 5725.23
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1648,7 +1648,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 5711.86
+          "value": 6136.15
         }
       ],
       "sources": [
@@ -1665,7 +1665,7 @@
       ],
       "text": "Soportes pesados-para cañerías, mayores a ø 4\". Análisis de precio unitario. Medida por kg. Precio computado desde la descomposición.",
       "unit": "kg",
-      "updatedAt": "2026-10-07T11:53:31.097Z",
+      "updatedAt": "2026-11-06T14:19:15.846Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1673,5 +1673,5 @@
       }
     }
   ],
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

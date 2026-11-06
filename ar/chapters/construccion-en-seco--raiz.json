@@ -86,8 +86,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -95,12 +95,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27212.92
+          "value": 28681.11
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -108,12 +108,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28388.15
+          "value": 30021.35
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -121,12 +121,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 35156.38
+          "value": 37741.94
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -134,7 +134,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 37649.38
+          "value": 40586.72
         }
       ],
       "sources": [
@@ -151,7 +151,7 @@
       ],
       "text": "Cielorraso de fibras de vidrio revestido en pvc-desmontable, espesor 25 mm.placas de 0,61m x 1,21 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.056Z",
+      "updatedAt": "2026-11-06T14:19:14.982Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -227,8 +227,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -236,12 +236,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29713
+          "value": 31833.72
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -249,12 +249,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 31410.56
+          "value": 33769.63
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -262,12 +262,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 41186.89
+          "value": 44921.59
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -275,7 +275,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 44787.88
+          "value": 49030.71
         }
       ],
       "sources": [
@@ -292,7 +292,7 @@
       ],
       "text": "Cielorraso de placas de roca de yeso aplicado bajo losa, placa común 1,22 m x 2,44 m-esp: 9,5mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.056Z",
+      "updatedAt": "2026-11-06T14:19:14.998Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -368,8 +368,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -377,12 +377,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 21450.97
+          "value": 22919.16
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -390,12 +390,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22626.2
+          "value": 24259.4
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -403,12 +403,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29394.43
+          "value": 31979.99
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -416,7 +416,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 31887.42
+          "value": 34824.76
         }
       ],
       "sources": [
@@ -433,7 +433,7 @@
       ],
       "text": "Cielorraso de placas de roca de yeso-desmontable. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.057Z",
+      "updatedAt": "2026-11-06T14:19:15.004Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -521,8 +521,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -530,12 +530,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 44767.57
+          "value": 46235.76
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -543,12 +543,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 45942.8
+          "value": 47576
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -556,12 +556,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 52711.03
+          "value": 55296.59
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -569,7 +569,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 55204.02
+          "value": 58141.37
         }
       ],
       "sources": [
@@ -586,7 +586,7 @@
       ],
       "text": "Cielorraso suspendido de fibras minerales 61x61cm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.057Z",
+      "updatedAt": "2026-11-06T14:19:15.026Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -680,8 +680,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -689,12 +689,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 70900.71
+          "value": 74228.6
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -702,12 +702,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 73564.56
+          "value": 77266.49
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -715,12 +715,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 88905.88
+          "value": 94766.49
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -728,7 +728,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 94556.67
+          "value": 101214.65
         }
       ],
       "sources": [
@@ -745,7 +745,7 @@
       ],
       "text": "Pared divisoria resistente al fuego, placa resistente al fuego 1,22 mx 2,44 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.085Z",
+      "updatedAt": "2026-11-06T14:19:15.638Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -839,8 +839,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -848,12 +848,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 53665.98
+          "value": 57581.15
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -861,12 +861,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 56799.93
+          "value": 61155.13
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -874,12 +874,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 74848.54
+          "value": 81743.37
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -887,7 +887,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 81496.53
+          "value": 89329.44
         }
       ],
       "sources": [
@@ -904,7 +904,7 @@
       ],
       "text": "Pared doble, placa común 1,22 m x 2,44 m-esp: 12,5mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.085Z",
+      "updatedAt": "2026-11-06T14:19:15.640Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -992,8 +992,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1001,12 +1001,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 43843.97
+          "value": 46780.34
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1014,12 +1014,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 46194.42
+          "value": 49460.83
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1027,12 +1027,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 59730.88
+          "value": 64902
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1040,7 +1040,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 64716.87
+          "value": 70591.56
         }
       ],
       "sources": [
@@ -1057,7 +1057,7 @@
       ],
       "text": "Pared simple divisoria de locales humedos, placa resistente a la humedad 1,22 m x 2,44 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.085Z",
+      "updatedAt": "2026-11-06T14:19:15.644Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1145,8 +1145,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1154,12 +1154,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29758.58
+          "value": 31716.17
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1167,12 +1167,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 31325.56
+          "value": 33503.16
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1180,12 +1180,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 40349.86
+          "value": 43797.28
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1193,7 +1193,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 43673.86
+          "value": 47590.31
         }
       ],
       "sources": [
@@ -1210,7 +1210,7 @@
       ],
       "text": "Pared simple revestida de un solo lado, espesor de pared 8,25 cm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.086Z",
+      "updatedAt": "2026-11-06T14:19:15.647Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1286,8 +1286,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1295,12 +1295,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25738.34
+          "value": 27369.66
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1308,12 +1308,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27044.15
+          "value": 28858.82
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1321,12 +1321,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 34564.4
+          "value": 37437.25
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1334,7 +1334,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 37334.4
+          "value": 40598.11
         }
       ],
       "sources": [
@@ -1351,7 +1351,7 @@
       ],
       "text": "Revestimiento de pared existente-sobre perfil omega, placa común 1,22 m x 2,44 m-esp: 12,5mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.093Z",
+      "updatedAt": "2026-11-06T14:19:15.775Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1427,8 +1427,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1436,12 +1436,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 35216.89
+          "value": 36521.95
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1449,12 +1449,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36261.54
+          "value": 37713.28
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1462,12 +1462,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 42277.74
+          "value": 44576.02
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1475,7 +1475,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 44493.74
+          "value": 47104.71
         }
       ],
       "sources": [
@@ -1492,7 +1492,7 @@
       ],
       "text": "Tabique con estructura de madera 1\" x 2\", placa común 1,22 m x 2,44 m-esp: 12,5mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.097Z",
+      "updatedAt": "2026-11-06T14:19:15.848Z",
       "verification": {
         "findings": [
           "duplicate_candidate-d979eaded17683ed"
@@ -1570,8 +1570,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1579,12 +1579,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 45106.05
+          "value": 46574.23
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1592,12 +1592,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 46281.27
+          "value": 47914.48
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1605,12 +1605,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 53049.5
+          "value": 55635.06
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1618,7 +1618,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 55542.5
+          "value": 58479.84
         }
       ],
       "sources": [
@@ -1635,7 +1635,7 @@
       ],
       "text": "Tabique con estructura de madera 2\" x 2\", placa común 1,22 m x 2,44 m-esp: 12,5mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.098Z",
+      "updatedAt": "2026-11-06T14:19:15.853Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1643,5 +1643,5 @@
       }
     }
   ],
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

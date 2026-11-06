@@ -2,24 +2,24 @@
   "key": "contrapisos-y-carpetas--carpetas",
   "rows": [
     {
-      "d": "2026-10",
+      "d": "2026-11",
       "g": [],
       "id": "wi-ar-carpeta-de-nivelacion-de-3-cm",
       "m": 4,
-      "p": 17025.73,
+      "p": 18533.61,
       "s": "Carpeta de nivelación de 3 cm",
       "u": "m2"
     },
     {
-      "d": "2026-10",
+      "d": "2026-11",
       "g": [],
       "id": "wi-ar-carpeta-hidrofuga-de-2-cm",
       "m": 5,
-      "p": 15918.44,
+      "p": 17426.32,
       "s": "Carpeta hidrófuga de 2 cm",
       "u": "m2"
     }
   ],
   "title": "Contrapisos y carpetas > Carpetas",
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

@@ -50,8 +50,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -59,12 +59,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 43324.36
+          "value": 48857.69
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -72,12 +72,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 47707.77
+          "value": 53856.26
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -85,12 +85,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 71533.94
+          "value": 81033.74
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -98,7 +98,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 82650.01
+          "value": 93718.29
         }
       ],
       "sources": [
@@ -115,7 +115,7 @@
       ],
       "text": "Alisado de cemento-en interiores de tanques de agua, espesor gr: 1,5 cm-espesor f: 3 mm-alisado con llana. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.045Z",
+      "updatedAt": "2026-11-06T14:19:14.786Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -167,8 +167,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -176,12 +176,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29809.95
+          "value": 33301.89
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -189,12 +189,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32582.34
+          "value": 36463.4
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -202,12 +202,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 47843.69
+          "value": 53871.55
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -215,7 +215,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 54628.34
+          "value": 61613.51
         }
       ],
       "sources": [
@@ -232,7 +232,7 @@
       ],
       "text": "Alisado de cemento-en paredes, espesor gr: 2 cm-espesor f: 3 mm-alisado con llana. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.045Z",
+      "updatedAt": "2026-11-06T14:19:14.789Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -302,8 +302,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -311,12 +311,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32608.66
+          "value": 36250.49
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -324,12 +324,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 35513.33
+          "value": 39562.94
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -337,12 +337,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 51917.4
+          "value": 58274.93
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -350,7 +350,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 58494.5
+          "value": 65780.09
         }
       ],
       "sources": [
@@ -367,7 +367,7 @@
       ],
       "text": "Revoque exterior completo a la cal, incluye planchado de azotado hidrófugo. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.094Z",
+      "updatedAt": "2026-11-06T14:19:15.790Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -425,8 +425,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -434,12 +434,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 9271.78
+          "value": 10515.12
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -447,12 +447,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 10263.1
+          "value": 11645.6
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -460,12 +460,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 15850.6
+          "value": 18019.21
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -473,7 +473,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 18109.27
+          "value": 20596.58
         }
       ],
       "sources": [
@@ -490,7 +490,7 @@
       ],
       "text": "Revoque fino a la cal, espesor 4 mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.095Z",
+      "updatedAt": "2026-11-06T14:19:15.797Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -536,8 +536,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -545,12 +545,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 7321.31
+          "value": 8133.45
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -558,12 +558,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 7965.64
+          "value": 8868.21
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -571,12 +571,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 11498.09
+          "value": 12897.55
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -584,7 +584,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 13093.39
+          "value": 14717.96
         }
       ],
       "sources": [
@@ -601,7 +601,7 @@
       ],
       "text": "Revoque fino a la cal-predosificado, espesor 3 mm-grueso sin peinar. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.095Z",
+      "updatedAt": "2026-11-06T14:19:15.799Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -659,8 +659,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -668,12 +668,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 5717.89
+          "value": 6477.13
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -681,12 +681,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 6320.66
+          "value": 7164.49
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -694,12 +694,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 9638.04
+          "value": 10948.52
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -707,7 +707,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 11114.01
+          "value": 12632.75
         }
       ],
       "sources": [
@@ -724,7 +724,7 @@
       ],
       "text": "Revoque fino exterior a la cal, espesor 3 mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.095Z",
+      "updatedAt": "2026-11-06T14:19:15.803Z",
       "verification": {
         "findings": [
           "duplicate_candidate-987215db4d4ab044"
@@ -784,8 +784,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -793,12 +793,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 6257.3
+          "value": 7069.44
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -806,12 +806,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 6901.63
+          "value": 7804.2
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -819,12 +819,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 10434.08
+          "value": 11833.54
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -832,7 +832,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 12029.39
+          "value": 13653.95
         }
       ],
       "sources": [
@@ -849,7 +849,7 @@
       ],
       "text": "Revoque fino interior a la cal, espesor 3 mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.095Z",
+      "updatedAt": "2026-11-06T14:19:15.807Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -901,8 +901,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -910,12 +910,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16288.12
+          "value": 17130.24
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -923,12 +923,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16956.97
+          "value": 17892.97
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -936,12 +936,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 20646.85
+          "value": 22101.91
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -949,7 +949,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22273.4
+          "value": 23957.97
         }
       ],
       "sources": [
@@ -966,7 +966,7 @@
       ],
       "text": "Revoque fino para frentes-predosificado-base cement, salpicado con molinete de mano. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.095Z",
+      "updatedAt": "2026-11-06T14:19:15.808Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1036,8 +1036,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1045,12 +1045,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 20826.25
+          "value": 22810.3
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1058,12 +1058,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22409.17
+          "value": 24615.44
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1071,12 +1071,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 31363.23
+          "value": 34829.28
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1084,7 +1084,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 34928.77
+          "value": 38897.94
         }
       ],
       "sources": [
@@ -1101,7 +1101,7 @@
       ],
       "text": "Revoque grueso de perlita de 2 cm, 5,1 kg de cemento por m2. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.095Z",
+      "updatedAt": "2026-11-06T14:19:15.812Z",
       "verification": {
         "findings": [
           "duplicate_candidate-5b651ef7ef5bd62d"
@@ -1173,8 +1173,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1182,12 +1182,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 21463.83
+          "value": 23447.88
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1195,12 +1195,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23046.75
+          "value": 25253.02
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1208,12 +1208,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32000.81
+          "value": 35466.86
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1221,7 +1221,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 35566.35
+          "value": 39535.52
         }
       ],
       "sources": [
@@ -1238,7 +1238,7 @@
       ],
       "text": "Revoque grueso de perlita de 2 cm, 5,9 kg de cemento por m2. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.096Z",
+      "updatedAt": "2026-11-06T14:19:15.814Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1302,8 +1302,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1311,12 +1311,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 43790.26
+          "value": 45774.31
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1324,12 +1324,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 45373.18
+          "value": 47579.45
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1337,12 +1337,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 54327.24
+          "value": 57793.29
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1350,7 +1350,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 57892.79
+          "value": 61861.96
         }
       ],
       "sources": [
@@ -1367,7 +1367,7 @@
       ],
       "text": "Revoque grueso de vermiculita, como aislante térmico-espesor 2 cm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.096Z",
+      "updatedAt": "2026-11-06T14:19:15.817Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1425,8 +1425,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1434,12 +1434,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 18493.38
+          "value": 20547.97
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1447,12 +1447,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 20131.72
+          "value": 22416.31
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1460,12 +1460,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29372.54
+          "value": 32957.23
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1473,7 +1473,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33097.2
+          "value": 37207.45
         }
       ],
       "sources": [
@@ -1490,7 +1490,7 @@
       ],
       "text": "Revoque grueso exterior reforzado, espesor 2,2 cm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.096Z",
+      "updatedAt": "2026-11-06T14:19:15.822Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1548,8 +1548,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1557,12 +1557,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 13300.24
+          "value": 14808.12
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1570,12 +1570,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 14499.39
+          "value": 16175.59
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1583,12 +1583,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 21162.25
+          "value": 23775.76
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1596,7 +1596,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24017.57
+          "value": 27033.98
         }
       ],
       "sources": [
@@ -1613,7 +1613,7 @@
       ],
       "text": "Revoque grueso interior-bajo revestimiento, para revestimiento colocado a la cal. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.096Z",
+      "updatedAt": "2026-11-06T14:19:15.826Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1671,8 +1671,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1680,12 +1680,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 17741.77
+          "value": 19827.23
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1693,12 +1693,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 19401.94
+          "value": 21720.44
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1706,12 +1706,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28679.32
+          "value": 32302.99
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1719,7 +1719,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32564.54
+          "value": 36736.42
         }
       ],
       "sources": [
@@ -1736,7 +1736,7 @@
       ],
       "text": "Revoque interior completo, mezcla: az.:gr.: 1/4 : 1 : 3 : 1, fn.: 1/8 : 1 : 3. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.097Z",
+      "updatedAt": "2026-11-06T14:19:15.831Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1744,5 +1744,5 @@
       }
     }
   ],
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

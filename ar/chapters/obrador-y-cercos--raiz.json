@@ -62,8 +62,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -71,12 +71,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29194.55
+          "value": 30473.14
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -84,12 +84,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 30223.25
+          "value": 31646.32
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -97,12 +97,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36309.7
+          "value": 38589.34
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -110,7 +110,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 38284.14
+          "value": 40842.4
         }
       ],
       "sources": [
@@ -127,7 +127,7 @@
       ],
       "text": "Cerco de obra-madera, altura 1,80 m-postes cada 2,40 m. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-07T11:53:31.054Z",
+      "updatedAt": "2026-11-06T14:19:14.961Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -191,8 +191,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -200,12 +200,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16051.09
+          "value": 17193.01
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -213,12 +213,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16965.16
+          "value": 18235.42
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -226,12 +226,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22229.33
+          "value": 24240.33
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -239,7 +239,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24168.33
+          "value": 26452.93
         }
       ],
       "sources": [
@@ -256,7 +256,7 @@
       ],
       "text": "Cerco de obra-metalico, altura 2,00 m-postes cada 2,50 m. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-07T11:53:31.055Z",
+      "updatedAt": "2026-11-06T14:19:14.964Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -350,8 +350,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -359,12 +359,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 63323.85
+          "value": 66886.29
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -372,12 +372,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 66180.69
+          "value": 70144.3
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -385,12 +385,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 82795.49
+          "value": 89097.12
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -398,7 +398,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 88647.93
+          "value": 95775.39
         }
       ],
       "sources": [
@@ -415,7 +415,7 @@
       ],
       "text": "Cerco olimpico, altura 2,40m-con alambre romboidal. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-07T11:53:31.055Z",
+      "updatedAt": "2026-11-06T14:19:14.966Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -533,8 +533,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -542,12 +542,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 46895.11
+          "value": 49005.22
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -555,12 +555,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 48595.95
+          "value": 50944.97
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -568,12 +568,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 58755.95
+          "value": 62534.9
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -581,7 +581,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 61896.55
+          "value": 66118.69
         }
       ],
       "sources": [
@@ -598,7 +598,7 @@
       ],
       "text": "Cerco olimpico con postes de hormigón premoldeados, altura 2,40m-con postes con codo. sin viga encad. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-07T11:53:31.055Z",
+      "updatedAt": "2026-11-06T14:19:14.974Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -606,5 +606,5 @@
       }
     }
   ],
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

@@ -120,20 +120,176 @@
           "source": "cerp",
           "sourceCode": "COSTO-EMPRESA-2020-02",
           "value": 21321.75
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "uocra",
+          "sourceCode": "AYUDANTE",
+          "value": 5696
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "uocra",
+          "sourceCode": "AYUDANTE",
+          "value": 6351
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "uocra",
+          "sourceCode": "AYUDANTE",
+          "value": 10557
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "uocra",
+          "sourceCode": "AYUDANTE",
+          "value": 11392
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 10563.98
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 11778.79
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 19577.95
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 21125.82
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 12160.96
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 13559.38
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 22539.19
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 24321.92
         }
       ],
       "sources": [
         {
           "code": "AYUDANTE",
-          "edition": "2026-07",
+          "edition": "2026-11",
           "matchedBy": "seed",
           "source": "uocra"
         }
       ],
       "summary": "Ayudante (CCT 76/75)",
-      "text": "Categoría 'Ayudante' del CCT 76/75 de la construcción. Valor del jornal horario básico vigente desde 2026-07-01, por zona salarial. No incluye cargas sociales ni sumas no remunerativas. Costo empresa: el ítem incluye además un precio 'curated' de costo empresa por hora, igual al jornal por el coeficiente de cargas sociales 2.1548 (CAMARCO — Cámara Argentina de la Construcción, incidencia vigente 2020-02). Ver data/curation/ar/cargas-sociales.json para el desglose y sus límites.",
+      "text": "Categoría 'Ayudante' del CCT 76/75 de la construcción. Valor del jornal horario básico vigente desde 2026-07-01, por zona salarial. No incluye cargas sociales ni sumas no remunerativas. Costo empresa: el ítem incluye además un precio 'curated' de costo empresa por hora, igual al jornal por el coeficiente de cargas sociales 2.135 (CAMARCO — Cámara Argentina de la Construcción, incidencia vigente 2026-07). Ver data/curation/ar/cargas-sociales.json para el desglose y sus límites.",
       "unit": "h",
-      "updatedAt": "2026-07-22T00:48:04.478Z",
+      "updatedAt": "2026-11-06T14:18:35.404Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-07-21T21:43:02.614Z",
@@ -256,20 +412,176 @@
           "source": "cerp",
           "sourceCode": "COSTO-EMPRESA-2020-02",
           "value": 23164.1
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "uocra",
+          "sourceCode": "MEDIO-OFICIAL",
+          "value": 6188
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "uocra",
+          "sourceCode": "MEDIO-OFICIAL",
+          "value": 6860
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "uocra",
+          "sourceCode": "MEDIO-OFICIAL",
+          "value": 10873
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "uocra",
+          "sourceCode": "MEDIO-OFICIAL",
+          "value": 12377
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 11475.62
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 12720.33
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 20162.94
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 22951.25
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 13211.38
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 14646.1
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 23213.85
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 26424.89
         }
       ],
       "sources": [
         {
           "code": "MEDIO-OFICIAL",
-          "edition": "2026-07",
+          "edition": "2026-11",
           "matchedBy": "seed",
           "source": "uocra"
         }
       ],
       "summary": "Medio oficial (CCT 76/75)",
-      "text": "Categoría 'Medio oficial' del CCT 76/75 de la construcción. Valor del jornal horario básico vigente desde 2026-07-01, por zona salarial. No incluye cargas sociales ni sumas no remunerativas. Costo empresa: el ítem incluye además un precio 'curated' de costo empresa por hora, igual al jornal por el coeficiente de cargas sociales 2.1548 (CAMARCO — Cámara Argentina de la Construcción, incidencia vigente 2020-02). Ver data/curation/ar/cargas-sociales.json para el desglose y sus límites.",
+      "text": "Categoría 'Medio oficial' del CCT 76/75 de la construcción. Valor del jornal horario básico vigente desde 2026-07-01, por zona salarial. No incluye cargas sociales ni sumas no remunerativas. Costo empresa: el ítem incluye además un precio 'curated' de costo empresa por hora, igual al jornal por el coeficiente de cargas sociales 2.135 (CAMARCO — Cámara Argentina de la Construcción, incidencia vigente 2026-07). Ver data/curation/ar/cargas-sociales.json para el desglose y sus límites.",
       "unit": "h",
-      "updatedAt": "2026-07-22T00:48:04.478Z",
+      "updatedAt": "2026-11-06T14:18:35.404Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-07-21T21:43:02.614Z",
@@ -392,20 +704,176 @@
           "source": "cerp",
           "sourceCode": "COSTO-EMPRESA-2020-02",
           "value": 25066.79
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "uocra",
+          "sourceCode": "OFICIAL",
+          "value": 6697
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "uocra",
+          "sourceCode": "OFICIAL",
+          "value": 7437
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "uocra",
+          "sourceCode": "OFICIAL",
+          "value": 11267
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "uocra",
+          "sourceCode": "OFICIAL",
+          "value": 13393
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 12419.29
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 13792.1
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 20895.25
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 24836.46
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 14298.1
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 15878
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 24055.05
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 28594.05
         }
       ],
       "sources": [
         {
           "code": "OFICIAL",
-          "edition": "2026-07",
+          "edition": "2026-11",
           "matchedBy": "seed",
           "source": "uocra"
         }
       ],
       "summary": "Oficial (CCT 76/75)",
-      "text": "Categoría 'Oficial' del CCT 76/75 de la construcción. Valor del jornal horario básico vigente desde 2026-07-01, por zona salarial. No incluye cargas sociales ni sumas no remunerativas. Costo empresa: el ítem incluye además un precio 'curated' de costo empresa por hora, igual al jornal por el coeficiente de cargas sociales 2.1548 (CAMARCO — Cámara Argentina de la Construcción, incidencia vigente 2020-02). Ver data/curation/ar/cargas-sociales.json para el desglose y sus límites.",
+      "text": "Categoría 'Oficial' del CCT 76/75 de la construcción. Valor del jornal horario básico vigente desde 2026-07-01, por zona salarial. No incluye cargas sociales ni sumas no remunerativas. Costo empresa: el ítem incluye además un precio 'curated' de costo empresa por hora, igual al jornal por el coeficiente de cargas sociales 2.135 (CAMARCO — Cámara Argentina de la Construcción, incidencia vigente 2026-07). Ver data/curation/ar/cargas-sociales.json para el desglose y sus límites.",
       "unit": "h",
-      "updatedAt": "2026-07-22T00:48:04.478Z",
+      "updatedAt": "2026-11-06T14:18:35.405Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-07-21T21:43:02.614Z",
@@ -528,20 +996,176 @@
           "source": "cerp",
           "sourceCode": "COSTO-EMPRESA-2020-02",
           "value": 29303.13
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "uocra",
+          "sourceCode": "OFICIAL-ESPECIALIZAD",
+          "value": 7828
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "uocra",
+          "sourceCode": "OFICIAL-ESPECIALIZAD",
+          "value": 8689
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "uocra",
+          "sourceCode": "OFICIAL-ESPECIALIZAD",
+          "value": 12018
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "uocra",
+          "sourceCode": "OFICIAL-ESPECIALIZAD",
+          "value": 15657
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 14518
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 16114.98
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 22287.27
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-07",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 29033.87
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 16712.78
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 18551.02
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 25658.43
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-07",
+          "kind": "curated",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "COSTO-EMPRESA-2026-07",
+          "value": 33427.7
         }
       ],
       "sources": [
         {
           "code": "OFICIAL-ESPECIALIZAD",
-          "edition": "2026-07",
+          "edition": "2026-11",
           "matchedBy": "seed",
           "source": "uocra"
         }
       ],
       "summary": "Oficial especializado (CCT 76/75)",
-      "text": "Categoría 'Oficial especializado' del CCT 76/75 de la construcción. Valor del jornal horario básico vigente desde 2026-07-01, por zona salarial. No incluye cargas sociales ni sumas no remunerativas. Costo empresa: el ítem incluye además un precio 'curated' de costo empresa por hora, igual al jornal por el coeficiente de cargas sociales 2.1548 (CAMARCO — Cámara Argentina de la Construcción, incidencia vigente 2020-02). Ver data/curation/ar/cargas-sociales.json para el desglose y sus límites.",
+      "text": "Categoría 'Oficial especializado' del CCT 76/75 de la construcción. Valor del jornal horario básico vigente desde 2026-07-01, por zona salarial. No incluye cargas sociales ni sumas no remunerativas. Costo empresa: el ítem incluye además un precio 'curated' de costo empresa por hora, igual al jornal por el coeficiente de cargas sociales 2.135 (CAMARCO — Cámara Argentina de la Construcción, incidencia vigente 2026-07). Ver data/curation/ar/cargas-sociales.json para el desglose y sus límites.",
       "unit": "h",
-      "updatedAt": "2026-07-22T00:48:04.478Z",
+      "updatedAt": "2026-11-06T14:18:35.405Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-07-21T21:43:02.614Z",
@@ -612,12 +1236,64 @@
           "source": "uocra",
           "sourceCode": "SERENO",
           "value": 1797634
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "uocra",
+          "sourceCode": "SERENO",
+          "value": 1034783
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "uocra",
+          "sourceCode": "SERENO",
+          "value": 1152793
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "uocra",
+          "sourceCode": "SERENO",
+          "value": 1729932
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "list",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "uocra",
+          "sourceCode": "SERENO",
+          "value": 2069565
         }
       ],
       "sources": [
         {
           "code": "SERENO",
-          "edition": "2026-07",
+          "edition": "2026-11",
           "matchedBy": "seed",
           "source": "uocra"
         }
@@ -625,7 +1301,7 @@
       "summary": "Sereno (CCT 76/75)",
       "text": "Categoría 'Sereno' del CCT 76/75 de la construcción. Valor del sueldo mensual básico vigente desde 2026-07-01, por zona salarial. No incluye cargas sociales ni sumas no remunerativas.",
       "unit": "mes",
-      "updatedAt": "2026-07-21T21:42:32.251Z",
+      "updatedAt": "2026-11-06T14:15:43.242Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-07-21T21:43:02.614Z",
@@ -15297,5 +15973,5 @@
       }
     }
   ],
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

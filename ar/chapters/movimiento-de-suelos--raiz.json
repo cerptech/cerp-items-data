@@ -62,8 +62,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -71,12 +71,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 109182.53
+          "value": 111102.39
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -84,12 +84,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 110697.9
+          "value": 112830.68
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -97,12 +97,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 117337.92
+          "value": 120406.19
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -110,7 +110,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 122835.35
+          "value": 126678.82
         }
       ],
       "sources": [
@@ -127,7 +127,7 @@
       ],
       "text": "Relleno con suelo seleccionado-e=40cm-, nivelación y compactación en capas de 20 cm. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.091Z",
+      "updatedAt": "2026-11-06T14:19:15.737Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -135,5 +135,5 @@
       }
     }
   ],
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

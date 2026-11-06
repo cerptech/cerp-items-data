@@ -2,24 +2,24 @@
   "key": "pinturas--interiores",
   "rows": [
     {
-      "d": "2026-08",
+      "d": "2026-11",
       "g": [],
       "id": "wi-ar-pintura-al-latex-en-cielorrasos-tres-manos",
       "m": 4,
-      "p": 8848.99,
+      "p": 9723.73,
       "s": "Pintura al látex en cielorrasos, tres manos",
       "u": "m2"
     },
     {
-      "d": "2026-08",
+      "d": "2026-11",
       "g": [],
       "id": "wi-ar-pintura-al-latex-interior-tres-manos-con-enduido-previo",
       "m": 5,
-      "p": 8233.81,
+      "p": 8956,
       "s": "Pintura al látex interior, tres manos con enduido previo",
       "u": "m2"
     }
   ],
   "title": "Pinturas > Interiores",
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

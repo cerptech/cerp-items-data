@@ -46,7 +46,7 @@
         {
           "currency": "ARS",
           "date": "2026-10",
-          "edition": "2026-10",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR"
@@ -72,7 +72,7 @@
       ],
       "text": "Encofrado con placa de fenólico de 18 mm, incluidos armado, apuntalamiento con puntales metálicos, aplicación de desmoldante, desencofrado y limpieza. Medido por metro cuadrado de superficie de contacto con el hormigón. Se acuña como partida independiente para los itemizados que abren la estructura en tres (hormigón, armadura y encofrado); en el itemizado corriente de vivienda va incorporada al metro cúbico de hormigón armado. No se localizó rendimiento de mano de obra en ninguna fuente pública argentina para esta partida: no se carga mano de obra hasta conseguirlo. Ningún organismo público argentino publica rendimientos (los pliegos fijan la forma de medición, pero el análisis de precio lo presenta el oferente).",
       "unit": "m2",
-      "updatedAt": "2026-10-06T23:05:18.524Z",
+      "updatedAt": "2026-11-06T14:19:15.306Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -80,5 +80,5 @@
       }
     }
   ],
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

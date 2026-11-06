@@ -56,8 +56,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -65,12 +65,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 10701.51
+          "value": 11530.41
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -78,12 +78,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 11362.39
+          "value": 12284.06
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -91,12 +91,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 15087.4
+          "value": 16533.14
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -104,7 +104,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16593.17
+          "value": 18251.38
         }
       ],
       "sources": [
@@ -121,7 +121,7 @@
       ],
       "text": "Zócalo de adoquín 10x10, mezcla: 1 : 3. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-07T11:53:31.102Z",
+      "updatedAt": "2026-11-06T14:19:15.915Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -185,8 +185,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -194,12 +194,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 9042.44
+          "value": 9914.54
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -207,12 +207,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 9735.81
+          "value": 10705.24
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -220,12 +220,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 13583.12
+          "value": 15093.77
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -233,7 +233,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 15240.92
+          "value": 16985.49
         }
       ],
       "sources": [
@@ -250,7 +250,7 @@
       ],
       "text": "Zócalo de lajas irregulares, altura 10 cm. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-07T11:53:31.102Z",
+      "updatedAt": "2026-11-06T14:19:15.924Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -308,8 +308,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -317,12 +317,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 9924.96
+          "value": 10753.86
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -330,12 +330,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 10585.84
+          "value": 11507.51
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -343,12 +343,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 14310.85
+          "value": 15756.59
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -356,7 +356,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 15816.62
+          "value": 17474.83
         }
       ],
       "sources": [
@@ -373,7 +373,7 @@
       ],
       "text": "Zócalo de piedra natural, estesor 12 mm-altura 10 cm-largo variable. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-07T11:53:31.102Z",
+      "updatedAt": "2026-11-06T14:19:15.928Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -381,5 +381,5 @@
       }
     }
   ],
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

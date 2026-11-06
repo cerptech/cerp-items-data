@@ -2,24 +2,24 @@
   "key": "trabajos-preliminares--replanteo-y-obrador",
   "rows": [
     {
-      "d": "2026-07",
+      "d": "2026-11",
       "g": [],
       "id": "wi-ar-replanteo-y-nivelacion-de-obra",
       "m": 2,
-      "p": 3292.21,
+      "p": 3755.15,
       "s": "Replanteo y nivelación de obra",
       "u": "m2"
     },
     {
-      "d": "2026-07",
+      "d": "2026-11",
       "g": [],
       "id": "wi-ar-sereno-de-obra",
       "m": 1,
-      "p": 898817,
+      "p": 1034783,
       "s": "Sereno de obra",
       "u": "mes"
     }
   ],
   "title": "Trabajos preliminares > Replanteo y obrador",
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

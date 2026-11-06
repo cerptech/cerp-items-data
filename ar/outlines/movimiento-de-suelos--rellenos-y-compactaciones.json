@@ -2,15 +2,15 @@
   "key": "movimiento-de-suelos--rellenos-y-compactaciones",
   "rows": [
     {
-      "d": "2026-08",
+      "d": "2026-11",
       "g": [],
       "id": "wi-ar-relleno-y-compactacion-con-suelo-seleccionado",
       "m": 4,
-      "p": 60583.21,
+      "p": 63814.04,
       "s": "Relleno y compactación con suelo seleccionado",
       "u": "m3"
     }
   ],
   "title": "Movimiento de suelos > Rellenos y compactaciones",
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

@@ -80,8 +80,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -89,12 +89,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 87768.08
+          "value": 92132.95
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -102,12 +102,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 91269.84
+          "value": 96126.46
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -115,12 +115,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 111679.9
+          "value": 119408.63
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -128,7 +128,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 118796.56
+          "value": 127529.53
         }
       ],
       "sources": [
@@ -145,7 +145,7 @@
       ],
       "text": "Entrepiso con estructura de madera, luces menores a 3,5 mts. tirantes 2\" x 5\" cada 0,6m-cepillados. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.075Z",
+      "updatedAt": "2026-11-06T14:19:15.336Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -215,8 +215,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -224,12 +224,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 91661.54
+          "value": 96529.04
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -237,12 +237,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 95563.03
+          "value": 100978.37
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -250,12 +250,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 118194.04
+          "value": 126793.94
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -263,7 +263,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 126262.47
+          "value": 136000.91
         }
       ],
       "sources": [
@@ -280,7 +280,7 @@
       ],
       "text": "Entrepiso con estructura metálica, luces menores a 3,5 mts. perfiles \"c\" 100x45x10x2 cada 50 cm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.075Z",
+      "updatedAt": "2026-11-06T14:19:15.338Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -356,8 +356,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -365,12 +365,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 67131.13
+          "value": 68947.61
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -378,12 +378,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 68596.93
+          "value": 70619.31
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -391,12 +391,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 77403.28
+          "value": 80665.12
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -404,7 +404,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 80045.28
+          "value": 83679.96
         }
       ],
       "sources": [
@@ -421,7 +421,7 @@
       ],
       "text": "Entrepiso losa H° premoldeado con alma de poliestireno expandido, hasta 7,2 m de luces. espesor de losa 15 cm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.075Z",
+      "updatedAt": "2026-11-06T14:19:15.340Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -497,8 +497,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -506,12 +506,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 82203.73
+          "value": 87199.03
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -519,12 +519,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 86246.78
+          "value": 91810.08
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -532,12 +532,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 110908.7
+          "value": 119943.4
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -545,7 +545,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 117719.48
+          "value": 127715.34
         }
       ],
       "sources": [
@@ -562,7 +562,7 @@
       ],
       "text": "Losa de viguetas dobles y ladrillos cerámicos de 12,5 cm, luz 3,50 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.082Z",
+      "updatedAt": "2026-11-06T14:19:15.565Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -632,8 +632,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -641,12 +641,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 43787.05
+          "value": 46229.6
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -654,12 +654,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 45759.23
+          "value": 48478.81
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -667,12 +667,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 57643.93
+          "value": 62036.28
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -680,7 +680,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 61152.38
+          "value": 66039.83
         }
       ],
       "sources": [
@@ -697,7 +697,7 @@
       ],
       "text": "Losa de viguetas huecas pretensadas, viguetas de 9,5cm de espesor x 0,30m de ancho. capa de compresión 4 cm. peso…. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.082Z",
+      "updatedAt": "2026-11-06T14:19:15.568Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -773,8 +773,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -782,12 +782,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 53715.5
+          "value": 56695.93
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -795,12 +795,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 56124.78
+          "value": 59443.67
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -808,12 +808,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 70729.38
+          "value": 76103.93
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -821,7 +821,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 74905.38
+          "value": 80869.25
         }
       ],
       "sources": [
@@ -838,7 +838,7 @@
       ],
       "text": "Losa de viguetas y bloques de EPS de 12,5 cm, luz 3,50 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.082Z",
+      "updatedAt": "2026-11-06T14:19:15.569Z",
       "verification": {
         "findings": [
           "duplicate_candidate-76a2916d1b8f19b7"
@@ -916,8 +916,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -925,12 +925,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 58750.42
+          "value": 62057.11
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -938,12 +938,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 61420.86
+          "value": 65102.68
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -951,12 +951,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 77529.51
+          "value": 83478.63
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -964,7 +964,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 82259.51
+          "value": 88876.12
         }
       ],
       "sources": [
@@ -981,7 +981,7 @@
       ],
       "text": "Losa de viguetas y bloques de EPS de 16,5 cm, luz 3,50 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.083Z",
+      "updatedAt": "2026-11-06T14:19:15.571Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1057,8 +1057,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1066,12 +1066,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 70975.63
+          "value": 75433.04
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1079,12 +1079,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 74581.58
+          "value": 79545.57
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1092,12 +1092,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 96523.59
+          "value": 104576.1
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1105,7 +1105,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 102666.82
+          "value": 111586.27
         }
       ],
       "sources": [
@@ -1122,7 +1122,7 @@
       ],
       "text": "Losa de viguetas y ladrillos cerámicos de 12,5 cm, luz 3,50 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.083Z",
+      "updatedAt": "2026-11-06T14:19:15.573Z",
       "verification": {
         "findings": [
           "duplicate_candidate-e645bef9603201e4"
@@ -1200,8 +1200,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1209,12 +1209,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 61033.95
+          "value": 64640.44
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1222,12 +1222,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 63949.61
+          "value": 67965.7
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1235,12 +1235,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 81632.55
+          "value": 88137.6
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1248,7 +1248,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 86675
+          "value": 93891.64
         }
       ],
       "sources": [
@@ -1265,7 +1265,7 @@
       ],
       "text": "Losa de viguetas y ladrillos cerámicos de 9 cm, luz 3,50 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.083Z",
+      "updatedAt": "2026-11-06T14:19:15.576Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1273,5 +1273,5 @@
       }
     }
   ],
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

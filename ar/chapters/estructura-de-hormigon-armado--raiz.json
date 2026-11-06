@@ -50,8 +50,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -59,12 +59,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 3671380.83
+          "value": 3824040.34
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -72,12 +72,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 3794337.41
+          "value": 3964266.72
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -85,12 +85,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4525930.75
+          "value": 4798823.49
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -98,7 +98,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4756667.42
+          "value": 5062120.7
         }
       ],
       "sources": [
@@ -115,7 +115,7 @@
       ],
       "text": "Armadura solamente, cortado, doblado, atado y montado sobre encofrado. Análisis de precio unitario. Medida por t. Precio computado desde la descomposición.",
       "unit": "t",
-      "updatedAt": "2026-10-07T11:53:31.046Z",
+      "updatedAt": "2026-11-06T14:19:14.821Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -173,8 +173,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -182,12 +182,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28709.61
+          "value": 31556.01
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -195,12 +195,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 31005.85
+          "value": 34174.8
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -208,12 +208,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 44781.15
+          "value": 49888.91
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -221,7 +221,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 48945.86
+          "value": 54641.33
         }
       ],
       "sources": [
@@ -238,7 +238,7 @@
       ],
       "text": "Encofrado solamente, medido por la superficie en contacto con el H°. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.071Z",
+      "updatedAt": "2026-11-06T14:19:15.308Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -326,8 +326,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -335,12 +335,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 217117.78
+          "value": 221873.29
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -348,12 +348,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 220925.96
+          "value": 226216.2
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -361,12 +361,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 242906.18
+          "value": 251289.3
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -374,7 +374,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 250922.1
+          "value": 260436.33
         }
       ],
       "sources": [
@@ -391,7 +391,7 @@
       ],
       "text": "Escalera de H° A°, sin revestir-ancho 0,90 m,tramos rectos. Análisis de precio unitario. Medida por u. Precio computado desde la descomposición.",
       "unit": "u",
-      "updatedAt": "2026-10-07T11:53:31.075Z",
+      "updatedAt": "2026-11-06T14:19:15.348Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -467,8 +467,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -476,12 +476,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 595789.16
+          "value": 627926.93
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -489,12 +489,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 621588.31
+          "value": 657349.09
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -502,12 +502,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 772460.99
+          "value": 829453.11
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -515,7 +515,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 824249.02
+          "value": 888549.02
         }
       ],
       "sources": [
@@ -532,7 +532,7 @@
       ],
       "text": "Estructuras de h A°-BASES centricas, con encofrado. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.077Z",
+      "updatedAt": "2026-11-06T14:19:15.384Z",
       "verification": {
         "findings": [
           "duplicate_candidate-49bcd307e10d8024"
@@ -592,8 +592,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -601,12 +601,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 487739.15
+          "value": 511573.09
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -614,12 +614,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 506868.89
+          "value": 533389.23
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -627,12 +627,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 618634.99
+          "value": 660883.36
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -640,7 +640,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 657168.52
+          "value": 704854.41
         }
       ],
       "sources": [
@@ -657,7 +657,7 @@
       ],
       "text": "Estructuras de h A°-BASES centricas, sin encofrado. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.077Z",
+      "updatedAt": "2026-11-06T14:19:15.386Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -745,8 +745,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -754,12 +754,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1382740.73
+          "value": 1471398.71
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -767,12 +767,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1453892.92
+          "value": 1552542.76
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -780,12 +780,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1869385.04
+          "value": 2026503.87
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -793,7 +793,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 2012986.35
+          "value": 2190368.95
         }
       ],
       "sources": [
@@ -810,7 +810,7 @@
       ],
       "text": "Estructuras de H° A°-COLUMNAS 25x25. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.077Z",
+      "updatedAt": "2026-11-06T14:19:15.388Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -898,8 +898,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -907,12 +907,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1208075.28
+          "value": 1275759.83
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -920,12 +920,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1262408.92
+          "value": 1337723.6
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -933,12 +933,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1580109.82
+          "value": 1700132.46
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -946,7 +946,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1689228.62
+          "value": 1824649.19
         }
       ],
       "sources": [
@@ -963,7 +963,7 @@
       ],
       "text": "Estructuras de H° A°-COLUMNAS 30x30. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.077Z",
+      "updatedAt": "2026-11-06T14:19:15.390Z",
       "verification": {
         "findings": [
           "duplicate_candidate-a4991f4e0fe08916"
@@ -1053,8 +1053,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1062,12 +1062,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1118654.63
+          "value": 1175633.33
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1075,12 +1075,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1164406.6
+          "value": 1227810.38
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1088,12 +1088,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1432312.25
+          "value": 1533416.97
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1101,7 +1101,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1523704.65
+          "value": 1637705.93
         }
       ],
       "sources": [
@@ -1118,7 +1118,7 @@
       ],
       "text": "Estructuras de H° A°-COLUMNAS 40x40. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.077Z",
+      "updatedAt": "2026-11-06T14:19:15.393Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1194,8 +1194,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1203,12 +1203,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 549584.88
+          "value": 573700.9
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1216,12 +1216,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 569004.03
+          "value": 595847.53
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1229,12 +1229,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 684406.13
+          "value": 727491.03
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1242,7 +1242,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 721029.69
+          "value": 769282.73
         }
       ],
       "sources": [
@@ -1259,7 +1259,7 @@
       ],
       "text": "Estructuras de h A°-PLATEAS. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.078Z",
+      "updatedAt": "2026-11-06T14:19:15.399Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1335,8 +1335,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1344,12 +1344,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 92894.89
+          "value": 97705.04
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1357,12 +1357,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 96768.27
+          "value": 102122.45
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1370,12 +1370,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 119788.53
+          "value": 128382.52
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1383,7 +1383,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 127091.08
+          "value": 136715.58
         }
       ],
       "sources": [
@@ -1400,7 +1400,7 @@
       ],
       "text": "Estructuras de h A°-PLATEAS, espesor 20 cm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.078Z",
+      "updatedAt": "2026-11-06T14:19:15.397Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1488,8 +1488,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1497,12 +1497,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 915997.01
+          "value": 955626.49
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1510,12 +1510,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 947801.9
+          "value": 991897.72
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1523,12 +1523,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1133537.57
+          "value": 1203770.55
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1536,7 +1536,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1197712.34
+          "value": 1277001.1
         }
       ],
       "sources": [
@@ -1553,7 +1553,7 @@
       ],
       "text": "Estructuras de H° A°-TABIQUE de baranda, alto 1 m-espesor 7 cm. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.078Z",
+      "updatedAt": "2026-11-06T14:19:15.402Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1641,8 +1641,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1650,12 +1650,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 838042.52
+          "value": 877672.01
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1663,12 +1663,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 869847.42
+          "value": 913943.24
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1676,12 +1676,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1055583.09
+          "value": 1125816.07
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1689,7 +1689,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1119757.85
+          "value": 1199046.62
         }
       ],
       "sources": [
@@ -1706,7 +1706,7 @@
       ],
       "text": "Estructuras de H° A°-TABIQUE, espesor 12 cm-encofrado un solo lado. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.078Z",
+      "updatedAt": "2026-11-06T14:19:15.404Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1782,8 +1782,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1791,12 +1791,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1669941.92
+          "value": 1788081.47
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1804,12 +1804,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1764924.67
+          "value": 1896403.78
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1817,12 +1817,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 2324830.82
+          "value": 2535105.81
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1830,7 +1830,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 2509791.61
+          "value": 2746167.04
         }
       ],
       "sources": [
@@ -1847,7 +1847,7 @@
       ],
       "text": "Estructuras de H° A°-TENSORES. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.078Z",
+      "updatedAt": "2026-11-06T14:19:15.406Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1935,8 +1935,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1944,12 +1944,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1172836.39
+          "value": 1231958.6
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1957,12 +1957,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1220390.03
+          "value": 1286190.9
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1970,12 +1970,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1501329.73
+          "value": 1606667.94
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1983,7 +1983,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1593137.26
+          "value": 1711430.78
         }
       ],
       "sources": [
@@ -2000,7 +2000,7 @@
       ],
       "text": "Estructuras de H° A°-VIGAS 20x50. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.078Z",
+      "updatedAt": "2026-11-06T14:19:15.408Z",
       "verification": {
         "findings": [
           "duplicate_candidate-701bb6792579c1da"
@@ -2090,8 +2090,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2099,12 +2099,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1063289.18
+          "value": 1110158.86
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2112,12 +2112,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1101025.71
+          "value": 1153195.56
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2125,12 +2125,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1325136.24
+          "value": 1408846.74
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2138,7 +2138,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1396492.8
+          "value": 1490272.79
         }
       ],
       "sources": [
@@ -2155,7 +2155,7 @@
       ],
       "text": "Estructuras de H° A°-VIGAS 30x90. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.078Z",
+      "updatedAt": "2026-11-06T14:19:15.412Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2231,8 +2231,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2240,12 +2240,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 988117.55
+          "value": 1041449.08
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2253,12 +2253,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1030990.68
+          "value": 1090343.36
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2266,12 +2266,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1283573
+          "value": 1378471.6
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2279,7 +2279,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1367248.68
+          "value": 1473955.03
         }
       ],
       "sources": [
@@ -2296,7 +2296,7 @@
       ],
       "text": "Estructuras de H° A°-VIGAS de fundación. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.078Z",
+      "updatedAt": "2026-11-06T14:19:15.419Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2372,8 +2372,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2381,12 +2381,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 721105.72
+          "value": 756073.93
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2394,12 +2394,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 749249.6
+          "value": 788170.59
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2407,12 +2407,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 916073.11
+          "value": 978472.07
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2420,7 +2420,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 969698.27
+          "value": 1039664.53
         }
       ],
       "sources": [
@@ -2437,7 +2437,7 @@
       ],
       "text": "Estructuras H° A°-BASES-DADOS para asiento maquinas. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.078Z",
+      "updatedAt": "2026-11-06T14:19:15.421Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2531,8 +2531,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2540,12 +2540,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1276844.87
+          "value": 1353472.69
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2553,12 +2553,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1338265.53
+          "value": 1423518.07
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2566,12 +2566,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1694560.59
+          "value": 1829949.69
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2579,7 +2579,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1821558.84
+          "value": 1974868.66
         }
       ],
       "sources": [
@@ -2596,7 +2596,7 @@
       ],
       "text": "Estructuras H° A°-COLUMNA 30x30-a la vista. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.078Z",
+      "updatedAt": "2026-11-06T14:19:15.424Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2684,8 +2684,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2693,12 +2693,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 935983.92
+          "value": 989552.81
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2706,12 +2706,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 978945.21
+          "value": 1038546.91
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2719,12 +2719,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1228882.79
+          "value": 1323655.45
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2732,7 +2732,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1316785.77
+          "value": 1423962.48
         }
       ],
       "sources": [
@@ -2749,7 +2749,7 @@
       ],
       "text": "Estructuras H° A°-GRADERIA-ESCALONES 20x40, espesor de losa 12 cm. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.079Z",
+      "updatedAt": "2026-11-06T14:19:15.427Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2843,8 +2843,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2852,12 +2852,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 833781.93
+          "value": 873865.12
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2865,12 +2865,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 866221.73
+          "value": 910862.33
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2878,12 +2878,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1064025.91
+          "value": 1136509.32
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2891,7 +2891,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1118766.47
+          "value": 1198975
         }
       ],
       "sources": [
@@ -2908,7 +2908,7 @@
       ],
       "text": "Estructuras H° A°-LOSA maciza-a la vista, espesor 10 cm. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.079Z",
+      "updatedAt": "2026-11-06T14:19:15.429Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2996,8 +2996,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3005,12 +3005,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 789560.69
+          "value": 825236.66
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3018,12 +3018,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 818473.21
+          "value": 858211.32
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3031,12 +3031,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 995979.72
+          "value": 1060704.59
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3044,7 +3044,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1043217.14
+          "value": 1114608.36
         }
       ],
       "sources": [
@@ -3061,7 +3061,7 @@
       ],
       "text": "Estructuras H° A°-LOSA maciza, espesor 10 cm. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.079Z",
+      "updatedAt": "2026-11-06T14:19:15.432Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -3155,8 +3155,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3164,12 +3164,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1141699.82
+          "value": 1216213.24
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3177,12 +3177,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1201336.35
+          "value": 1284223.33
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3190,12 +3190,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1544520.09
+          "value": 1675696.21
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3203,7 +3203,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1671368.92
+          "value": 1820444.48
         }
       ],
       "sources": [
@@ -3220,7 +3220,7 @@
       ],
       "text": "Estructuras H° A°-TABIQUE a la vista ambos lados, espesor 12 cm. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.079Z",
+      "updatedAt": "2026-11-06T14:19:15.435Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -3308,8 +3308,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3317,12 +3317,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1045964.11
+          "value": 1108626.93
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3330,12 +3330,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1096219.41
+          "value": 1165939.3
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3343,12 +3343,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1388617.51
+          "value": 1499483.39
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3356,7 +3356,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1491411.52
+          "value": 1616782.72
         }
       ],
       "sources": [
@@ -3373,7 +3373,7 @@
       ],
       "text": "Estructuras H° A°-TABIQUE, espesor 12 cm-encofrado ambos lados. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.079Z",
+      "updatedAt": "2026-11-06T14:19:15.437Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -3461,8 +3461,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3470,12 +3470,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1628614.89
+          "value": 1745788.83
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3483,12 +3483,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1722283.07
+          "value": 1852608.16
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3496,12 +3496,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 2257851.18
+          "value": 2463532.6
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3509,7 +3509,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 2461512.74
+          "value": 2695932.28
         }
       ],
       "sources": [
@@ -3526,7 +3526,7 @@
       ],
       "text": "Estructuras H° A°-TANQUE circular, espesor de pared 10 cm. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.079Z",
+      "updatedAt": "2026-11-06T14:19:15.440Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -3602,8 +3602,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3611,12 +3611,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1137049.58
+          "value": 1229970.47
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3624,12 +3624,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1211416.15
+          "value": 1314778.83
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3637,12 +3637,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1639293.45
+          "value": 1802862.37
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3650,7 +3650,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1797565.44
+          "value": 1983467.87
         }
       ],
       "sources": [
@@ -3667,7 +3667,7 @@
       ],
       "text": "Estructuras H° A°-TANQUE rectangular, espesor de pared 12 cm. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.079Z",
+      "updatedAt": "2026-11-06T14:19:15.442Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -3761,8 +3761,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3770,12 +3770,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1238093.12
+          "value": 1305437.27
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3783,12 +3783,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1292169.99
+          "value": 1367108.33
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3796,12 +3796,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1608878.39
+          "value": 1728385.47
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3809,7 +3809,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1716829.33
+          "value": 1851569.58
         }
       ],
       "sources": [
@@ -3826,7 +3826,7 @@
       ],
       "text": "Estructuras H° A°-VIGA 20x50-a la vista. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.079Z",
+      "updatedAt": "2026-11-06T14:19:15.448Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -3878,8 +3878,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3887,12 +3887,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 214487.18
+          "value": 220123.46
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3900,12 +3900,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 219097.24
+          "value": 225381.52
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3913,12 +3913,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 248694.04
+          "value": 259145.6
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3926,7 +3926,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 254568.03
+          "value": 265848.67
         }
       ],
       "sources": [
@@ -3943,7 +3943,7 @@
       ],
       "text": "Hormigón elaborado en obra-tipo h-21, en hormigonera de 350 lts. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.082Z",
+      "updatedAt": "2026-11-06T14:19:15.544Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -3989,8 +3989,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -3998,12 +3998,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 218086.39
+          "value": 222151.4
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -4011,12 +4011,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 221381.64
+          "value": 225909.63
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -4024,12 +4024,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 241639.66
+          "value": 249019.29
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -4037,7 +4037,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 246988.77
+          "value": 255123.31
         }
       ],
       "sources": [
@@ -4054,7 +4054,7 @@
       ],
       "text": "Hormigón elaborado puesto sobre encofrado, traslado y llenado, traslado manual con carros. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-10-07T11:53:31.082Z",
+      "updatedAt": "2026-11-06T14:19:15.547Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -4062,5 +4062,5 @@
       }
     }
   ],
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

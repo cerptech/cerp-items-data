@@ -132,8 +132,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -141,12 +141,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22476.89
+          "value": 23993.56
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -154,12 +154,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23697.47
+          "value": 25385.58
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -167,12 +167,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 30929.52
+          "value": 33635.43
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -180,7 +180,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33259.08
+          "value": 36293.72
         }
       ],
       "sources": [
@@ -197,7 +197,7 @@
       ],
       "text": "Contrapiso de cascotes de 12 cm con cal, 16,5 kg de cemento por m2. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.061Z",
+      "updatedAt": "2026-11-06T14:19:15.113Z",
       "verification": {
         "findings": [
           "duplicate_candidate-07698a20a11083c5",
@@ -265,8 +265,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -274,12 +274,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 20146.33
+          "value": 21663.01
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -287,12 +287,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 21366.92
+          "value": 23055.02
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -300,12 +300,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28598.97
+          "value": 31304.88
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -313,7 +313,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 30928.52
+          "value": 33963.17
         }
       ],
       "sources": [
@@ -330,7 +330,7 @@
       ],
       "text": "Contrapiso de cascotes de 12 cm con cal, 5,6 kg de cemento por m2. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.061Z",
+      "updatedAt": "2026-11-06T14:19:15.125Z",
       "verification": {
         "findings": [
           "duplicate_candidate-0b11e317f929c834",
@@ -397,8 +397,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -406,12 +406,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28175.79
+          "value": 30076.05
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -419,12 +419,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29704.99
+          "value": 31820.02
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -432,12 +432,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 38762.98
+          "value": 42152.78
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -445,7 +445,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 41684.86
+          "value": 45486.99
         }
       ],
       "sources": [
@@ -462,7 +462,7 @@
       ],
       "text": "Contrapiso de cascotes de 15 cm con cal, 20,6 kg de cemento por m2. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.061Z",
+      "updatedAt": "2026-11-06T14:19:15.128Z",
       "verification": {
         "findings": [
           "duplicate_candidate-ca10fe8ac568313f"
@@ -528,8 +528,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -537,12 +537,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24599.95
+          "value": 26500.2
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -550,12 +550,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26129.15
+          "value": 28244.17
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -563,12 +563,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 35187.13
+          "value": 38576.93
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -576,7 +576,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 38109.02
+          "value": 41911.14
         }
       ],
       "sources": [
@@ -593,7 +593,7 @@
       ],
       "text": "Contrapiso de cascotes de 15 cm con cal, 7,5 kg de cemento por m2. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.061Z",
+      "updatedAt": "2026-11-06T14:19:15.132Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -851,8 +851,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -860,12 +860,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24443.21
+          "value": 26761.43
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -873,12 +873,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26311.42
+          "value": 28892.05
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -886,12 +886,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 37459.59
+          "value": 41609.22
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -899,7 +899,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 40924.05
+          "value": 45562.58
         }
       ],
       "sources": [
@@ -916,7 +916,7 @@
       ],
       "text": "Contrapiso de hormigón de cascotes en azotea-con pend, espesor 0,10m. elevación por medios mecánicos. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.063Z",
+      "updatedAt": "2026-11-06T14:19:15.153Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -980,8 +980,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -989,12 +989,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33548.1
+          "value": 36025.05
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1002,12 +1002,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 35541.02
+          "value": 38297.86
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1015,12 +1015,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 47334.39
+          "value": 51750.96
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1028,7 +1028,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 51156.86
+          "value": 56112.83
         }
       ],
       "sources": [
@@ -1045,7 +1045,7 @@
       ],
       "text": "Contrapiso de hormigón de cascotes-pobre, espesor 0,20m-incluye nivelación de superficie. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.063Z",
+      "updatedAt": "2026-11-06T14:19:15.157Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1109,8 +1109,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1118,12 +1118,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28958.69
+          "value": 31032.66
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1131,12 +1131,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 30624.84
+          "value": 32932.8
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1144,12 +1144,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 40406.76
+          "value": 44091.3
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1157,7 +1157,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 43702.26
+          "value": 47851.84
         }
       ],
       "sources": [
@@ -1174,7 +1174,7 @@
       ],
       "text": "Contrapiso de hormigón de cascotes- sobre losa baja-baño, espesor 0,18m-elevacion por medios mecanicos. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.063Z",
+      "updatedAt": "2026-11-06T14:19:15.162Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1238,8 +1238,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1247,12 +1247,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 13767.05
+          "value": 15016.55
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1260,12 +1260,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 14768.53
+          "value": 16158.66
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1273,12 +1273,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 20576.69
+          "value": 22784.12
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1286,7 +1286,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22649.2
+          "value": 25149.08
         }
       ],
       "sources": [
@@ -1303,7 +1303,7 @@
       ],
       "text": "Contrapiso de hormigón de cascotes sobre losa-en general, espesor 0,06m-elevación por medios mecanicos. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.063Z",
+      "updatedAt": "2026-11-06T14:19:15.166Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1367,8 +1367,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1376,12 +1376,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23189.76
+          "value": 25331.62
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1389,12 +1389,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24919.42
+          "value": 27304.25
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1402,12 +1402,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 35350.69
+          "value": 39203.71
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1415,7 +1415,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 38417.38
+          "value": 42703.17
         }
       ],
       "sources": [
@@ -1432,7 +1432,7 @@
       ],
       "text": "Contrapiso de hormigón de cascotes- sobre losa, espesor 0,10m-elevacion por medios mecanicos. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.064Z",
+      "updatedAt": "2026-11-06T14:19:15.168Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1496,8 +1496,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1505,12 +1505,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32103.7
+          "value": 33435.19
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1518,12 +1518,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33183.65
+          "value": 34666.87
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1531,12 +1531,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 39840.73
+          "value": 42261.06
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1544,7 +1544,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 41570.73
+          "value": 44235.21
         }
       ],
       "sources": [
@@ -1561,7 +1561,7 @@
       ],
       "text": "Contrapiso de hormigón pobre-con cemento albañilería, espesor 15 cm-para recibir hormigón elab.armado. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.064Z",
+      "updatedAt": "2026-11-06T14:19:15.172Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1619,8 +1619,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1628,12 +1628,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26237.93
+          "value": 27754.61
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1641,12 +1641,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27458.52
+          "value": 29146.63
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1654,12 +1654,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 34690.57
+          "value": 37396.48
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1667,7 +1667,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 37020.12
+          "value": 40054.77
         }
       ],
       "sources": [
@@ -1684,7 +1684,7 @@
       ],
       "text": "Contrapiso de hormigón simple, espesor 0,10 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.064Z",
+      "updatedAt": "2026-11-06T14:19:15.175Z",
       "verification": {
         "findings": [
           "duplicate_candidate-cd1dba21e76b3a22"
@@ -1744,8 +1744,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1753,12 +1753,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 50727.95
+          "value": 53523.22
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1766,12 +1766,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 52977.23
+          "value": 56088.41
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1779,12 +1779,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 66295.74
+          "value": 71281.29
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1792,7 +1792,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 70599.73
+          "value": 76192.64
         }
       ],
       "sources": [
@@ -1809,7 +1809,7 @@
       ],
       "text": "Contrapiso de hormigón simple, espesor 0,20 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.064Z",
+      "updatedAt": "2026-11-06T14:19:15.179Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1867,8 +1867,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1876,12 +1876,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26758.14
+          "value": 28007.64
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1889,12 +1889,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27759.63
+          "value": 29149.76
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1902,12 +1902,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33567.79
+          "value": 35775.22
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1915,7 +1915,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 35640.29
+          "value": 38140.18
         }
       ],
       "sources": [
@@ -1932,7 +1932,7 @@
       ],
       "text": "Contrapiso de perlita exp. sobre losa, espesor 0,06m-elevacion por medios mecanicos. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.065Z",
+      "updatedAt": "2026-11-06T14:19:15.182Z",
       "verification": {
         "findings": [
           "duplicate_candidate-189bb1683b8564b2",
@@ -1993,8 +1993,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2002,12 +2002,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26648.93
+          "value": 27689.45
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2015,12 +2015,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27485.75
+          "value": 28643.79
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2028,12 +2028,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32426.6
+          "value": 34279.97
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2041,7 +2041,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 34045.93
+          "value": 36127.82
         }
       ],
       "sources": [
@@ -2058,7 +2058,7 @@
       ],
       "text": "Contrapiso de perlita exp. sobre losa, espesor 0,08m-elevación por medios mecanicos. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.065Z",
+      "updatedAt": "2026-11-06T14:19:15.187Z",
       "verification": {
         "findings": [
           "duplicate_candidate-0776ae2ab8e2f27e"
@@ -2118,8 +2118,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2127,12 +2127,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 45119.17
+          "value": 47425.05
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2140,12 +2140,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 46976.72
+          "value": 49543.5
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2153,12 +2153,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 58039.14
+          "value": 62162.84
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2166,7 +2166,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 61512.14
+          "value": 66125.93
         }
       ],
       "sources": [
@@ -2183,7 +2183,7 @@
       ],
       "text": "Contrapiso de perlitas de poliestireno exp. sobre losa, espesor 0,10m. elevación por medios mecanicos. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.065Z",
+      "updatedAt": "2026-11-06T14:19:15.191Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2241,8 +2241,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2250,12 +2250,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24554.76
+          "value": 26106.7
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2263,12 +2263,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25812.73
+          "value": 27541.41
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2276,12 +2276,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33543.73
+          "value": 36360.67
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2289,7 +2289,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 35589.07
+          "value": 38694.65
         }
       ],
       "sources": [
@@ -2306,7 +2306,7 @@
       ],
       "text": "Contrapiso de suelo cemento, espesor 15 cm-mezclado a mano-. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.065Z",
+      "updatedAt": "2026-11-06T14:19:15.196Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2364,8 +2364,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2373,12 +2373,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 96731.62
+          "value": 97981.12
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2386,12 +2386,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 97733.11
+          "value": 99123.24
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2399,12 +2399,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 103541.27
+          "value": 105748.7
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2412,7 +2412,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 105613.77
+          "value": 108113.66
         }
       ],
       "sources": [
@@ -2429,7 +2429,7 @@
       ],
       "text": "Contrapiso de vermiculita exp. sobre losa, espesor 0,06m-elevacion por medios mecanicos. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.065Z",
+      "updatedAt": "2026-11-06T14:19:15.198Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2493,8 +2493,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2502,12 +2502,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 39719.58
+          "value": 41752.12
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2515,12 +2515,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 41347.86
+          "value": 43609.03
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2528,12 +2528,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 50765.74
+          "value": 54352.13
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2541,7 +2541,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 54167.84
+          "value": 58234.31
         }
       ],
       "sources": [
@@ -2558,7 +2558,7 @@
       ],
       "text": "Contrapiso hormigón cascote armado con malla, espesor 0,12 m.malla ø 6mm-15 x 15. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.066Z",
+      "updatedAt": "2026-11-06T14:19:15.200Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2616,8 +2616,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2625,12 +2625,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 167381.64
+          "value": 168836.59
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2638,12 +2638,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 168548.89
+          "value": 170167.76
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2651,12 +2651,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 175352.24
+          "value": 177928.49
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -2664,7 +2664,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 177724.46
+          "value": 180635.45
         }
       ],
       "sources": [
@@ -2681,7 +2681,7 @@
       ],
       "text": "Contrapiso hormigón de vermiculita sobre losa, espesor 0,10 m. como aislación acústica. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.066Z",
+      "updatedAt": "2026-11-06T14:19:15.212Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2689,5 +2689,5 @@
       }
     }
   ],
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

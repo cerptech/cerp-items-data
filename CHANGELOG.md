@@ -16,6 +16,41 @@ Formato: [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/).
 
 ## [Unreleased]
 
+## [0.7.0] - 2026-11-06
+
+### Añadido
+
+- **Argentina — mano de obra**: escala salarial UOCRA (CCT 76/75) del tramo de
+  noviembre de 2026 (acuerdo UOCRA–CAMARCO–FAEC del 21/09/2026, +1,9% sep,
+  +1,8% oct, +1,7% nov), 20 valores nuevos (5 categorías × 4 zonas) en los
+  ítems `mo-ar-*`. Transcripción por cruce de fuentes secundarias, pendiente de
+  cotejo contra el Boletín Oficial (`cross-check-secundario`).
+- **Argentina — índices**: series internas del Indicador CAMARCO del costo de
+  la construcción (general, materiales y mano de obra, ene-2025 a sep-2026)
+  para contraste y actualización. No se redistribuyen en el bundle público
+  (fuente `on-request` sin licencia de reutilización).
+
+### Añadido (precios indexados)
+
+- Nuevo tipo de precio **`indexed`**: precio relevado actualizado por una serie
+  de índices, con su derivación completa (serie, meses, factor y precio base).
+  Lo escribe el paso `index-prices` solo en hojas de entrada; las partidas se
+  recalculan desde sus insumos. Semántica de reemplazo: a lo sumo uno por
+  ítem/zona/serie, siempre re-derivable. Dos reglas nuevas de la aduana lo
+  custodian (`indexed_integrity`, `indexed_basis_too_old`). Los valores crudos
+  de la serie nunca se redistribuyen; con la política legal vigente de CAMARCO
+  los precios indexados tampoco salen aún al bundle público.
+
+### Cambiado
+
+- **Argentina — cargas sociales**: coeficiente de costo empresa actualizado de
+  2,1548 (feb-2020) a **2,1350** (Trabajo Nº 185 de CAMARCO, vigencia
+  01/07/2026). El costo empresa por hora de los ítems `mo-ar-*` se recalculó
+  con el coeficiente nuevo sobre el jornal de noviembre de 2026.
+- **Argentina — partidas**: 317 partidas recalculadas desde su descomposición
+  con la mano de obra actualizada (los materiales conservan su último
+  relevamiento; su actualización por índice CAC está en decisión).
+
 ## [0.6.1] - 2026-10-07
 
 ### Corregido

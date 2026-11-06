@@ -63,8 +63,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -72,12 +72,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32737.04
+          "value": 34423.05
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -85,12 +85,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 34079.03
+          "value": 35953.41
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -98,12 +98,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 41572.63
+          "value": 44501.23
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -111,7 +111,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 44720.58
+          "value": 48093.36
         }
       ],
       "sources": [
@@ -137,7 +137,7 @@
       ],
       "text": "Boca de iluminación embutida completa, con caño corrugado semipesado, cajas, conductores unipolares desde el tablero seccional, llave de un punto con bastidor y tapa, incluidos canaleteado, amure y ensayo. Medida por unidad ejecutada. La boca es la unidad atómica del presupuesto eléctrico argentino: según la definición de la AEA 90364-7-770, es el punto de un circuito terminal donde se conecta el aparato utilizador. La partida es \"llave en mano\" por punto e incluye el prorrateo de cañería, cajas y conductores desde el tablero, más el mecanismo. NO incluye el artefacto de iluminación, que se computa aparte. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimientos adaptados de BCCA wi-punto-de-luz-conmutado-empotrado: rendimiento de mano de obra adaptado del punto de luz conmutado empotrado de la BCCA 2024-01 (0,65 h de oficial 1ª electricista + 0,36 h de cuadrilla de albañilería), reasignado a las categorías del CCT 76/75",
       "unit": "u",
-      "updatedAt": "2026-10-06T23:05:18.442Z",
+      "updatedAt": "2026-11-06T14:19:14.844Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -196,8 +196,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -205,12 +205,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 64007.03
+          "value": 65929.35
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -218,12 +218,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 65536.61
+          "value": 67673.65
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -231,12 +231,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 74061.97
+          "value": 77398.36
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -244,7 +244,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 77670.19
+          "value": 81515.7
         }
       ],
       "sources": [
@@ -270,7 +270,7 @@
       ],
       "text": "Boca de tomacorriente de uso especial (TUE) embutida para aire acondicionado o termotanque, con caño corrugado semipesado, cajas, conductores unipolares de 4 mm2 desde el tablero seccional, tomacorriente con toma de tierra, bastidor y tapa, incluidos canaleteado, amure y ensayo. Medida por unidad ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimientos adaptados de BCCA wi-punto-de-luz-conmutado-empotrado: rendimiento de mano de obra adaptado del punto de luz conmutado empotrado de la BCCA 2024-01, con incremento por mayor sección de conductor",
       "unit": "u",
-      "updatedAt": "2026-10-06T23:05:18.443Z",
+      "updatedAt": "2026-11-06T14:19:14.846Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -329,8 +329,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -338,12 +338,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 45094.28
+          "value": 46780.29
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -351,12 +351,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 46436.27
+          "value": 48310.65
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -364,12 +364,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 53929.87
+          "value": 56858.47
         },
         {
           "currency": "ARS",
-          "date": "2026-08",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -377,7 +377,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 57077.82
+          "value": 60450.6
         }
       ],
       "sources": [
@@ -403,7 +403,7 @@
       ],
       "text": "Boca de tomacorriente doble de uso general (TUG) embutida, con caño corrugado semipesado, cajas, conductores unipolares de 2,5 mm2 desde el tablero seccional, tomacorriente doble con toma de tierra, bastidor y tapa, incluidos canaleteado, amure y ensayo. Medida por unidad ejecutada. Máximo 15 bocas por circuito según AEA 90364-7-770. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimientos adaptados de BCCA wi-punto-de-luz-conmutado-empotrado: rendimiento de mano de obra adaptado del punto de luz conmutado empotrado de la BCCA 2024-01, reasignado a las categorías del CCT 76/75",
       "unit": "u",
-      "updatedAt": "2026-10-06T23:05:18.444Z",
+      "updatedAt": "2026-11-06T14:19:14.849Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -411,5 +411,5 @@
       }
     }
   ],
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

@@ -2,24 +2,24 @@
   "key": "movimiento-de-suelos--excavaciones",
   "rows": [
     {
-      "d": "2026-07",
+      "d": "2026-11",
       "g": [],
       "id": "wi-ar-excavacion-de-bases-y-cabezales",
       "m": 2,
-      "p": 34812.6,
+      "p": 39707.33,
       "s": "Excavación de bases y cabezales",
       "u": "m3"
     },
     {
-      "d": "2026-07",
+      "d": "2026-11",
       "g": [],
       "id": "wi-ar-excavacion-de-vigas-de-fundacion-y-tensores",
       "m": 2,
-      "p": 51270.99,
+      "p": 58479.47,
       "s": "Excavación de vigas de fundación y tensores",
       "u": "m3"
     }
   ],
   "title": "Movimiento de suelos > Excavaciones",
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

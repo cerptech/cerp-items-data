@@ -56,8 +56,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -65,12 +65,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23183.49
+          "value": 24188.75
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -78,12 +78,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23982.92
+          "value": 25100.39
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -91,12 +91,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28424.83
+          "value": 30167.17
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -104,7 +104,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 30328.38
+          "value": 32339.32
         }
       ],
       "sources": [
@@ -121,7 +121,7 @@
       ],
       "text": "Colocación de guardas cerámicas, sobre revoque grueso existente. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-10-07T11:53:31.058Z",
+      "updatedAt": "2026-11-06T14:19:15.055Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -161,8 +161,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -170,12 +170,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 59827.31
+          "value": 66881.83
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -183,12 +183,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 65369.47
+          "value": 73201.43
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -196,12 +196,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 94045.55
+          "value": 105909.63
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -209,7 +209,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 109956.59
+          "value": 124065.63
         }
       ],
       "sources": [
@@ -226,7 +226,7 @@
       ],
       "text": "Revestimiento con madera sobre escalera de hormigón, ancho 0,90 m,zócalo rampante,tramos rectos. Análisis de precio unitario. Medida por u. Precio computado desde la descomposición.",
       "unit": "u",
-      "updatedAt": "2026-10-07T11:53:31.092Z",
+      "updatedAt": "2026-11-06T14:19:15.746Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -284,8 +284,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -293,12 +293,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 57285.23
+          "value": 60093.76
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -306,12 +306,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 59523.14
+          "value": 62645.83
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -319,12 +319,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 72095.39
+          "value": 76986.84
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -332,7 +332,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 77247.71
+          "value": 82866.17
         }
       ],
       "sources": [
@@ -349,7 +349,7 @@
       ],
       "text": "Revestimiento de azulejos 15x15 colocados con adhesivo. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.092Z",
+      "updatedAt": "2026-11-06T14:19:15.749Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -419,8 +419,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -428,12 +428,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 59361.34
+          "value": 62790.66
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -441,12 +441,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 62092.77
+          "value": 65905.52
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -454,12 +454,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 77401.85
+          "value": 83368.36
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -467,7 +467,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 83736.08
+          "value": 90596.38
         }
       ],
       "sources": [
@@ -484,7 +484,7 @@
       ],
       "text": "Revestimiento de azulejos 15x15 colocados con mezcla de cal. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.093Z",
+      "updatedAt": "2026-11-06T14:19:15.755Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -542,8 +542,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -551,12 +551,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 66152.83
+          "value": 69564.52
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -564,12 +564,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 68870.41
+          "value": 72663.57
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -577,12 +577,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 84107.8
+          "value": 90044.65
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -590,7 +590,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 90402.25
+          "value": 97227.27
         }
       ],
       "sources": [
@@ -607,7 +607,7 @@
       ],
       "text": "Revestimiento de azulejos 15x15-decorados-no ortogonal, con junta cerrada, colocados con adhesivo. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.093Z",
+      "updatedAt": "2026-11-06T14:19:15.757Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -683,8 +683,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -692,12 +692,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 59416.19
+          "value": 66430.87
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -705,12 +705,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 65031.18
+          "value": 72834.26
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -718,12 +718,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 97368.27
+          "value": 109721.51
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -731,7 +731,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 109279.25
+          "value": 123313.23
         }
       ],
       "sources": [
@@ -748,7 +748,7 @@
       ],
       "text": "Revestimiento de cerámicos sobre escalera de hormigón, con nariz de madera, zócalo cerámico. Análisis de precio unitario. Medida por u. Precio computado desde la descomposición.",
       "unit": "u",
-      "updatedAt": "2026-10-07T11:53:31.093Z",
+      "updatedAt": "2026-11-06T14:19:15.760Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -818,8 +818,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -827,12 +827,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 163002.25
+          "value": 178963.7
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -840,12 +840,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 175722.5
+          "value": 193469.62
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -853,12 +853,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 247236.99
+          "value": 275045.36
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -866,7 +866,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 276453.34
+          "value": 308384.26
         }
       ],
       "sources": [
@@ -883,7 +883,7 @@
       ],
       "text": "Revestimiento de escalones con ladrillos de máquina, sobre terreno natural con base H° pobre. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.093Z",
+      "updatedAt": "2026-11-06T14:19:15.763Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -947,8 +947,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -956,12 +956,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 21224.09
+          "value": 21876.62
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -969,12 +969,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 21746.41
+          "value": 22472.28
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -982,12 +982,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24754.52
+          "value": 25903.65
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -995,7 +995,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25862.51
+          "value": 27168
         }
       ],
       "sources": [
@@ -1012,7 +1012,7 @@
       ],
       "text": "Revestimiento de madera machihembrada. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.093Z",
+      "updatedAt": "2026-11-06T14:19:15.773Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1070,8 +1070,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1079,12 +1079,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 49868.99
+          "value": 51526.77
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1092,12 +1092,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 51190.75
+          "value": 53034.08
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1105,12 +1105,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 58640.75
+          "value": 61532.23
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1118,7 +1118,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 61652.3
+          "value": 64968.73
         }
       ],
       "sources": [
@@ -1135,7 +1135,7 @@
       ],
       "text": "Revestimiento de piedra natural, espesor 1,2 cm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.094Z",
+      "updatedAt": "2026-11-06T14:19:15.778Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1199,8 +1199,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1208,12 +1208,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 56822.88
+          "value": 60971.77
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1221,12 +1221,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 60113.8
+          "value": 64724.56
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1234,12 +1234,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 78134.51
+          "value": 85280.13
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -1247,7 +1247,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 86309.92
+          "value": 94609.1
         }
       ],
       "sources": [
@@ -1264,7 +1264,7 @@
       ],
       "text": "Revestimiento de tejuelas imitacion ladrillo comun, con tomado de juntas al concreto. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.094Z",
+      "updatedAt": "2026-11-06T14:19:15.788Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1272,5 +1272,5 @@
       }
     }
   ],
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

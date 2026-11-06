@@ -74,8 +74,8 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -83,12 +83,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 57554.06
+          "value": 58754.17
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -96,12 +96,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 58522.55
+          "value": 59858.71
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -109,12 +109,12 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 64343.32
+          "value": 66498.73
         },
         {
           "currency": "ARS",
-          "date": "2026-10",
-          "edition": "2026-10",
+          "date": "2026-11",
+          "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
             "country": "AR",
@@ -122,7 +122,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 66086.19
+          "value": 68487.54
         }
       ],
       "sources": [
@@ -139,7 +139,7 @@
       ],
       "text": "Pavimento de hormigón elaborado-armado, espesor 15 cm-sobre sub base existente. ejecutado con moldes rígidos y regla…. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-10-07T11:53:31.086Z",
+      "updatedAt": "2026-11-06T14:19:15.649Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -147,5 +147,5 @@
       }
     }
   ],
-  "version": "0.6.1"
+  "version": "0.7.0"
 }

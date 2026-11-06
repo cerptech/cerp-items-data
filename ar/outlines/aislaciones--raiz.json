@@ -2,24 +2,24 @@
   "key": "aislaciones--raiz",
   "rows": [
     {
-      "d": "2026-10",
+      "d": "2026-11",
       "g": [],
       "id": "wi-ar-capa-de-asfalto-en-caliente-de-10-kg-m2-sobre-superficie-sem",
       "m": 6,
-      "p": 48370.38,
+      "p": 50438.18,
       "s": "Capa de asfalto en caliente de 10 kg/m2 sobre superficie semialisada",
       "u": "m2"
     },
     {
-      "d": "2026-10",
+      "d": "2026-11",
       "g": [],
       "id": "wi-ar-capa-de-asfalto-en-caliente-de-26-kg-m2-sobre-superficie-sem",
       "m": 6,
-      "p": 94738.04,
+      "p": 96404.62,
       "s": "Capa de asfalto en caliente de 26 kg/m2 sobre superficie semialisada",
       "u": "m2"
     }
   ],
   "title": "Aislaciones",
-  "version": "0.6.1"
+  "version": "0.7.0"
 }
