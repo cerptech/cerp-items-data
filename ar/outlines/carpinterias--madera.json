@@ -2,11 +2,11 @@
   "key": "carpinterias--madera",
   "rows": [
     {
-      "d": "2026-08",
+      "d": "2026-11",
       "g": [],
       "id": "mt-ar-puerta-placa-de-70x200-cm-con-marco-de-chapa",
       "m": 0,
-      "p": 78512.4,
+      "p": 100332.67,
       "s": "Puerta placa de 70x200 cm con marco de chapa",
       "u": "u"
     },
@@ -14,12 +14,12 @@
       "d": "2026-11",
       "g": [],
       "id": "wi-ar-colocacion-de-puerta-placa-de-70x200-cm",
-      "m": 3,
-      "p": 165827.3,
+      "m": 5,
+      "p": 190213.99,
       "s": "Colocación de puerta placa de 70x200 cm",
       "u": "u"
     }
   ],
   "title": "Carpinterías > Madera",
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

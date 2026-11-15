@@ -48,7 +48,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 15753.63
+          "value": 18632.37
         },
         {
           "currency": "ARS",
@@ -61,7 +61,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16796.04
+          "value": 19674.78
         },
         {
           "currency": "ARS",
@@ -74,7 +74,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22800.94
+          "value": 25679.68
         },
         {
           "currency": "ARS",
@@ -87,7 +87,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25013.55
+          "value": 27892.29
         }
       ],
       "sources": [
@@ -113,7 +113,7 @@
       ],
       "text": "Cañería de desagüe cloacal de PVC de pared 3,2 mm y ø110 mm, con unión por junta deslizante, incluidos accesorios, grapas, amure y prueba hidráulica. Medida por metro lineal de cañería instalada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimientos adaptados de BCCA wi-bajante-de-pvc-reforzado-diam-110-mm: rendimiento de mano de obra adaptado de la partida equivalente de bajante de PVC reforzado de 110 mm de la BCCA 2024-01, reasignado a las categorías del CCT 76/75",
       "unit": "m",
-      "updatedAt": "2026-11-06T14:19:14.871Z",
+      "updatedAt": "2026-11-14T22:02:33.391Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -177,5 +177,5 @@
       }
     }
   ],
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

@@ -372,7 +372,7 @@
         },
         {
           "factor": 1,
-          "quantity": 0.33,
+          "quantity": 0.72,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         }
@@ -399,7 +399,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32730.55
+          "value": 37473.32
         },
         {
           "currency": "ARS",
@@ -412,7 +412,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 34267.89
+          "value": 39556.05
         },
         {
           "currency": "ARS",
@@ -425,7 +425,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 42840.81
+          "value": 51631.09
         },
         {
           "currency": "ARS",
@@ -438,7 +438,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 46467.08
+          "value": 55952.63
         }
       ],
       "sources": [
@@ -462,9 +462,9 @@
         "muro",
         "soga"
       ],
-      "text": "Muro de ladrillo común de tierra cocida 25x12x5 cm colocado de soga (espesor de pared 12 cm), tomado con mortero de cemento 1:6, junta de 1,5 cm. Sin revoques. Unidad = metro cuadrado de muro. Rendimientos adaptados de BCCA wi-citara-ladrillo-macizo-c-v: Mano de obra y mortero tomados sin cambios de la citara BCCA de ladrillo macizo (0,66 h oficial 1a + 0,33 h peon especial + 0,023 m3 de mortero M5 1:6), que es el mismo muro de medio pie con otra denominacion. Solo se recalculo el consumo de ladrillos por la medida argentina: modulo (25+1,5)x(5+1,5) = 0,017225 m2 -> 58,1 u/m2, mas 5% de roturas = 61 u/m2 (la BCCA computa 70 u/m2 para su ladrillo de 24x11,5x5 con junta de 1 cm)",
+      "text": "Muro de ladrillo común de tierra cocida 25x12x5 cm colocado de soga (espesor de pared 12 cm), tomado con mortero de cemento 1:6, junta de 1,5 cm. Sin revoques. Unidad = metro cuadrado de muro. Rendimiento de mano de obra: fuente, ítem \"Mamposterías — Ladrillos comunes\" de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán (FACET-UNT), de descarga libre, que asigna 5,50 h de oficial y 6,00 h de ayudante por metro cúbico de muro. DECISIÓN DE CURACIÓN (noviembre 2026): se pasó a metro cuadrado multiplicando por el espesor de 0,12 m del muro de soga: 0,66 h de oficial y 0,72 h de ayudante por m². Reemplaza a la mano de obra adaptada de la citara de la BCCA (0,66 h de oficial y 0,33 h de peón), que es un muro a cara vista con su propio rendimiento y dejaba al ayudante en la mitad; FACET-UNT publica el muro de ladrillo común argentino, que es el alcance exacto de esta partida. Se descartó el ítem 4.4 del Colegio de Arquitectos de Salta porque es un muro de 0,15 m. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes y usa sólo las categorías Oficial y Ayudante, sin medio oficial. Nivel de verificación cross-check-secundario, pendiente de contraste. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Rendimientos adaptados de BCCA wi-citara-ladrillo-macizo-c-v: Sólo el mortero se toma sin cambios de la citara BCCA de ladrillo macizo (0,023 m3 de mortero M5 1:6 por m2), que es el mismo muro de medio pie con otra denominación. Desde noviembre 2026 la mano de obra NO viene de la BCCA (era 0,66 h de oficial 1a + 0,33 h de peón especial): sale de FACET-UNT, como se declara en el texto. El consumo de ladrillos se recalculó por la medida argentina: módulo (25+1,5)x(5+1,5) = 0,017225 m2 -> 58,1 u/m2, más 5 % de roturas = 61 u/m2 (la BCCA computa 70 u/m2 para su ladrillo de 24x11,5x5 con junta de 1 cm)",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.613Z",
+      "updatedAt": "2026-11-14T22:02:33.438Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-07-22T00:58:53.003Z",
@@ -708,5 +708,5 @@
       }
     }
   ],
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

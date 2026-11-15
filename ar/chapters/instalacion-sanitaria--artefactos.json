@@ -9,6 +9,18 @@
       "bom": [
         {
           "factor": 1,
+          "quantity": 1.2,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.085,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
           "quantity": 1,
           "ref": "mt-ar-inodoro-de-loza-con-deposito-de-mochila",
           "role": "material"
@@ -27,15 +39,55 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
+          "date": "2026-11",
           "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
-            "country": "AR"
+            "country": "AR",
+            "zone": "A"
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 192519.83
+          "value": 210711.23
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 212725.98
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 223301.72
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 228900.05
         }
       ],
       "sources": [
@@ -44,6 +96,12 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "wi-inodoro-tanque-bajo-porcelana-vitrificada-blanco",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
         }
       ],
       "summary": "Colocación de inodoro con depósito de mochila",
@@ -52,9 +110,9 @@
         "artefacto",
         "loza"
       ],
-      "text": "Provisión y colocación de inodoro corto de loza con depósito de mochila, asiento y accesorios, incluidos conexión de agua y desagüe, amure y prueba de funcionamiento. Medida por unidad colocada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. No se localizó rendimiento de mano de obra en ninguna fuente pública argentina para esta partida: no se carga mano de obra hasta conseguirlo. Ningún organismo público argentino publica rendimientos (los pliegos fijan la forma de medición, pero el análisis de precio lo presenta el oferente).",
+      "text": "Provisión y colocación de inodoro corto de loza con depósito de mochila, asiento y accesorios, incluidos conexión de agua y desagüe, amure y prueba de funcionamiento. Medida por unidad colocada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra (noviembre 2026): adaptado de la partida \"Inodoro tanque bajo, porcelana vitrificada blanco\" de la Base de Costes de la Construcción de Andalucía (BCCA, edición 2024-01, datos abiertos de la Junta de Andalucía), que asigna 1,20 h de oficial de primera fontanero más 0,085 h de cuadrilla de albañilería para colocación, sellado y ayudas de albañilería. Se reasignó a las categorías del CCT 76/75: 1,20 h de oficial y 0,085 h de ayudante, con el mismo criterio que las demás partidas adaptadas de la BCCA en este banco. Ninguna fuente argentina de descarga libre publica esta tarea con horas por categoría. Nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Rendimientos adaptados de BCCA wi-inodoro-tanque-bajo-porcelana-vitrificada-blanco: rendimiento de mano de obra adaptado del inodoro de tanque bajo de la BCCA 2024-01 (1,20 h de oficial 1ª fontanero + 0,085 h de cuadrilla de albañilería), reasignado a las categorías del CCT 76/75; el artefacto es el de la curación argentina",
       "unit": "u",
-      "updatedAt": "2026-11-06T14:19:15.062Z",
+      "updatedAt": "2026-11-14T22:02:33.401Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -63,6 +121,18 @@
     },
     {
       "bom": [
+        {
+          "factor": 1,
+          "quantity": 1.1,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.085,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
         {
           "factor": 1,
           "quantity": 1,
@@ -89,15 +159,55 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
+          "date": "2026-11",
           "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
-            "country": "AR"
+            "country": "AR",
+            "zone": "A"
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 194377.68
+          "value": 211139.27
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 212996.03
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 222754.07
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 227898.5
         }
       ],
       "sources": [
@@ -106,6 +216,12 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "wi-lavabo-pedestal-porc-vitrif-0-60x0-50-m-blanco",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
         }
       ],
       "summary": "Colocación de lavatorio con pie y grifería monocomando",
@@ -114,9 +230,9 @@
         "grifería",
         "artefacto"
       ],
-      "text": "Provisión y colocación de lavatorio de loza con pie y grifería monocomando, incluidos conexión de agua fría y caliente, desagüe con sopapa y sifón, amure y prueba de funcionamiento. Medida por unidad colocada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. No se localizó rendimiento de mano de obra en ninguna fuente pública argentina para esta partida: no se carga mano de obra hasta conseguirlo. Ningún organismo público argentino publica rendimientos (los pliegos fijan la forma de medición, pero el análisis de precio lo presenta el oferente).",
+      "text": "Provisión y colocación de lavatorio de loza con pie y grifería monocomando, incluidos conexión de agua fría y caliente, desagüe con sopapa y sifón, amure y prueba de funcionamiento. Medida por unidad colocada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra (noviembre 2026): adaptado de dos partidas de la Base de Costes de la Construcción de Andalucía (BCCA, edición 2024-01, datos abiertos de la Junta de Andalucía): \"Lavabo pedestal porcelana vitrificada 0,60x0,50 m blanco\", con 0,60 h de oficial de primera fontanero más 0,085 h de cuadrilla de albañilería, y \"Equipo grifería lavabo monomando primera calidad\", con 0,50 h de oficial de primera fontanero. DECISIÓN DE CURACIÓN: se sumaron las dos porque esta partida incluye artefacto y grifería, y se reasignaron a las categorías del CCT 76/75: 1,10 h de oficial y 0,085 h de ayudante. Ninguna fuente argentina de descarga libre publica esta tarea con horas por categoría. Nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Rendimientos adaptados de BCCA wi-lavabo-pedestal-porc-vitrif-0-60x0-50-m-blanco: rendimiento de mano de obra adaptado del lavabo de pedestal de la BCCA 2024-01 (0,60 h de oficial 1ª fontanero + 0,085 h de cuadrilla de albañilería) más el equipo de grifería monomando de lavabo (wi-equipo-griferia-lavabo-monomando-primera-calidad, 0,50 h de oficial 1ª fontanero), reasignado a las categorías del CCT 76/75",
       "unit": "u",
-      "updatedAt": "2026-11-06T14:19:15.065Z",
+      "updatedAt": "2026-11-14T22:02:33.403Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -124,5 +240,5 @@
       }
     }
   ],
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

@@ -506,7 +506,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 87199.03
+          "value": 88981.36
         },
         {
           "currency": "ARS",
@@ -519,7 +519,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 91810.08
+          "value": 93592.42
         },
         {
           "currency": "ARS",
@@ -532,7 +532,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 119943.4
+          "value": 121725.74
         },
         {
           "currency": "ARS",
@@ -545,7 +545,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 127715.34
+          "value": 129497.68
         }
       ],
       "sources": [
@@ -562,7 +562,7 @@
       ],
       "text": "Losa de viguetas dobles y ladrillos cerámicos de 12,5 cm, luz 3,50 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.565Z",
+      "updatedAt": "2026-11-14T22:02:33.432Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -708,13 +708,13 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.5,
+          "quantity": 2.5,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.4,
+          "quantity": 3.1,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
@@ -782,7 +782,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 56695.93
+          "value": 107079.72
         },
         {
           "currency": "ARS",
@@ -795,7 +795,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 59443.67
+          "value": 115364.57
         },
         {
           "currency": "ARS",
@@ -808,7 +808,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 76103.93
+          "value": 163644.61
         },
         {
           "currency": "ARS",
@@ -821,7 +821,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 80869.25
+          "value": 180518.57
         }
       ],
       "sources": [
@@ -836,9 +836,9 @@
       "tags": [
         "entrepisos"
       ],
-      "text": "Losa de viguetas y bloques de EPS de 12,5 cm, luz 3,50 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Losa alivianada de viguetas pretensadas de hormigón y bloques de poliestireno expandido (EPS) de 12,5 cm de altura, con capa de compresión de hormigón y malla de acero soldada de 4,2 mm de 15x15 cm, para luz de hasta 3,50 m. Medida por metro cuadrado de losa ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Consumos por metro cuadrado: 2 m de vigueta, 2 bloques de EPS y 1,1 m² de malla, más el hormigón de la capa de compresión. NO INCLUYE APUNTALAMIENTO NI ENCOFRADO DE BORDE: ninguna fuente habilitada da a la vez la cantidad de madera y su criterio de reutilización (número de usos), así que no se cargan y se presupuestan aparte. Rendimiento de mano de obra: fuente, ítem 3.8 «Hormigón armado para losa alivianada c/lad. 12,5 cm viguetas» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 2,50 h de oficial y 3,10 h de ayudante por metro cuadrado de losa. DECISIÓN DE CURACIÓN (noviembre 2026): este rendimiento reemplaza al anterior (0,5 h de oficial y 1,4 h de ayudante), que venía de un template de ítems de terceros que no se puede cotejar. El ítem del CAS es con bovedilla cerámica de 12,5 cm; se aplica al bloque de EPS por ser la misma tarea de montaje de viguetas, colocación de bloques y hormigonado de la capa de compresión. El EPS es más liviano de manipular, de modo que el valor queda del lado conservador. El CAS no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. DIFERENCIA CON LA PARTIDA «Losa alivianada de viguetas pretensadas y bloque de poliestireno para luz de hasta 4 m»: es el mismo sistema constructivo y, desde noviembre 2026, con el mismo rendimiento. Aquella toma la vigueta por pieza de 4 m, el bloque de 12 cm y la malla Q131 por paño, con la dosificación de capa de compresión del CAS, y declara luz de hasta 4 m; esta usa la vigueta por metro, el bloque de 12,5 x 100 x 50 cm y malla de 4,2 mm. Para una misma losa se usa una u otra, nunca las dos.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.569Z",
+      "updatedAt": "2026-11-15T22:13:15.095Z",
       "verification": {
         "findings": [
           "duplicate_candidate-76a2916d1b8f19b7"
@@ -851,13 +851,13 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 2.5,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.5,
+          "quantity": 3.1,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
@@ -925,7 +925,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 62057.11
+          "value": 109795
         },
         {
           "currency": "ARS",
@@ -938,7 +938,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 65102.68
+          "value": 118079.85
         },
         {
           "currency": "ARS",
@@ -951,7 +951,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 83478.63
+          "value": 166359.89
         },
         {
           "currency": "ARS",
@@ -964,7 +964,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 88876.12
+          "value": 183233.85
         }
       ],
       "sources": [
@@ -979,9 +979,9 @@
       "tags": [
         "entrepisos"
       ],
-      "text": "Losa de viguetas y bloques de EPS de 16,5 cm, luz 3,50 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Losa alivianada de viguetas pretensadas de hormigón y bloques de poliestireno expandido (EPS) de 16,5 cm de altura, con capa de compresión de hormigón y malla de acero soldada de 4,2 mm de 15x15 cm, para luz de hasta 3,50 m. Medida por metro cuadrado de losa ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Consumos por metro cuadrado: 2 m de vigueta, 2 bloques de EPS y 1,1 m² de malla, más el hormigón de la capa de compresión. NO INCLUYE APUNTALAMIENTO NI ENCOFRADO DE BORDE: ninguna fuente habilitada da a la vez la cantidad de madera y su criterio de reutilización (número de usos), así que no se cargan y se presupuestan aparte. Rendimiento de mano de obra: fuente, ítem 3.8 «Hormigón armado para losa alivianada c/lad. 12,5 cm viguetas» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 2,50 h de oficial y 3,10 h de ayudante por metro cuadrado de losa. DECISIÓN DE CURACIÓN (noviembre 2026): este rendimiento reemplaza al anterior (0,6 h de oficial y 1,5 h de ayudante), que venía de un template de ítems de terceros que no se puede cotejar. El ítem del CAS es con bovedilla cerámica de 12,5 cm; se aplica al bloque de EPS de 16,5 cm sin escalar las horas: la fuente no publica la variante de 16,5 cm, y la tarea es la misma (montaje de viguetas, colocación de bloques y hormigonado de la capa de compresión). El mayor volumen de hormigón entre nervios no se tradujo en más horas porque ninguna fuente habilitada da ese ajuste. El EPS es más liviano de manipular, de modo que el valor queda del lado conservador. El CAS no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. DIFERENCIA CON LA PARTIDA «Losa alivianada de viguetas pretensadas y bloque de poliestireno para luz de hasta 4 m»: es el mismo sistema constructivo y, desde noviembre 2026, con el mismo rendimiento. Aquella es de 12 cm de altura, toma la vigueta por pieza de 4 m, el bloque de 12 cm y la malla Q131 por paño, con la dosificación de capa de compresión del CAS, y declara luz de hasta 4 m; esta usa la vigueta por metro, el bloque de EPS de 16,5 cm y malla de 4,2 mm. Para una misma losa se usa una u otra, nunca las dos.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.571Z",
+      "updatedAt": "2026-11-15T22:13:15.096Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1066,7 +1066,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 75433.04
+          "value": 76547
         },
         {
           "currency": "ARS",
@@ -1079,7 +1079,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 79545.57
+          "value": 80659.53
         },
         {
           "currency": "ARS",
@@ -1092,7 +1092,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 104576.1
+          "value": 105690.06
         },
         {
           "currency": "ARS",
@@ -1105,7 +1105,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 111586.27
+          "value": 112700.23
         }
       ],
       "sources": [
@@ -1122,7 +1122,7 @@
       ],
       "text": "Losa de viguetas y ladrillos cerámicos de 12,5 cm, luz 3,50 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.573Z",
+      "updatedAt": "2026-11-14T22:02:33.435Z",
       "verification": {
         "findings": [
           "duplicate_candidate-e645bef9603201e4"
@@ -1209,7 +1209,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 64640.44
+          "value": 65754.4
         },
         {
           "currency": "ARS",
@@ -1222,7 +1222,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 67965.7
+          "value": 69079.66
         },
         {
           "currency": "ARS",
@@ -1235,7 +1235,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 88137.6
+          "value": 89251.56
         },
         {
           "currency": "ARS",
@@ -1248,7 +1248,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 93891.64
+          "value": 95005.6
         }
       ],
       "sources": [
@@ -1265,7 +1265,7 @@
       ],
       "text": "Losa de viguetas y ladrillos cerámicos de 9 cm, luz 3,50 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.576Z",
+      "updatedAt": "2026-11-14T22:02:33.437Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1273,5 +1273,5 @@
       }
     }
   ],
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

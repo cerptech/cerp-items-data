@@ -194,7 +194,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 39794.82
+          "value": 39626.1
         },
         {
           "currency": "ARS",
@@ -207,7 +207,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 42283.69
+          "value": 42114.97
         },
         {
           "currency": "ARS",
@@ -220,7 +220,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 56297.62
+          "value": 56128.9
         },
         {
           "currency": "ARS",
@@ -233,7 +233,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 61995.39
+          "value": 61826.67
         }
       ],
       "sources": [
@@ -250,7 +250,7 @@
       ],
       "text": "Piso de baldosas calcareas o cerámico para azotea 20x20, junta cerrada. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.682Z",
+      "updatedAt": "2026-11-14T22:02:33.448Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -569,7 +569,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 47976.15
+          "value": 47781.5
         },
         {
           "currency": "ARS",
@@ -582,7 +582,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 50656.64
+          "value": 50461.99
         },
         {
           "currency": "ARS",
@@ -595,7 +595,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 66097.81
+          "value": 65903.16
         },
         {
           "currency": "ARS",
@@ -608,7 +608,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 71787.37
+          "value": 71592.72
         }
       ],
       "sources": [
@@ -625,7 +625,7 @@
       ],
       "text": "Piso de lajas irregulares, junta tomada con concreto. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.699Z",
+      "updatedAt": "2026-11-14T22:02:33.450Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -704,7 +704,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 57365.28
+          "value": 57196.56
         },
         {
           "currency": "ARS",
@@ -717,7 +717,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 60322.15
+          "value": 60153.43
         },
         {
           "currency": "ARS",
@@ -730,7 +730,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 76967.29
+          "value": 76798.57
         },
         {
           "currency": "ARS",
@@ -743,7 +743,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 83741.4
+          "value": 83572.68
         }
       ],
       "sources": [
@@ -760,7 +760,7 @@
       ],
       "text": "Piso de mosaicos graniticos, en locales sanitarios. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.704Z",
+      "updatedAt": "2026-11-14T22:02:33.453Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1248,5 +1248,5 @@
       }
     }
   ],
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

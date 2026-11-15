@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T15:45:18.245Z",
+  "generatedAt": "2026-11-15T22:16:38.322Z",
   "roots": [
     {
       "c": [
@@ -94,7 +94,7 @@
         {
           "k": "solados--pisos",
           "l": "Pisos",
-          "n": 15,
+          "n": 16,
           "s": "pisos"
         },
         {
@@ -105,7 +105,7 @@
         }
       ],
       "l": "Solados",
-      "n": 22,
+      "n": 23,
       "s": "solados"
     },
     {
@@ -668,7 +668,7 @@
         {
           "k": "cielorrasos--aplicados",
           "l": "Aplicados",
-          "n": 1,
+          "n": 2,
           "s": "aplicados"
         },
         {
@@ -685,7 +685,7 @@
         }
       ],
       "l": "Cielorrasos",
-      "n": 21,
+      "n": 22,
       "s": "cielorrasos"
     },
     {
@@ -802,6 +802,6 @@
       "s": "marmoles-y-granitos"
     }
   ],
-  "total": 666,
-  "version": "0.7.0"
+  "total": 668,
+  "version": "0.8.0"
 }

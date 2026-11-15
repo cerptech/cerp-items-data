@@ -2,6 +2,15 @@
   "key": "solados--pisos",
   "rows": [
     {
+      "d": "2026-11",
+      "g": [],
+      "id": "mt-ar-adhesivo-cementicio-para-porcelanato-en-bolsa-de-25-kg",
+      "m": 0,
+      "p": 31214.47,
+      "s": "Adhesivo cementicio para porcelanato en bolsa de 25 kg",
+      "u": "u"
+    },
+    {
       "d": "2026-08",
       "g": [],
       "id": "mt-ar-adhesivo-impermeable-para-ceramicos-en-bolsa-de-30-kg",
@@ -68,11 +77,11 @@
       "u": "m2"
     },
     {
-      "d": "2026-08",
+      "d": "2026-11",
       "g": [],
       "id": "mt-ar-porcelanato-esmaltado-60x60-cm",
       "m": 0,
-      "p": 27506.61,
+      "p": 14128.1,
       "s": "Porcelanato esmaltado 60x60 cm",
       "u": "m2"
     },
@@ -81,7 +90,7 @@
       "g": [],
       "id": "wi-ar-piso-de-cemento-alisado",
       "m": 4,
-      "p": 45268.18,
+      "p": 20813.88,
       "s": "Piso de cemento alisado",
       "u": "m2"
     },
@@ -106,7 +115,7 @@
       "g": [],
       "id": "wi-ar-piso-de-mosaico-granitico-30x30-cm",
       "m": 5,
-      "p": 60979.21,
+      "p": 50395.59,
       "s": "Piso de mosaico granítico 30x30 cm",
       "u": "m2"
     },
@@ -115,7 +124,7 @@
       "g": [],
       "id": "wi-ar-piso-de-porcelanato-60x60-cm",
       "m": 5,
-      "p": 61999.91,
+      "p": 55463.89,
       "s": "Piso de porcelanato 60x60 cm",
       "u": "m2"
     },
@@ -124,11 +133,11 @@
       "g": [],
       "id": "wi-ar-piso-flotante-laminado-ac4-de-8-mm",
       "m": 3,
-      "p": 63062.94,
+      "p": 53013.6,
       "s": "Piso flotante laminado AC4 de 8 mm",
       "u": "m2"
     }
   ],
   "title": "Solados > Pisos",
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

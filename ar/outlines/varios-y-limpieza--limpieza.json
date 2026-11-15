@@ -2,9 +2,11 @@
   "key": "varios-y-limpieza--limpieza",
   "rows": [
     {
+      "d": "2026-11",
       "g": [],
       "id": "wi-ar-limpieza-final-de-obra",
-      "m": 0,
+      "m": 1,
+      "p": 880.45,
       "s": "Limpieza final de obra",
       "u": "m2"
     },
@@ -17,5 +19,5 @@
     }
   ],
   "title": "Varios y limpieza > Limpieza",
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

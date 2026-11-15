@@ -9,13 +9,13 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 3.3,
+          "quantity": 2.5,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 3.3,
+          "quantity": 2.5,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
@@ -23,6 +23,18 @@
           "factor": 1,
           "quantity": 1,
           "ref": "mt-ar-ventana-de-aluminio-linea-modena-de-150x110-cm-con-vidrio",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mt-ar-arena-gruesa-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.063,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         }
       ],
@@ -48,7 +60,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 285986.8
+          "value": 266111.04
         },
         {
           "currency": "ARS",
@@ -61,7 +73,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 295815.25
+          "value": 273556.84
         },
         {
           "currency": "ARS",
@@ -74,7 +86,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 352432.89
+          "value": 316448.99
         },
         {
           "currency": "ARS",
@@ -87,7 +99,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 373294.6
+          "value": 332253.31
         }
       ],
       "sources": [
@@ -106,9 +118,9 @@
         "abertura",
         "carpintería"
       ],
-      "text": "Provisión y colocación de ventana corrediza de aluminio línea Módena de 150x110 cm, con vidrio, mosquitero y herrajes, incluidos amure, sellado perimetral y ayuda de gremios. Medida por unidad colocada. La carpintería argentina se computa por unidad con la medida en la denominación, y se especifica por línea comercial. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO POR ANALOGÍA, INCORPORADO EN SEPTIEMBRE DE 2026. No existe fuente argentina de descarga libre que publique esta partida con horas por categoría, así que se aplicó el rendimiento de una tarea análoga que sí está cargada en el banco con su fuente declarada: la colocación de puerta de chapa doble contacto de 80x200 cm, cargada con rendimiento de la cátedra de la UNT. La tarea es la misma —amurado de carpintería en vano con mortero, aplomado y sellado— y la superficie es casi idéntica: 1,65 metros cuadrados la ventana contra 1,60 la puerta. NOTA SOBRE POR QUÉ NO SE USÓ LA VENTANA DE LA PROPIA FUENTE: la UNT tiene ventanas, pero de madera y con números internamente contradictorios, porque le asigna 2,50 horas a la de 1,00 x 1,00 y sólo 1,50 a la de 1,00 x 1,43, que es más grande. Un rendimiento que se contradice a sí mismo no mejora el banco, así que se prefirió la analogía con la puerta. La analogía es una decisión de curación de CERP, no un dato de fuente: queda declarada acá para que se pueda revisar y, llegado el caso, revertir.",
+      "text": "Provisión y colocación de ventana corrediza de aluminio línea Módena de 150x110 cm con VIDRIO FLOAT SIMPLE DE 4 MM, incluidos amure, sellado perimetral y ayuda de gremios. Medida por unidad colocada. ALCANCE (aclaración de curación CERP 2026-11): esta partida es la variante de vidrio simple; el precio de su material no incluye guía, tapajunta ni mosquitero. La variante con doble vidriado hermético todavía no está en el banco. La carpintería argentina se computa por unidad con la medida en la denominación, y se especifica por línea comercial. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO DE FUENTE, ELEGIDO POR CURACIÓN CERP (noviembre 2026): mano de obra y consumo de amure del ítem «Carpintería Ventana 1 x 1,43» (ventana de madera de 1,00 x 1,43 m) de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la FACET-UNT, de descarga libre: oficial 2,50 h, ayudante 2,50 h, arena gruesa 0,01 m3 y cemento portland 3,15 kg por unidad (3,15 kg = 0,063 bolsa de 50 kg). La fuente asigna las mismas horas (2,50 de oficial y 2,50 de ayudante) a la ventana de 1,00 x 1,00 y a la de 1,00 x 1,43, así que en ese rango el tiempo no crece con la superficie; se aplica a esta ventana sin escalar. DOS SALVEDADES DECLARADAS: la fuente es carpintería de madera y esta es de aluminio, y su medida (1,43 m2) es menor que la de este ítem (1,65 m2). ADVERTENCIAS DE LA FUENTE: no lleva fecha ni encabezado institucional, no declara la procedencia metodológica de sus coeficientes y usa sólo Oficial y Ayudante; nivel de verificación cross-check-secundario. CORRECCIÓN (noviembre 2026): desde septiembre de 2026 esta partida usaba por analogía el rendimiento de la colocación de puerta de chapa (oficial 3,30 h y ayudante 3,30 h), con el argumento de que las ventanas de la fuente eran contradictorias (2,50 h la de 1,00 x 1,00 y 1,50 h la de 1,00 x 1,43). Ese argumento era una lectura errónea del PDF: las dos ventanas tienen 2,50 h, y el 1,50 es del renglón vecino, «Carpintería Ventiluz 0,50 x 0,50». Se pasó a la ventana de la propia fuente porque es la misma tarea, mientras que las horas de la puerta incluyen colocar bisagras, cerradura y manijón, que la ventana no lleva. PRECIO: los precios de materiales y jornales son los vigentes en el banco a la fecha de cálculo de la partida, no los de la fuente del rendimiento.",
       "unit": "u",
-      "updatedAt": "2026-11-06T14:19:15.092Z",
+      "updatedAt": "2026-11-14T22:56:56.861Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -116,5 +128,5 @@
       }
     }
   ],
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

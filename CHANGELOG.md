@@ -16,6 +16,64 @@ Formato: [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/).
 
 ## [Unreleased]
 
+## [0.8.0] - 2026-11-14
+
+Corrección de la base argentina: rendimientos, alcance y materiales de 36
+partidas corregidos por curación, y 21 partidas más que cambian solo por
+arrastre de sus insumos (entre −2,9% y +18,3%). Los ids no cambian y los
+precios relevados anteriores se conservan.
+
+### Añadido
+
+- **Argentina — partidas**: «Cielorraso aplicado de yeso bajo losa» (m2).
+- **Argentina — materiales**: adhesivo cementicio para porcelanato en bolsa de
+  25 kg.
+
+### Corregido
+
+- **Argentina — hormigón armado elaborado en obra** (bases, columnas, vigas,
+  dinteles, encadenados y escaleras): cada partida tenía las horas y los
+  consumos de la fila vecina de su fuente. Con los valores propios, bases baja
+  64% y escaleras sube 55%; las otras cuatro se mueven entre −5% y +6%.
+- **Argentina — errores de lectura de la fuente**: piso de cemento alisado
+  (0,60 h de oficial y 0,30 h de ayudante por m2; baja 54%), cubierta de teja
+  colonial (−12%), piso de mosaico granítico (−17%), piso flotante (−16%),
+  cielorraso de machimbre (−15%) y colocación de ventana de aluminio de
+  150x110 cm con vidrio simple (2,5 h + 2,5 h y material de amure; −7%).
+- **Argentina — pinturas**: las tres partidas de látex «tres manos» tenían
+  horas que, por el consumo de pintura de la fuente, equivalen a una o una y
+  media manos; se escalaron por el consumo de pintura de la partida (inferencia
+  y criterio de CERP, declarados en cada ítem). Suben
+  entre 39% y 69%. El esmalte sintético sobre herrería sube 53%.
+- **Argentina — losas de viguetas y bloques de EPS** (12,5 y 16,5 cm): mano de
+  obra de 2,5 h de oficial y 3,1 h de ayudante por m2 (antes 0,5 y 1,4 en la
+  de 12,5 cm, y 0,6 y 1,5 en la de 16,5 cm).
+  Suben 89% y 77%. No incluyen apuntalamiento como partida aparte.
+- **Argentina — otras partidas**: mampostería de ladrillo común de 12 cm
+  (+14%), cubierta de chapa galvanizada (+15%), enlucido de yeso (+74%),
+  picado de revoque (+67%), armaduras de hierro (+13%), vigas y dinteles de
+  perfil IPN/UPN (+18% a +23%), colocación de inodoro y de lavatorio (+9%),
+  retiro de piso cerámico (+9%). «Limpieza final de obra» ahora tiene
+  descomposición y precio.
+- **Argentina — colocación de puerta placa de 70x200 cm**: el material pasa a
+  ser el kit con marco, bisagras y cerradura (mediana de comercios, nov-2026).
+  Sube 15%. No incluye manija ni picaporte.
+- **Argentina — materiales re-relevados en noviembre de 2026** (precio neto
+  sin IVA, una ficha por comercio): cal hidratada, vigueta pretensada,
+  porcelanato 60x60 (mediana de tres comercios), caño de PVC de 110 mm,
+  cable de 2,5 mm² y yeso. El piso y el revestimiento de porcelanato bajan
+  11%.
+- El texto de un material citaba una publicación que no es fuente del banco;
+  se quitó la cita.
+
+### Pendiente conocido
+
+- Carpeta bajo piso, cielorraso a la cal, revestimiento de porcelanato,
+  puerta placa y ventana de vidrio simple siguen por debajo de las
+  referencias de mercado consultadas; su composición se revisa en la próxima
+  versión. La variante de ventana con doble vidriado hermético no se publica
+  hasta tener un precio relevado de esa medida.
+
 ## [0.7.0] - 2026-11-06
 
 ### Añadido

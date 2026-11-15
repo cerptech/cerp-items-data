@@ -2068,9 +2068,9 @@
         }
       ],
       "summary": "Acero de construcción en barras",
-      "text": "Acero de construcción en barras. Precio mediana de mercado relevado de Red Materiales / Easy / La Económica (AMBA + Santa Fe) el 2026-10-06. Precio NETO, sin IVA. mediana de 6 valores $/kg (ADN 420 8/10/12/16 mm Red Materiales + Easy 10mm + La Económica 8mm; pesos teóricos x 12 m) Unidad '$/KG' → kg. $/kg: 2,589, 2,567, 2,485, 2,367, 1,944, 2,102. Contraste interno (no fuente): Revista Cifras #367 'Hierros redondos' material $3.775/kg; índice DGE Rosario jul-26 hierro redondo 0,0% m/m, +7,9% i.a. referencia interna $2.541,78 coherente.. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "text": "Acero de construcción en barras. Precio mediana de mercado relevado de Red Materiales / Easy / La Económica (AMBA + Santa Fe) el 2026-10-06. Precio NETO, sin IVA. mediana de 6 valores $/kg (ADN 420 8/10/12/16 mm Red Materiales + Easy 10mm + La Económica 8mm; pesos teóricos x 12 m) Unidad '$/KG' → kg. $/kg: 2,589, 2,567, 2,485, 2,367, 1,944, 2,102. Contraste: índice DGE Rosario jul-26 hierro redondo 0,0% m/m, +7,9% i.a. referencia interna $2.541,78 coherente.. No incluye flete ni IVA salvo que la fuente lo indique.",
       "unit": "kg",
-      "updatedAt": "2026-10-07T11:58:29.722Z",
+      "updatedAt": "2026-11-14T22:02:25.745Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2152,6 +2152,57 @@
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Solados",
+          "Pisos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-14T22:02:25.745Z",
+      "id": "mt-ar-adhesivo-cementicio-para-porcelanato-en-bolsa-de-25-kg",
+      "kind": "material",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-adhesivo-cementicio-para-porcelanato-en-bolsa-de-25-kg",
+          "value": 31214.47
+        }
+      ],
+      "sources": [
+        {
+          "code": "mt-ar-adhesivo-cementicio-para-porcelanato-en-bolsa-de-25-kg",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp",
+          "url": "https://www.easy.com.ar/adh-sika-impermeable-porcellanato-25-kg/p"
+        }
+      ],
+      "summary": "Adhesivo cementicio para porcelanato en bolsa de 25 kg",
+      "tags": [
+        "adhesivo",
+        "pegamento",
+        "porcelanato",
+        "grandes piezas"
+      ],
+      "text": "Adhesivo cementicio para colocación de porcelanato y piezas de gran formato, en bolsa de 25 kg. Unidad = una bolsa. Es distinto del adhesivo impermeable para cerámicos: el de porcelanato tiene mayor adherencia para piezas de baja absorción. CONSUMO DECLARADO POR FABRICANTE: hoja de datos «Klaukol grandes piezas porcellanato», Sika Argentina, octubre 2026, versión 01.04 (https://arg.sika.com/content/dam/dms/ar-klaukol/d/klaukol-big-sizesporcellanato.pdf, abierta el 14-11-2026): 6 kg/m2 con llana de 12 mm y 2 kg/m2 más cuando se realiza doble encolado; presentación en bolsas de 25 kg. La ficha comercial de Easy del producto Klaukol dice «Rendimiento de 4 M2 por bolsa de 25 Kg» con doble untado (6,25 kg/m2); se toma el valor del fabricante, que es el documento técnico. Curación CERP 2026-11. Precio precio de un comercio relevado de Easy (Klaukol y Sikaceram para porcelanato, 25 kg) (Área metropolitana de Buenos Aires) el 2026-11-14. Precio NETO, sin IVA. Relevamiento manual del 14-11-2026, una ficha por producto, un solo comercio. Easy, «Adhesivo Cementicio para Porcelanato 25 Kg Gris Klaukol» (easy.com.ar/adh-imp--porcellanat-gdes-piezas-25kg/p): lista 44.435 con IVA, la ficha declara 36.723,15 sin impuestos nacionales. Easy, «Adhesivo Cementicio para Porcellanato 25 Kg Gris Sikaceram» (easy.com.ar/adh-sika-impermeable-porcellanato-25-kg/p): lista 31.104 con IVA, declara 25.705,79 sin impuestos nacionales. Promedio de los 2 netos declarados = 31.214,47. No se halló un segundo comercio con ficha de producto abierta para este adhesivo: dato de un solo comercio. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "unit": "u",
+      "updatedAt": "2026-11-15T22:13:15.025Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-14T22:02:58.063Z",
         "status": "auto_ok"
       }
     },
@@ -4189,6 +4240,18 @@
           "source": "cerp",
           "sourceCode": "mt-ar-cable-unipolar-de-2-5-mm2-en-rollo-de-100-m",
           "value": 83766.12
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-cable-unipolar-de-2-5-mm2-en-rollo-de-100-m",
+          "value": 100718.18
         }
       ],
       "sources": [
@@ -4207,9 +4270,9 @@
         "cobre",
         "iram"
       ],
-      "text": "Cable unipolar de cobre con aislación de PVC de 2,5 mm2 de sección, 450/750 V, según IRAM-NM 247-3, en rollo de 100 m. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente argentina 2026 legalmente habilitada de la que tomarlo. Precio mediana de mercado relevado de Mediana de 3 casas de electricidad del AMBA (El Rey del Cable, Luz Desing, La El (Área metropolitana de Buenos Aires) el 2026-08-22. Precio NETO, sin IVA: el publicado a consumidor final era $101.357 con IVA del 21 % incluido, y se dividió por 1,21. Dispersión del 22 % entre mínimo y máximo del AMBA. La ficha de La Eléctrica (Morón) desglosa el neto, confirmando que el publicado lleva IVA del 21 %. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "text": "Cable unipolar de cobre con aislación de PVC de 2,5 mm2 de sección, 450/750 V, según IRAM-NM 247-3, en rollo de 100 m. Unidad = un rollo. Precio mediana de mercado relevado de Sodimac; Easy; Luz Desing (CABA) (Área metropolitana de Buenos Aires) el 2026-11-14. Precio a fecha 2026-11-14, NETO sin IVA, por rollo de 100 m: mediana de 3 comercios, relevado a mano ficha por ficha, siempre sobre el PRECIO DE LISTA (no promociones ni descuento por efectivo). Sodimac, Prysmian 2,5 mm2 450/750 V IRAM https://www.sodimac.com.ar/sodimac-ar/product/1025686/cable-unipolar-25-mm2-marron-100-m/1025686/ lista $121.869 / 1,21 = $100.718,18 (la ficha publica el neto solo para el precio promocional: $103.589 → $85.611, la misma razón 1,21). Easy, IMSA Pastix CF 2,5 mm x 100 m https://www.easy.com.ar/unipol-2-5ce-pastix-cf--x-100m-/p lista $114.390; la ficha no muestra el neto: se dividió por 1,21 (IVA 21 % supuesto) = $94.537,19. Luz Desing https://www.luzdesing.com.ar/productos/rollo-100-mts-cable-unipolar-25-mm-normalizado-iram-/9289 lista $126.726, neto publicado $104.732 (su ficha cita IRAM 2183). Mediana $100.718,18. Sin flete. El precio 2026-08 ($83.766,12, mediana de El Rey del Cable, Luz Desing y La Eléctrica con IVA confirmado en ficha) queda en el canon como histórico: el nuevo es un relevamiento posterior, no una corrección de base.. No incluye flete ni IVA salvo que la fuente lo indique.",
       "unit": "u",
-      "updatedAt": "2026-09-08T09:15:32.570Z",
+      "updatedAt": "2026-11-14T22:02:25.750Z",
       "verification": {
         "findings": [
           "duplicate_candidate-28fa6cf832f81e55"
@@ -4417,6 +4480,18 @@
           "source": "cerp",
           "sourceCode": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
           "value": 6517.25
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
+          "value": 5652.9
         }
       ],
       "sources": [
@@ -4433,9 +4508,9 @@
         "cal",
         "hidratada"
       ],
-      "text": "Cal hidratada para construcción (IRAM 1626), presentación en bolsa de 25 kg. Unidad = una bolsa. Precio mediana de mercado relevado de varios (AMBA) el 2026-10-06. Precio NETO, sin IVA. mediana de 5 precios / 3 fuentes (bolsa 25 kg / 25) Contraste UTN-FRVT ago-2026 cal bolsa $10.826,50 s/IVA (Venado Tuerto). referencia interna $423/kg parece alto o viejo. Precios minoristas web asumidos con IVA 21% (consumidor final); neto = /1,21. UTN-FRVT publica SIN IVA.. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "text": "Cal hidratada para construcción (IRAM 1626), presentación en bolsa de 25 kg. Unidad = una bolsa. Precio mediana de mercado relevado de Easy; Sodimac; La Clarita (Concepción del Uruguay) (AMBA + Entre Ríos) el 2026-11-14. Precio a fecha 2026-11-14, NETO sin IVA: mediana de 3 comercios, mismo producto (Cal Hidrat Extra 25 kg, Cementos Avellaneda), relevado a mano ficha por ficha. Cada ficha publica el precio final y, por separado, el «precio sin impuestos nacionales» (régimen de transparencia fiscal al consumidor); se tomó ese neto tal como lo publica el comercio, sin dividir por 1,21. Easy https://www.easy.com.ar/e152-cal-hidrat-extra-25kg/p final $6.840, neto $5.652,90. Sodimac https://www.sodimac.com.ar/sodimac-ar/product/1568876/cal-hidratada-hidroxido-de-calcio-extra-25-kg/1568876/ final $6.419, neto $5.305. La Clarita https://laclarita.com.ar/cementos-y-cales/1609-bolsa-cal-hidrat-extra-25-kg.html final $7.763,86, neto $6.416,41. Mediana $5.652,90. Sin flete. Corrige la base de IVA del precio 2026-10 ($6.517,25, mediana de redmateriales con IVA SUPUESTO; redmateriales declara que sus precios pueden o no incluir IVA según el proveedor): ese precio queda en el canon como histórico, no se borra. El valor sale solo de este relevamiento con IVA explícito; las referencias de control no se copian aquí.. No incluye flete ni IVA salvo que la fuente lo indique.",
       "unit": "u",
-      "updatedAt": "2026-10-07T11:58:29.734Z",
+      "updatedAt": "2026-11-14T22:02:25.751Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-07-21T22:07:55.939Z",
@@ -4953,6 +5028,18 @@
           "source": "cerp",
           "sourceCode": "mt-ar-cano-de-pvc-3-2-cloacal-de-110-mm-en-barra-de-4-m",
           "value": 24048
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-cano-de-pvc-3-2-cloacal-de-110-mm-en-barra-de-4-m",
+          "value": 34710
         }
       ],
       "sources": [
@@ -4971,9 +5058,9 @@
         "cloacal",
         "desagüe"
       ],
-      "text": "Caño de PVC de pared 3,2 mm para desagüe cloacal, de ø110 mm, en barra de 4 m, con unión por junta deslizante. \"PVC 3,2\" es la clase de caño cloacal estándar argentina. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente argentina 2026 legalmente habilitada de la que tomarlo. Precio precio de un comercio relevado de Easy Argentina (Buenos Aires) el 2026-10-06. Precio NETO, sin IVA. mediana de 2 productos (barra 4 m) / 4 m Conversión barra 4 m / 4. Espesor de pared no informado en la página (presumiblemente 3,2 mm cloacal). Un solo vendedor (Easy), dos marcas.. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "text": "Caño de PVC de pared 3,2 mm para desagüe cloacal, de ø110 mm, en barra de 4 m, con unión por junta deslizante. \"PVC 3,2\" es la clase de caño cloacal estándar argentina. Unidad = una barra de 4 m. Precio mediana de mercado relevado de Sodimac; Easy; Darsie (Córdoba) (AMBA + Córdoba) el 2026-11-14. Precio a fecha 2026-11-14, NETO sin IVA, por barra de 4 m: mediana de 3 comercios, solo productos que declaran pared de 3,2 mm, relevado a mano ficha por ficha. Sodimac, Tigre Ramat 110 x 4 m, espesor 3,2 mm https://www.sodimac.com.ar/sodimac-ar/product/1234242/cano-ramat-110-mm-x-4-m/1234242/ final $41.999, neto publicado $34.710. Easy, Amanco 110 x 3,2 x 4 m https://www.easy.com.ar/tubo-pvc-110-x-3-2-x-4m-nivel-1-amanco/p final $55.900; esta ficha no muestra el neto: se dividió por 1,21 (IVA 21 % supuesto, mismo criterio con el que Easy publica el neto en el resto de sus fichas) = $46.198,35. Darsie, «Caño PVC 3,2 110 mm x 4 m cloacal» (marca no indicada) https://www.darsie.com/ca%C3%A3os-pvc/1437-cao-pvc-sanitario-110x32x4mt-cpvc114.html final $29.564,46, neto publicado $24.433,44. Mediana $34.710. Sin flete. Corrige el precio 2026-10 ($24.048: un solo comercio y un producto, Amanco «standart», cuya ficha no declaraba el espesor): ese precio queda en el canon como histórico.. No incluye flete ni IVA salvo que la fuente lo indique.",
       "unit": "u",
-      "updatedAt": "2026-10-06T23:05:08.403Z",
+      "updatedAt": "2026-11-14T22:02:25.752Z",
       "verification": {
         "findings": [
           "duplicate_candidate-3f9f8ac2fb8a7b1e",
@@ -12975,6 +13062,18 @@
           "source": "cerp",
           "sourceCode": "mt-ar-porcelanato-esmaltado-60x60-cm",
           "value": 27506.61
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-porcelanato-esmaltado-60x60-cm",
+          "value": 14128.1
         }
       ],
       "sources": [
@@ -12990,11 +13089,12 @@
       "tags": [
         "porcelanato",
         "piso",
-        "rectificado"
+        "revestimiento",
+        "60x60"
       ],
-      "text": "Porcelanato esmaltado rectificado de 60x60 cm, para piso interior. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente argentina 2026 legalmente habilitada de la que tomarlo. Precio mediana de mercado relevado de Mediana de 4 relevamientos del AMBA (Easy x2, Hissuma, Totos Cerámicos) (Área metropolitana de Buenos Aires) el 2026-08-22. Precio NETO, sin IVA: el publicado a consumidor final era $33.283 con IVA del 21 % incluido, y se dividió por 1,21. Dispersión alta, de $21.419 a $39.120 por m2 según marca y terminación. El de Hissuma es pulido rectificado, no esmaltado, y se incluye como referencia de nivel de precio del 60x60 de primera. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "text": "Porcelanato esmaltado de 60x60 cm, de primera calidad, terminación mate o satinada (no pulido), para piso y pared interior. Curación CERP 2026-11: el precio de 2026-08 mezclaba gamas (incluía un pulido como referencia de nivel); el de 2026-11 se relevó solo sobre piezas de primera, nacionales, no pulidas. El borde rectificado se confirmó en 1 de las 3 observaciones (San Lorenzo Bauhaus); en las dos de Alberdi la ficha no lo declara. Historial de precios: 2026-08 (22-08-2026) mediana de 4 relevamientos del AMBA, 27.506,61 neto; queda en el canon como precio de esa edición. Precio mediana de mercado relevado de Mediana de 3 comercios (Easy, Blaisten, Casa Manrique) (AMBA (Easy, Blaisten) y Córdoba (Casa Manrique)) el 2026-11-14. Precio NETO por m2, sin IVA. Relevamiento manual del 14-11-2026, una ficha por comercio, porcelanato 60x60 de primera no pulido. Easy, «Porcelanato 60X60 Cm Gris Domo Cerámica Alberdi» (H5, 1ra, caja de 2,88 m2): 17.095 por m2 de lista con IVA (49.233,60 la caja); neto 14.128,10 por m2. Blaisten (blaisten.com.ar/porc-metropolitan-grey-h5-60x60-1ra-2-88/p), «Porcellanato Metropolitan Grey H5 60X60 Cm 1Ra 2.88 M2 Cerámica Alberdi», mate: 48.490 la caja de 2,88 m2 con IVA, declara 40.074,39 la caja sin impuestos nacionales; neto 13.914,72 por m2. Casa Manrique, Córdoba (casamanriqueweb.com.ar/producto/60x60-bauhaus-grey-1o-caja-1-80m%c2%b2/), «Porcelanato cemento Bauhaus grey rectificado (60x60 cm) San Lorenzo», 1.º, satinado mate, rectificado: 23.621 por m2 con IVA, declara 35.138 la caja de 1,80 m2 sin impuestos nacionales; neto 19.521,11 por m2. Mediana de los 3 netos = 14.128,10. Se descartaron pulidos y segunda calidad. No incluye flete ni IVA salvo que la fuente lo indique.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:32.573Z",
+      "updatedAt": "2026-11-14T22:02:25.759Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -13190,6 +13290,18 @@
           "source": "cerp",
           "sourceCode": "mt-ar-puerta-placa-de-70x200-cm-con-marco-de-chapa",
           "value": 78512.4
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-puerta-placa-de-70x200-cm-con-marco-de-chapa",
+          "value": 100332.67
         }
       ],
       "sources": [
@@ -13207,9 +13319,9 @@
         "madera",
         "interior"
       ],
-      "text": "Puerta placa de 70x200 cm, hoja enchapada, con marco de chapa doblada BWG 18, herrajes de bronce platil y cerradura. \"Puerta placa\" es la denominación argentina de la hoja de tablero hueco. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente argentina 2026 legalmente habilitada de la que tomarlo. Relevamiento AMBA 2026-08-22: SIN PRECIO. Los tres comercios del AMBA relevados no publican precio: Casa Agbe (Avellaneda) muestra la ficha en cero con la leyenda \"por pedido\" y Aberturas de Remate tiene la tienda desactivada. Los dos únicos precios hallados son de Rosario y difieren 2,4 veces entre sí. Requiere cotización directa. Precio precio de un comercio relevado de Easy Cap/GBA — Oblak Prisma MDF, marco de chapa (Área metropolitana de Buenos Aires) el 2026-08-22. Precio NETO, sin IVA: el publicado a consumidor final era 95.000 con IVA del 21 % incluido, y se dividió por 1,21. Única observación publicada del AMBA para 70x200 con marco de chapa (22-08-2026): hoja MDF lisa, marco para tabique terminado de 7 cm. NO INCLUYE MANIJA ni herrajes, que se cotizan aparte. El salto a terminación foil casi duplica el valor ($134.010 a igual medida y marco), y el ancho de marco depende del espesor del tabique: para muro de 12 o 15 cm es otro código y otro precio. Prestigio y Barugel no comercializan aberturas con precio público y Oblak no publica lista, de modo que no hay base para mediana.. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "text": "Puerta placa de 70x200 cm con marco de chapa doblada para tabique de 7 cm, hoja de MDF lisa para pintar o enchapada de gama estándar, provista como kit precolgado. \"Puerta placa\" es la denominación argentina de la hoja de tablero hueco. COMPOSICIÓN DEL KIT (curación CERP 2026-11): el fabricante de la línea relevada (Oblak) entrega sus puertas placa de interior con cerradura de interior y bisagras soldadas al marco de chapa (catálogo técnico de la línea Practika de Oblak, sección «Herrajes y accesorios»; la ficha de la línea Prisma en un comercio declara «Incluye: 1 llave»), y los comercios aclaran que NO incluye manija ni picaporte. Por eso el precio de este material ya cubre la hoja, el marco, las bisagras y la cerradura, pero no la manija. El ancho de marco depende del espesor del tabique: para muro de 10 o 15 cm es otro código y otro precio. Historial de precios: 2026-08 (22-08-2026) una sola observación, Easy, Oblak Prisma MDF con marco de chapa, 95.000 con IVA (78.512,40 neto); queda en el canon como precio de esa edición. Precio mediana de mercado relevado de Mediana de 2 comercios (Easy y Rex), Oblak Prisma 70x200 marco de chapa (AMBA (Easy) y tienda online con envío a AMBA (Rex)) el 2026-11-14. Precio NETO, sin IVA. Relevamiento manual del 14-11-2026, una ficha por comercio. Observación 1: Easy, «Puerta 200x70 Cm MDF Marrón Apertura Izquierda Prisma Oblak», marco de acero para tabique de 7 cm, precio de lista 126.390 con IVA; la ficha declara 104.454,55 sin impuestos nacionales (se toma ese neto; el precio promocional del día era 107.431,50). Observación 2: Rex (somosrex.com/puerta-placa-derecha-oblak-prisma-marco-chapa-200x70cm-para-pintar.html), «Puerta Placa Oblak Prisma 70x200 cm Derecha Pintable Marco Chapa», hoja de MDF crudo para pintar, tabique de 7 cm, «Incluye: 1 llave», «Picaporte: No incluido»; precio de venta 116.415 con IVA (lista 166.307 con 30 % de descuento) y la ficha declara 96.210,79 sin impuestos nacionales (se toma ese neto). Regla: se toma el neto que el propio comercio declara. Mediana de 2 observaciones = 100.332,67. No se consiguió un tercer comercio con ficha abierta: Mercado Libre exige iniciar sesión y los demás comercios buscados no publican precio de este modelo.. No incluye flete ni IVA salvo que la fuente lo indique.",
       "unit": "u",
-      "updatedAt": "2026-09-08T09:15:32.573Z",
+      "updatedAt": "2026-11-14T22:02:25.759Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -15618,6 +15730,18 @@
           "source": "cerp",
           "sourceCode": "mt-ar-vigueta-pretensada-de-hormigon-por-metro",
           "value": 3661
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-vigueta-pretensada-de-hormigon-por-metro",
+          "value": 4217.98
         }
       ],
       "sources": [
@@ -15630,9 +15754,9 @@
         }
       ],
       "summary": "Vigueta pretensada de hormigón (por metro)",
-      "text": "Vigueta pretensada de hormigón (por metro). Precio mediana de mercado relevado de redmateriales (agregador) (nacional) el 2026-10-06. Precio NETO, sin IVA. mediana del $/ml de 9 largos (1,20 a 6,00 m) del índice redmateriales $/ml: 4.326-4.778 hasta 4 m; 5.801 (5 m) y 7.076 (6 m) por sección mayor. Snippet ML: 2 m $10.094 y 3 m $15.141 (~5.047/ml). referencia interna 8.658/ml parece alto o incluye flete.. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "text": "Vigueta pretensada de hormigón (por metro). Precio por metro lineal de la serie corta (piezas de hasta 4 m, como las que usan las losas de vivienda del banco). Precio mediana de mercado relevado de Easy; Sodimac; Darsie (Córdoba) (AMBA + Córdoba) el 2026-11-14. Precio a fecha 2026-11-14, NETO sin IVA: mediana de 3 comercios, pieza de 4,00 m dividida por 4, relevado a mano ficha por ficha. Cada ficha publica el «precio sin impuestos nacionales» y se tomó ese neto tal como lo publica el comercio. Easy, Tensar 4,00 m https://www.easy.com.ar/vigueta-tensar-4-0mt/p final $20.415, neto $16.871,91 = $4.217,98/m. Sodimac, Qualita 4 m https://www.sodimac.com.ar/sodimac-ar/product/116127X/vigueta-pretensada-4-mt/116127X/ final $16.429, neto $13.578 = $3.394,50/m. Darsie, Astori 4 m (sin stock, a pedido) https://www.darsie.com/viguetas/3475-vigueta-pretensada-astori-400m-vp400.html final $21.610,91, neto $17.860,26 = $4.465,07/m. Mediana $4.217,98/m. Sin flete. Corrige el precio 2026-10 ($3.661/m: un solo agregador, redmateriales, con IVA SUPUESTO y neteado por 1,21; redmateriales declara que sus precios pueden o no incluir IVA según el proveedor): ese precio queda en el canon como histórico.. No incluye flete ni IVA salvo que la fuente lo indique.",
       "unit": "m",
-      "updatedAt": "2026-10-07T11:58:29.764Z",
+      "updatedAt": "2026-11-14T22:02:25.761Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -15738,6 +15862,18 @@
           "source": "cerp",
           "sourceCode": "mt-ar-yeso-para-enlucido-en-bolsa-de-40-kg",
           "value": 13222.73
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-yeso-para-enlucido-en-bolsa-de-40-kg",
+          "value": 16239.67
         }
       ],
       "sources": [
@@ -15755,9 +15891,9 @@
         "enlucido",
         "yesería"
       ],
-      "text": "Yeso de construcción para enlucido, en bolsa de 40 kg. Para revoque fino de yeso y cielorrasos aplicados. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente argentina 2026 legalmente habilitada de la que tomarlo. Precio mediana de mercado relevado de Mediana de 2 cadenas del AMBA (Easy, Sodimac) (Área metropolitana de Buenos Aires) el 2026-08-22. Precio NETO, sin IVA: el publicado a consumidor final era $15.999,5 con IVA del 21 % incluido, y se dividió por 1,21. Dispersión del 35 % ($13.599 Sodimac, $18.400 Easy). Salvedad de producto: el Yemaco de Sodimac es específico de enlucido pero figura sin stock, mientras que el Corral de Easy es yeso tradicional para revoque y terminaciones, de uso solapado pero no idéntico. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "text": "Yeso de construcción tradicional para enlucido, en bolsa de 40 kg. Para revoque de yeso y cielorrasos aplicados. El fabricante de las marcas relevadas (folleto de yesos Yemaco y Corral) los presenta como yesos tradicionales para enlucidos de paredes y cielorrasos. Historial de precios: 2026-08 (22-08-2026) mediana de Easy y Sodimac, 13.222,73 neto; queda en el canon como precio de esa edición. Precio precio de un comercio relevado de Easy (Yeso Corral 40 kg y Yeso Yemaco 40 kg) (Área metropolitana de Buenos Aires) el 2026-11-14. Precio NETO, sin IVA. Relevamiento manual del 14-11-2026, una ficha por producto. «Yeso Tradicional 40 Kg Corral»: lista 19.400 con IVA, la ficha declara 16.033,06 sin impuestos nacionales. «Yeso 40 Kg Yemaco» (easy.com.ar/e151-yeso-yemaco-40kg/p): lista 19.900 con IVA, declara 16.446,28 sin impuestos nacionales. Mediana de los 2 netos declarados = 16.239,67. Un solo comercio: no se halló otro con ficha de producto abierta de yeso tradicional de 40 kg. No incluye flete ni IVA salvo que la fuente lo indique.",
       "unit": "u",
-      "updatedAt": "2026-09-08T09:15:32.573Z",
+      "updatedAt": "2026-11-14T22:32:35.953Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -15973,5 +16109,5 @@
       }
     }
   ],
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

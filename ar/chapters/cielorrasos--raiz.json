@@ -599,7 +599,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 21457.49
+          "value": 20835.16
         },
         {
           "currency": "ARS",
@@ -612,7 +612,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23097.81
+          "value": 22475.48
         },
         {
           "currency": "ARS",
@@ -625,7 +625,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 31047.8
+          "value": 30425.47
         },
         {
           "currency": "ARS",
@@ -638,7 +638,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36123.13
+          "value": 35500.8
         }
       ],
       "sources": [
@@ -655,7 +655,7 @@
       ],
       "text": "Engrosado de yeso a la cal. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.311Z",
+      "updatedAt": "2026-11-14T22:02:33.414Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2208,5 +2208,5 @@
       }
     }
   ],
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

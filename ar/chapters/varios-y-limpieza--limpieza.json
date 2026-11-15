@@ -6,7 +6,14 @@
   "chapter": "Varios y limpieza > Limpieza",
   "items": [
     {
-      "bom": [],
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 0.0724,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        }
+      ],
       "classification": {
         "path": [
           "Varios y limpieza",
@@ -17,7 +24,60 @@
       "createdAt": "2026-09-08T09:15:32.575Z",
       "id": "wi-ar-limpieza-final-de-obra",
       "kind": "work_item",
-      "prices": [],
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 880.45
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 981.7
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1631.84
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1760.91
+        }
+      ],
       "sources": [
         {
           "code": "wi-ar-limpieza-final-de-obra",
@@ -32,14 +92,12 @@
         "final",
         "entrega"
       ],
-      "text": "Limpieza final de obra previa a la entrega, con retiro total de escombros y sobrantes, limpieza de vidrios, solados, artefactos y carpinterías. Medida por metro cuadrado de superficie cubierta. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. No se localizó rendimiento de mano de obra en ninguna fuente pública argentina para esta partida: no se carga mano de obra hasta conseguirlo. Ningún organismo público argentino publica rendimientos (los pliegos fijan la forma de medición, pero el análisis de precio lo presenta el oferente).",
+      "text": "Limpieza final de obra previa a la entrega, con retiro total de escombros y sobrantes, limpieza de vidrios, solados, artefactos y carpinterías. Medida por metro cuadrado de superficie cubierta. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra (noviembre 2026): fuente, ítem 22.1 «Limpieza final de obra» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, vivienda unifamiliar de 220,92 m², sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 16 h de ayudante como global para toda la vivienda. DECISIÓN DE CURACIÓN: se pasó a metro cuadrado de superficie cubierta dividiendo por la superficie del modelo: 16 / 220,92 = 0,0724 h de ayudante por m². El contenedor que el CAS suma en ese ítem no se carga acá, porque el retiro de escombros con volquete va por su propia partida. La derivación supone que la limpieza escala con la superficie, lo que vale para viviendas de tamaño parecido al modelo. El CAS no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-09-08T09:15:32.575Z",
+      "updatedAt": "2026-11-14T22:02:33.429Z",
       "verification": {
-        "findings": [
-          "missing_bom-ee73f780361476e2"
-        ],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "findings": [],
+        "lastCheckedAt": "2026-11-14T22:02:58.063Z",
         "status": "auto_ok"
       }
     },
@@ -82,5 +140,5 @@
       }
     }
   ],
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

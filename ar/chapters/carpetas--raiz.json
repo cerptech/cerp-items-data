@@ -119,9 +119,9 @@
       "tags": [
         "carpetas"
       ],
-      "text": "Carpeta bajo piso cerámico o similar, espesor 1,8 cm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Carpeta bajo piso cerámico o similar, espesor 1,8 cm, de MORTERO DE CAL REFORZADO (cemento, cal hidráulica y arena mediana). Medida por m2. Precio computado desde la descomposición. RENDIMIENTO DE FUENTE: mano de obra (oficial 0,45 h, ayudante 0,23 h) y consumos (cemento 1,78 kg = 0,0356 bolsa de 50 kg, cal hidráulica 4 kg y arena mediana 0,024 m3 por m2) tomados de un template de ítems de terceros que no se pudo cotejar en esta revisión; los valores quedan como se cargaron en 2026-10. REVISIÓN DE CURACIÓN CERP (2026-11): se revisó si la descomposición tiene un error de cantidades. No lo tiene: es una dosificación de mortero de cal reforzado, no de mortero de cemento. Lo indican tres cosas. (1) Las proporciones: 1,78 kg de cemento, 4 kg de cal y 0,024 m3 de arena equivalen aproximadamente a 1/4 : 1 : 4 en volumen (cemento : cal : arena), una dosificación tradicional de carpeta (cálculo de CERP a partir de la descomposición, no dato de la fuente). (2) El volumen: los 0,024 m3 de arena son coherentes con 1,8 cm de espesor más pérdidas. (3) La partida hermana \"Carpeta de cal reforzada, espesor 30mm\", del mismo template, lleva la misma familia de dosificación (2,7 kg de cemento, 4,3 kg de cal hidráulica y 0,033 m3 de arena). Las carpetas cementicias de las fuentes abiertas son otra especificación y no se usaron para corregir esta: el Colegio de Arquitectos de Salta (CAS 3, ítem 6.1, carpeta niveladora de 3 cm) da 21 kg de cemento y 0,03 m3 de arena, y la FACET-UNT (carpeta cementicia de 2 cm) da 8,20 kg de cemento y 0,03 m3 de arena. Si la obra pide carpeta cementicia, por ejemplo para pegar con adhesivo cementicio, conviene usar una de esas partidas y no esta.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:14.907Z",
+      "updatedAt": "2026-11-14T22:56:56.855Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1200,5 +1200,5 @@
       }
     }
   ],
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

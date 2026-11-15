@@ -2002,7 +2002,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27689.45
+          "value": 27606.47
         },
         {
           "currency": "ARS",
@@ -2015,7 +2015,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28643.79
+          "value": 28560.81
         },
         {
           "currency": "ARS",
@@ -2028,7 +2028,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 34279.97
+          "value": 34197
         },
         {
           "currency": "ARS",
@@ -2041,7 +2041,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36127.82
+          "value": 36044.84
         }
       ],
       "sources": [
@@ -2058,7 +2058,7 @@
       ],
       "text": "Contrapiso de perlita exp. sobre losa, espesor 0,08m-elevación por medios mecanicos. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.187Z",
+      "updatedAt": "2026-11-14T22:02:33.408Z",
       "verification": {
         "findings": [
           "duplicate_candidate-0776ae2ab8e2f27e"
@@ -2689,5 +2689,5 @@
       }
     }
   ],
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

@@ -24,7 +24,7 @@
       "g": [],
       "id": "wi-ar-revoque-exterior-completo-a-la-cal-incluye-planchado-de-azot",
       "m": 8,
-      "p": 36250.49,
+      "p": 36224.21,
       "s": "Revoque exterior completo a la cal, incluye planchado de azotado hidrófugo",
       "u": "m2"
     },
@@ -33,7 +33,7 @@
       "g": [],
       "id": "wi-ar-revoque-fino-a-la-cal-espesor-4-mm",
       "m": 6,
-      "p": 10515.12,
+      "p": 10488.84,
       "s": "Revoque fino a la cal, espesor 4 mm",
       "u": "m2"
     },
@@ -51,7 +51,7 @@
       "g": [],
       "id": "wi-ar-revoque-fino-exterior-a-la-cal-espesor-3-mm",
       "m": 6,
-      "p": 6477.13,
+      "p": 6461.57,
       "s": "Revoque fino exterior a la cal, espesor 3 mm",
       "u": "m2"
     },
@@ -96,7 +96,7 @@
       "g": [],
       "id": "wi-ar-revoque-grueso-de-vermiculita-como-aislante-termico-espesor",
       "m": 7,
-      "p": 45774.31,
+      "p": 45649.84,
       "s": "Revoque grueso de vermiculita, como aislante térmico-espesor 2 cm",
       "u": "m2"
     },
@@ -129,5 +129,5 @@
     }
   ],
   "title": "Revoques",
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

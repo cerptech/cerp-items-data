@@ -311,7 +311,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36250.49
+          "value": 36224.21
         },
         {
           "currency": "ARS",
@@ -324,7 +324,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 39562.94
+          "value": 39536.66
         },
         {
           "currency": "ARS",
@@ -337,7 +337,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 58274.93
+          "value": 58248.65
         },
         {
           "currency": "ARS",
@@ -350,7 +350,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 65780.09
+          "value": 65753.81
         }
       ],
       "sources": [
@@ -367,7 +367,7 @@
       ],
       "text": "Revoque exterior completo a la cal, incluye planchado de azotado hidrófugo. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.790Z",
+      "updatedAt": "2026-11-14T22:02:33.464Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -434,7 +434,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 10515.12
+          "value": 10488.84
         },
         {
           "currency": "ARS",
@@ -447,7 +447,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 11645.6
+          "value": 11619.32
         },
         {
           "currency": "ARS",
@@ -460,7 +460,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 18019.21
+          "value": 17992.94
         },
         {
           "currency": "ARS",
@@ -473,7 +473,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 20596.58
+          "value": 20570.31
         }
       ],
       "sources": [
@@ -490,7 +490,7 @@
       ],
       "text": "Revoque fino a la cal, espesor 4 mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.797Z",
+      "updatedAt": "2026-11-14T22:02:33.466Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -668,7 +668,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 6477.13
+          "value": 6461.57
         },
         {
           "currency": "ARS",
@@ -681,7 +681,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 7164.49
+          "value": 7148.93
         },
         {
           "currency": "ARS",
@@ -694,7 +694,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 10948.52
+          "value": 10932.96
         },
         {
           "currency": "ARS",
@@ -707,7 +707,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 12632.75
+          "value": 12617.2
         }
       ],
       "sources": [
@@ -724,7 +724,7 @@
       ],
       "text": "Revoque fino exterior a la cal, espesor 3 mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.803Z",
+      "updatedAt": "2026-11-14T22:02:33.467Z",
       "verification": {
         "findings": [
           "duplicate_candidate-987215db4d4ab044"
@@ -1311,7 +1311,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 45774.31
+          "value": 45649.84
         },
         {
           "currency": "ARS",
@@ -1324,7 +1324,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 47579.45
+          "value": 47454.98
         },
         {
           "currency": "ARS",
@@ -1337,7 +1337,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 57793.29
+          "value": 57668.82
         },
         {
           "currency": "ARS",
@@ -1350,7 +1350,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 61861.96
+          "value": 61737.49
         }
       ],
       "sources": [
@@ -1367,7 +1367,7 @@
       ],
       "text": "Revoque grueso de vermiculita, como aislante térmico-espesor 2 cm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.817Z",
+      "updatedAt": "2026-11-14T22:02:33.468Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1744,5 +1744,5 @@
       }
     }
   ],
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

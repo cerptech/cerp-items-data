@@ -15,7 +15,7 @@
       "g": [],
       "id": "wi-ar-piso-de-baldosas-calcareas-o-ceramico-para-azotea-20x20-junt",
       "m": 7,
-      "p": 39794.82,
+      "p": 39626.1,
       "s": "Piso de baldosas calcareas o cerámico para azotea 20x20, junta cerrada",
       "u": "m2"
     },
@@ -42,7 +42,7 @@
       "g": [],
       "id": "wi-ar-piso-de-lajas-irregulares-junta-tomada-con-concreto",
       "m": 7,
-      "p": 47976.15,
+      "p": 47781.5,
       "s": "Piso de lajas irregulares, junta tomada con concreto",
       "u": "m2"
     },
@@ -51,7 +51,7 @@
       "g": [],
       "id": "wi-ar-piso-de-mosaicos-graniticos-en-locales-sanitarios",
       "m": 8,
-      "p": 57365.28,
+      "p": 57196.56,
       "s": "Piso de mosaicos graniticos, en locales sanitarios",
       "u": "m2"
     },
@@ -93,5 +93,5 @@
     }
   ],
   "title": "Pisos",
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

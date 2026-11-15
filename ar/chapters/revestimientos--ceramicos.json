@@ -142,19 +142,19 @@
         },
         {
           "factor": 1,
-          "quantity": 1.07,
+          "quantity": 1.1,
           "ref": "mt-ar-porcelanato-esmaltado-60x60-cm",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.13,
-          "ref": "mt-ar-adhesivo-impermeable-para-ceramicos-en-bolsa-de-30-kg",
+          "quantity": 0.32,
+          "ref": "mt-ar-adhesivo-cementicio-para-porcelanato-en-bolsa-de-25-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.15,
+          "quantity": 0.25,
           "ref": "mt-ar-pastina-para-juntas",
           "role": "material"
         }
@@ -181,7 +181,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 61999.91
+          "value": 55463.89
         },
         {
           "currency": "ARS",
@@ -194,7 +194,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 65242.43
+          "value": 58706.41
         },
         {
           "currency": "ARS",
@@ -207,7 +207,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 83505.44
+          "value": 76969.42
         },
         {
           "currency": "ARS",
@@ -220,7 +220,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 90921.46
+          "value": 84385.44
         }
       ],
       "sources": [
@@ -237,9 +237,9 @@
         "porcelanato",
         "pared"
       ],
-      "text": "Revestimiento de paramento con porcelanato esmaltado rectificado colocado con adhesivo impermeable sobre revoque grueso, con junta mínima tomada con pastina. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "text": "Revestimiento de paramento con porcelanato esmaltado de 60x60 cm, de primera, colocado con adhesivo cementicio para porcelanato sobre revoque grueso, con junta mínima tomada con pastina. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO DE FUENTE: mano de obra (oficial 1,30 h, ayudante 0,85 h), porcelanato 1,10 m2 y pastina 0,25 kg por m2 transcriptos del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, ítems 7.2 «Piso porcelanato» y 8.2 «Revestimiento porcelanato», edición octubre 2026, con los mismos valores que la de julio 2025; publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste. PISO Y PARED LLEVAN LA MISMA DESCOMPOSICIÓN porque la fuente da valores idénticos para los dos ítems (7.2 y 8.2); no hay hoy una fuente permitida que los diferencie. DECISIONES DE CURACIÓN CERP (2026-11): (1) Porcelanato y pastina se alinearon con la fuente (antes 1,07 m2 y 0,15 kg, sin fuente declarada). (2) El adhesivo pasó del impermeable para cerámicos al adhesivo cementicio para porcelanato, que es el que corresponde a la pieza. (3) Consumo de adhesivo: 8 kg/m2 (0,32 bolsa de 25 kg), del fabricante y no de la fuente de rendimientos: la hoja de datos «Klaukol grandes piezas porcellanato» (Sika Argentina, octubre 2026, versión 01.04, arg.sika.com) da 6 kg/m2 con llana de 12 mm y 2 kg/m2 más cuando se realiza doble encolado, y sugiere aplicar adhesivo también en el reverso en colocaciones de alta exigencia o cuando el contacto de la placa es defectuoso. El CAS 3 da 3,75 kg/m2, la mitad. Que una pieza de 60x60 se coloque con doble encolado es criterio de curación CERP (práctica habitual para gran formato), no un dato de la hoja argentina. PRECIO: los precios de materiales y jornales son los vigentes en el banco a la fecha de cálculo; porcelanato y adhesivo se relevaron el 14-11-2026.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.781Z",
+      "updatedAt": "2026-11-15T22:13:15.107Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -247,5 +247,5 @@
       }
     }
   ],
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

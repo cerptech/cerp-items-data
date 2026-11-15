@@ -194,7 +194,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 9914.54
+          "value": 9895.18
         },
         {
           "currency": "ARS",
@@ -207,7 +207,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 10705.24
+          "value": 10685.88
         },
         {
           "currency": "ARS",
@@ -220,7 +220,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 15093.77
+          "value": 15074.41
         },
         {
           "currency": "ARS",
@@ -233,7 +233,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16985.49
+          "value": 16966.13
         }
       ],
       "sources": [
@@ -250,7 +250,7 @@
       ],
       "text": "Zócalo de lajas irregulares, altura 10 cm. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-11-06T14:19:15.924Z",
+      "updatedAt": "2026-11-14T22:02:33.478Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -381,5 +381,5 @@
       }
     }
   ],
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

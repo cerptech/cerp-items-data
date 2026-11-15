@@ -194,6 +194,14 @@
     },
     {
       "c": "",
+      "i": "mt-ar-adhesivo-cementicio-para-porcelanato-en-bolsa-de-25-kg",
+      "k": "material",
+      "p": 31214.47,
+      "s": "Adhesivo cementicio para porcelanato en bolsa de 25 kg",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-ar-adhesivo-impermeable-para-ceramicos-en-bolsa-de-30-kg",
       "k": "material",
       "p": 23365.29,
@@ -580,7 +588,7 @@
       "c": "",
       "i": "mt-ar-cable-unipolar-de-2-5-mm2-en-rollo-de-100-m",
       "k": "material",
-      "p": 83766.12,
+      "p": 100718.18,
       "s": "Cable unipolar de 2,5 mm2 en rollo de 100 m",
       "u": "u"
     },
@@ -612,7 +620,7 @@
       "c": "",
       "i": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
       "k": "material",
-      "p": 6517.25,
+      "p": 5652.9,
       "s": "Cal hidratada en bolsa de 25 kg",
       "u": "u"
     },
@@ -708,7 +716,7 @@
       "c": "",
       "i": "mt-ar-cano-de-pvc-3-2-cloacal-de-110-mm-en-barra-de-4-m",
       "k": "material",
-      "p": 24048,
+      "p": 34710,
       "s": "Caño de PVC 3,2 cloacal de ø110 mm en barra de 4 m",
       "u": "u"
     },
@@ -2116,7 +2124,7 @@
       "c": "",
       "i": "mt-ar-porcelanato-esmaltado-60x60-cm",
       "k": "material",
-      "p": 27506.61,
+      "p": 14128.1,
       "s": "Porcelanato esmaltado 60x60 cm",
       "u": "m2"
     },
@@ -2156,7 +2164,7 @@
       "c": "",
       "i": "mt-ar-puerta-placa-de-70x200-cm-con-marco-de-chapa",
       "k": "material",
-      "p": 78512.4,
+      "p": 100332.67,
       "s": "Puerta placa de 70x200 cm con marco de chapa",
       "u": "u"
     },
@@ -2620,7 +2628,7 @@
       "c": "",
       "i": "mt-ar-vigueta-pretensada-de-hormigon-por-metro",
       "k": "material",
-      "p": 3661,
+      "p": 4217.98,
       "s": "Vigueta pretensada de hormigón (por metro)",
       "u": "m"
     },
@@ -2644,7 +2652,7 @@
       "c": "",
       "i": "mt-ar-yeso-para-enlucido-en-bolsa-de-40-kg",
       "k": "material",
-      "p": 13222.73,
+      "p": 16239.67,
       "s": "Yeso para enlucido en bolsa de 40 kg",
       "u": "u"
     },
@@ -2732,7 +2740,7 @@
       "c": "estructura-de-hormigon-armado--armaduras",
       "i": "wi-ar-armadura-de-hierro-nervurado-adn-420-de-10-mm-elaborada-y-co",
       "k": "work_item",
-      "p": 2146.26,
+      "p": 2432.22,
       "s": "Armadura de hierro nervurado ADN 420 de 10 mm elaborada y colocada",
       "u": "kg"
     },
@@ -2740,7 +2748,7 @@
       "c": "estructura-de-hormigon-armado--armaduras",
       "i": "wi-ar-armadura-de-hierro-nervurado-adn-420-de-12-mm-elaborada-y-co",
       "k": "work_item",
-      "p": 2165.36,
+      "p": 2451.32,
       "s": "Armadura de hierro nervurado ADN 420 de 12 mm elaborada y colocada",
       "u": "kg"
     },
@@ -2748,7 +2756,7 @@
       "c": "estructura-de-hormigon-armado--armaduras",
       "i": "wi-ar-armadura-de-hierro-nervurado-adn-420-de-6-mm-elaborada-y-col",
       "k": "work_item",
-      "p": 2185.4,
+      "p": 2471.37,
       "s": "Armadura de hierro nervurado ADN 420 de 6 mm elaborada y colocada",
       "u": "kg"
     },
@@ -2756,7 +2764,7 @@
       "c": "estructura-de-hormigon-armado--armaduras",
       "i": "wi-ar-armadura-de-hierro-nervurado-adn-420-elaborada-y-colocada",
       "k": "work_item",
-      "p": 2102.26,
+      "p": 2388.22,
       "s": "Armadura de hierro nervurado ADN 420 elaborada y colocada",
       "u": "kg"
     },
@@ -2820,7 +2828,7 @@
       "c": "instalacion-electrica--bocas",
       "i": "wi-ar-boca-de-tomacorriente-doble-de-uso-general",
       "k": "work_item",
-      "p": 46780.29,
+      "p": 51357.34,
       "s": "Boca de tomacorriente doble de uso general",
       "u": "u"
     },
@@ -2860,7 +2868,7 @@
       "c": "instalacion-sanitaria--desagues",
       "i": "wi-ar-caneria-cloacal-de-pvc-3-2-de-110-mm",
       "k": "work_item",
-      "p": 15753.63,
+      "p": 18632.37,
       "s": "Cañería cloacal de PVC 3,2 de ø110 mm",
       "u": "m"
     },
@@ -3092,8 +3100,16 @@
       "c": "cielorrasos--aplicados",
       "i": "wi-ar-cielorraso-aplicado-bajo-losa",
       "k": "work_item",
-      "p": 26204.25,
+      "p": 25685.64,
       "s": "Cielorraso aplicado bajo losa",
+      "u": "m2"
+    },
+    {
+      "c": "cielorrasos--aplicados",
+      "i": "wi-ar-cielorraso-aplicado-de-yeso-bajo-losa",
+      "k": "work_item",
+      "p": 40672.01,
+      "s": "Cielorraso aplicado de yeso bajo losa",
       "u": "m2"
     },
     {
@@ -3108,7 +3124,7 @@
       "c": "cielorrasos--madera",
       "i": "wi-ar-cielorraso-de-machimbre-de-pino-de-1-2-pulgada",
       "k": "work_item",
-      "p": 54501.57,
+      "p": 46136.43,
       "s": "Cielorraso de machimbre de pino de 1/2 pulgada",
       "u": "m2"
     },
@@ -3196,7 +3212,7 @@
       "c": "instalacion-sanitaria--artefactos",
       "i": "wi-ar-colocacion-de-inodoro-con-deposito-de-mochila",
       "k": "work_item",
-      "p": 192519.83,
+      "p": 210711.23,
       "s": "Colocación de inodoro con depósito de mochila",
       "u": "u"
     },
@@ -3204,7 +3220,7 @@
       "c": "instalacion-sanitaria--artefactos",
       "i": "wi-ar-colocacion-de-lavatorio-con-pie-y-griferia-monocomando",
       "k": "work_item",
-      "p": 194377.68,
+      "p": 211139.27,
       "s": "Colocación de lavatorio con pie y grifería monocomando",
       "u": "u"
     },
@@ -3228,7 +3244,7 @@
       "c": "carpinterias--madera",
       "i": "wi-ar-colocacion-de-puerta-placa-de-70x200-cm",
       "k": "work_item",
-      "p": 165827.3,
+      "p": 190213.99,
       "s": "Colocación de puerta placa de 70x200 cm",
       "u": "u"
     },
@@ -3260,7 +3276,7 @@
       "c": "carpinterias--aluminio",
       "i": "wi-ar-colocacion-de-ventana-de-aluminio-linea-modena-de-150x110-cm",
       "k": "work_item",
-      "p": 285986.8,
+      "p": 266111.04,
       "s": "Colocación de ventana de aluminio línea Módena de 150x110 cm",
       "u": "u"
     },
@@ -3492,7 +3508,7 @@
       "c": "contrapisos--raiz",
       "i": "wi-ar-contrapiso-de-perlita-exp-sobre-losa-espesor-0-08m-elevacion",
       "k": "work_item",
-      "p": 27689.45,
+      "p": 27606.47,
       "s": "Contrapiso de perlita exp. sobre losa, espesor 0,08m-elevación por medios mecanicos",
       "u": "m2"
     },
@@ -3580,7 +3596,7 @@
       "c": "cubiertas--raiz",
       "i": "wi-ar-cubierta-de-chapas-galvanizadas-trapezoidales-sobre-estructu",
       "k": "work_item",
-      "p": 91015.04,
+      "p": 105033.24,
       "s": "Cubierta de chapas galvanizadas trapezoidales, sobre estructura de madera cepillada",
       "u": "m2"
     },
@@ -3588,7 +3604,7 @@
       "c": "cubiertas--tejas",
       "i": "wi-ar-cubierta-de-teja-colonial-ceramica-sobre-losa",
       "k": "work_item",
-      "p": 87565.07,
+      "p": 76660.87,
       "s": "Cubierta de teja colonial cerámica sobre losa",
       "u": "m2"
     },
@@ -3668,7 +3684,7 @@
       "c": "estructura-metalica--perfiles",
       "i": "wi-ar-dintel-de-perfil-upn-100-colocado-y-pintado",
       "k": "work_item",
-      "p": 24716.63,
+      "p": 30325.95,
       "s": "Dintel de perfil UPN 100 colocado y pintado",
       "u": "m"
     },
@@ -3716,7 +3732,7 @@
       "c": "cielorrasos--raiz",
       "i": "wi-ar-engrosado-de-yeso-a-la-cal",
       "k": "work_item",
-      "p": 21457.49,
+      "p": 20835.16,
       "s": "Engrosado de yeso a la cal",
       "u": "m2"
     },
@@ -3732,7 +3748,7 @@
       "c": "revoques--yeseria",
       "i": "wi-ar-enlucido-de-yeso-interior",
       "k": "work_item",
-      "p": 22758.67,
+      "p": 39604.58,
       "s": "Enlucido de yeso interior",
       "u": "m2"
     },
@@ -3844,7 +3860,7 @@
       "c": "pinturas--herreria",
       "i": "wi-ar-esmalte-sintetico-sobre-herreria-con-convertidor-de-oxido",
       "k": "work_item",
-      "p": 15929.35,
+      "p": 24303.19,
       "s": "Esmalte sintético sobre herrería con convertidor de óxido",
       "u": "m2"
     },
@@ -4220,7 +4236,7 @@
       "c": "estructura-de-hormigon-armado--bases",
       "i": "wi-ar-hormigon-armado-para-bases-elaborado-en-obra",
       "k": "work_item",
-      "p": 1001035.93,
+      "p": 359559.71,
       "s": "Hormigón armado para bases elaborado en obra",
       "u": "m3"
     },
@@ -4228,7 +4244,7 @@
       "c": "estructura-de-hormigon-armado--columnas",
       "i": "wi-ar-hormigon-armado-para-columnas-elaborado-en-obra",
       "k": "work_item",
-      "p": 943566.5,
+      "p": 1001035.93,
       "s": "Hormigón armado para columnas elaborado en obra",
       "u": "m3"
     },
@@ -4236,7 +4252,7 @@
       "c": "estructura-de-hormigon-armado--dinteles",
       "i": "wi-ar-hormigon-armado-para-dinteles-elaborado-en-obra",
       "k": "work_item",
-      "p": 749437.42,
+      "p": 786751.42,
       "s": "Hormigón armado para dinteles elaborado en obra",
       "u": "m3"
     },
@@ -4244,7 +4260,7 @@
       "c": "estructura-de-hormigon-armado--encadenados",
       "i": "wi-ar-hormigon-armado-para-encadenados-elaborado-en-obra",
       "k": "work_item",
-      "p": 786751.42,
+      "p": 749437.42,
       "s": "Hormigón armado para encadenados elaborado en obra",
       "u": "m3"
     },
@@ -4252,7 +4268,7 @@
       "c": "estructura-de-hormigon-armado--escaleras",
       "i": "wi-ar-hormigon-armado-para-escaleras-elaborado-en-obra",
       "k": "work_item",
-      "p": 580828.48,
+      "p": 898060.18,
       "s": "Hormigón armado para escaleras elaborado en obra",
       "u": "m3"
     },
@@ -4284,7 +4300,7 @@
       "c": "estructura-de-hormigon-armado--vigas",
       "i": "wi-ar-hormigon-armado-para-vigas-elaborado-en-obra",
       "k": "work_item",
-      "p": 898060.18,
+      "p": 943566.5,
       "s": "Hormigón armado para vigas elaborado en obra",
       "u": "m3"
     },
@@ -4332,7 +4348,7 @@
       "c": "varios-y-limpieza--limpieza",
       "i": "wi-ar-limpieza-final-de-obra",
       "k": "work_item",
-      "p": null,
+      "p": 880.45,
       "s": "Limpieza final de obra",
       "u": "m2"
     },
@@ -4364,7 +4380,7 @@
       "c": "entrepisos--raiz",
       "i": "wi-ar-losa-de-viguetas-dobles-y-ladrillos-ceramicos-de-12-5-cm-luz",
       "k": "work_item",
-      "p": 87199.03,
+      "p": 88981.36,
       "s": "Losa de viguetas dobles y ladrillos cerámicos de 12,5 cm, luz 3,50 m",
       "u": "m2"
     },
@@ -4380,7 +4396,7 @@
       "c": "entrepisos--raiz",
       "i": "wi-ar-losa-de-viguetas-y-bloques-de-eps-de-12-5-cm-luz-3-50-m",
       "k": "work_item",
-      "p": 56695.93,
+      "p": 107079.72,
       "s": "Losa de viguetas y bloques de EPS de 12,5 cm, luz 3,50 m",
       "u": "m2"
     },
@@ -4388,7 +4404,7 @@
       "c": "entrepisos--raiz",
       "i": "wi-ar-losa-de-viguetas-y-bloques-de-eps-de-16-5-cm-luz-3-50-m",
       "k": "work_item",
-      "p": 62057.11,
+      "p": 109795,
       "s": "Losa de viguetas y bloques de EPS de 16,5 cm, luz 3,50 m",
       "u": "m2"
     },
@@ -4396,7 +4412,7 @@
       "c": "entrepisos--raiz",
       "i": "wi-ar-losa-de-viguetas-y-ladrillos-ceramicos-de-12-5-cm-luz-3-50-m",
       "k": "work_item",
-      "p": 75433.04,
+      "p": 76547,
       "s": "Losa de viguetas y ladrillos cerámicos de 12,5 cm, luz 3,50 m",
       "u": "m2"
     },
@@ -4404,7 +4420,7 @@
       "c": "entrepisos--raiz",
       "i": "wi-ar-losa-de-viguetas-y-ladrillos-ceramicos-de-9-cm-luz-3-50-m",
       "k": "work_item",
-      "p": 64640.44,
+      "p": 65754.4,
       "s": "Losa de viguetas y ladrillos cerámicos de 9 cm, luz 3,50 m",
       "u": "m2"
     },
@@ -4476,7 +4492,7 @@
       "c": "albanileria--mamposteria",
       "i": "wi-ar-mamposteria-de-ladrillo-comun-de-soga-espesor-12-cm",
       "k": "work_item",
-      "p": 32730.55,
+      "p": 37473.32,
       "s": "Mampostería de ladrillo común de soga, espesor 12 cm",
       "u": "m2"
     },
@@ -4580,7 +4596,7 @@
       "c": "demoliciones-y-trabajos-previos--demoliciones",
       "i": "wi-ar-picado-de-revoque-en-paredes",
       "k": "work_item",
-      "p": 3648.29,
+      "p": 6080.48,
       "s": "Picado de revoque en paredes",
       "u": "m2"
     },
@@ -4604,7 +4620,7 @@
       "c": "pinturas--exteriores",
       "i": "wi-ar-pintura-al-latex-acrilico-para-exteriores-tres-manos",
       "k": "work_item",
-      "p": 9484.2,
+      "p": 15992.11,
       "s": "Pintura al látex acrílico para exteriores, tres manos",
       "u": "m2"
     },
@@ -4612,7 +4628,7 @@
       "c": "pinturas--interiores",
       "i": "wi-ar-pintura-al-latex-en-cielorrasos-tres-manos",
       "k": "work_item",
-      "p": 9723.73,
+      "p": 13980.48,
       "s": "Pintura al látex en cielorrasos, tres manos",
       "u": "m2"
     },
@@ -4620,7 +4636,7 @@
       "c": "pinturas--interiores",
       "i": "wi-ar-pintura-al-latex-interior-tres-manos-con-enduido-previo",
       "k": "work_item",
-      "p": 8956,
+      "p": 12470.27,
       "s": "Pintura al látex interior, tres manos con enduido previo",
       "u": "m2"
     },
@@ -4636,7 +4652,7 @@
       "c": "pisos--raiz",
       "i": "wi-ar-piso-de-baldosas-calcareas-o-ceramico-para-azotea-20x20-junt",
       "k": "work_item",
-      "p": 39794.82,
+      "p": 39626.1,
       "s": "Piso de baldosas calcareas o cerámico para azotea 20x20, junta cerrada",
       "u": "m2"
     },
@@ -4644,7 +4660,7 @@
       "c": "solados--pisos",
       "i": "wi-ar-piso-de-cemento-alisado",
       "k": "work_item",
-      "p": 45268.18,
+      "p": 20813.88,
       "s": "Piso de cemento alisado",
       "u": "m2"
     },
@@ -4684,7 +4700,7 @@
       "c": "pisos--raiz",
       "i": "wi-ar-piso-de-lajas-irregulares-junta-tomada-con-concreto",
       "k": "work_item",
-      "p": 47976.15,
+      "p": 47781.5,
       "s": "Piso de lajas irregulares, junta tomada con concreto",
       "u": "m2"
     },
@@ -4692,7 +4708,7 @@
       "c": "solados--pisos",
       "i": "wi-ar-piso-de-mosaico-granitico-30x30-cm",
       "k": "work_item",
-      "p": 60979.21,
+      "p": 50395.59,
       "s": "Piso de mosaico granítico 30x30 cm",
       "u": "m2"
     },
@@ -4700,7 +4716,7 @@
       "c": "pisos--raiz",
       "i": "wi-ar-piso-de-mosaicos-graniticos-en-locales-sanitarios",
       "k": "work_item",
-      "p": 57365.28,
+      "p": 57196.56,
       "s": "Piso de mosaicos graniticos, en locales sanitarios",
       "u": "m2"
     },
@@ -4708,7 +4724,7 @@
       "c": "solados--pisos",
       "i": "wi-ar-piso-de-porcelanato-60x60-cm",
       "k": "work_item",
-      "p": 61999.91,
+      "p": 55463.89,
       "s": "Piso de porcelanato 60x60 cm",
       "u": "m2"
     },
@@ -4724,7 +4740,7 @@
       "c": "solados--pisos",
       "i": "wi-ar-piso-flotante-laminado-ac4-de-8-mm",
       "k": "work_item",
-      "p": 63062.94,
+      "p": 53013.6,
       "s": "Piso flotante laminado AC4 de 8 mm",
       "u": "m2"
     },
@@ -4756,7 +4772,7 @@
       "c": "instalacion-cloacal--raiz",
       "i": "wi-ar-pozo-absorvente-4-5-m3-diametro-1-20-m-profundidad-4-00-mts",
       "k": "work_item",
-      "p": 1659861.07,
+      "p": 1667857.57,
       "s": "Pozo absorvente, 4,5 m3, diametro 1,20 m-profundidad 4,00 mts",
       "u": "u"
     },
@@ -4836,7 +4852,7 @@
       "c": "demoliciones-y-trabajos-previos--demoliciones",
       "i": "wi-ar-retiro-de-piso-ceramico",
       "k": "work_item",
-      "p": 6688.53,
+      "p": 7296.58,
       "s": "Retiro de piso cerámico",
       "u": "m2"
     },
@@ -4868,7 +4884,7 @@
       "c": "revestimientos--raiz",
       "i": "wi-ar-revestimiento-de-azulejos-15x15-colocados-con-mezcla-de-cal",
       "k": "work_item",
-      "p": 62790.66,
+      "p": 62695.93,
       "s": "Revestimiento de azulejos 15x15 colocados con mezcla de cal",
       "u": "m2"
     },
@@ -4884,7 +4900,7 @@
       "c": "revestimientos--raiz",
       "i": "wi-ar-revestimiento-de-ceramicos-sobre-escalera-de-hormigon-con-na",
       "k": "work_item",
-      "p": 66430.87,
+      "p": 66355.15,
       "s": "Revestimiento de cerámicos sobre escalera de hormigón, con nariz de madera, zócalo cerámico",
       "u": "u"
     },
@@ -4924,7 +4940,7 @@
       "c": "revestimientos--ceramicos",
       "i": "wi-ar-revestimiento-de-porcelanato-en-paramento",
       "k": "work_item",
-      "p": 61999.91,
+      "p": 55463.89,
       "s": "Revestimiento de porcelanato en paramento",
       "u": "m2"
     },
@@ -4940,7 +4956,7 @@
       "c": "revoques--raiz",
       "i": "wi-ar-revoque-exterior-completo-a-la-cal-incluye-planchado-de-azot",
       "k": "work_item",
-      "p": 36250.49,
+      "p": 36224.21,
       "s": "Revoque exterior completo a la cal, incluye planchado de azotado hidrófugo",
       "u": "m2"
     },
@@ -4948,7 +4964,7 @@
       "c": "revoques--exteriores",
       "i": "wi-ar-revoque-exterior-completo-impermeable-grueso-y-fino",
       "k": "work_item",
-      "p": 41954.14,
+      "p": 41262.66,
       "s": "Revoque exterior completo, impermeable, grueso y fino",
       "u": "m2"
     },
@@ -4956,7 +4972,7 @@
       "c": "revoques--raiz",
       "i": "wi-ar-revoque-fino-a-la-cal-espesor-4-mm",
       "k": "work_item",
-      "p": 10515.12,
+      "p": 10488.84,
       "s": "Revoque fino a la cal, espesor 4 mm",
       "u": "m2"
     },
@@ -4972,7 +4988,7 @@
       "c": "revoques--raiz",
       "i": "wi-ar-revoque-fino-exterior-a-la-cal-espesor-3-mm",
       "k": "work_item",
-      "p": 6477.13,
+      "p": 6461.57,
       "s": "Revoque fino exterior a la cal, espesor 3 mm",
       "u": "m2"
     },
@@ -5020,7 +5036,7 @@
       "c": "revoques--raiz",
       "i": "wi-ar-revoque-grueso-de-vermiculita-como-aislante-termico-espesor",
       "k": "work_item",
-      "p": 45774.31,
+      "p": 45649.84,
       "s": "Revoque grueso de vermiculita, como aislante térmico-espesor 2 cm",
       "u": "m2"
     },
@@ -5044,7 +5060,7 @@
       "c": "revoques--interiores",
       "i": "wi-ar-revoque-interior-completo-a-la-cal-grueso-y-fino",
       "k": "work_item",
-      "p": 24061.86,
+      "p": 23456.82,
       "s": "Revoque interior completo a la cal, grueso y fino",
       "u": "m2"
     },
@@ -5188,7 +5204,7 @@
       "c": "estructura-metalica--perfiles",
       "i": "wi-ar-viga-de-perfil-ipn-100-colocada-y-pintada",
       "k": "work_item",
-      "p": 24227.78,
+      "p": 28646.45,
       "s": "Viga de perfil IPN 100 colocada y pintada",
       "u": "m"
     },
@@ -5196,7 +5212,7 @@
       "c": "estructura-metalica--perfiles",
       "i": "wi-ar-viga-de-perfil-ipn-120-colocada-y-pintada",
       "k": "work_item",
-      "p": 27748.9,
+      "p": 33622.81,
       "s": "Viga de perfil IPN 120 colocada y pintada",
       "u": "m"
     },
@@ -5292,7 +5308,7 @@
       "c": "zocalos--raiz",
       "i": "wi-ar-zocalo-de-lajas-irregulares-altura-10-cm",
       "k": "work_item",
-      "p": 9914.54,
+      "p": 9895.18,
       "s": "Zócalo de lajas irregulares, altura 10 cm",
       "u": "m"
     },
@@ -5329,5 +5345,5 @@
       "u": "m"
     }
   ],
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

@@ -428,7 +428,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 62790.66
+          "value": 62695.93
         },
         {
           "currency": "ARS",
@@ -441,7 +441,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 65905.52
+          "value": 65810.78
         },
         {
           "currency": "ARS",
@@ -454,7 +454,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 83368.36
+          "value": 83273.63
         },
         {
           "currency": "ARS",
@@ -467,7 +467,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 90596.38
+          "value": 90501.64
         }
       ],
       "sources": [
@@ -484,7 +484,7 @@
       ],
       "text": "Revestimiento de azulejos 15x15 colocados con mezcla de cal. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.755Z",
+      "updatedAt": "2026-11-14T22:02:33.461Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -692,7 +692,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 66430.87
+          "value": 66355.15
         },
         {
           "currency": "ARS",
@@ -705,7 +705,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 72834.26
+          "value": 72758.54
         },
         {
           "currency": "ARS",
@@ -718,7 +718,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 109721.51
+          "value": 109645.79
         },
         {
           "currency": "ARS",
@@ -731,7 +731,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 123313.23
+          "value": 123237.51
         }
       ],
       "sources": [
@@ -748,7 +748,7 @@
       ],
       "text": "Revestimiento de cerámicos sobre escalera de hormigón, con nariz de madera, zócalo cerámico. Análisis de precio unitario. Medida por u. Precio computado desde la descomposición.",
       "unit": "u",
-      "updatedAt": "2026-11-06T14:19:15.760Z",
+      "updatedAt": "2026-11-14T22:02:33.462Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1272,5 +1272,5 @@
       }
     }
   ],
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

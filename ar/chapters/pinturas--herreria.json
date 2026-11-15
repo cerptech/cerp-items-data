@@ -9,14 +9,8 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.27,
+          "quantity": 1.4,
           "ref": "mo-ar-oficial-cct-76-75",
-          "role": "labor"
-        },
-        {
-          "factor": 1,
-          "quantity": 0.64,
-          "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
@@ -54,7 +48,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 15929.35
+          "value": 24303.19
         },
         {
           "currency": "ARS",
@@ -67,7 +61,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 17250.91
+          "value": 26515.05
         },
         {
           "currency": "ARS",
@@ -80,7 +74,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25205.79
+          "value": 37962.92
         },
         {
           "currency": "ARS",
@@ -93,7 +87,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27572.27
+          "value": 44317.52
         }
       ],
       "sources": [
@@ -111,9 +105,9 @@
         "herrería",
         "antióxido"
       ],
-      "text": "Esmalte sintético brillante sobre herrería, en dos manos, previa limpieza mecánica y aplicación de convertidor de óxido. Medido por metro cuadrado de superficie desarrollada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "text": "Esmalte sintético brillante sobre herrería, en dos manos, previa limpieza mecánica y aplicación de convertidor de óxido. Medido por metro cuadrado de superficie desarrollada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: fuente, ítem «Pinturas — Esmalte sintético sobre carpintería metálica (hojas)» de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán (FACET-UNT), de descarga libre: 1,40 h de oficial por m², sin ayudante, con un consumo de 0,12 l de esmalte y 0,10 l de antióxido. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes y usa sólo las categorías Oficial y Ayudante, sin medio oficial. Nivel de verificación cross-check-secundario, pendiente de contraste. DECISIÓN DE CURACIÓN (noviembre 2026): antes se usaban las horas del ítem 21.4 «Esmalte sintético» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (0,27 h de oficial y 0,64 h de ayudante). Ese análisis consume 0,15 l/m² de esmalte, prácticamente lo mismo que esta partida (0,16 l/m²), así que el criterio de escalar las horas por consumo que se aplicó a las pinturas al látex no lo corrige, y esas horas resultaban bajas para una tarea de dos productos sobre metal. Se tomó el ítem de FACET-UNT porque cubre la misma tarea (esmalte con antióxido sobre metal) con un consumo comparable: 0,22 l/m² en la fuente frente a 0,26 l/m² de esta partida. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.355Z",
+      "updatedAt": "2026-11-15T22:13:15.086Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -121,5 +115,5 @@
       }
     }
   ],
-  "version": "0.7.0"
+  "version": "0.8.0"
 }
