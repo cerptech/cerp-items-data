@@ -1,8 +1,8 @@
 # Banco de ítems de construcción CERP
 
-Catálogo abierto de **668 ítems de construcción de Argentina** con precios de referencia y descomposición completa (mano de obra, materiales y maquinaria con rendimientos). Versión **0.8.0** · generado 2026-11-15 · mantenido por [CERP](https://cerp.es).
+Catálogo abierto de **672 ítems de construcción de Argentina** con precios de referencia y descomposición completa (mano de obra, materiales y maquinaria con rendimientos). Versión **0.9.0** · generado 2026-11-16 · mantenido por [CERP](https://cerp.es).
 
-331 partidas de obra · 318 materiales · 19 recursos de mano de obra y maquinaria
+333 partidas de obra · 320 materiales · 19 recursos de mano de obra y maquinaria
 
 ## Para personas
 
@@ -18,9 +18,9 @@ También podés navegar los capítulos en [`chapters/`](./chapters): cada capít
 | [Albañilería > Construcción en seco](./chapters/albanileria--construccion-en-seco.md) | 1 | [JSON](./chapters/albanileria--construccion-en-seco.json) |
 | [Albañilería > Mampostería](./chapters/albanileria--mamposteria.md) | 6 | [JSON](./chapters/albanileria--mamposteria.json) |
 | [Carpetas](./chapters/carpetas--raiz.md) | 10 | [JSON](./chapters/carpetas--raiz.json) |
-| [Carpinterías > Aluminio](./chapters/carpinterias--aluminio.md) | 1 | [JSON](./chapters/carpinterias--aluminio.json) |
+| [Carpinterías > Aluminio](./chapters/carpinterias--aluminio.md) | 2 | [JSON](./chapters/carpinterias--aluminio.json) |
 | [Carpinterías > Chapa](./chapters/carpinterias--chapa.md) | 1 | [JSON](./chapters/carpinterias--chapa.json) |
-| [Carpinterías > Madera](./chapters/carpinterias--madera.md) | 1 | [JSON](./chapters/carpinterias--madera.json) |
+| [Carpinterías > Madera](./chapters/carpinterias--madera.md) | 2 | [JSON](./chapters/carpinterias--madera.json) |
 | [Cielorrasos > Aplicados](./chapters/cielorrasos--aplicados.md) | 2 | [JSON](./chapters/cielorrasos--aplicados.json) |
 | [Cielorrasos > Madera](./chapters/cielorrasos--madera.md) | 1 | [JSON](./chapters/cielorrasos--madera.json) |
 | [Cielorrasos](./chapters/cielorrasos--raiz.md) | 18 | [JSON](./chapters/cielorrasos--raiz.json) |

@@ -60,7 +60,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 266111.04
+          "value": 280642.86
         },
         {
           "currency": "ARS",
@@ -73,7 +73,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 273556.84
+          "value": 288088.66
         },
         {
           "currency": "ARS",
@@ -86,7 +86,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 316448.99
+          "value": 330980.81
         },
         {
           "currency": "ARS",
@@ -99,7 +99,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 332253.31
+          "value": 346785.13
         }
       ],
       "sources": [
@@ -118,15 +118,138 @@
         "abertura",
         "carpintería"
       ],
-      "text": "Provisión y colocación de ventana corrediza de aluminio línea Módena de 150x110 cm con VIDRIO FLOAT SIMPLE DE 4 MM, incluidos amure, sellado perimetral y ayuda de gremios. Medida por unidad colocada. ALCANCE (aclaración de curación CERP 2026-11): esta partida es la variante de vidrio simple; el precio de su material no incluye guía, tapajunta ni mosquitero. La variante con doble vidriado hermético todavía no está en el banco. La carpintería argentina se computa por unidad con la medida en la denominación, y se especifica por línea comercial. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO DE FUENTE, ELEGIDO POR CURACIÓN CERP (noviembre 2026): mano de obra y consumo de amure del ítem «Carpintería Ventana 1 x 1,43» (ventana de madera de 1,00 x 1,43 m) de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la FACET-UNT, de descarga libre: oficial 2,50 h, ayudante 2,50 h, arena gruesa 0,01 m3 y cemento portland 3,15 kg por unidad (3,15 kg = 0,063 bolsa de 50 kg). La fuente asigna las mismas horas (2,50 de oficial y 2,50 de ayudante) a la ventana de 1,00 x 1,00 y a la de 1,00 x 1,43, así que en ese rango el tiempo no crece con la superficie; se aplica a esta ventana sin escalar. DOS SALVEDADES DECLARADAS: la fuente es carpintería de madera y esta es de aluminio, y su medida (1,43 m2) es menor que la de este ítem (1,65 m2). ADVERTENCIAS DE LA FUENTE: no lleva fecha ni encabezado institucional, no declara la procedencia metodológica de sus coeficientes y usa sólo Oficial y Ayudante; nivel de verificación cross-check-secundario. CORRECCIÓN (noviembre 2026): desde septiembre de 2026 esta partida usaba por analogía el rendimiento de la colocación de puerta de chapa (oficial 3,30 h y ayudante 3,30 h), con el argumento de que las ventanas de la fuente eran contradictorias (2,50 h la de 1,00 x 1,00 y 1,50 h la de 1,00 x 1,43). Ese argumento era una lectura errónea del PDF: las dos ventanas tienen 2,50 h, y el 1,50 es del renglón vecino, «Carpintería Ventiluz 0,50 x 0,50». Se pasó a la ventana de la propia fuente porque es la misma tarea, mientras que las horas de la puerta incluyen colocar bisagras, cerradura y manijón, que la ventana no lleva. PRECIO: los precios de materiales y jornales son los vigentes en el banco a la fecha de cálculo de la partida, no los de la fuente del rendimiento.",
+      "text": "Provisión y colocación de ventana corrediza de aluminio línea Módena de 150x110 cm con VIDRIO FLOAT SIMPLE DE 4 MM, incluidos amure, sellado perimetral y ayuda de gremios. Medida por unidad colocada. ALCANCE (aclaración de curación CERP 2026-11): esta partida es la variante de vidrio simple; el precio de su material no incluye guía, tapajunta ni mosquitero. La variante con doble vidriado hermético es otra partida: \"Colocación de ventana DVH de aluminio Módena 150x110 cm\". La carpintería argentina se computa por unidad con la medida en la denominación, y se especifica por línea comercial. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO DE FUENTE, ELEGIDO POR CURACIÓN CERP (noviembre 2026): mano de obra y consumo de amure del ítem «Carpintería Ventana 1 x 1,43» (ventana de madera de 1,00 x 1,43 m) de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la FACET-UNT, de descarga libre: oficial 2,50 h, ayudante 2,50 h, arena gruesa 0,01 m3 y cemento portland 3,15 kg por unidad (3,15 kg = 0,063 bolsa de 50 kg). La fuente asigna las mismas horas (2,50 de oficial y 2,50 de ayudante) a la ventana de 1,00 x 1,00 y a la de 1,00 x 1,43, así que en ese rango el tiempo no crece con la superficie; se aplica a esta ventana sin escalar. DOS SALVEDADES DECLARADAS: la fuente es carpintería de madera y esta es de aluminio, y su medida (1,43 m2) es menor que la de este ítem (1,65 m2). ADVERTENCIAS DE LA FUENTE: no lleva fecha ni encabezado institucional, no declara la procedencia metodológica de sus coeficientes y usa sólo Oficial y Ayudante; nivel de verificación cross-check-secundario. CORRECCIÓN (noviembre 2026): desde septiembre de 2026 esta partida usaba por analogía el rendimiento de la colocación de puerta de chapa (oficial 3,30 h y ayudante 3,30 h), con el argumento de que las ventanas de la fuente eran contradictorias (2,50 h la de 1,00 x 1,00 y 1,50 h la de 1,00 x 1,43). Ese argumento era una lectura errónea del PDF: las dos ventanas tienen 2,50 h, y el 1,50 es del renglón vecino, «Carpintería Ventiluz 0,50 x 0,50». Se pasó a la ventana de la propia fuente porque es la misma tarea, mientras que las horas de la puerta incluyen colocar bisagras, cerradura y manijón, que la ventana no lleva. PRECIO: los precios de materiales y jornales son los vigentes en el banco a la fecha de cálculo de la partida, no los de la fuente del rendimiento. El material ventana se relevó de nuevo el 16-11-2026 en tres comercios.",
       "unit": "u",
-      "updatedAt": "2026-11-14T22:56:56.861Z",
+      "updatedAt": "2026-11-16T13:51:52.228Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
         "status": "auto_ok"
       }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.5,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.5,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-ventana-de-aluminio-linea-modena-de-150x110-cm-con-dvh",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mt-ar-arena-gruesa-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.063,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Carpinterías",
+          "Aluminio"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-16T13:43:06.782Z",
+      "id": "wi-ar-colocacion-de-ventana-dvh-de-aluminio-modena-150x110-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 528844.1
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 536289.9
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 579182.05
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 594986.37
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-colocacion-de-ventana-dvh-de-aluminio-modena-150x110-cm",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Colocación de ventana DVH de aluminio Módena 150x110 cm",
+      "tags": [
+        "ventana",
+        "aluminio",
+        "módena",
+        "dvh",
+        "abertura",
+        "carpintería"
+      ],
+      "text": "Provisión y colocación de ventana corrediza de aluminio línea Módena de 150x110 cm con doble vidriado hermético (DVH), incluidos amure, sellado perimetral y ayuda de gremios. INCLUYE: la ventana con su DVH colocado de fábrica, el mortero de amure y la mano de obra de colocación. NO INCLUYE: ni mosquitero, ni reja, ni premarco, ni guía de persiana. El precio de referencia del material puede incluir contramarcos y dos de sus tres fichas declaran DVH 4/9/4: ver el material. Medida por unidad colocada. Es la variante DVH de \"Colocación de ventana de aluminio línea Módena de 150x110 cm\", que lleva vidrio float simple de 4 mm. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Se usa la misma mano de obra que la variante de vidrio simple, porque el vidrio llega colocado de fábrica y la tarea de obra es la misma. RENDIMIENTO DE FUENTE, ELEGIDO POR CURACIÓN CERP (noviembre 2026): mano de obra y consumo de amure del ítem «Carpintería Ventana 1 x 1,43» (ventana de madera de 1,00 x 1,43 m) de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la FACET-UNT, de descarga libre: oficial 2,50 h, ayudante 2,50 h, arena gruesa 0,01 m3 y cemento portland 3,15 kg por unidad (3,15 kg = 0,063 bolsa de 50 kg). La fuente asigna las mismas horas (2,50 de oficial y 2,50 de ayudante) a la ventana de 1,00 x 1,00 y a la de 1,00 x 1,43, así que en ese rango el tiempo no crece con la superficie; se aplica a esta ventana sin escalar. DOS SALVEDADES DECLARADAS: la fuente es carpintería de madera y esta es de aluminio, y su medida (1,43 m2) es menor que la de este ítem (1,65 m2). ADVERTENCIAS DE LA FUENTE: no lleva fecha ni encabezado institucional, no declara la procedencia metodológica de sus coeficientes y usa sólo Oficial y Ayudante; nivel de verificación cross-check-secundario. LOCALIZADOR: página 14 del PDF (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico). La misma página da 1,50 h al renglón vecino, «Carpintería Ventiluz 0,50 x 0,50», que no es el que se usa. PRECIO: los precios de materiales y jornales son los vigentes en el banco a la fecha de cálculo de la partida, no los de la fuente del rendimiento. El material ventana con DVH se relevó el 16-11-2026 en tres comercios.",
+      "unit": "u",
+      "updatedAt": "2026-11-16T14:06:52.284Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "auto_ok"
+      }
     }
   ],
-  "version": "0.8.0"
+  "version": "0.9.0"
 }

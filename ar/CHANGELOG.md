@@ -16,6 +16,50 @@ Formato: [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/).
 
 ## [Unreleased]
 
+## [0.9.0] - 2026-11-16
+
+Segunda tanda de la base argentina: dos partidas de gama media que faltaban,
+con su material, y un precio re-relevado. Los ids existentes no cambian y los
+precios relevados anteriores se conservan.
+
+### Añadido
+
+- **Argentina — partidas**: «Colocación de puerta placa de cedro de 80x200
+  cm» (u) y «Colocación de ventana DVH de aluminio Módena 150x110 cm» (u).
+  Usan los mismos rendimientos de la fuente que sus variantes ya publicadas
+  (puerta placa de 70x200 cm y ventana de vidrio simple).
+- **Argentina — materiales**: «Puerta placa de cedro de 80x200 cm con marco de
+  chapa» (mediana de 4 comercios) y «Ventana de aluminio línea Módena de
+  150x110 cm con DVH» (mediana de 3 comercios). Precio neto sin IVA, relevado
+  el 16-11-2026, una ficha por comercio.
+
+### Corregido
+
+- **Argentina — ventana de aluminio Módena de 150x110 cm con vidrio simple**:
+  precio re-relevado en tres comercios (el anterior era de agosto). El
+  material sube 7,3% y la partida de colocación 5,5%. El texto decía
+  «anodizado natural, con mosquitero»: las fichas son de aluminio blanco y sin
+  mosquitero.
+- **Argentina — carpeta bajo piso cerámico de 1,8 cm**: solo texto. Aclara
+  que es de cal reforzada y nombra las carpetas de cemento del banco
+  («Carpeta de nivelación de 3 cm» y «Carpeta hidrófuga de 2 cm»).
+
+### Pendiente conocido
+
+- Los precios de las dos partidas nuevas los relevaron y cotejaron agentes;
+  ninguna persona abrió las fichas de los comercios. Deuda con vencimiento en
+  la próxima versión.
+- Ventana con DVH: los tres comercios difieren 1,8 veces y la ficha que fija
+  la mediana incluye contramarcos. Puerta de cedro: no todas las fichas
+  declaran cerradura y bisagras, y el marco no es idéntico en las cuatro.
+  Ninguno de los dos materiales tiene una ficha de Córdoba.
+- El piso y el revestimiento de porcelanato siguen por debajo de las
+  referencias de mercado consultadas. El porcelanato rectificado de primera
+  relevado en comercios no explica la diferencia y no hay una fuente
+  permitida que respalde un precio mayor.
+- 18 partidas argentinas de ejecución no tienen mano de obra cargada (aviso
+  nuevo de la verificación). Se completan antes del 14-01-2027.
+
 ## [0.8.0] - 2026-11-14
 
 Corrección de la base argentina: rendimientos, alcance y materiales de 36

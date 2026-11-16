@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T22:16:38.322Z",
+  "generatedAt": "2026-11-16T15:00:41.385Z",
   "roots": [
     {
       "c": [
@@ -538,7 +538,7 @@
         {
           "k": "carpinterias--aluminio",
           "l": "Aluminio",
-          "n": 4,
+          "n": 6,
           "s": "aluminio"
         },
         {
@@ -550,12 +550,12 @@
         {
           "k": "carpinterias--madera",
           "l": "Madera",
-          "n": 2,
+          "n": 4,
           "s": "madera"
         }
       ],
       "l": "Carpinterías",
-      "n": 8,
+      "n": 12,
       "s": "carpinterias"
     },
     {
@@ -802,6 +802,6 @@
       "s": "marmoles-y-granitos"
     }
   ],
-  "total": 668,
-  "version": "0.8.0"
+  "total": 672,
+  "version": "0.9.0"
 }

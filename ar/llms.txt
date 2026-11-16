@@ -1,6 +1,6 @@
 # Banco de ítems de construcción CERP
 
-> Catálogo abierto de 668 ítems de construcción de Argentina con precios de referencia y descomposición (BOM: mano de obra, materiales, maquinaria). Versión 0.8.0. Formato canónico JSON; cada capítulo también en Markdown. Ids: wi=partida, mt=material, mo=mano de obra, mq=maquinaria, au=auxiliar, ot=otro. Cada precio lleva procedencia (fuente, código origen, edición, ámbito, fecha).
+> Catálogo abierto de 672 ítems de construcción de Argentina con precios de referencia y descomposición (BOM: mano de obra, materiales, maquinaria). Versión 0.9.0. Formato canónico JSON; cada capítulo también en Markdown. Ids: wi=partida, mt=material, mo=mano de obra, mq=maquinaria, au=auxiliar, ot=otro. Cada precio lleva procedencia (fuente, código origen, edición, ámbito, fecha).
 
 Atribución obligatoria al reutilizar: "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo".
 Atribución obligatoria al reutilizar: "Información obtenida del Portal de la Junta de Andalucía".
@@ -10,7 +10,7 @@ Atribución obligatoria al reutilizar: "Información obtenida del Portal de la J
 - [index.json](./index.json): índice máquina de todos los chunks con conteos y hash SHA-256 por archivo
 - [tree.json](./tree.json): árbol de navegación jerárquico completo (labels, slugs, conteos)
 - outlines/<chunk>.json: filas livianas por capítulo (id, resumen, unidad, precio, subgrupos) — para listados sin cargar el capítulo entero
-- [basicos.json](./basicos.json): los 337 conceptos simples (materiales, mano de obra, maquinaria) — resuelve cualquier ref de BOM
+- [basicos.json](./basicos.json): los 339 conceptos simples (materiales, mano de obra, maquinaria) — resuelve cualquier ref de BOM
 - [catalog.json](./catalog.json): catálogo completo en un archivo
 - [countries.json](./countries.json): países disponibles. Este bundle es el del país de la raíz; los demás viven en su subcarpeta (p.ej. [ar/](./ar/llms.txt) para Argentina) con la misma estructura de archivos
 
@@ -29,9 +29,9 @@ Atribución obligatoria al reutilizar: "Información obtenida del Portal de la J
 - [Albañilería > Construcción en seco](./chapters/albanileria--construccion-en-seco.json): 1 ítems ([markdown](./chapters/albanileria--construccion-en-seco.md))
 - [Albañilería > Mampostería](./chapters/albanileria--mamposteria.json): 6 ítems ([markdown](./chapters/albanileria--mamposteria.md))
 - [Carpetas](./chapters/carpetas--raiz.json): 10 ítems ([markdown](./chapters/carpetas--raiz.md))
-- [Carpinterías > Aluminio](./chapters/carpinterias--aluminio.json): 1 ítems ([markdown](./chapters/carpinterias--aluminio.md))
+- [Carpinterías > Aluminio](./chapters/carpinterias--aluminio.json): 2 ítems ([markdown](./chapters/carpinterias--aluminio.md))
 - [Carpinterías > Chapa](./chapters/carpinterias--chapa.json): 1 ítems ([markdown](./chapters/carpinterias--chapa.md))
-- [Carpinterías > Madera](./chapters/carpinterias--madera.json): 1 ítems ([markdown](./chapters/carpinterias--madera.md))
+- [Carpinterías > Madera](./chapters/carpinterias--madera.json): 2 ítems ([markdown](./chapters/carpinterias--madera.md))
 - [Cielorrasos > Aplicados](./chapters/cielorrasos--aplicados.json): 2 ítems ([markdown](./chapters/cielorrasos--aplicados.md))
 - [Cielorrasos > Madera](./chapters/cielorrasos--madera.json): 1 ítems ([markdown](./chapters/cielorrasos--madera.md))
 - [Cielorrasos](./chapters/cielorrasos--raiz.json): 18 ítems ([markdown](./chapters/cielorrasos--raiz.md))

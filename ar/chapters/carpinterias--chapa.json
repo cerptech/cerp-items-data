@@ -109,11 +109,13 @@
       "unit": "u",
       "updatedAt": "2026-11-06T14:19:15.074Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "findings": [
+          "cloned_labor_block-b90de893d94a82b3"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
         "status": "auto_ok"
       }
     }
   ],
-  "version": "0.8.0"
+  "version": "0.9.0"
 }

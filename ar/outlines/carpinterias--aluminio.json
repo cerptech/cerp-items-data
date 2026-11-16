@@ -9,11 +9,20 @@
       "u": "u"
     },
     {
-      "d": "2026-08",
+      "d": "2026-11",
+      "g": [],
+      "id": "mt-ar-ventana-de-aluminio-linea-modena-de-150x110-cm-con-dvh",
+      "m": 0,
+      "p": 461404.96,
+      "s": "Ventana de aluminio línea Módena de 150x110 cm con DVH",
+      "u": "u"
+    },
+    {
+      "d": "2026-11",
       "g": [],
       "id": "mt-ar-ventana-de-aluminio-linea-modena-de-150x110-cm-con-vidrio",
       "m": 0,
-      "p": 198671.9,
+      "p": 213203.72,
       "s": "Ventana de aluminio línea Módena de 150x110 cm con vidrio",
       "u": "u"
     },
@@ -29,11 +38,20 @@
       "g": [],
       "id": "wi-ar-colocacion-de-ventana-de-aluminio-linea-modena-de-150x110-cm",
       "m": 5,
-      "p": 266111.04,
+      "p": 280642.86,
       "s": "Colocación de ventana de aluminio línea Módena de 150x110 cm",
+      "u": "u"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-colocacion-de-ventana-dvh-de-aluminio-modena-150x110-cm",
+      "m": 5,
+      "p": 528844.1,
+      "s": "Colocación de ventana DVH de aluminio Módena 150x110 cm",
       "u": "u"
     }
   ],
   "title": "Carpinterías > Aluminio",
-  "version": "0.8.0"
+  "version": "0.9.0"
 }

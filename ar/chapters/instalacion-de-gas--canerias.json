@@ -58,9 +58,11 @@
       "unit": "m",
       "updatedAt": "2026-11-06T14:19:14.889Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
-        "status": "auto_ok"
+        "findings": [
+          "execution_without_labor-f4c2ec2c90bbae19"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "conflicted"
       }
     },
     {
@@ -115,11 +117,13 @@
       "unit": "u",
       "updatedAt": "2026-11-06T14:19:15.048Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
-        "status": "auto_ok"
+        "findings": [
+          "execution_without_labor-6c0a3034337e29b8"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "conflicted"
       }
     }
   ],
-  "version": "0.8.0"
+  "version": "0.9.0"
 }

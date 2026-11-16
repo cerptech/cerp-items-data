@@ -13332,6 +13332,57 @@
       "bom": [],
       "classification": {
         "path": [
+          "Carpinterías",
+          "Madera"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-16T13:46:10.531Z",
+      "id": "mt-ar-puerta-placa-de-cedro-de-80x200-cm-con-marco-de-chapa",
+      "kind": "material",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-puerta-placa-de-cedro-de-80x200-cm-con-marco-de-chapa",
+          "value": 230919.42
+        }
+      ],
+      "sources": [
+        {
+          "code": "mt-ar-puerta-placa-de-cedro-de-80x200-cm-con-marco-de-chapa",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp",
+          "url": "https://www.aberturascarber.com.ar/productos/puerta-placa-cedro-primera-marco-chapa-18-o-pino-de-080-gromanti/"
+        }
+      ],
+      "summary": "Puerta placa de cedro de 80x200 cm con marco de chapa",
+      "tags": [
+        "puerta placa",
+        "cedro",
+        "madera",
+        "interior"
+      ],
+      "text": "Puerta placa de interior con hoja de 80x200 cm enchapada en cedro, para barnizar, lustrar o pintar, provista con marco de chapa de 10 cm. Es una gama y una medida distintas de \"Puerta placa de 70x200 cm con marco de chapa\" (hoja de MDF de 70 cm, kit económico), que es otro ítem. INCLUYE: hoja y marco de chapa. De las cuatro fichas relevadas, tres declaran cerradura (dos de ellas con llave) y dos declaran las bisagras (ficha-pomela); la restante solo aclara que se entrega sin manija. NO INCLUYE: picaporte ni manija, contramarcos ni pintura o lustre. LÍMITES DEL RELEVAMIENTO (curación CERP 2026-11): las fichas no son idénticas en el marco: una es de marco de chapa para tabique de placa de yeso y otra ofrece al mismo precio marco de chapa calibre 18 o de pino, para pared de 10, 15 o tabique de placa; el marco para muro de 15 cm puede costar más (en un comercio, cerca de un 10 % más). Relevada el 16-11-2026 en cuatro comercios, con marcas distintas (CAIA, Plac Corr y Oblak); los cuatro netos quedan dentro de un 3,3 % entre sí. Precio mediana de mercado relevado de Mediana de 4 comercios (Carber, Casa Parisi, Pinturería España, Gili y Cía) (Berazategui y La Matanza (AMBA); San Miguel de Tucumán; Bahía Blanca) el 2026-11-16. Precio NETO por unidad, sin IVA. Relevamiento del 16-11-2026 sin scraping: una ficha por comercio, abierta de a una por un agente de IA de CERP y releída a ciegas por otros dos; precio de lista (no se tomaron los descuentos por pago en efectivo o transferencia). Regla: se toma el «Precio sin impuestos» que la propia ficha declara. Observación 1: Aberturas Carber, «Puerta Placa Cedro Marco Chapa 18 o Pino de 0,80 CAIA», paso 0,80 x 2,00, marco de chapa 18 o de pino al mismo precio, para pared de 10, 15 y tabique de placa, incluye cerradura y una llave, no incluye picaporte, no detalla bisagras: 281.000 con IVA, 232.231,40 sin impuestos. Observación 2: Casa Parisi (casaparisi1948.com.ar/productos/puerta-placa-cedro-con-marco-de-chapa-placorr-cl5lt/), «Puerta Placa Cedro con Marco de Chapa - Placorr», MDF de 3 mm enchapado en cedro, cerradura y fichas-pomela, precio por variante de medida, mano y tabique; se toma la variante «0.80x2.00 / Derecha / 10»: 285.999 con IVA, 236.362,81 sin impuestos (la mano izquierda de la misma medida y tabique figura a 294.999 con IVA y 243.800,83 sin impuestos; la mediana no cambia con una u otra). Observación 3: Pinturería España (tienda.pintureriaespana.com.ar/productos/puerta-placa-oblak-cedro-marco-chapa-80-10/), «Puerta Placa Oblak Cedro Marco Chapa 80/10», se entrega sin manija, no detalla cerradura ni bisagras: 277.825 con IVA, 229.607,44 sin impuestos. Observación 4: Gili y Cía (giliycia.com.ar/puerta-placa-cedro-80-10-cm-der-marco-de-chapa-durlock-plac-corr.html), «Puerta Placa Cedro 80/10 cm Der Marco de chapa Durlock Plac Corr», marco de chapa para tabique de placa de yeso, incluye cerradura, llave y fichas-pomela, no incluye picaporte: muestra 276.928,82 y 228.866,79 sin rótulo; el segundo importe es exactamente el primero dividido por 1,21 y se toma como neto. Mediana de los 4 netos = 230.919,42. Fichas vistas y no usadas: Easy (la misma línea Oblak a 441.900 de lista con una oferta de 353.520; no muestra en la página el precio sin impuestos), Aberturas Web y Aberturas F31 (no declaran la base de impuestos), Duralex y Puertas Premium (sin especificación suficiente o con stock contradictorio). No se consiguió una ficha de Córdoba con hoja de 80 y precio firme.. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "unit": "u",
+      "updatedAt": "2026-11-16T14:06:52.257Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
           "Herramientas",
           "Demolición"
         ]
@@ -15505,6 +15556,58 @@
         ]
       },
       "country": "AR",
+      "createdAt": "2026-11-16T13:43:06.755Z",
+      "id": "mt-ar-ventana-de-aluminio-linea-modena-de-150x110-cm-con-dvh",
+      "kind": "material",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-ventana-de-aluminio-linea-modena-de-150x110-cm-con-dvh",
+          "value": 461404.96
+        }
+      ],
+      "sources": [
+        {
+          "code": "mt-ar-ventana-de-aluminio-linea-modena-de-150x110-cm-con-dvh",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp",
+          "url": "https://mussoaluminios.mitiendanube.com/productos/corrediza-150x110-vidrios-dvh"
+        }
+      ],
+      "summary": "Ventana de aluminio línea Módena de 150x110 cm con DVH",
+      "tags": [
+        "ventana",
+        "aluminio",
+        "módena",
+        "dvh",
+        "abertura"
+      ],
+      "text": "Ventana corrediza de aluminio, línea Módena, de 150x110 cm (ancho x alto), blanca, con doble vidriado hermético (DVH); dos de las tres fichas relevadas declaran la composición 4/9/4 y la tercera no la aclara. Es la variante con DVH de \"Ventana de aluminio línea Módena de 150x110 cm con vidrio\" (vidrio float simple de 4 mm), que es otro ítem: el tipo de vidrio es el factor de precio dominante. INCLUYE: marco, hojas con sus cierres laterales, felpas y rodamientos, y el DVH colocado de fábrica. NO INCLUYE: ni mosquitero, ni reja, ni premarco, ni guía de persiana. CONTRAMARCOS: el precio de referencia puede incluirlos. La ficha que fija la mediana (la del medio de las tres) los trae; de las otras dos, la más cara los ofrece como opcional junto con el premarco y la más barata no los menciona (ofrece como opcionales el mosquitero y la reja). Otros colores (negro, anodizado, bronce) llevan recargo. Curación CERP 2026-11: relevada el 16-11-2026 en tres comercios, con la medida 150x110 y el DVH escritos en la ficha. DISPERSIÓN: el más bajo y el más alto difieren 1,8 veces dentro de la misma especificación; el precio es una referencia de mercado y conviene ajustarlo con la cotización propia. Precio mediana de mercado relevado de Mediana de 3 comercios (Aluwal, Musso Aluminios, Aberturas Carber) (Berazategui, AMBA (Carber); Musso y Aluwal no declaran ciudad en la ficha) el 2026-11-16. Precio NETO por unidad, sin IVA. Relevamiento del 16-11-2026 sin scraping: una ficha por comercio, abierta de a una por un agente de IA de CERP y releída a ciegas por otros dos; precio de lista (no se tomaron los descuentos por pago en efectivo o transferencia). Regla: se toma el «Precio sin impuestos» que la propia ficha declara. Observación 1: Aluwal Aberturas (aluwalaberturas.com.ar/productos/corrediza-modena-blanca-150x110/), «Ventana Corrediza Blanca 150x110 cm Aluminio Línea Módena», variante «DVH (4/9/4) / SIN REJA / SIN MOSQUITERO»: 326.300 con IVA, 269.669,42 sin impuestos. Observación 2: Musso Aluminios, «Ventana Corrediza de Aluminio 150x110 DVH Blanca - Línea Módena», incluye contramarcos, no declara la composición del DVH: 558.300 con IVA, 461.404,96 sin impuestos. Observación 3: Aberturas Carber (aberturascarber.com.ar/productos/ventana-de-aluminio-modena-con-dvh-4-9-4-150-x-110/), «Ventana De Aluminio MODENA Con DVH 4/9/4 1,50 X 1,10», premarco y contramarco opcionales: 587.000 con IVA, 485.123,97 sin impuestos. Mediana de los 3 netos = 461.404,96, que es la observación 2. DECISIÓN DE CURACIÓN: se mantiene la observación 2 aunque incluye contramarcos y no declara la composición del DVH, porque sin ella quedarían dos comercios (269.669,42 y 485.123,97), que difieren 1,8 veces, y su punto medio no sería un dato mejor respaldado; la diferencia de alcance queda avisada en el texto del material. Fichas vistas y no usadas: Aberturas Web (563.000; no declara base de impuestos y comparte domicilio y textos con Carber), TecnoOeste (el precio de la medida 150x110 no se pudo confirmar en la ficha) y Aberturas San Juan (660.000; no queda claro qué adicionales incluye).. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "unit": "u",
+      "updatedAt": "2026-11-16T14:06:52.263Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Carpinterías",
+          "Aluminio"
+        ]
+      },
+      "country": "AR",
       "createdAt": "2026-09-08T09:15:32.573Z",
       "id": "mt-ar-ventana-de-aluminio-linea-modena-de-150x110-cm-con-vidrio",
       "kind": "material",
@@ -15520,6 +15623,18 @@
           "source": "cerp",
           "sourceCode": "mt-ar-ventana-de-aluminio-linea-modena-de-150x110-cm-con-vidrio",
           "value": 198671.9
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-ventana-de-aluminio-linea-modena-de-150x110-cm-con-vidrio",
+          "value": 213203.72
         }
       ],
       "sources": [
@@ -15538,9 +15653,9 @@
         "módena",
         "abertura"
       ],
-      "text": "Ventana corrediza de dos hojas de aluminio, línea Módena, de 150x110 cm, anodizado natural, con vidrio float de 4 mm, mosquitero y herrajes. En Argentina la carpintería de aluminio se especifica por línea comercial: la línea define el perfil, el espesor de vidrio admitido y la prestación. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente argentina 2026 legalmente habilitada de la que tomarlo. Precio mediana de mercado relevado de Mediana de 3 tiendas del AMBA (Espejarte Deco, Abershop, Aberturas Al Costo) (Área metropolitana de Buenos Aires) el 2026-08-22. Precio NETO, sin IVA: el publicado a consumidor final era $240.393 con IVA del 21 % incluido, y se dividió por 1,21. VERIFICACIÓN PARCIAL: las tres cotizaciones de vidrio simple provienen de listados de tiendas del AMBA cuya ficha no se pudo abrir, aunque convergen fuertemente entre sí ($228.270 a $249.999, con 9,5 % de dispersión). La única ficha verificada (Aberturas Web, Berazategui) es con doble vidriado hermético 4/9/4 y cotiza $553.750: el tipo de vidrio es el factor de precio dominante. Habitualmente el precio NO incluye guía, tapajunta ni mosquitero. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "text": "Ventana corrediza de dos hojas de aluminio, línea Módena, de 150x110 cm (ancho x alto), blanca, con vidrio float simple de 4 mm. En Argentina la carpintería de aluminio se especifica por línea comercial: la línea define el perfil, el espesor de vidrio admitido y la prestación. INCLUYE: marco, hojas con sus cierres, felpas y rodamientos, y el vidrio de 4 mm colocado. NO INCLUYE: ni mosquitero, ni reja, ni premarco, ni contramarcos, ni guía o cajón de persiana. Según la ficha, los comercios relevados ofrecen como opcionales el mosquitero y la reja (uno) y el premarco y los contramarcos (otro); el tercero aclara que es sin guía y que no incluye cajón ni persiana. La variante con doble vidriado hermético es otro ítem: \"Ventana de aluminio línea Módena de 150x110 cm con DVH\". CORRECCIÓN DE ALCANCE (curación CERP 2026-11): la descripción anterior decía «anodizado natural, con mosquitero y herrajes». Se corrigen dos cosas para alinear el texto con lo que cubre el precio: (1) ninguna de las fichas relevadas incluye mosquitero, y la nota del precio anterior ya aclaraba que no lo incluía; (2) el color es blanco: las tres fichas de 2026-11 y la ficha citada en el precio de 2026-08 son de aluminio blanco, y al menos un comercio cobra los otros colores (anodizado natural, negro, bronce) con recargo. DISPERSIÓN: el más bajo y el más alto de los tres comercios difieren casi 2 veces dentro de la misma especificación; el precio es una referencia de mercado y conviene ajustarlo con la cotización propia. Historial de precios: 2026-08 (22-08-2026) mediana de 3 tiendas del AMBA (Espejarte Deco, Abershop, Aberturas Al Costo), tomada de listados cuyas fichas no se pudieron abrir; URL de referencia https://www.abershop.ar/MLA-631058369-ventana-modena-150x110-vidrio-entero-aluminio-blanco-promo-_JM; 240.393 a consumidor final con IVA, dividido por 1,21 = 198.671,90 neto. Queda en el canon como precio de esa edición. Precio mediana de mercado relevado de Mediana de 3 comercios (Aluwal, Gili y Cía, Aberturas Carber) (Bahía Blanca (Gili y Cía); Berazategui, AMBA (Carber); Aluwal sin ciudad) el 2026-11-16. Precio NETO por unidad, sin IVA. Relevamiento del 16-11-2026 sin scraping: una ficha por comercio, abierta de a una por un agente de IA de CERP y releída a ciegas por otro; precio de lista (no se tomaron los descuentos por pago en efectivo o transferencia). Regla: se toma el «Precio sin impuestos» que la propia ficha declara. Observación 1: Aluwal Aberturas (aluwalaberturas.com.ar/productos/corrediza-modena-blanca-150x110/), «Ventana Corrediza Blanca 150x110 cm Aluminio Línea Módena», variante «4mm / SIN REJA / SIN MOSQUITERO»: 230.750 con IVA, 190.702,48 sin impuestos. Observación 2: Gili y Cía, «Ventana Corrediza Modena Vidrio Entero Sin Guía 150x110cm Abermax», vidrio entero de 4 mm, sin guía: 257.976,50 con impuestos y 213.203,72 rotulado «Precio S/Imp Nac»; se toma el segundo como neto. Observación 3: Aberturas Carber (aberturascarber.com.ar/productos/ventana-de-aluminio-modena-con-vidrio-4-mm-150-x-110/), «Ventana de aluminio MODENA con VIDRIO 4 MM 1,50 X 1,10», premarco y contramarco opcionales: 455.000 con IVA, 376.033,06 sin impuestos. Mediana de los 3 netos = 213.203,72. Fichas vistas y no usadas porque no declaran la base de impuestos: Aberturas F31 (287.300), Aberturas San Juan (358.800) y Aberturas Web (437.000; comparte domicilio y textos con Carber). Aberturas Torri solo muestra precio de oferta e incluye mosquitero.. No incluye flete ni IVA salvo que la fuente lo indique.",
       "unit": "u",
-      "updatedAt": "2026-09-08T09:15:32.573Z",
+      "updatedAt": "2026-11-16T13:58:59.942Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -16109,5 +16224,5 @@
       }
     }
   ],
-  "version": "0.8.0"
+  "version": "0.9.0"
 }

@@ -64,9 +64,10 @@
       "updatedAt": "2026-11-06T14:19:15.369Z",
       "verification": {
         "findings": [
-          "duplicate_candidate-938802bef997c314"
+          "duplicate_candidate-938802bef997c314",
+          "execution_without_labor-279b733e4c9145b6"
         ],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
         "status": "conflicted"
       }
     },
@@ -128,11 +129,13 @@
       "unit": "m2",
       "updatedAt": "2026-11-06T14:19:15.376Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
-        "status": "auto_ok"
+        "findings": [
+          "execution_without_labor-20a8320a6df1d5c5"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "conflicted"
       }
     }
   ],
-  "version": "0.8.0"
+  "version": "0.9.0"
 }

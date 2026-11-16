@@ -4,7 +4,7 @@
     "Información obtenida del Portal de la Junta de Andalucía"
   ],
   "country": "AR",
-  "generatedAt": "2026-11-15T22:16:38.322Z",
+  "generatedAt": "2026-11-16T15:00:41.385Z",
   "items": [
     {
       "bom": [],
@@ -13334,6 +13334,57 @@
       "bom": [],
       "classification": {
         "path": [
+          "Carpinterías",
+          "Madera"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-16T13:46:10.531Z",
+      "id": "mt-ar-puerta-placa-de-cedro-de-80x200-cm-con-marco-de-chapa",
+      "kind": "material",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-puerta-placa-de-cedro-de-80x200-cm-con-marco-de-chapa",
+          "value": 230919.42
+        }
+      ],
+      "sources": [
+        {
+          "code": "mt-ar-puerta-placa-de-cedro-de-80x200-cm-con-marco-de-chapa",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp",
+          "url": "https://www.aberturascarber.com.ar/productos/puerta-placa-cedro-primera-marco-chapa-18-o-pino-de-080-gromanti/"
+        }
+      ],
+      "summary": "Puerta placa de cedro de 80x200 cm con marco de chapa",
+      "tags": [
+        "puerta placa",
+        "cedro",
+        "madera",
+        "interior"
+      ],
+      "text": "Puerta placa de interior con hoja de 80x200 cm enchapada en cedro, para barnizar, lustrar o pintar, provista con marco de chapa de 10 cm. Es una gama y una medida distintas de \"Puerta placa de 70x200 cm con marco de chapa\" (hoja de MDF de 70 cm, kit económico), que es otro ítem. INCLUYE: hoja y marco de chapa. De las cuatro fichas relevadas, tres declaran cerradura (dos de ellas con llave) y dos declaran las bisagras (ficha-pomela); la restante solo aclara que se entrega sin manija. NO INCLUYE: picaporte ni manija, contramarcos ni pintura o lustre. LÍMITES DEL RELEVAMIENTO (curación CERP 2026-11): las fichas no son idénticas en el marco: una es de marco de chapa para tabique de placa de yeso y otra ofrece al mismo precio marco de chapa calibre 18 o de pino, para pared de 10, 15 o tabique de placa; el marco para muro de 15 cm puede costar más (en un comercio, cerca de un 10 % más). Relevada el 16-11-2026 en cuatro comercios, con marcas distintas (CAIA, Plac Corr y Oblak); los cuatro netos quedan dentro de un 3,3 % entre sí. Precio mediana de mercado relevado de Mediana de 4 comercios (Carber, Casa Parisi, Pinturería España, Gili y Cía) (Berazategui y La Matanza (AMBA); San Miguel de Tucumán; Bahía Blanca) el 2026-11-16. Precio NETO por unidad, sin IVA. Relevamiento del 16-11-2026 sin scraping: una ficha por comercio, abierta de a una por un agente de IA de CERP y releída a ciegas por otros dos; precio de lista (no se tomaron los descuentos por pago en efectivo o transferencia). Regla: se toma el «Precio sin impuestos» que la propia ficha declara. Observación 1: Aberturas Carber, «Puerta Placa Cedro Marco Chapa 18 o Pino de 0,80 CAIA», paso 0,80 x 2,00, marco de chapa 18 o de pino al mismo precio, para pared de 10, 15 y tabique de placa, incluye cerradura y una llave, no incluye picaporte, no detalla bisagras: 281.000 con IVA, 232.231,40 sin impuestos. Observación 2: Casa Parisi (casaparisi1948.com.ar/productos/puerta-placa-cedro-con-marco-de-chapa-placorr-cl5lt/), «Puerta Placa Cedro con Marco de Chapa - Placorr», MDF de 3 mm enchapado en cedro, cerradura y fichas-pomela, precio por variante de medida, mano y tabique; se toma la variante «0.80x2.00 / Derecha / 10»: 285.999 con IVA, 236.362,81 sin impuestos (la mano izquierda de la misma medida y tabique figura a 294.999 con IVA y 243.800,83 sin impuestos; la mediana no cambia con una u otra). Observación 3: Pinturería España (tienda.pintureriaespana.com.ar/productos/puerta-placa-oblak-cedro-marco-chapa-80-10/), «Puerta Placa Oblak Cedro Marco Chapa 80/10», se entrega sin manija, no detalla cerradura ni bisagras: 277.825 con IVA, 229.607,44 sin impuestos. Observación 4: Gili y Cía (giliycia.com.ar/puerta-placa-cedro-80-10-cm-der-marco-de-chapa-durlock-plac-corr.html), «Puerta Placa Cedro 80/10 cm Der Marco de chapa Durlock Plac Corr», marco de chapa para tabique de placa de yeso, incluye cerradura, llave y fichas-pomela, no incluye picaporte: muestra 276.928,82 y 228.866,79 sin rótulo; el segundo importe es exactamente el primero dividido por 1,21 y se toma como neto. Mediana de los 4 netos = 230.919,42. Fichas vistas y no usadas: Easy (la misma línea Oblak a 441.900 de lista con una oferta de 353.520; no muestra en la página el precio sin impuestos), Aberturas Web y Aberturas F31 (no declaran la base de impuestos), Duralex y Puertas Premium (sin especificación suficiente o con stock contradictorio). No se consiguió una ficha de Córdoba con hoja de 80 y precio firme.. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "unit": "u",
+      "updatedAt": "2026-11-16T14:06:52.257Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
           "Herramientas",
           "Demolición"
         ]
@@ -15507,6 +15558,58 @@
         ]
       },
       "country": "AR",
+      "createdAt": "2026-11-16T13:43:06.755Z",
+      "id": "mt-ar-ventana-de-aluminio-linea-modena-de-150x110-cm-con-dvh",
+      "kind": "material",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-ventana-de-aluminio-linea-modena-de-150x110-cm-con-dvh",
+          "value": 461404.96
+        }
+      ],
+      "sources": [
+        {
+          "code": "mt-ar-ventana-de-aluminio-linea-modena-de-150x110-cm-con-dvh",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp",
+          "url": "https://mussoaluminios.mitiendanube.com/productos/corrediza-150x110-vidrios-dvh"
+        }
+      ],
+      "summary": "Ventana de aluminio línea Módena de 150x110 cm con DVH",
+      "tags": [
+        "ventana",
+        "aluminio",
+        "módena",
+        "dvh",
+        "abertura"
+      ],
+      "text": "Ventana corrediza de aluminio, línea Módena, de 150x110 cm (ancho x alto), blanca, con doble vidriado hermético (DVH); dos de las tres fichas relevadas declaran la composición 4/9/4 y la tercera no la aclara. Es la variante con DVH de \"Ventana de aluminio línea Módena de 150x110 cm con vidrio\" (vidrio float simple de 4 mm), que es otro ítem: el tipo de vidrio es el factor de precio dominante. INCLUYE: marco, hojas con sus cierres laterales, felpas y rodamientos, y el DVH colocado de fábrica. NO INCLUYE: ni mosquitero, ni reja, ni premarco, ni guía de persiana. CONTRAMARCOS: el precio de referencia puede incluirlos. La ficha que fija la mediana (la del medio de las tres) los trae; de las otras dos, la más cara los ofrece como opcional junto con el premarco y la más barata no los menciona (ofrece como opcionales el mosquitero y la reja). Otros colores (negro, anodizado, bronce) llevan recargo. Curación CERP 2026-11: relevada el 16-11-2026 en tres comercios, con la medida 150x110 y el DVH escritos en la ficha. DISPERSIÓN: el más bajo y el más alto difieren 1,8 veces dentro de la misma especificación; el precio es una referencia de mercado y conviene ajustarlo con la cotización propia. Precio mediana de mercado relevado de Mediana de 3 comercios (Aluwal, Musso Aluminios, Aberturas Carber) (Berazategui, AMBA (Carber); Musso y Aluwal no declaran ciudad en la ficha) el 2026-11-16. Precio NETO por unidad, sin IVA. Relevamiento del 16-11-2026 sin scraping: una ficha por comercio, abierta de a una por un agente de IA de CERP y releída a ciegas por otros dos; precio de lista (no se tomaron los descuentos por pago en efectivo o transferencia). Regla: se toma el «Precio sin impuestos» que la propia ficha declara. Observación 1: Aluwal Aberturas (aluwalaberturas.com.ar/productos/corrediza-modena-blanca-150x110/), «Ventana Corrediza Blanca 150x110 cm Aluminio Línea Módena», variante «DVH (4/9/4) / SIN REJA / SIN MOSQUITERO»: 326.300 con IVA, 269.669,42 sin impuestos. Observación 2: Musso Aluminios, «Ventana Corrediza de Aluminio 150x110 DVH Blanca - Línea Módena», incluye contramarcos, no declara la composición del DVH: 558.300 con IVA, 461.404,96 sin impuestos. Observación 3: Aberturas Carber (aberturascarber.com.ar/productos/ventana-de-aluminio-modena-con-dvh-4-9-4-150-x-110/), «Ventana De Aluminio MODENA Con DVH 4/9/4 1,50 X 1,10», premarco y contramarco opcionales: 587.000 con IVA, 485.123,97 sin impuestos. Mediana de los 3 netos = 461.404,96, que es la observación 2. DECISIÓN DE CURACIÓN: se mantiene la observación 2 aunque incluye contramarcos y no declara la composición del DVH, porque sin ella quedarían dos comercios (269.669,42 y 485.123,97), que difieren 1,8 veces, y su punto medio no sería un dato mejor respaldado; la diferencia de alcance queda avisada en el texto del material. Fichas vistas y no usadas: Aberturas Web (563.000; no declara base de impuestos y comparte domicilio y textos con Carber), TecnoOeste (el precio de la medida 150x110 no se pudo confirmar en la ficha) y Aberturas San Juan (660.000; no queda claro qué adicionales incluye).. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "unit": "u",
+      "updatedAt": "2026-11-16T14:06:52.263Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Carpinterías",
+          "Aluminio"
+        ]
+      },
+      "country": "AR",
       "createdAt": "2026-09-08T09:15:32.573Z",
       "id": "mt-ar-ventana-de-aluminio-linea-modena-de-150x110-cm-con-vidrio",
       "kind": "material",
@@ -15522,6 +15625,18 @@
           "source": "cerp",
           "sourceCode": "mt-ar-ventana-de-aluminio-linea-modena-de-150x110-cm-con-vidrio",
           "value": 198671.9
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-ventana-de-aluminio-linea-modena-de-150x110-cm-con-vidrio",
+          "value": 213203.72
         }
       ],
       "sources": [
@@ -15540,9 +15655,9 @@
         "módena",
         "abertura"
       ],
-      "text": "Ventana corrediza de dos hojas de aluminio, línea Módena, de 150x110 cm, anodizado natural, con vidrio float de 4 mm, mosquitero y herrajes. En Argentina la carpintería de aluminio se especifica por línea comercial: la línea define el perfil, el espesor de vidrio admitido y la prestación. Curación CERP 2026-08: ítem acuñado SIN PRECIO. No existe hoy una fuente argentina 2026 legalmente habilitada de la que tomarlo. Precio mediana de mercado relevado de Mediana de 3 tiendas del AMBA (Espejarte Deco, Abershop, Aberturas Al Costo) (Área metropolitana de Buenos Aires) el 2026-08-22. Precio NETO, sin IVA: el publicado a consumidor final era $240.393 con IVA del 21 % incluido, y se dividió por 1,21. VERIFICACIÓN PARCIAL: las tres cotizaciones de vidrio simple provienen de listados de tiendas del AMBA cuya ficha no se pudo abrir, aunque convergen fuertemente entre sí ($228.270 a $249.999, con 9,5 % de dispersión). La única ficha verificada (Aberturas Web, Berazategui) es con doble vidriado hermético 4/9/4 y cotiza $553.750: el tipo de vidrio es el factor de precio dominante. Habitualmente el precio NO incluye guía, tapajunta ni mosquitero. No incluye flete ni IVA salvo que la fuente lo indique.",
+      "text": "Ventana corrediza de dos hojas de aluminio, línea Módena, de 150x110 cm (ancho x alto), blanca, con vidrio float simple de 4 mm. En Argentina la carpintería de aluminio se especifica por línea comercial: la línea define el perfil, el espesor de vidrio admitido y la prestación. INCLUYE: marco, hojas con sus cierres, felpas y rodamientos, y el vidrio de 4 mm colocado. NO INCLUYE: ni mosquitero, ni reja, ni premarco, ni contramarcos, ni guía o cajón de persiana. Según la ficha, los comercios relevados ofrecen como opcionales el mosquitero y la reja (uno) y el premarco y los contramarcos (otro); el tercero aclara que es sin guía y que no incluye cajón ni persiana. La variante con doble vidriado hermético es otro ítem: \"Ventana de aluminio línea Módena de 150x110 cm con DVH\". CORRECCIÓN DE ALCANCE (curación CERP 2026-11): la descripción anterior decía «anodizado natural, con mosquitero y herrajes». Se corrigen dos cosas para alinear el texto con lo que cubre el precio: (1) ninguna de las fichas relevadas incluye mosquitero, y la nota del precio anterior ya aclaraba que no lo incluía; (2) el color es blanco: las tres fichas de 2026-11 y la ficha citada en el precio de 2026-08 son de aluminio blanco, y al menos un comercio cobra los otros colores (anodizado natural, negro, bronce) con recargo. DISPERSIÓN: el más bajo y el más alto de los tres comercios difieren casi 2 veces dentro de la misma especificación; el precio es una referencia de mercado y conviene ajustarlo con la cotización propia. Historial de precios: 2026-08 (22-08-2026) mediana de 3 tiendas del AMBA (Espejarte Deco, Abershop, Aberturas Al Costo), tomada de listados cuyas fichas no se pudieron abrir; URL de referencia https://www.abershop.ar/MLA-631058369-ventana-modena-150x110-vidrio-entero-aluminio-blanco-promo-_JM; 240.393 a consumidor final con IVA, dividido por 1,21 = 198.671,90 neto. Queda en el canon como precio de esa edición. Precio mediana de mercado relevado de Mediana de 3 comercios (Aluwal, Gili y Cía, Aberturas Carber) (Bahía Blanca (Gili y Cía); Berazategui, AMBA (Carber); Aluwal sin ciudad) el 2026-11-16. Precio NETO por unidad, sin IVA. Relevamiento del 16-11-2026 sin scraping: una ficha por comercio, abierta de a una por un agente de IA de CERP y releída a ciegas por otro; precio de lista (no se tomaron los descuentos por pago en efectivo o transferencia). Regla: se toma el «Precio sin impuestos» que la propia ficha declara. Observación 1: Aluwal Aberturas (aluwalaberturas.com.ar/productos/corrediza-modena-blanca-150x110/), «Ventana Corrediza Blanca 150x110 cm Aluminio Línea Módena», variante «4mm / SIN REJA / SIN MOSQUITERO»: 230.750 con IVA, 190.702,48 sin impuestos. Observación 2: Gili y Cía, «Ventana Corrediza Modena Vidrio Entero Sin Guía 150x110cm Abermax», vidrio entero de 4 mm, sin guía: 257.976,50 con impuestos y 213.203,72 rotulado «Precio S/Imp Nac»; se toma el segundo como neto. Observación 3: Aberturas Carber (aberturascarber.com.ar/productos/ventana-de-aluminio-modena-con-vidrio-4-mm-150-x-110/), «Ventana de aluminio MODENA con VIDRIO 4 MM 1,50 X 1,10», premarco y contramarco opcionales: 455.000 con IVA, 376.033,06 sin impuestos. Mediana de los 3 netos = 213.203,72. Fichas vistas y no usadas porque no declaran la base de impuestos: Aberturas F31 (287.300), Aberturas San Juan (358.800) y Aberturas Web (437.000; comparte domicilio y textos con Carber). Aberturas Torri solo muestra precio de oferta e incluye mosquitero.. No incluye flete ni IVA salvo que la fuente lo indique.",
       "unit": "u",
-      "updatedAt": "2026-09-08T09:15:32.573Z",
+      "updatedAt": "2026-11-16T13:58:59.942Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -17408,9 +17523,11 @@
       "unit": "m",
       "updatedAt": "2026-11-06T14:19:14.829Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
-        "status": "auto_ok"
+        "findings": [
+          "execution_without_labor-7714876cc4ce2546"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "conflicted"
       }
     },
     {
@@ -18442,9 +18559,11 @@
       "unit": "m",
       "updatedAt": "2026-11-06T14:19:14.864Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
-        "status": "auto_ok"
+        "findings": [
+          "execution_without_labor-7a7f5dd0ffbabb89"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "conflicted"
       }
     },
     {
@@ -19128,9 +19247,11 @@
       "unit": "m",
       "updatedAt": "2026-11-06T14:19:14.889Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
-        "status": "auto_ok"
+        "findings": [
+          "execution_without_labor-f4c2ec2c90bbae19"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "conflicted"
       }
     },
     {
@@ -19713,9 +19834,9 @@
       "tags": [
         "carpetas"
       ],
-      "text": "Carpeta bajo piso cerámico o similar, espesor 1,8 cm, de MORTERO DE CAL REFORZADO (cemento, cal hidráulica y arena mediana). Medida por m2. Precio computado desde la descomposición. RENDIMIENTO DE FUENTE: mano de obra (oficial 0,45 h, ayudante 0,23 h) y consumos (cemento 1,78 kg = 0,0356 bolsa de 50 kg, cal hidráulica 4 kg y arena mediana 0,024 m3 por m2) tomados de un template de ítems de terceros que no se pudo cotejar en esta revisión; los valores quedan como se cargaron en 2026-10. REVISIÓN DE CURACIÓN CERP (2026-11): se revisó si la descomposición tiene un error de cantidades. No lo tiene: es una dosificación de mortero de cal reforzado, no de mortero de cemento. Lo indican tres cosas. (1) Las proporciones: 1,78 kg de cemento, 4 kg de cal y 0,024 m3 de arena equivalen aproximadamente a 1/4 : 1 : 4 en volumen (cemento : cal : arena), una dosificación tradicional de carpeta (cálculo de CERP a partir de la descomposición, no dato de la fuente). (2) El volumen: los 0,024 m3 de arena son coherentes con 1,8 cm de espesor más pérdidas. (3) La partida hermana \"Carpeta de cal reforzada, espesor 30mm\", del mismo template, lleva la misma familia de dosificación (2,7 kg de cemento, 4,3 kg de cal hidráulica y 0,033 m3 de arena). Las carpetas cementicias de las fuentes abiertas son otra especificación y no se usaron para corregir esta: el Colegio de Arquitectos de Salta (CAS 3, ítem 6.1, carpeta niveladora de 3 cm) da 21 kg de cemento y 0,03 m3 de arena, y la FACET-UNT (carpeta cementicia de 2 cm) da 8,20 kg de cemento y 0,03 m3 de arena. Si la obra pide carpeta cementicia, por ejemplo para pegar con adhesivo cementicio, conviene usar una de esas partidas y no esta.",
+      "text": "Carpeta bajo piso cerámico o similar, espesor 1,8 cm, de MORTERO DE CAL REFORZADO (cemento, cal hidráulica y arena mediana). Medida por m2. Precio computado desde la descomposición. RENDIMIENTO DE FUENTE: mano de obra (oficial 0,45 h, ayudante 0,23 h) y consumos (cemento 1,78 kg = 0,0356 bolsa de 50 kg, cal hidráulica 4 kg y arena mediana 0,024 m3 por m2) tomados de un template de ítems de terceros que no se pudo cotejar en esta revisión; los valores quedan como se cargaron en 2026-10. REVISIÓN DE CURACIÓN CERP (2026-11): se revisó si la descomposición tiene un error de cantidades. No lo tiene: es una dosificación de mortero de cal reforzado, no de mortero de cemento. Lo indican tres cosas. (1) Las proporciones: 1,78 kg de cemento, 4 kg de cal y 0,024 m3 de arena equivalen aproximadamente a 1/4 : 1 : 4 en volumen (cemento : cal : arena), una dosificación tradicional de carpeta (cálculo de CERP a partir de la descomposición, no dato de la fuente). (2) El volumen: los 0,024 m3 de arena son coherentes con 1,8 cm de espesor más pérdidas. (3) La partida hermana \"Carpeta de cal reforzada, espesor 30mm\", del mismo template, lleva la misma familia de dosificación (2,7 kg de cemento, 4,3 kg de cal hidráulica y 0,033 m3 de arena). Las carpetas cementicias de las fuentes abiertas son otra especificación y no se usaron para corregir esta: el Colegio de Arquitectos de Salta (CAS 3, ítem 6.1, carpeta niveladora de 3 cm) da 21 kg de cemento y 0,03 m3 de arena, y la FACET-UNT (carpeta cementicia de 2 cm) da 8,20 kg de cemento y 0,03 m3 de arena. Si la obra pide carpeta cementicia, por ejemplo para pegar con adhesivo cementicio, conviene usar una de esas partidas y no esta. INCLUYE: mortero de cal reforzado de 1,8 cm y su mano de obra. NO INCLUYE: contrapiso, aislación hidrófuga ni el piso. EN EL BANCO, las carpetas de mortero de cemento son \"Carpeta de nivelación de 3 cm\" y \"Carpeta hidrófuga de 2 cm\"; cuestan más que esta porque llevan más cemento y más mano de obra. Si se compara esta partida con una referencia de mercado de «carpeta bajo piso», conviene confirmar primero si la referencia es de cal o de cemento.",
       "unit": "m2",
-      "updatedAt": "2026-11-14T22:56:56.855Z",
+      "updatedAt": "2026-11-16T13:51:39.406Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -21078,9 +21199,11 @@
       "unit": "u",
       "updatedAt": "2026-11-06T14:19:14.948Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
-        "status": "auto_ok"
+        "findings": [
+          "execution_without_labor-a9325f5f93407e6b"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "conflicted"
       }
     },
     {
@@ -21251,9 +21374,11 @@
       "unit": "m",
       "updatedAt": "2026-11-06T14:19:14.956Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
-        "status": "auto_ok"
+        "findings": [
+          "execution_without_labor-1007a7b302658b21"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "conflicted"
       }
     },
     {
@@ -23514,9 +23639,11 @@
       "unit": "u",
       "updatedAt": "2026-11-06T14:19:15.048Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
-        "status": "auto_ok"
+        "findings": [
+          "execution_without_labor-6c0a3034337e29b8"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "conflicted"
       }
     },
     {
@@ -23927,9 +24054,11 @@
       "unit": "u",
       "updatedAt": "2026-11-06T14:19:15.071Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
-        "status": "auto_ok"
+        "findings": [
+          "execution_without_labor-f4a752d6bff698a6"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "conflicted"
       }
     },
     {
@@ -24036,8 +24165,10 @@
       "unit": "u",
       "updatedAt": "2026-11-06T14:19:15.074Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "findings": [
+          "cloned_labor_block-b90de893d94a82b3"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
         "status": "auto_ok"
       }
     },
@@ -24157,8 +24288,132 @@
       "unit": "u",
       "updatedAt": "2026-11-14T22:02:33.405Z",
       "verification": {
+        "findings": [
+          "cloned_labor_block-46473f2134cc9a56"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 3.3,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 3.3,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-puerta-placa-de-cedro-de-80x200-cm-con-marco-de-chapa",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.02,
+          "ref": "mt-ar-arena-gruesa-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1248,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Carpinterías",
+          "Madera"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-16T13:46:10.545Z",
+      "id": "wi-ar-colocacion-de-puerta-placa-de-cedro-de-80x200-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 320800.74
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 330629.19
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 387246.83
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 408108.54
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-colocacion-de-puerta-placa-de-cedro-de-80x200-cm",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Colocación de puerta placa de cedro de 80x200 cm",
+      "tags": [
+        "puerta placa",
+        "cedro",
+        "madera",
+        "carpintería",
+        "abertura"
+      ],
+      "text": "Provisión y colocación de puerta placa de interior de 80x200 cm, con hoja enchapada en cedro y marco de chapa para muro de 10 cm, incluidos amure del marco con mortero y ayuda de gremios. Medida por unidad colocada. INCLUYE: la puerta con su marco tal como la vende el comercio (ver en el material qué herrajes declara cada ficha), el mortero de amure y la mano de obra de colocación. Si el marco se coloca en un tabique de placa de yeso se atornilla y el mortero de amure no corresponde. NO INCLUYE: picaporte ni manija, contramarcos, ni lustre o barniz de la hoja. Es una gama y una medida distintas de \"Colocación de puerta placa de 70x200 cm\" (hoja de MDF de 70 cm, kit económico). La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO DE FUENTE: mano de obra y consumo de amure transcriptos de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán (FACET-UNT), de descarga libre, ítem \"Carpintería Puerta Placa — Puerta 1 hoja placa 0,80 x 2,05\": oficial 3,30 h, ayudante 3,30 h, arena gruesa 0,02 m3 y cemento portland 6,24 kg por unidad (6,24 kg = 0,1248 bolsa de 50 kg). Es el mismo renglón de la fuente que usa la partida de 70x200 cm; la medida de la fuente (0,80 x 2,05) es la de esta partida. LOCALIZADOR: página 14 del PDF (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico). ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional, no declara la procedencia metodológica de sus coeficientes y usa sólo las categorías Oficial y Ayudante. Nivel de verificación cross-check-secundario, pendiente de contraste. DECISIÓN DE CURACIÓN CERP (2026-11): la misma fuente lista además 3 bisagras y 1 cerradura, porque cotiza la hoja suelta; NO se cargan aparte porque el material es el conjunto de hoja y marco que vende el comercio: tres de las cuatro fichas relevadas declaran la cerradura y dos las bisagras. Si la puerta que se compra llega sin cerradura o sin bisagras, hay que sumarlas al presupuesto. PRECIO: los precios de materiales y jornales son los vigentes en el banco a la fecha de cálculo; el material puerta se relevó el 16-11-2026.",
+      "unit": "u",
+      "updatedAt": "2026-11-16T13:57:25.942Z",
+      "verification": {
         "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
         "status": "auto_ok"
       }
     },
@@ -24213,9 +24468,11 @@
       "unit": "u",
       "updatedAt": "2026-11-06T14:19:15.082Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
-        "status": "auto_ok"
+        "findings": [
+          "execution_without_labor-23e336f04c235362"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "conflicted"
       }
     },
     {
@@ -24509,7 +24766,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 266111.04
+          "value": 280642.86
         },
         {
           "currency": "ARS",
@@ -24522,7 +24779,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 273556.84
+          "value": 288088.66
         },
         {
           "currency": "ARS",
@@ -24535,7 +24792,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 316448.99
+          "value": 330980.81
         },
         {
           "currency": "ARS",
@@ -24548,7 +24805,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 332253.31
+          "value": 346785.13
         }
       ],
       "sources": [
@@ -24567,12 +24824,135 @@
         "abertura",
         "carpintería"
       ],
-      "text": "Provisión y colocación de ventana corrediza de aluminio línea Módena de 150x110 cm con VIDRIO FLOAT SIMPLE DE 4 MM, incluidos amure, sellado perimetral y ayuda de gremios. Medida por unidad colocada. ALCANCE (aclaración de curación CERP 2026-11): esta partida es la variante de vidrio simple; el precio de su material no incluye guía, tapajunta ni mosquitero. La variante con doble vidriado hermético todavía no está en el banco. La carpintería argentina se computa por unidad con la medida en la denominación, y se especifica por línea comercial. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO DE FUENTE, ELEGIDO POR CURACIÓN CERP (noviembre 2026): mano de obra y consumo de amure del ítem «Carpintería Ventana 1 x 1,43» (ventana de madera de 1,00 x 1,43 m) de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la FACET-UNT, de descarga libre: oficial 2,50 h, ayudante 2,50 h, arena gruesa 0,01 m3 y cemento portland 3,15 kg por unidad (3,15 kg = 0,063 bolsa de 50 kg). La fuente asigna las mismas horas (2,50 de oficial y 2,50 de ayudante) a la ventana de 1,00 x 1,00 y a la de 1,00 x 1,43, así que en ese rango el tiempo no crece con la superficie; se aplica a esta ventana sin escalar. DOS SALVEDADES DECLARADAS: la fuente es carpintería de madera y esta es de aluminio, y su medida (1,43 m2) es menor que la de este ítem (1,65 m2). ADVERTENCIAS DE LA FUENTE: no lleva fecha ni encabezado institucional, no declara la procedencia metodológica de sus coeficientes y usa sólo Oficial y Ayudante; nivel de verificación cross-check-secundario. CORRECCIÓN (noviembre 2026): desde septiembre de 2026 esta partida usaba por analogía el rendimiento de la colocación de puerta de chapa (oficial 3,30 h y ayudante 3,30 h), con el argumento de que las ventanas de la fuente eran contradictorias (2,50 h la de 1,00 x 1,00 y 1,50 h la de 1,00 x 1,43). Ese argumento era una lectura errónea del PDF: las dos ventanas tienen 2,50 h, y el 1,50 es del renglón vecino, «Carpintería Ventiluz 0,50 x 0,50». Se pasó a la ventana de la propia fuente porque es la misma tarea, mientras que las horas de la puerta incluyen colocar bisagras, cerradura y manijón, que la ventana no lleva. PRECIO: los precios de materiales y jornales son los vigentes en el banco a la fecha de cálculo de la partida, no los de la fuente del rendimiento.",
+      "text": "Provisión y colocación de ventana corrediza de aluminio línea Módena de 150x110 cm con VIDRIO FLOAT SIMPLE DE 4 MM, incluidos amure, sellado perimetral y ayuda de gremios. Medida por unidad colocada. ALCANCE (aclaración de curación CERP 2026-11): esta partida es la variante de vidrio simple; el precio de su material no incluye guía, tapajunta ni mosquitero. La variante con doble vidriado hermético es otra partida: \"Colocación de ventana DVH de aluminio Módena 150x110 cm\". La carpintería argentina se computa por unidad con la medida en la denominación, y se especifica por línea comercial. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO DE FUENTE, ELEGIDO POR CURACIÓN CERP (noviembre 2026): mano de obra y consumo de amure del ítem «Carpintería Ventana 1 x 1,43» (ventana de madera de 1,00 x 1,43 m) de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la FACET-UNT, de descarga libre: oficial 2,50 h, ayudante 2,50 h, arena gruesa 0,01 m3 y cemento portland 3,15 kg por unidad (3,15 kg = 0,063 bolsa de 50 kg). La fuente asigna las mismas horas (2,50 de oficial y 2,50 de ayudante) a la ventana de 1,00 x 1,00 y a la de 1,00 x 1,43, así que en ese rango el tiempo no crece con la superficie; se aplica a esta ventana sin escalar. DOS SALVEDADES DECLARADAS: la fuente es carpintería de madera y esta es de aluminio, y su medida (1,43 m2) es menor que la de este ítem (1,65 m2). ADVERTENCIAS DE LA FUENTE: no lleva fecha ni encabezado institucional, no declara la procedencia metodológica de sus coeficientes y usa sólo Oficial y Ayudante; nivel de verificación cross-check-secundario. CORRECCIÓN (noviembre 2026): desde septiembre de 2026 esta partida usaba por analogía el rendimiento de la colocación de puerta de chapa (oficial 3,30 h y ayudante 3,30 h), con el argumento de que las ventanas de la fuente eran contradictorias (2,50 h la de 1,00 x 1,00 y 1,50 h la de 1,00 x 1,43). Ese argumento era una lectura errónea del PDF: las dos ventanas tienen 2,50 h, y el 1,50 es del renglón vecino, «Carpintería Ventiluz 0,50 x 0,50». Se pasó a la ventana de la propia fuente porque es la misma tarea, mientras que las horas de la puerta incluyen colocar bisagras, cerradura y manijón, que la ventana no lleva. PRECIO: los precios de materiales y jornales son los vigentes en el banco a la fecha de cálculo de la partida, no los de la fuente del rendimiento. El material ventana se relevó de nuevo el 16-11-2026 en tres comercios.",
       "unit": "u",
-      "updatedAt": "2026-11-14T22:56:56.861Z",
+      "updatedAt": "2026-11-16T13:51:52.228Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2.5,
+          "ref": "mo-ar-oficial-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.5,
+          "ref": "mo-ar-ayudante-cct-76-75",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1,
+          "ref": "mt-ar-ventana-de-aluminio-linea-modena-de-150x110-cm-con-dvh",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.01,
+          "ref": "mt-ar-arena-gruesa-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.063,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Carpinterías",
+          "Aluminio"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-16T13:43:06.782Z",
+      "id": "wi-ar-colocacion-de-ventana-dvh-de-aluminio-modena-150x110-cm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "A"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 528844.1
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "B"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 536289.9
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 579182.05
+        },
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR",
+            "zone": "C-AUSTRAL"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 594986.37
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-colocacion-de-ventana-dvh-de-aluminio-modena-150x110-cm",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        }
+      ],
+      "summary": "Colocación de ventana DVH de aluminio Módena 150x110 cm",
+      "tags": [
+        "ventana",
+        "aluminio",
+        "módena",
+        "dvh",
+        "abertura",
+        "carpintería"
+      ],
+      "text": "Provisión y colocación de ventana corrediza de aluminio línea Módena de 150x110 cm con doble vidriado hermético (DVH), incluidos amure, sellado perimetral y ayuda de gremios. INCLUYE: la ventana con su DVH colocado de fábrica, el mortero de amure y la mano de obra de colocación. NO INCLUYE: ni mosquitero, ni reja, ni premarco, ni guía de persiana. El precio de referencia del material puede incluir contramarcos y dos de sus tres fichas declaran DVH 4/9/4: ver el material. Medida por unidad colocada. Es la variante DVH de \"Colocación de ventana de aluminio línea Módena de 150x110 cm\", que lleva vidrio float simple de 4 mm. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Se usa la misma mano de obra que la variante de vidrio simple, porque el vidrio llega colocado de fábrica y la tarea de obra es la misma. RENDIMIENTO DE FUENTE, ELEGIDO POR CURACIÓN CERP (noviembre 2026): mano de obra y consumo de amure del ítem «Carpintería Ventana 1 x 1,43» (ventana de madera de 1,00 x 1,43 m) de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la FACET-UNT, de descarga libre: oficial 2,50 h, ayudante 2,50 h, arena gruesa 0,01 m3 y cemento portland 3,15 kg por unidad (3,15 kg = 0,063 bolsa de 50 kg). La fuente asigna las mismas horas (2,50 de oficial y 2,50 de ayudante) a la ventana de 1,00 x 1,00 y a la de 1,00 x 1,43, así que en ese rango el tiempo no crece con la superficie; se aplica a esta ventana sin escalar. DOS SALVEDADES DECLARADAS: la fuente es carpintería de madera y esta es de aluminio, y su medida (1,43 m2) es menor que la de este ítem (1,65 m2). ADVERTENCIAS DE LA FUENTE: no lleva fecha ni encabezado institucional, no declara la procedencia metodológica de sus coeficientes y usa sólo Oficial y Ayudante; nivel de verificación cross-check-secundario. LOCALIZADOR: página 14 del PDF (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico). La misma página da 1,50 h al renglón vecino, «Carpintería Ventiluz 0,50 x 0,50», que no es el que se usa. PRECIO: los precios de materiales y jornales son los vigentes en el banco a la fecha de cálculo de la partida, no los de la fuente del rendimiento. El material ventana con DVH se relevó el 16-11-2026 en tres comercios.",
+      "unit": "u",
+      "updatedAt": "2026-11-16T14:06:52.284Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
         "status": "auto_ok"
       }
     },
@@ -24756,9 +25136,11 @@
       "unit": "m",
       "updatedAt": "2026-11-06T14:19:15.101Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
-        "status": "auto_ok"
+        "findings": [
+          "execution_without_labor-2292a53b592206aa"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "conflicted"
       }
     },
     {
@@ -28558,9 +28940,11 @@
       "unit": "m",
       "updatedAt": "2026-11-06T14:19:15.214Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
-        "status": "auto_ok"
+        "findings": [
+          "execution_without_labor-2aac35a7495987a5"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "conflicted"
       }
     },
     {
@@ -28731,9 +29115,11 @@
       "unit": "m",
       "updatedAt": "2026-11-06T14:19:15.224Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
-        "status": "auto_ok"
+        "findings": [
+          "execution_without_labor-df15e922a341c7d8"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "conflicted"
       }
     },
     {
@@ -28794,9 +29180,11 @@
       "unit": "m2",
       "updatedAt": "2026-11-06T14:19:15.229Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
-        "status": "auto_ok"
+        "findings": [
+          "execution_without_labor-c307120e978c7cda"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "conflicted"
       }
     },
     {
@@ -30735,9 +31123,11 @@
       "unit": "m2",
       "updatedAt": "2026-11-06T14:19:15.306Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
-        "status": "auto_ok"
+        "findings": [
+          "execution_without_labor-399e5de39d2e9129"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "conflicted"
       }
     },
     {
@@ -33315,9 +33705,10 @@
       "updatedAt": "2026-11-06T14:19:15.369Z",
       "verification": {
         "findings": [
-          "duplicate_candidate-938802bef997c314"
+          "duplicate_candidate-938802bef997c314",
+          "execution_without_labor-279b733e4c9145b6"
         ],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
         "status": "conflicted"
       }
     },
@@ -33379,9 +33770,11 @@
       "unit": "m2",
       "updatedAt": "2026-11-06T14:19:15.376Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
-        "status": "auto_ok"
+        "findings": [
+          "execution_without_labor-20a8320a6df1d5c5"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "conflicted"
       }
     },
     {
@@ -47603,9 +47996,11 @@
       "unit": "m2",
       "updatedAt": "2026-11-06T14:19:15.731Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
-        "status": "auto_ok"
+        "findings": [
+          "execution_without_labor-85171edf4a5704a5"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "conflicted"
       }
     },
     {
@@ -48235,9 +48630,11 @@
       "unit": "m3",
       "updatedAt": "2026-09-08T09:15:32.577Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
-        "status": "auto_ok"
+        "findings": [
+          "execution_without_labor-4b5b5c58bae969ae"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "conflicted"
       }
     },
     {
@@ -52773,9 +53170,11 @@
       "unit": "u",
       "updatedAt": "2026-11-06T14:19:15.861Z",
       "verification": {
-        "findings": [],
-        "lastCheckedAt": "2026-09-08T09:19:43.233Z",
-        "status": "auto_ok"
+        "findings": [
+          "execution_without_labor-4f346a1914d8ee5f"
+        ],
+        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "status": "conflicted"
       }
     },
     {
@@ -55896,20 +56295,20 @@
     "byKind": {
       "labor": 5,
       "machinery": 14,
-      "material": 318,
-      "work_item": 331
+      "material": 320,
+      "work_item": 333
     },
     "bySources": {
       "bcca": 18,
-      "cerp": 663,
+      "cerp": 667,
       "uocra": 5
     },
     "byStatus": {
-      "auto_ok": 588,
-      "conflicted": 80
+      "auto_ok": 575,
+      "conflicted": 97
     },
     "quarantined": 0,
-    "total": 668
+    "total": 672
   },
-  "version": "0.8.0"
+  "version": "0.9.0"
 }

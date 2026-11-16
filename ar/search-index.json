@@ -2170,6 +2170,14 @@
     },
     {
       "c": "",
+      "i": "mt-ar-puerta-placa-de-cedro-de-80x200-cm-con-marco-de-chapa",
+      "k": "material",
+      "p": 230919.42,
+      "s": "Puerta placa de cedro de 80x200 cm con marco de chapa",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-ar-punta-hexagonal-de-30-mm-para-martillo-demoledor",
       "k": "material",
       "p": 27768.6,
@@ -2586,9 +2594,17 @@
     },
     {
       "c": "",
+      "i": "mt-ar-ventana-de-aluminio-linea-modena-de-150x110-cm-con-dvh",
+      "k": "material",
+      "p": 461404.96,
+      "s": "Ventana de aluminio línea Módena de 150x110 cm con DVH",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-ar-ventana-de-aluminio-linea-modena-de-150x110-cm-con-vidrio",
       "k": "material",
-      "p": 198671.9,
+      "p": 213203.72,
       "s": "Ventana de aluminio línea Módena de 150x110 cm con vidrio",
       "u": "u"
     },
@@ -3249,6 +3265,14 @@
       "u": "u"
     },
     {
+      "c": "carpinterias--madera",
+      "i": "wi-ar-colocacion-de-puerta-placa-de-cedro-de-80x200-cm",
+      "k": "work_item",
+      "p": 320800.74,
+      "s": "Colocación de puerta placa de cedro de 80x200 cm",
+      "u": "u"
+    },
+    {
       "c": "instalacion-sanitaria--canerias",
       "i": "wi-ar-colocacion-de-tanque-de-reserva-tricapa-de-1-000-litros",
       "k": "work_item",
@@ -3276,8 +3300,16 @@
       "c": "carpinterias--aluminio",
       "i": "wi-ar-colocacion-de-ventana-de-aluminio-linea-modena-de-150x110-cm",
       "k": "work_item",
-      "p": 266111.04,
+      "p": 280642.86,
       "s": "Colocación de ventana de aluminio línea Módena de 150x110 cm",
+      "u": "u"
+    },
+    {
+      "c": "carpinterias--aluminio",
+      "i": "wi-ar-colocacion-de-ventana-dvh-de-aluminio-modena-150x110-cm",
+      "k": "work_item",
+      "p": 528844.1,
+      "s": "Colocación de ventana DVH de aluminio Módena 150x110 cm",
       "u": "u"
     },
     {
@@ -5345,5 +5377,5 @@
       "u": "m"
     }
   ],
-  "version": "0.8.0"
+  "version": "0.9.0"
 }
