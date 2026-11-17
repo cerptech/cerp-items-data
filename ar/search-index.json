@@ -4428,7 +4428,7 @@
       "c": "entrepisos--raiz",
       "i": "wi-ar-losa-de-viguetas-y-bloques-de-eps-de-12-5-cm-luz-3-50-m",
       "k": "work_item",
-      "p": 107079.72,
+      "p": 107501.52,
       "s": "Losa de viguetas y bloques de EPS de 12,5 cm, luz 3,50 m",
       "u": "m2"
     },
@@ -4436,7 +4436,7 @@
       "c": "entrepisos--raiz",
       "i": "wi-ar-losa-de-viguetas-y-bloques-de-eps-de-16-5-cm-luz-3-50-m",
       "k": "work_item",
-      "p": 109795,
+      "p": 110216.8,
       "s": "Losa de viguetas y bloques de EPS de 16,5 cm, luz 3,50 m",
       "u": "m2"
     },
@@ -4652,7 +4652,7 @@
       "c": "pinturas--exteriores",
       "i": "wi-ar-pintura-al-latex-acrilico-para-exteriores-tres-manos",
       "k": "work_item",
-      "p": 15992.11,
+      "p": 16272.52,
       "s": "Pintura al látex acrílico para exteriores, tres manos",
       "u": "m2"
     },
@@ -4660,7 +4660,7 @@
       "c": "pinturas--interiores",
       "i": "wi-ar-pintura-al-latex-en-cielorrasos-tres-manos",
       "k": "work_item",
-      "p": 13980.48,
+      "p": 14174.91,
       "s": "Pintura al látex en cielorrasos, tres manos",
       "u": "m2"
     },
@@ -4668,7 +4668,7 @@
       "c": "pinturas--interiores",
       "i": "wi-ar-pintura-al-latex-interior-tres-manos-con-enduido-previo",
       "k": "work_item",
-      "p": 12470.27,
+      "p": 12576.32,
       "s": "Pintura al látex interior, tres manos con enduido previo",
       "u": "m2"
     },
@@ -5377,5 +5377,5 @@
       "u": "m"
     }
   ],
-  "version": "0.9.0"
+  "version": "0.9.1"
 }

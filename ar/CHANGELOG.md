@@ -16,6 +16,59 @@ Formato: [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/).
 
 ## [Unreleased]
 
+## [0.9.1] - 2026-11-17
+
+Corrección de consumos de material en cinco partidas argentinas, cada uno con
+su fuente declarada. Los ids no cambian, no se relevó ningún precio y las
+horas de mano de obra son las mismas.
+
+### Corregido
+
+- **Argentina — pintura al látex acrílico para exteriores, tres manos**: el
+  látex pasa de 0,30 a 0,333 l/m², el rendimiento con el trabajo terminado
+  que da la ficha del fabricante del producto cuya cotización fija el precio
+  del material. La partida sube 1,8%.
+- **Argentina — pintura al látex en cielorrasos y pintura al látex interior
+  con enduido previo**: el enduido pasa de 0,45 y 0,50 a 0,56 kg/m², según la
+  ficha del fabricante del producto del precio; es consistente con el consumo
+  del análisis que da las horas. Suben 1,4% y 0,9%.
+- **Argentina — losas de viguetas y bloques de EPS de 12,5 y de 16,5 cm, luz
+  3,50 m**: la vigueta pasa de 2 a 2,10 m por m², el consumo del mismo
+  análisis que ya da las horas. Suben 0,4%.
+- Las cinco partidas declaran ahora qué incluyen y qué no, qué consumos no
+  tienen fuente declarada y lo que está en revisión.
+
+### Pendiente conocido
+
+- Los consumos los cotejaron agentes, a ciegas, contra las fichas de los
+  fabricantes y el análisis de precios; ninguna persona abrió las fuentes.
+  Queda pendiente ese cotejo, igual que el de las partidas nuevas de la
+  0.9.0.
+- Pintura para exteriores: el fijador con el que se relevó el precio es un
+  sellador al agua para interiores. Falta decidir si la partida lleva un
+  fijador para exteriores o ninguno. Sus horas siguen calculadas con el
+  consumo de pintura anterior (0,30 l/m²).
+- Pintura de cielorrasos: no lleva fijador. El análisis que da las horas
+  lleva 0,12 l/m² de fijador al aguarrás y la ficha del enduido pide volver a
+  aplicar sellador o fijador sobre lo enduido. Falta decidir cuál lleva.
+- Pinturas interiores: el consumo de látex (0,24 l/m²) no tiene fuente
+  declarada, aunque queda dentro del rango de la ficha de su fabricante. El
+  fijador de la pintura interior (0,10 l/m²) tampoco la tiene.
+- Pinturas: los precios de los materiales son de agosto de 2026. Contra una
+  de las referencias de mercado consultadas las tres partidas quedan por
+  debajo, y la diferencia está en los materiales.
+- Losas con bloque de EPS: la malla (1,1 m² de 4,2 mm) no tiene fuente
+  declarada. No incluyen apuntalamiento, encofrado de borde ni hierros de
+  negativos. Que el consumo de vigueta del análisis valga para el bloque de
+  EPS es una inferencia: la fuente no declara la separación entre viguetas.
+- Las losas de viguetas con ladrillo cerámico de 9 y de 12,5 cm y la de
+  viguetas dobles siguen con horas y consumo de vigueta que no declaran
+  fuente.
+- Siguen vigentes los pendientes de la 0.9.0: el porcelanato queda por debajo
+  de las referencias de mercado consultadas y 18 partidas argentinas de
+  ejecución no tienen mano de obra cargada (se completan antes del
+  14-01-2027).
+
 ## [0.9.0] - 2026-11-16
 
 Segunda tanda de la base argentina: dos partidas de gama media que faltaban,

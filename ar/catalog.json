@@ -4,7 +4,7 @@
     "Información obtenida del Portal de la Junta de Andalucía"
   ],
   "country": "AR",
-  "generatedAt": "2026-11-16T15:00:41.385Z",
+  "generatedAt": "2026-11-17T21:09:19.656Z",
   "items": [
     {
       "bom": [],
@@ -41939,7 +41939,7 @@
         },
         {
           "factor": 1,
-          "quantity": 2,
+          "quantity": 2.1,
           "ref": "mt-ar-vigueta-pretensada-de-hormigon-por-metro",
           "role": "material"
         },
@@ -41983,7 +41983,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 107079.72
+          "value": 107501.52
         },
         {
           "currency": "ARS",
@@ -41996,7 +41996,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 115364.57
+          "value": 115786.37
         },
         {
           "currency": "ARS",
@@ -42009,7 +42009,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 163644.61
+          "value": 164066.41
         },
         {
           "currency": "ARS",
@@ -42022,7 +42022,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 180518.57
+          "value": 180940.37
         }
       ],
       "sources": [
@@ -42037,9 +42037,9 @@
       "tags": [
         "entrepisos"
       ],
-      "text": "Losa alivianada de viguetas pretensadas de hormigón y bloques de poliestireno expandido (EPS) de 12,5 cm de altura, con capa de compresión de hormigón y malla de acero soldada de 4,2 mm de 15x15 cm, para luz de hasta 3,50 m. Medida por metro cuadrado de losa ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Consumos por metro cuadrado: 2 m de vigueta, 2 bloques de EPS y 1,1 m² de malla, más el hormigón de la capa de compresión. NO INCLUYE APUNTALAMIENTO NI ENCOFRADO DE BORDE: ninguna fuente habilitada da a la vez la cantidad de madera y su criterio de reutilización (número de usos), así que no se cargan y se presupuestan aparte. Rendimiento de mano de obra: fuente, ítem 3.8 «Hormigón armado para losa alivianada c/lad. 12,5 cm viguetas» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 2,50 h de oficial y 3,10 h de ayudante por metro cuadrado de losa. DECISIÓN DE CURACIÓN (noviembre 2026): este rendimiento reemplaza al anterior (0,5 h de oficial y 1,4 h de ayudante), que venía de un template de ítems de terceros que no se puede cotejar. El ítem del CAS es con bovedilla cerámica de 12,5 cm; se aplica al bloque de EPS por ser la misma tarea de montaje de viguetas, colocación de bloques y hormigonado de la capa de compresión. El EPS es más liviano de manipular, de modo que el valor queda del lado conservador. El CAS no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. DIFERENCIA CON LA PARTIDA «Losa alivianada de viguetas pretensadas y bloque de poliestireno para luz de hasta 4 m»: es el mismo sistema constructivo y, desde noviembre 2026, con el mismo rendimiento. Aquella toma la vigueta por pieza de 4 m, el bloque de 12 cm y la malla Q131 por paño, con la dosificación de capa de compresión del CAS, y declara luz de hasta 4 m; esta usa la vigueta por metro, el bloque de 12,5 x 100 x 50 cm y malla de 4,2 mm. Para una misma losa se usa una u otra, nunca las dos.",
+      "text": "Losa alivianada de viguetas pretensadas de hormigón y bloques de poliestireno expandido (EPS) de 12,5 cm de altura, con capa de compresión de hormigón y malla de acero soldada de 4,2 mm de 15x15 cm, para luz de hasta 3,50 m. Medida por metro cuadrado de losa ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Consumos por metro cuadrado: 2,10 m de vigueta (ítem 3.8 del CAS), 2 bloques de EPS y 1,1 m² de malla de 4,2 mm (sin fuente declarada; el ítem 3.8 del CAS lleva 1,20 m² de malla Q131), más el hormigón de la capa de compresión. CONSUMO DE VIGUETA (corrección de noviembre 2026): 2,10 m por m², del mismo ítem 3.8 del CAS que da las horas («Viguetas Pretensadas», 2,10 m por m² de losa, en las ediciones septiembre y octubre 2026). Se aplica al bloque de EPS por inferencia: el CAS no declara la separación entre viguetas, pero sus 8 bovedillas cerámicas de 25 cm de largo por m² y los 2 bloques de EPS de 1 m de esta partida dan, en los dos casos, 2 m de fila de bloques por m², es decir viguetas cada 50 cm aproximadamente. El bloque que valoriza la partida se cotizó como de 42 cm de ancho y 1 m de largo, aunque el material figura como «12,5 x 100 x 50 cm». Reemplaza al consumo anterior de 2 m por m², que no declaraba fuente. Es el mismo consumo que usa la partida para luz de hasta 4 m (0,525 piezas de 4 m). INCLUYE: las viguetas, los bloques, la malla, el hormigón de la capa de compresión, los equipos menores y la mano de obra de montaje y hormigonado. NO INCLUYE APUNTALAMIENTO NI ENCOFRADO DE BORDE: el ítem 3.8 del CAS lleva madera (0,87 m² de tabla y 1,70 m de tirante por m²), pero ninguna fuente habilitada da a la vez la cantidad de madera y su criterio de reutilización (número de usos), así que no se cargan y se presupuestan aparte. Tampoco incluye armadura complementaria en barras (hierros de negativos sobre los apoyos): la malla es la única armadura de la partida. Rendimiento de mano de obra: fuente, ítem 3.8 «Hormigón armado para losa alivianada c/lad. 12,5 cm viguetas» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 2,50 h de oficial y 3,10 h de ayudante por metro cuadrado de losa. DECISIÓN DE CURACIÓN (noviembre 2026): este rendimiento reemplaza al anterior (0,5 h de oficial y 1,4 h de ayudante), que venía de un template de ítems de terceros que no se puede cotejar. El ítem del CAS es con bovedilla cerámica de 12,5 cm; se aplica al bloque de EPS por ser la misma tarea de montaje de viguetas, colocación de bloques y hormigonado de la capa de compresión. El EPS es más liviano de manipular, de modo que el valor queda del lado conservador. El CAS no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. DIFERENCIA CON LA PARTIDA «Losa alivianada de viguetas pretensadas y bloque de poliestireno para luz de hasta 4 m»: es el mismo sistema constructivo y, desde noviembre 2026, con el mismo rendimiento. Aquella toma la vigueta por pieza de 4 m, el bloque de 12 cm y la malla Q131 por paño, con la dosificación de capa de compresión del CAS, y declara luz de hasta 4 m; esta usa la vigueta por metro, el bloque de 12,5 x 100 x 50 cm y malla de 4,2 mm. Para una misma losa se usa una u otra, nunca las dos.",
       "unit": "m2",
-      "updatedAt": "2026-11-15T22:13:15.095Z",
+      "updatedAt": "2026-11-17T20:55:22.044Z",
       "verification": {
         "findings": [
           "duplicate_candidate-76a2916d1b8f19b7"
@@ -42082,7 +42082,7 @@
         },
         {
           "factor": 1,
-          "quantity": 2,
+          "quantity": 2.1,
           "ref": "mt-ar-vigueta-pretensada-de-hormigon-por-metro",
           "role": "material"
         },
@@ -42126,7 +42126,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 109795
+          "value": 110216.8
         },
         {
           "currency": "ARS",
@@ -42139,7 +42139,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 118079.85
+          "value": 118501.65
         },
         {
           "currency": "ARS",
@@ -42152,7 +42152,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 166359.89
+          "value": 166781.68
         },
         {
           "currency": "ARS",
@@ -42165,7 +42165,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 183233.85
+          "value": 183655.65
         }
       ],
       "sources": [
@@ -42180,9 +42180,9 @@
       "tags": [
         "entrepisos"
       ],
-      "text": "Losa alivianada de viguetas pretensadas de hormigón y bloques de poliestireno expandido (EPS) de 16,5 cm de altura, con capa de compresión de hormigón y malla de acero soldada de 4,2 mm de 15x15 cm, para luz de hasta 3,50 m. Medida por metro cuadrado de losa ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Consumos por metro cuadrado: 2 m de vigueta, 2 bloques de EPS y 1,1 m² de malla, más el hormigón de la capa de compresión. NO INCLUYE APUNTALAMIENTO NI ENCOFRADO DE BORDE: ninguna fuente habilitada da a la vez la cantidad de madera y su criterio de reutilización (número de usos), así que no se cargan y se presupuestan aparte. Rendimiento de mano de obra: fuente, ítem 3.8 «Hormigón armado para losa alivianada c/lad. 12,5 cm viguetas» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 2,50 h de oficial y 3,10 h de ayudante por metro cuadrado de losa. DECISIÓN DE CURACIÓN (noviembre 2026): este rendimiento reemplaza al anterior (0,6 h de oficial y 1,5 h de ayudante), que venía de un template de ítems de terceros que no se puede cotejar. El ítem del CAS es con bovedilla cerámica de 12,5 cm; se aplica al bloque de EPS de 16,5 cm sin escalar las horas: la fuente no publica la variante de 16,5 cm, y la tarea es la misma (montaje de viguetas, colocación de bloques y hormigonado de la capa de compresión). El mayor volumen de hormigón entre nervios no se tradujo en más horas porque ninguna fuente habilitada da ese ajuste. El EPS es más liviano de manipular, de modo que el valor queda del lado conservador. El CAS no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. DIFERENCIA CON LA PARTIDA «Losa alivianada de viguetas pretensadas y bloque de poliestireno para luz de hasta 4 m»: es el mismo sistema constructivo y, desde noviembre 2026, con el mismo rendimiento. Aquella es de 12 cm de altura, toma la vigueta por pieza de 4 m, el bloque de 12 cm y la malla Q131 por paño, con la dosificación de capa de compresión del CAS, y declara luz de hasta 4 m; esta usa la vigueta por metro, el bloque de EPS de 16,5 cm y malla de 4,2 mm. Para una misma losa se usa una u otra, nunca las dos.",
+      "text": "Losa alivianada de viguetas pretensadas de hormigón y bloques de poliestireno expandido (EPS) de 16,5 cm de altura, con capa de compresión de hormigón y malla de acero soldada de 4,2 mm de 15x15 cm, para luz de hasta 3,50 m. Medida por metro cuadrado de losa ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Consumos por metro cuadrado: 2,10 m de vigueta (ítem 3.8 del CAS), 2 bloques de EPS y 1,1 m² de malla de 4,2 mm (sin fuente declarada; el ítem 3.8 del CAS lleva 1,20 m² de malla Q131), más el hormigón de la capa de compresión. CONSUMO DE VIGUETA (corrección de noviembre 2026): 2,10 m por m², del mismo ítem 3.8 del CAS que da las horas («Viguetas Pretensadas», 2,10 m por m² de losa, en las ediciones septiembre y octubre 2026). Se aplica al bloque de EPS por inferencia: el CAS no declara la separación entre viguetas, pero sus 8 bovedillas cerámicas de 25 cm de largo por m² y los 2 bloques de EPS de 1 m de esta partida dan, en los dos casos, 2 m de fila de bloques por m², es decir viguetas cada 50 cm aproximadamente. Reemplaza al consumo anterior de 2 m por m², que no declaraba fuente. Es el mismo consumo que usa la partida para luz de hasta 4 m (0,525 piezas de 4 m). INCLUYE: las viguetas, los bloques, la malla, el hormigón de la capa de compresión, los equipos menores y la mano de obra de montaje y hormigonado. NO INCLUYE APUNTALAMIENTO NI ENCOFRADO DE BORDE: el ítem 3.8 del CAS lleva madera (0,87 m² de tabla y 1,70 m de tirante por m²), pero ninguna fuente habilitada da a la vez la cantidad de madera y su criterio de reutilización (número de usos), así que no se cargan y se presupuestan aparte. Tampoco incluye armadura complementaria en barras (hierros de negativos sobre los apoyos): la malla es la única armadura de la partida. Rendimiento de mano de obra: fuente, ítem 3.8 «Hormigón armado para losa alivianada c/lad. 12,5 cm viguetas» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 2,50 h de oficial y 3,10 h de ayudante por metro cuadrado de losa. DECISIÓN DE CURACIÓN (noviembre 2026): este rendimiento reemplaza al anterior (0,6 h de oficial y 1,5 h de ayudante), que venía de un template de ítems de terceros que no se puede cotejar. El ítem del CAS es con bovedilla cerámica de 12,5 cm; se aplica al bloque de EPS de 16,5 cm sin escalar las horas: la fuente no publica la variante de 16,5 cm, y la tarea es la misma (montaje de viguetas, colocación de bloques y hormigonado de la capa de compresión). El mayor volumen de hormigón entre nervios no se tradujo en más horas porque ninguna fuente habilitada da ese ajuste. El EPS es más liviano de manipular, de modo que el valor queda del lado conservador. El CAS no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. DIFERENCIA CON LA PARTIDA «Losa alivianada de viguetas pretensadas y bloque de poliestireno para luz de hasta 4 m»: es el mismo sistema constructivo y, desde noviembre 2026, con el mismo rendimiento. Aquella es de 12 cm de altura, toma la vigueta por pieza de 4 m, el bloque de 12 cm y la malla Q131 por paño, con la dosificación de capa de compresión del CAS, y declara luz de hasta 4 m; esta usa la vigueta por metro, el bloque de EPS de 16,5 cm y malla de 4,2 mm. Para una misma losa se usa una u otra, nunca las dos.",
       "unit": "m2",
-      "updatedAt": "2026-11-15T22:13:15.096Z",
+      "updatedAt": "2026-11-17T20:55:22.044Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -45561,7 +45561,7 @@
         },
         {
           "factor": 1,
-          "quantity": 0.015,
+          "quantity": 0.01667,
           "ref": "mt-ar-pintura-latex-acrilico-para-exteriores-en-balde-de-20-litros",
           "role": "material"
         },
@@ -45594,7 +45594,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 15992.11
+          "value": 16272.52
         },
         {
           "currency": "ARS",
@@ -45607,7 +45607,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 17463.12
+          "value": 17743.53
         },
         {
           "currency": "ARS",
@@ -45620,7 +45620,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26121.83
+          "value": 26402.24
         },
         {
           "currency": "ARS",
@@ -45633,7 +45633,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29007.06
+          "value": 29287.48
         }
       ],
       "sources": [
@@ -45651,9 +45651,9 @@
         "acrílico",
         "pintura"
       ],
-      "text": "Pintura al látex acrílico para exteriores sobre revoque, en tres manos, previa aplicación de fijador al agua y sellado de fisuras. Medida por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: fuente, ítem 21.1 «Pintura al látex en exteriores» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre; sus rendimientos son idénticos a los de la edición julio 2025 citada antes), que asigna 0,20 h de oficial y 0,30 h de ayudante por m² para un consumo de 0,15 l/m² de pintura. DECISIÓN DE CURACIÓN (noviembre 2026): por su consumo, ese análisis equivale a una o una y media manos, y esta partida declara tres manos con 0,30 l/m² de pintura. Las horas se escalaron en proporción al consumo de pintura de esta descomposición frente al del análisis del CAS: 0,30 / 0,15 = 2,0, con lo que quedan 0,4 h de oficial y 0,6 h de ayudante por m². El CAS no declara cuántas manos cubre su análisis: la equivalencia es una inferencia por consumo. El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Pintura al látex acrílico para exteriores sobre revoque, en tres manos, con fijador al agua previo (en revisión, ver más abajo) y con la mano de obra de sellado de fisuras; el material de sellado no está incluido. Medida por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: fuente, ítem 21.1 «Pintura al látex en exteriores» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre; sus rendimientos son idénticos a los de la edición julio 2025 citada antes), que asigna 0,20 h de oficial y 0,30 h de ayudante por m² para un consumo de 0,15 l/m² de pintura. DECISIÓN DE CURACIÓN (noviembre 2026): por su consumo, ese análisis equivale a una mano o a una mano y media, y esta partida declara tres manos; en esa decisión se cargaron con 0,30 l/m² de pintura. Las horas se escalaron en proporción a ese consumo frente al del análisis del CAS: 0,30 / 0,15 = 2,0, con lo que quedan 0,4 h de oficial y 0,6 h de ayudante por m². El CAS no declara cuántas manos cubre su análisis: la equivalencia es una inferencia por consumo. El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste. CONSUMO DE PINTURA (corrección de noviembre 2026): 0,333 l/m², es decir un litro cada 3 m² (0,01667 balde de 20 l). Sale del fabricante, no de la fuente de rendimientos. La ficha técnica de «Recuplast Frentes» (Sinteplast, REV_01, mayo de 2019, sinteplast.com.ar) da 3 m² por litro con el trabajo terminado, en una mano diluida y dos sin diluir como mínimo. Es un recubrimiento acrílico impermeabilizante y su cotización es la mediana del precio relevado para este material; con un látex para exteriores común el consumo puede ser distinto. Reemplaza al consumo anterior de 0,30 l/m², que no declaraba fuente. Las horas siguen calculadas con 0,30 l/m² (factor 2,0); con el consumo nuevo el factor sería 2,22, y no se cambian porque la ficha del fabricante no es fuente de rendimiento de mano de obra. INCLUYE: la pintura, el fijador y la mano de obra de preparación y de aplicación de las tres manos. NO INCLUYE: el material para sellar fisuras (solo su mano de obra), andamios ni medios de elevación, ni la reparación del revoque. La cantidad de fijador (0,12 l/m², 0,006 balde de 20 l) es la del ítem 21.1 del CAS. EN REVISIÓN: el fijador con el que se relevó el precio es un sellador fijador al agua de Alba que el comercio vende como sellador para paredes interiores, y la ficha técnica de Alba «Sellador fijador al agua» de la línea alta performance (revisión 1, enero de 2013) indica «uso exclusivo en interiores». La ficha de la pintura no pide fijador sobre superficie firme y llama imprimación a la primera mano diluida; sobre superficies pulverulentas o deterioradas pide un fijador al aceite. Queda pendiente definir si la partida lleva un fijador para exteriores o ninguno; hasta entonces la línea se conserva como estaba. LÍMITE CONOCIDO: la pintura se calcula con el rendimiento de la ficha del fabricante y el fijador con el ítem 21.1 del CAS, con precios de comercio y sin desperdicio ni consumibles. Contra una de las referencias de mercado consultadas la partida queda por debajo, y la diferencia está en los materiales. Conviene ajustarla con consumos y precios propios. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-14T22:02:33.443Z",
+      "updatedAt": "2026-11-17T20:55:22.049Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -45682,7 +45682,7 @@
         },
         {
           "factor": 1,
-          "quantity": 0.018,
+          "quantity": 0.0224,
           "ref": "mt-ar-enduido-plastico-interior-en-balde-de-25-kg",
           "role": "material"
         }
@@ -45709,7 +45709,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 13980.48
+          "value": 14174.91
         },
         {
           "currency": "ARS",
@@ -45722,7 +45722,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 15266.26
+          "value": 15460.69
         },
         {
           "currency": "ARS",
@@ -45735,7 +45735,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22924.45
+          "value": 23118.89
         },
         {
           "currency": "ARS",
@@ -45748,7 +45748,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25331.16
+          "value": 25525.59
         }
       ],
       "sources": [
@@ -45766,9 +45766,9 @@
         "antihongo",
         "pintura"
       ],
-      "text": "Pintura al látex antihongo para cielorrasos, en tres manos, previo enduido y lijado. Medida por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: fuente, ítem 21.3 «Pintura al látex en cielorrasos» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre; sus rendimientos son idénticos a los de la edición julio 2025 citada antes), que asigna 0,19 h de oficial y 0,36 h de ayudante por m² para un consumo de 0,15 l/m² de pintura. DECISIÓN DE CURACIÓN (noviembre 2026): por su consumo, ese análisis equivale a una o una y media manos, y esta partida declara tres manos con 0,24 l/m² de pintura. Las horas se escalaron en proporción al consumo de pintura de esta descomposición frente al del análisis del CAS: 0,24 / 0,15 = 1,6, con lo que quedan 0,304 h de oficial y 0,576 h de ayudante por m². El CAS no declara cuántas manos cubre su análisis: la equivalencia es una inferencia por consumo. El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Pintura al látex antihongo para cielorrasos, en tres manos, previo enduido y lijado. Medida por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: fuente, ítem 21.3 «Pintura al látex en cielorrasos» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre; sus rendimientos son idénticos a los de la edición julio 2025 citada antes), que asigna 0,19 h de oficial y 0,36 h de ayudante por m² para un consumo de 0,15 l/m² de pintura. DECISIÓN DE CURACIÓN (noviembre 2026): por su consumo, ese análisis equivale a una mano o a una mano y media, y esta partida declara tres manos con 0,24 l/m² de pintura. Las horas se escalaron en proporción al consumo de pintura de esta descomposición frente al del análisis del CAS: 0,24 / 0,15 = 1,6, con lo que quedan 0,304 h de oficial y 0,576 h de ayudante por m². El CAS no declara cuántas manos cubre su análisis: la equivalencia es una inferencia por consumo. El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste. CONSUMO DE ENDUIDO (corrección de noviembre 2026): 0,56 kg/m² (0,0224 balde de 25 kg). Sale del fabricante, no de la fuente de rendimientos. La ficha técnica de «Enduplast» de Sinteplast (sin fecha ni número de revisión; consultada el 17-11-2026 en sinteplast.com.ar), el enduido plástico interior de Sinteplast con el que se relevó el precio del material, da en sus características físicas un peso específico de 1,68 y un rendimiento de 3 m² por litro, que «puede variar según la superficie y el trabajo a realizar». Con eso, 1,68 / 3 = 0,56 kg/m². Se carga una sola aplicación; la ficha indica repetir el proceso hasta lograr uniformidad, así que una superficie irregular puede consumir más. El análisis del CAS que da las horas lleva 0,34 l de enduido por m², que con ese peso específico son 0,57 kg/m²: las dos fuentes son consistentes (2 % de diferencia). Reemplaza al consumo anterior de 0,45 kg/m², que no declaraba fuente. Las horas de mano de obra no cambian con esta corrección. CONSUMO DE LÁTEX: los 0,24 l/m² de las tres manos no se tomaron de una fuente declarada. Quedan dentro del rango de la ficha técnica de «Albalatex Extra Mate» (Alba, fecha de emisión agosto de 2024, revisión 2), el látex del precio relevado, que da 12 a 16 m² por litro y por mano: 0,19 a 0,25 l/m² en tres manos. INCLUYE: el látex, el enduido y la mano de obra de enduido, lijado y aplicación de las tres manos. NO INCLUYE: fijador ni sellador, lijas y otros consumibles, ni andamios. El material que valoriza la partida es el látex interior del banco: no se relevó una línea antihongo específica. EN REVISIÓN: el ítem 21.3 del CAS lleva 0,12 l/m² de fijador al aguarrás, y la ficha del enduido pide volver a aplicar un sellador o fijador sobre las zonas enduidas. Esta partida todavía no lleva fijador; queda pendiente decidir cuál. LÍMITE CONOCIDO: el enduido se calcula con el rendimiento de la ficha del fabricante y el látex con un consumo dentro del rango de su ficha, con precios de comercio y sin desperdicio ni consumibles. Contra una de las referencias de mercado consultadas la partida queda por debajo, y la diferencia está en los materiales. Conviene ajustarla con consumos y precios propios. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-14T22:02:33.444Z",
+      "updatedAt": "2026-11-17T20:55:22.049Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -45797,7 +45797,7 @@
         },
         {
           "factor": 1,
-          "quantity": 0.02,
+          "quantity": 0.0224,
           "ref": "mt-ar-enduido-plastico-interior-en-balde-de-25-kg",
           "role": "material"
         },
@@ -45830,7 +45830,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 12470.27
+          "value": 12576.32
         },
         {
           "currency": "ARS",
@@ -45843,7 +45843,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 13529.4
+          "value": 13635.45
         },
         {
           "currency": "ARS",
@@ -45856,7 +45856,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 19763.66
+          "value": 19869.72
         },
         {
           "currency": "ARS",
@@ -45869,7 +45869,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 21841.04
+          "value": 21947.09
         }
       ],
       "sources": [
@@ -45887,9 +45887,9 @@
         "enduido",
         "pintura"
       ],
-      "text": "Pintura al látex para interiores sobre paramentos y cielorrasos, en tres manos, previo enduido plástico, lijado y aplicación de fijador. Medida por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: fuente, ítem 21.2 «Pintura al látex en interiores» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre; sus rendimientos son idénticos a los de la edición julio 2025 citada antes), que asigna 0,18 h de oficial y 0,27 h de ayudante por m² para un consumo de 0,15 l/m² de pintura. DECISIÓN DE CURACIÓN (noviembre 2026): por su consumo, ese análisis equivale a una o una y media manos, y esta partida declara tres manos con 0,24 l/m² de pintura. Las horas se escalaron en proporción al consumo de pintura de esta descomposición frente al del análisis del CAS: 0,24 / 0,15 = 1,6, con lo que quedan 0,288 h de oficial y 0,432 h de ayudante por m². El CAS no declara cuántas manos cubre su análisis: la equivalencia es una inferencia por consumo. El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Pintura al látex para interiores sobre paramentos y cielorrasos, en tres manos, previo enduido plástico, lijado y aplicación de fijador. Medida por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: fuente, ítem 21.2 «Pintura al látex en interiores» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre; sus rendimientos son idénticos a los de la edición julio 2025 citada antes), que asigna 0,18 h de oficial y 0,27 h de ayudante por m² para un consumo de 0,15 l/m² de pintura. DECISIÓN DE CURACIÓN (noviembre 2026): por su consumo, ese análisis equivale a una mano o a una mano y media, y esta partida declara tres manos con 0,24 l/m² de pintura. Las horas se escalaron en proporción al consumo de pintura de esta descomposición frente al del análisis del CAS: 0,24 / 0,15 = 1,6, con lo que quedan 0,288 h de oficial y 0,432 h de ayudante por m². El CAS no declara cuántas manos cubre su análisis: la equivalencia es una inferencia por consumo. El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste. CONSUMO DE ENDUIDO (corrección de noviembre 2026): 0,56 kg/m² (0,0224 balde de 25 kg). Sale del fabricante, no de la fuente de rendimientos. La ficha técnica de «Enduplast» de Sinteplast (sin fecha ni número de revisión; consultada el 17-11-2026 en sinteplast.com.ar), el enduido plástico interior de Sinteplast con el que se relevó el precio del material, da en sus características físicas un peso específico de 1,68 y un rendimiento de 3 m² por litro, que «puede variar según la superficie y el trabajo a realizar». Con eso, 1,68 / 3 = 0,56 kg/m². Se carga una sola aplicación; la ficha indica repetir el proceso hasta lograr uniformidad, así que una superficie irregular puede consumir más. El análisis del CAS que da las horas lleva 0,34 l de enduido por m², que con ese peso específico son 0,57 kg/m²: las dos fuentes son consistentes (2 % de diferencia). Reemplaza al consumo anterior de 0,50 kg/m², que no declaraba fuente. Las horas de mano de obra no cambian con esta corrección. CONSUMO DE LÁTEX: los 0,24 l/m² de las tres manos no se tomaron de una fuente declarada. Quedan dentro del rango de la ficha técnica de «Albalatex Extra Mate» (Alba, fecha de emisión agosto de 2024, revisión 2), el látex del precio relevado, que da 12 a 16 m² por litro y por mano: 0,19 a 0,25 l/m² en tres manos. CONSUMO DE FIJADOR: los 0,10 l/m² (0,005 balde de 20 l) no declaran fuente; el ítem 21.2 del CAS lleva 0,12 l/m² de fijador al agua. INCLUYE: el látex, el enduido, el fijador y la mano de obra de enduido, lijado, fijado y aplicación de las tres manos. NO INCLUYE: lijas y otros consumibles, ni andamios. LÍMITE CONOCIDO: el enduido se calcula con el rendimiento de la ficha del fabricante, el látex con un consumo dentro del rango de su ficha y el fijador con un consumo sin fuente declarada, con precios de comercio y sin desperdicio ni consumibles. Contra una de las referencias de mercado consultadas la partida queda por debajo, y la diferencia está en los materiales. Conviene ajustarla con consumos y precios propios. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-14T22:02:33.445Z",
+      "updatedAt": "2026-11-17T20:55:22.050Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -56310,5 +56310,5 @@
     "quarantined": 0,
     "total": 672
   },
-  "version": "0.9.0"
+  "version": "0.9.1"
 }
