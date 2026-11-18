@@ -1,0 +1,623 @@
+{
+  "attributions": [
+    "Costos unitarios por rubro de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar",
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Revista CIFRAS: costos por rubro > 05 Aislaciones",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 5226.62,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 4894.7,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "05 Aislaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-05-01-aislante-acustico-lana-en-rollo-tipo-acustiver",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 10121.32
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-05-01-aislante-acustico-lana-en-rollo-tipo-acustiver",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "05.01",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 05.01 · Aislante acústico lana en rollo tipo Acustiver",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 05.01 «Aislante acústico lana en rollo tipo Acustiver» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 5.226,62 de ejecución (mano de obra y equipos) y $ 4.894,70 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 05.01: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.663Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 6007.61,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 40789.13,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "05 Aislaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-05-02-aislante-acustico-panel-fonoabsorbente-tipo-fon",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 46796.74
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-05-02-aislante-acustico-panel-fonoabsorbente-tipo-fon",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "05.02",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 05.02 · Aislante acústico panel fonoabsorbente tipo Fonac",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 05.02 «Aislante acústico panel fonoabsorbente tipo Fonac» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 6.007,61 de ejecución (mano de obra y equipos) y $ 40.789,13 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 05.02: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.665Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 7209.14,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 9998.91,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "05 Aislaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-05-03-cementicia-doble-horizontal-en-muros",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 17208.05
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-05-03-cementicia-doble-horizontal-en-muros",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "05.03",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 05.03 · Cementícia doble horizontal en muros",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 05.03 «Cementícia doble horizontal en muros» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 7.209,14 de ejecución (mano de obra y equipos) y $ 9.998,91 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 05.03: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.667Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 6007.61,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 7063.91,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "05 Aislaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-05-04-cementicia-doble-vertical-en-muros",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 13071.52
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-05-04-cementicia-doble-vertical-en-muros",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "05.04",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 05.04 · Cementícia doble vertical en muros",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 05.04 «Cementícia doble vertical en muros» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 6.007,61 de ejecución (mano de obra y equipos) y $ 7.063,91 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 05.04: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.669Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 30523.17,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 25592.74,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "05 Aislaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-05-05-cementicia-vertical-con-tabique-panderete-para",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 56115.91
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-05-05-cementicia-vertical-con-tabique-panderete-para",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "05.05",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 05.05 · Cementícia vertical con tabique panderete para subsuelo",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 05.05 «Cementícia vertical con tabique panderete para subsuelo» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 30.523,17 de ejecución (mano de obra y equipos) y $ 25.592,74 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 05.05: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.671Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 2441.85,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 7946.9,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "05 Aislaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-05-06-lana-de-vidrio-con-cara-aluminio-50mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 10388.75
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-05-06-lana-de-vidrio-con-cara-aluminio-50mm",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "05.06",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 05.06 · Lana de vidrio con cara aluminio 50mm",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 05.06 «Lana de vidrio con cara aluminio 50mm» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 2.441,85 de ejecución (mano de obra y equipos) y $ 7.946,90 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 05.06: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.672Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 3273.22,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 9155.38,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "05 Aislaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-05-07-membrana-espuma-de-polietileno-10mm-bajo-techo",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 12428.6
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-05-07-membrana-espuma-de-polietileno-10mm-bajo-techo",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "05.07",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 05.07 · Membrana espuma de polietileno 10mm bajo techo",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 05.07 «Membrana espuma de polietileno 10mm bajo techo» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 3.273,22 de ejecución (mano de obra y equipos) y $ 9.155,38 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 05.07: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.674Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 3052.32,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2416.95,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "05 Aislaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-05-08-pintura-asfaltica-sobre-paramentos",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 5469.27
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-05-08-pintura-asfaltica-sobre-paramentos",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "05.08",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 05.08 · Pintura asfáltica sobre paramentos",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 05.08 «Pintura asfáltica sobre paramentos» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 3.052,32 de ejecución (mano de obra y equipos) y $ 2.416,95 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 05.08: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.677Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 3273.22,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 5177.77,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "05 Aislaciones"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-05-09-pintura-impermeabilizante-sobre-paramentos",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 8450.99
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-05-09-pintura-impermeabilizante-sobre-paramentos",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "05.09",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 05.09 · Pintura impermeabilizante sobre paramentos",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 05.09 «Pintura impermeabilizante sobre paramentos» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 3.273,22 de ejecución (mano de obra y equipos) y $ 5.177,77 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 05.09: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.679Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.10.0"
+}

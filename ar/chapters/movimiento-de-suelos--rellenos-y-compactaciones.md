@@ -1,7 +1,8 @@
 # Movimiento de suelos > Rellenos y compactaciones
 
-Banco de ítems de construcción CERP v0.9.2 — 1 ítems. Datos estructurados en [`movimiento-de-suelos--rellenos-y-compactaciones.json`](./movimiento-de-suelos--rellenos-y-compactaciones.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.10.0 — 1 ítems. Datos estructurados en [`movimiento-de-suelos--rellenos-y-compactaciones.json`](./movimiento-de-suelos--rellenos-y-compactaciones.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
+> Costos unitarios por rubro de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar
 > Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo
 > Información obtenida del Portal de la Junta de Andalucía
 

@@ -1,6 +1,6 @@
 # Precios Unitarios > ESTRUCTURAS
 
-Banco de ítems de construcción CERP v0.9.2 — 204 ítems. Datos estructurados en [`precios-unitarios--estructuras.json`](./precios-unitarios--estructuras.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.10.0 — 204 ítems. Datos estructurados en [`precios-unitarios--estructuras.json`](./precios-unitarios--estructuras.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
 > Información obtenida del Portal de la Junta de Andalucía
 

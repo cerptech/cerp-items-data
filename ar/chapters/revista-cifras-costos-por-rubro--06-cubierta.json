@@ -1,0 +1,1371 @@
+{
+  "attributions": [
+    "Costos unitarios por rubro de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar",
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Revista CIFRAS: costos por rubro > 06 Cubierta",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 27993.23,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 61663.3,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "06 Cubierta"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-06-01-chapas-h-g-n-25-color-sobre-estructura-de-mader",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 89656.53
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-06-01-chapas-h-g-n-25-color-sobre-estructura-de-mader",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "06.01",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 06.01 · Chapas HºGºNº25 color sobre estructura de madera",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 06.01 «Chapas HºGºNº25 color sobre estructura de madera» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 27.993,23 de ejecución (mano de obra y equipos) y $ 61.663,30 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 06.01: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.681Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 31694.82,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 73979.6,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "06 Cubierta"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-06-02-chapas-h-g-n-25-color-sobre-estructura-metalica",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 105674.42
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-06-02-chapas-h-g-n-25-color-sobre-estructura-metalica",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "06.02",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 06.02 · Chapas HºGºNº25 color sobre estructura metálica",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 06.02 «Chapas HºGºNº25 color sobre estructura metálica» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 31.694,82 de ejecución (mano de obra y equipos) y $ 73.979,60 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 06.02: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.683Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 31403.75,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 66936.45,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "06 Cubierta"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-06-03-chapas-h-g-n-25-color-sobre-estructura-mixta",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 98340.2
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-06-03-chapas-h-g-n-25-color-sobre-estructura-mixta",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "06.03",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 06.03 · Chapas HºGºNº25 color sobre estructura mixta",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 06.03 «Chapas HºGºNº25 color sobre estructura mixta» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 31.403,75 de ejecución (mano de obra y equipos) y $ 66.936,45 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 06.03: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.685Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 26791.7,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 38051.54,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "06 Cubierta"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-06-04-chapas-h-g-n-25-sobre-estructura-de-madera",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 64843.24
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-06-04-chapas-h-g-n-25-sobre-estructura-de-madera",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "06.04",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 06.04 · Chapas HºGºNº25 sobre estructura de madera",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 06.04 «Chapas HºGºNº25 sobre estructura de madera» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 26.791,70 de ejecución (mano de obra y equipos) y $ 38.051,54 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 06.04: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.694Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 31045.54,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 61116.55,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "06 Cubierta"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-06-05-chapas-h-g-n-25-sobre-estructura-metalica",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 92162.09
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-06-05-chapas-h-g-n-25-sobre-estructura-metalica",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "06.05",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 06.05 · Chapas HºGºNº25 sobre estructura metálica",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 06.05 «Chapas HºGºNº25 sobre estructura metálica» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 31.045,54 de ejecución (mano de obra y equipos) y $ 61.116,55 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 06.05: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.696Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 29552.96,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 52629.4,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "06 Cubierta"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-06-06-chapas-h-g-n-25-sobre-estructura-mixta",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 82182.36
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-06-06-chapas-h-g-n-25-sobre-estructura-mixta",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "06.06",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 06.06 · Chapas HºGºNº25 sobre estructura mixta",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 06.06 «Chapas HºGºNº25 sobre estructura mixta» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 29.552,96 de ejecución (mano de obra y equipos) y $ 52.629,40 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 06.06: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.698Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 56896.91,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 92508.08,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "06 Cubierta"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-06-07-plana-completa-terminacion-azotea-verde",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 149404.99
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-06-07-plana-completa-terminacion-azotea-verde",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "06.07",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 06.07 · Plana completa terminación azotea verde",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 06.07 «Plana completa terminación azotea verde» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 56.896,91 de ejecución (mano de obra y equipos) y $ 92.508,08 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 06.07: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.700Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 40918.91,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 49728.47,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "06 Cubierta"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-06-08-plana-completa-terminacion-baldosa-ceramica",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 90647.38
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-06-08-plana-completa-terminacion-baldosa-ceramica",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "06.08",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 06.08 · Plana completa terminación baldosa cerámica",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 06.08 «Plana completa terminación baldosa cerámica» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 40.918,91 de ejecución (mano de obra y equipos) y $ 49.728,47 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 06.08: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.703Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 37359.13,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 50880.59,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "06 Cubierta"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-06-09-plana-completa-terminacion-doblado-de-ladrillos",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 88239.72
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-06-09-plana-completa-terminacion-doblado-de-ladrillos",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "06.09",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 06.09 · Plana completa terminación doblado de ladrillos comunes",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 06.09 «Plana completa terminación doblado de ladrillos comunes» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 37.359,13 de ejecución (mano de obra y equipos) y $ 50.880,59 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 06.09: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.705Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 31858.98,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 36484.78,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "06 Cubierta"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-06-10-plana-completa-terminacion-membrana-asfaltica-c",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 68343.76
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-06-10-plana-completa-terminacion-membrana-asfaltica-c",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "06.10",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 06.10 · Plana completa terminación membrana asfáltica c/aluminio",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 06.10 «Plana completa terminación membrana asfáltica c/aluminio» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 31.858,98 de ejecución (mano de obra y equipos) y $ 36.484,78 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 06.10: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.707Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 36112.82,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 41880.75,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "06 Cubierta"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-06-11-plana-completa-terminacion-membrana-geotextil",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 77993.57
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-06-11-plana-completa-terminacion-membrana-geotextil",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "06.11",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 06.11 · Plana completa terminación membrana geotextil",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 06.11 «Plana completa terminación membrana geotextil» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 36.112,82 de ejecución (mano de obra y equipos) y $ 41.880,75 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 06.11: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.710Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 27993.23,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 66892.5,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "06 Cubierta"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-06-12-tejas-francesas-esmaltadas-color-sobre-losa-c-a",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 94885.73
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-06-12-tejas-francesas-esmaltadas-color-sobre-losa-c-a",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "06.12",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 06.12 · Tejas francesas esmaltadas (color) sobre losa c/aislación",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 06.12 «Tejas francesas esmaltadas (color) sobre losa c/aislación» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 27.993,23 de ejecución (mano de obra y equipos) y $ 66.892,50 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 06.12: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.713Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 43418.98,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 101093.32,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "06 Cubierta"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-06-13-tejas-francesas-esmaltadas-color-estr-de-madera",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 144512.3
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-06-13-tejas-francesas-esmaltadas-color-estr-de-madera",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "06.13",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 06.13 · Tejas francesas esmaltadas (color), estr. de madera s/cepillar c/aisl.",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 06.13 «Tejas francesas esmaltadas (color), estr. de madera s/cepillar c/aisl.» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 43.418,98 de ejecución (mano de obra y equipos) y $ 101.093,32 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 06.13: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.715Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 47575.8,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 124202.93,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "06 Cubierta"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-06-14-tejas-francesas-esmaltadas-color-estr-de-madera",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 171778.73
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-06-14-tejas-francesas-esmaltadas-color-estr-de-madera",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "06.14",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 06.14 · Tejas francesas esmaltadas (color), estr. de madera vista c/aisl.",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 06.14 «Tejas francesas esmaltadas (color), estr. de madera vista c/aisl.» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 47.575,80 de ejecución (mano de obra y equipos) y $ 124.202,93 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 06.14: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.719Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 26791.7,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 52572.75,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "06 Cubierta"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-06-15-tejas-francesas-esmaltadas-sobre-losa-c-aislaci",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 79364.45
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-06-15-tejas-francesas-esmaltadas-sobre-losa-c-aislaci",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "06.15",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 06.15 · Tejas francesas esmaltadas sobre losa c/aislación",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 06.15 «Tejas francesas esmaltadas sobre losa c/aislación» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 26.791,70 de ejecución (mano de obra y equipos) y $ 52.572,75 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 06.15: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.721Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 42769.71,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 87083.26,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "06 Cubierta"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-06-16-tejas-francesas-esmaltadas-estr-de-madera-s-cep",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 129852.97
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-06-16-tejas-francesas-esmaltadas-estr-de-madera-s-cep",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "06.16",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 06.16 · Tejas francesas esmaltadas, estr. de madera s/cepillar c/aisl.",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 06.16 «Tejas francesas esmaltadas, estr. de madera s/cepillar c/aisl.» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 42.769,71 de ejecución (mano de obra y equipos) y $ 87.083,26 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 06.16: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.723Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 46926.52,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 110192.88,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "06 Cubierta"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-06-17-tejas-francesas-esmaltadas-estr-de-madera-vista",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 157119.4
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-06-17-tejas-francesas-esmaltadas-estr-de-madera-vista",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "06.17",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 06.17 · Tejas francesas esmaltadas, estr. de madera vista c/aisl.",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 06.17 «Tejas francesas esmaltadas, estr. de madera vista c/aisl.» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 46.926,52 de ejecución (mano de obra y equipos) y $ 110.192,88 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 06.17: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.725Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 26239.45,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 44283.56,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "06 Cubierta"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-06-18-tejas-francesas-natural-sobre-losa-c-aislacion",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 70523.01
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-06-18-tejas-francesas-natural-sobre-losa-c-aislacion",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "06.18",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 06.18 · Tejas francesas natural sobre losa c/aislación",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 06.18 «Tejas francesas natural sobre losa c/aislación» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 26.239,45 de ejecución (mano de obra y equipos) y $ 44.283,56 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 06.18: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.728Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 41568.18,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 79000.54,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "06 Cubierta"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-06-19-tejas-francesas-natural-estr-de-madera-s-cepill",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 120568.72
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-06-19-tejas-francesas-natural-estr-de-madera-s-cepill",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "06.19",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 06.19 · Tejas francesas natural, estr. de madera s/cepillar c/aisl.",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 06.19 «Tejas francesas natural, estr. de madera s/cepillar c/aisl.» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 41.568,18 de ejecución (mano de obra y equipos) y $ 79.000,54 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 06.19: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.730Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 45725,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 102110.16,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "06 Cubierta"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.906Z",
+      "id": "wi-ar-cifras-06-20-tejas-francesas-natural-estr-de-madera-vista-c",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 147835.16
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-06-20-tejas-francesas-natural-estr-de-madera-vista-c",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "06.20",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 06.20 · Tejas francesas natural, estr. de madera vista c/aisl.",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 06.20 «Tejas francesas natural, estr. de madera vista c/aisl.» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 45.725,00 de ejecución (mano de obra y equipos) y $ 102.110,16 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 06.20: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.731Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.10.0"
+}

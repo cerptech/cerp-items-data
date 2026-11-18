@@ -1,0 +1,61 @@
+{
+  "key": "revista-cifras-costos-por-rubro--16-instalacion-electrica",
+  "rows": [
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-16-01-artefacto-de-iluminacion",
+      "m": 2,
+      "p": 110964.79,
+      "s": "Cifras 16.01 · Artefacto de Iluminación",
+      "u": "u"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-16-02-boca-de-electricidad",
+      "m": 2,
+      "p": 149204.64,
+      "s": "Cifras 16.02 · Boca de electricidad",
+      "u": "u"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-16-03-boca-de-telefonia",
+      "m": 2,
+      "p": 134795.65,
+      "s": "Cifras 16.03 · Boca de telefonía",
+      "u": "u"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-16-04-boca-de-television",
+      "m": 2,
+      "p": 128231.2,
+      "s": "Cifras 16.04 · Boca de televisión",
+      "u": "u"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-16-05-tablero-de-electricidad",
+      "m": 2,
+      "p": 251526.02,
+      "s": "Cifras 16.05 · Tablero de electricidad",
+      "u": "u"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-16-06-toma-de-electricidad",
+      "m": 2,
+      "p": 132792.12,
+      "s": "Cifras 16.06 · Toma de electricidad",
+      "u": "u"
+    }
+  ],
+  "title": "Revista CIFRAS: costos por rubro > 16 Instalación eléctrica",
+  "version": "0.10.0"
+}

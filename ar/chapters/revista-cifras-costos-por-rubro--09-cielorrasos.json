@@ -1,0 +1,693 @@
+{
+  "attributions": [
+    "Costos unitarios por rubro de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar",
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Revista CIFRAS: costos por rubro > 09 Cielorrasos",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 10025.51,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 233.16,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "09 Cielorrasos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.907Z",
+      "id": "wi-ar-cifras-09-01-hormigon-visto-terminaciones",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 10258.67
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-09-01-hormigon-visto-terminaciones",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "09.01",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 09.01 · Hormigón visto (terminaciones)",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 09.01 «Hormigón visto (terminaciones)» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 10.025,51 de ejecución (mano de obra y equipos) y $ 233,16 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 09.01: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.802Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 17643.92,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 30348.5,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "09 Cielorrasos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.907Z",
+      "id": "wi-ar-cifras-09-02-madera-machimbrada-suspendido-c-estructura-de-m",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 47992.42
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-09-02-madera-machimbrada-suspendido-c-estructura-de-m",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "09.02",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 09.02 · Madera machimbrada (suspendido c/estructura de madera)",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 09.02 «Madera machimbrada (suspendido c/estructura de madera)» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 17.643,92 de ejecución (mano de obra y equipos) y $ 30.348,50 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 09.02: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.803Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 27632.06,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 4478.19,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "09 Cielorrasos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.907Z",
+      "id": "wi-ar-cifras-09-03-mortero-a-la-cal-aplicado-bajo-losa",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 32110.25
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-09-03-mortero-a-la-cal-aplicado-bajo-losa",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "09.03",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 09.03 · Mortero a la cal aplicado bajo losa",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 09.03 «Mortero a la cal aplicado bajo losa» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 27.632,06 de ejecución (mano de obra y equipos) y $ 4.478,19 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 09.03: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.804Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 12691.41,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 13732.83,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "09 Cielorrasos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.907Z",
+      "id": "wi-ar-cifras-09-04-placa-de-yeso-comun-junta-tomada-c-aislacion",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 26424.24
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-09-04-placa-de-yeso-comun-junta-tomada-c-aislacion",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "09.04",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 09.04 · Placa de yeso común junta tomada, c/aislación",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 09.04 «Placa de yeso común junta tomada, c/aislación» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 12.691,41 de ejecución (mano de obra y equipos) y $ 13.732,83 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 09.04: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.807Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-ebd2ced34a2af1f0"
+        ],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 12407.53,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 12245.06,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "09 Cielorrasos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.907Z",
+      "id": "wi-ar-cifras-09-05-placa-de-yeso-comun-junta-tomada-s-aislacion",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 24652.59
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-09-05-placa-de-yeso-comun-junta-tomada-s-aislacion",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "09.05",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 09.05 · Placa de yeso común junta tomada, s/aislación",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 09.05 «Placa de yeso común junta tomada, s/aislación» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 12.407,53 de ejecución (mano de obra y equipos) y $ 12.245,06 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 09.05: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.810Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 14675.63,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 12815.67,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "09 Cielorrasos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.907Z",
+      "id": "wi-ar-cifras-09-06-placa-de-yeso-comun-para-cajones-taparrollos",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 27491.3
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-09-06-placa-de-yeso-comun-para-cajones-taparrollos",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "09.06",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 09.06 · Placa de yeso común para cajones, taparrollos",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 09.06 «Placa de yeso común para cajones, taparrollos» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 14.675,63 de ejecución (mano de obra y equipos) y $ 12.815,67 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 09.06: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.812Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 13166.44,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 15211.39,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "09 Cielorrasos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.907Z",
+      "id": "wi-ar-cifras-09-07-placa-de-yeso-resistente-a-la-humedad-junta-tom",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 28377.83
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-09-07-placa-de-yeso-resistente-a-la-humedad-junta-tom",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "09.07",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 09.07 · Placa de yeso resistente a la humedad junta tomada",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 09.07 «Placa de yeso resistente a la humedad junta tomada» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 13.166,44 de ejecución (mano de obra y equipos) y $ 15.211,39 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 09.07: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.815Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 14013.88,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 13039.83,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "09 Cielorrasos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.907Z",
+      "id": "wi-ar-cifras-09-08-placa-vinilica-texturada-desmontable-s-aislacio",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 27053.71
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-09-08-placa-vinilica-texturada-desmontable-s-aislacio",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "09.08",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 09.08 · Placa vinílica texturada desmontable, s/aislación",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 09.08 «Placa vinílica texturada desmontable, s/aislación» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 14.013,88 de ejecución (mano de obra y equipos) y $ 13.039,83 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 09.08: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.823Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 27632.06,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2306.3,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "09 Cielorrasos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.907Z",
+      "id": "wi-ar-cifras-09-09-yeso-aplicado-bajo-losa",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 29938.36
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-09-09-yeso-aplicado-bajo-losa",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "09.09",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 09.09 · Yeso aplicado bajo losa",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 09.09 «Yeso aplicado bajo losa» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 27.632,06 de ejecución (mano de obra y equipos) y $ 2.306,30 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 09.09: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.829Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 47439.04,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 16957.28,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "09 Cielorrasos"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.907Z",
+      "id": "wi-ar-cifras-09-10-yeso-armado-c-estructura-de-madera",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 64396.32
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-09-10-yeso-armado-c-estructura-de-madera",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "09.10",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 09.10 · Yeso armado, c/estructura de madera",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 09.10 «Yeso armado, c/estructura de madera» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 47.439,04 de ejecución (mano de obra y equipos) y $ 16.957,28 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 09.10: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.832Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.10.0"
+}

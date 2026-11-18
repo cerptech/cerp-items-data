@@ -1,0 +1,691 @@
+{
+  "attributions": [
+    "Costos unitarios por rubro de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar",
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Revista CIFRAS: costos por rubro > 13 Carpinterías",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 72091.35,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 444624.72,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "13 Carpinterías"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.908Z",
+      "id": "wi-ar-cifras-13-01-puerta-ingreso-madera-maciza",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 516716.07
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-13-01-puerta-ingreso-madera-maciza",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "13.01",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 13.01 · Puerta ingreso madera maciza",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 13.01 «Puerta ingreso madera maciza» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 72.091,35 de ejecución (mano de obra y equipos) y $ 444.624,72 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 13.01: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.930Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 60076.13,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 174849.01,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "13 Carpinterías"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.908Z",
+      "id": "wi-ar-cifras-13-02-puerta-interior-madera-placa-ench-madera",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 234925.14
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-13-02-puerta-interior-madera-placa-ench-madera",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "13.02",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 13.02 · Puerta interior madera placa ench.madera",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 13.02 «Puerta interior madera placa ench.madera» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 60.076,13 de ejecución (mano de obra y equipos) y $ 174.849,01 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 13.02: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.931Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 57673.08,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 137209.51,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "13 Carpinterías"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.908Z",
+      "id": "wi-ar-cifras-13-03-puerta-interior-madera-placa-ench-mdf",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 194882.59
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-13-03-puerta-interior-madera-placa-ench-mdf",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "13.03",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 13.03 · Puerta interior madera placa ench.mdf",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 13.03 «Puerta interior madera placa ench.mdf» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 57.673,08 de ejecución (mano de obra y equipos) y $ 137.209,51 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 13.03: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.933Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 47672.82,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 154492.02,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "13 Carpinterías"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.908Z",
+      "id": "wi-ar-cifras-13-04-rejas-de-hierro",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 202164.84
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-13-04-rejas-de-hierro",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "13.04",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 13.04 · Rejas de hierro",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 13.04 «Rejas de hierro» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 47.672,82 de ejecución (mano de obra y equipos) y $ 154.492,02 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 13.04: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.935Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 49262.42,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 304037.31,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "13 Carpinterías"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.908Z",
+      "id": "wi-ar-cifras-13-05-ventana-puerta-ventana-aluminio",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 353299.73
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-13-05-ventana-puerta-ventana-aluminio",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "13.05",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 13.05 · Ventana / Puerta ventana aluminio",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 13.05 «Ventana / Puerta ventana aluminio» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 49.262,42 de ejecución (mano de obra y equipos) y $ 304.037,31 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 13.05: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.937Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 63921,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1041338.33,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "13 Carpinterías"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.908Z",
+      "id": "wi-ar-cifras-13-06-ventana-puerta-ventana-aluminio-con-postigos",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1105259.33
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-13-06-ventana-puerta-ventana-aluminio-con-postigos",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "13.06",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 13.06 · Ventana / Puerta ventana aluminio con postigos",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 13.06 «Ventana / Puerta ventana aluminio con postigos» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 63.921,00 de ejecución (mano de obra y equipos) y $ 1.041.338,33 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 13.06: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.944Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 56471.56,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 140831.78,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "13 Carpinterías"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.908Z",
+      "id": "wi-ar-cifras-13-07-ventana-puerta-ventana-chapa-doblada-con-celosi",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 197303.34
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-13-07-ventana-puerta-ventana-chapa-doblada-con-celosi",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "13.07",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 13.07 · Ventana / Puerta ventana chapa doblada con celosía",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 13.07 «Ventana / Puerta ventana chapa doblada con celosía» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 56.471,56 de ejecución (mano de obra y equipos) y $ 140.831,78 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 13.07: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.952Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 50463.95,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1026085.91,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "13 Carpinterías"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.908Z",
+      "id": "wi-ar-cifras-13-08-ventana-puerta-ventana-madera",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1076549.86
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-13-08-ventana-puerta-ventana-madera",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "13.08",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 13.08 · Ventana / Puerta ventana madera",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 13.08 «Ventana / Puerta ventana madera» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 50.463,95 de ejecución (mano de obra y equipos) y $ 1.026.085,91 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 13.08: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.954Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 67285.26,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1665198.76,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "13 Carpinterías"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.908Z",
+      "id": "wi-ar-cifras-13-09-ventana-puerta-ventana-madera-con-postigos",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1732484.02
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-13-09-ventana-puerta-ventana-madera-con-postigos",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "13.09",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 13.09 · Ventana / Puerta ventana madera con postigos",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 13.09 «Ventana / Puerta ventana madera con postigos» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 67.285,26 de ejecución (mano de obra y equipos) y $ 1.665.198,76 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 13.09: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.955Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 48060.9,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 80425.96,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "13 Carpinterías"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.908Z",
+      "id": "wi-ar-cifras-13-10-ventana-ventiluz-chapa-doblada",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 128486.86
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-13-10-ventana-ventiluz-chapa-doblada",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "13.10",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 13.10 · Ventana / Ventiluz chapa doblada",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 13.10 «Ventana / Ventiluz chapa doblada» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 48.060,90 de ejecución (mano de obra y equipos) y $ 80.425,96 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 13.10: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:49.958Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.10.0"
+}

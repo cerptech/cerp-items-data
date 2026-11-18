@@ -1,0 +1,419 @@
+{
+  "attributions": [
+    "Costos unitarios por rubro de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar",
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Revista CIFRAS: costos por rubro > 19 Equipamiento",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 242058.47,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 1321138.78,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "19 Equipamiento"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.912Z",
+      "id": "wi-ar-cifras-19-01-amob-fijo-bajo-mesada-y-alacena-incl-mesada-gra",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 1563197.25
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-19-01-amob-fijo-bajo-mesada-y-alacena-incl-mesada-gra",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "19.01",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 19.01 · Amob.fijo: bajo mesada y alacena (incl. mesada granito)",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 19.01 «Amob.fijo: bajo mesada y alacena (incl. mesada granito)» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 242.058,47 de ejecución (mano de obra y equipos) y $ 1.321.138,78 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 19.01: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:50.172Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 195244.36,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 557520.57,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "19 Equipamiento"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.912Z",
+      "id": "wi-ar-cifras-19-02-amob-fijo-bajo-mesada-y-alacena-no-incl-mesada",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 752764.93
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-19-02-amob-fijo-bajo-mesada-y-alacena-no-incl-mesada",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "19.02",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 19.02 · Amob.fijo: bajo mesada y alacena (no incl. mesada)",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 19.02 «Amob.fijo: bajo mesada y alacena (no incl. mesada)» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 195.244,36 de ejecución (mano de obra y equipos) y $ 557.520,57 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 19.02: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:50.173Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 70445.38,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 187216.67,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "19 Equipamiento"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.912Z",
+      "id": "wi-ar-cifras-19-03-amob-fijo-puertas-de-placares",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 257662.05
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-19-03-amob-fijo-puertas-de-placares",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "19.03",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 19.03 · Amob.fijo: puertas de placares",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 19.03 «Amob.fijo: puertas de placares» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 70.445,38 de ejecución (mano de obra y equipos) y $ 187.216,67 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 19.03: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:50.175Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 85231.86,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 281667.48,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "19 Equipamiento"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.912Z",
+      "id": "wi-ar-cifras-19-04-amob-fijo-puertas-e-interiores-de-placares",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 366899.34
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-19-04-amob-fijo-puertas-e-interiores-de-placares",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "19.04",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 19.04 · Amob.fijo: puertas e interiores de placares",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 19.04 «Amob.fijo: puertas e interiores de placares» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m², sin IVA, gastos generales ni beneficio: $ 85.231,86 de ejecución (mano de obra y equipos) y $ 281.667,48 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 19.04: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m2",
+      "updatedAt": "2026-11-18T18:19:50.177Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 23863.88,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 231237.04,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "19 Equipamiento"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.912Z",
+      "id": "wi-ar-cifras-19-05-matafuegos-abc-05kg",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 255100.92
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-19-05-matafuegos-abc-05kg",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "19.05",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 19.05 · Matafuegos ABC 05kg",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 19.05 «Matafuegos ABC 05kg» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por unidad, sin IVA, gastos generales ni beneficio: $ 23.863,88 de ejecución (mano de obra y equipos) y $ 231.237,04 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 19.05: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "u",
+      "updatedAt": "2026-11-18T18:19:50.179Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 25453.22,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 441385.26,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "19 Equipamiento"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.912Z",
+      "id": "wi-ar-cifras-19-06-matafuegos-abc-10kg",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 466838.48
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-19-06-matafuegos-abc-10kg",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "19.06",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 19.06 · Matafuegos ABC 10kg",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 19.06 «Matafuegos ABC 10kg» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por unidad, sin IVA, gastos generales ni beneficio: $ 25.453,22 de ejecución (mano de obra y equipos) y $ 441.385,26 de materiales. La revista no detalla qué incluye el rubro. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 19.06: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "u",
+      "updatedAt": "2026-11-18T18:19:50.182Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.10.0"
+}

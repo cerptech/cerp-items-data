@@ -1,0 +1,97 @@
+{
+  "key": "revista-cifras-costos-por-rubro--09-cielorrasos",
+  "rows": [
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-09-01-hormigon-visto-terminaciones",
+      "m": 2,
+      "p": 10258.67,
+      "s": "Cifras 09.01 · Hormigón visto (terminaciones)",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-09-02-madera-machimbrada-suspendido-c-estructura-de-m",
+      "m": 2,
+      "p": 47992.42,
+      "s": "Cifras 09.02 · Madera machimbrada (suspendido c/estructura de madera)",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-09-03-mortero-a-la-cal-aplicado-bajo-losa",
+      "m": 2,
+      "p": 32110.25,
+      "s": "Cifras 09.03 · Mortero a la cal aplicado bajo losa",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-09-04-placa-de-yeso-comun-junta-tomada-c-aislacion",
+      "m": 2,
+      "p": 26424.24,
+      "s": "Cifras 09.04 · Placa de yeso común junta tomada, c/aislación",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-09-05-placa-de-yeso-comun-junta-tomada-s-aislacion",
+      "m": 2,
+      "p": 24652.59,
+      "s": "Cifras 09.05 · Placa de yeso común junta tomada, s/aislación",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-09-06-placa-de-yeso-comun-para-cajones-taparrollos",
+      "m": 2,
+      "p": 27491.3,
+      "s": "Cifras 09.06 · Placa de yeso común para cajones, taparrollos",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-09-07-placa-de-yeso-resistente-a-la-humedad-junta-tom",
+      "m": 2,
+      "p": 28377.83,
+      "s": "Cifras 09.07 · Placa de yeso resistente a la humedad junta tomada",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-09-08-placa-vinilica-texturada-desmontable-s-aislacio",
+      "m": 2,
+      "p": 27053.71,
+      "s": "Cifras 09.08 · Placa vinílica texturada desmontable, s/aislación",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-09-09-yeso-aplicado-bajo-losa",
+      "m": 2,
+      "p": 29938.36,
+      "s": "Cifras 09.09 · Yeso aplicado bajo losa",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-09-10-yeso-armado-c-estructura-de-madera",
+      "m": 2,
+      "p": 64396.32,
+      "s": "Cifras 09.10 · Yeso armado, c/estructura de madera",
+      "u": "m2"
+    }
+  ],
+  "title": "Revista CIFRAS: costos por rubro > 09 Cielorrasos",
+  "version": "0.10.0"
+}

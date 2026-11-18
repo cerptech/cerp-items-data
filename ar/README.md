@@ -1,8 +1,8 @@
 # Banco de ítems de construcción CERP
 
-Catálogo abierto de **672 ítems de construcción de Argentina** con precios de referencia y descomposición completa (mano de obra, materiales y maquinaria con rendimientos). Versión **0.9.2** · generado 2026-11-18 · mantenido por [CERP](https://cerp.es).
+Catálogo abierto de **910 ítems de construcción de Argentina** con precios de referencia y descomposición completa (mano de obra, materiales y maquinaria con rendimientos). Versión **0.10.0** · generado 2026-11-18 · mantenido por [CERP](https://cerp.es).
 
-333 partidas de obra · 320 materiales · 19 recursos de mano de obra y maquinaria
+569 partidas de obra · 321 materiales · 20 recursos de mano de obra y maquinaria
 
 ## Para personas
 
@@ -84,6 +84,26 @@ También podés navegar los capítulos en [`chapters/`](./chapters): cada capít
 | [Pisos](./chapters/pisos--raiz.md) | 10 | [JSON](./chapters/pisos--raiz.json) |
 | [Revestimientos > Cerámicos](./chapters/revestimientos--ceramicos.md) | 2 | [JSON](./chapters/revestimientos--ceramicos.json) |
 | [Revestimientos](./chapters/revestimientos--raiz.md) | 10 | [JSON](./chapters/revestimientos--raiz.json) |
+| [Revista CIFRAS: costos por rubro > 01 Preliminares de obra](./chapters/revista-cifras-costos-por-rubro--01-preliminares-de-obra.md) | 12 | [JSON](./chapters/revista-cifras-costos-por-rubro--01-preliminares-de-obra.json) |
+| [Revista CIFRAS: costos por rubro > 02 Movimiento de tierra](./chapters/revista-cifras-costos-por-rubro--02-movimiento-de-tierra.md) | 5 | [JSON](./chapters/revista-cifras-costos-por-rubro--02-movimiento-de-tierra.json) |
+| [Revista CIFRAS: costos por rubro > 03 Estructuras](./chapters/revista-cifras-costos-por-rubro--03-estructuras.md) | 15 | [JSON](./chapters/revista-cifras-costos-por-rubro--03-estructuras.json) |
+| [Revista CIFRAS: costos por rubro > 04 Mamposterías y tabiquerías](./chapters/revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias.md) | 18 | [JSON](./chapters/revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias.json) |
+| [Revista CIFRAS: costos por rubro > 05 Aislaciones](./chapters/revista-cifras-costos-por-rubro--05-aislaciones.md) | 9 | [JSON](./chapters/revista-cifras-costos-por-rubro--05-aislaciones.json) |
+| [Revista CIFRAS: costos por rubro > 06 Cubierta](./chapters/revista-cifras-costos-por-rubro--06-cubierta.md) | 20 | [JSON](./chapters/revista-cifras-costos-por-rubro--06-cubierta.json) |
+| [Revista CIFRAS: costos por rubro > 07 Revoques](./chapters/revista-cifras-costos-por-rubro--07-revoques.md) | 17 | [JSON](./chapters/revista-cifras-costos-por-rubro--07-revoques.json) |
+| [Revista CIFRAS: costos por rubro > 08 Contrapisos](./chapters/revista-cifras-costos-por-rubro--08-contrapisos.md) | 10 | [JSON](./chapters/revista-cifras-costos-por-rubro--08-contrapisos.json) |
+| [Revista CIFRAS: costos por rubro > 09 Cielorrasos](./chapters/revista-cifras-costos-por-rubro--09-cielorrasos.md) | 10 | [JSON](./chapters/revista-cifras-costos-por-rubro--09-cielorrasos.json) |
+| [Revista CIFRAS: costos por rubro > 10 Revestimientos](./chapters/revista-cifras-costos-por-rubro--10-revestimientos.md) | 9 | [JSON](./chapters/revista-cifras-costos-por-rubro--10-revestimientos.json) |
+| [Revista CIFRAS: costos por rubro > 11 Pisos](./chapters/revista-cifras-costos-por-rubro--11-pisos.md) | 16 | [JSON](./chapters/revista-cifras-costos-por-rubro--11-pisos.json) |
+| [Revista CIFRAS: costos por rubro > 12 Zócalos](./chapters/revista-cifras-costos-por-rubro--12-zocalos.md) | 7 | [JSON](./chapters/revista-cifras-costos-por-rubro--12-zocalos.json) |
+| [Revista CIFRAS: costos por rubro > 13 Carpinterías](./chapters/revista-cifras-costos-por-rubro--13-carpinterias.md) | 10 | [JSON](./chapters/revista-cifras-costos-por-rubro--13-carpinterias.json) |
+| [Revista CIFRAS: costos por rubro > 14 Vidriería](./chapters/revista-cifras-costos-por-rubro--14-vidrieria.md) | 11 | [JSON](./chapters/revista-cifras-costos-por-rubro--14-vidrieria.json) |
+| [Revista CIFRAS: costos por rubro > 15 Pinturas](./chapters/revista-cifras-costos-por-rubro--15-pinturas.md) | 6 | [JSON](./chapters/revista-cifras-costos-por-rubro--15-pinturas.json) |
+| [Revista CIFRAS: costos por rubro > 16 Instalación eléctrica](./chapters/revista-cifras-costos-por-rubro--16-instalacion-electrica.md) | 6 | [JSON](./chapters/revista-cifras-costos-por-rubro--16-instalacion-electrica.json) |
+| [Revista CIFRAS: costos por rubro > 17 Instalación sanitaria e incendio](./chapters/revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio.md) | 32 | [JSON](./chapters/revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio.json) |
+| [Revista CIFRAS: costos por rubro > 18 Instalación de gas](./chapters/revista-cifras-costos-por-rubro--18-instalacion-de-gas.md) | 13 | [JSON](./chapters/revista-cifras-costos-por-rubro--18-instalacion-de-gas.json) |
+| [Revista CIFRAS: costos por rubro > 19 Equipamiento](./chapters/revista-cifras-costos-por-rubro--19-equipamiento.md) | 6 | [JSON](./chapters/revista-cifras-costos-por-rubro--19-equipamiento.json) |
+| [Revista CIFRAS: costos por rubro > 20 Varios](./chapters/revista-cifras-costos-por-rubro--20-varios.md) | 4 | [JSON](./chapters/revista-cifras-costos-por-rubro--20-varios.json) |
 | [Revoques > Exteriores](./chapters/revoques--exteriores.md) | 1 | [JSON](./chapters/revoques--exteriores.json) |
 | [Revoques > Interiores](./chapters/revoques--interiores.md) | 2 | [JSON](./chapters/revoques--interiores.json) |
 | [Revoques](./chapters/revoques--raiz.md) | 14 | [JSON](./chapters/revoques--raiz.json) |
@@ -119,6 +139,7 @@ Los archivos se sirven con CORS abierto vía `raw.githubusercontent.com`. Estruc
 
 ## Licencia y atribución
 
+- Costos unitarios por rubro de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar
 - Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo
 - Información obtenida del Portal de la Junta de Andalucía
 

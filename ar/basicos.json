@@ -1,5 +1,6 @@
 {
   "attributions": [
+    "Costos unitarios por rubro de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar",
     "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
     "Información obtenida del Portal de la Junta de Andalucía"
   ],
@@ -293,6 +294,56 @@
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-07-21T21:43:02.614Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "Importes"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.864Z",
+      "id": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+      "kind": "labor",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "value": 1
+        }
+      ],
+      "sources": [
+        {
+          "code": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Mano de obra y equipos según Revista CIFRAS (en pesos)",
+      "tags": [
+        "cifras",
+        "mano de obra",
+        "importe"
+      ],
+      "text": "Línea que carga en pesos el costo de ejecución (mano de obra y equipos) que Revista CIFRAS publica para un rubro. La cantidad es el importe en pesos por unidad de la partida. No es una categoría del convenio ni una cantidad de horas: la revista publica el importe, no el rendimiento. Unidad de cuenta definida por Banco de ítems CERP el 2026-11-18: no es un precio de comercio. Cada unidad vale un peso, sin IVA, de la edición de noviembre de 2026 de Revista CIFRAS.",
+      "unit": "u",
+      "updatedAt": "2026-11-18T18:19:26.864Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
         "status": "auto_ok"
       }
     },
@@ -10613,6 +10664,56 @@
     },
     {
       "bom": [],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "Importes"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.865Z",
+      "id": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+      "kind": "material",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "curated",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "value": 1
+        }
+      ],
+      "sources": [
+        {
+          "code": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Materiales según Revista CIFRAS (en pesos)",
+      "tags": [
+        "cifras",
+        "materiales",
+        "importe"
+      ],
+      "text": "Línea que carga en pesos el costo de materiales que Revista CIFRAS publica para un rubro. La cantidad es el importe en pesos por unidad de la partida. No es un producto: no se compra ni se computa. La revista publica el importe, no los consumos. Unidad de cuenta definida por Banco de ítems CERP el 2026-11-18: no es un precio de comercio. Cada unidad vale un peso, sin IVA, de la edición de noviembre de 2026 de Revista CIFRAS.",
+      "unit": "u",
+      "updatedAt": "2026-11-18T18:19:26.865Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [],
       "country": "AR",
       "createdAt": "2026-10-06T23:05:08.408Z",
       "id": "mt-ar-media-cana-de-borde-de-1x1-pulgada",
@@ -16224,5 +16325,5 @@
       }
     }
   ],
-  "version": "0.9.2"
+  "version": "0.10.0"
 }

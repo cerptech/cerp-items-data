@@ -1,0 +1,61 @@
+{
+  "key": "revista-cifras-costos-por-rubro--19-equipamiento",
+  "rows": [
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-19-01-amob-fijo-bajo-mesada-y-alacena-incl-mesada-gra",
+      "m": 2,
+      "p": 1563197.25,
+      "s": "Cifras 19.01 · Amob.fijo: bajo mesada y alacena (incl. mesada granito)",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-19-02-amob-fijo-bajo-mesada-y-alacena-no-incl-mesada",
+      "m": 2,
+      "p": 752764.93,
+      "s": "Cifras 19.02 · Amob.fijo: bajo mesada y alacena (no incl. mesada)",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-19-03-amob-fijo-puertas-de-placares",
+      "m": 2,
+      "p": 257662.05,
+      "s": "Cifras 19.03 · Amob.fijo: puertas de placares",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-19-04-amob-fijo-puertas-e-interiores-de-placares",
+      "m": 2,
+      "p": 366899.34,
+      "s": "Cifras 19.04 · Amob.fijo: puertas e interiores de placares",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-19-05-matafuegos-abc-05kg",
+      "m": 2,
+      "p": 255100.92,
+      "s": "Cifras 19.05 · Matafuegos ABC 05kg",
+      "u": "u"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-19-06-matafuegos-abc-10kg",
+      "m": 2,
+      "p": 466838.48,
+      "s": "Cifras 19.06 · Matafuegos ABC 10kg",
+      "u": "u"
+    }
+  ],
+  "title": "Revista CIFRAS: costos por rubro > 19 Equipamiento",
+  "version": "0.10.0"
+}

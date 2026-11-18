@@ -1,0 +1,903 @@
+{
+  "attributions": [
+    "Costos unitarios por rubro de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar",
+    "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo",
+    "Información obtenida del Portal de la Junta de Andalucía"
+  ],
+  "chapter": "Revista CIFRAS: costos por rubro > 18 Instalación de gas",
+  "items": [
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 92334.34,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 292212.4,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "18 Instalación de gas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.911Z",
+      "id": "wi-ar-cifras-18-01-calefactor-gn-2000cal",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 384546.74
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-18-01-calefactor-gn-2000cal",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "18.01",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 18.01 · Calefactor GN 2000cal",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 18.01 «Calefactor GN 2000cal» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por unidad, sin IVA, gastos generales ni beneficio: $ 92.334,34 de ejecución (mano de obra y equipos) y $ 292.212,40 de materiales. Según la revista, la sección incluye artefactos y accesorios de calidad media, colocados. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 18.01: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "u",
+      "updatedAt": "2026-11-18T18:19:50.137Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-8283207a820dc6cc"
+        ],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 97194.04,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 324680.44,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "18 Instalación de gas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.911Z",
+      "id": "wi-ar-cifras-18-02-calefactor-gn-3000cal",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 421874.48
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-18-02-calefactor-gn-3000cal",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "18.02",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 18.02 · Calefactor GN 3000cal",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 18.02 «Calefactor GN 3000cal» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por unidad, sin IVA, gastos generales ni beneficio: $ 97.194,04 de ejecución (mano de obra y equipos) y $ 324.680,44 de materiales. Según la revista, la sección incluye artefactos y accesorios de calidad media, colocados. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 18.02: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "u",
+      "updatedAt": "2026-11-18T18:19:50.139Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 99417.66,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 317900.8,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "18 Instalación de gas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.912Z",
+      "id": "wi-ar-cifras-18-03-calefon-gn-12ls",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 417318.46
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-18-03-calefon-gn-12ls",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "18.03",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 18.03 · Calefón GN 12ls",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 18.03 «Calefón GN 12ls» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por unidad, sin IVA, gastos generales ni beneficio: $ 99.417,66 de ejecución (mano de obra y equipos) y $ 317.900,80 de materiales. Según la revista, la sección incluye artefactos y accesorios de calidad media, colocados. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 18.03: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "u",
+      "updatedAt": "2026-11-18T18:19:50.141Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-c6c8fb45c08095c2"
+        ],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 100542.37,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 354141.5,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "18 Instalación de gas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.912Z",
+      "id": "wi-ar-cifras-18-04-calefon-gn-14ls",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 454683.87
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-18-04-calefon-gn-14ls",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "18.04",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 18.04 · Calefón GN 14ls",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 18.04 «Calefón GN 14ls» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por unidad, sin IVA, gastos generales ni beneficio: $ 100.542,37 de ejecución (mano de obra y equipos) y $ 354.141,50 de materiales. Según la revista, la sección incluye artefactos y accesorios de calidad media, colocados. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 18.04: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "u",
+      "updatedAt": "2026-11-18T18:19:50.148Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 103212.23,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 353187.79,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "18 Instalación de gas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.912Z",
+      "id": "wi-ar-cifras-18-05-cocina-gn-4h-h-y-p",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 456400.02
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-18-05-cocina-gn-4h-h-y-p",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "18.05",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 18.05 · Cocina GN 4H, H y P",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 18.05 «Cocina GN 4H, H y P» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por unidad, sin IVA, gastos generales ni beneficio: $ 103.212,23 de ejecución (mano de obra y equipos) y $ 353.187,79 de materiales. Según la revista, la sección incluye artefactos y accesorios de calidad media, colocados. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 18.05: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "u",
+      "updatedAt": "2026-11-18T18:19:50.151Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 102756.88,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 430755.59,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "18 Instalación de gas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.912Z",
+      "id": "wi-ar-cifras-18-06-termotanque-gn-060ls",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 533512.47
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-18-06-termotanque-gn-060ls",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "18.06",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 18.06 · Termotanque GN 060ls",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 18.06 «Termotanque GN 060ls» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por unidad, sin IVA, gastos generales ni beneficio: $ 102.756,88 de ejecución (mano de obra y equipos) y $ 430.755,59 de materiales. Según la revista, la sección incluye artefactos y accesorios de calidad media, colocados. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 18.06: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "u",
+      "updatedAt": "2026-11-18T18:19:50.154Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 103971.14,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 758193.42,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "18 Instalación de gas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.912Z",
+      "id": "wi-ar-cifras-18-07-termotanque-gn-110ls",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 862164.56
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-18-07-termotanque-gn-110ls",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "18.07",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 18.07 · Termotanque GN 110ls",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 18.07 «Termotanque GN 110ls» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por unidad, sin IVA, gastos generales ni beneficio: $ 103.971,14 de ejecución (mano de obra y equipos) y $ 758.193,42 de materiales. Según la revista, la sección incluye artefactos y accesorios de calidad media, colocados. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 18.07: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "u",
+      "updatedAt": "2026-11-18T18:19:50.155Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 12294.4,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 8014.94,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "18 Instalación de gas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.912Z",
+      "id": "wi-ar-cifras-18-08-caneria-epoxi-013mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 20309.34
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-18-08-caneria-epoxi-013mm",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "18.08",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 18.08 · Cañería EPOXI Ø 013mm",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 18.08 «Cañería EPOXI Ø 013mm» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m, sin IVA, gastos generales ni beneficio: $ 12.294,40 de ejecución (mano de obra y equipos) y $ 8.014,94 de materiales. Según la revista, la sección incluye abrir canaletas o zanjas, cañería, piezas especiales y accesorios de la instalación completa y reglamentaria. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 18.08: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m",
+      "updatedAt": "2026-11-18T18:19:50.158Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-aa361fa834c417f6"
+        ],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 13964.01,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 9796.04,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "18 Instalación de gas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.912Z",
+      "id": "wi-ar-cifras-18-09-caneria-epoxi-019mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 23760.05
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-18-09-caneria-epoxi-019mm",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "18.09",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 18.09 · Cañería EPOXI Ø 019mm",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 18.09 «Cañería EPOXI Ø 019mm» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m, sin IVA, gastos generales ni beneficio: $ 13.964,01 de ejecución (mano de obra y equipos) y $ 9.796,04 de materiales. Según la revista, la sección incluye abrir canaletas o zanjas, cañería, piezas especiales y accesorios de la instalación completa y reglamentaria. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 18.09: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m",
+      "updatedAt": "2026-11-18T18:19:50.160Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 15648.79,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 11577.14,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "18 Instalación de gas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.912Z",
+      "id": "wi-ar-cifras-18-10-caneria-epoxi-025mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 27225.93
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-18-10-caneria-epoxi-025mm",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "18.10",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 18.10 · Cañería EPOXI Ø 025mm",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 18.10 «Cañería EPOXI Ø 025mm» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m, sin IVA, gastos generales ni beneficio: $ 15.648,79 de ejecución (mano de obra y equipos) y $ 11.577,14 de materiales. Según la revista, la sección incluye abrir canaletas o zanjas, cañería, piezas especiales y accesorios de la instalación completa y reglamentaria. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 18.10: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m",
+      "updatedAt": "2026-11-18T18:19:50.162Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 17576.43,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 13358.23,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "18 Instalación de gas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.912Z",
+      "id": "wi-ar-cifras-18-11-caneria-epoxi-050mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 30934.66
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-18-11-caneria-epoxi-050mm",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "18.11",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 18.11 · Cañería EPOXI Ø 050mm",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 18.11 «Cañería EPOXI Ø 050mm» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por m, sin IVA, gastos generales ni beneficio: $ 17.576,43 de ejecución (mano de obra y equipos) y $ 13.358,23 de materiales. Según la revista, la sección incluye abrir canaletas o zanjas, cañería, piezas especiales y accesorios de la instalación completa y reglamentaria. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 18.11: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "m",
+      "updatedAt": "2026-11-18T18:19:50.164Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 15003.72,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 21211.59,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "18 Instalación de gas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.912Z",
+      "id": "wi-ar-cifras-18-12-llave-de-paso-13mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 36215.31
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-18-12-llave-de-paso-13mm",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "18.12",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 18.12 · Llave de paso Ø 13mm",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 18.12 «Llave de paso Ø 13mm» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por unidad, sin IVA, gastos generales ni beneficio: $ 15.003,72 de ejecución (mano de obra y equipos) y $ 21.211,59 de materiales. Según la revista, la sección incluye abrir canaletas o zanjas, cañería, piezas especiales y accesorios de la instalación completa y reglamentaria. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 18.12: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "u",
+      "updatedAt": "2026-11-18T18:19:50.167Z",
+      "verification": {
+        "findings": [
+          "duplicate_candidate-108a4c087ac75768"
+        ],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "conflicted"
+      }
+    },
+    {
+      "bom": [
+        {
+          "factor": 1,
+          "quantity": 17629.37,
+          "ref": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+          "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 27150.83,
+          "ref": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+          "role": "material"
+        }
+      ],
+      "classification": {
+        "path": [
+          "Revista CIFRAS: costos por rubro",
+          "18 Instalación de gas"
+        ]
+      },
+      "country": "AR",
+      "createdAt": "2026-11-18T18:19:26.912Z",
+      "id": "wi-ar-cifras-18-13-llave-de-paso-19mm",
+      "kind": "work_item",
+      "prices": [
+        {
+          "currency": "ARS",
+          "date": "2026-11",
+          "edition": "2026-11",
+          "kind": "computed_from_bom",
+          "scope": {
+            "country": "AR"
+          },
+          "source": "cerp",
+          "sourceCode": "BOM",
+          "value": 44780.2
+        }
+      ],
+      "sources": [
+        {
+          "code": "wi-ar-cifras-18-13-llave-de-paso-19mm",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cerp"
+        },
+        {
+          "code": "18.13",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
+        }
+      ],
+      "summary": "Cifras 18.13 · Llave de paso Ø 19mm",
+      "tags": [
+        "cifras",
+        "costo por rubro"
+      ],
+      "text": "Rubro 18.13 «Llave de paso Ø 19mm» de la tabla «Costos unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa Fe, región Litoral), cargado tal cual lo publica la revista. Costo directo por unidad, sin IVA, gastos generales ni beneficio: $ 17.629,37 de ejecución (mano de obra y equipos) y $ 27.150,83 de materiales. Según la revista, la sección incluye abrir canaletas o zanjas, cañería, piezas especiales y accesorios de la instalación completa y reglamentaria. El banco no calculó este costo ni tiene su análisis: la revista no publica horas ni consumos, y las líneas de la descomposición cargan en pesos los importes publicados. Los valores son de la región Litoral y no se ajustan por zona. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 18.13: importes de ejecución y de materiales copiados sin modificar de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026).",
+      "unit": "u",
+      "updatedAt": "2026-11-18T18:19:50.170Z",
+      "verification": {
+        "findings": [],
+        "lastCheckedAt": "2026-11-18T18:20:14.696Z",
+        "status": "auto_ok"
+      }
+    }
+  ],
+  "version": "0.10.0"
+}

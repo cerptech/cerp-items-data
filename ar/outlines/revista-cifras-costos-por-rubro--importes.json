@@ -1,0 +1,25 @@
+{
+  "key": "revista-cifras-costos-por-rubro--importes",
+  "rows": [
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+      "m": 0,
+      "p": 1,
+      "s": "Mano de obra y equipos según Revista CIFRAS (en pesos)",
+      "u": "u"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+      "m": 0,
+      "p": 1,
+      "s": "Materiales según Revista CIFRAS (en pesos)",
+      "u": "u"
+    }
+  ],
+  "title": "Revista CIFRAS: costos por rubro > Importes",
+  "version": "0.10.0"
+}

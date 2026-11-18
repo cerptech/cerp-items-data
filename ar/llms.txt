@@ -1,7 +1,8 @@
 # Banco de ítems de construcción CERP
 
-> Catálogo abierto de 672 ítems de construcción de Argentina con precios de referencia y descomposición (BOM: mano de obra, materiales, maquinaria). Versión 0.9.2. Formato canónico JSON; cada capítulo también en Markdown. Ids: wi=partida, mt=material, mo=mano de obra, mq=maquinaria, au=auxiliar, ot=otro. Cada precio lleva procedencia (fuente, código origen, edición, ámbito, fecha).
+> Catálogo abierto de 910 ítems de construcción de Argentina con precios de referencia y descomposición (BOM: mano de obra, materiales, maquinaria). Versión 0.10.0. Formato canónico JSON; cada capítulo también en Markdown. Ids: wi=partida, mt=material, mo=mano de obra, mq=maquinaria, au=auxiliar, ot=otro. Cada precio lleva procedencia (fuente, código origen, edición, ámbito, fecha).
 
+Atribución obligatoria al reutilizar: "Costos unitarios por rubro de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar".
 Atribución obligatoria al reutilizar: "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo".
 Atribución obligatoria al reutilizar: "Información obtenida del Portal de la Junta de Andalucía".
 
@@ -10,7 +11,7 @@ Atribución obligatoria al reutilizar: "Información obtenida del Portal de la J
 - [index.json](./index.json): índice máquina de todos los chunks con conteos y hash SHA-256 por archivo
 - [tree.json](./tree.json): árbol de navegación jerárquico completo (labels, slugs, conteos)
 - outlines/<chunk>.json: filas livianas por capítulo (id, resumen, unidad, precio, subgrupos) — para listados sin cargar el capítulo entero
-- [basicos.json](./basicos.json): los 339 conceptos simples (materiales, mano de obra, maquinaria) — resuelve cualquier ref de BOM
+- [basicos.json](./basicos.json): los 341 conceptos simples (materiales, mano de obra, maquinaria) — resuelve cualquier ref de BOM
 - [catalog.json](./catalog.json): catálogo completo en un archivo
 - [countries.json](./countries.json): países disponibles. Este bundle es el del país de la raíz; los demás viven en su subcarpeta (p.ej. [ar/](./ar/llms.txt) para Argentina) con la misma estructura de archivos
 
@@ -95,6 +96,26 @@ Atribución obligatoria al reutilizar: "Información obtenida del Portal de la J
 - [Pisos](./chapters/pisos--raiz.json): 10 ítems ([markdown](./chapters/pisos--raiz.md))
 - [Revestimientos > Cerámicos](./chapters/revestimientos--ceramicos.json): 2 ítems ([markdown](./chapters/revestimientos--ceramicos.md))
 - [Revestimientos](./chapters/revestimientos--raiz.json): 10 ítems ([markdown](./chapters/revestimientos--raiz.md))
+- [Revista CIFRAS: costos por rubro > 01 Preliminares de obra](./chapters/revista-cifras-costos-por-rubro--01-preliminares-de-obra.json): 12 ítems ([markdown](./chapters/revista-cifras-costos-por-rubro--01-preliminares-de-obra.md))
+- [Revista CIFRAS: costos por rubro > 02 Movimiento de tierra](./chapters/revista-cifras-costos-por-rubro--02-movimiento-de-tierra.json): 5 ítems ([markdown](./chapters/revista-cifras-costos-por-rubro--02-movimiento-de-tierra.md))
+- [Revista CIFRAS: costos por rubro > 03 Estructuras](./chapters/revista-cifras-costos-por-rubro--03-estructuras.json): 15 ítems ([markdown](./chapters/revista-cifras-costos-por-rubro--03-estructuras.md))
+- [Revista CIFRAS: costos por rubro > 04 Mamposterías y tabiquerías](./chapters/revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias.json): 18 ítems ([markdown](./chapters/revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias.md))
+- [Revista CIFRAS: costos por rubro > 05 Aislaciones](./chapters/revista-cifras-costos-por-rubro--05-aislaciones.json): 9 ítems ([markdown](./chapters/revista-cifras-costos-por-rubro--05-aislaciones.md))
+- [Revista CIFRAS: costos por rubro > 06 Cubierta](./chapters/revista-cifras-costos-por-rubro--06-cubierta.json): 20 ítems ([markdown](./chapters/revista-cifras-costos-por-rubro--06-cubierta.md))
+- [Revista CIFRAS: costos por rubro > 07 Revoques](./chapters/revista-cifras-costos-por-rubro--07-revoques.json): 17 ítems ([markdown](./chapters/revista-cifras-costos-por-rubro--07-revoques.md))
+- [Revista CIFRAS: costos por rubro > 08 Contrapisos](./chapters/revista-cifras-costos-por-rubro--08-contrapisos.json): 10 ítems ([markdown](./chapters/revista-cifras-costos-por-rubro--08-contrapisos.md))
+- [Revista CIFRAS: costos por rubro > 09 Cielorrasos](./chapters/revista-cifras-costos-por-rubro--09-cielorrasos.json): 10 ítems ([markdown](./chapters/revista-cifras-costos-por-rubro--09-cielorrasos.md))
+- [Revista CIFRAS: costos por rubro > 10 Revestimientos](./chapters/revista-cifras-costos-por-rubro--10-revestimientos.json): 9 ítems ([markdown](./chapters/revista-cifras-costos-por-rubro--10-revestimientos.md))
+- [Revista CIFRAS: costos por rubro > 11 Pisos](./chapters/revista-cifras-costos-por-rubro--11-pisos.json): 16 ítems ([markdown](./chapters/revista-cifras-costos-por-rubro--11-pisos.md))
+- [Revista CIFRAS: costos por rubro > 12 Zócalos](./chapters/revista-cifras-costos-por-rubro--12-zocalos.json): 7 ítems ([markdown](./chapters/revista-cifras-costos-por-rubro--12-zocalos.md))
+- [Revista CIFRAS: costos por rubro > 13 Carpinterías](./chapters/revista-cifras-costos-por-rubro--13-carpinterias.json): 10 ítems ([markdown](./chapters/revista-cifras-costos-por-rubro--13-carpinterias.md))
+- [Revista CIFRAS: costos por rubro > 14 Vidriería](./chapters/revista-cifras-costos-por-rubro--14-vidrieria.json): 11 ítems ([markdown](./chapters/revista-cifras-costos-por-rubro--14-vidrieria.md))
+- [Revista CIFRAS: costos por rubro > 15 Pinturas](./chapters/revista-cifras-costos-por-rubro--15-pinturas.json): 6 ítems ([markdown](./chapters/revista-cifras-costos-por-rubro--15-pinturas.md))
+- [Revista CIFRAS: costos por rubro > 16 Instalación eléctrica](./chapters/revista-cifras-costos-por-rubro--16-instalacion-electrica.json): 6 ítems ([markdown](./chapters/revista-cifras-costos-por-rubro--16-instalacion-electrica.md))
+- [Revista CIFRAS: costos por rubro > 17 Instalación sanitaria e incendio](./chapters/revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio.json): 32 ítems ([markdown](./chapters/revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio.md))
+- [Revista CIFRAS: costos por rubro > 18 Instalación de gas](./chapters/revista-cifras-costos-por-rubro--18-instalacion-de-gas.json): 13 ítems ([markdown](./chapters/revista-cifras-costos-por-rubro--18-instalacion-de-gas.md))
+- [Revista CIFRAS: costos por rubro > 19 Equipamiento](./chapters/revista-cifras-costos-por-rubro--19-equipamiento.json): 6 ítems ([markdown](./chapters/revista-cifras-costos-por-rubro--19-equipamiento.md))
+- [Revista CIFRAS: costos por rubro > 20 Varios](./chapters/revista-cifras-costos-por-rubro--20-varios.json): 4 ítems ([markdown](./chapters/revista-cifras-costos-por-rubro--20-varios.md))
 - [Revoques > Exteriores](./chapters/revoques--exteriores.json): 1 ítems ([markdown](./chapters/revoques--exteriores.md))
 - [Revoques > Interiores](./chapters/revoques--interiores.json): 2 ítems ([markdown](./chapters/revoques--interiores.md))
 - [Revoques](./chapters/revoques--raiz.json): 14 ítems ([markdown](./chapters/revoques--raiz.md))

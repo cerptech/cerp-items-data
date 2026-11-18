@@ -10,6 +10,14 @@
     },
     {
       "c": "",
+      "i": "mo-ar-mano-de-obra-y-equipos-segun-revista-cifras-en-pesos",
+      "k": "labor",
+      "p": 1,
+      "s": "Mano de obra y equipos según Revista CIFRAS (en pesos)",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mo-ar-medio-oficial-cct-76-75",
       "k": "labor",
       "p": 6188,
@@ -1698,6 +1706,14 @@
     },
     {
       "c": "",
+      "i": "mt-ar-materiales-segun-revista-cifras-en-pesos",
+      "k": "material",
+      "p": 1,
+      "s": "Materiales según Revista CIFRAS (en pesos)",
+      "u": "u"
+    },
+    {
+      "c": "",
       "i": "mt-ar-media-cana-de-borde-de-1x1-pulgada",
       "k": "material",
       "p": 1207.49,
@@ -3206,6 +3222,1894 @@
       "k": "work_item",
       "p": 31057.77,
       "s": "Cielorraso suspendido desmontable tipo durlock, modulacion 0,61 x 0,61 m",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--01-preliminares-de-obra",
+      "i": "wi-ar-cifras-01-01-cartel-de-obra",
+      "k": "work_item",
+      "p": 126799.1,
+      "s": "Cifras 01.01 · Cartel de Obra",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--01-preliminares-de-obra",
+      "i": "wi-ar-cifras-01-02-cerco-de-obra",
+      "k": "work_item",
+      "p": 55937.28,
+      "s": "Cifras 01.02 · Cerco de Obra",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--01-preliminares-de-obra",
+      "i": "wi-ar-cifras-01-03-limpieza-inicial-de-terreno-y-retiros-generales",
+      "k": "work_item",
+      "p": 5400.67,
+      "s": "Cifras 01.03 · Limpieza inicial de terreno y retiros generales",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--01-preliminares-de-obra",
+      "i": "wi-ar-cifras-01-04-nivelacion-y-replanteo-de-obra",
+      "k": "work_item",
+      "p": 8849.69,
+      "s": "Cifras 01.04 · Nivelación y replanteo de obra",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--01-preliminares-de-obra",
+      "i": "wi-ar-cifras-01-05-obrador-y-construcciones-provisorias",
+      "k": "work_item",
+      "p": 218803.34,
+      "s": "Cifras 01.05 · Obrador y construcciones provisorias",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--01-preliminares-de-obra",
+      "i": "wi-ar-cifras-01-06-contenedor-volquete-5m3-alquiler",
+      "k": "work_item",
+      "p": 112401.95,
+      "s": "Cifras 01.06 · Contenedor/volquete 5m3 (alquiler)",
+      "u": "d"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--01-preliminares-de-obra",
+      "i": "wi-ar-cifras-01-07-demolicion-de-contrapisos-y-otros-solados",
+      "k": "work_item",
+      "p": 18957.1,
+      "s": "Cifras 01.07 · Demolición de contrapisos y otros solados",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--01-preliminares-de-obra",
+      "i": "wi-ar-cifras-01-08-demolicion-de-estructuras-de-hormigon-armado",
+      "k": "work_item",
+      "p": 319853.93,
+      "s": "Cifras 01.08 · Demolición de estructuras de hormigón armado",
+      "u": "m3"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--01-preliminares-de-obra",
+      "i": "wi-ar-cifras-01-09-demolicion-de-mamposterias-de-ladrillos-comunes",
+      "k": "work_item",
+      "p": 134993.09,
+      "s": "Cifras 01.09 · Demolición de mamposterías de ladrillos comunes",
+      "u": "m3"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--01-preliminares-de-obra",
+      "i": "wi-ar-cifras-01-10-demolicion-de-mamposterias-de-ladrillos-huecos",
+      "k": "work_item",
+      "p": 23276.64,
+      "s": "Cifras 01.10 · Demolición de mamposterías de ladrillos huecos",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--01-preliminares-de-obra",
+      "i": "wi-ar-cifras-01-11-picado-de-revoques",
+      "k": "work_item",
+      "p": 16554.05,
+      "s": "Cifras 01.11 · Picado de revoques",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--01-preliminares-de-obra",
+      "i": "wi-ar-cifras-01-12-retiro-de-pisos-revestimientos",
+      "k": "work_item",
+      "p": 17755.57,
+      "s": "Cifras 01.12 · Retiro de pisos/revestimientos",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--02-movimiento-de-tierra",
+      "i": "wi-ar-cifras-02-01-desmonte-terraplenamientos-y-rellenos-a-maquina",
+      "k": "work_item",
+      "p": 44065.94,
+      "s": "Cifras 02.01 · Desmonte; Terraplenamientos y rellenos a máquina",
+      "u": "m3"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--02-movimiento-de-tierra",
+      "i": "wi-ar-cifras-02-02-desmonte-terraplenamientos-y-rellenos-manual",
+      "k": "work_item",
+      "p": 38240.78,
+      "s": "Cifras 02.02 · Desmonte; Terraplenamientos y rellenos manual",
+      "u": "m3"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--02-movimiento-de-tierra",
+      "i": "wi-ar-cifras-02-03-excavacion-a-maquina-para-subsuelo",
+      "k": "work_item",
+      "p": 54426.84,
+      "s": "Cifras 02.03 · Excavación a máquina para subsuelo",
+      "u": "m3"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--02-movimiento-de-tierra",
+      "i": "wi-ar-cifras-02-04-excavacion-manual-para-bases-de-columnas",
+      "k": "work_item",
+      "p": 57637.29,
+      "s": "Cifras 02.04 · Excavación manual para bases de columnas",
+      "u": "m3"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--02-movimiento-de-tierra",
+      "i": "wi-ar-cifras-02-05-excavacion-manual-para-zapata-de-muros",
+      "k": "work_item",
+      "p": 42865.45,
+      "s": "Cifras 02.05 · Excavación manual para zapata de muros",
+      "u": "m3"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--03-estructuras",
+      "i": "wi-ar-cifras-03-00-bases-h-a-h21-50kg",
+      "k": "work_item",
+      "p": 616423.98,
+      "s": "Cifras 03.00 · Bases H°A° -H21/50kg",
+      "u": "m3"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--03-estructuras",
+      "i": "wi-ar-cifras-03-01-columnas-h-a-h21-90kg",
+      "k": "work_item",
+      "p": 1021537.33,
+      "s": "Cifras 03.01 · Columnas H°A° - H21/90kg",
+      "u": "m3"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--03-estructuras",
+      "i": "wi-ar-cifras-03-02-encadenado-h-a-h21-65kg",
+      "k": "work_item",
+      "p": 916269.51,
+      "s": "Cifras 03.02 · Encadenado H°A° - H21/65kg",
+      "u": "m3"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--03-estructuras",
+      "i": "wi-ar-cifras-03-03-escalera-h-a-h21-65kg",
+      "k": "work_item",
+      "p": 980314.3,
+      "s": "Cifras 03.03 · Escalera H°A° - H21/65kg",
+      "u": "m3"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--03-estructuras",
+      "i": "wi-ar-cifras-03-04-losa-h-a-con-viguetas-y-ladrillon-ceramico-12cm",
+      "k": "work_item",
+      "p": 125610.95,
+      "s": "Cifras 03.04 · Losa HºAº con viguetas y ladrillón cerámico 12cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--03-estructuras",
+      "i": "wi-ar-cifras-03-05-losa-h-a-con-viguetas-y-ladrillon-poliestireno",
+      "k": "work_item",
+      "p": 134979.21,
+      "s": "Cifras 03.05 · Losa HºAº con viguetas y ladrillón poliestireno exp.12cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--03-estructuras",
+      "i": "wi-ar-cifras-03-06-losa-h-a-macizas-h21-60kg",
+      "k": "work_item",
+      "p": 926661.29,
+      "s": "Cifras 03.06 · Losa HºAº macizas H21/60kg",
+      "u": "m3"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--03-estructuras",
+      "i": "wi-ar-cifras-03-07-tabiques-h-a-h21-70kg",
+      "k": "work_item",
+      "p": 1144526.02,
+      "s": "Cifras 03.07 · Tabiques H°A° - H21/70kg",
+      "u": "m3"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--03-estructuras",
+      "i": "wi-ar-cifras-03-08-tanques-h-a-h21-120kg",
+      "k": "work_item",
+      "p": 1241603.47,
+      "s": "Cifras 03.08 · Tanques H°A° - H21/120kg",
+      "u": "m3"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--03-estructuras",
+      "i": "wi-ar-cifras-03-09-vigas-h-a-h21-120kg",
+      "k": "work_item",
+      "p": 1306410.46,
+      "s": "Cifras 03.09 · Vigas H°A° - H21/120kg",
+      "u": "m3"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--03-estructuras",
+      "i": "wi-ar-cifras-03-10-zapata-corrida-muros-h-cascotes",
+      "k": "work_item",
+      "p": 299966.04,
+      "s": "Cifras 03.10 · Zapata corrida muros Hº cascotes",
+      "u": "m3"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--03-estructuras",
+      "i": "wi-ar-cifras-03-11-zapata-corrida-muros-h-a",
+      "k": "work_item",
+      "p": 471194.52,
+      "s": "Cifras 03.11 · Zapata corrida muros HºAº",
+      "u": "m3"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--03-estructuras",
+      "i": "wi-ar-cifras-03-12-hierros-redondos",
+      "k": "work_item",
+      "p": 10643.74,
+      "s": "Cifras 03.12 · Hierros redondos",
+      "u": "kg"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--03-estructuras",
+      "i": "wi-ar-cifras-03-13-perfiles-angulo",
+      "k": "work_item",
+      "p": 21163.95,
+      "s": "Cifras 03.13 · Perfiles ángulo",
+      "u": "kg"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--03-estructuras",
+      "i": "wi-ar-cifras-03-14-perfiles-normales",
+      "k": "work_item",
+      "p": 18195.65,
+      "s": "Cifras 03.14 · Perfiles normales",
+      "u": "kg"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias",
+      "i": "wi-ar-cifras-04-01-bloques-hcca-10x25x50cm",
+      "k": "work_item",
+      "p": 58564.38,
+      "s": "Cifras 04.01 · Bloques HCCA 10x25x50cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias",
+      "i": "wi-ar-cifras-04-02-bloques-hcca-15x25x50cm",
+      "k": "work_item",
+      "p": 80830.38,
+      "s": "Cifras 04.02 · Bloques HCCA 15x25x50cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias",
+      "i": "wi-ar-cifras-04-03-bloques-hcca-20x25x50cm",
+      "k": "work_item",
+      "p": 102499.36,
+      "s": "Cifras 04.03 · Bloques HCCA 20x25x50cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias",
+      "i": "wi-ar-cifras-04-04-bloques-de-hormigon-10x20x40cm",
+      "k": "work_item",
+      "p": 56752.87,
+      "s": "Cifras 04.04 · Bloques de hormigón 10x20x40cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias",
+      "i": "wi-ar-cifras-04-05-bloques-de-hormigon-20x20x40cm",
+      "k": "work_item",
+      "p": 68296.5,
+      "s": "Cifras 04.05 · Bloques de hormigón 20x20x40cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias",
+      "i": "wi-ar-cifras-04-06-ladrillos-ceramicos-decorativos-12x18x25cm",
+      "k": "work_item",
+      "p": 67877.56,
+      "s": "Cifras 04.06 · Ladrillos cerámicos decorativos 12x18x25cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias",
+      "i": "wi-ar-cifras-04-07-ladrillos-ceramicos-huecos-08x18x33cm",
+      "k": "work_item",
+      "p": 47074.56,
+      "s": "Cifras 04.07 · Ladrillos cerámicos huecos 08x18x33cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias",
+      "i": "wi-ar-cifras-04-08-ladrillos-ceramicos-huecos-12x18x33cm",
+      "k": "work_item",
+      "p": 56424.94,
+      "s": "Cifras 04.08 · Ladrillos cerámicos huecos 12x18x33cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias",
+      "i": "wi-ar-cifras-04-09-ladrillos-ceramicos-huecos-18x18x33cm",
+      "k": "work_item",
+      "p": 66764.52,
+      "s": "Cifras 04.09 · Ladrillos cerámicos huecos 18x18x33cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias",
+      "i": "wi-ar-cifras-04-10-ladrillos-comunes-a-la-vista-en-elevacion",
+      "k": "work_item",
+      "p": 494520.42,
+      "s": "Cifras 04.10 · Ladrillos comunes a la vista en elevación",
+      "u": "m3"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias",
+      "i": "wi-ar-cifras-04-11-ladrillos-comunes-en-cimientos",
+      "k": "work_item",
+      "p": 306563.86,
+      "s": "Cifras 04.11 · Ladrillos comunes en cimientos",
+      "u": "m3"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias",
+      "i": "wi-ar-cifras-04-12-ladrillos-comunes-en-elevacion",
+      "k": "work_item",
+      "p": 354245.13,
+      "s": "Cifras 04.12 · Ladrillos comunes en elevación",
+      "u": "m3"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias",
+      "i": "wi-ar-cifras-04-13-placa-cementicia-doble-esp-12-5cm-exterior-c-ai",
+      "k": "work_item",
+      "p": 41235.31,
+      "s": "Cifras 04.13 · Placa cementícia doble esp. 12,5cm exterior, c/aislación",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias",
+      "i": "wi-ar-cifras-04-14-placa-de-yeso-doble-esp-12-5cm-c-aislacion",
+      "k": "work_item",
+      "p": 34107.78,
+      "s": "Cifras 04.14 · Placa de yeso doble esp.12,5cm, c/aislación",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias",
+      "i": "wi-ar-cifras-04-15-placa-de-yeso-resistente-a-la-humedad-esp-9-5cm",
+      "k": "work_item",
+      "p": 37021.43,
+      "s": "Cifras 04.15 · Placa de yeso resistente a la humedad esp.9,5cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias",
+      "i": "wi-ar-cifras-04-16-placa-de-yeso-simple-esp-8-5cm-medio-tabique-in",
+      "k": "work_item",
+      "p": 15809.56,
+      "s": "Cifras 04.16 · Placa de yeso simple esp.8,5cm medio tabique interior",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias",
+      "i": "wi-ar-cifras-04-17-placa-de-yeso-simple-esp-9-5cm-interior-c-aisla",
+      "k": "work_item",
+      "p": 21517.04,
+      "s": "Cifras 04.17 · Placa de yeso simple esp.9,5cm interior, c/aislación",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias",
+      "i": "wi-ar-cifras-04-18-placa-de-yeso-simple-esp-9-5cm-interior-s-aisla",
+      "k": "work_item",
+      "p": 18680.61,
+      "s": "Cifras 04.18 · Placa de yeso simple esp.9,5cm interior, s/aislación",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--05-aislaciones",
+      "i": "wi-ar-cifras-05-01-aislante-acustico-lana-en-rollo-tipo-acustiver",
+      "k": "work_item",
+      "p": 10121.32,
+      "s": "Cifras 05.01 · Aislante acústico lana en rollo tipo Acustiver",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--05-aislaciones",
+      "i": "wi-ar-cifras-05-02-aislante-acustico-panel-fonoabsorbente-tipo-fon",
+      "k": "work_item",
+      "p": 46796.74,
+      "s": "Cifras 05.02 · Aislante acústico panel fonoabsorbente tipo Fonac",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--05-aislaciones",
+      "i": "wi-ar-cifras-05-03-cementicia-doble-horizontal-en-muros",
+      "k": "work_item",
+      "p": 17208.05,
+      "s": "Cifras 05.03 · Cementícia doble horizontal en muros",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--05-aislaciones",
+      "i": "wi-ar-cifras-05-04-cementicia-doble-vertical-en-muros",
+      "k": "work_item",
+      "p": 13071.52,
+      "s": "Cifras 05.04 · Cementícia doble vertical en muros",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--05-aislaciones",
+      "i": "wi-ar-cifras-05-05-cementicia-vertical-con-tabique-panderete-para",
+      "k": "work_item",
+      "p": 56115.91,
+      "s": "Cifras 05.05 · Cementícia vertical con tabique panderete para subsuelo",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--05-aislaciones",
+      "i": "wi-ar-cifras-05-06-lana-de-vidrio-con-cara-aluminio-50mm",
+      "k": "work_item",
+      "p": 10388.75,
+      "s": "Cifras 05.06 · Lana de vidrio con cara aluminio 50mm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--05-aislaciones",
+      "i": "wi-ar-cifras-05-07-membrana-espuma-de-polietileno-10mm-bajo-techo",
+      "k": "work_item",
+      "p": 12428.6,
+      "s": "Cifras 05.07 · Membrana espuma de polietileno 10mm bajo techo",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--05-aislaciones",
+      "i": "wi-ar-cifras-05-08-pintura-asfaltica-sobre-paramentos",
+      "k": "work_item",
+      "p": 5469.27,
+      "s": "Cifras 05.08 · Pintura asfáltica sobre paramentos",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--05-aislaciones",
+      "i": "wi-ar-cifras-05-09-pintura-impermeabilizante-sobre-paramentos",
+      "k": "work_item",
+      "p": 8450.99,
+      "s": "Cifras 05.09 · Pintura impermeabilizante sobre paramentos",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--06-cubierta",
+      "i": "wi-ar-cifras-06-01-chapas-h-g-n-25-color-sobre-estructura-de-mader",
+      "k": "work_item",
+      "p": 89656.53,
+      "s": "Cifras 06.01 · Chapas HºGºNº25 color sobre estructura de madera",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--06-cubierta",
+      "i": "wi-ar-cifras-06-02-chapas-h-g-n-25-color-sobre-estructura-metalica",
+      "k": "work_item",
+      "p": 105674.42,
+      "s": "Cifras 06.02 · Chapas HºGºNº25 color sobre estructura metálica",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--06-cubierta",
+      "i": "wi-ar-cifras-06-03-chapas-h-g-n-25-color-sobre-estructura-mixta",
+      "k": "work_item",
+      "p": 98340.2,
+      "s": "Cifras 06.03 · Chapas HºGºNº25 color sobre estructura mixta",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--06-cubierta",
+      "i": "wi-ar-cifras-06-04-chapas-h-g-n-25-sobre-estructura-de-madera",
+      "k": "work_item",
+      "p": 64843.24,
+      "s": "Cifras 06.04 · Chapas HºGºNº25 sobre estructura de madera",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--06-cubierta",
+      "i": "wi-ar-cifras-06-05-chapas-h-g-n-25-sobre-estructura-metalica",
+      "k": "work_item",
+      "p": 92162.09,
+      "s": "Cifras 06.05 · Chapas HºGºNº25 sobre estructura metálica",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--06-cubierta",
+      "i": "wi-ar-cifras-06-06-chapas-h-g-n-25-sobre-estructura-mixta",
+      "k": "work_item",
+      "p": 82182.36,
+      "s": "Cifras 06.06 · Chapas HºGºNº25 sobre estructura mixta",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--06-cubierta",
+      "i": "wi-ar-cifras-06-07-plana-completa-terminacion-azotea-verde",
+      "k": "work_item",
+      "p": 149404.99,
+      "s": "Cifras 06.07 · Plana completa terminación azotea verde",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--06-cubierta",
+      "i": "wi-ar-cifras-06-08-plana-completa-terminacion-baldosa-ceramica",
+      "k": "work_item",
+      "p": 90647.38,
+      "s": "Cifras 06.08 · Plana completa terminación baldosa cerámica",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--06-cubierta",
+      "i": "wi-ar-cifras-06-09-plana-completa-terminacion-doblado-de-ladrillos",
+      "k": "work_item",
+      "p": 88239.72,
+      "s": "Cifras 06.09 · Plana completa terminación doblado de ladrillos comunes",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--06-cubierta",
+      "i": "wi-ar-cifras-06-10-plana-completa-terminacion-membrana-asfaltica-c",
+      "k": "work_item",
+      "p": 68343.76,
+      "s": "Cifras 06.10 · Plana completa terminación membrana asfáltica c/aluminio",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--06-cubierta",
+      "i": "wi-ar-cifras-06-11-plana-completa-terminacion-membrana-geotextil",
+      "k": "work_item",
+      "p": 77993.57,
+      "s": "Cifras 06.11 · Plana completa terminación membrana geotextil",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--06-cubierta",
+      "i": "wi-ar-cifras-06-12-tejas-francesas-esmaltadas-color-sobre-losa-c-a",
+      "k": "work_item",
+      "p": 94885.73,
+      "s": "Cifras 06.12 · Tejas francesas esmaltadas (color) sobre losa c/aislación",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--06-cubierta",
+      "i": "wi-ar-cifras-06-13-tejas-francesas-esmaltadas-color-estr-de-madera",
+      "k": "work_item",
+      "p": 144512.3,
+      "s": "Cifras 06.13 · Tejas francesas esmaltadas (color), estr. de madera s/cepillar c/aisl.",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--06-cubierta",
+      "i": "wi-ar-cifras-06-14-tejas-francesas-esmaltadas-color-estr-de-madera",
+      "k": "work_item",
+      "p": 171778.73,
+      "s": "Cifras 06.14 · Tejas francesas esmaltadas (color), estr. de madera vista c/aisl.",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--06-cubierta",
+      "i": "wi-ar-cifras-06-15-tejas-francesas-esmaltadas-sobre-losa-c-aislaci",
+      "k": "work_item",
+      "p": 79364.45,
+      "s": "Cifras 06.15 · Tejas francesas esmaltadas sobre losa c/aislación",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--06-cubierta",
+      "i": "wi-ar-cifras-06-16-tejas-francesas-esmaltadas-estr-de-madera-s-cep",
+      "k": "work_item",
+      "p": 129852.97,
+      "s": "Cifras 06.16 · Tejas francesas esmaltadas, estr. de madera s/cepillar c/aisl.",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--06-cubierta",
+      "i": "wi-ar-cifras-06-17-tejas-francesas-esmaltadas-estr-de-madera-vista",
+      "k": "work_item",
+      "p": 157119.4,
+      "s": "Cifras 06.17 · Tejas francesas esmaltadas, estr. de madera vista c/aisl.",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--06-cubierta",
+      "i": "wi-ar-cifras-06-18-tejas-francesas-natural-sobre-losa-c-aislacion",
+      "k": "work_item",
+      "p": 70523.01,
+      "s": "Cifras 06.18 · Tejas francesas natural sobre losa c/aislación",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--06-cubierta",
+      "i": "wi-ar-cifras-06-19-tejas-francesas-natural-estr-de-madera-s-cepill",
+      "k": "work_item",
+      "p": 120568.72,
+      "s": "Cifras 06.19 · Tejas francesas natural, estr. de madera s/cepillar c/aisl.",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--06-cubierta",
+      "i": "wi-ar-cifras-06-20-tejas-francesas-natural-estr-de-madera-vista-c",
+      "k": "work_item",
+      "p": 147835.16,
+      "s": "Cifras 06.20 · Tejas francesas natural, estr. de madera vista c/aisl.",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--07-revoques",
+      "i": "wi-ar-cifras-07-01-azotado-impermeable",
+      "k": "work_item",
+      "p": 12374.4,
+      "s": "Cifras 07.01 · Azotado impermeable",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--07-revoques",
+      "i": "wi-ar-cifras-07-02-azotado-impermeable-en-muro-doble",
+      "k": "work_item",
+      "p": 14184.64,
+      "s": "Cifras 07.02 · Azotado impermeable en muro doble",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--07-revoques",
+      "i": "wi-ar-cifras-07-03-exterior-a-la-cal-comun-completo",
+      "k": "work_item",
+      "p": 33818,
+      "s": "Cifras 07.03 · Exterior a la cal común completo",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--07-revoques",
+      "i": "wi-ar-cifras-07-04-exterior-completo-terminacion-material-de-frent",
+      "k": "work_item",
+      "p": 37730.94,
+      "s": "Cifras 07.04 · Exterior completo, terminación material de frente",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--07-revoques",
+      "i": "wi-ar-cifras-07-05-fino-a-la-cal",
+      "k": "work_item",
+      "p": 14458.05,
+      "s": "Cifras 07.05 · Fino a la cal",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--07-revoques",
+      "i": "wi-ar-cifras-07-06-fino-estucado-de-yeso",
+      "k": "work_item",
+      "p": 19709.11,
+      "s": "Cifras 07.06 · Fino/Estucado de yeso",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--07-revoques",
+      "i": "wi-ar-cifras-07-07-grueso-comun",
+      "k": "work_item",
+      "p": 13569.49,
+      "s": "Cifras 07.07 · Grueso común",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--07-revoques",
+      "i": "wi-ar-cifras-07-08-impermeable-de-cemento",
+      "k": "work_item",
+      "p": 45380.84,
+      "s": "Cifras 07.08 · Impermeable de cemento",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--07-revoques",
+      "i": "wi-ar-cifras-07-09-interior-a-la-cal-comun-completo",
+      "k": "work_item",
+      "p": 22884.54,
+      "s": "Cifras 07.09 · Interior a la cal común completo",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--07-revoques",
+      "i": "wi-ar-cifras-07-10-interior-azotado-y-grueso-b-revestimientos",
+      "k": "work_item",
+      "p": 18410.77,
+      "s": "Cifras 07.10 · Interior azotado y grueso b/revestimientos",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--07-revoques",
+      "i": "wi-ar-cifras-07-11-premezcla-fino-exterior-manual",
+      "k": "work_item",
+      "p": 18924.04,
+      "s": "Cifras 07.11 · Premezcla fino exterior (manual)",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--07-revoques",
+      "i": "wi-ar-cifras-07-12-premezcla-fino-interior-manual",
+      "k": "work_item",
+      "p": 16425.28,
+      "s": "Cifras 07.12 · Premezcla fino interior (manual)",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--07-revoques",
+      "i": "wi-ar-cifras-07-13-premezclado-grueso-y-fino-interior-manual",
+      "k": "work_item",
+      "p": 41726.35,
+      "s": "Cifras 07.13 · Premezclado grueso y fino interior (manual)",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--07-revoques",
+      "i": "wi-ar-cifras-07-14-premezcla-grueso-y-fino-interior-proyectable",
+      "k": "work_item",
+      "p": 39839.47,
+      "s": "Cifras 07.14 · Premezcla grueso y fino interior (proyectable)",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--07-revoques",
+      "i": "wi-ar-cifras-07-15-premezcla-impermeable-grueso-y-fino-exterior-ma",
+      "k": "work_item",
+      "p": 47866.19,
+      "s": "Cifras 07.15 · Premezcla impermeable, grueso y fino exterior (manual)",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--07-revoques",
+      "i": "wi-ar-cifras-07-16-premezcla-impermeable-grueso-y-fino-exterior-pr",
+      "k": "work_item",
+      "p": 44513.12,
+      "s": "Cifras 07.16 · Premezcla impermeable, grueso y fino exterior (proyectable)",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--07-revoques",
+      "i": "wi-ar-cifras-07-17-toma-de-juntas-de-ladrillos-vistos",
+      "k": "work_item",
+      "p": 27423.12,
+      "s": "Cifras 07.17 · Toma de juntas de ladrillos vistos",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--08-contrapisos",
+      "i": "wi-ar-cifras-08-01-hormigon-alivianado-c-poliestireno-expandido-e",
+      "k": "work_item",
+      "p": 29283.61,
+      "s": "Cifras 08.01 · Hormigón alivianado c/poliestireno expandido e=06cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--08-contrapisos",
+      "i": "wi-ar-cifras-08-02-hormigon-alivianado-c-poliestireno-expandido-e",
+      "k": "work_item",
+      "p": 33513.52,
+      "s": "Cifras 08.02 · Hormigón alivianado c/poliestireno expandido e=08cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--08-contrapisos",
+      "i": "wi-ar-cifras-08-03-hormigon-alivianado-c-poliestireno-expandido-e",
+      "k": "work_item",
+      "p": 61199.45,
+      "s": "Cifras 08.03 · Hormigón alivianado c/poliestireno expandido e=20cm, p/rellenos",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--08-contrapisos",
+      "i": "wi-ar-cifras-08-04-hormigon-alivianado-elaborado-h8-e-6cm",
+      "k": "work_item",
+      "p": 24966.36,
+      "s": "Cifras 08.04 · Hormigón alivianado elaborado H8 e=6cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--08-contrapisos",
+      "i": "wi-ar-cifras-08-05-hormigon-alivianado-elaborado-h8-e-8cm-p-banqui",
+      "k": "work_item",
+      "p": 27618.58,
+      "s": "Cifras 08.05 · Hormigón alivianado elaborado H8 e=8cm, p/banquinas",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--08-contrapisos",
+      "i": "wi-ar-cifras-08-06-hormigon-armado-e-12cm-terminacion-a-la-llana",
+      "k": "work_item",
+      "p": 69231.43,
+      "s": "Cifras 08.06 · Hormigón armado e=12cm terminación a la llana",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--08-contrapisos",
+      "i": "wi-ar-cifras-08-07-hormigon-de-cascotes-e-08cm",
+      "k": "work_item",
+      "p": 20531.49,
+      "s": "Cifras 08.07 · Hormigón de cascotes e=08cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--08-contrapisos",
+      "i": "wi-ar-cifras-08-08-hormigon-de-cascotes-e-10cm",
+      "k": "work_item",
+      "p": 27857.42,
+      "s": "Cifras 08.08 · Hormigón de cascotes e=10cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--08-contrapisos",
+      "i": "wi-ar-cifras-08-09-hormigon-de-cascotes-e-12cm",
+      "k": "work_item",
+      "p": 31644.11,
+      "s": "Cifras 08.09 · Hormigón de cascotes e=12cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--08-contrapisos",
+      "i": "wi-ar-cifras-08-10-mortero-elaborado-rdc-cuc-150kg-m3-e-6-cm",
+      "k": "work_item",
+      "p": 23150.21,
+      "s": "Cifras 08.10 · Mortero elaborado RDC (CUC=150kg/m3) e=6 cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--09-cielorrasos",
+      "i": "wi-ar-cifras-09-01-hormigon-visto-terminaciones",
+      "k": "work_item",
+      "p": 10258.67,
+      "s": "Cifras 09.01 · Hormigón visto (terminaciones)",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--09-cielorrasos",
+      "i": "wi-ar-cifras-09-02-madera-machimbrada-suspendido-c-estructura-de-m",
+      "k": "work_item",
+      "p": 47992.42,
+      "s": "Cifras 09.02 · Madera machimbrada (suspendido c/estructura de madera)",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--09-cielorrasos",
+      "i": "wi-ar-cifras-09-03-mortero-a-la-cal-aplicado-bajo-losa",
+      "k": "work_item",
+      "p": 32110.25,
+      "s": "Cifras 09.03 · Mortero a la cal aplicado bajo losa",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--09-cielorrasos",
+      "i": "wi-ar-cifras-09-04-placa-de-yeso-comun-junta-tomada-c-aislacion",
+      "k": "work_item",
+      "p": 26424.24,
+      "s": "Cifras 09.04 · Placa de yeso común junta tomada, c/aislación",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--09-cielorrasos",
+      "i": "wi-ar-cifras-09-05-placa-de-yeso-comun-junta-tomada-s-aislacion",
+      "k": "work_item",
+      "p": 24652.59,
+      "s": "Cifras 09.05 · Placa de yeso común junta tomada, s/aislación",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--09-cielorrasos",
+      "i": "wi-ar-cifras-09-06-placa-de-yeso-comun-para-cajones-taparrollos",
+      "k": "work_item",
+      "p": 27491.3,
+      "s": "Cifras 09.06 · Placa de yeso común para cajones, taparrollos",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--09-cielorrasos",
+      "i": "wi-ar-cifras-09-07-placa-de-yeso-resistente-a-la-humedad-junta-tom",
+      "k": "work_item",
+      "p": 28377.83,
+      "s": "Cifras 09.07 · Placa de yeso resistente a la humedad junta tomada",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--09-cielorrasos",
+      "i": "wi-ar-cifras-09-08-placa-vinilica-texturada-desmontable-s-aislacio",
+      "k": "work_item",
+      "p": 27053.71,
+      "s": "Cifras 09.08 · Placa vinílica texturada desmontable, s/aislación",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--09-cielorrasos",
+      "i": "wi-ar-cifras-09-09-yeso-aplicado-bajo-losa",
+      "k": "work_item",
+      "p": 29938.36,
+      "s": "Cifras 09.09 · Yeso aplicado bajo losa",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--09-cielorrasos",
+      "i": "wi-ar-cifras-09-10-yeso-armado-c-estructura-de-madera",
+      "k": "work_item",
+      "p": 64396.32,
+      "s": "Cifras 09.10 · Yeso armado, c/estructura de madera",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--10-revestimientos",
+      "i": "wi-ar-cifras-10-01-cemento-alisado",
+      "k": "work_item",
+      "p": 51073.92,
+      "s": "Cifras 10.01 · Cemento alisado",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--10-revestimientos",
+      "i": "wi-ar-cifras-10-02-ceramicos-esmaltados",
+      "k": "work_item",
+      "p": 55923.49,
+      "s": "Cifras 10.02 · Cerámicos esmaltados",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--10-revestimientos",
+      "i": "wi-ar-cifras-10-03-granito-reconstituido-en-escalones-e-2-5cm-h-ch",
+      "k": "work_item",
+      "p": 359795.03,
+      "s": "Cifras 10.03 · Granito reconstituido en escalones e:2,5cm (h/ch/z)",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--10-revestimientos",
+      "i": "wi-ar-cifras-10-04-mesada-de-granito-natural-e-2-5cm-comp-gris-mar",
+      "k": "work_item",
+      "p": 223854.99,
+      "s": "Cifras 10.04 · Mesada de granito natural e=2,5cm, comp. (gris mara)",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--10-revestimientos",
+      "i": "wi-ar-cifras-10-05-mesada-de-piedra-natural-e-2-5cm-comp-travertin",
+      "k": "work_item",
+      "p": 369042.45,
+      "s": "Cifras 10.05 · Mesada de piedra natural e=2,5cm, comp. (travertino)",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--10-revestimientos",
+      "i": "wi-ar-cifras-10-06-plastico-texturado",
+      "k": "work_item",
+      "p": 44167.39,
+      "s": "Cifras 10.06 · Plástico texturado",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--10-revestimientos",
+      "i": "wi-ar-cifras-10-07-porcelanato-canto-rectificado",
+      "k": "work_item",
+      "p": 108514.83,
+      "s": "Cifras 10.07 · Porcelanato canto rectificado",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--10-revestimientos",
+      "i": "wi-ar-cifras-10-08-porcelanato-sin-rectificar",
+      "k": "work_item",
+      "p": 70959.33,
+      "s": "Cifras 10.08 · Porcelanato sin rectificar",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--10-revestimientos",
+      "i": "wi-ar-cifras-10-09-tejuelas-refractarias",
+      "k": "work_item",
+      "p": 62955.98,
+      "s": "Cifras 10.09 · Tejuelas refractarias",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--11-pisos",
+      "i": "wi-ar-cifras-11-01-alfombra-alto-transito-8mm",
+      "k": "work_item",
+      "p": 50875.29,
+      "s": "Cifras 11.01 · Alfombra alto tránsito 8mm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--11-pisos",
+      "i": "wi-ar-cifras-11-02-carpeta-de-cemento-bajo-pisos",
+      "k": "work_item",
+      "p": 16385.53,
+      "s": "Cifras 11.02 · Carpeta de cemento bajo pisos",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--11-pisos",
+      "i": "wi-ar-cifras-11-03-cemento-alisado",
+      "k": "work_item",
+      "p": 18109.85,
+      "s": "Cifras 11.03 · Cemento alisado",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--11-pisos",
+      "i": "wi-ar-cifras-11-04-cemento-term-a-la-llana-mecanica-incl-h-e-4cm",
+      "k": "work_item",
+      "p": 27154.09,
+      "s": "Cifras 11.04 · Cemento term.a la llana mecánica, incl.H° e=4cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--11-pisos",
+      "i": "wi-ar-cifras-11-05-cemento-term-texturado-raspinado-incl-h-e-4cm",
+      "k": "work_item",
+      "p": 26842.46,
+      "s": "Cifras 11.05 · Cemento term.texturado/raspinado, incl.H° e=4cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--11-pisos",
+      "i": "wi-ar-cifras-11-06-ceramicas-esmaltadas",
+      "k": "work_item",
+      "p": 56989.33,
+      "s": "Cifras 11.06 · Cerámicas esmaltadas",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--11-pisos",
+      "i": "wi-ar-cifras-11-07-ceramicas-rojas",
+      "k": "work_item",
+      "p": 46431.9,
+      "s": "Cifras 11.07 · Cerámicas rojas",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--11-pisos",
+      "i": "wi-ar-cifras-11-08-losetas-de-h-40x60cm",
+      "k": "work_item",
+      "p": 52481.41,
+      "s": "Cifras 11.08 · Losetas de Hº 40x60cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--11-pisos",
+      "i": "wi-ar-cifras-11-09-losetas-graniticas-40x40cm",
+      "k": "work_item",
+      "p": 54369.66,
+      "s": "Cifras 11.09 · Losetas graníticas 40x40cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--11-pisos",
+      "i": "wi-ar-cifras-11-10-madera-flotante-simil-algarrobo-e-8mm",
+      "k": "work_item",
+      "p": 58166.53,
+      "s": "Cifras 11.10 · Madera flotante simil algarrobo e=8mm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--11-pisos",
+      "i": "wi-ar-cifras-11-11-madera-parquet-algarrobo-e-19mm",
+      "k": "work_item",
+      "p": 56106.44,
+      "s": "Cifras 11.11 · Madera parquet algarrobo e=19mm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--11-pisos",
+      "i": "wi-ar-cifras-11-12-madera-semidura-tipo-deck",
+      "k": "work_item",
+      "p": 48130.97,
+      "s": "Cifras 11.12 · Madera semidura tipo deck",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--11-pisos",
+      "i": "wi-ar-cifras-11-13-mosaicos-graniticos-30x30cm",
+      "k": "work_item",
+      "p": 56651.33,
+      "s": "Cifras 11.13 · Mosaicos graníticos 30x30cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--11-pisos",
+      "i": "wi-ar-cifras-11-14-pavimento-con-adoquin-intertrabado-e-8cm",
+      "k": "work_item",
+      "p": 52627.66,
+      "s": "Cifras 11.14 · Pavimento con adoquín intertrabado e=8cm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--11-pisos",
+      "i": "wi-ar-cifras-11-15-porcelanato-pulido",
+      "k": "work_item",
+      "p": 103518.83,
+      "s": "Cifras 11.15 · Porcelanato pulido",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--11-pisos",
+      "i": "wi-ar-cifras-11-16-porcelanato-sin-pulir",
+      "k": "work_item",
+      "p": 68232.21,
+      "s": "Cifras 11.16 · Porcelanato sin pulir",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--12-zocalos",
+      "i": "wi-ar-cifras-12-01-cemento-alisado-h-10-cm",
+      "k": "work_item",
+      "p": 6442.1,
+      "s": "Cifras 12.01 · Cemento alisado h=10 cm",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--12-zocalos",
+      "i": "wi-ar-cifras-12-02-ceramico-esmaltado",
+      "k": "work_item",
+      "p": 10391.19,
+      "s": "Cifras 12.02 · Cerámico Esmaltado",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--12-zocalos",
+      "i": "wi-ar-cifras-12-03-ceramico-gres",
+      "k": "work_item",
+      "p": 8854.61,
+      "s": "Cifras 12.03 · Cerámico Gres",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--12-zocalos",
+      "i": "wi-ar-cifras-12-04-madera",
+      "k": "work_item",
+      "p": 8166.51,
+      "s": "Cifras 12.04 · Madera",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--12-zocalos",
+      "i": "wi-ar-cifras-12-05-mosaico-granitico-10x30cm",
+      "k": "work_item",
+      "p": 10679.87,
+      "s": "Cifras 12.05 · Mosaico granítico 10x30cm",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--12-zocalos",
+      "i": "wi-ar-cifras-12-06-perfil-metalico",
+      "k": "work_item",
+      "p": 7761.78,
+      "s": "Cifras 12.06 · Perfil metálico",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--12-zocalos",
+      "i": "wi-ar-cifras-12-07-porcelanato-pulido",
+      "k": "work_item",
+      "p": 18399.67,
+      "s": "Cifras 12.07 · Porcelanato pulido",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--13-carpinterias",
+      "i": "wi-ar-cifras-13-01-puerta-ingreso-madera-maciza",
+      "k": "work_item",
+      "p": 516716.07,
+      "s": "Cifras 13.01 · Puerta ingreso madera maciza",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--13-carpinterias",
+      "i": "wi-ar-cifras-13-02-puerta-interior-madera-placa-ench-madera",
+      "k": "work_item",
+      "p": 234925.14,
+      "s": "Cifras 13.02 · Puerta interior madera placa ench.madera",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--13-carpinterias",
+      "i": "wi-ar-cifras-13-03-puerta-interior-madera-placa-ench-mdf",
+      "k": "work_item",
+      "p": 194882.59,
+      "s": "Cifras 13.03 · Puerta interior madera placa ench.mdf",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--13-carpinterias",
+      "i": "wi-ar-cifras-13-04-rejas-de-hierro",
+      "k": "work_item",
+      "p": 202164.84,
+      "s": "Cifras 13.04 · Rejas de hierro",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--13-carpinterias",
+      "i": "wi-ar-cifras-13-05-ventana-puerta-ventana-aluminio",
+      "k": "work_item",
+      "p": 353299.73,
+      "s": "Cifras 13.05 · Ventana / Puerta ventana aluminio",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--13-carpinterias",
+      "i": "wi-ar-cifras-13-06-ventana-puerta-ventana-aluminio-con-postigos",
+      "k": "work_item",
+      "p": 1105259.33,
+      "s": "Cifras 13.06 · Ventana / Puerta ventana aluminio con postigos",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--13-carpinterias",
+      "i": "wi-ar-cifras-13-07-ventana-puerta-ventana-chapa-doblada-con-celosi",
+      "k": "work_item",
+      "p": 197303.34,
+      "s": "Cifras 13.07 · Ventana / Puerta ventana chapa doblada con celosía",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--13-carpinterias",
+      "i": "wi-ar-cifras-13-08-ventana-puerta-ventana-madera",
+      "k": "work_item",
+      "p": 1076549.86,
+      "s": "Cifras 13.08 · Ventana / Puerta ventana madera",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--13-carpinterias",
+      "i": "wi-ar-cifras-13-09-ventana-puerta-ventana-madera-con-postigos",
+      "k": "work_item",
+      "p": 1732484.02,
+      "s": "Cifras 13.09 · Ventana / Puerta ventana madera con postigos",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--13-carpinterias",
+      "i": "wi-ar-cifras-13-10-ventana-ventiluz-chapa-doblada",
+      "k": "work_item",
+      "p": 128486.86,
+      "s": "Cifras 13.10 · Ventana / Ventiluz chapa doblada",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--14-vidrieria",
+      "i": "wi-ar-cifras-14-01-cristal-templado-10mm",
+      "k": "work_item",
+      "p": 419407.88,
+      "s": "Cifras 14.01 · Cristal Templado 10mm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--14-vidrieria",
+      "i": "wi-ar-cifras-14-02-espejo-cristal-6mm",
+      "k": "work_item",
+      "p": 115824.1,
+      "s": "Cifras 14.02 · Espejo Cristal 6mm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--14-vidrieria",
+      "i": "wi-ar-cifras-14-03-vidrio-doble-hermetico-dvh-24mm",
+      "k": "work_item",
+      "p": 368598.77,
+      "s": "Cifras 14.03 · Vidrio doble hermético DVH 24mm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--14-vidrieria",
+      "i": "wi-ar-cifras-14-04-vidrio-laminado-seguridad-3-3mm-color",
+      "k": "work_item",
+      "p": 242719.89,
+      "s": "Cifras 14.04 · Vidrio laminado seguridad 3+3mm color",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--14-vidrieria",
+      "i": "wi-ar-cifras-14-05-vidrio-laminado-seguridad-3-3mm-incoloro",
+      "k": "work_item",
+      "p": 198132.51,
+      "s": "Cifras 14.05 · Vidrio laminado seguridad 3+3mm incoloro",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--14-vidrieria",
+      "i": "wi-ar-cifras-14-06-vidrio-laminado-seguridad-4-4mm-color",
+      "k": "work_item",
+      "p": 275456.9,
+      "s": "Cifras 14.06 · Vidrio laminado seguridad 4+4mm color",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--14-vidrieria",
+      "i": "wi-ar-cifras-14-07-vidrio-laminado-seguridad-4-4mm-incoloro",
+      "k": "work_item",
+      "p": 263279.75,
+      "s": "Cifras 14.07 · Vidrio laminado seguridad 4+4mm incoloro",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--14-vidrieria",
+      "i": "wi-ar-cifras-14-08-vidrio-tipo-ingles-3mm-color",
+      "k": "work_item",
+      "p": 105778.95,
+      "s": "Cifras 14.08 · Vidrio tipo inglés 3mm color",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--14-vidrieria",
+      "i": "wi-ar-cifras-14-09-vidrio-tipo-ingles-3mm-incoloro",
+      "k": "work_item",
+      "p": 85499.87,
+      "s": "Cifras 14.09 · Vidrio tipo inglés 3mm incoloro",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--14-vidrieria",
+      "i": "wi-ar-cifras-14-10-vidrio-transparente-3mm",
+      "k": "work_item",
+      "p": 41838.43,
+      "s": "Cifras 14.10 · Vidrio Transparente 3mm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--14-vidrieria",
+      "i": "wi-ar-cifras-14-11-vidrio-transparente-4mm",
+      "k": "work_item",
+      "p": 52638.08,
+      "s": "Cifras 14.11 · Vidrio Transparente 4mm",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--15-pinturas",
+      "i": "wi-ar-cifras-15-01-acrilica-transparente-en-muros-exteriores",
+      "k": "work_item",
+      "p": 21798.99,
+      "s": "Cifras 15.01 · Acrílica transparente en muros exteriores",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--15-pinturas",
+      "i": "wi-ar-cifras-15-02-barniz-para-carpinteria-de-madera",
+      "k": "work_item",
+      "p": 35879.05,
+      "s": "Cifras 15.02 · Barniz para carpintería de madera",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--15-pinturas",
+      "i": "wi-ar-cifras-15-03-esmalte-sintetico-para-carpinteria-metalica",
+      "k": "work_item",
+      "p": 43733.24,
+      "s": "Cifras 15.03 · Esmalte sintético para carpintería metálica",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--15-pinturas",
+      "i": "wi-ar-cifras-15-04-latex-en-muros-exteriores",
+      "k": "work_item",
+      "p": 20830.17,
+      "s": "Cifras 15.04 · Látex en muros exteriores",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--15-pinturas",
+      "i": "wi-ar-cifras-15-05-latex-en-muros-interiores",
+      "k": "work_item",
+      "p": 19427.48,
+      "s": "Cifras 15.05 · Látex en muros interiores",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--15-pinturas",
+      "i": "wi-ar-cifras-15-06-latex-para-cielorraso",
+      "k": "work_item",
+      "p": 18562.67,
+      "s": "Cifras 15.06 · Látex para cielorraso",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--16-instalacion-electrica",
+      "i": "wi-ar-cifras-16-01-artefacto-de-iluminacion",
+      "k": "work_item",
+      "p": 110964.79,
+      "s": "Cifras 16.01 · Artefacto de Iluminación",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--16-instalacion-electrica",
+      "i": "wi-ar-cifras-16-02-boca-de-electricidad",
+      "k": "work_item",
+      "p": 149204.64,
+      "s": "Cifras 16.02 · Boca de electricidad",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--16-instalacion-electrica",
+      "i": "wi-ar-cifras-16-03-boca-de-telefonia",
+      "k": "work_item",
+      "p": 134795.65,
+      "s": "Cifras 16.03 · Boca de telefonía",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--16-instalacion-electrica",
+      "i": "wi-ar-cifras-16-04-boca-de-television",
+      "k": "work_item",
+      "p": 128231.2,
+      "s": "Cifras 16.04 · Boca de televisión",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--16-instalacion-electrica",
+      "i": "wi-ar-cifras-16-05-tablero-de-electricidad",
+      "k": "work_item",
+      "p": 251526.02,
+      "s": "Cifras 16.05 · Tablero de electricidad",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--16-instalacion-electrica",
+      "i": "wi-ar-cifras-16-06-toma-de-electricidad",
+      "k": "work_item",
+      "p": 132792.12,
+      "s": "Cifras 16.06 · Toma de electricidad",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-01-accesorios-de-bano-loza-blanca-9-piezas",
+      "k": "work_item",
+      "p": 456501.05,
+      "s": "Cifras 17.01 · Accesorios de baño loza blanca (9 piezas)",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-02-banera-metalica-enlozada-blanca-c-griferia",
+      "k": "work_item",
+      "p": 793735.62,
+      "s": "Cifras 17.02 · Bañera metálica enlozada blanca c/ grifería",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-03-bidet-loza-blanca-c-griferia",
+      "k": "work_item",
+      "p": 572030.34,
+      "s": "Cifras 17.03 · Bidet loza blanca c/ grifería",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-04-inodoro-pedestal-loza-blanca-incl-d-i-y-asiento",
+      "k": "work_item",
+      "p": 665994.71,
+      "s": "Cifras 17.04 · Inodoro pedestal loza blanca incl. D.I. y asiento",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-05-lavatorio-loza-blanca-c-griferia",
+      "k": "work_item",
+      "p": 491017.19,
+      "s": "Cifras 17.05 · Lavatorio loza blanca c/ grifería",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-06-pileta-cocina-bacha-acero-inoxidable-c-griferia",
+      "k": "work_item",
+      "p": 569402.06,
+      "s": "Cifras 17.06 · Pileta cocina bacha acero inoxidable c/ grifería",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-07-pileta-lavar-loza-blanca-c-griferia",
+      "k": "work_item",
+      "p": 490096.57,
+      "s": "Cifras 17.07 · Pileta lavar loza blanca c/ grifería",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-08-boca-de-incendio",
+      "k": "work_item",
+      "p": 1246978.05,
+      "s": "Cifras 17.08 · Boca de Incendio",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-09-bomba-centrifuga-1-2-hp",
+      "k": "work_item",
+      "p": 397617.14,
+      "s": "Cifras 17.09 · Bomba centrífuga 1/2 HP",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-10-canilla-de-servicio-13mm-c-pico-manguera",
+      "k": "work_item",
+      "p": 46992.21,
+      "s": "Cifras 17.10 · Canilla de servicio Ø 13mm c/ pico manguera",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-11-canilla-de-servicio-13mm-c-pico-manguera-en-nic",
+      "k": "work_item",
+      "p": 101538.45,
+      "s": "Cifras 17.11 · Canilla de servicio Ø 13mm c/ pico manguera en nicho ac.inox.",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-12-caneria-pp-tf-13mm",
+      "k": "work_item",
+      "p": 21563.2,
+      "s": "Cifras 17.12 · Cañería PP TF Ø 13mm",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-13-caneria-pp-tf-19mm",
+      "k": "work_item",
+      "p": 25085.18,
+      "s": "Cifras 17.13 · Cañería PP TF Ø 19mm",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-14-caneria-pp-tf-25mm",
+      "k": "work_item",
+      "p": 28698.22,
+      "s": "Cifras 17.14 · Cañería PP TF Ø 25mm",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-15-caneria-pp-tf-38mm",
+      "k": "work_item",
+      "p": 30664.16,
+      "s": "Cifras 17.15 · Cañería PP TF Ø 38mm",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-16-caneria-pp-tf-50mm",
+      "k": "work_item",
+      "p": 34740.28,
+      "s": "Cifras 17.16 · Cañería PP TF Ø 50mm",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-17-llave-de-paso-13mm",
+      "k": "work_item",
+      "p": 29473.97,
+      "s": "Cifras 17.17 · Llave de paso Ø 13mm",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-18-llave-de-paso-19mm",
+      "k": "work_item",
+      "p": 36041.82,
+      "s": "Cifras 17.18 · Llave de paso Ø 19mm",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-19-llave-de-paso-25mm",
+      "k": "work_item",
+      "p": 66361.44,
+      "s": "Cifras 17.19 · Llave de paso Ø 25mm",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-20-llave-de-paso-38mm",
+      "k": "work_item",
+      "p": 80542.24,
+      "s": "Cifras 17.20 · Llave de paso Ø 38mm",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-21-llave-de-paso-50mm",
+      "k": "work_item",
+      "p": 92995.34,
+      "s": "Cifras 17.21 · Llave de paso Ø 50mm",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-22-tanque-de-agua-polietileno-tricapa-1100ls",
+      "k": "work_item",
+      "p": 420670.24,
+      "s": "Cifras 17.22 · Tanque de agua polietileno tricapa 1100ls",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-23-tanque-de-agua-polietileno-tricapa-2750ls",
+      "k": "work_item",
+      "p": 544097.74,
+      "s": "Cifras 17.23 · Tanque de agua polietileno tricapa 2750ls",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-24-boca-de-acceso-pvc",
+      "k": "work_item",
+      "p": 120644.61,
+      "s": "Cifras 17.24 · Boca de Acceso PVC",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-25-boca-de-desague-abierta-pvc",
+      "k": "work_item",
+      "p": 75252.93,
+      "s": "Cifras 17.25 · Boca de Desagüe Abierta PVC",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-26-camara-de-inspeccion-h-a-60x60cm",
+      "k": "work_item",
+      "p": 256206.49,
+      "s": "Cifras 17.26 · Cámara de Inspección HºAº 60x60cm",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-27-caneria-pvc-3-2-040mm",
+      "k": "work_item",
+      "p": 14691.85,
+      "s": "Cifras 17.27 · Cañería PVC 3,2 Ø 040mm",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-28-caneria-pvc-3-2-050mm",
+      "k": "work_item",
+      "p": 19478.01,
+      "s": "Cifras 17.28 · Cañería PVC 3,2 Ø 050mm",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-29-caneria-pvc-3-2-060mm",
+      "k": "work_item",
+      "p": 20310.68,
+      "s": "Cifras 17.29 · Cañería PVC 3,2 Ø 060mm",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-30-caneria-pvc-3-2-110mm",
+      "k": "work_item",
+      "p": 29295.53,
+      "s": "Cifras 17.30 · Cañería PVC 3,2 Ø 110mm",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-31-embudo-pvc",
+      "k": "work_item",
+      "p": 63756.34,
+      "s": "Cifras 17.31 · Embudo PVC",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+      "i": "wi-ar-cifras-17-32-pileta-de-patio-abierta-pvc",
+      "k": "work_item",
+      "p": 74900.71,
+      "s": "Cifras 17.32 · Pileta de Patio Abierta PVC",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--18-instalacion-de-gas",
+      "i": "wi-ar-cifras-18-01-calefactor-gn-2000cal",
+      "k": "work_item",
+      "p": 384546.74,
+      "s": "Cifras 18.01 · Calefactor GN 2000cal",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--18-instalacion-de-gas",
+      "i": "wi-ar-cifras-18-02-calefactor-gn-3000cal",
+      "k": "work_item",
+      "p": 421874.48,
+      "s": "Cifras 18.02 · Calefactor GN 3000cal",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--18-instalacion-de-gas",
+      "i": "wi-ar-cifras-18-03-calefon-gn-12ls",
+      "k": "work_item",
+      "p": 417318.46,
+      "s": "Cifras 18.03 · Calefón GN 12ls",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--18-instalacion-de-gas",
+      "i": "wi-ar-cifras-18-04-calefon-gn-14ls",
+      "k": "work_item",
+      "p": 454683.87,
+      "s": "Cifras 18.04 · Calefón GN 14ls",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--18-instalacion-de-gas",
+      "i": "wi-ar-cifras-18-05-cocina-gn-4h-h-y-p",
+      "k": "work_item",
+      "p": 456400.02,
+      "s": "Cifras 18.05 · Cocina GN 4H, H y P",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--18-instalacion-de-gas",
+      "i": "wi-ar-cifras-18-06-termotanque-gn-060ls",
+      "k": "work_item",
+      "p": 533512.47,
+      "s": "Cifras 18.06 · Termotanque GN 060ls",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--18-instalacion-de-gas",
+      "i": "wi-ar-cifras-18-07-termotanque-gn-110ls",
+      "k": "work_item",
+      "p": 862164.56,
+      "s": "Cifras 18.07 · Termotanque GN 110ls",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--18-instalacion-de-gas",
+      "i": "wi-ar-cifras-18-08-caneria-epoxi-013mm",
+      "k": "work_item",
+      "p": 20309.34,
+      "s": "Cifras 18.08 · Cañería EPOXI Ø 013mm",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--18-instalacion-de-gas",
+      "i": "wi-ar-cifras-18-09-caneria-epoxi-019mm",
+      "k": "work_item",
+      "p": 23760.05,
+      "s": "Cifras 18.09 · Cañería EPOXI Ø 019mm",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--18-instalacion-de-gas",
+      "i": "wi-ar-cifras-18-10-caneria-epoxi-025mm",
+      "k": "work_item",
+      "p": 27225.93,
+      "s": "Cifras 18.10 · Cañería EPOXI Ø 025mm",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--18-instalacion-de-gas",
+      "i": "wi-ar-cifras-18-11-caneria-epoxi-050mm",
+      "k": "work_item",
+      "p": 30934.66,
+      "s": "Cifras 18.11 · Cañería EPOXI Ø 050mm",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--18-instalacion-de-gas",
+      "i": "wi-ar-cifras-18-12-llave-de-paso-13mm",
+      "k": "work_item",
+      "p": 36215.31,
+      "s": "Cifras 18.12 · Llave de paso Ø 13mm",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--18-instalacion-de-gas",
+      "i": "wi-ar-cifras-18-13-llave-de-paso-19mm",
+      "k": "work_item",
+      "p": 44780.2,
+      "s": "Cifras 18.13 · Llave de paso Ø 19mm",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--19-equipamiento",
+      "i": "wi-ar-cifras-19-01-amob-fijo-bajo-mesada-y-alacena-incl-mesada-gra",
+      "k": "work_item",
+      "p": 1563197.25,
+      "s": "Cifras 19.01 · Amob.fijo: bajo mesada y alacena (incl. mesada granito)",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--19-equipamiento",
+      "i": "wi-ar-cifras-19-02-amob-fijo-bajo-mesada-y-alacena-no-incl-mesada",
+      "k": "work_item",
+      "p": 752764.93,
+      "s": "Cifras 19.02 · Amob.fijo: bajo mesada y alacena (no incl. mesada)",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--19-equipamiento",
+      "i": "wi-ar-cifras-19-03-amob-fijo-puertas-de-placares",
+      "k": "work_item",
+      "p": 257662.05,
+      "s": "Cifras 19.03 · Amob.fijo: puertas de placares",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--19-equipamiento",
+      "i": "wi-ar-cifras-19-04-amob-fijo-puertas-e-interiores-de-placares",
+      "k": "work_item",
+      "p": 366899.34,
+      "s": "Cifras 19.04 · Amob.fijo: puertas e interiores de placares",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--19-equipamiento",
+      "i": "wi-ar-cifras-19-05-matafuegos-abc-05kg",
+      "k": "work_item",
+      "p": 255100.92,
+      "s": "Cifras 19.05 · Matafuegos ABC 05kg",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--19-equipamiento",
+      "i": "wi-ar-cifras-19-06-matafuegos-abc-10kg",
+      "k": "work_item",
+      "p": 466838.48,
+      "s": "Cifras 19.06 · Matafuegos ABC 10kg",
+      "u": "u"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--20-varios",
+      "i": "wi-ar-cifras-20-01-ayuda-de-gremio",
+      "k": "work_item",
+      "p": 7942.79,
+      "s": "Cifras 20.01 · Ayuda de gremio",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--20-varios",
+      "i": "wi-ar-cifras-20-02-conductos-de-ventilacion-incl-sombrerete-y-reja",
+      "k": "work_item",
+      "p": 177757.59,
+      "s": "Cifras 20.02 · Conductos de ventilación, incl. sombrerete y reja",
+      "u": "m"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--20-varios",
+      "i": "wi-ar-cifras-20-03-limpieza-periodica-y-final-de-obra",
+      "k": "work_item",
+      "p": 18923.91,
+      "s": "Cifras 20.03 · Limpieza periódica y final de obra",
+      "u": "m2"
+    },
+    {
+      "c": "revista-cifras-costos-por-rubro--20-varios",
+      "i": "wi-ar-cifras-20-04-parquizacion-cesped",
+      "k": "work_item",
+      "p": 15183.3,
+      "s": "Cifras 20.04 · Parquización (césped)",
       "u": "m2"
     },
     {
@@ -5377,5 +7281,5 @@
       "u": "m"
     }
   ],
-  "version": "0.9.2"
+  "version": "0.10.0"
 }

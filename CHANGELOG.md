@@ -16,6 +16,68 @@ Formato: [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/).
 
 ## [Unreleased]
 
+## [0.10.0] - 2026-11-18
+
+Argentina suma los costos por rubro de Revista CIFRAS, cargados tal cual los
+publica la revista. Las partidas propias del banco no cambian.
+
+### Nuevo
+
+- **236 partidas «Cifras NN.NN · …»**, una por cada rubro de la tabla «Costos
+  unitarios por rubros» de Revista CIFRAS n.º 368 (noviembre de 2026, Santa
+  Fe, región Litoral). Están en el capítulo «Revista CIFRAS: costos por
+  rubro», con los 20 capítulos de la revista, y su nombre lleva el código del
+  rubro (por ejemplo, «Cifras 04.08 · Ladrillos cerámicos huecos 12x18x33cm»).
+- Cada partida trae los dos importes que publica la revista, sin modificar:
+  ejecución (mano de obra y equipos) y materiales. Son costos directos, sin
+  IVA, gastos generales ni beneficio. Su suma es el costo unitario del rubro.
+- **Fuente nueva: Revista CIFRAS**, citada. Su ejemplar autoriza publicar sus
+  datos citando la fuente; la atribución viaja en el catálogo y cada partida
+  nombra el rubro y la edición de los que sale.
+- Dos hojas nuevas que valen un peso por unidad, «Mano de obra y equipos
+  según Revista CIFRAS (en pesos)» y «Materiales según Revista CIFRAS (en
+  pesos)». Son las líneas con las que cada partida carga sus dos importes.
+
+### Qué hay que saber antes de usarlas
+
+- **No tienen análisis.** La revista publica importes, no horas ni consumos:
+  estas partidas sirven para presupuestar por rubro, no para computar
+  materiales ni planificar mano de obra. Para eso están las partidas propias
+  del banco.
+- **No se ajustan por zona.** Los valores son de la región Litoral.
+- **En varios trabajos ahora hay dos partidas**: la propia del banco, con su
+  análisis, y la de la revista. No valen lo mismo: sobre 36 trabajos
+  equivalentes, la mediana de la propia queda un 19,5% por debajo.
+- La revista declara qué incluye cada sección en instalaciones, movimiento
+  de tierra, estructuras, mamposterías y tabiquerías; el texto de cada
+  partida lo dice. Donde no lo declara, el texto también lo dice.
+- 13 rubros no tienen materiales en la revista (demoliciones, excavaciones,
+  alquiler de volquete, ayuda de gremio): su partida lleva solo ejecución.
+
+### Sin cambios
+
+- Las 333 partidas propias de Argentina, sus 339 hojas y todo el catálogo de
+  España.
+
+### Pendiente conocido
+
+- Calibrar las partidas propias del banco contra la revista queda para otra
+  versión: hoy conviven las dos series.
+- La edición cargada es la de noviembre de 2026. La revista publica una tabla
+  nueva cada mes y el banco no la toma sola: hay que cargarla.
+- No hay confirmación escrita del editor de la revista para este uso. El
+  banco se apoya en la autorización general de su ejemplar.
+- Esta versión se publicó el mismo día que se cargó, sin la espera de 24
+  horas y sin la aprobación de una persona distinta de quien la cargó. El
+  cotejo contra la planilla original (236 de 236 rubros, importe por
+  importe) lo hizo un programa aparte.
+- Lo que la 0.9.1 y la 0.9.2 dejaron para la 0.10.0 sigue pendiente y pasa a
+  la 0.11.0, porque esta versión solo agrega la tabla de la revista: las
+  quince partidas propias fuera del rango de mercado (once de ellas con el
+  aviso «LÍMITE CONOCIDO» en su texto), las ocho subas de más del 100% sin
+  firma, las 180 partidas sin fuente declarada y los once precios relevados
+  el 18-11 que esperan decisión.
+
 ## [0.9.2] - 2026-11-18
 
 Revisión de la base argentina contra sus fuentes: 124 partidas pasan a tener

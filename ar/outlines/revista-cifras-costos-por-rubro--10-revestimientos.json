@@ -1,0 +1,88 @@
+{
+  "key": "revista-cifras-costos-por-rubro--10-revestimientos",
+  "rows": [
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-10-01-cemento-alisado",
+      "m": 2,
+      "p": 51073.92,
+      "s": "Cifras 10.01 · Cemento alisado",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-10-02-ceramicos-esmaltados",
+      "m": 2,
+      "p": 55923.49,
+      "s": "Cifras 10.02 · Cerámicos esmaltados",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-10-03-granito-reconstituido-en-escalones-e-2-5cm-h-ch",
+      "m": 2,
+      "p": 359795.03,
+      "s": "Cifras 10.03 · Granito reconstituido en escalones e:2,5cm (h/ch/z)",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-10-04-mesada-de-granito-natural-e-2-5cm-comp-gris-mar",
+      "m": 2,
+      "p": 223854.99,
+      "s": "Cifras 10.04 · Mesada de granito natural e=2,5cm, comp. (gris mara)",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-10-05-mesada-de-piedra-natural-e-2-5cm-comp-travertin",
+      "m": 2,
+      "p": 369042.45,
+      "s": "Cifras 10.05 · Mesada de piedra natural e=2,5cm, comp. (travertino)",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-10-06-plastico-texturado",
+      "m": 2,
+      "p": 44167.39,
+      "s": "Cifras 10.06 · Plástico texturado",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-10-07-porcelanato-canto-rectificado",
+      "m": 2,
+      "p": 108514.83,
+      "s": "Cifras 10.07 · Porcelanato canto rectificado",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-10-08-porcelanato-sin-rectificar",
+      "m": 2,
+      "p": 70959.33,
+      "s": "Cifras 10.08 · Porcelanato sin rectificar",
+      "u": "m2"
+    },
+    {
+      "d": "2026-11",
+      "g": [],
+      "id": "wi-ar-cifras-10-09-tejuelas-refractarias",
+      "m": 2,
+      "p": 62955.98,
+      "s": "Cifras 10.09 · Tejuelas refractarias",
+      "u": "m2"
+    }
+  ],
+  "title": "Revista CIFRAS: costos por rubro > 10 Revestimientos",
+  "version": "0.10.0"
+}

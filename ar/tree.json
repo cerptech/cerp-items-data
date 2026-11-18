@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T13:43:48.160Z",
+  "generatedAt": "2026-11-18T18:45:22.357Z",
   "roots": [
     {
       "c": [
@@ -38,6 +38,139 @@
       "l": "Mano de obra",
       "n": 5,
       "s": "mano-de-obra"
+    },
+    {
+      "c": [
+        {
+          "k": "revista-cifras-costos-por-rubro--01-preliminares-de-obra",
+          "l": "01 Preliminares de obra",
+          "n": 12,
+          "s": "01-preliminares-de-obra"
+        },
+        {
+          "k": "revista-cifras-costos-por-rubro--02-movimiento-de-tierra",
+          "l": "02 Movimiento de tierra",
+          "n": 5,
+          "s": "02-movimiento-de-tierra"
+        },
+        {
+          "k": "revista-cifras-costos-por-rubro--03-estructuras",
+          "l": "03 Estructuras",
+          "n": 15,
+          "s": "03-estructuras"
+        },
+        {
+          "k": "revista-cifras-costos-por-rubro--04-mamposterias-y-tabiquerias",
+          "l": "04 Mamposterías y tabiquerías",
+          "n": 18,
+          "s": "04-mamposterias-y-tabiquerias"
+        },
+        {
+          "k": "revista-cifras-costos-por-rubro--05-aislaciones",
+          "l": "05 Aislaciones",
+          "n": 9,
+          "s": "05-aislaciones"
+        },
+        {
+          "k": "revista-cifras-costos-por-rubro--06-cubierta",
+          "l": "06 Cubierta",
+          "n": 20,
+          "s": "06-cubierta"
+        },
+        {
+          "k": "revista-cifras-costos-por-rubro--07-revoques",
+          "l": "07 Revoques",
+          "n": 17,
+          "s": "07-revoques"
+        },
+        {
+          "k": "revista-cifras-costos-por-rubro--08-contrapisos",
+          "l": "08 Contrapisos",
+          "n": 10,
+          "s": "08-contrapisos"
+        },
+        {
+          "k": "revista-cifras-costos-por-rubro--09-cielorrasos",
+          "l": "09 Cielorrasos",
+          "n": 10,
+          "s": "09-cielorrasos"
+        },
+        {
+          "k": "revista-cifras-costos-por-rubro--10-revestimientos",
+          "l": "10 Revestimientos",
+          "n": 9,
+          "s": "10-revestimientos"
+        },
+        {
+          "k": "revista-cifras-costos-por-rubro--11-pisos",
+          "l": "11 Pisos",
+          "n": 16,
+          "s": "11-pisos"
+        },
+        {
+          "k": "revista-cifras-costos-por-rubro--12-zocalos",
+          "l": "12 Zócalos",
+          "n": 7,
+          "s": "12-zocalos"
+        },
+        {
+          "k": "revista-cifras-costos-por-rubro--13-carpinterias",
+          "l": "13 Carpinterías",
+          "n": 10,
+          "s": "13-carpinterias"
+        },
+        {
+          "k": "revista-cifras-costos-por-rubro--14-vidrieria",
+          "l": "14 Vidriería",
+          "n": 11,
+          "s": "14-vidrieria"
+        },
+        {
+          "k": "revista-cifras-costos-por-rubro--15-pinturas",
+          "l": "15 Pinturas",
+          "n": 6,
+          "s": "15-pinturas"
+        },
+        {
+          "k": "revista-cifras-costos-por-rubro--16-instalacion-electrica",
+          "l": "16 Instalación eléctrica",
+          "n": 6,
+          "s": "16-instalacion-electrica"
+        },
+        {
+          "k": "revista-cifras-costos-por-rubro--17-instalacion-sanitaria-e-incendio",
+          "l": "17 Instalación sanitaria e incendio",
+          "n": 32,
+          "s": "17-instalacion-sanitaria-e-incendio"
+        },
+        {
+          "k": "revista-cifras-costos-por-rubro--18-instalacion-de-gas",
+          "l": "18 Instalación de gas",
+          "n": 13,
+          "s": "18-instalacion-de-gas"
+        },
+        {
+          "k": "revista-cifras-costos-por-rubro--19-equipamiento",
+          "l": "19 Equipamiento",
+          "n": 6,
+          "s": "19-equipamiento"
+        },
+        {
+          "k": "revista-cifras-costos-por-rubro--20-varios",
+          "l": "20 Varios",
+          "n": 4,
+          "s": "20-varios"
+        },
+        {
+          "k": "revista-cifras-costos-por-rubro--importes",
+          "l": "Importes",
+          "n": 2,
+          "s": "importes"
+        }
+      ],
+      "l": "Revista CIFRAS: costos por rubro",
+      "n": 238,
+      "s": "revista-cifras-costos-por-rubro"
     },
     {
       "c": [
@@ -802,6 +935,6 @@
       "s": "marmoles-y-granitos"
     }
   ],
-  "total": 672,
-  "version": "0.9.2"
+  "total": 910,
+  "version": "0.10.0"
 }
