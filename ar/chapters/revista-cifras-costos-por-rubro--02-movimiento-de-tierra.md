@@ -1,8 +1,8 @@
 # Revista CIFRAS: costos por rubro > 02 Movimiento de tierra
 
-Banco de ítems de construcción CERP v0.10.0 — 5 ítems. Datos estructurados en [`revista-cifras-costos-por-rubro--02-movimiento-de-tierra.json`](./revista-cifras-costos-por-rubro--02-movimiento-de-tierra.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.11.0 — 5 ítems. Datos estructurados en [`revista-cifras-costos-por-rubro--02-movimiento-de-tierra.json`](./revista-cifras-costos-por-rubro--02-movimiento-de-tierra.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
-> Costos unitarios por rubro de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar
+> Costos unitarios por rubro y precios de materiales de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar
 > Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo
 > Información obtenida del Portal de la Junta de Andalucía
 

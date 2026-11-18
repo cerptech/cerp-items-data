@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T18:45:22.357Z",
+  "generatedAt": "2026-11-18T21:23:37.654Z",
   "roots": [
     {
       "c": [
@@ -548,6 +548,259 @@
     {
       "c": [
         {
+          "k": "revista-cifras-precios-de-materiales--aberturas",
+          "l": "ABERTURAS",
+          "n": 26,
+          "s": "aberturas"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--acondicionadores-de-aire",
+          "l": "ACONDICIONADORES DE AIRE",
+          "n": 20,
+          "s": "acondicionadores-de-aire"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--aditivos",
+          "l": "ADITIVOS",
+          "n": 10,
+          "s": "aditivos"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--aislantes-termicos-e-impermeabilizantes",
+          "l": "AISLANTES TÉRMICOS E IMPERMEABILIZANTES",
+          "n": 26,
+          "s": "aislantes-termicos-e-impermeabilizantes"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--alambres-fisa-metal",
+          "l": "ALAMBRES | Fisa Metal",
+          "n": 3,
+          "s": "alambres-fisa-metal"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--amoblamientos-cocina-presisso",
+          "l": "AMOBLAMIENTOS COCINA | Presisso",
+          "n": 25,
+          "s": "amoblamientos-cocina-presisso"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--arenas-piedras-triturados-aremat",
+          "l": "ARENAS - PIEDRAS - TRITURADOS | Aremat",
+          "n": 8,
+          "s": "arenas-piedras-triturados-aremat"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--ascensores-ascensores-bertossi-precios-sin-iva",
+          "l": "ASCENSORES | Ascensores Bertossi (Precios sin IVA)",
+          "n": 4,
+          "s": "ascensores-ascensores-bertossi-precios-s"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--automatizacion-de-portones-prusia",
+          "l": "AUTOMATIZACIÓN DE PORTONES | Prusia",
+          "n": 4,
+          "s": "automatizacion-de-portones-prusia"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--banos-y-cocinas-colome",
+          "l": "BAÑOS Y COCINAS | Colomé",
+          "n": 36,
+          "s": "banos-y-cocinas-colome"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--biodigestores-colome",
+          "l": "BIODIGESTORES | Colomé",
+          "n": 2,
+          "s": "biodigestores-colome"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--cales",
+          "l": "CALES",
+          "n": 4,
+          "s": "cales"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--canos-estructurales-fisa-metal",
+          "l": "CAÑOS ESTRUCTURALES | Fisa Metal",
+          "n": 3,
+          "s": "canos-estructurales-fisa-metal"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--cementos",
+          "l": "CEMENTOS",
+          "n": 10,
+          "s": "cementos"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--chapas",
+          "l": "CHAPAS",
+          "n": 4,
+          "s": "chapas"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--cielorrasos",
+          "l": "CIELORRASOS",
+          "n": 2,
+          "s": "cielorrasos"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--clavos-fisa-metal",
+          "l": "CLAVOS | Fisa Metal",
+          "n": 2,
+          "s": "clavos-fisa-metal"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--construccion-en-seco",
+          "l": "CONSTRUCCIÓN EN SECO",
+          "n": 45,
+          "s": "construccion-en-seco"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--electricidad-electricidad-der",
+          "l": "ELECTRICIDAD | Electricidad DER",
+          "n": 54,
+          "s": "electricidad-electricidad-der"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--gas-colome",
+          "l": "GAS | Colomé",
+          "n": 13,
+          "s": "gas-colome"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--herrajes",
+          "l": "HERRAJES",
+          "n": 12,
+          "s": "herrajes"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--hidrofugos",
+          "l": "HIDRÓFUGOS",
+          "n": 3,
+          "s": "hidrofugos"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--hierros",
+          "l": "HIERROS",
+          "n": 17,
+          "s": "hierros"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--hormigon-elaborado",
+          "l": "HORMIGÓN ELABORADO",
+          "n": 4,
+          "s": "hormigon-elaborado"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--impresiones",
+          "l": "IMPRESIONES",
+          "n": 3,
+          "s": "impresiones"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--ladrillos",
+          "l": "LADRILLOS",
+          "n": 18,
+          "s": "ladrillos"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--maderas",
+          "l": "MADERAS",
+          "n": 6,
+          "s": "maderas"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--maquinas-y-herramientas-de-mano-mariutti",
+          "l": "MÁQUINAS Y HERRAMIENTAS DE MANO | Mariutti",
+          "n": 6,
+          "s": "maquinas-y-herramientas-de-mano-mariutti"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--marmoles",
+          "l": "MÁRMOLES",
+          "n": 7,
+          "s": "marmoles"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--materiales-agregados",
+          "l": "MATERIALES AGREGADOS",
+          "n": 5,
+          "s": "materiales-agregados"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--mesadas-prestone",
+          "l": "MESADAS PRESTONE",
+          "n": 2,
+          "s": "mesadas-prestone"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--motoimplementos-sumiagro",
+          "l": "MOTOIMPLEMENTOS | Sumiagro",
+          "n": 7,
+          "s": "motoimplementos-sumiagro"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--pinturas",
+          "l": "PINTURAS",
+          "n": 19,
+          "s": "pinturas"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--pisos",
+          "l": "PISOS",
+          "n": 17,
+          "s": "pisos"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--revestimientos",
+          "l": "REVESTIMIENTOS",
+          "n": 3,
+          "s": "revestimientos"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--revoques",
+          "l": "REVOQUES",
+          "n": 6,
+          "s": "revoques"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--tejas",
+          "l": "TEJAS",
+          "n": 4,
+          "s": "tejas"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--vidrios-bianchi-vidrios-y-cristales",
+          "l": "VIDRIOS | Bianchi vidrios y cristales",
+          "n": 24,
+          "s": "vidrios-bianchi-vidrios-y-cristales"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--viguetas",
+          "l": "VIGUETAS",
+          "n": 3,
+          "s": "viguetas"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--yesos",
+          "l": "YESOS",
+          "n": 1,
+          "s": "yesos"
+        },
+        {
+          "k": "revista-cifras-precios-de-materiales--zocalos-tecnoperfil",
+          "l": "ZÓCALOS | Tecnoperfil",
+          "n": 2,
+          "s": "zocalos-tecnoperfil"
+        }
+      ],
+      "l": "Revista CIFRAS: precios de materiales",
+      "n": 470,
+      "s": "revista-cifras-precios-de-materiales"
+    },
+    {
+      "c": [
+        {
           "k": "construccion-en-seco--placas-y-perfiles",
           "l": "Placas y perfiles",
           "n": 10,
@@ -935,6 +1188,6 @@
       "s": "marmoles-y-granitos"
     }
   ],
-  "total": 910,
-  "version": "0.10.0"
+  "total": 1380,
+  "version": "0.11.0"
 }

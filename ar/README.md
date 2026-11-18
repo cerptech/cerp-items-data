@@ -1,8 +1,8 @@
 # Banco de ítems de construcción CERP
 
-Catálogo abierto de **910 ítems de construcción de Argentina** con precios de referencia y descomposición completa (mano de obra, materiales y maquinaria con rendimientos). Versión **0.10.0** · generado 2026-11-18 · mantenido por [CERP](https://cerp.es).
+Catálogo abierto de **1380 ítems de construcción de Argentina** con precios de referencia y descomposición completa (mano de obra, materiales y maquinaria con rendimientos). Versión **0.11.0** · generado 2026-11-18 · mantenido por [CERP](https://cerp.es).
 
-569 partidas de obra · 321 materiales · 20 recursos de mano de obra y maquinaria
+569 partidas de obra · 791 materiales · 20 recursos de mano de obra y maquinaria
 
 ## Para personas
 
@@ -139,7 +139,7 @@ Los archivos se sirven con CORS abierto vía `raw.githubusercontent.com`. Estruc
 
 ## Licencia y atribución
 
-- Costos unitarios por rubro de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar
+- Costos unitarios por rubro y precios de materiales de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar
 - Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo
 - Información obtenida del Portal de la Junta de Andalucía
 

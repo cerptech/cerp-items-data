@@ -1,8 +1,8 @@
 # Banco de ítems de construcción CERP
 
-> Catálogo abierto de 910 ítems de construcción de Argentina con precios de referencia y descomposición (BOM: mano de obra, materiales, maquinaria). Versión 0.10.0. Formato canónico JSON; cada capítulo también en Markdown. Ids: wi=partida, mt=material, mo=mano de obra, mq=maquinaria, au=auxiliar, ot=otro. Cada precio lleva procedencia (fuente, código origen, edición, ámbito, fecha).
+> Catálogo abierto de 1380 ítems de construcción de Argentina con precios de referencia y descomposición (BOM: mano de obra, materiales, maquinaria). Versión 0.11.0. Formato canónico JSON; cada capítulo también en Markdown. Ids: wi=partida, mt=material, mo=mano de obra, mq=maquinaria, au=auxiliar, ot=otro. Cada precio lleva procedencia (fuente, código origen, edición, ámbito, fecha).
 
-Atribución obligatoria al reutilizar: "Costos unitarios por rubro de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar".
+Atribución obligatoria al reutilizar: "Costos unitarios por rubro y precios de materiales de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar".
 Atribución obligatoria al reutilizar: "Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo".
 Atribución obligatoria al reutilizar: "Información obtenida del Portal de la Junta de Andalucía".
 
@@ -11,7 +11,7 @@ Atribución obligatoria al reutilizar: "Información obtenida del Portal de la J
 - [index.json](./index.json): índice máquina de todos los chunks con conteos y hash SHA-256 por archivo
 - [tree.json](./tree.json): árbol de navegación jerárquico completo (labels, slugs, conteos)
 - outlines/<chunk>.json: filas livianas por capítulo (id, resumen, unidad, precio, subgrupos) — para listados sin cargar el capítulo entero
-- [basicos.json](./basicos.json): los 341 conceptos simples (materiales, mano de obra, maquinaria) — resuelve cualquier ref de BOM
+- [basicos.json](./basicos.json): los 811 conceptos simples (materiales, mano de obra, maquinaria) — resuelve cualquier ref de BOM
 - [catalog.json](./catalog.json): catálogo completo en un archivo
 - [countries.json](./countries.json): países disponibles. Este bundle es el del país de la raíz; los demás viven en su subcarpeta (p.ej. [ar/](./ar/llms.txt) para Argentina) con la misma estructura de archivos
 

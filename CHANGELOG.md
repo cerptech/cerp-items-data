@@ -16,6 +16,85 @@ Formato: [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/).
 
 ## [Unreleased]
 
+## [0.11.0] - 2026-11-18
+
+Argentina suma la lista de precios de materiales de Revista CIFRAS, cargada
+tal cual la publica la revista. Lo que ya estaba en el banco no cambia.
+
+### Nuevo
+
+- **470 materiales «Cifras · …»**, uno por cada renglón con precio de la lista
+  «Precios de materiales a octubre 2026» de Revista CIFRAS n.º 368 (noviembre
+  de 2026, Santa Fe), páginas 110 a 112. Están en el capítulo «Revista CIFRAS:
+  precios de materiales», con las 41 secciones de la revista: aberturas,
+  cementos, hierros, ladrillos, electricidad, pinturas, pisos, vidrios y las
+  demás.
+- El nombre de cada material es la descripción de la revista y dónde figura
+  en la lista (sección, marca o comercio). Por ejemplo, «Cifras · Cemento Loma
+  Negra x 25 kg · CEMENTOS › Spahn». El texto trae la descripción completa,
+  la página y el importe impreso.
+- Son precios de mostrador que la revista relevó al 30 de septiembre de 2026.
+
+### Qué hay que saber antes de usarlos
+
+- **El precio va sin IVA**, como todos los precios del banco. La revista
+  publica la lista con IVA del 21% incluido: cada precio se dividió por 1,21
+  y el importe impreso queda en el texto. La revista dice «sin IVA» en dos
+  lugares, que se cargaron sin dividir: la sección de ascensores (4 precios)
+  y la primera tabla de vidrios, que es para mayoristas (16).
+- **La unidad es la de la revista.** 390 van «por unidad», que es como la
+  revista publica la lista. En general la descripción dice la presentación
+  (bolsa de 25 kg, barra de 12 m, balde de 20 litros), pero algunos renglones
+  no la dicen, como los cables. Los otros 80 van por m², m³, kg o metro
+  porque la revista los publica así.
+- **Cada precio es el que la revista relevó para un comercio o una marca**,
+  no una mediana de mercado, y no se ajusta por zona. La revista es de Santa
+  Fe. El mismo producto puede figurar más de una vez, con el precio de cada
+  comercio: son materiales distintos.
+- La lista trae algunos renglones que no son materiales: servicios (bombeo
+  de hormigón, ploteo, colocación, relevamiento y montaje) y equipos
+  (herramientas, ascensores, portones automáticos). Se cargaron igual, como
+  figuran.
+- **No reemplazan a los materiales propios del banco** ni entran en ninguna
+  partida. Las partidas propias siguen con sus materiales y sus precios.
+- 10 renglones de la lista figuran «sin cotizar» en la revista y no se
+  cargaron.
+- 12 descripciones no entran en el nombre y van abreviadas con «…». El texto
+  las trae completas.
+- Dos importes impresos llaman la atención frente a sus vecinos de la lista,
+  un flexible cromado y un bajo mesada de 40. Se cargaron como están y el
+  texto de cada uno lo avisa.
+- La sección de vidrios tiene dos tablas. La primera dice «precios para
+  mayoristas (sin IVA) x m2» y se cargó sin dividir. La segunda, de vidrios
+  decorativos (8 precios), dice «x m2» y nada del IVA: se dividió por 1,21,
+  por la regla general de la lista, y el texto de cada uno avisa la duda.
+- Dos renglones de la primera tabla de vidrios describen piezas con medidas
+  propias, una puerta y un perfil. Su importe puede ser por pieza y no por
+  m²: se cargaron por m², como dice la tabla, y el texto lo avisa.
+
+### Sin cambios
+
+- Las 236 partidas «Cifras NN.NN · …» de la 0.10.0, las 333 partidas propias
+  de Argentina, sus materiales y todo el catálogo de España.
+
+### Pendiente conocido
+
+- La lista cargada es la del n.º 368. La revista publica una lista nueva cada
+  mes y el banco no la toma sola: hay que cargarla.
+- Sigue sin haber confirmación escrita del editor de la revista para este
+  uso. El banco se apoya en la autorización general de su ejemplar.
+- Esta versión se publica el mismo día que se cargó, sin la espera de 24
+  horas y sin la aprobación de una persona: la revisaron revisores
+  automáticos, independientes de quien la cargó. El cotejo contra el
+  ejemplar (470 de 470 renglones, importe por importe) se hizo dos veces,
+  con programas distintos.
+- La verificación del banco marcó 273 pares de estos materiales como
+  posibles duplicados, porque sus nombres se parecen: son medidas,
+  presentaciones o comercios distintos de la misma lista. Se revisaron y se
+  cerraron con su explicación; ninguno quedó abierto.
+- Lo que las versiones 0.9.1, 0.9.2 y 0.10.0 dejaron pendiente sigue igual,
+  porque esta versión solo agrega la lista de la revista.
+
 ## [0.10.0] - 2026-11-18
 
 Argentina suma los costos por rubro de Revista CIFRAS, cargados tal cual los
