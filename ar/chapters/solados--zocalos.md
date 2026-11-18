@@ -1,12 +1,12 @@
 # Solados > Zócalos
 
-Banco de ítems de construcción CERP v0.9.1 — 3 ítems. Datos estructurados en [`solados--zocalos.json`](./solados--zocalos.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.9.2 — 3 ítems. Datos estructurados en [`solados--zocalos.json`](./solados--zocalos.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
 > Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo
 > Información obtenida del Portal de la Junta de Andalucía
 
 | id | resumen | ud | precio ARS | fecha | descomposición (ref × cantidad) |
 |----|---------|----|-----------:|-------|---------------------------------|
-| `wi-ar-zocalo-ceramico-de-10-cm` | Zócalo cerámico de 10 cm | m |  |  | mo-ar-oficial-cct-76-75 ×0.15<br>mo-ar-ayudante-cct-76-75 ×0.1<br>mt-ar-zocalo-ceramico-de-10-cm ×1.03<br>mt-ar-adhesivo-impermeable-para-ceramicos-en-bolsa-de-30-kg ×0.015 |
+| `wi-ar-zocalo-ceramico-de-10-cm` | Zócalo cerámico de 10 cm | m | 5679.82 | 2026-11 | mo-ar-oficial-cct-76-75 ×0.15<br>mo-ar-ayudante-cct-76-75 ×0.1<br>mt-ar-ceramico-esmaltado-para-piso-51x51-cm ×0.11<br>mt-ar-adhesivo-impermeable-para-ceramicos-en-bolsa-de-30-kg ×0.0133<br>mt-ar-pastina-para-juntas ×0.25 |
 | `wi-ar-zocalo-de-mdf-prepintado-blanco-de-7-cm` | Zócalo de MDF prepintado blanco de 7 cm | m | 7245.87 | 2026-11 | mo-ar-oficial-cct-76-75 ×0.15<br>mo-ar-ayudante-cct-76-75 ×0.1<br>mt-ar-zocalo-de-mdf-prepintado-blanco-de-7-cm ×1.03 |
 | `wi-ar-zocalo-de-poliestireno-expandido-de-7-cm-colocado` | Zócalo de poliestireno expandido de 7 cm colocado | m | 9021.56 | 2026-11 | mo-ar-oficial-cct-76-75 ×0.15<br>mo-ar-ayudante-cct-76-75 ×0.1<br>mt-ar-zocalo-de-poliestireno-expandido-de-7-cm ×1.03 |

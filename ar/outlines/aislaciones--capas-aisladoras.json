@@ -5,8 +5,8 @@
       "d": "2026-11",
       "g": [],
       "id": "wi-ar-azotado-hidrofugo-vertical",
-      "m": 3,
-      "p": 9110.42,
+      "m": 5,
+      "p": 11135.02,
       "s": "Azotado hidrófugo vertical",
       "u": "m2"
     },
@@ -15,7 +15,7 @@
       "g": [],
       "id": "wi-ar-capa-aisladora-horizontal-con-film-de-polietileno",
       "m": 3,
-      "p": 2235.23,
+      "p": 2213,
       "s": "Capa aisladora horizontal con film de polietileno",
       "u": "m2"
     },
@@ -30,5 +30,5 @@
     }
   ],
   "title": "Aislaciones > Capas aisladoras",
-  "version": "0.9.1"
+  "version": "0.9.2"
 }

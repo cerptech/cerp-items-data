@@ -1,6 +1,6 @@
 # Banco de ítems de construcción CERP
 
-Catálogo abierto de **672 ítems de construcción de Argentina** con precios de referencia y descomposición completa (mano de obra, materiales y maquinaria con rendimientos). Versión **0.9.1** · generado 2026-11-17 · mantenido por [CERP](https://cerp.es).
+Catálogo abierto de **672 ítems de construcción de Argentina** con precios de referencia y descomposición completa (mano de obra, materiales y maquinaria con rendimientos). Versión **0.9.2** · generado 2026-11-18 · mantenido por [CERP](https://cerp.es).
 
 333 partidas de obra · 320 materiales · 19 recursos de mano de obra y maquinaria
 

@@ -21,14 +21,14 @@
         },
         {
           "factor": 1,
-          "quantity": 0.35,
+          "quantity": 0.42,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.035,
-          "ref": "mt-ar-arena-gruesa-a-granel",
+          "quantity": 0.03,
+          "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         }
       ],
@@ -54,7 +54,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 18533.61
+          "value": 19200.56
         },
         {
           "currency": "ARS",
@@ -67,7 +67,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 19901.07
+          "value": 20568.02
         },
         {
           "currency": "ARS",
@@ -80,7 +80,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27501.25
+          "value": 28168.19
         },
         {
           "currency": "ARS",
@@ -93,7 +93,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 30759.47
+          "value": 31426.41
         }
       ],
       "sources": [
@@ -110,9 +110,9 @@
         "nivelación",
         "mortero"
       ],
-      "text": "Carpeta de nivelación de mortero de cemento de 3 cm de espesor sobre contrapiso, fratasada, para recibir el solado. Medida por metro cuadrado de superficie ejecutada. En Argentina se dice \"carpeta\"; el término español \"capa de regularización\" no se usa. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "text": "Carpeta de nivelación de mortero de cemento de 3 cm de espesor sobre contrapiso, fratasada, para recibir el solado. Medida por m² de superficie ejecutada. En Argentina se dice «carpeta»; el término español «capa de regularización» no se usa. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 6.1 «Carpeta niveladora e=3cm» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,60 h de oficial y 0,30 h de ayudante por m², con 0,03 m³ de arena mediana lavada y 21 kg de cemento portland. Es el mismo trabajo y el mismo espesor. El cemento se pasa a bolsas de 50 kg: 21 / 50 = 0,42 bolsas por m². CORRECCIÓN (noviembre 2026): las horas ya eran las del ítem citado y no cambian. Cambian los materiales, que no eran los del ítem: el cemento pasa de 0,35 a 0,42 bolsas por m² (la fuente da 21 kg, no 17,5 kg) y la arena pasa de 0,035 m³ de arena gruesa a 0,03 m³ de arena mediana, que es la que lleva la fuente. La cita se actualiza de la edición julio 2025 a la edición octubre 2026. INCLUYE: 0,60 h de oficial y 0,30 h de ayudante por m²; 0,42 bolsas de 50 kg de cemento portland compuesto CPC40 y 0,03 m³ de arena mediana por m². NO INCLUYE: el contrapiso, la aislación hidrófuga ni el solado; equipos y herramientas menores, que la fuente no computa. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:14.937Z",
+      "updatedAt": "2026-11-18T11:16:50.142Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -141,8 +141,8 @@
         },
         {
           "factor": 1,
-          "quantity": 0.025,
-          "ref": "mt-ar-arena-gruesa-a-granel",
+          "quantity": 0.02,
+          "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
@@ -174,7 +174,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 17426.32
+          "value": 17156.84
         },
         {
           "currency": "ARS",
@@ -187,7 +187,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 18793.79
+          "value": 18524.31
         },
         {
           "currency": "ARS",
@@ -200,7 +200,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26393.96
+          "value": 26124.48
         },
         {
           "currency": "ARS",
@@ -213,7 +213,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29652.18
+          "value": 29382.7
         }
       ],
       "sources": [
@@ -230,9 +230,9 @@
         "hidrófuga",
         "mortero"
       ],
-      "text": "Carpeta hidrófuga de mortero de cemento 1:3 con hidrófugo inorgánico, de 2 cm de espesor, sobre contrapiso en locales húmedos y balcones. Medida por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "text": "Carpeta hidrófuga de mortero de cemento con hidrófugo inorgánico, de 2 cm de espesor, sobre contrapiso en locales húmedos y balcones. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos de cemento y arena: ítem 6.1 «Carpeta niveladora e=3cm» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,60 h de oficial y 0,30 h de ayudante por m², con 0,03 m³ de arena mediana lavada y 21 kg de cemento portland para 3 cm de espesor. La fuente no tiene carpeta hidrófuga: se toma su carpeta cementicia, que es la misma tarea de tendido, reglado y fratasado. Como la fuente da un solo espesor, las horas se aplican sin escalar y los materiales se escalan por geometría a 2 cm: 21 kg × 2 / 3 = 14 kg de cemento, es decir 14 / 50 = 0,28 bolsas de 50 kg, y 0,03 m³ × 2 / 3 = 0,02 m³ de arena mediana por m². La fuente no declara la proporción del mortero; el texto anterior la daba como 1:3. El hidrófugo inorgánico (0,012 bidones de 10 l por m², es decir 0,12 l) queda como estaba: ninguna fuente permitida da su dosificación, así que ese consumo no tiene fuente declarada. CORRECCIÓN (noviembre 2026): el texto anterior citaba el CAS, edición julio 2025, sin nombrar el ítem. Las horas (0,60 h de oficial y 0,30 h de ayudante) y el cemento (0,28 bolsas) ya coincidían con el ítem 6.1 escalado a 2 cm y no cambian; cambia la arena: los 0,025 m³ de arena gruesa pasan a 0,02 m³ de arena mediana, que es la arena y la cantidad de la fuente escalada por espesor. INCLUYE: 0,60 h de oficial y 0,30 h de ayudante por m²; 0,28 bolsas de 50 kg de cemento portland compuesto CPC40 y 0,02 m³ de arena mediana por m²; 0,012 bidones de 10 l de hidrófugo inorgánico por m², consumo sin fuente declarada. NO INCLUYE: el contrapiso, la aislación de muros ni el solado; equipos y herramientas menores, que la fuente no computa. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:14.940Z",
+      "updatedAt": "2026-11-18T11:16:50.147Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -240,5 +240,5 @@
       }
     }
   ],
-  "version": "0.9.1"
+  "version": "0.9.2"
 }

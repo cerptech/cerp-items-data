@@ -1,11 +1,11 @@
 # Instalación sanitaria > Artefactos
 
-Banco de ítems de construcción CERP v0.9.1 — 2 ítems. Datos estructurados en [`instalacion-sanitaria--artefactos.json`](./instalacion-sanitaria--artefactos.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.9.2 — 2 ítems. Datos estructurados en [`instalacion-sanitaria--artefactos.json`](./instalacion-sanitaria--artefactos.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
 > Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo
 > Información obtenida del Portal de la Junta de Andalucía
 
 | id | resumen | ud | precio ARS | fecha | descomposición (ref × cantidad) |
 |----|---------|----|-----------:|-------|---------------------------------|
-| `wi-ar-colocacion-de-inodoro-con-deposito-de-mochila` | Colocación de inodoro con depósito de mochila | u | 210711.23 | 2026-11 | mo-ar-oficial-cct-76-75 ×1.2<br>mo-ar-ayudante-cct-76-75 ×0.085<br>mt-ar-inodoro-de-loza-con-deposito-de-mochila ×1 |
-| `wi-ar-colocacion-de-lavatorio-con-pie-y-griferia-monocomando` | Colocación de lavatorio con pie y grifería monocomando | u | 211139.27 | 2026-11 | mo-ar-oficial-cct-76-75 ×1.1<br>mo-ar-ayudante-cct-76-75 ×0.085<br>mt-ar-lavatorio-de-loza-con-pie ×1<br>mt-ar-griferia-de-lavatorio-monocomando ×1 |
+| `wi-ar-colocacion-de-inodoro-con-deposito-de-mochila` | Colocación de inodoro con depósito de mochila | u | 215776.97 | 2026-11 | mo-ar-oficial-cct-76-75 ×1.285<br>mo-ar-ayudante-cct-76-75 ×0.085<br>mt-ar-inodoro-de-loza-con-deposito-de-mochila ×1.02 |
+| `wi-ar-colocacion-de-lavatorio-con-pie-y-griferia-monocomando` | Colocación de lavatorio con pie y grifería monocomando | u | 214771.39 | 2026-11 | mo-ar-oficial-cct-76-75 ×1.185<br>mo-ar-ayudante-cct-76-75 ×0.085<br>mt-ar-lavatorio-de-loza-con-pie ×1.02<br>mt-ar-griferia-de-lavatorio-monocomando ×1 |

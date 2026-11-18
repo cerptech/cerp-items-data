@@ -432,13 +432,13 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.75,
+          "quantity": 2.5,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 2.45,
+          "quantity": 3.1,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
@@ -480,6 +480,18 @@
         },
         {
           "factor": 1,
+          "quantity": 0.872,
+          "ref": "mt-ar-tabla-de-madera-de-1-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.7,
+          "ref": "mt-ar-tirante-de-2x4-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
           "quantity": 0.15,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
@@ -506,7 +518,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 88981.36
+          "value": 136854.96
         },
         {
           "currency": "ARS",
@@ -519,7 +531,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 93592.42
+          "value": 145139.81
         },
         {
           "currency": "ARS",
@@ -532,7 +544,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 121725.74
+          "value": 193419.85
         },
         {
           "currency": "ARS",
@@ -545,7 +557,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 129497.68
+          "value": 210293.81
         }
       ],
       "sources": [
@@ -560,9 +572,9 @@
       "tags": [
         "entrepisos"
       ],
-      "text": "Losa de viguetas dobles y ladrillos cerámicos de 12,5 cm, luz 3,50 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Losa alivianada de viguetas pretensadas dobles (dos viguetas juntas por nervio) y bovedillas cerámicas de 12,5 cm de altura, con capa de compresión de hormigón preparado en obra y malla de acero soldada de 4,2 mm de 15x15 cm, para luz de hasta 3,50 m. Medida por metro cuadrado de losa ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y madera de apuntalamiento: ítem 3.8 «Hormigón armado para losa alivianada c/lad. 12,5 cm viguetas A1» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 2,50 h de oficial y 3,10 h de ayudante por m² de losa de viguetas simples con bovedilla cerámica de 12,5 cm, con 0,872 m² de tabla de pino y 1,70 m de tirante de pino de 3\"x3\" sin cepillar por m². Adaptación: de la fuente se toman las horas y la madera; los demás materiales se conservan del banco. La fuente no publica la variante de viguetas dobles, así que las horas se aplican sin escalar aunque esta partida monte más vigueta por m² (3,20 m contra 2,10 m de la fuente): el rendimiento puede quedar corto para este sistema. La madera se carga como en la fuente, que no declara cuántas veces se reutiliza: si se reutiliza o se usan puntales metálicos, descontarla. La tabla se carga como tabla de madera de 1 pulgada (0,872 m², igual) y el tirante de 3\"x3\", que el banco no tiene, como tirante de pino de 2\"x4\" con el mismo largo de 1,70 m (8 pulgadas cuadradas de sección contra 9: un 11 % menos). Los materiales conservados del banco no tienen fuente declarada: 3,20 m de vigueta, 6,38 bovedillas, 1,1 m² de malla de 4,2 mm, 0,748 bolsa de cemento, 0,076 m³ de arena mediana y 0,076 m³ de piedra partida por m²; tampoco las 0,15 h de equipos y herramientas menores. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,75 h de oficial y 2,45 h de ayudante, sin madera de apuntalamiento), que no tenían una fuente que se pudiera cotejar. INCLUYE: las viguetas, las bovedillas, la malla, el hormigón de la capa de compresión, la madera de apuntalamiento y encofrado de borde que lleva la fuente, los equipos menores y la mano de obra de apuntalamiento, montaje y hormigonado. Si el apuntalamiento se presupuesta aparte, no se debe sumar otra vez. NO INCLUYE: puntales metálicos ni armadura complementaria en barras (hierros de negativos sobre los apoyos). La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-14T22:02:33.432Z",
+      "updatedAt": "2026-11-18T11:16:50.500Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -756,6 +768,18 @@
         },
         {
           "factor": 1,
+          "quantity": 0.872,
+          "ref": "mt-ar-tabla-de-madera-de-1-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.7,
+          "ref": "mt-ar-tirante-de-2x4-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
           "quantity": 0.15,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
@@ -782,7 +806,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 107501.52
+          "value": 122448.82
         },
         {
           "currency": "ARS",
@@ -795,7 +819,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 115786.37
+          "value": 130733.67
         },
         {
           "currency": "ARS",
@@ -808,7 +832,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 164066.41
+          "value": 179013.71
         },
         {
           "currency": "ARS",
@@ -821,7 +845,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 180940.37
+          "value": 195887.67
         }
       ],
       "sources": [
@@ -836,9 +860,9 @@
       "tags": [
         "entrepisos"
       ],
-      "text": "Losa alivianada de viguetas pretensadas de hormigón y bloques de poliestireno expandido (EPS) de 12,5 cm de altura, con capa de compresión de hormigón y malla de acero soldada de 4,2 mm de 15x15 cm, para luz de hasta 3,50 m. Medida por metro cuadrado de losa ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Consumos por metro cuadrado: 2,10 m de vigueta (ítem 3.8 del CAS), 2 bloques de EPS y 1,1 m² de malla de 4,2 mm (sin fuente declarada; el ítem 3.8 del CAS lleva 1,20 m² de malla Q131), más el hormigón de la capa de compresión. CONSUMO DE VIGUETA (corrección de noviembre 2026): 2,10 m por m², del mismo ítem 3.8 del CAS que da las horas («Viguetas Pretensadas», 2,10 m por m² de losa, en las ediciones septiembre y octubre 2026). Se aplica al bloque de EPS por inferencia: el CAS no declara la separación entre viguetas, pero sus 8 bovedillas cerámicas de 25 cm de largo por m² y los 2 bloques de EPS de 1 m de esta partida dan, en los dos casos, 2 m de fila de bloques por m², es decir viguetas cada 50 cm aproximadamente. El bloque que valoriza la partida se cotizó como de 42 cm de ancho y 1 m de largo, aunque el material figura como «12,5 x 100 x 50 cm». Reemplaza al consumo anterior de 2 m por m², que no declaraba fuente. Es el mismo consumo que usa la partida para luz de hasta 4 m (0,525 piezas de 4 m). INCLUYE: las viguetas, los bloques, la malla, el hormigón de la capa de compresión, los equipos menores y la mano de obra de montaje y hormigonado. NO INCLUYE APUNTALAMIENTO NI ENCOFRADO DE BORDE: el ítem 3.8 del CAS lleva madera (0,87 m² de tabla y 1,70 m de tirante por m²), pero ninguna fuente habilitada da a la vez la cantidad de madera y su criterio de reutilización (número de usos), así que no se cargan y se presupuestan aparte. Tampoco incluye armadura complementaria en barras (hierros de negativos sobre los apoyos): la malla es la única armadura de la partida. Rendimiento de mano de obra: fuente, ítem 3.8 «Hormigón armado para losa alivianada c/lad. 12,5 cm viguetas» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 2,50 h de oficial y 3,10 h de ayudante por metro cuadrado de losa. DECISIÓN DE CURACIÓN (noviembre 2026): este rendimiento reemplaza al anterior (0,5 h de oficial y 1,4 h de ayudante), que venía de un template de ítems de terceros que no se puede cotejar. El ítem del CAS es con bovedilla cerámica de 12,5 cm; se aplica al bloque de EPS por ser la misma tarea de montaje de viguetas, colocación de bloques y hormigonado de la capa de compresión. El EPS es más liviano de manipular, de modo que el valor queda del lado conservador. El CAS no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. DIFERENCIA CON LA PARTIDA «Losa alivianada de viguetas pretensadas y bloque de poliestireno para luz de hasta 4 m»: es el mismo sistema constructivo y, desde noviembre 2026, con el mismo rendimiento. Aquella toma la vigueta por pieza de 4 m, el bloque de 12 cm y la malla Q131 por paño, con la dosificación de capa de compresión del CAS, y declara luz de hasta 4 m; esta usa la vigueta por metro, el bloque de 12,5 x 100 x 50 cm y malla de 4,2 mm. Para una misma losa se usa una u otra, nunca las dos.",
+      "text": "Losa alivianada de viguetas pretensadas de hormigón y bloques de poliestireno expandido (EPS) de 12,5 cm de altura, con capa de compresión de hormigón y malla de acero soldada de 4,2 mm de 15x15 cm, para luz de hasta 3,50 m. Medida por metro cuadrado de losa ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra, consumo de vigueta y madera de apuntalamiento: ítem 3.8 «Hormigón armado para losa alivianada c/lad. 12,5 cm viguetas A1» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 2,50 h de oficial y 3,10 h de ayudante por m² de losa con bovedilla cerámica de 12,5 cm, con 2,10 m de vigueta pretensada, 0,872 m² de tabla de pino y 1,70 m de tirante de pino de 3\"x3\" sin cepillar por m² (además de 8 bovedillas cerámicas, 1,20 m² de malla Q131, 22 kg de cemento portland, 0,032 m³ de arena mediana y 0,048 m³ de ripio 1/3, que esta partida no toma: lleva bloques de EPS en lugar de bovedillas cerámicas y conserva del banco la malla de 4,2 mm y el hormigón de la capa de compresión). Adaptación: de la fuente se toman las horas, la vigueta y la madera; los demás materiales se conservan del banco. El ítem del CAS es con bovedilla cerámica de 12,5 cm; las horas se aplican al bloque de EPS de la misma altura por ser la misma tarea de montaje de viguetas, colocación de bloques y hormigonado de la capa de compresión. El EPS es más liviano de manipular, de modo que el valor queda del lado conservador. La madera es la del apuntalamiento y el encofrado de borde. La madera se carga como en la fuente, que no declara cuántas veces se reutiliza: si se reutiliza o se usan puntales metálicos, descontarla. La tabla se carga como tabla de madera de 1 pulgada (0,872 m², igual) y el tirante de 3\"x3\", que el banco no tiene, como tirante de pino de 2\"x4\" con el mismo largo de 1,70 m (8 pulgadas cuadradas de sección contra 9: un 11 % menos). CONSUMO DE VIGUETA: 2,10 m por m², el mismo del ítem 3.8 del CAS («Viguetas Pretensadas», 2,10 m por m² de losa). Se aplica al bloque de EPS por inferencia: el CAS no declara la separación entre viguetas, pero sus 8 bovedillas cerámicas de 25 cm de largo por m² y los 2 bloques de EPS de 1 m de esta partida dan, en los dos casos, 2 m de fila de bloques por m², es decir viguetas cada 50 cm aproximadamente. Es el mismo consumo que usa la partida para luz de hasta 4 m (0,525 piezas de 4 m). El bloque que valoriza la partida se cotizó como de 42 cm de ancho y 1 m de largo, aunque el material figura como «12,5 x 100 x 50 cm». Los materiales conservados del banco no tienen fuente declarada: 2 bloques de EPS, 1,1 m² de malla de 4,2 mm (el ítem 3.8 del CAS lleva 1,20 m² de malla Q131), 0,4624 bolsa de cemento (23,1 kg), 0,047 m³ de arena mediana y 0,047 m³ de piedra partida por m² (el CAS, con bovedilla cerámica, da 22 kg de cemento, 0,032 m³ de arena mediana y 0,048 m³ de ripio 1/3); tampoco las 0,15 h de equipos y herramientas menores. CORRECCIÓN (noviembre 2026): se agrega la madera de apuntalamiento y encofrado de borde del ítem 3.8 del CAS (0,872 m² de tabla de 1 pulgada y 1,70 m de tirante de 2\"x4\" por m²), que la partida antes no cargaba y mandaba a presupuestar aparte. Las horas (2,50 h de oficial y 3,10 h de ayudante) y la vigueta (2,10 m por m²) ya coincidían con la fuente y no cambian; esas horas habían reemplazado a 0,5 h de oficial y 1,4 h de ayudante, y la vigueta a 2 m por m², valores que no tenían una fuente que se pudiera cotejar. INCLUYE: las viguetas, los bloques de EPS, la malla, el hormigón de la capa de compresión, la madera de apuntalamiento y encofrado de borde que lleva la fuente (0,872 m² de tabla y 1,70 m de tirante por m²), los equipos menores y la mano de obra de apuntalamiento, montaje y hormigonado. Si el apuntalamiento se presupuesta aparte, no se debe sumar otra vez. NO INCLUYE: puntales metálicos ni armadura complementaria en barras (hierros de negativos sobre los apoyos): la malla es la única armadura de la partida. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. DIFERENCIA CON LA PARTIDA «Losa alivianada de viguetas pretensadas y bloque de poliestireno para luz de hasta 4 m»: es el mismo sistema constructivo y tiene el mismo rendimiento. Aquella toma la vigueta por pieza de 4 m, el bloque de 12 cm y la malla Q131 por paño, con la dosificación de capa de compresión del CAS, y declara luz de hasta 4 m; esta usa la vigueta por metro, el bloque de 12,5 x 100 x 50 cm y malla de 4,2 mm. Para una misma losa se usa una u otra, nunca las dos.",
       "unit": "m2",
-      "updatedAt": "2026-11-17T20:55:22.044Z",
+      "updatedAt": "2026-11-18T11:16:50.511Z",
       "verification": {
         "findings": [
           "duplicate_candidate-76a2916d1b8f19b7"
@@ -899,6 +923,18 @@
         },
         {
           "factor": 1,
+          "quantity": 0.872,
+          "ref": "mt-ar-tabla-de-madera-de-1-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.7,
+          "ref": "mt-ar-tirante-de-2x4-pulgadas",
+          "role": "material"
+        },
+        {
+          "factor": 1,
           "quantity": 0.15,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
@@ -925,7 +961,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 110216.8
+          "value": 125164.09
         },
         {
           "currency": "ARS",
@@ -938,7 +974,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 118501.65
+          "value": 133448.95
         },
         {
           "currency": "ARS",
@@ -951,7 +987,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 166781.68
+          "value": 181728.98
         },
         {
           "currency": "ARS",
@@ -964,7 +1000,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 183655.65
+          "value": 198602.95
         }
       ],
       "sources": [
@@ -979,9 +1015,9 @@
       "tags": [
         "entrepisos"
       ],
-      "text": "Losa alivianada de viguetas pretensadas de hormigón y bloques de poliestireno expandido (EPS) de 16,5 cm de altura, con capa de compresión de hormigón y malla de acero soldada de 4,2 mm de 15x15 cm, para luz de hasta 3,50 m. Medida por metro cuadrado de losa ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Consumos por metro cuadrado: 2,10 m de vigueta (ítem 3.8 del CAS), 2 bloques de EPS y 1,1 m² de malla de 4,2 mm (sin fuente declarada; el ítem 3.8 del CAS lleva 1,20 m² de malla Q131), más el hormigón de la capa de compresión. CONSUMO DE VIGUETA (corrección de noviembre 2026): 2,10 m por m², del mismo ítem 3.8 del CAS que da las horas («Viguetas Pretensadas», 2,10 m por m² de losa, en las ediciones septiembre y octubre 2026). Se aplica al bloque de EPS por inferencia: el CAS no declara la separación entre viguetas, pero sus 8 bovedillas cerámicas de 25 cm de largo por m² y los 2 bloques de EPS de 1 m de esta partida dan, en los dos casos, 2 m de fila de bloques por m², es decir viguetas cada 50 cm aproximadamente. Reemplaza al consumo anterior de 2 m por m², que no declaraba fuente. Es el mismo consumo que usa la partida para luz de hasta 4 m (0,525 piezas de 4 m). INCLUYE: las viguetas, los bloques, la malla, el hormigón de la capa de compresión, los equipos menores y la mano de obra de montaje y hormigonado. NO INCLUYE APUNTALAMIENTO NI ENCOFRADO DE BORDE: el ítem 3.8 del CAS lleva madera (0,87 m² de tabla y 1,70 m de tirante por m²), pero ninguna fuente habilitada da a la vez la cantidad de madera y su criterio de reutilización (número de usos), así que no se cargan y se presupuestan aparte. Tampoco incluye armadura complementaria en barras (hierros de negativos sobre los apoyos): la malla es la única armadura de la partida. Rendimiento de mano de obra: fuente, ítem 3.8 «Hormigón armado para losa alivianada c/lad. 12,5 cm viguetas» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 2,50 h de oficial y 3,10 h de ayudante por metro cuadrado de losa. DECISIÓN DE CURACIÓN (noviembre 2026): este rendimiento reemplaza al anterior (0,6 h de oficial y 1,5 h de ayudante), que venía de un template de ítems de terceros que no se puede cotejar. El ítem del CAS es con bovedilla cerámica de 12,5 cm; se aplica al bloque de EPS de 16,5 cm sin escalar las horas: la fuente no publica la variante de 16,5 cm, y la tarea es la misma (montaje de viguetas, colocación de bloques y hormigonado de la capa de compresión). El mayor volumen de hormigón entre nervios no se tradujo en más horas porque ninguna fuente habilitada da ese ajuste. El EPS es más liviano de manipular, de modo que el valor queda del lado conservador. El CAS no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. DIFERENCIA CON LA PARTIDA «Losa alivianada de viguetas pretensadas y bloque de poliestireno para luz de hasta 4 m»: es el mismo sistema constructivo y, desde noviembre 2026, con el mismo rendimiento. Aquella es de 12 cm de altura, toma la vigueta por pieza de 4 m, el bloque de 12 cm y la malla Q131 por paño, con la dosificación de capa de compresión del CAS, y declara luz de hasta 4 m; esta usa la vigueta por metro, el bloque de EPS de 16,5 cm y malla de 4,2 mm. Para una misma losa se usa una u otra, nunca las dos.",
+      "text": "Losa alivianada de viguetas pretensadas de hormigón y bloques de poliestireno expandido (EPS) de 16,5 cm de altura, con capa de compresión de hormigón y malla de acero soldada de 4,2 mm de 15x15 cm, para luz de hasta 3,50 m. Medida por metro cuadrado de losa ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra, consumo de vigueta y madera de apuntalamiento: ítem 3.8 «Hormigón armado para losa alivianada c/lad. 12,5 cm viguetas A1» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 2,50 h de oficial y 3,10 h de ayudante por m² de losa con bovedilla cerámica de 12,5 cm, con 2,10 m de vigueta pretensada, 0,872 m² de tabla de pino y 1,70 m de tirante de pino de 3\"x3\" sin cepillar por m² (además de 8 bovedillas cerámicas, 1,20 m² de malla Q131, 22 kg de cemento portland, 0,032 m³ de arena mediana y 0,048 m³ de ripio 1/3, que esta partida no toma: lleva bloques de EPS en lugar de bovedillas cerámicas y conserva del banco la malla de 4,2 mm y el hormigón de la capa de compresión). Adaptación: de la fuente se toman las horas, la vigueta y la madera; los demás materiales se conservan del banco. El ítem del CAS es con bovedilla cerámica de 12,5 cm; las horas se aplican al bloque de EPS de 16,5 cm sin escalar: la fuente no publica la variante de 16,5 cm, y la tarea es la misma (montaje de viguetas, colocación de bloques y hormigonado de la capa de compresión). El mayor volumen de hormigón entre nervios no se tradujo en más horas porque ninguna fuente habilitada da ese ajuste. El EPS es más liviano de manipular, de modo que el valor queda del lado conservador. La madera se toma igual que en la fuente, sin escalar por la mayor altura. La madera es la del apuntalamiento y el encofrado de borde. La madera se carga como en la fuente, que no declara cuántas veces se reutiliza: si se reutiliza o se usan puntales metálicos, descontarla. La tabla se carga como tabla de madera de 1 pulgada (0,872 m², igual) y el tirante de 3\"x3\", que el banco no tiene, como tirante de pino de 2\"x4\" con el mismo largo de 1,70 m (8 pulgadas cuadradas de sección contra 9: un 11 % menos). CONSUMO DE VIGUETA: 2,10 m por m², el mismo del ítem 3.8 del CAS («Viguetas Pretensadas», 2,10 m por m² de losa). Se aplica al bloque de EPS por inferencia: el CAS no declara la separación entre viguetas, pero sus 8 bovedillas cerámicas de 25 cm de largo por m² y los 2 bloques de EPS de 1 m de esta partida dan, en los dos casos, 2 m de fila de bloques por m², es decir viguetas cada 50 cm aproximadamente. Es el mismo consumo que usa la partida para luz de hasta 4 m (0,525 piezas de 4 m). Los materiales conservados del banco no tienen fuente declarada: 2 bloques de EPS de 16,5 cm, 1,1 m² de malla de 4,2 mm (el ítem 3.8 del CAS lleva 1,20 m² de malla Q131), 0,5168 bolsa de cemento (25,8 kg), 0,053 m³ de arena mediana y 0,053 m³ de piedra partida por m² (el CAS, con bovedilla cerámica de 12,5 cm, da 22 kg de cemento, 0,032 m³ de arena mediana y 0,048 m³ de ripio 1/3); tampoco las 0,15 h de equipos y herramientas menores. CORRECCIÓN (noviembre 2026): se agrega la madera de apuntalamiento y encofrado de borde del ítem 3.8 del CAS (0,872 m² de tabla de 1 pulgada y 1,70 m de tirante de 2\"x4\" por m²), que la partida antes no cargaba y mandaba a presupuestar aparte. Las horas (2,50 h de oficial y 3,10 h de ayudante) y la vigueta (2,10 m por m²) ya coincidían con la fuente y no cambian; esas horas habían reemplazado a 0,6 h de oficial y 1,5 h de ayudante, y la vigueta a 2 m por m², valores que no tenían una fuente que se pudiera cotejar. INCLUYE: las viguetas, los bloques de EPS, la malla, el hormigón de la capa de compresión, la madera de apuntalamiento y encofrado de borde que lleva la fuente (0,872 m² de tabla y 1,70 m de tirante por m²), los equipos menores y la mano de obra de apuntalamiento, montaje y hormigonado. Si el apuntalamiento se presupuesta aparte, no se debe sumar otra vez. NO INCLUYE: puntales metálicos ni armadura complementaria en barras (hierros de negativos sobre los apoyos): la malla es la única armadura de la partida. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. DIFERENCIA CON LA PARTIDA «Losa alivianada de viguetas pretensadas y bloque de poliestireno para luz de hasta 4 m»: es el mismo sistema constructivo y tiene el mismo rendimiento. Aquella es de 12 cm de altura, toma la vigueta por pieza de 4 m, el bloque de 12 cm y la malla Q131 por paño, con la dosificación de capa de compresión del CAS, y declara luz de hasta 4 m; esta usa la vigueta por metro, el bloque de EPS de 16,5 cm y malla de 4,2 mm. Para una misma losa se usa una u otra, nunca las dos.",
       "unit": "m2",
-      "updatedAt": "2026-11-17T20:55:22.044Z",
+      "updatedAt": "2026-11-18T11:16:50.517Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -992,37 +1028,37 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.7,
+          "quantity": 2.5,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 2.15,
+          "quantity": 3.1,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.5032,
+          "quantity": 0.44,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.051,
+          "quantity": 0.032,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.051,
-          "ref": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "quantity": 0.048,
+          "ref": "mt-ar-ripio-1-a-3-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 2,
+          "quantity": 2.1,
           "ref": "mt-ar-vigueta-pretensada-de-hormigon-por-metro",
           "role": "material"
         },
@@ -1034,8 +1070,20 @@
         },
         {
           "factor": 1,
-          "quantity": 1.1,
-          "ref": "mt-ar-malla-de-acero-soldada-4-2-mm-15x15-cm",
+          "quantity": 0.083333,
+          "ref": "mt-ar-malla-electrosoldada-q131-en-pano-de-2-40-x-6-00-m",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.872,
+          "ref": "mt-ar-tabla-de-madera-de-1-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.7,
+          "ref": "mt-ar-tirante-de-2x4-pulgadas",
           "role": "material"
         },
         {
@@ -1066,7 +1114,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 76547
+          "value": 128806.62
         },
         {
           "currency": "ARS",
@@ -1079,7 +1127,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 80659.53
+          "value": 137091.47
         },
         {
           "currency": "ARS",
@@ -1092,7 +1140,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 105690.06
+          "value": 185371.51
         },
         {
           "currency": "ARS",
@@ -1105,7 +1153,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 112700.23
+          "value": 202245.47
         }
       ],
       "sources": [
@@ -1120,9 +1168,9 @@
       "tags": [
         "entrepisos"
       ],
-      "text": "Losa de viguetas y ladrillos cerámicos de 12,5 cm, luz 3,50 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Losa alivianada de viguetas pretensadas de hormigón y bovedillas cerámicas (ladrillos para losa) de 12,5 cm de altura, con capa de compresión de hormigón preparado en obra y malla de acero soldada Q131, para luz de hasta 3,50 m. Medida por metro cuadrado de losa ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 3.8 «Hormigón armado para losa alivianada c/lad. 12,5 cm viguetas A1» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 2,50 h de oficial y 3,10 h de ayudante por m², con 2,10 m de vigueta pretensada, 8 bovedillas cerámicas de 12,5x40x25 cm, 1,20 m² de malla Q131, 22 kg de cemento portland, 0,032 m³ de arena mediana, 0,048 m³ de ripio 1/3, 0,872 m² de tabla de pino y 1,70 m de tirante de pino de 3\"x3\" sin cepillar por m². La madera es la del apuntalamiento y el encofrado de borde. La madera se carga como en la fuente, que no declara cuántas veces se reutiliza: si se reutiliza o se usan puntales metálicos, descontarla. Adaptaciones: el cemento se carga en bolsas de 50 kg (22 kg / 50 kg = 0,44 bolsa); la malla se carga por paño de 2,40 x 6,00 m (1,20 m² / 14,40 m² = 0,0833 paño); la bovedilla del banco es de 12,5x25x42 cm, 2 cm más larga que la de la fuente, con el mismo consumo de 8 unidades; el tirante de 3\"x3\", que el banco no tiene, se valoriza con el tirante de pino de 2\"x4\" (8 pulgadas cuadradas de sección contra 9, un 11 % menos), con el mismo largo de 1,70 m. Los equipos y herramientas menores (0,15 h por m²) no figuran en la fuente: se conservan del banco y no tienen fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,70 h de oficial y 2,15 h de ayudante; 2 m de vigueta, 1,1 m² de malla de 4,2 mm, 0,50 bolsa de cemento, 0,051 m³ de arena y 0,051 m³ de piedra partida, sin madera), que no tenían una fuente que se pudiera cotejar. INCLUYE: las viguetas, las bovedillas, la malla Q131, el hormigón de la capa de compresión y de los nervios, la madera de apuntalamiento y encofrado de borde que lleva la fuente, los equipos menores y la mano de obra de apuntalamiento, montaje, hormigonado y desapuntalamiento. NO INCLUYE: armadura complementaria en barras (hierros de negativos sobre los apoyos), que la fuente no lista, ni puntales metálicos ni bombeo de hormigón. Si el apuntalamiento se presupuesta aparte, no se debe sumar otra vez. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-14T22:02:33.435Z",
+      "updatedAt": "2026-11-18T11:16:50.525Z",
       "verification": {
         "findings": [
           "duplicate_candidate-e645bef9603201e4"
@@ -1135,15 +1183,21 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 2.5,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.7,
+          "quantity": 3.1,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 2.1,
+          "ref": "mt-ar-vigueta-pretensada-de-hormigon-por-metro",
+          "role": "material"
         },
         {
           "factor": 1,
@@ -1165,12 +1219,6 @@
         },
         {
           "factor": 1,
-          "quantity": 2,
-          "ref": "mt-ar-vigueta-pretensada-de-hormigon-por-metro",
-          "role": "material"
-        },
-        {
-          "factor": 1,
           "quantity": 8,
           "ref": "mt-ar-bovedilla-ceramica-de-9-cm",
           "role": "material"
@@ -1179,6 +1227,18 @@
           "factor": 1,
           "quantity": 1.1,
           "ref": "mt-ar-malla-de-acero-soldada-4-2-mm-15x15-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.872,
+          "ref": "mt-ar-tabla-de-madera-de-1-pulgada",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 1.7,
+          "ref": "mt-ar-tirante-de-2x4-pulgadas",
           "role": "material"
         },
         {
@@ -1209,7 +1269,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 65754.4
+          "value": 125315.23
         },
         {
           "currency": "ARS",
@@ -1222,7 +1282,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 69079.66
+          "value": 133600.09
         },
         {
           "currency": "ARS",
@@ -1235,7 +1295,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 89251.56
+          "value": 181880.12
         },
         {
           "currency": "ARS",
@@ -1248,7 +1308,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 95005.6
+          "value": 198754.08
         }
       ],
       "sources": [
@@ -1263,9 +1323,9 @@
       "tags": [
         "entrepisos"
       ],
-      "text": "Losa de viguetas y ladrillos cerámicos de 9 cm, luz 3,50 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Losa alivianada de viguetas pretensadas de hormigón y bovedillas cerámicas de 9 cm de altura, con capa de compresión de hormigón preparado en obra y malla de acero soldada de 4,2 mm de 15x15 cm, para luz de hasta 3,50 m. Medida por metro cuadrado de losa ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra, consumo de vigueta y madera de apuntalamiento: ítem 3.8 «Hormigón armado para losa alivianada c/lad. 12,5 cm viguetas A1» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 2,50 h de oficial y 3,10 h de ayudante por m² de losa, con 2,10 m de vigueta pretensada, 0,872 m² de tabla de pino y 1,70 m de tirante de pino de 3\"x3\" sin cepillar por m². Adaptación: el ítem de la fuente es con bovedilla de 12,5 cm; se aplica a la de 9 cm sin escalar las horas, porque la fuente publica un solo espesor y la tarea es la misma (montaje de viguetas, colocación de bovedillas y hormigonado de la capa de compresión). El consumo de vigueta se toma de la fuente porque depende de la separación entre viguetas, que es la misma: la fuente y esta partida llevan 8 bovedillas por m². La madera se carga como en la fuente, que no declara cuántas veces se reutiliza: si se reutiliza o se usan puntales metálicos, descontarla. La tabla se carga como tabla de madera de 1 pulgada (0,872 m², igual) y el tirante de 3\"x3\", que el banco no tiene, como tirante de pino de 2\"x4\" con el mismo largo de 1,70 m (8 pulgadas cuadradas de sección contra 9: un 11 % menos). Los demás materiales se conservan del banco y no tienen fuente declarada: 8 bovedillas de 9 cm, 1,1 m² de malla de 4,2 mm, 0,442 bolsa de cemento, 0,045 m³ de arena mediana y 0,045 m³ de piedra partida por m²; tampoco las 0,15 h de equipos y herramientas menores. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,60 h de oficial y 1,70 h de ayudante; 2 m de vigueta por m², sin madera de apuntalamiento), que no tenían una fuente que se pudiera cotejar. INCLUYE: las viguetas, las bovedillas, la malla, el hormigón de la capa de compresión, la madera de apuntalamiento y encofrado de borde que lleva la fuente, los equipos menores y la mano de obra de apuntalamiento, montaje y hormigonado. Si el apuntalamiento se presupuesta aparte, no se debe sumar otra vez. NO INCLUYE: puntales metálicos ni armadura complementaria en barras (hierros de negativos sobre los apoyos). La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-14T22:02:33.437Z",
+      "updatedAt": "2026-11-18T11:16:50.531Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1273,5 +1333,5 @@
       }
     }
   ],
-  "version": "0.9.1"
+  "version": "0.9.2"
 }

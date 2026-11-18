@@ -54,7 +54,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 44751.38
+          "value": 44859.45
         },
         {
           "currency": "ARS",
@@ -67,7 +67,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 47155.58
+          "value": 47263.65
         },
         {
           "currency": "ARS",
@@ -80,7 +80,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 61098.17
+          "value": 61206.24
         },
         {
           "currency": "ARS",
@@ -93,7 +93,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 66082.02
+          "value": 66190.09
         }
       ],
       "sources": [
@@ -112,7 +112,7 @@
       ],
       "text": "Muro de bloque de hormigón vibrocomprimido de 19x19x39 cm, tomado con mortero de cemento, con junta de 1,5 cm, aplomado y nivelado. Sin revoques. Medido por metro cuadrado de muro, descontando vanos. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO POR ANALOGÍA, INCORPORADO EN SEPTIEMBRE DE 2026. No existe fuente argentina de descarga libre que publique esta partida con horas por categoría, así que se aplicó el rendimiento de una tarea análoga que sí está cargada en el banco con su fuente declarada: la mampostería de elevación de ladrillo hueco cerámico de 18x18x33, que ya está cargada con rendimiento del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta. Es la analogía más sólida de esta ronda: misma tarea de levantar pared con mampuesto grande asentado con mortero, y piezas de tamaño y peso comparables. El bloque de hormigón rinde 12,5 unidades por metro cuadrado contra 16,7 del ladrillo hueco, así que si algo, el rendimiento aplicado queda del lado conservador. La analogía es una decisión de curación de CERP, no un dato de fuente: queda declarada acá para que se pueda revisar y, llegado el caso, revertir.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.598Z",
+      "updatedAt": "2026-11-18T11:16:50.553Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -141,9 +141,21 @@
         },
         {
           "factor": 1,
-          "quantity": 0.03,
-          "ref": "wi-ar-mortero-de-cemento-1-6-preparado-en-obra",
-          "role": "work_item"
+          "quantity": 0.048,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.168,
+          "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.027,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
         }
       ],
       "classification": {
@@ -168,7 +180,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 42375.35
+          "value": 41303.57
         },
         {
           "currency": "ARS",
@@ -181,7 +193,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 44793.96
+          "value": 43678.97
         },
         {
           "currency": "ARS",
@@ -194,7 +206,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 58829.03
+          "value": 57436.57
         },
         {
           "currency": "ARS",
@@ -207,7 +219,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 63831.25
+          "value": 62383.7
         }
       ],
       "sources": [
@@ -224,9 +236,9 @@
         "ladrillo hueco",
         "muro"
       ],
-      "text": "Muro de ladrillo hueco cerámico no portante de 18x18x33 cm, tomado con mortero de cemento 1:6, con junta de 1,5 cm, aplomado y nivelado. Sin revoques. Medido por metro cuadrado de muro, descontando vanos. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "text": "Muro no portante de ladrillo hueco cerámico de 18x18x33 cm, asentado con mezcla de cemento, cal hidratada y arena mediana, aplomado y nivelado. Sin revoques. Medido por metro cuadrado de muro, descontando vanos. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 4.3 «Mampostería de ladrillo cerámico hueco de 18x18x32» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,76 h de oficial y 0,84 h de ayudante por m², con 17 ladrillos huecos de 18x18x30, 2,4 kg de cemento portland, 4,2 kg de cal hidratada y 0,027 m³ de arena mediana. Adaptación: cemento 2,4 kg / 50 kg por bolsa = 0,048 bolsa; cal 4,2 kg / 25 kg por bolsa = 0,168 bolsa. El ladrillo de la fuente es de 18x18x30 y el del banco de 18x18x33 (10 % más largo, misma familia); se carga la cantidad de la fuente, como en la partida hermana de 12x18x33. CORRECCIÓN (noviembre 2026): las horas (0,76 h de oficial y 0,84 h de ayudante) y los 17 ladrillos ya eran los del ítem citado y no cambian. Los 0,03 m³ de mortero de cemento 1:6 preparado en obra se reemplazan por los consumos del ítem citado (0,048 bolsa de cemento, 0,168 bolsa de cal hidratada y 0,027 m³ de arena mediana por m²): en la edición octubre 2026 el ítem asienta con mezcla de cemento y cal hidratada y no lleva ese mortero. Se actualiza además la cita de la edición julio 2025 a la de octubre 2026, cuyos valores se usaron. INCLUYE: 0,76 h de oficial y 0,84 h de ayudante por m²; 17 ladrillos huecos cerámicos de 18x18x33 cm, 0,048 bolsa de 50 kg de cemento portland compuesto CPC40, 0,168 bolsa de 25 kg de cal hidratada y 0,027 m³ de arena mediana por m². NO INCLUYE: agua de amasado, andamios, encadenados, dinteles, capa aisladora, revoques y herramientas menores. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. LÍMITE CONOCIDO: con estos rendimientos y consumos la partida queda por debajo de los valores de mercado con los que se la contrastó en noviembre de 2026. Contrastala con tu experiencia antes de usarla en una oferta.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.605Z",
+      "updatedAt": "2026-11-18T11:16:50.557Z",
       "verification": {
         "findings": [
           "duplicate_candidate-e06ce159c0cfe5df"
@@ -257,9 +269,27 @@
         },
         {
           "factor": 1,
-          "quantity": 0.014,
-          "ref": "wi-ar-mortero-de-cemento-1-6-preparado-en-obra",
-          "role": "work_item"
+          "quantity": 0.0462,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.0832,
+          "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.013,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.3,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
+          "role": "material"
         }
       ],
       "classification": {
@@ -284,7 +314,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25739.16
+          "value": 26337.9
         },
         {
           "currency": "ARS",
@@ -297,7 +327,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27424.62
+          "value": 28003.19
         },
         {
           "currency": "ARS",
@@ -310,7 +340,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36869.97
+          "value": 37319.05
         },
         {
           "currency": "ARS",
@@ -323,7 +353,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 40786.07
+          "value": 41209.45
         }
       ],
       "sources": [
@@ -341,9 +371,9 @@
         "muro",
         "tabique"
       ],
-      "text": "Muro de ladrillo hueco cerámico no portante de 8x18x33 cm, tomado con mortero de cemento 1:6, con junta de 1,5 cm, aplomado y nivelado. Sin revoques. Medido por metro cuadrado de muro, descontando vanos. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "text": "Muro no portante de ladrillo hueco cerámico de 8x18x33 cm, asentado con mezcla de cemento, cal hidratada y arena mediana, aplomado y nivelado. Sin revoques. Medido por metro cuadrado de muro, descontando vanos. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 4.1 «Mampostería de ladrillo cerámico hueco de 8x18x30» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,70 h de oficial y 0,40 h de ayudante por m², con 17 ladrillos huecos de 8x18x30, 2,31 kg de cemento portland, 2,08 kg de cal hidratada, 0,013 m³ de arena mediana y 0,3 kg de hierro promedio (la fuente no detalla en qué se usa). Adaptación: cemento 2,31 kg / 50 kg por bolsa = 0,0462 bolsa; cal 2,08 kg / 25 kg por bolsa = 0,0832 bolsa; el hierro se carga como acero de construcción en barras, por kilogramo, sin agregar desperdicio. El ladrillo de la fuente es de 8x18x30 y el del banco de 8x18x33 (10 % más largo, misma familia); se carga la cantidad de la fuente, como en la partida hermana de 12x18x33. CORRECCIÓN (noviembre 2026): las horas (0,70 h de oficial y 0,40 h de ayudante) y los 17 ladrillos ya eran los del ítem citado y no cambian. Los 0,014 m³ de mortero de cemento 1:6 preparado en obra se reemplazan por los consumos del ítem citado (0,0462 bolsa de cemento, 0,0832 bolsa de cal hidratada y 0,013 m³ de arena mediana por m²), que en la edición octubre 2026 asienta con mezcla de cemento y cal hidratada y no lleva ese mortero, y se agregan los 0,3 kg de hierro que el ítem lleva y la versión anterior no tenía. Se actualiza además la cita de la edición julio 2025 a la de octubre 2026, cuyos valores se usaron. INCLUYE: 0,70 h de oficial y 0,40 h de ayudante por m²; 17 ladrillos huecos cerámicos de 8x18x33 cm, 0,0462 bolsa de 50 kg de cemento portland compuesto CPC40, 0,0832 bolsa de 25 kg de cal hidratada, 0,013 m³ de arena mediana y 0,3 kg de acero de construcción en barras por m². NO INCLUYE: agua de amasado, andamios, encadenados, dinteles, capa aisladora, revoques y herramientas menores. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. LÍMITE CONOCIDO: con estos rendimientos y consumos la partida queda por debajo de los valores de mercado con los que se la contrastó en noviembre de 2026. Contrastala con tu experiencia antes de usarla en una oferta.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.608Z",
+      "updatedAt": "2026-11-18T11:16:50.560Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -399,7 +429,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 37473.32
+          "value": 37597.6
         },
         {
           "currency": "ARS",
@@ -412,7 +442,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 39556.05
+          "value": 39680.33
         },
         {
           "currency": "ARS",
@@ -425,7 +455,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 51631.09
+          "value": 51755.37
         },
         {
           "currency": "ARS",
@@ -438,7 +468,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 55952.63
+          "value": 56076.91
         }
       ],
       "sources": [
@@ -464,7 +494,7 @@
       ],
       "text": "Muro de ladrillo común de tierra cocida 25x12x5 cm colocado de soga (espesor de pared 12 cm), tomado con mortero de cemento 1:6, junta de 1,5 cm. Sin revoques. Unidad = metro cuadrado de muro. Rendimiento de mano de obra: fuente, ítem \"Mamposterías — Ladrillos comunes\" de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán (FACET-UNT), de descarga libre, que asigna 5,50 h de oficial y 6,00 h de ayudante por metro cúbico de muro. DECISIÓN DE CURACIÓN (noviembre 2026): se pasó a metro cuadrado multiplicando por el espesor de 0,12 m del muro de soga: 0,66 h de oficial y 0,72 h de ayudante por m². Reemplaza a la mano de obra adaptada de la citara de la BCCA (0,66 h de oficial y 0,33 h de peón), que es un muro a cara vista con su propio rendimiento y dejaba al ayudante en la mitad; FACET-UNT publica el muro de ladrillo común argentino, que es el alcance exacto de esta partida. Se descartó el ítem 4.4 del Colegio de Arquitectos de Salta porque es un muro de 0,15 m. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes y usa sólo las categorías Oficial y Ayudante, sin medio oficial. Nivel de verificación cross-check-secundario, pendiente de contraste. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Rendimientos adaptados de BCCA wi-citara-ladrillo-macizo-c-v: Sólo el mortero se toma sin cambios de la citara BCCA de ladrillo macizo (0,023 m3 de mortero M5 1:6 por m2), que es el mismo muro de medio pie con otra denominación. Desde noviembre 2026 la mano de obra NO viene de la BCCA (era 0,66 h de oficial 1a + 0,33 h de peón especial): sale de FACET-UNT, como se declara en el texto. El consumo de ladrillos se recalculó por la medida argentina: módulo (25+1,5)x(5+1,5) = 0,017225 m2 -> 58,1 u/m2, más 5 % de roturas = 61 u/m2 (la BCCA computa 70 u/m2 para su ladrillo de 24x11,5x5 con junta de 1 cm)",
       "unit": "m2",
-      "updatedAt": "2026-11-14T22:02:33.438Z",
+      "updatedAt": "2026-11-18T11:16:50.566Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-07-22T00:58:53.003Z",
@@ -475,27 +505,39 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 16,
-          "ref": "mt-ar-ladrillo-hueco-ceramico-12x18x33-cm",
-          "role": "material"
-        },
-        {
-          "factor": 1,
-          "quantity": 0.015,
-          "ref": "wi-ar-mortero-de-cemento-1-6-preparado-en-obra",
-          "role": "work_item"
-        },
-        {
-          "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.65,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.32,
+          "quantity": 0.7,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
+        },
+        {
+          "factor": 1,
+          "quantity": 17,
+          "ref": "mt-ar-ladrillo-hueco-ceramico-12x18x33-cm",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.066,
+          "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.1156,
+          "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.019,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
         }
       ],
       "classification": {
@@ -520,7 +562,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25437.44
+          "value": 31905.33
         },
         {
           "currency": "ARS",
@@ -533,7 +575,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26854.48
+          "value": 33911.16
         },
         {
           "currency": "ARS",
@@ -546,7 +588,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 34772.99
+          "value": 45512.11
         },
         {
           "currency": "ARS",
@@ -559,7 +601,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 38094.41
+          "value": 49710.37
         }
       ],
       "sources": [
@@ -583,9 +625,9 @@
         "hueco",
         "muro"
       ],
-      "text": "Muro no portante de ladrillo hueco cerámico 12x18x33 colocado de canto (espesor de pared 12 cm), tomado con mortero de cemento 1:6. Unidad = metro cuadrado de muro. Rendimientos adaptados de BCCA wi-cegado-de-hueco-con-tabicon-hueco-doble-de-7-cm: Mano de obra tomada de la partida BCCA equivalente (0,6 h oficial + 0,32 h peón por m2). Consumo de ladrillos calculado por geometría del hueco argentino (cara 18x33 cm = 0,0594 m2 -> ~16 u/m2 con juntas), no del BCCA (que usa ladrillo 24x11,5x7). Mortero de asiento 0,015 m3/m2 (valor técnico estándar para muro de 12 cm)",
+      "text": "Muro no portante de ladrillo hueco cerámico 12x18x33 colocado de canto (espesor de pared 12 cm), asentado con mezcla de cemento, cal hidratada y arena mediana, aplomado y nivelado. Sin revoques. Medida por metro cuadrado de muro ejecutado, descontando vanos. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 4.2 «Mampostería de ladrillo cerámico hueco de 12x18x31» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,65 h de oficial y 0,70 h de ayudante por m², con 17 ladrillos huecos de 12x18x30, 3,3 kg de cemento portland, 2,89 kg de cal hidratada y 0,019 m³ de arena mediana. Adaptación: cemento 3,3 kg / 50 kg por bolsa = 0,066 bolsa; cal 2,89 kg / 25 kg por bolsa = 0,1156 bolsa. El ladrillo de la fuente es de 12x18x30 y el del banco de 12x18x33 (10 % más largo, misma familia); se carga la cantidad de la fuente, como en las partidas hermanas de 8x18x33 y 18x18x33. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,60 h de oficial y 0,32 h de ayudante; 16 ladrillos y 0,015 m³ de mortero de cemento 1:6 por m²), que tenían la mano de obra adaptada de una partida de la Base de Costes de la Construcción de Andalucía (práctica española) y los materiales sin fuente declarada. INCLUYE: 0,65 h de oficial y 0,70 h de ayudante por m²; 17 ladrillos huecos cerámicos de 12x18x33 cm, 0,066 bolsa de 50 kg de cemento portland compuesto CPC40, 0,1156 bolsa de 25 kg de cal hidratada y 0,019 m³ de arena mediana por m². NO INCLUYE: andamios, encadenados, dinteles, capa aisladora, revoques y herramientas menores. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. LÍMITE CONOCIDO: con estos rendimientos y consumos la partida queda por debajo de los valores de mercado con los que se la contrastó en noviembre de 2026. Contrastala con tu experiencia antes de usarla en una oferta.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.618Z",
+      "updatedAt": "2026-11-18T11:16:50.572Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-07-21T22:07:55.939Z",
@@ -641,7 +683,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 45470.37
+          "value": 45621.66
         },
         {
           "currency": "ARS",
@@ -654,7 +696,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 47886.09
+          "value": 48037.39
         },
         {
           "currency": "ARS",
@@ -667,7 +709,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 61902.67
+          "value": 62053.97
         },
         {
           "currency": "ARS",
@@ -680,7 +722,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 66901.22
+          "value": 67052.51
         }
       ],
       "sources": [
@@ -700,7 +742,7 @@
       ],
       "text": "Muro portante de ladrillo cerámico portante de 18x19x33 cm de tubos verticales, tomado con mortero de cemento reforzado, con junta de 1,5 cm, aplomado y nivelado. Sin revoques. Medido por metro cuadrado de muro, descontando vanos. No confundir con el ladrillo hueco no portante de 18x18x33, que difiere en el alto y en la disposición de tabiques internos. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.631Z",
+      "updatedAt": "2026-11-18T11:16:50.590Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -708,5 +750,5 @@
       }
     }
   ],
-  "version": "0.9.1"
+  "version": "0.9.2"
 }

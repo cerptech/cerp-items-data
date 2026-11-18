@@ -41,8 +41,8 @@
       "d": "2026-11",
       "g": [],
       "id": "wi-ar-estructuras-de-h-a-bases-centricas-sin-encofrado",
-      "m": 6,
-      "p": 511573.09,
+      "m": 8,
+      "p": 693508.31,
       "s": "Estructuras de h A°-BASES centricas, sin encofrado",
       "u": "m3"
     },
@@ -51,7 +51,7 @@
       "g": [],
       "id": "wi-ar-estructuras-de-h-a-columnas-25x25",
       "m": 11,
-      "p": 1471398.71,
+      "p": 1061463.51,
       "s": "Estructuras de H° A°-COLUMNAS 25x25",
       "u": "m3"
     },
@@ -60,7 +60,7 @@
       "g": [],
       "id": "wi-ar-estructuras-de-h-a-columnas-30x30",
       "m": 11,
-      "p": 1275759.83,
+      "p": 1061408.51,
       "s": "Estructuras de H° A°-COLUMNAS 30x30",
       "u": "m3"
     },
@@ -69,7 +69,7 @@
       "g": [],
       "id": "wi-ar-estructuras-de-h-a-columnas-40x40",
       "m": 11,
-      "p": 1175633.33,
+      "p": 1061353.51,
       "s": "Estructuras de H° A°-COLUMNAS 40x40",
       "u": "m3"
     },
@@ -123,7 +123,7 @@
       "g": [],
       "id": "wi-ar-estructuras-de-h-a-vigas-20x50",
       "m": 11,
-      "p": 1231958.6,
+      "p": 1328286.6,
       "s": "Estructuras de H° A°-VIGAS 20x50",
       "u": "m3"
     },
@@ -132,7 +132,7 @@
       "g": [],
       "id": "wi-ar-estructuras-de-h-a-vigas-30x90",
       "m": 11,
-      "p": 1110158.86,
+      "p": 1328176.6,
       "s": "Estructuras de H° A°-VIGAS 30x90",
       "u": "m3"
     },
@@ -140,8 +140,8 @@
       "d": "2026-11",
       "g": [],
       "id": "wi-ar-estructuras-de-h-a-vigas-de-fundacion",
-      "m": 9,
-      "p": 1041449.08,
+      "m": 10,
+      "p": 1023391.88,
       "s": "Estructuras de H° A°-VIGAS de fundación",
       "u": "m3"
     },
@@ -168,7 +168,7 @@
       "g": [],
       "id": "wi-ar-estructuras-h-a-graderia-escalones-20x40-espesor-de-losa-12",
       "m": 11,
-      "p": 989552.81,
+      "p": 1346534.19,
       "s": "Estructuras H° A°-GRADERIA-ESCALONES 20x40, espesor de losa 12 cm",
       "u": "m3"
     },
@@ -186,7 +186,7 @@
       "g": [],
       "id": "wi-ar-estructuras-h-a-losa-maciza-espesor-10-cm",
       "m": 11,
-      "p": 825236.66,
+      "p": 900881.53,
       "s": "Estructuras H° A°-LOSA maciza, espesor 10 cm",
       "u": "m3"
     },
@@ -255,5 +255,5 @@
     }
   ],
   "title": "Estructura de hormigón armado",
-  "version": "0.9.1"
+  "version": "0.9.2"
 }

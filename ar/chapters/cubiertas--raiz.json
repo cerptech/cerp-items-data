@@ -695,9 +695,9 @@
       "tags": [
         "cubiertas"
       ],
-      "text": "Cubierta de chapas galvanizadas trapezoidales sobre estructura de madera cepillada: tirantes y clavaderas de pino, machimbre de pino visto, fieltro asfáltico y plancha de poliestireno expandido como aislación, y chapa fijada con clavos. Medida por metro cuadrado de cubierta ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: fuente, ítem \"Cubiertas — Chapas galvanizada sobre tejuelas y estructura de madera\" de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán (FACET-UNT), de descarga libre, que asigna 1,60 h de oficial y 2,20 h de ayudante por m² para la estructura de madera, la capa de tejuelas y la chapa. DECISIÓN DE CURACIÓN (noviembre 2026): reemplaza al rendimiento anterior (1,30 h de oficial y 1,40 h de ayudante), que venía de un template de ítems de terceros que no se puede cotejar. Se eligió este ítem porque es el de alcance más cercano: estructura de madera, capa de terminación interior y chapa; en esta partida el machimbre con fieltro y aislación ocupa el lugar de la tejuela. Se descartó el ítem 17.1 del Colegio de Arquitectos de Salta porque es chapa sobre estructura metálica con lana de vidrio. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes y usa sólo las categorías Oficial y Ayudante, sin medio oficial. Nivel de verificación cross-check-secundario, pendiente de contraste. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Cubierta de chapas galvanizadas trapezoidales sobre estructura de madera cepillada: tirantes y clavaderas de pino, machimbre de pino visto, fieltro asfáltico y plancha de poliestireno expandido como aislación, y chapa fijada con clavos. Medida por metro cuadrado de cubierta ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítem \"Chapas galvanizada sobre tejuelas y estruc. Madera\" del capítulo Cubiertas de los \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), que asigna 1,60 h de oficial y 2,20 h de ayudante por m² para la estructura de madera, la capa de tejuelas y la chapa. Se eligió este ítem porque es el de alcance más cercano: estructura de madera, capa de terminación interior y chapa; en esta partida el machimbre con fieltro y aislación ocupa el lugar de la tejuela. Se descartó el ítem 17.1 del Análisis de Precios del Colegio de Arquitectos de Salta porque es chapa sobre estructura metálica con lana de vidrio. Por esa diferencia de especificación se toman de la fuente solo las horas y se conservan los materiales de la partida. La chapa coincide con la fuente: 1,25 m² de chapa por m² de cubierta, que con la chapa del banco de 1,10 x 3,00 m (3,30 m²) da 1,25 / 3,30 = 0,3788 chapas por m² (la fuente indica chapa n.º 24 y el banco cotiza cincalum calibre 25). Las demás cantidades (madera, machimbre, fieltro, aislación y clavos) son la composición propia de esta partida y no tienen fuente declarada; tampoco la tiene la línea de equipos y herramientas menores. CORRECCIÓN (noviembre 2026): no cambia ningún valor. Las horas, 1,60 de oficial y 2,20 de ayudante, ya eran las del ítem citado (se verificaron en la página 12 del documento) y habían reemplazado al rendimiento anterior (1,30 h de oficial y 1,40 h de ayudante), que no tenía una fuente que se pudiera cotejar. Se completa el texto para decir qué cantidades vienen de la fuente y cuáles no. INCLUYE: 1,60 h de oficial y 2,20 h de ayudante por m²; 2,20 m de tirante de pino de 2x5\", 0,1013 tirantes de pino de 3x6\" en pieza de 3,66 m, 1,15 m² de machimbre de pino de 3/4 x 5\", 1,20 m² de fieltro asfáltico, 2,00 m de tabla de pino de 1x2\", 2,00 m de listón de 1/2 x 1\", 0,15 kg de clavos de punta París de 2\", 0,06 kg de clavos cabeza de plomo, 0,02 kg de clavos de cobre, 1,10 m² de plancha de poliestireno expandido de 2,5 cm, 0,3788 chapas trapezoidales cincalum de 3 m y 0,30 h de equipos y herramientas menores. NO INCLUYE: los insumos de la fuente que esta partida reemplaza por su propia especificación (16 tejuelas de 20 x 35 cm, 4,50 pie² de tirantes de 2\"x4\", 1,63 pie² de alfajías de 1\"x2\", 1,82 pie² de tirantillos de 1 1/2\"x2\", 15,00 kg de clavos para techo, valor que el documento imprime así, y 0,20 kg de clavos por m²); canaletas, babetas, cumbreras y demás zinguería. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico) y usa solo las categorías Oficial y Ayudante, sin medio oficial. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-14T22:02:33.410Z",
+      "updatedAt": "2026-11-18T11:10:48.099Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -708,13 +708,13 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1.85,
+          "quantity": 1.8,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 2.3,
+          "quantity": 2.25,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
@@ -806,7 +806,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 160627.36
+          "value": 159304.4
         },
         {
           "currency": "ARS",
@@ -819,7 +819,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 166766.54
+          "value": 165294.67
         },
         {
           "currency": "ARS",
@@ -832,7 +832,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 202547.64
+          "value": 200217.93
         },
         {
           "currency": "ARS",
@@ -845,7 +845,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 215045.07
+          "value": 212399.27
         }
       ],
       "sources": [
@@ -860,9 +860,9 @@
       "tags": [
         "cubiertas"
       ],
-      "text": "Cubierta de tejas coloniales-españolas, estructura de madera sin cepillar. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Cubierta de tejas coloniales (españolas) cerámicas sobre estructura de madera sin cepillar: tirantes de pino, machimbre, fieltro asfáltico, aislación de lana de vidrio, alfajías y listones de clavadera, con las tejas fijadas con clavos. Medida por metro cuadrado de cubierta ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Cubiertas — Tejas coloniales sobre tejuela y estruc. de madera\", que asigna 1,80 h de oficial y 2,25 h de ayudante por m² para la estructura de madera, la capa de tejuelas y las tejas coloniales. Adaptación: se tomaron solo las horas, porque en esta partida el machimbre con fieltro y lana de vidrio ocupa el lugar de la tejuela de la fuente y la teja se computa por m² de cubierta; los materiales son los que ya tenía la partida y no tienen fuente declarada. La fuente computa 32 tejas, 16 tejuelas de 20 x 35 cm, 4,35 pie² de tirantes de 3x6\", 1,76 pie² de alfajías de 1x2\", 0,12 kg de clavos, 0,9 kg de cemento, 2,3 kg de cal y 0,03 m³ de arena mediana por m². Los equipos y herramientas menores (0,15 h por m²) quedan como estaban y no tienen fuente declarada. CORRECCIÓN (noviembre 2026): estas horas reemplazan a las anteriores (1,85 h de oficial y 2,30 h de ayudante), que no tenían una fuente que se pudiera cotejar. INCLUYE: 1,80 h de oficial y 2,25 h de ayudante por m²; 2,2 m de tirante de pino de 2x5\"; 1,1 m² de machimbre de pino de 3/4 x 5\"; 1,2 m² de fieltro asfáltico; 2 m de listón de 1/2 x 1\"; 3 m de alfajía de pino de 1x3\"; 4,5 m de listón caballete de 1 x 3 1/2\"; 0,058334 rollo de lana de vidrio de 50 mm; 1,066656 m² de teja colonial cerámica; 0,25 kg de clavos de punta París de 2\"; 0,04 kg de clavos de cobre y 0,15 h de herramientas menores. NO INCLUYE: tejuelas y mortero de asiento (esta partida usa machimbre y fijación clavada), cumbreras y piezas especiales, babetas, canaletas ni andamios. La fuente no declara la procedencia metodológica de sus rendimientos y usa solo las categorías de oficial y ayudante: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.261Z",
+      "updatedAt": "2026-11-18T11:16:50.291Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -870,5 +870,5 @@
       }
     }
   ],
-  "version": "0.9.1"
+  "version": "0.9.2"
 }

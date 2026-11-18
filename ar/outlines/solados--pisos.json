@@ -89,8 +89,8 @@
       "d": "2026-11",
       "g": [],
       "id": "wi-ar-piso-de-cemento-alisado",
-      "m": 4,
-      "p": 20813.88,
+      "m": 5,
+      "p": 16708.23,
       "s": "Piso de cemento alisado",
       "u": "m2"
     },
@@ -106,7 +106,7 @@
       "g": [],
       "id": "wi-ar-piso-de-ceramico-esmaltado-51x51-cm",
       "m": 5,
-      "p": 34649.93,
+      "p": 35254.56,
       "s": "Piso de cerámico esmaltado 51x51 cm",
       "u": "m2"
     },
@@ -114,8 +114,8 @@
       "d": "2026-11",
       "g": [],
       "id": "wi-ar-piso-de-mosaico-granitico-30x30-cm",
-      "m": 5,
-      "p": 50395.59,
+      "m": 6,
+      "p": 48154.69,
       "s": "Piso de mosaico granítico 30x30 cm",
       "u": "m2"
     },
@@ -139,5 +139,5 @@
     }
   ],
   "title": "Solados > Pisos",
-  "version": "0.9.1"
+  "version": "0.9.2"
 }

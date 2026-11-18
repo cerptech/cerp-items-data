@@ -34,9 +34,11 @@
       "u": "m"
     },
     {
+      "d": "2026-11",
       "g": [],
       "id": "wi-ar-zocalo-ceramico-de-10-cm",
-      "m": 4,
+      "m": 5,
+      "p": 5679.82,
       "s": "Zócalo cerámico de 10 cm",
       "u": "m"
     },
@@ -60,5 +62,5 @@
     }
   ],
   "title": "Solados > Zócalos",
-  "version": "0.9.1"
+  "version": "0.9.2"
 }

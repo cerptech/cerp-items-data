@@ -267,13 +267,13 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.25,
-          "ref": "mo-ar-oficial-especializado-cct-76-75",
+          "quantity": 1.6,
+          "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.25,
+          "quantity": 1.3,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
@@ -329,7 +329,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23750
+          "value": 55217.77
         },
         {
           "currency": "ARS",
@@ -342,7 +342,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24559.16
+          "value": 59563.56
         },
         {
           "currency": "ARS",
@@ -355,7 +355,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28580.97
+          "value": 84320.59
         },
         {
           "currency": "ARS",
@@ -368,7 +368,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 30968.97
+          "value": 93900.54
         }
       ],
       "sources": [
@@ -383,9 +383,9 @@
       "tags": [
         "cielorrasos"
       ],
-      "text": "Cielorraso machimbre suspendido bajo losa. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Cielorraso de machimbre cepillado de 3/4 x 4 pulgadas suspendido bajo losa, clavado sobre una estructura de listones de saligna de 2x3 pulgadas y listones cepillados de 1 x 1 1/2 pulgadas. Medida por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Cielorrasos – Madera machimbrada con aislante de telgopor\" (página 9), que asigna 1,60 h de oficial y 1,30 h de ayudante por m². Se tomó solo la mano de obra: la fuente describe machimbre de 1x6 pulgadas (10,50 pie² por m²) sobre tirantes de 2x3 pulgadas (7,21 pie²), con aislante de telgopor de 4,5 cm (1,00 m²) y 8 tornillos con arandela, y esta partida tiene otra especificación de materiales (machimbre de 3/4 x 4 pulgadas, listones y clavos, sin aislante), así que se conservan los materiales que ya tenía. Las cantidades de esos materiales (machimbre, listones y clavos) y la línea de equipos y herramientas menores son las que ya tenía la partida y no tienen fuente declarada. Las horas de la fuente incluyen la colocación del telgopor, que esta partida no lleva. Es el mismo criterio que el de la partida «Cielorraso de machimbre de pino de 1/2 pulgada». CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,25 h de oficial especializado y 0,25 h de ayudante), que no tenían una fuente que se pudiera cotejar. La fuente usa la categoría Oficial, por eso la mano de obra pasa de oficial especializado a oficial. INCLUYE: 1,60 h de oficial y 1,30 h de ayudante; 1,10 m² de machimbre cepillado de 3/4 x 4 pulgadas; 0,50 m de listón de saligna de 2x3 pulgadas; 0,50 m de listón cepillado de 1 x 1 1/2 pulgadas; 0,10 kg de clavos de punta París de 2 pulgadas; 0,01 h de equipos y herramientas menores. NO INCLUYE: aislante térmico (la fuente lleva 1,00 m² de telgopor de 4,5 cm y 8 tornillos con arandela por m²), ni barnizado, lustre o pintura de la madera. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.021Z",
+      "updatedAt": "2026-11-18T11:16:50.169Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2208,5 +2208,5 @@
       }
     }
   ],
-  "version": "0.9.1"
+  "version": "0.9.2"
 }

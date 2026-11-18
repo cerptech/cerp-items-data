@@ -915,13 +915,13 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.9,
+          "quantity": 0.3,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.9,
+          "quantity": 0.45,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
@@ -1001,7 +1001,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 46780.34
+          "value": 32729.05
         },
         {
           "currency": "ARS",
@@ -1014,7 +1014,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 49460.83
+          "value": 33832.31
         },
         {
           "currency": "ARS",
@@ -1027,7 +1027,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 64902
+          "value": 40326.34
         },
         {
           "currency": "ARS",
@@ -1040,7 +1040,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 70591.56
+          "value": 42490.27
         }
       ],
       "sources": [
@@ -1055,9 +1055,9 @@
       "tags": [
         "construcción en seco"
       ],
-      "text": "Pared simple divisoria de locales humedos, placa resistente a la humedad 1,22 m x 2,44 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Pared simple divisoria de locales húmedos de construcción en seco, con estructura de soleras de 70 mm y montantes de 69 mm de chapa galvanizada y una placa de roca de yeso de 12,5 mm por cara, atornillada, con juntas tomadas con cinta y masilla. Medida por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítem 4.3 «Tabique simple Drywall» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema en seco, edición octubre 2026, publicación de descarga libre), que asigna 0,30 h de oficial y 0,45 h de ayudante por m². Se tomó solo la mano de obra: la fuente describe el mismo tabique (estructura de 70 mm y placa de 12,5 mm en las dos caras) pero con otra especificación de materiales: placa estándar en lugar de placa resistente a la humedad, lana de vidrio de 50 mm (1 m² por m²) y cantonera metálica (2 m por m²), y computa montantes y soleras por unidad sin declarar el largo de la barra. Por eso se conservan los materiales que ya tenía la partida: sus cantidades y la línea de equipos y herramientas menores no tienen fuente declarada. Las horas de la fuente incluyen la colocación de la lana de vidrio y de la cantonera, que esta partida no lleva. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,90 h de oficial y 0,90 h de ayudante; materiales sin cambio), que no tenían una fuente que se pudiera cotejar. INCLUYE: 0,30 h de oficial; 0,45 h de ayudante; 1 m de perfil solera de 70 mm para tabique; 2,499996 m de perfil montante de 69 mm para tabique; 0,08 u de tornillo T1 para perfilería de construcción en seco en caja de 100; 26 u de tornillo autoperforante T2 para placa de roca de yeso; 0,022001 u de cinta de papel microperforada para juntas en rollo de 150 m; 0,100001 u de masilla para juntas de placa de roca de yeso en balde de 18 kg; 3,50 u de fijación de tornillo y taco; 0,711805 u de placa de roca de yeso estándar de 12,5 mm de 1,20 x 2,40 m; 0,01 h de equipos y herramientas menores (por hora de uso). La placa se cotiza como placa estándar de 12,5 mm porque el banco todavía no tiene precio para la placa resistente a la humedad. NO INCLUYE: aislación de lana de vidrio (la fuente lleva 1 m² de lana de vidrio de 50 mm por m²), cantoneras (la fuente lleva 2 m por m²), tratamiento hidrófugo adicional, ni pintura. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.644Z",
+      "updatedAt": "2026-11-18T11:16:50.606Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1221,13 +1221,13 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.5,
+          "quantity": 0.21,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.5,
+          "quantity": 0.21,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
@@ -1295,7 +1295,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27369.66
+          "value": 19696.53
         },
         {
           "currency": "ARS",
@@ -1308,7 +1308,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28858.82
+          "value": 20321.98
         },
         {
           "currency": "ARS",
@@ -1321,7 +1321,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 37437.25
+          "value": 23924.92
         },
         {
           "currency": "ARS",
@@ -1334,7 +1334,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 40598.11
+          "value": 25252.48
         }
       ],
       "sources": [
@@ -1343,15 +1343,21 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "wi-revestido-placas-yeso-laminado-13mm-perf-ac-gal-fij-mec",
+          "edition": "2024-01",
+          "matchedBy": "manual",
+          "source": "bcca"
         }
       ],
       "summary": "Revestimiento de pared existente-sobre perfil omega, placa común 1,22 m x 2,44 m-esp: 12,5mm",
       "tags": [
         "construcción en seco"
       ],
-      "text": "Revestimiento de pared existente-sobre perfil omega, placa común 1,22 m x 2,44 m-esp: 12,5mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Revestimiento de pared existente con una placa de roca de yeso común de 12,5 mm atornillada sobre perfiles omega de chapa galvanizada fijados al muro con tornillo y taco, con juntas tomadas con cinta y masilla. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: adaptado de la partida «Revestido placas yeso laminado 13 mm perf. ac. gal. fij. mec.» (código 10LWW90013) de la Base de Costes de la Construcción de Andalucía (BCCA, edición 2024-01, datos abiertos de la Junta de Andalucía); es práctica española, a contrastar. Se usa porque ni el Colegio de Arquitectos de Salta ni la FACET tienen revestimiento de muro con placa de yeso sobre perfilería (el Colegio de Arquitectos de Salta solo trae tabique completo de placa, con montantes y aislación). La BCCA asigna 0,21 h por m² de una cuadrilla formada por un oficial de primera de albañilería y un peón especial (0,21 h de cada uno), que se cargan como oficial y ayudante, para una placa de 13 mm sobre perfilería de acero galvanizado con fijación mecánica, con replanteo, aplomado y repaso de juntas. Se tomó solo la mano de obra: la fuente da 1,05 m² de placa (que coincide con la cantidad de la partida: 1,05 m² / 2,88 m² por placa de 1,20 x 2,40 m = 0,3646 placa) y agrupa perfiles, tornillos, cinta y masilla en un «material complementario» sin detalle, así que se conservan los accesorios que ya tenía la partida: sus cantidades y la línea de equipos y herramientas menores no tienen fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,50 h de oficial y 0,50 h de ayudante), que no tenían una fuente que se pudiera cotejar. INCLUYE: 0,21 h de oficial y 0,21 h de ayudante; 0,3646 placa de roca de yeso estándar de 12,5 mm de 1,20 x 2,40 m; 3,00 m de perfil omega; 8 fijaciones de tornillo y taco; 15 tornillos autoperforantes T2; 0,011 rollo de cinta de papel microperforada; 0,05 balde de masilla para juntas; 0,01 h de equipos y herramientas menores. NO INCLUYE: aislación térmica o acústica, cantoneras, enduido total ni pintura. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Rendimientos adaptados de BCCA wi-revestido-placas-yeso-laminado-13mm-perf-ac-gal-fij-mec: horas y consumos adaptados como se detalla en la descripción; es práctica española, a contrastar con experiencia local",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.775Z",
+      "updatedAt": "2026-11-18T11:16:50.694Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1643,5 +1649,5 @@
       }
     }
   ],
-  "version": "0.9.1"
+  "version": "0.9.2"
 }

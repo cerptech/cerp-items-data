@@ -2,15 +2,15 @@
   "key": "instalacion-electrica--tableros",
   "rows": [
     {
-      "d": "2026-08",
+      "d": "2026-11",
       "g": [],
       "id": "wi-ar-tablero-seccional-de-unidad-funcional",
-      "m": 3,
-      "p": 82444.63,
+      "m": 5,
+      "p": 104843.29,
       "s": "Tablero seccional de unidad funcional",
       "u": "u"
     }
   ],
   "title": "Instalación eléctrica > Tableros",
-  "version": "0.9.1"
+  "version": "0.9.2"
 }

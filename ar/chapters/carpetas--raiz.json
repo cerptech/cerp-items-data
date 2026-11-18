@@ -9,13 +9,13 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.45,
+          "quantity": 0.6,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.23,
+          "quantity": 0.3,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
@@ -65,7 +65,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 11724.52
+          "value": 14720.51
         },
         {
           "currency": "ARS",
@@ -78,7 +78,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 12757.12
+          "value": 16087.97
         },
         {
           "currency": "ARS",
@@ -91,7 +91,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 18502.14
+          "value": 23688.15
         },
         {
           "currency": "ARS",
@@ -104,7 +104,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 20954.72
+          "value": 26946.36
         }
       ],
       "sources": [
@@ -119,9 +119,9 @@
       "tags": [
         "carpetas"
       ],
-      "text": "Carpeta bajo piso cerámico o similar, espesor 1,8 cm, de MORTERO DE CAL REFORZADO (cemento, cal hidráulica y arena mediana). Medida por m2. Precio computado desde la descomposición. RENDIMIENTO DE FUENTE: mano de obra (oficial 0,45 h, ayudante 0,23 h) y consumos (cemento 1,78 kg = 0,0356 bolsa de 50 kg, cal hidráulica 4 kg y arena mediana 0,024 m3 por m2) tomados de un template de ítems de terceros que no se pudo cotejar en esta revisión; los valores quedan como se cargaron en 2026-10. REVISIÓN DE CURACIÓN CERP (2026-11): se revisó si la descomposición tiene un error de cantidades. No lo tiene: es una dosificación de mortero de cal reforzado, no de mortero de cemento. Lo indican tres cosas. (1) Las proporciones: 1,78 kg de cemento, 4 kg de cal y 0,024 m3 de arena equivalen aproximadamente a 1/4 : 1 : 4 en volumen (cemento : cal : arena), una dosificación tradicional de carpeta (cálculo de CERP a partir de la descomposición, no dato de la fuente). (2) El volumen: los 0,024 m3 de arena son coherentes con 1,8 cm de espesor más pérdidas. (3) La partida hermana \"Carpeta de cal reforzada, espesor 30mm\", del mismo template, lleva la misma familia de dosificación (2,7 kg de cemento, 4,3 kg de cal hidráulica y 0,033 m3 de arena). Las carpetas cementicias de las fuentes abiertas son otra especificación y no se usaron para corregir esta: el Colegio de Arquitectos de Salta (CAS 3, ítem 6.1, carpeta niveladora de 3 cm) da 21 kg de cemento y 0,03 m3 de arena, y la FACET-UNT (carpeta cementicia de 2 cm) da 8,20 kg de cemento y 0,03 m3 de arena. Si la obra pide carpeta cementicia, por ejemplo para pegar con adhesivo cementicio, conviene usar una de esas partidas y no esta. INCLUYE: mortero de cal reforzado de 1,8 cm y su mano de obra. NO INCLUYE: contrapiso, aislación hidrófuga ni el piso. EN EL BANCO, las carpetas de mortero de cemento son \"Carpeta de nivelación de 3 cm\" y \"Carpeta hidrófuga de 2 cm\"; cuestan más que esta porque llevan más cemento y más mano de obra. Si se compara esta partida con una referencia de mercado de «carpeta bajo piso», conviene confirmar primero si la referencia es de cal o de cemento.",
+      "text": "Carpeta bajo piso cerámico o similar, de 1,8 cm de espesor, de mortero de cal reforzado (cemento, cal hidráulica y arena mediana). Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítem 6.1 «Carpeta niveladora e=3cm» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,60 h de oficial y 0,30 h de ayudante por m² para una carpeta de 3 cm. Adaptación: la fuente es una carpeta de mortero de cemento (21 kg de cemento y 0,03 m³ de arena mediana por m²) y esta partida es de mortero de cal reforzado, otra especificación de material. Se toman solo las horas de la fuente, que es la misma tarea; se aplican sin escalar por espesor porque la fuente da un único espesor. Los materiales quedan como estaban en el banco (0,0356 bolsa de cemento, es decir 1,78 kg; 4 kg de cal hidráulica y 0,024 m³ de arena mediana por m²) y no tienen fuente declarada; tampoco la tiene la línea de equipos y herramientas menores (0,01 h por m²). DECISIÓN DE CURACIÓN (2026-11), que se conserva: la dosificación no es un error de cantidades sino un mortero de cal reforzado. Lo indican sus proporciones, aproximadamente 1/4 : 1 : 4 en volumen (cemento : cal : arena), una dosificación tradicional de carpeta (cálculo de CERP a partir de la descomposición, no dato de la fuente); el volumen de arena, coherente con 1,8 cm de espesor más pérdidas; y la partida hermana «Carpeta de cal reforzada, espesor 30mm», de la misma familia de dosificación. Las carpetas cementicias de las fuentes abiertas (CAS 3, ítem 6.1, carpeta de 3 cm con 21 kg de cemento y 0,03 m³ de arena; FACET, carpeta cementicia de 2 cm con 8,20 kg de cemento y 0,03 m³ de arena) son otra especificación y no se usaron para corregir los materiales. Si la obra pide carpeta cementicia, por ejemplo para pegar con adhesivo cementicio, conviene usar las partidas del banco «Carpeta de nivelación de 3 cm» o «Carpeta hidrófuga de 2 cm». CORRECCIÓN (noviembre 2026): estas horas reemplazan a las anteriores (0,45 h de oficial y 0,23 h de ayudante por m²), que no tenían una fuente que se pudiera cotejar. Los materiales no cambian. INCLUYE: mortero de cal reforzado para 1,8 cm de espesor, mano de obra de oficial y ayudante y equipos y herramientas menores. NO INCLUYE: contrapiso, aislación hidrófuga ni el piso que se coloque encima. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-16T13:51:39.406Z",
+      "updatedAt": "2026-11-18T11:16:50.074Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -132,7 +132,7 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.5,
+          "quantity": 0.6,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
@@ -144,7 +144,7 @@
         },
         {
           "factor": 1,
-          "quantity": 0.312,
+          "quantity": 0.42,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
@@ -188,7 +188,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 17579.31
+          "value": 20498.82
         },
         {
           "currency": "ARS",
@@ -201,7 +201,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 18788.79
+          "value": 21866.29
         },
         {
           "currency": "ARS",
@@ -214,7 +214,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25571.26
+          "value": 29466.46
         },
         {
           "currency": "ARS",
@@ -227,7 +227,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28375.57
+          "value": 32724.68
         }
       ],
       "sources": [
@@ -242,9 +242,9 @@
       "tags": [
         "carpetas"
       ],
-      "text": "Carpeta cemento alisado ref.con malla de fibra sintetica, espesor 30mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Carpeta de mortero de cemento de 30 mm de espesor, reforzada con malla de fibra sintética embebida en el mortero y terminada alisada. Medida por m2 de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 6.1 «Carpeta niveladora e=3cm» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,60 h de oficial y 0,30 h de ayudante por m², con 21 kg de cemento portland y 0,03 m³ de arena mediana lavada. Adaptación: el cemento de la fuente en kg se pasa a bolsa de 50 kg (21 kg / 50 = 0,42 bolsa). La fuente es una carpeta niveladora de 3 cm y no trae la malla de fibra: la malla (1,10 m² por m²) y las herramientas menores (0,01 h por m²) quedan como estaban en el banco, sin fuente declarada. La fuente tampoco separa el alisado de la superficie: se toma que sus horas cubren la terminación. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,50 h de oficial y 0,30 h de ayudante; 0,312 bolsa de cemento y 0,03 m³ de arena mediana por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: mortero de cemento y arena mediana para 3 cm de espesor, malla de fibra sintética, alisado de la superficie, mano de obra y herramientas menores. NO INCLUYE: contrapiso, aislación hidrófuga, endurecedor o colorante, juntas de dilatación ni el piso que se coloque encima. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:14.911Z",
+      "updatedAt": "2026-11-18T11:16:50.080Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -255,25 +255,25 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.55,
+          "quantity": 0.6,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.25,
+          "quantity": 0.3,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.27,
+          "quantity": 0.35,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.028,
+          "quantity": 0.025,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
@@ -305,7 +305,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 15740.9
+          "value": 18049.32
         },
         {
           "currency": "ARS",
@@ -318,7 +318,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16959.45
+          "value": 19416.79
         },
         {
           "currency": "ARS",
@@ -331,7 +331,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23701.78
+          "value": 27016.96
         },
         {
           "currency": "ARS",
@@ -344,7 +344,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26643.91
+          "value": 30275.18
         }
       ],
       "sources": [
@@ -359,9 +359,9 @@
       "tags": [
         "carpetas"
       ],
-      "text": "Carpeta de asiento para pisos plásticos delgados, espesor 25mm. para pegar con adhesivos sint. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Carpeta de asiento de mortero de cemento de 25 mm de espesor, con superficie lisa y nivelada, para recibir pisos plásticos delgados pegados con adhesivos sintéticos. Medida por m2 de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 6.1 «Carpeta niveladora e=3cm» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,60 h de oficial y 0,30 h de ayudante por m², con 21 kg de cemento portland y 0,03 m³ de arena mediana lavada para 3 cm de espesor. Adaptación: la fuente da un solo espesor, así que las horas se aplican sin escalar y los materiales se escalan por geometría a 2,5 cm: cemento 21 kg × 2,5 / 3 = 17,5 kg = 0,35 bolsa de 50 kg; arena 0,03 m³ × 2,5 / 3 = 0,025 m³. La fuente no detalla la terminación lisa que pide un piso plástico pegado: se toma que sus horas la cubren. Las herramientas menores (0,01 h por m²) quedan como estaban en el banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,55 h de oficial y 0,25 h de ayudante; 0,27 bolsa de cemento y 0,028 m³ de arena mediana por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: mortero de cemento y arena mediana para 2,5 cm de espesor, nivelación y terminación lisa, mano de obra y herramientas menores. NO INCLUYE: contrapiso, aislación hidrófuga, el adhesivo sintético ni el piso plástico. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:14.914Z",
+      "updatedAt": "2026-11-18T11:16:50.092Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -372,7 +372,7 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.5,
+          "quantity": 0.6,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
@@ -428,7 +428,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 13977.08
+          "value": 15406.89
         },
         {
           "currency": "ARS",
@@ -441,7 +441,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 15186.55
+          "value": 16774.35
         },
         {
           "currency": "ARS",
@@ -454,7 +454,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 21969.02
+          "value": 24374.53
         },
         {
           "currency": "ARS",
@@ -467,7 +467,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24773.34
+          "value": 27632.75
         }
       ],
       "sources": [
@@ -482,9 +482,9 @@
       "tags": [
         "carpetas"
       ],
-      "text": "Carpeta de cal reforzada, espesor 30mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Carpeta de mortero de cal reforzado (cemento, cal hidráulica y arena mediana) de 30 mm de espesor. Medida por m2 de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítem 6.1 «Carpeta niveladora e=3cm» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,60 h de oficial y 0,30 h de ayudante por m² para una carpeta de 3 cm. Adaptación: la fuente es una carpeta de mortero de cemento (21 kg de cemento y 0,03 m³ de arena por m²) y esta partida es de mortero de cal reforzado, otra especificación de material. Se toman solo las horas de la fuente, que es la misma tarea y el mismo espesor; los materiales quedan como estaban en el banco (0,054 bolsa de cemento, 4,3 kg de cal hidráulica, 0,033 m³ de arena mediana y 0,01 h de herramientas menores por m²) y no tienen fuente declarada. CORRECCIÓN (noviembre 2026): estas horas reemplazan a las anteriores (0,50 h de oficial y 0,30 h de ayudante por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: mortero de cal reforzado para 3 cm de espesor, mano de obra y herramientas menores. NO INCLUYE: contrapiso, aislación hidrófuga ni el piso que se coloque encima. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:14.920Z",
+      "updatedAt": "2026-11-18T11:16:50.101Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -513,7 +513,7 @@
         },
         {
           "factor": 1,
-          "quantity": 0.028,
+          "quantity": 0.03125,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
@@ -545,7 +545,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 17477.66
+          "value": 17605.51
         },
         {
           "currency": "ARS",
@@ -558,7 +558,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 18845.13
+          "value": 18972.97
         },
         {
           "currency": "ARS",
@@ -571,7 +571,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26445.3
+          "value": 26573.15
         },
         {
           "currency": "ARS",
@@ -584,7 +584,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29703.52
+          "value": 29831.37
         }
       ],
       "sources": [
@@ -599,9 +599,9 @@
       "tags": [
         "carpetas"
       ],
-      "text": "Carpeta de cemento alisado o rodillado, espesor 25mm.terminado con cemento puro. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Carpeta de mortero de cemento de 25 mm de espesor, terminada alisada o rodillada con cemento puro. Medida por m2 de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Pisos — Cemento alisado (e = 2 cm.)\", que asigna 0,60 h de oficial y 0,30 h de ayudante por m², con 12 kg de cemento, 0,025 m³ de arena mediana y 0,05 kg de colorante en polvo para 2 cm de espesor. Adaptación: la fuente da un solo espesor, así que las horas se aplican sin escalar y los materiales se escalan por geometría a 2,5 cm: cemento 12 kg × 2,5 / 2 = 15 kg = 0,30 bolsa de 50 kg; arena mediana 0,025 m³ × 2,5 / 2 = 0,03125 m³. La fuente no separa el mortero de base del cemento puro de la terminación: se toma que su consumo de cemento lo incluye. Las herramientas menores (0,01 h por m²) quedan como estaban en el banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,60 h de oficial y 0,30 h de ayudante; 0,30 bolsa de cemento y 0,028 m³ de arena mediana por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: mortero de cemento y arena mediana para 2,5 cm de espesor, terminación alisada o rodillada con cemento puro, mano de obra y herramientas menores. NO INCLUYE: contrapiso, aislación hidrófuga, juntas de dilatación ni el colorante que lleva la fuente (0,0625 kg por m² escalado a 2,5 cm), porque esta partida es sin pigmentar; la variante pigmentada es otra partida. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:14.923Z",
+      "updatedAt": "2026-11-18T11:16:50.118Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -846,25 +846,25 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.7,
+          "quantity": 0.6,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.4,
+          "quantity": 0.3,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.262,
+          "quantity": 0.35,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.033,
+          "quantity": 0.025,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
@@ -896,7 +896,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 19796.1
+          "value": 18049.32
         },
         {
           "currency": "ARS",
@@ -909,7 +909,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 21461.4
+          "value": 19416.79
         },
         {
           "currency": "ARS",
@@ -922,7 +922,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 30777.26
+          "value": 27016.96
         },
         {
           "currency": "ARS",
@@ -935,7 +935,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 34667.65
+          "value": 30275.18
         }
       ],
       "sources": [
@@ -950,9 +950,9 @@
       "tags": [
         "carpetas"
       ],
-      "text": "Carpeta de concreto, espesor 25mm. fratazada. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Carpeta de mortero de cemento y arena de 25 mm de espesor, con terminación fratasada. Medida por m2 de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 6.1 «Carpeta niveladora e=3cm» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,60 h de oficial y 0,30 h de ayudante por m², con 21 kg de cemento portland y 0,03 m³ de arena mediana lavada para 3 cm de espesor. Adaptación: la fuente da un solo espesor, así que las horas se aplican sin escalar y los materiales se escalan por geometría a 2,5 cm: cemento 21 kg × 2,5 / 3 = 17,5 kg = 0,35 bolsa de 50 kg; arena 0,03 m³ × 2,5 / 3 = 0,025 m³. Las herramientas menores (0,01 h por m²) quedan como estaban en el banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,70 h de oficial y 0,40 h de ayudante; 0,262 bolsa de cemento y 0,033 m³ de arena mediana por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: mortero de cemento y arena mediana para 2,5 cm de espesor, nivelación y fratasado, mano de obra y herramientas menores. NO INCLUYE: contrapiso, aislación hidrófuga, juntas de dilatación ni el piso que se coloque encima. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:14.932Z",
+      "updatedAt": "2026-11-18T11:16:50.126Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -963,13 +963,13 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.4,
+          "quantity": 0.6,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.2,
+          "quantity": 0.3,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
@@ -1013,7 +1013,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 11044.39
+          "value": 15120.11
         },
         {
           "currency": "ARS",
@@ -1026,7 +1026,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 11956.04
+          "value": 16487.58
         },
         {
           "currency": "ARS",
@@ -1039,7 +1039,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 17022.82
+          "value": 24087.75
         },
         {
           "currency": "ARS",
@@ -1052,7 +1052,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 19194.97
+          "value": 27345.97
         }
       ],
       "sources": [
@@ -1067,9 +1067,9 @@
       "tags": [
         "carpetas"
       ],
-      "text": "Carpeta para clavar pisos de madera con cemento albañilería, espesor 25mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Carpeta de mortero de cemento de albañilería y arena de 25 mm de espesor, para clavar pisos de madera. Medida por m2 de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítem 6.1 «Carpeta niveladora e=3cm» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,60 h de oficial y 0,30 h de ayudante por m² para una carpeta de 3 cm. Adaptación: la fuente es una carpeta de mortero de cemento portland (21 kg de cemento y 0,03 m³ de arena por m² en 3 cm) y esta partida usa cemento de albañilería, otra especificación de material. Se toman solo las horas de la fuente, sin escalar por el espesor de 2,5 cm porque la fuente da uno solo; los materiales quedan como estaban en el banco (7,4 kg de cemento de albañilería, 0,026 m³ de arena mediana y 0,01 h de herramientas menores por m²) y no tienen fuente declarada. CORRECCIÓN (noviembre 2026): estas horas reemplazan a las anteriores (0,40 h de oficial y 0,20 h de ayudante por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: mortero de cemento de albañilería para 2,5 cm de espesor, mano de obra y herramientas menores. NO INCLUYE: contrapiso, aislación hidrófuga, tacos, listones o clavaderas de fijación, ni el piso de madera. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:14.943Z",
+      "updatedAt": "2026-11-18T11:16:50.153Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1080,13 +1080,13 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.4,
+          "quantity": 0.6,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.2,
+          "quantity": 0.3,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
@@ -1136,7 +1136,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 11313.23
+          "value": 15388.95
         },
         {
           "currency": "ARS",
@@ -1149,7 +1149,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 12224.87
+          "value": 16756.41
         },
         {
           "currency": "ARS",
@@ -1162,7 +1162,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 17291.66
+          "value": 24356.59
         },
         {
           "currency": "ARS",
@@ -1175,7 +1175,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 19463.8
+          "value": 27614.8
         }
       ],
       "sources": [
@@ -1190,9 +1190,9 @@
       "tags": [
         "carpetas"
       ],
-      "text": "Carpeta para clavar pisos de madera, espesor 25mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Carpeta de mortero de cal reforzado (cemento, cal hidráulica y arena mediana) de 25 mm de espesor, para clavar pisos de madera. Medida por m2 de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítem 6.1 «Carpeta niveladora e=3cm» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,60 h de oficial y 0,30 h de ayudante por m² para una carpeta de 3 cm. Adaptación: la fuente es una carpeta de mortero de cemento (21 kg de cemento y 0,03 m³ de arena por m² en 3 cm) y esta partida es de mortero de cal reforzado, otra especificación de material. Se toman solo las horas de la fuente, sin escalar por el espesor de 2,5 cm porque la fuente da uno solo; los materiales quedan como estaban en el banco (0,066 bolsa de cemento, 4,05 kg de cal hidráulica, 0,03 m³ de arena mediana y 0,01 h de herramientas menores por m²) y no tienen fuente declarada. CORRECCIÓN (noviembre 2026): estas horas reemplazan a las anteriores (0,40 h de oficial y 0,20 h de ayudante por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: mortero de cal reforzado para 2,5 cm de espesor, mano de obra y herramientas menores. NO INCLUYE: contrapiso, aislación hidrófuga, tacos, listones o clavaderas de fijación, ni el piso de madera. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:14.946Z",
+      "updatedAt": "2026-11-18T11:16:50.158Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1200,5 +1200,5 @@
       }
     }
   ],
-  "version": "0.9.1"
+  "version": "0.9.2"
 }

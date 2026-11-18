@@ -16,6 +16,180 @@ Formato: [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/).
 
 ## [Unreleased]
 
+## [0.9.2] - 2026-11-18
+
+Revisión de la base argentina contra sus fuentes: 124 partidas pasan a tener
+sus horas de mano de obra tomadas de una fuente declarada, y 81 de ellas
+también sus consumos. Los ids no cambian y no se relevó ningún precio.
+
+Los porcentajes son de la zona A salvo que se diga otra cosa. En las zonas C
+y C austral la hora de mano de obra vale más: en general, allí suben más las
+partidas que ganan horas y bajan más las que las pierden, salvo en algunas
+donde también cambian los materiales, como la columna de 30x30 (−15% en C
+austral) o el revoque fino a la cal predosificado, que en C austral sube un
+punto menos.
+
+### Corregido
+
+- **Argentina — 124 partidas rehechas sobre su fuente.** En 81, las horas y
+  los consumos quedan tomados de la fuente; en 43, solo las horas. Tomar el
+  valor de la fuente no siempre lo cambia: en 42 de las 81 las horas quedan
+  iguales, y en 10 de las 124 no cambia nada de la descomposición, solo el
+  texto. En las 43, los materiales quedan como estaban, salvo en cuatro
+  losas de viguetas, que suman la madera de apuntalamiento de la fuente (y
+  la de 9 cm, además, vigueta). Las fuentes son el análisis de precios del
+  Colegio de Arquitectos de Salta (edición octubre 2026, 72 partidas), los
+  «Coeficientes de Consumo» de la FACET-UNT (36) y, donde ninguna fuente
+  argentina cubre el trabajo, la BCCA (16). En zona A, 69 suben, 42 bajan y
+  10 no cambian de precio; las otras tres no tenían precio (el zócalo
+  cerámico, que ahora lo tiene, y dos contrapisos con arcilla expandida, que
+  siguen sin él). Fuera de las 124, otras tres mamposterías suben menos de
+  0,5% por arrastre: usan el mortero de cemento 1:6, que pasa de arena fina
+  a arena gruesa.
+- **Argentina — hormigón armado.** «Columna de hormigón armado», «Viga
+  resistente de hormigón armado», «Losa maciza de hormigón armado»,
+  «Encadenado horizontal de hormigón armado» y «Viga de fundación de
+  hormigón armado» tenían cargadas como horas las cantidades de madera del
+  ítem que citaban y no llevaban el hierro ni el encofrado de su
+  descripción. Quedan iguales a su fuente: su precio se multiplica por entre
+  3,4 y 5,2 en zona A y por hasta 6,4 en C austral. «Base de hormigón
+  armado» suma el hierro que le faltaba (+51% en zona A, +33% en C austral).
+  Las estructuras por sección (columnas de 25x25, 30x30 y 40x40; vigas de
+  20x50 y 30x90) toman las horas y los consumos del mismo análisis: las
+  columnas de 25x25 y de 30x30 bajan 28% y 17%, y la viga de 30x90 sube 20%
+  en zona A y 35% en C austral.
+- **Argentina — hormigón preparado en obra.** Esas once partidas y otras
+  cinco (las bases céntricas sin encofrado, +36%; la gradería, +36% en zona
+  A y +54% en C austral; las vigas de fundación del capítulo de estructuras;
+  la losa maciza de 10 cm y el contrapiso armado con malla Q92) dejan el
+  hormigón elaborado de planta y pasan a hormigón preparado en obra, con su
+  cemento, su arena y su ripio: las horas de la fuente son de hormigón hecho
+  en obra.
+- **Argentina — losas de viguetas con ladrillo cerámico** de 9 y de 12,5 cm
+  y de viguetas dobles: horas del análisis (2,50 h de oficial y 3,10 h de
+  ayudante por m²) y madera de apuntalamiento, que no tenían. Suben entre
+  54% y 91% en zona A y entre 62% y 109% en C austral. Las de 9 y de 12,5 cm
+  pasan además de 2 a 2,10 m de vigueta por m², y la de 12,5 cm toma el
+  hormigón y la malla de la capa de compresión de la fuente. Las losas con
+  bloque de EPS suman la misma madera (+14% en zona A, +8% en C austral).
+- **Argentina — mampostería de ladrillo hueco de 12x18x33**: horas y
+  consumos del análisis (0,65 h de oficial y 0,70 h de ayudante, 17
+  ladrillos por m²). Sube 25% en zona A y 31% en C. Las de 8x18x33 y
+  18x18x33 abren su mortero en cemento, cal y arena, como la fuente, y la de
+  8x18x33 suma 0,3 kg de hierro por m².
+- **Argentina — cielorraso de machimbre suspendido bajo losa**: tenía 0,25 h
+  de oficial especializado y 0,25 h de ayudante por m², sin fuente; pasa a
+  1,60 h de oficial y 1,30 h de ayudante, las de la FACET-UNT. Sube 132% en
+  zona A y 203% en C austral.
+- **Argentina — revoques, carpetas, contrapisos, pisos, revestimientos,
+  cubiertas y estructura metálica**: horas y, donde la fuente los cubre,
+  consumos del ítem que cada partida cita, con la cuenta de cada adaptación
+  en el texto. Las que más suben en zona A: el revoque fino a la cal
+  predosificado de 3 mm (+88%), el zócalo de piedra natural de 10 cm de
+  altura (+46%), las dos carpetas para clavar pisos de madera (+36% y +37%),
+  el revestimiento de piedra natural de 1,2 cm (+36%) y el revoque fino
+  exterior a la cal de 3 mm (+35%).
+- **Argentina — partidas que bajan más de 15%.** En zona A: el revoque
+  grueso exterior reforzado (−35%), la pared simple divisoria de locales
+  húmedos con placa resistente a la humedad (−30%), el revestimiento de
+  pared existente sobre perfil omega (−28%) y el piso de cemento alisado
+  (−20%), además de las columnas de 25x25 y de 30x30. En las zonas C y C
+  austral las dos de placa de yeso bajan entre 36% y 40%, y otras seis,
+  entre 15% y 22%: las estructuras de hierro semipesada y pesada, los
+  zócalos en piso de mármol o granito, el revoque grueso de vermiculita, el
+  contrapiso de hormigón de cascotes de 20 cm y la mampostería de ladrillos
+  comunes en elevación de 0,15 a 0,30 m.
+- **Argentina — seis partidas que no tenían mano de obra ahora la tienen**:
+  canaleta de chapa galvanizada, cartel de obra, pileta de patio, tablero
+  seccional, columna de caño estructural y correa de perfil C. Tenían un
+  precio único para todo el país y pasan a tener precio por zona: suben
+  entre 11% y 67% en zona A, y la canaleta, 133% en C austral.
+- **Argentina — zócalo cerámico de 10 cm**: pasa a tener precio. Se computa
+  con el cerámico de piso, como lo trae la fuente.
+- Cada partida corregida declara la fuente, el ítem, las adaptaciones, qué
+  incluye y qué no.
+
+### Pendiente conocido
+
+- Las correcciones las propusieron, verificaron y cotejaron a ciegas agentes
+  de corridas distintas. Ninguna persona abrió las fuentes.
+- Ocho partidas suben más del 100% en alguna zona (las cinco de hormigón
+  armado, el cielorraso de machimbre suspendido y, en las zonas C y C
+  austral, la canaleta de chapa galvanizada y la losa de viguetas de 9 cm):
+  falta la firma de quien cura el país.
+- Quince partidas corregidas quedan fuera del rango de las referencias de
+  mercado consultadas; se revisan en la 0.10.0. Once quedan muy por debajo y
+  lo avisan en su texto («LÍMITE CONOCIDO»): las tres mamposterías de
+  ladrillo hueco, armadura por kilo, cañería de polipropileno de 25 mm,
+  pileta de patio, zócalo cerámico, esmalte sobre herrería, contrapiso
+  alivianado, excavación de bases y replanteo. En unas, la fuente da menos
+  horas o menos material que esas referencias; en otras, el rubro de la
+  referencia tiene otro alcance; en otras pesa el precio de agosto de sus
+  materiales. Las otras cuatro quedan más cerca: el revoque fino a la cal
+  predosificado y la pintura al látex para exteriores, por debajo; el
+  contrapiso de hormigón de cascote sobre losa de 8 cm y el cielorraso de
+  machimbre suspendido, por encima. De estas cuatro, solo la pintura lo
+  avisa en su texto.
+- 29 correcciones verificadas contra su fuente no se aplicaron, porque
+  alejan la partida de las referencias de mercado o bajan su costo sin
+  respaldo. Cinco de esas partidas citan una fuente y sus números no
+  coinciden con los de esa fuente: «Revoque interior completo a la cal,
+  grueso y fino» y «Cielorraso aplicado bajo losa», que cargan unas cinco
+  veces la cal de su fuente, «Cielorraso suspendido de placa de roca de
+  yeso», «Cubierta de teja colonial cerámica sobre losa» y «Piso flotante
+  laminado AC4 de 8 mm». Quedan para revisión de una persona con experiencia
+  de obra.
+- 180 de las 333 partidas argentinas siguen sin una fuente declarada para
+  sus horas y consumos, sin contar dos que no necesitan rendimiento (el
+  sereno por mes y la bomba de achique por día). En 111, ninguna de las tres
+  fuentes cubre el trabajo; en 45, la corrección propuesta no alcanzó la
+  certeza pedida o la verificación la rechazó (37 se apoyaban solo en la
+  BCCA); las otras 24 están entre las correcciones retenidas. Entre ellas
+  están los cielorrasos desmontables, las bocas eléctricas, dos de las tres
+  plateas y buena parte de las instalaciones.
+- En 39 de las 43 partidas que tomaron solo las horas los materiales no
+  cambian: los que no tenían fuente declarada siguen sin tenerla. Las otras
+  cuatro son las losas de viguetas que suman la madera de apuntalamiento; la
+  de viguetas dobles conserva sus 3,20 m de vigueta por m², sin fuente. En
+  varias de las 43, además, las horas salen de una tarea parecida y no de la
+  misma: las losas con bloque de EPS toman las de la losa con bovedilla
+  cerámica; los contrapisos de cascote, las del contrapiso de hormigón
+  simple o armado; el revoque de vermiculita, las del revoque rústico. Fuera
+  de las 43, la carpeta alisada con malla de fibra toma las horas y los
+  consumos de la carpeta niveladora. Cada texto lo dice.
+- Hormigón de planta: ninguna fuente permitida da las horas de estas
+  estructuras con hormigón elaborado, así que base, columna, encadenado,
+  losa maciza y vigas quedan solo con hormigón preparado en obra. Otras
+  partidas del catálogo siguen con hormigón elaborado (las de hormigón a la
+  vista, las bases con encofrado, las plateas y los tabiques, entre otras).
+- Las columnas de 25x25, 30x30 y 40x40 quedan con la misma descomposición
+  por m³, salvo la línea de equipos menores, y las vigas de 20x50 y 30x90
+  también: la fuente no distingue secciones. El encofrado real por m³ cambia
+  con la sección.
+- Las fuentes de rendimientos no declaran su metodología y la de la
+  FACET-UNT no tiene fecha. La BCCA es práctica española.
+- Precios: 84 materiales argentinos siguen con precio de agosto de 2026.
+  Once se relevaron de nuevo el 18-11-2026 y esperan la decisión de quien
+  cura el país antes de entrar (entre ellos, el ladrillo hueco de 12x18x33 y
+  el portante, que dan más bajo que en agosto). La arcilla expandida sigue
+  sin precio y deja cuatro contrapisos sin costo.
+- Quedan pares de partidas parecidas con fuentes distintas (por ejemplo
+  «Columna de hormigón armado», con encofrado, y «Hormigón armado para
+  columnas elaborado en obra», sin encofrado). Los textos dicen la
+  diferencia.
+- Dos partidas conservan en sus fuentes una referencia a la BCCA que ya no
+  usan: la mampostería de ladrillo hueco de 12x18x33 y la cañería de agua de
+  polipropileno de 25 mm.
+- Siguen vigentes los pendientes de la 0.9.1 sobre pinturas y porcelanato y
+  sobre las losas con bloque de EPS (la malla sigue sin fuente declarada y
+  su consumo de vigueta es una inferencia), y las salvedades de la 0.9.0
+  sobre los precios de la ventana con DVH y de la puerta de cedro. También
+  el cotejo por una persona de las fichas de comercio de la 0.9.0 (esa
+  versión lo anunció para la siguiente y sigue sin hacerse) y de las fichas
+  y el análisis de precios de la 0.9.1: vence en la 0.10.0. Las partidas
+  argentinas de ejecución sin mano de obra bajan de 18 a 12; ese pendiente
+  vence el 14-01-2027.
+
 ## [0.9.1] - 2026-11-17
 
 Corrección de consumos de material en cinco partidas argentinas, cada uno con

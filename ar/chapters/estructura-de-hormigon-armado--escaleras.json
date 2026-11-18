@@ -34,25 +34,19 @@
         {
           "factor": 1,
           "quantity": 0.75,
-          "ref": "mt-ar-piedra-partida-6-a-20-mm-a-granel",
+          "ref": "mt-ar-ripio-1-a-3-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 10.97,
-          "ref": "mt-ar-hierro-nervurado-adn-420-diametro-8-mm-en-barra-de-12-m",
+          "quantity": 50,
+          "ref": "mt-ar-acero-de-construccion-en-barras",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 0.65,
           "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
-          "role": "material"
-        },
-        {
-          "factor": 1,
-          "quantity": 20,
-          "ref": "mt-ar-separador-plastico-de-armadura",
           "role": "material"
         },
         {
@@ -90,7 +84,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 898060.18
+          "value": 918446.82
         },
         {
           "currency": "ARS",
@@ -103,7 +97,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 968322.92
+          "value": 988709.56
         },
         {
           "currency": "ARS",
@@ -116,7 +110,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1370304.99
+          "value": 1390691.62
         },
         {
           "currency": "ARS",
@@ -129,7 +123,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1523000.05
+          "value": 1543386.68
         }
       ],
       "sources": [
@@ -147,9 +141,9 @@
         "pastón",
         "en obra"
       ],
-      "text": "Hormigón armado preparado EN OBRA con hormigonera, incluida la armadura elaborada y colocada. NO incluye el encofrado, que va por su propia partida y se mide en metros cuadrados: sumarlo acá lo mediría dos veces. Medido por metro cúbico de hormigón colocado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Dosificación, cuantía de armadura y rendimiento transcriptos de \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán: 326 kg de cemento, 0,5 m3 de arena gruesa y 0,75 m3 de ripio por metro cúbico, con 50 kg de hierro y 25 horas de oficial más 22 de ayudante (ítem \"Hº Aº para Escaleras\"). CORRECCIÓN (noviembre 2026): se habían cargado los valores del ítem \"Hº Aº para Platea\" (60 kg de hierro, 9 h de oficial y 13 de ayudante); la versión anterior había cargado las horas de un renglón vecino del PDF, por una lectura del documento con las columnas desalineadas; se verificó contra la extracción del PDF en modo tabla, donde cada renglón cierra con su propia lista de insumos. Valen las mismas advertencias que en el resto de los ítems tomados de esa fuente: no tiene fecha ni encabezado institucional, no declara metodología y usa sólo Oficial y Ayudante. El hierro se resolvió con barras de 8 mm como diámetro representativo, dato declarado. El alquiler de hormigonera y de vibrador de inmersión es elaboración propia de CERP, no viene de la fuente. CONTROL DE COHERENCIA QUE CONVIENE MIRAR: con este rendimiento la mano de obra es la mayor parte del precio de la partida, proporción alta para hormigón estructural (en parte se explica porque las horas de la fuente incluyen el encofrado; ver la advertencia de alcance). Puede ser real en obra chica, donde el metro cúbico es caro en horas porque los volúmenes son mínimos, pero conviene contrastarlo contra una obra propia antes de usar estas partidas para presupuestar volumen grande. Tratá el precio como un techo. ADVERTENCIA DE ALCANCE (noviembre 2026): el ítem de la fuente incluye madera de encofrado (tablas y tirantes), de modo que sus horas probablemente incluyen el armado y desarme del encofrado. Si además se computa la partida de encofrado, esa mano de obra puede quedar contada dos veces. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Hormigón armado preparado EN OBRA con hormigonera, incluida la armadura elaborada y colocada. NO incluye el encofrado, que va por su propia partida y se mide en metros cuadrados: sumarlo acá lo mediría dos veces. Medido por metro cúbico de hormigón colocado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Dosificación, cuantía de armadura y rendimiento transcriptos de \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem «Hº Aº para Escaleras»: 326 kg de cemento, 0,5 m³ de arena gruesa, 0,75 m³ de ripio, 50 kg de hierro y 0,65 kg de alambre por metro cúbico, con 25 horas de oficial y 22 de ayudante; el ítem lista además 32 pie² de tablas, 18 pie² de tirantes y 4 kg de clavos para el encofrado, que esta partida excluye porque el encofrado va por su propia partida. Equivalencias: el cemento se pasa a bolsas de 50 kg (326 / 50 = 6,52 bolsas); el ripio se carga con el ripio 1 a 3 a granel del banco, porque la fuente no aclara la granulometría; el hierro se carga como acero de construcción en barras, por kilogramo, sin desperdicio que la fuente no da; el alambre, con el alambre recocido n.º 16 para atado de armaduras. PRIMERA CORRECCIÓN (noviembre 2026, horas): se habían cargado los valores del ítem \"Hº Aº para Platea\" (60 kg de hierro, 9 h de oficial y 13 de ayudante); la versión anterior había cargado las horas de un renglón vecino del PDF, por una lectura del documento con las columnas desalineadas; se verificó contra la extracción del PDF en modo tabla, donde cada renglón cierra con su propia lista de insumos. CORRECCIÓN (noviembre 2026): las horas (25 h de oficial y 22 h de ayudante) y la dosificación de cemento y arena ya coincidían con el ítem y no cambian; el resto de los materiales no coincidía. El hierro se cargaba como 10,97 barras de 8 mm (10,97 × 4,74 kg = 52 kg, un 4 % más que los 50 kg de la fuente); el ripio, como piedra partida de 6 a 20 mm; el alambre, con 1 kg (la fuente da 0,65 kg), y se agregaban 20 separadores plásticos que la fuente no lista. Ahora: 50 kg de acero de construcción en barras, 0,75 m³ de ripio 1 a 3, 0,65 kg de alambre y sin separadores. Valen las mismas advertencias que en el resto de los ítems tomados de esa fuente: no tiene fecha ni encabezado institucional, no declara metodología y usa solo oficial y ayudante. El alquiler de hormigonera y de vibrador de inmersión es elaboración propia de CERP, sin fuente declarada; queda como estaba. CONTROL DE COHERENCIA QUE CONVIENE MIRAR: con este rendimiento la mano de obra es la mayor parte del precio de la partida, proporción alta para hormigón estructural (en parte puede explicarse porque las horas de la fuente probablemente incluyen el encofrado; ver la advertencia de alcance). Puede ser real en obra chica, donde el metro cúbico es caro en horas porque los volúmenes son mínimos, pero conviene contrastarlo contra una obra propia antes de usar estas partidas para presupuestar volumen grande. Tratá el precio como un techo. ADVERTENCIA DE ALCANCE (noviembre 2026): el ítem de la fuente incluye madera de encofrado (tablas y tirantes), de modo que sus horas probablemente incluyen el armado y desarme del encofrado. Si además se computa la partida de encofrado, esa mano de obra puede quedar contada dos veces. INCLUYE: mano de obra de oficial y ayudante; cemento, arena gruesa y ripio para el hormigón preparado en obra; acero en barras y alambre de atado; alquiler de hormigonera y de vibrador, sin fuente declarada. NO INCLUYE: encofrado (la madera y los clavos que lista la fuente: 32 pie² de tablas, unos 2,97 m², 18 pie² de tirantes, unos 8,23 m de tirante de 2x4 pulgadas (18 × 0,4572), y 4 kg de clavos por m³), que se computa con su propia partida; separadores, que la fuente no lista. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m3",
-      "updatedAt": "2026-11-14T22:32:35.967Z",
+      "updatedAt": "2026-11-18T11:16:50.440Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -157,5 +151,5 @@
       }
     }
   ],
-  "version": "0.9.1"
+  "version": "0.9.2"
 }

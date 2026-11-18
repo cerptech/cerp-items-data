@@ -69,7 +69,7 @@
       "g": [],
       "id": "wi-ar-estructura-semi-pesada-de-hierro-menores-a-ipn-n-24",
       "m": 4,
-      "p": 3883.12,
+      "p": 3302.68,
       "s": "Estructura semi pesada de hierro, menores a ipn N° 24",
       "u": "kg"
     },
@@ -105,7 +105,7 @@
       "g": [],
       "id": "wi-ar-estructuras-pesadas-de-hierro-menores-a-ipn-n-24",
       "m": 4,
-      "p": 3750.82,
+      "p": 3302.68,
       "s": "Estructuras pesadas de hierro, menores a ipn N° 24",
       "u": "kg"
     },
@@ -138,5 +138,5 @@
     }
   ],
   "title": "Estructura metálica",
-  "version": "0.9.1"
+  "version": "0.9.2"
 }

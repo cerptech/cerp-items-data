@@ -21,25 +21,25 @@
         },
         {
           "factor": 1,
-          "quantity": 0.8,
-          "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
-          "role": "material"
-        },
-        {
-          "factor": 1,
-          "quantity": 0.25,
+          "quantity": 0.097,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.03,
-          "ref": "mt-ar-arena-fina-a-granel",
+          "quantity": 0.124,
+          "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.012,
+          "quantity": 0.03,
+          "ref": "mt-ar-arena-mediana-a-granel",
+          "role": "material"
+        },
+        {
+          "factor": 1,
+          "quantity": 0.013,
           "ref": "mt-ar-hidrofugo-inorganico-en-bidon-de-10-l",
           "role": "material"
         }
@@ -66,7 +66,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 41262.66
+          "value": 35414.04
         },
         {
           "currency": "ARS",
@@ -79,7 +79,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 44830.24
+          "value": 38981.62
         },
         {
           "currency": "ARS",
@@ -92,7 +92,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 64688.52
+          "value": 58839.9
         },
         {
           "currency": "ARS",
@@ -105,7 +105,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 73150.15
+          "value": 67301.53
         }
       ],
       "sources": [
@@ -123,9 +123,9 @@
         "impermeable",
         "jaharro"
       ],
-      "text": "Revoque exterior completo sobre paramento de mampostería, compuesto por azotado hidrófugo, revoque grueso (jaharro) y revoque fino a la cal. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "text": "Revoque exterior completo sobre paramento de mampostería, compuesto por azotado hidrófugo, revoque grueso (jaharro) y revoque fino a la cal. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 5.1 «Revoque completo terminado a la cal para exteriores» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 1,55 h de oficial y 0,80 h de ayudante por m², con 4,85 kg de cemento portland, 3,1 kg de cal hidratada, 0,03 m³ de arena mediana lavada y 0,13 l de hidrófugo. Conversiones a las presentaciones del banco: cemento 4,85 kg / 50 = 0,097 bolsa; cal hidratada 3,1 kg / 25 = 0,124 bolsa; hidrófugo 0,13 l / 10 l = 0,013 bidón. La fuente no declara los dosajes de sus mezclas; se toman sus consumos. CORRECCIÓN (noviembre 2026): la cita pasa de la edición julio 2025 a la de octubre 2026, y los consumos se igualan al ítem citado. Las horas ya coincidían (1,55 h de oficial y 0,80 h de ayudante). Los materiales no eran los del ítem: la partida tenía 0,8 bolsa de cal hidratada (20 kg por m², contra 3,1 kg del ítem), 0,25 bolsa de cemento (12,5 kg, contra 4,85 kg), 0,03 m³ de arena fina (el ítem lleva arena mediana) y 0,012 bidón de hidrófugo (0,12 l, contra 0,13 l). Quedan 0,124 bolsa de cal hidratada, 0,097 bolsa de cemento, 0,03 m³ de arena mediana y 0,013 bidón de hidrófugo. INCLUYE: la mano de obra del azotado hidrófugo, el revoque grueso y el revoque fino; cemento, cal hidratada, arena mediana e hidrófugo. NO INCLUYE: agua de amasado, equipos y herramientas menores, andamios ni medios de elevación, ni buñas, guardacantos o cantoneras. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-14T22:02:33.465Z",
+      "updatedAt": "2026-11-18T11:16:50.711Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -133,5 +133,5 @@
       }
     }
   ],
-  "version": "0.9.1"
+  "version": "0.9.2"
 }

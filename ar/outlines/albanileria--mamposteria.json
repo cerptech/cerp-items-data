@@ -6,7 +6,7 @@
       "g": [],
       "id": "wi-ar-mamposteria-de-bloque-de-hormigon-19x19x39",
       "m": 4,
-      "p": 44751.38,
+      "p": 44859.45,
       "s": "Mampostería de bloque de hormigón 19x19x39",
       "u": "m2"
     },
@@ -14,8 +14,8 @@
       "d": "2026-11",
       "g": [],
       "id": "wi-ar-mamposteria-de-elevacion-de-ladrillo-hueco-ceramico-18x18x33",
-      "m": 4,
-      "p": 42375.35,
+      "m": 6,
+      "p": 41303.57,
       "s": "Mampostería de elevación de ladrillo hueco cerámico 18x18x33",
       "u": "m2"
     },
@@ -23,8 +23,8 @@
       "d": "2026-11",
       "g": [],
       "id": "wi-ar-mamposteria-de-elevacion-de-ladrillo-hueco-ceramico-8x18x33",
-      "m": 4,
-      "p": 25739.16,
+      "m": 7,
+      "p": 26337.9,
       "s": "Mampostería de elevación de ladrillo hueco cerámico 8x18x33",
       "u": "m2"
     },
@@ -33,7 +33,7 @@
       "g": [],
       "id": "wi-ar-mamposteria-de-ladrillo-comun-de-soga-espesor-12-cm",
       "m": 4,
-      "p": 37473.32,
+      "p": 37597.6,
       "s": "Mampostería de ladrillo común de soga, espesor 12 cm",
       "u": "m2"
     },
@@ -41,8 +41,8 @@
       "d": "2026-11",
       "g": [],
       "id": "wi-ar-mamposteria-de-ladrillo-hueco-12x18x33-espesor-12-cm",
-      "m": 4,
-      "p": 25437.44,
+      "m": 6,
+      "p": 31905.33,
       "s": "Mampostería de ladrillo hueco 12x18x33, espesor 12 cm",
       "u": "m2"
     },
@@ -51,11 +51,11 @@
       "g": [],
       "id": "wi-ar-mamposteria-portante-de-ladrillo-ceramico-portante-18x19x33",
       "m": 4,
-      "p": 45470.37,
+      "p": 45621.66,
       "s": "Mampostería portante de ladrillo cerámico portante 18x19x33",
       "u": "m2"
     }
   ],
   "title": "Albañilería > Mampostería",
-  "version": "0.9.1"
+  "version": "0.9.2"
 }
