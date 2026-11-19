@@ -80,43 +80,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.35,
+          "quantity": 0.55142907,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.94530698,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.3294,
+          "quantity": 0.3500786,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 7.33,
+          "quantity": 7.79015215,
           "ref": "mt-ar-cal-hidraulica-en-polvo-por-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.05,
+          "quantity": 0.05313883,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.1,
+          "quantity": 0.10627766,
           "ref": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.05,
+          "quantity": 0.07877558,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -142,7 +142,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23993.56
+          "value": 31644.12
         },
         {
           "currency": "ARS",
@@ -155,7 +155,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25385.58
+          "value": 33837.25
         },
         {
           "currency": "ARS",
@@ -168,7 +168,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33635.43
+          "value": 46834.99
         },
         {
           "currency": "ARS",
@@ -181,7 +181,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36293.72
+          "value": 51023.16
         }
       ],
       "sources": [
@@ -190,15 +190,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "08.09",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Contrapiso de cascotes de 12 cm con cal, 16,5 kg de cemento por m2",
       "tags": [
         "contrapisos"
       ],
-      "text": "Contrapiso de cascotes de 12 cm con cal, 16,5 kg de cemento por m2. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Contrapiso de cascotes de 12 cm con cal, 16,5 kg de cemento por m2. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 08.09: el costo de esta partida es el del rubro «Hormigón de cascotes e=12cm» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 19.466,88 de ejecución y $ 12.177,23 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,576 y las de materiales por 1,063. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.113Z",
+      "updatedAt": "2026-11-19T12:37:28.281Z",
       "verification": {
         "findings": [
           "duplicate_candidate-07698a20a11083c5",
@@ -213,43 +220,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.35,
+          "quantity": 0.55142907,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.94530698,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.1128,
+          "quantity": 0.1485677,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 9.84,
+          "quantity": 12.96016068,
           "ref": "mt-ar-cal-hidraulica-en-polvo-por-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.05,
+          "quantity": 0.06585448,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.1,
+          "quantity": 0.13170895,
           "ref": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.05,
+          "quantity": 0.07877558,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -275,7 +282,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 21663.01
+          "value": 31644.11
         },
         {
           "currency": "ARS",
@@ -288,7 +295,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23055.02
+          "value": 33837.25
         },
         {
           "currency": "ARS",
@@ -301,7 +308,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 31304.88
+          "value": 46834.99
         },
         {
           "currency": "ARS",
@@ -314,7 +321,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33963.17
+          "value": 51023.15
         }
       ],
       "sources": [
@@ -323,15 +330,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "08.09",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Contrapiso de cascotes de 12 cm con cal, 5,6 kg de cemento por m2",
       "tags": [
         "contrapisos"
       ],
-      "text": "Contrapiso de cascotes de 12 cm con cal, 5,6 kg de cemento por m2. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Contrapiso de cascotes de 12 cm con cal, 5,6 kg de cemento por m2. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 08.09: el costo de esta partida es el del rubro «Hormigón de cascotes e=12cm» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 19.466,88 de ejecución y $ 12.177,23 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,576 y las de materiales por 1,317. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.125Z",
+      "updatedAt": "2026-11-19T12:37:28.281Z",
       "verification": {
         "findings": [
           "duplicate_candidate-0b11e317f929c834",
@@ -407,7 +421,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27178.79
+          "value": 26954.13
         },
         {
           "currency": "ARS",
@@ -420,7 +434,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28588.95
+          "value": 28364.29
         },
         {
           "currency": "ARS",
@@ -433,7 +447,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36758.53
+          "value": 36533.87
         },
         {
           "currency": "ARS",
@@ -446,7 +460,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 39692.45
+          "value": 39467.78
         }
       ],
       "sources": [
@@ -463,7 +477,7 @@
       ],
       "text": "Contrapiso de hormigón de cascotes con cal, de 15 cm de espesor, con 20,6 kg de cemento por m², incluidos el extendido y el nivelado. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítems 6.2 «Contrapiso sobre terreno natural de Hº simple e=10cm» y 6.3 «Contrapiso sobre terreno natural de Hº simple e=12cm» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asignan 0,30 h de oficial y 0,40 h de ayudante por m² a 10 cm, y 0,36 h de oficial y 0,44 h de ayudante por m² a 12 cm. La fuente da dos espesores del mismo trabajo y las horas se extrapolan linealmente a 15 cm: oficial 0,36 + (15 − 12) × 0,03 = 0,45 h; ayudante 0,44 + (15 − 12) × 0,02 = 0,50 h por m². La fuente es para contrapiso sobre terreno natural; la partida no indica el apoyo y se asimila a ese caso. La fuente computa hormigón simple de ripio (arena mediana lavada, ripio zarandeado 1/3 y cemento portland); esta partida es de hormigón de cascotes con cal, otra especificación de material, por eso de la fuente se toman solo las horas y se conservan los materiales del banco, cuyos consumos todavía no tienen fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,44 h de oficial y 0,75 h de ayudante por m²; los materiales no cambian), que no tenían una fuente que se pudiera cotejar. INCLUYE: 0,45 h de oficial y 0,50 h de ayudante por m²; materiales del banco por m²: 0,4118 bolsas de 50 kg de cemento portland compuesto CPC40, 9,16 kg de cal hidráulica en polvo, 0,06 m³ de arena mediana y 0,13 m³ de cascote de ladrillo triturado; 0,05 h de equipos y herramientas menores, línea que ya tenía la partida y que no tiene fuente declarada. NO INCLUYE: la preparación y la compactación del terreno; el film de polietileno o la capa aisladora bajo el contrapiso; la carpeta de nivelación ni el solado. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.222Z",
+      "updatedAt": "2026-11-19T12:06:22.799Z",
       "verification": {
         "findings": [
           "duplicate_candidate-ca10fe8ac568313f"
@@ -538,7 +552,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23602.94
+          "value": 23521.11
         },
         {
           "currency": "ARS",
@@ -551,7 +565,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25013.11
+          "value": 24931.27
         },
         {
           "currency": "ARS",
@@ -564,7 +578,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33182.69
+          "value": 33100.85
         },
         {
           "currency": "ARS",
@@ -577,7 +591,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36116.6
+          "value": 36034.77
         }
       ],
       "sources": [
@@ -594,7 +608,7 @@
       ],
       "text": "Contrapiso de hormigón de cascotes con cal, de 15 cm de espesor, con 7,5 kg de cemento por m², incluidos el extendido y el nivelado. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítems 6.2 «Contrapiso sobre terreno natural de Hº simple e=10cm» y 6.3 «Contrapiso sobre terreno natural de Hº simple e=12cm» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asignan 0,30 h de oficial y 0,40 h de ayudante por m² a 10 cm, y 0,36 h de oficial y 0,44 h de ayudante por m² a 12 cm. La fuente da dos espesores del mismo trabajo y las horas se extrapolan linealmente a 15 cm: oficial 0,36 + (15 − 12) × 0,03 = 0,45 h; ayudante 0,44 + (15 − 12) × 0,02 = 0,50 h por m². La fuente es para contrapiso sobre terreno natural; la partida no indica el apoyo y se asimila a ese caso. La fuente computa hormigón simple de ripio (arena mediana lavada, ripio zarandeado 1/3 y cemento portland); esta partida es de hormigón de cascotes con cal, otra especificación de material, por eso de la fuente se toman solo las horas y se conservan los materiales del banco, cuyos consumos todavía no tienen fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,44 h de oficial y 0,75 h de ayudante por m²; los materiales no cambian), que no tenían una fuente que se pudiera cotejar. INCLUYE: 0,45 h de oficial y 0,50 h de ayudante por m²; materiales del banco por m²: 0,15 bolsas de 50 kg de cemento portland compuesto CPC40, 12,3 kg de cal hidráulica en polvo, 0,04 m³ de arena mediana y 0,13 m³ de cascote de ladrillo triturado; 0,05 h de equipos y herramientas menores, línea que ya tenía la partida y que no tiene fuente declarada. NO INCLUYE: la preparación y la compactación del terreno; el film de polietileno o la capa aisladora bajo el contrapiso; la carpeta de nivelación ni el solado. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.227Z",
+      "updatedAt": "2026-11-19T12:06:22.801Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -799,43 +813,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.49,
+          "quantity": 0.45571388,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.97,
+          "quantity": 0.90212747,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.094,
+          "quantity": 0.12352694,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 8.2,
+          "quantity": 10.77575408,
           "ref": "mt-ar-cal-hidraulica-en-polvo-por-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.04,
+          "quantity": 0.05256465,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.09,
+          "quantity": 0.11827047,
           "ref": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.05,
+          "quantity": 0.04650142,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -861,7 +875,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26761.43
+          "value": 27857.42
         },
         {
           "currency": "ARS",
@@ -874,7 +888,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28892.05
+          "value": 29838.95
         },
         {
           "currency": "ARS",
@@ -887,7 +901,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 41609.22
+          "value": 41666.28
         },
         {
           "currency": "ARS",
@@ -900,7 +914,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 45562.58
+          "value": 45343.02
         }
       ],
       "sources": [
@@ -909,15 +923,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "08.08",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Contrapiso de hormigón de cascotes en azotea-con pend, espesor 0,10m. elevación por medios mecánicos",
       "tags": [
         "contrapisos"
       ],
-      "text": "Contrapiso de hormigón de cascotes en azotea-con pend, espesor 0,10m. elevación por medios mecánicos. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Contrapiso de hormigón de cascotes en azotea-con pend, espesor 0,10m. elevación por medios mecánicos. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 08.08: el costo de esta partida es el del rubro «Hormigón de cascotes e=10cm» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 17.537,73 de ejecución y $ 10.319,69 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,93 y las de materiales por 1,314. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.153Z",
+      "updatedAt": "2026-11-19T12:37:28.283Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -990,7 +1011,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 31811.46
+          "value": 31708.89
         },
         {
           "currency": "ARS",
@@ -1003,7 +1024,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33598.45
+          "value": 33495.88
         },
         {
           "currency": "ARS",
@@ -1016,7 +1037,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 43892.56
+          "value": 43790
         },
         {
           "currency": "ARS",
@@ -1029,7 +1050,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 47685.6
+          "value": 47583.04
         }
       ],
       "sources": [
@@ -1046,7 +1067,7 @@
       ],
       "text": "Contrapiso de hormigón pobre de cascotes de 20 cm de espesor, incluida la nivelación de la superficie. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítems 6.2 «Contrapiso sobre terreno natural de Hº simple e=10cm» y 6.3 «Contrapiso sobre terreno natural de Hº simple e=12cm» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asignan 0,30 h de oficial y 0,40 h de ayudante por m² a 10 cm, y 0,36 h de oficial y 0,44 h de ayudante por m² a 12 cm. La fuente da dos espesores del mismo trabajo y las horas se extrapolan linealmente a 20 cm: oficial 0,36 + (20 − 12) × 0,03 = 0,60 h; ayudante 0,44 + (20 − 12) × 0,02 = 0,60 h por m². Es una extrapolación de 8 cm por encima del mayor espesor de la fuente, a contrastar. La fuente es para contrapiso sobre terreno natural; la partida no indica el apoyo y se asimila a ese caso. La fuente computa hormigón simple de ripio (arena mediana lavada, ripio zarandeado 1/3 y cemento portland); esta partida es de hormigón pobre de cascotes, otra especificación de material, por eso de la fuente se toman solo las horas y se conservan los materiales del banco, cuyos consumos todavía no tienen fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,58 h de oficial y 0,97 h de ayudante por m²; los materiales no cambian), que no tenían una fuente que se pudiera cotejar. INCLUYE: 0,60 h de oficial y 0,60 h de ayudante por m²; materiales del banco por m²: 0,188 bolsas de 50 kg de cemento portland compuesto CPC40, 16,4 kg de cal hidráulica en polvo, 0,09 m³ de arena mediana y 0,17 m³ de cascote de ladrillo triturado; 0,05 h de equipos y herramientas menores, línea que ya tenía la partida y que no tiene fuente declarada. NO INCLUYE: la preparación y la compactación del terreno; el film de polietileno o la capa aisladora bajo el contrapiso; la carpeta de nivelación ni el solado. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.240Z",
+      "updatedAt": "2026-11-19T12:06:22.809Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1119,7 +1140,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 31032.66
+          "value": 30940.35
         },
         {
           "currency": "ARS",
@@ -1132,7 +1153,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32932.8
+          "value": 32840.49
         },
         {
           "currency": "ARS",
@@ -1145,7 +1166,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 44091.3
+          "value": 43998.99
         },
         {
           "currency": "ARS",
@@ -1158,7 +1179,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 47851.84
+          "value": 47759.53
         }
       ],
       "sources": [
@@ -1175,7 +1196,7 @@
       ],
       "text": "Contrapiso de hormigón de cascotes- sobre losa baja-baño, espesor 0,18m-elevacion por medios mecanicos. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.162Z",
+      "updatedAt": "2026-11-19T12:06:22.811Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1248,7 +1269,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 17110.39
+          "value": 17079.62
         },
         {
           "currency": "ARS",
@@ -1261,7 +1282,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 18477.85
+          "value": 18447.08
         },
         {
           "currency": "ARS",
@@ -1274,7 +1295,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26078.02
+          "value": 26047.26
         },
         {
           "currency": "ARS",
@@ -1287,7 +1308,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29336.24
+          "value": 29305.47
         }
       ],
       "sources": [
@@ -1304,7 +1325,7 @@
       ],
       "text": "Contrapiso de hormigón de cascotes sobre losa, en general, de 6 cm de espesor, con elevación de los materiales por medios mecánicos. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítem 6.5 «Contrapiso Hº simple e=8cm» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,60 h de oficial y 0,30 h de ayudante por m². El ítem no indica sobre qué base apoya: es el único contrapiso de la fuente que no se titula «sobre terreno natural» (los ítems 6.2 a 6.4 sí lo hacen) y es el mismo que usa la partida hermana de contrapiso de hormigón de cascote sobre losa de 8 cm. La fuente da un solo espesor para este contrapiso (8 cm), así que las horas se aplican sin escalar a los 6 cm de esta partida. La fuente computa hormigón simple de ripio (arena mediana lavada, ripio zarandeado 1/3, cemento portland y banda perimetral de poliestireno expandido de 20 mm); esta partida tiene otra especificación de material, por eso de la fuente se toman solo las horas y se conservan los materiales del banco, cuyos consumos todavía no tienen fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,36 h de oficial y 0,41 h de ayudante por m²; los materiales no cambian), que no tenían una fuente que se pudiera cotejar. INCLUYE: 0,60 h de oficial y 0,30 h de ayudante por m²; materiales del banco por m²: 0,0564 bolsas de 50 kg de cemento portland compuesto CPC40, 4,92 kg de cal hidráulica en polvo, 0,03 m³ de arena mediana y 0,05 m³ de cascote de ladrillo triturado; 0,03 h de equipos y herramientas menores, línea que ya tenía la partida y que no tiene fuente declarada. NO INCLUYE: el equipo de elevación mecánica ni su operador (la partida no lo computa); la banda perimetral de poliestireno expandido (la fuente lleva 0,1 m² por m²); la carpeta de nivelación ni el solado. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.254Z",
+      "updatedAt": "2026-11-19T12:06:22.812Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1315,43 +1336,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.39,
+          "quantity": 0.39246925,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.97,
+          "quantity": 0.97614147,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.094,
+          "quantity": 0.12352694,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 8.2,
+          "quantity": 10.77575408,
           "ref": "mt-ar-cal-hidraulica-en-polvo-por-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.04,
+          "quantity": 0.05256465,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.09,
+          "quantity": 0.11827047,
           "ref": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.05,
+          "quantity": 0.05031657,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -1377,7 +1398,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25331.62
+          "value": 27857.42
         },
         {
           "currency": "ARS",
@@ -1390,7 +1411,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27304.25
+          "value": 29842.53
         },
         {
           "currency": "ARS",
@@ -1403,7 +1424,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 39203.71
+          "value": 41817.34
         },
         {
           "currency": "ARS",
@@ -1416,7 +1437,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 42703.17
+          "value": 45338.95
         }
       ],
       "sources": [
@@ -1425,15 +1446,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "08.08",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Contrapiso de hormigón de cascotes- sobre losa, espesor 0,10m-elevacion por medios mecanicos",
       "tags": [
         "contrapisos"
       ],
-      "text": "Contrapiso de hormigón de cascotes- sobre losa, espesor 0,10m-elevacion por medios mecanicos. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Contrapiso de hormigón de cascotes- sobre losa, espesor 0,10m-elevacion por medios mecanicos. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 08.08: el costo de esta partida es el del rubro «Hormigón de cascotes e=10cm» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 17.537,73 de ejecución y $ 10.319,69 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,006 y las de materiales por 1,314. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.168Z",
+      "updatedAt": "2026-11-19T12:37:28.284Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1506,7 +1534,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 35149.45
+          "value": 34485.7
         },
         {
           "currency": "ARS",
@@ -1519,7 +1547,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36559.61
+          "value": 35895.86
         },
         {
           "currency": "ARS",
@@ -1532,7 +1560,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 44729.19
+          "value": 44065.44
         },
         {
           "currency": "ARS",
@@ -1545,7 +1573,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 47663.1
+          "value": 46999.36
         }
       ],
       "sources": [
@@ -1562,7 +1590,7 @@
       ],
       "text": "Contrapiso de hormigón pobre de cascotes con cemento de albañilería, de 15 cm de espesor, como base para recibir hormigón elaborado armado. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítems 6.2 «Contrapiso sobre terreno natural de Hº simple e=10cm» y 6.3 «Contrapiso sobre terreno natural de Hº simple e=12cm» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asignan 0,30 h de oficial y 0,40 h de ayudante por m² a 10 cm, y 0,36 h de oficial y 0,44 h de ayudante por m² a 12 cm. La fuente da dos espesores del mismo trabajo y las horas se extrapolan linealmente a 15 cm: oficial 0,36 + (15 − 12) × 0,03 = 0,45 h; ayudante 0,44 + (15 − 12) × 0,02 = 0,50 h por m². La fuente es para contrapiso sobre terreno natural; la partida no indica el apoyo y se asimila a ese caso. La fuente computa hormigón simple de ripio (arena mediana lavada, ripio zarandeado 1/3 y cemento portland); esta partida es de hormigón pobre de cascotes con cemento de albañilería, otra especificación de material, por eso de la fuente se toman solo las horas y se conservan los materiales del banco, cuyos consumos todavía no tienen fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,16 h de oficial y 0,70 h de ayudante por m²; los materiales no cambian), que no tenían una fuente que se pudiera cotejar. INCLUYE: 0,45 h de oficial y 0,50 h de ayudante por m²; materiales del banco por m²: 34 kg de cemento de albañilería, 0,066 m³ de arena fina, 0,128 m³ de cascote de ladrillo triturado y 0,075 baldes de 20 l de imprimación asfáltica; 0,01 h de equipos y herramientas menores, línea que ya tenía la partida y que no tiene fuente declarada. NO INCLUYE: el hormigón elaborado armado que recibe ni su armadura; la preparación y la compactación del terreno; el film de polietileno o la capa aisladora bajo el contrapiso. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.269Z",
+      "updatedAt": "2026-11-19T12:06:22.816Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1629,7 +1657,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27754.61
+          "value": 27427.27
         },
         {
           "currency": "ARS",
@@ -1642,7 +1670,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29146.63
+          "value": 28819.29
         },
         {
           "currency": "ARS",
@@ -1655,7 +1683,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 37396.48
+          "value": 37069.14
         },
         {
           "currency": "ARS",
@@ -1668,7 +1696,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 40054.77
+          "value": 39727.43
         }
       ],
       "sources": [
@@ -1685,7 +1713,7 @@
       ],
       "text": "Contrapiso de hormigón simple, espesor 0,10 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.175Z",
+      "updatedAt": "2026-11-19T12:06:22.818Z",
       "verification": {
         "findings": [
           "duplicate_candidate-cd1dba21e76b3a22"
@@ -1754,7 +1782,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 53523.22
+          "value": 52868.54
         },
         {
           "currency": "ARS",
@@ -1767,7 +1795,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 56088.41
+          "value": 55433.74
         },
         {
           "currency": "ARS",
@@ -1780,7 +1808,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 71281.29
+          "value": 70626.61
         },
         {
           "currency": "ARS",
@@ -1793,7 +1821,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 76192.64
+          "value": 75537.97
         }
       ],
       "sources": [
@@ -1810,7 +1838,7 @@
       ],
       "text": "Contrapiso de hormigón simple, espesor 0,20 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.179Z",
+      "updatedAt": "2026-11-19T12:06:22.820Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1877,7 +1905,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28007.64
+          "value": 27811.24
         },
         {
           "currency": "ARS",
@@ -1890,7 +1918,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29149.76
+          "value": 28953.36
         },
         {
           "currency": "ARS",
@@ -1903,7 +1931,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 35775.22
+          "value": 35578.82
         },
         {
           "currency": "ARS",
@@ -1916,7 +1944,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 38140.18
+          "value": 37943.77
         }
       ],
       "sources": [
@@ -1933,7 +1961,7 @@
       ],
       "text": "Contrapiso de perlita exp. sobre losa, espesor 0,06m-elevacion por medios mecanicos. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.182Z",
+      "updatedAt": "2026-11-19T12:06:22.822Z",
       "verification": {
         "findings": [
           "duplicate_candidate-189bb1683b8564b2",
@@ -2003,7 +2031,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27606.47
+          "value": 27475.53
         },
         {
           "currency": "ARS",
@@ -2016,7 +2044,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28560.81
+          "value": 28429.88
         },
         {
           "currency": "ARS",
@@ -2029,7 +2057,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 34197
+          "value": 34066.06
         },
         {
           "currency": "ARS",
@@ -2042,7 +2070,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36044.84
+          "value": 35913.9
         }
       ],
       "sources": [
@@ -2059,7 +2087,7 @@
       ],
       "text": "Contrapiso de perlita exp. sobre losa, espesor 0,08m-elevación por medios mecanicos. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-14T22:02:33.408Z",
+      "updatedAt": "2026-11-19T12:06:22.823Z",
       "verification": {
         "findings": [
           "duplicate_candidate-0776ae2ab8e2f27e"
@@ -2128,7 +2156,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 47425.05
+          "value": 47206.82
         },
         {
           "currency": "ARS",
@@ -2141,7 +2169,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 49543.5
+          "value": 49325.27
         },
         {
           "currency": "ARS",
@@ -2154,7 +2182,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 62162.84
+          "value": 61944.62
         },
         {
           "currency": "ARS",
@@ -2167,7 +2195,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 66125.93
+          "value": 65907.71
         }
       ],
       "sources": [
@@ -2184,7 +2212,7 @@
       ],
       "text": "Contrapiso de perlitas de poliestireno exp. sobre losa, espesor 0,10m. elevación por medios mecanicos. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.191Z",
+      "updatedAt": "2026-11-19T12:06:22.825Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2251,7 +2279,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26106.7
+          "value": 25959.39
         },
         {
           "currency": "ARS",
@@ -2264,7 +2292,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27541.41
+          "value": 27394.11
         },
         {
           "currency": "ARS",
@@ -2277,7 +2305,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36360.67
+          "value": 36213.37
         },
         {
           "currency": "ARS",
@@ -2290,7 +2318,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 38694.65
+          "value": 38547.35
         }
       ],
       "sources": [
@@ -2307,7 +2335,7 @@
       ],
       "text": "Contrapiso de suelo cemento, espesor 15 cm-mezclado a mano-. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.196Z",
+      "updatedAt": "2026-11-19T12:06:22.826Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2374,7 +2402,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 97981.12
+          "value": 97771.63
         },
         {
           "currency": "ARS",
@@ -2387,7 +2415,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 99123.24
+          "value": 98913.74
         },
         {
           "currency": "ARS",
@@ -2400,7 +2428,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 105748.7
+          "value": 105539.2
         },
         {
           "currency": "ARS",
@@ -2413,7 +2441,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 108113.66
+          "value": 107904.16
         }
       ],
       "sources": [
@@ -2430,7 +2458,7 @@
       ],
       "text": "Contrapiso de vermiculita exp. sobre losa, espesor 0,06m-elevacion por medios mecanicos. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.198Z",
+      "updatedAt": "2026-11-19T12:06:22.827Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2503,7 +2531,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 38498.16
+          "value": 38083.54
         },
         {
           "currency": "ARS",
@@ -2516,7 +2544,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 39987.32
+          "value": 39572.7
         },
         {
           "currency": "ARS",
@@ -2529,7 +2557,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 48565.75
+          "value": 48151.13
         },
         {
           "currency": "ARS",
@@ -2542,7 +2570,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 51726.62
+          "value": 51311.99
         }
       ],
       "sources": [
@@ -2559,7 +2587,7 @@
       ],
       "text": "Contrapiso de hormigón de cascote armado con malla de 6 mm de diámetro en cuadrícula de 15 x 15 cm, de 12 cm de espesor, incluidos la colocación de la malla, el extendido, el reglado y el nivelado. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítem 6.4 «Contrapiso sobre terreno natural de Hº armado e=12cm con malla Q92» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,50 h de oficial y 0,50 h de ayudante por m², el mismo ítem que usa la partida hermana de contrapiso de hormigón armado con malla Q92 de 12 cm. Mismo espesor que la fuente, así que las horas se aplican tal cual. La fuente es para contrapiso sobre terreno natural; la partida no indica el apoyo y se asimila a ese caso. La fuente computa hormigón simple de ripio, malla Q131 (aunque el título del ítem nombra la Q92) y alquitrán; esta partida es de hormigón de cascote con malla electrosoldada Q188, otra especificación de material, por eso de la fuente se toman solo las horas y se conservan los materiales del banco, cuyos consumos todavía no tienen fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,60 h de oficial y 0,65 h de ayudante por m²; los materiales no cambian), que no tenían una fuente que se pudiera cotejar. INCLUYE: 0,50 h de oficial y 0,50 h de ayudante por m²; materiales del banco por m²: 0,76 bolsas de 50 kg de cemento portland compuesto CPC40, 0,08 m³ de arena mediana, 0,08 m³ de cascote de ladrillo triturado y 0,0764 paños de malla electrosoldada Q188 de 2,40 x 6,00 m (1,1 m² de malla por m²); 0,05 h de equipos y herramientas menores, línea que ya tenía la partida y que no tiene fuente declarada. NO INCLUYE: la preparación y la compactación del terreno; el alquitrán que computa la fuente (0,6 kg por m²); el film de polietileno o la capa aisladora bajo el contrapiso; la carpeta de nivelación ni el solado. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.281Z",
+      "updatedAt": "2026-11-19T12:06:22.830Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2626,7 +2654,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 168836.59
+          "value": 168607.46
         },
         {
           "currency": "ARS",
@@ -2639,7 +2667,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 170167.76
+          "value": 169938.63
         },
         {
           "currency": "ARS",
@@ -2652,7 +2680,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 177928.49
+          "value": 177699.35
         },
         {
           "currency": "ARS",
@@ -2665,7 +2693,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 180635.45
+          "value": 180406.32
         }
       ],
       "sources": [
@@ -2682,7 +2710,7 @@
       ],
       "text": "Contrapiso hormigón de vermiculita sobre losa, espesor 0,10 m. como aislación acústica. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.212Z",
+      "updatedAt": "2026-11-19T12:06:22.833Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2690,5 +2718,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

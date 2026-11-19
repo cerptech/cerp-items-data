@@ -2,32 +2,38 @@
   "key": "estructura-de-hormigon-armado--armaduras",
   "rows": [
     {
-      "d": "2026-10",
+      "d": "2026-11",
       "g": [],
       "id": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
       "m": 0,
-      "p": 5202.48,
+      "p": 2888.26,
       "s": "Alambre recocido Nº 16 para atado de armaduras",
       "u": "kg"
     },
     {
+      "d": "2026-11",
       "g": [],
       "id": "mt-ar-hierro-nervurado-adn-420-diametro-16-mm-en-barra-de-12-m",
       "m": 0,
+      "p": 33644.76,
       "s": "Hierro nervurado ADN 420 diámetro 16 mm en barra de 12 m",
       "u": "u"
     },
     {
+      "d": "2026-11",
       "g": [],
       "id": "mt-ar-hierro-nervurado-adn-420-diametro-20-mm-en-barra-de-12-m",
       "m": 0,
+      "p": 52414.99,
       "s": "Hierro nervurado ADN 420 diámetro 20 mm en barra de 12 m",
       "u": "u"
     },
     {
+      "d": "2026-11",
       "g": [],
       "id": "mt-ar-hierro-nervurado-adn-420-diametro-25-mm-en-barra-de-12-m",
       "m": 0,
+      "p": 82341.12,
       "s": "Hierro nervurado ADN 420 diámetro 25 mm en barra de 12 m",
       "u": "u"
     },
@@ -68,7 +74,7 @@
       "g": [],
       "id": "wi-ar-armadura-de-hierro-nervurado-adn-420-de-10-mm-elaborada-y-co",
       "m": 3,
-      "p": 2410.04,
+      "p": 2275.7,
       "s": "Armadura de hierro nervurado ADN 420 de 10 mm elaborada y colocada",
       "u": "kg"
     },
@@ -77,7 +83,7 @@
       "g": [],
       "id": "wi-ar-armadura-de-hierro-nervurado-adn-420-de-12-mm-elaborada-y-co",
       "m": 3,
-      "p": 2430.9,
+      "p": 2249.64,
       "s": "Armadura de hierro nervurado ADN 420 de 12 mm elaborada y colocada",
       "u": "kg"
     },
@@ -86,7 +92,7 @@
       "g": [],
       "id": "wi-ar-armadura-de-hierro-nervurado-adn-420-de-6-mm-elaborada-y-col",
       "m": 3,
-      "p": 2451.21,
+      "p": 2370.39,
       "s": "Armadura de hierro nervurado ADN 420 de 6 mm elaborada y colocada",
       "u": "kg"
     },
@@ -95,11 +101,11 @@
       "g": [],
       "id": "wi-ar-armadura-de-hierro-nervurado-adn-420-elaborada-y-colocada",
       "m": 3,
-      "p": 2364.06,
+      "p": 2274.23,
       "s": "Armadura de hierro nervurado ADN 420 elaborada y colocada",
       "u": "kg"
     }
   ],
   "title": "Estructura de hormigón armado > Armaduras",
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

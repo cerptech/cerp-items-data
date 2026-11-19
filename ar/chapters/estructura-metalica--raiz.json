@@ -789,25 +789,25 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.02,
+          "quantity": 0.31979502,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.02,
+          "quantity": 0.31979502,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.08,
+          "quantity": 3.76371026,
           "ref": "mt-ar-perfiles-y-angulos-de-acero",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.005,
+          "quantity": 0.07994875,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -833,7 +833,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 3302.68
+          "value": 18195.66
         },
         {
           "currency": "ARS",
@@ -846,7 +846,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 3362.24
+          "value": 19148.11
         },
         {
           "currency": "ARS",
@@ -859,7 +859,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 3705.38
+          "value": 24634.79
         },
         {
           "currency": "ARS",
@@ -872,7 +872,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 3831.82
+          "value": 26656.45
         }
       ],
       "sources": [
@@ -887,15 +887,22 @@
           "edition": "2024-01",
           "matchedBy": "manual",
           "source": "bcca"
+        },
+        {
+          "code": "03.14",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Estructura semi pesada de hierro, menores a ipn N° 24",
       "tags": [
         "estructura metálica"
       ],
-      "text": "Estructura semipesada de perfiles de hierro laminados en caliente de secciones menores al IPN 24, cortada, armada, montada y soldada en obra. Medida por kilogramo de peso nominal de estructura colocada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: adaptado de la partida «Acero perfiles laminados en caliente en vigas, unión soldada» (código 05ACJ00040) de la Base de Costes de la Construcción de Andalucía (BCCA, edición 2024-01, datos abiertos de la Junta de Andalucía); es práctica española, a contrastar. Asigna 0,02 h de oficial de primera cerrajero y 0,02 h de ayudante especialista por kilogramo, con 1,08 kg de perfil por kilogramo colocado, e incluye corte, elaboración, montaje, lijado, imprimación antioxidante y soldadura en parte proporcional. Se usa la BCCA porque ni el Análisis de Precios del Colegio de Arquitectos de Salta ni los \"Coeficientes de Consumo\" de la FACET (UNT) tienen un ítem de estructura metálica medido por peso o por metro. Las categorías de la fuente se reasignaron a oficial y ayudante del CCT 76/75. La fuente no distingue entre estructuras livianas, semipesadas y pesadas: da el mismo rendimiento por kilogramo para cualquier sección laminada, y corresponde a uniones soldadas. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,04 h de oficial y 0,04 h de ayudante por kilogramo, 1,1 kg de perfil), que no tenían una fuente que se pudiera cotejar. INCLUYE: 0,02 h de oficial y 0,02 h de ayudante por kilogramo; 1,08 kg de perfiles y ángulos de acero por kilogramo colocado; 0,005 h de equipos y herramientas menores, que no tienen fuente declarada y se conservan de la partida anterior. NO INCLUYE: el material complementario o piezas especiales (0,06 u por kg en la fuente) ni el pequeño material (0,08 u por kg), que la fuente valora sin desglosar en consumos y el banco no tiene como hoja, por lo que la partida no carga electrodos ni imprimación antioxidante como material; grúa ni equipos de izaje; pintura de terminación; fundaciones ni anclajes. La fuente es práctica española y no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste contra una obra propia. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Rendimientos adaptados de BCCA wi-acero-perfiles-lam-en-cal-en-vigas-union-soldada: horas y consumos adaptados como se detalla en la descripción; es práctica española, a contrastar con experiencia local",
+      "text": "Estructura semipesada de perfiles de hierro laminados en caliente de secciones menores al IPN 24, cortada, armada, montada y soldada en obra. Medida por kilogramo de peso nominal de estructura colocada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: adaptado de la partida «Acero perfiles laminados en caliente en vigas, unión soldada» (código 05ACJ00040) de la Base de Costes de la Construcción de Andalucía (BCCA, edición 2024-01, datos abiertos de la Junta de Andalucía); es práctica española, a contrastar. Asigna 0,02 h de oficial de primera cerrajero y 0,02 h de ayudante especialista por kilogramo, con 1,08 kg de perfil por kilogramo colocado, e incluye corte, elaboración, montaje, lijado, imprimación antioxidante y soldadura en parte proporcional. Se usa la BCCA porque ni el Análisis de Precios del Colegio de Arquitectos de Salta ni los \"Coeficientes de Consumo\" de la FACET (UNT) tienen un ítem de estructura metálica medido por peso o por metro. Las categorías de la fuente se reasignaron a oficial y ayudante del CCT 76/75. La fuente no distingue entre estructuras livianas, semipesadas y pesadas: da el mismo rendimiento por kilogramo para cualquier sección laminada, y corresponde a uniones soldadas. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,04 h de oficial y 0,04 h de ayudante por kilogramo, 1,1 kg de perfil), que no tenían una fuente que se pudiera cotejar. INCLUYE: 0,02 h de oficial y 0,02 h de ayudante por kilogramo; 1,08 kg de perfiles y ángulos de acero por kilogramo colocado; 0,005 h de equipos y herramientas menores, que no tienen fuente declarada y se conservan de la partida anterior. NO INCLUYE: el material complementario o piezas especiales (0,06 u por kg en la fuente) ni el pequeño material (0,08 u por kg), que la fuente valora sin desglosar en consumos y el banco no tiene como hoja, por lo que la partida no carga electrodos ni imprimación antioxidante como material; grúa ni equipos de izaje; pintura de terminación; fundaciones ni anclajes. La fuente es práctica española y no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste contra una obra propia. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Rendimientos adaptados de BCCA wi-acero-perfiles-lam-en-cal-en-vigas-union-soldada: horas y consumos adaptados como se detalla en la descripción; es práctica española, a contrastar con experiencia local Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 03.14: el costo de esta partida es el del rubro «Perfiles normales» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 8.549,40 de ejecución y $ 9.646,25 de materiales por kg, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 15,99 y las de materiales por 3,485. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "kg",
-      "updatedAt": "2026-11-18T11:16:50.330Z",
+      "updatedAt": "2026-11-19T12:37:28.295Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1128,25 +1135,25 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.045,
+          "quantity": 0.37523701,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.045,
+          "quantity": 0.37523701,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.1,
+          "quantity": 4.36590275,
           "ref": "mt-ar-perfiles-y-angulos-de-acero",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.005,
+          "quantity": 0.041693,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -1172,7 +1179,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4015.41
+          "value": 21163.91
         },
         {
           "currency": "ARS",
@@ -1185,7 +1192,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4149.44
+          "value": 22281.49
         },
         {
           "currency": "ARS",
@@ -1198,7 +1205,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4921.5
+          "value": 28719.38
         },
         {
           "currency": "ARS",
@@ -1211,7 +1218,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 5205.97
+          "value": 31091.53
         }
       ],
       "sources": [
@@ -1220,15 +1227,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "03.13",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Estructuras livianas de hierro, menores a ipn N° 12",
       "tags": [
         "estructura metálica"
       ],
-      "text": "Estructuras livianas de hierro, menores a ipn N° 12. Análisis de precio unitario. Medida por kg. Precio computado desde la descomposición.",
+      "text": "Estructuras livianas de hierro, menores a ipn N° 12. Análisis de precio unitario. Medida por kg. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 03.13: el costo de esta partida es el del rubro «Perfiles ángulo» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 9.974,30 de ejecución y $ 11.189,65 de materiales por kg, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 8,339 y las de materiales por 3,969. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "kg",
-      "updatedAt": "2026-11-06T14:19:15.455Z",
+      "updatedAt": "2026-11-19T12:37:28.301Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1239,25 +1253,25 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.02,
+          "quantity": 0.31979502,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.02,
+          "quantity": 0.31979502,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.08,
+          "quantity": 3.76371026,
           "ref": "mt-ar-perfiles-y-angulos-de-acero",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.005,
+          "quantity": 0.07994875,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -1283,7 +1297,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 3302.68
+          "value": 18195.66
         },
         {
           "currency": "ARS",
@@ -1296,7 +1310,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 3362.24
+          "value": 19148.11
         },
         {
           "currency": "ARS",
@@ -1309,7 +1323,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 3705.38
+          "value": 24634.79
         },
         {
           "currency": "ARS",
@@ -1322,7 +1336,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 3831.82
+          "value": 26656.45
         }
       ],
       "sources": [
@@ -1337,15 +1351,22 @@
           "edition": "2024-01",
           "matchedBy": "manual",
           "source": "bcca"
+        },
+        {
+          "code": "03.14",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Estructuras pesadas de hierro, menores a ipn N° 24",
       "tags": [
         "estructura metálica"
       ],
-      "text": "Estructura pesada de perfiles de hierro laminados en caliente, de secciones menores al IPN 24, cortada, armada, montada y soldada en obra. Medida por kilogramo de peso nominal de estructura colocada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: adaptado de la partida «Acero perfiles laminados en caliente en vigas, unión soldada» (código 05ACJ00040) de la Base de Costes de la Construcción de Andalucía (BCCA, edición 2024-01, datos abiertos de la Junta de Andalucía); es práctica española, a contrastar. Asigna 0,02 h de oficial de primera cerrajero y 0,02 h de ayudante especialista por kilogramo, con 1,08 kg de perfil por kilogramo colocado, e incluye corte, elaboración, montaje, lijado, imprimación antioxidante y soldadura en parte proporcional. Se usa la BCCA porque ni el Análisis de Precios del Colegio de Arquitectos de Salta ni los \"Coeficientes de Consumo\" de la FACET (UNT) tienen un ítem de estructura metálica medido por peso o por metro. Las categorías de la fuente se reasignaron a oficial y ayudante del CCT 76/75. La fuente no distingue entre estructuras livianas, semipesadas y pesadas: da el mismo rendimiento por kilogramo para cualquier sección laminada, y corresponde a uniones soldadas. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,035 h de oficial y 0,035 h de ayudante por kilogramo, 1,1 kg de perfil), que no tenían una fuente que se pudiera cotejar. INCLUYE: 0,02 h de oficial y 0,02 h de ayudante por kilogramo; 1,08 kg de perfiles y ángulos de acero por kilogramo colocado; 0,005 h de equipos y herramientas menores, que no tienen fuente declarada y se conservan de la partida anterior. NO INCLUYE: el material complementario o piezas especiales (0,06 u por kg en la fuente) ni el pequeño material (0,08 u por kg), que la fuente valora sin desglosar en consumos y el banco no tiene como hoja, por lo que la partida no carga electrodos ni imprimación antioxidante como material; grúa ni equipos de izaje; pintura de terminación; fundaciones ni anclajes. La fuente es práctica española y no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste contra una obra propia. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Rendimientos adaptados de BCCA wi-acero-perfiles-lam-en-cal-en-vigas-union-soldada: horas y consumos adaptados como se detalla en la descripción; es práctica española, a contrastar con experiencia local",
+      "text": "Estructura pesada de perfiles de hierro laminados en caliente, de secciones menores al IPN 24, cortada, armada, montada y soldada en obra. Medida por kilogramo de peso nominal de estructura colocada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: adaptado de la partida «Acero perfiles laminados en caliente en vigas, unión soldada» (código 05ACJ00040) de la Base de Costes de la Construcción de Andalucía (BCCA, edición 2024-01, datos abiertos de la Junta de Andalucía); es práctica española, a contrastar. Asigna 0,02 h de oficial de primera cerrajero y 0,02 h de ayudante especialista por kilogramo, con 1,08 kg de perfil por kilogramo colocado, e incluye corte, elaboración, montaje, lijado, imprimación antioxidante y soldadura en parte proporcional. Se usa la BCCA porque ni el Análisis de Precios del Colegio de Arquitectos de Salta ni los \"Coeficientes de Consumo\" de la FACET (UNT) tienen un ítem de estructura metálica medido por peso o por metro. Las categorías de la fuente se reasignaron a oficial y ayudante del CCT 76/75. La fuente no distingue entre estructuras livianas, semipesadas y pesadas: da el mismo rendimiento por kilogramo para cualquier sección laminada, y corresponde a uniones soldadas. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,035 h de oficial y 0,035 h de ayudante por kilogramo, 1,1 kg de perfil), que no tenían una fuente que se pudiera cotejar. INCLUYE: 0,02 h de oficial y 0,02 h de ayudante por kilogramo; 1,08 kg de perfiles y ángulos de acero por kilogramo colocado; 0,005 h de equipos y herramientas menores, que no tienen fuente declarada y se conservan de la partida anterior. NO INCLUYE: el material complementario o piezas especiales (0,06 u por kg en la fuente) ni el pequeño material (0,08 u por kg), que la fuente valora sin desglosar en consumos y el banco no tiene como hoja, por lo que la partida no carga electrodos ni imprimación antioxidante como material; grúa ni equipos de izaje; pintura de terminación; fundaciones ni anclajes. La fuente es práctica española y no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste contra una obra propia. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Rendimientos adaptados de BCCA wi-acero-perfiles-lam-en-cal-en-vigas-union-soldada: horas y consumos adaptados como se detalla en la descripción; es práctica española, a contrastar con experiencia local Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 03.14: el costo de esta partida es el del rubro «Perfiles normales» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 8.549,40 de ejecución y $ 9.646,25 de materiales por kg, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 15,99 y las de materiales por 3,485. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "kg",
-      "updatedAt": "2026-11-18T11:16:50.394Z",
+      "updatedAt": "2026-11-19T12:37:28.301Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1686,5 +1707,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

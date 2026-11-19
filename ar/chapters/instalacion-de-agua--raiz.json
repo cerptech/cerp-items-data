@@ -10,55 +10,55 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 2,
+          "quantity": 1.99434933,
           "ref": "mo-ar-oficial-especializado-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 2,
+          "quantity": 1.99434933,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 1.21872887,
           "ref": "mt-ar-tanque-de-agua-tricapa-de-1-100-l",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 1.21872887,
           "ref": "mt-ar-base-de-apoyo-para-tanque-de-agua",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 1.21872887,
           "ref": "mt-ar-aireador-para-tanque-de-agua",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 1.21872887,
           "ref": "mt-ar-flotante-mecanico-para-tanque-de-agua",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 1.21872887,
           "ref": "mt-ar-valvula-de-seguridad-para-tanque-de-agua",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 1.21872887,
           "ref": "mt-ar-brida-para-colector-de-polipropileno-de-1-pulgada",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.5,
+          "quantity": 0.49858733,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -84,7 +84,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 481738.11
+          "value": 420670.24
         },
         {
           "currency": "ARS",
@@ -97,7 +97,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 488211.43
+          "value": 427125.27
         },
         {
           "currency": "ARS",
@@ -110,7 +110,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 520385.87
+          "value": 459208.81
         },
         {
           "currency": "ARS",
@@ -123,7 +123,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 539489.87
+          "value": 478258.83
         }
       ],
       "sources": [
@@ -132,15 +132,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "17.22",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Tanque de reserva domiciliario-cap. 1100 lts, tanque tricapa 1,44 m altura, 1,10 m diametro. se considera que el…",
       "tags": [
         "instalación de agua"
       ],
-      "text": "Tanque de reserva domiciliario-cap. 1100 lts, tanque tricapa 1,44 m altura, 1,10 m diametro. se considera que el…. Análisis de precio unitario. Medida por u. Precio computado desde la descomposición.",
+      "text": "Tanque de reserva domiciliario-cap. 1100 lts, tanque tricapa 1,44 m altura, 1,10 m diametro. se considera que el…. Análisis de precio unitario. Medida por u. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 17.22: el costo de esta partida es el del rubro «Tanque de agua polietileno tricapa 1100ls» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 58.132,77 de ejecución y $ 362.537,47 de materiales por u, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,997 y las de materiales por 1,219. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "u",
-      "updatedAt": "2026-11-06T14:19:15.863Z",
+      "updatedAt": "2026-11-19T12:37:28.325Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -148,5 +155,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

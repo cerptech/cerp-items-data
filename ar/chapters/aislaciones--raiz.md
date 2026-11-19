@@ -1,6 +1,6 @@
 # Aislaciones
 
-Banco de ítems de construcción CERP v0.11.0 — 2 ítems. Datos estructurados en [`aislaciones--raiz.json`](./aislaciones--raiz.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.12.0 — 2 ítems. Datos estructurados en [`aislaciones--raiz.json`](./aislaciones--raiz.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
 > Costos unitarios por rubro y precios de materiales de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar
 > Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo
@@ -8,5 +8,5 @@ Banco de ítems de construcción CERP v0.11.0 — 2 ítems. Datos estructurados 
 
 | id | resumen | ud | precio ARS | fecha | descomposición (ref × cantidad) |
 |----|---------|----|-----------:|-------|---------------------------------|
-| `wi-ar-capa-de-asfalto-en-caliente-de-10-kg-m2-sobre-superficie-sem` | Capa de asfalto en caliente de 10 kg/m2 sobre superficie semialisada | m2 | 50438.18 | 2026-11 | mo-ar-oficial-cct-76-75 ×0.45<br>mo-ar-ayudante-cct-76-75 ×0.85<br>mt-ar-asfalto-en-panes ×10.1<br>mt-ar-pintura-asfaltica-base-solvente-por-litro ×0.36<br>mt-ar-gas-butano-para-soplete ×0.1<br>mq-ar-equipos-y-herramientas-menores-por-hora-de-uso ×0.12 |
-| `wi-ar-capa-de-asfalto-en-caliente-de-26-kg-m2-sobre-superficie-sem` | Capa de asfalto en caliente de 26 kg/m2 sobre superficie semialisada | m2 | 96404.62 | 2026-11 | mo-ar-oficial-cct-76-75 ×0.35<br>mo-ar-ayudante-cct-76-75 ×0.7<br>mt-ar-asfalto-en-panes ×26<br>mt-ar-pintura-asfaltica-base-solvente-por-litro ×0.36<br>mt-ar-gas-butano-para-soplete ×0.25<br>mq-ar-equipos-y-herramientas-menores-por-hora-de-uso ×0.12 |
+| `wi-ar-capa-de-asfalto-en-caliente-de-10-kg-m2-sobre-superficie-sem` | Capa de asfalto en caliente de 10 kg/m2 sobre superficie semialisada | m2 | 50257.02 | 2026-11 | mo-ar-oficial-cct-76-75 ×0.45<br>mo-ar-ayudante-cct-76-75 ×0.85<br>mt-ar-asfalto-en-panes ×10.1<br>mt-ar-pintura-asfaltica-base-solvente-por-litro ×0.36<br>mt-ar-gas-butano-para-soplete ×0.1<br>mq-ar-equipos-y-herramientas-menores-por-hora-de-uso ×0.12 |
+| `wi-ar-capa-de-asfalto-en-caliente-de-26-kg-m2-sobre-superficie-sem` | Capa de asfalto en caliente de 26 kg/m2 sobre superficie semialisada | m2 | 96223.47 | 2026-11 | mo-ar-oficial-cct-76-75 ×0.35<br>mo-ar-ayudante-cct-76-75 ×0.7<br>mt-ar-asfalto-en-panes ×26<br>mt-ar-pintura-asfaltica-base-solvente-por-litro ×0.36<br>mt-ar-gas-butano-para-soplete ×0.25<br>mq-ar-equipos-y-herramientas-menores-por-hora-de-uso ×0.12 |

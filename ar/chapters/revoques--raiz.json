@@ -60,7 +60,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 48857.69
+          "value": 48736.03
         },
         {
           "currency": "ARS",
@@ -73,7 +73,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 53856.26
+          "value": 53734.6
         },
         {
           "currency": "ARS",
@@ -86,7 +86,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 81033.74
+          "value": 80912.08
         },
         {
           "currency": "ARS",
@@ -99,7 +99,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 93718.29
+          "value": 93596.63
         }
       ],
       "sources": [
@@ -116,7 +116,7 @@
       ],
       "text": "Alisado de cemento-en interiores de tanques de agua, espesor gr: 1,5 cm-espesor f: 3 mm-alisado con llana. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:14.786Z",
+      "updatedAt": "2026-11-19T12:06:22.724Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -127,31 +127,31 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1.47,
+          "quantity": 2.18094197,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.89018039,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.2752,
+          "quantity": 0.51600777,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.03,
+          "quantity": 0.05625085,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.01,
+          "quantity": 0.01483634,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -177,7 +177,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33301.89
+          "value": 51073.93
         },
         {
           "currency": "ARS",
@@ -190,7 +190,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36463.4
+          "value": 55764.44
         },
         {
           "currency": "ARS",
@@ -203,7 +203,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 53871.55
+          "value": 81591.76
         },
         {
           "currency": "ARS",
@@ -216,7 +216,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 61613.51
+          "value": 93078.01
         }
       ],
       "sources": [
@@ -225,15 +225,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "10.01",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Alisado de cemento-en paredes, espesor gr: 2 cm-espesor f: 3 mm-alisado con llana",
       "tags": [
         "revoques"
       ],
-      "text": "Alisado de cemento-en paredes, espesor gr: 2 cm-espesor f: 3 mm-alisado con llana. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Alisado de cemento-en paredes, espesor gr: 2 cm-espesor f: 3 mm-alisado con llana. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 10.01: el costo de esta partida es el del rubro «Cemento alisado» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 42.025,09 de ejecución y $ 9.048,83 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,484 y las de materiales por 1,875. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:14.789Z",
+      "updatedAt": "2026-11-19T12:37:28.266Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -244,43 +251,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1.55,
+          "quantity": 1.39194941,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.8,
+          "quantity": 0.7184255,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.097,
+          "quantity": 0.13923915,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.124,
+          "quantity": 0.17799644,
           "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.03,
+          "quantity": 0.04306365,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.013,
+          "quantity": 0.01866092,
           "ref": "mt-ar-hidrofugo-inorganico-en-bidon-de-10-l",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.2,
+          "quantity": 0.17960638,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -306,7 +313,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 35634.04
+          "value": 33818
         },
         {
           "currency": "ARS",
@@ -319,7 +326,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 39201.62
+          "value": 37021.8
         },
         {
           "currency": "ARS",
@@ -332,7 +339,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 59059.9
+          "value": 54855.17
         },
         {
           "currency": "ARS",
@@ -345,7 +352,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 67521.53
+          "value": 62453.98
         }
       ],
       "sources": [
@@ -354,15 +361,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "07.03",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Revoque exterior completo a la cal, incluye planchado de azotado hidrófugo",
       "tags": [
         "revoques"
       ],
-      "text": "Revoque exterior completo a la cal sobre paramento de mampostería, con azotado hidrófugo planchado, revoque grueso y revoque fino a la cal. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 5.1 «Revoque completo terminado a la cal para exteriores» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 1,55 h de oficial y 0,80 h de ayudante por m², con 4,85 kg de cemento portland, 3,1 kg de cal hidratada, 0,03 m³ de arena mediana y 0,13 l de hidrófugo. Conversiones a las presentaciones del banco: cemento 4,85 kg / 50 = 0,097 bolsa; cal hidratada 3,1 kg / 25 = 0,124 bolsa; hidrófugo 0,13 l / 10 l = 0,013 bidón. La línea de equipos y herramientas menores no figura en la fuente: se conserva la del banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (1,30 h de oficial y 0,90 h de ayudante; 0,199 bolsa de cemento, 4,3 kg de cal hidráulica, 0,0304 bolsa de cal hidratada, 0,05 m³ de arena mediana y 0,002 tambor de hidrófugo de 200 kg por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: la mano de obra del azotado hidrófugo, el revoque grueso y el revoque fino; cemento, cal hidratada, arena mediana e hidrófugo; equipos y herramientas menores. NO INCLUYE: agua de amasado, andamios ni medios de elevación, ni buñas, guardacantos o cantoneras. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Revoque exterior completo a la cal sobre paramento de mampostería, con azotado hidrófugo planchado, revoque grueso y revoque fino a la cal. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 5.1 «Revoque completo terminado a la cal para exteriores» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 1,55 h de oficial y 0,80 h de ayudante por m², con 4,85 kg de cemento portland, 3,1 kg de cal hidratada, 0,03 m³ de arena mediana y 0,13 l de hidrófugo. Conversiones a las presentaciones del banco: cemento 4,85 kg / 50 = 0,097 bolsa; cal hidratada 3,1 kg / 25 = 0,124 bolsa; hidrófugo 0,13 l / 10 l = 0,013 bidón. La línea de equipos y herramientas menores no figura en la fuente: se conserva la del banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (1,30 h de oficial y 0,90 h de ayudante; 0,199 bolsa de cemento, 4,3 kg de cal hidráulica, 0,0304 bolsa de cal hidratada, 0,05 m³ de arena mediana y 0,002 tambor de hidrófugo de 200 kg por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: la mano de obra del azotado hidrófugo, el revoque grueso y el revoque fino; cemento, cal hidratada, arena mediana e hidrófugo; equipos y herramientas menores. NO INCLUYE: agua de amasado, andamios ni medios de elevación, ni buñas, guardacantos o cantoneras. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 07.03: el costo de esta partida es el del rubro «Exterior a la cal común completo» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 28.836,54 de ejecución y $ 4.981,46 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,898 y las de materiales por 1,435. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.705Z",
+      "updatedAt": "2026-11-19T12:37:28.321Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -373,37 +387,37 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.45,
+          "quantity": 0.56752734,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.3,
+          "quantity": 0.37835156,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.0048,
+          "quantity": 0.02112274,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.0304,
+          "quantity": 0.13377734,
           "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.004,
+          "quantity": 0.01760228,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.01,
+          "quantity": 0.01261172,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -429,7 +443,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 10488.84
+          "value": 14458.05
         },
         {
           "currency": "ARS",
@@ -442,7 +456,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 11619.32
+          "value": 15883.78
         },
         {
           "currency": "ARS",
@@ -455,7 +469,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 17992.94
+          "value": 23922.01
         },
         {
           "currency": "ARS",
@@ -468,7 +482,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 20570.31
+          "value": 27172.51
         }
       ],
       "sources": [
@@ -477,15 +491,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "07.05",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Revoque fino a la cal, espesor 4 mm",
       "tags": [
         "revoques"
       ],
-      "text": "Revoque fino a la cal, espesor 4 mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Revoque fino a la cal, espesor 4 mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 07.05: el costo de esta partida es el del rubro «Fino a la cal» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 12.729,55 de ejecución y $ 1.728,50 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,261 y las de materiales por 4,401. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-14T22:02:33.466Z",
+      "updatedAt": "2026-11-19T12:37:28.321Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -496,25 +517,25 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.79440438,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.3,
+          "quantity": 0.39720219,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.24,
+          "quantity": 0.21937107,
           "ref": "mt-ar-revoque-fino-predosificado-para-exterior-en-bolsa-de-25-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.01,
+          "quantity": 0.01324007,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -540,7 +561,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 15312.53
+          "value": 18924.04
         },
         {
           "currency": "ARS",
@@ -553,7 +574,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16679.99
+          "value": 20734.57
         },
         {
           "currency": "ARS",
@@ -566,7 +587,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24280.17
+          "value": 30797.26
         },
         {
           "currency": "ARS",
@@ -579,7 +600,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27538.39
+          "value": 35111.16
         }
       ],
       "sources": [
@@ -588,15 +609,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "07.11",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Revoque fino a la cal-predosificado, espesor 3 mm-grueso sin peinar",
       "tags": [
         "revoques"
       ],
-      "text": "Revoque fino a la cal con material predosificado, de 3 mm de espesor, aplicado sobre revoque grueso sin peinar. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Fino con material prefabricado\" (sección Revoques), que asigna 0,60 h de oficial y 0,30 h de ayudante por m², con 6 kg de material prefabricado. El material se carga en bolsas de 25 kg: 6 kg / 25 = 0,24 bolsa por m². La fuente no declara el espesor: se toma su consumo tal cual. La línea de equipos y herramientas menores no figura en la fuente: se conserva la del banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,35 h de oficial y 0,13 h de ayudante; 0,12 bolsa de revoque fino predosificado por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: la mano de obra de preparación, aplicación y fratasado; 6 kg de revoque fino predosificado por m²; equipos y herramientas menores. NO INCLUYE: el revoque grueso, agua de amasado ni andamios. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Revoque fino a la cal con material predosificado, de 3 mm de espesor, aplicado sobre revoque grueso sin peinar. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Fino con material prefabricado\" (sección Revoques), que asigna 0,60 h de oficial y 0,30 h de ayudante por m², con 6 kg de material prefabricado. El material se carga en bolsas de 25 kg: 6 kg / 25 = 0,24 bolsa por m². La fuente no declara el espesor: se toma su consumo tal cual. La línea de equipos y herramientas menores no figura en la fuente: se conserva la del banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,35 h de oficial y 0,13 h de ayudante; 0,12 bolsa de revoque fino predosificado por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: la mano de obra de preparación, aplicación y fratasado; 6 kg de revoque fino predosificado por m²; equipos y herramientas menores. NO INCLUYE: el revoque grueso, agua de amasado ni andamios. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 07.11: el costo de esta partida es el del rubro «Premezcla fino exterior (manual)» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 16.203,40 de ejecución y $ 2.720,64 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,324 y las de materiales por 0,914. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.716Z",
+      "updatedAt": "2026-11-19T12:37:28.321Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -607,37 +635,37 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.4,
+          "quantity": 0.62381178,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.2,
+          "quantity": 0.31190589,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.01512,
+          "quantity": 0.05514394,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.006,
+          "quantity": 0.02188252,
           "ref": "mt-ar-arena-fina-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.01944,
+          "quantity": 0.07089935,
           "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.01,
+          "quantity": 0.01559529,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -663,7 +691,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 8704.96
+          "value": 14458.05
         },
         {
           "currency": "ARS",
@@ -676,7 +704,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 9616.6
+          "value": 15879.78
         },
         {
           "currency": "ARS",
@@ -689,7 +717,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 14683.39
+          "value": 23781.58
         },
         {
           "currency": "ARS",
@@ -702,7 +730,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16855.53
+          "value": 27169.1
         }
       ],
       "sources": [
@@ -711,15 +739,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "07.05",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Revoque fino exterior a la cal, espesor 3 mm",
       "tags": [
         "revoques"
       ],
-      "text": "Revoque fino exterior a la cal, de 3 mm de espesor, sobre revoque grueso. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Fino exterior 0,5 cm. de espesor\" (sección Revoques), que asigna 0,40 h de oficial y 0,20 h de ayudante por m², con 1,26 kg de cemento, 0,01 m³ de arena fina y 0,81 kg de cal. La fuente da un solo espesor (5 mm): las horas se aplican sin escalar y los materiales se escalan por espesor, 3 / 5 = 0,6. Cemento: 1,26 × 0,6 = 0,756 kg / 50 = 0,01512 bolsa; arena fina: 0,01 × 0,6 = 0,006 m³; cal: 0,81 × 0,6 = 0,486 kg / 25 = 0,01944 bolsa. La fuente dice solo «cal»: se usa la cal hidratada en bolsa que ya llevaba la partida. La línea de equipos y herramientas menores no figura en la fuente: se conserva la del banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,32 h de oficial y 0,13 h de ayudante; 0,0054 bolsa de cemento, 0,018 bolsa de cal hidratada y 0,003 m³ de arena mediana por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: la mano de obra de aplicación y fratasado del fino; cemento, cal hidratada y arena fina; equipos y herramientas menores. NO INCLUYE: el revoque grueso, agua de amasado ni andamios. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Revoque fino exterior a la cal, de 3 mm de espesor, sobre revoque grueso. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Fino exterior 0,5 cm. de espesor\" (sección Revoques), que asigna 0,40 h de oficial y 0,20 h de ayudante por m², con 1,26 kg de cemento, 0,01 m³ de arena fina y 0,81 kg de cal. La fuente da un solo espesor (5 mm): las horas se aplican sin escalar y los materiales se escalan por espesor, 3 / 5 = 0,6. Cemento: 1,26 × 0,6 = 0,756 kg / 50 = 0,01512 bolsa; arena fina: 0,01 × 0,6 = 0,006 m³; cal: 0,81 × 0,6 = 0,486 kg / 25 = 0,01944 bolsa. La fuente dice solo «cal»: se usa la cal hidratada en bolsa que ya llevaba la partida. La línea de equipos y herramientas menores no figura en la fuente: se conserva la del banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,32 h de oficial y 0,13 h de ayudante; 0,0054 bolsa de cemento, 0,018 bolsa de cal hidratada y 0,003 m³ de arena mediana por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: la mano de obra de aplicación y fratasado del fino; cemento, cal hidratada y arena fina; equipos y herramientas menores. NO INCLUYE: el revoque grueso, agua de amasado ni andamios. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 07.05: el costo de esta partida es el del rubro «Fino a la cal» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 12.729,55 de ejecución y $ 1.728,50 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,56 y las de materiales por 3,647. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.720Z",
+      "updatedAt": "2026-11-19T12:37:28.322Z",
       "verification": {
         "findings": [
           "duplicate_candidate-987215db4d4ab044"
@@ -732,37 +767,37 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.4,
+          "quantity": 0.62381178,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.2,
+          "quantity": 0.31190589,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.0126,
+          "quantity": 0.05166311,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.006,
+          "quantity": 0.02460148,
           "ref": "mt-ar-arena-fina-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.01608,
+          "quantity": 0.06593197,
           "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.01,
+          "quantity": 0.01559529,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -788,7 +823,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 8651.21
+          "value": 14458.05
         },
         {
           "currency": "ARS",
@@ -801,7 +836,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 9562.85
+          "value": 15879.79
         },
         {
           "currency": "ARS",
@@ -814,7 +849,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 14629.63
+          "value": 23781.58
         },
         {
           "currency": "ARS",
@@ -827,7 +862,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16801.78
+          "value": 27169.11
         }
       ],
       "sources": [
@@ -836,15 +871,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "07.05",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Revoque fino interior a la cal, espesor 3 mm",
       "tags": [
         "revoques"
       ],
-      "text": "Revoque fino interior a la cal, de 3 mm de espesor, sobre revoque grueso. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Fino interior 0,5 cm. de espesor\" (sección Revoques), que asigna 0,40 h de oficial y 0,20 h de ayudante por m², con 1,05 kg de cemento, 0,01 m³ de arena fina y 0,67 kg de cal. La fuente da un solo espesor (5 mm): las horas se aplican sin escalar y los materiales se escalan por espesor, 3 / 5 = 0,6. Cemento: 1,05 × 0,6 = 0,63 kg / 50 = 0,0126 bolsa; arena fina: 0,01 × 0,6 = 0,006 m³; cal: 0,67 × 0,6 = 0,402 kg / 25 = 0,01608 bolsa. La fuente dice solo «cal»: se carga como cal hidratada en bolsa de 25 kg, como en el resto del banco; la partida llevaba cal hidráulica. La línea de equipos y herramientas menores no figura en la fuente: se conserva la del banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,35 h de oficial y 0,13 h de ayudante; 0,006 bolsa de cemento, 0,74 kg de cal hidráulica y 0,005 m³ de arena mediana por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: la mano de obra de aplicación y fratasado del fino; cemento, cal hidratada y arena fina; equipos y herramientas menores. NO INCLUYE: el revoque grueso, agua de amasado ni andamios. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Revoque fino interior a la cal, de 3 mm de espesor, sobre revoque grueso. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Fino interior 0,5 cm. de espesor\" (sección Revoques), que asigna 0,40 h de oficial y 0,20 h de ayudante por m², con 1,05 kg de cemento, 0,01 m³ de arena fina y 0,67 kg de cal. La fuente da un solo espesor (5 mm): las horas se aplican sin escalar y los materiales se escalan por espesor, 3 / 5 = 0,6. Cemento: 1,05 × 0,6 = 0,63 kg / 50 = 0,0126 bolsa; arena fina: 0,01 × 0,6 = 0,006 m³; cal: 0,67 × 0,6 = 0,402 kg / 25 = 0,01608 bolsa. La fuente dice solo «cal»: se carga como cal hidratada en bolsa de 25 kg, como en el resto del banco; la partida llevaba cal hidráulica. La línea de equipos y herramientas menores no figura en la fuente: se conserva la del banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,35 h de oficial y 0,13 h de ayudante; 0,006 bolsa de cemento, 0,74 kg de cal hidráulica y 0,005 m³ de arena mediana por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: la mano de obra de aplicación y fratasado del fino; cemento, cal hidratada y arena fina; equipos y herramientas menores. NO INCLUYE: el revoque grueso, agua de amasado ni andamios. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 07.05: el costo de esta partida es el del rubro «Fino a la cal» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 12.729,55 de ejecución y $ 1.728,50 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,56 y las de materiales por 4,1. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.725Z",
+      "updatedAt": "2026-11-19T12:37:28.322Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -905,7 +947,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 17130.24
+          "value": 16934.44
         },
         {
           "currency": "ARS",
@@ -918,7 +960,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 17892.97
+          "value": 17697.17
         },
         {
           "currency": "ARS",
@@ -931,7 +973,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22101.91
+          "value": 21906.11
         },
         {
           "currency": "ARS",
@@ -944,7 +986,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23957.97
+          "value": 23762.17
         }
       ],
       "sources": [
@@ -961,7 +1003,7 @@
       ],
       "text": "Revoque fino para frentes-predosificado-base cement, salpicado con molinete de mano. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.808Z",
+      "updatedAt": "2026-11-19T12:06:23.072Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1040,7 +1082,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22810.3
+          "value": 22754.65
         },
         {
           "currency": "ARS",
@@ -1053,7 +1095,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24615.44
+          "value": 24559.79
         },
         {
           "currency": "ARS",
@@ -1066,7 +1108,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 34829.28
+          "value": 34773.63
         },
         {
           "currency": "ARS",
@@ -1079,7 +1121,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 38897.94
+          "value": 38842.29
         }
       ],
       "sources": [
@@ -1096,7 +1138,7 @@
       ],
       "text": "Revoque grueso de perlita de 2 cm, 5,1 kg de cemento por m2. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.812Z",
+      "updatedAt": "2026-11-19T12:06:23.081Z",
       "verification": {
         "findings": [
           "duplicate_candidate-5b651ef7ef5bd62d"
@@ -1177,7 +1219,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23447.88
+          "value": 23383.28
         },
         {
           "currency": "ARS",
@@ -1190,7 +1232,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25253.02
+          "value": 25188.42
         },
         {
           "currency": "ARS",
@@ -1203,7 +1245,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 35466.86
+          "value": 35402.26
         },
         {
           "currency": "ARS",
@@ -1216,7 +1258,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 39535.52
+          "value": 39470.93
         }
       ],
       "sources": [
@@ -1233,7 +1275,7 @@
       ],
       "text": "Revoque grueso de perlita de 2 cm, 5,9 kg de cemento por m2. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.814Z",
+      "updatedAt": "2026-11-19T12:06:23.085Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1306,7 +1348,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 39749.98
+          "value": 39706.34
         },
         {
           "currency": "ARS",
@@ -1319,7 +1361,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 40889.54
+          "value": 40845.89
         },
         {
           "currency": "ARS",
@@ -1332,7 +1374,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 47223.02
+          "value": 47179.37
         },
         {
           "currency": "ARS",
@@ -1345,7 +1387,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 49938.2
+          "value": 49894.55
         }
       ],
       "sources": [
@@ -1362,7 +1404,7 @@
       ],
       "text": "Revoque grueso de mortero de vermiculita como aislante térmico, de 2 cm de espesor. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítems \"Rústico interior 2 cm. de espesor\" y \"Rustico exterior 2 cm. de espesor\" (sección Revoques), que asignan los dos 0,50 h de oficial y 0,25 h de ayudante por m² de revoque grueso de 2 cm. Solo se tomaron las horas: la fuente ejecuta el revoque grueso con mortero de cal, cemento y arena, y esta partida con agregado liviano de vermiculita; se conservan los consumos de materiales del banco (0,08 bolsa de cemento portland compuesto CPC40 de 50 kg; 0,144 bolsa de cal hidratada de 25 kg; 0,02 m³ de vermiculita expandida; 0,04 l de incorporador de aire por m²), que no declaran fuente. El espesor de la fuente y el de la partida coinciden (2 cm). La línea de equipos y herramientas menores no figura en la fuente: se conserva la del banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,7 h de oficial y 0,5 h de ayudante por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: la mano de obra de preparación, aplicación y reglado del grueso; cemento portland compuesto CPC40 en bolsa de 50 kg, cal hidratada en bolsa de 25 kg, vermiculita expandida, incorporador de aire; equipos y herramientas menores. NO INCLUYE: el revoque fino, agua de amasado ni andamios. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.734Z",
+      "updatedAt": "2026-11-19T12:06:23.089Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1373,37 +1415,37 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.5,
+          "quantity": 0.57619899,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.25,
+          "quantity": 0.2880995,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.0616,
+          "quantity": 0.03658056,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.033,
+          "quantity": 0.01959673,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.1628,
+          "quantity": 0.09667719,
           "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.02,
+          "quantity": 0.02304796,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -1429,7 +1471,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 13279.41
+          "value": 13569.49
         },
         {
           "currency": "ARS",
@@ -1442,7 +1484,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 14418.97
+          "value": 14882.71
         },
         {
           "currency": "ARS",
@@ -1455,7 +1497,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 20752.45
+          "value": 22181.4
         },
         {
           "currency": "ARS",
@@ -1468,7 +1510,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23467.63
+          "value": 25310.37
         }
       ],
       "sources": [
@@ -1477,15 +1519,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "07.07",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Revoque grueso exterior reforzado, espesor 2,2 cm",
       "tags": [
         "revoques"
       ],
-      "text": "Revoque grueso exterior reforzado, de 2,2 cm de espesor. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Rustico exterior 2 cm. de espesor\" (sección Revoques), que asigna 0,50 h de oficial y 0,25 h de ayudante por m², con 2,8 kg de cemento, 0,03 m³ de arena mediana y 3,7 kg de cal. La fuente da un solo espesor (2 cm): las horas se aplican sin escalar y los materiales se escalan por espesor, 2,2 / 2 = 1,1. Cemento: 2,8 × 1,1 = 3,08 kg / 50 = 0,0616 bolsa; arena mediana: 0,03 × 1,1 = 0,033 m³; cal: 3,7 × 1,1 = 4,07 kg / 25 = 0,1628 bolsa. La fuente dice solo «cal»: se carga como cal hidratada en bolsa de 25 kg, como en el resto del banco; la partida llevaba cal hidráulica. La línea de equipos y herramientas menores no figura en la fuente: se conserva la del banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,74 h de oficial y 0,50 h de ayudante; 0,1324 bolsa de cemento, 3,73 kg de cal hidráulica y 0,027 m³ de arena mediana por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: la mano de obra de preparación, aplicación y reglado del grueso; cemento, cal hidratada y arena mediana; equipos y herramientas menores. NO INCLUYE: el azotado hidrófugo, el revoque fino, agua de amasado ni andamios. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Revoque grueso exterior reforzado, de 2,2 cm de espesor. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Rustico exterior 2 cm. de espesor\" (sección Revoques), que asigna 0,50 h de oficial y 0,25 h de ayudante por m², con 2,8 kg de cemento, 0,03 m³ de arena mediana y 3,7 kg de cal. La fuente da un solo espesor (2 cm): las horas se aplican sin escalar y los materiales se escalan por espesor, 2,2 / 2 = 1,1. Cemento: 2,8 × 1,1 = 3,08 kg / 50 = 0,0616 bolsa; arena mediana: 0,03 × 1,1 = 0,033 m³; cal: 3,7 × 1,1 = 4,07 kg / 25 = 0,1628 bolsa. La fuente dice solo «cal»: se carga como cal hidratada en bolsa de 25 kg, como en el resto del banco; la partida llevaba cal hidráulica. La línea de equipos y herramientas menores no figura en la fuente: se conserva la del banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,74 h de oficial y 0,50 h de ayudante; 0,1324 bolsa de cemento, 3,73 kg de cal hidráulica y 0,027 m³ de arena mediana por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: la mano de obra de preparación, aplicación y reglado del grueso; cemento, cal hidratada y arena mediana; equipos y herramientas menores. NO INCLUYE: el azotado hidrófugo, el revoque fino, agua de amasado ni andamios. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 07.07: el costo de esta partida es el del rubro «Grueso común» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 11.767,47 de ejecución y $ 1.802,02 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,152 y las de materiales por 0,594. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.739Z",
+      "updatedAt": "2026-11-19T12:37:28.323Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1496,43 +1545,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.60510893,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.5,
+          "quantity": 0.50425745,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.088,
+          "quantity": 0.11020853,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.096,
+          "quantity": 0.12022748,
           "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.022,
+          "quantity": 0.02755213,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.013,
+          "quantity": 0.01628081,
           "ref": "mt-ar-hidrofugo-inorganico-en-bidon-de-10-l",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.02,
+          "quantity": 0.0201703,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -1558,7 +1607,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 17607.43
+          "value": 18410.77
         },
         {
           "currency": "ARS",
@@ -1571,7 +1620,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 19254.58
+          "value": 20071.95
         },
         {
           "currency": "ARS",
@@ -1584,7 +1633,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28650.72
+          "value": 29548.09
         },
         {
           "currency": "ARS",
@@ -1597,7 +1646,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32265.48
+          "value": 33193.64
         }
       ],
       "sources": [
@@ -1606,15 +1655,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "07.10",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Revoque grueso interior-bajo revestimiento, para revestimiento colocado a la cal",
       "tags": [
         "revoques"
       ],
-      "text": "Revoque grueso interior bajo revestimiento, reglado para recibir revestimiento colocado con mezcla a la cal. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 5.3 «Revoque bajo revestimiento» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,60 h de oficial y 0,50 h de ayudante por m², con 4,4 kg de cemento portland, 2,4 kg de cal hidratada, 0,022 m³ de arena mediana y 0,13 l de hidrófugo. Conversiones a las presentaciones del banco: cemento 4,4 kg / 50 = 0,088 bolsa; cal hidratada 2,4 kg / 25 = 0,096 bolsa; hidrófugo 0,13 l / 10 l = 0,013 bidón. El análisis de la fuente incluye hidrófugo en el mortero, y se transcribe. La línea de equipos y herramientas menores no figura en la fuente: se conserva la del banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,60 h de oficial y 0,30 h de ayudante; 0,0216 bolsa de cemento, 4,88 kg de cal hidráulica y 0,025 m³ de arena mediana por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: la mano de obra de preparación, aplicación y reglado del grueso; cemento, cal hidratada, arena mediana e hidrófugo; equipos y herramientas menores. NO INCLUYE: el revestimiento ni su colocación, agua de amasado ni andamios. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Revoque grueso interior bajo revestimiento, reglado para recibir revestimiento colocado con mezcla a la cal. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 5.3 «Revoque bajo revestimiento» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,60 h de oficial y 0,50 h de ayudante por m², con 4,4 kg de cemento portland, 2,4 kg de cal hidratada, 0,022 m³ de arena mediana y 0,13 l de hidrófugo. Conversiones a las presentaciones del banco: cemento 4,4 kg / 50 = 0,088 bolsa; cal hidratada 2,4 kg / 25 = 0,096 bolsa; hidrófugo 0,13 l / 10 l = 0,013 bidón. El análisis de la fuente incluye hidrófugo en el mortero, y se transcribe. La línea de equipos y herramientas menores no figura en la fuente: se conserva la del banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,60 h de oficial y 0,30 h de ayudante; 0,0216 bolsa de cemento, 4,88 kg de cal hidráulica y 0,025 m³ de arena mediana por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: la mano de obra de preparación, aplicación y reglado del grueso; cemento, cal hidratada, arena mediana e hidrófugo; equipos y herramientas menores. NO INCLUYE: el revestimiento ni su colocación, agua de amasado ni andamios. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 07.10: el costo de esta partida es el del rubro «Interior azotado y grueso b/revestimientos» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 14.806,35 de ejecución y $ 3.604,42 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,009 y las de materiales por 1,252. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.744Z",
+      "updatedAt": "2026-11-19T12:37:28.323Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1625,37 +1681,37 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.8,
+          "quantity": 0.9158855,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.45,
+          "quantity": 0.51518559,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.034,
+          "quantity": 0.04771605,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.124,
+          "quantity": 0.17402324,
           "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.03,
+          "quantity": 0.0421024,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.2,
+          "quantity": 0.22897137,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -1681,7 +1737,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 19480.99
+          "value": 22884.54
         },
         {
           "currency": "ARS",
@@ -1694,7 +1750,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 21374.2
+          "value": 25051.99
         },
         {
           "currency": "ARS",
@@ -1707,7 +1763,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 31956.75
+          "value": 37167.5
         },
         {
           "currency": "ARS",
@@ -1720,7 +1776,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36390.18
+          "value": 42243.14
         }
       ],
       "sources": [
@@ -1729,15 +1785,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "07.09",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Revoque interior completo, mezcla: az.:gr.: 1/4 : 1 : 3 : 1, fn.: 1/8 : 1 : 3",
       "tags": [
         "revoques"
       ],
-      "text": "Revoque interior completo, grueso y fino a la cal; el título indica las mezclas «az.:gr.: 1/4 : 1 : 3 : 1» y «fn.: 1/8 : 1 : 3». Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 5.2 «Revoque completo terminado a la cal para interiores» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,80 h de oficial y 0,45 h de ayudante por m², con 1,7 kg de cemento portland, 3,1 kg de cal hidratada y 0,03 m³ de arena mediana. Conversiones a las presentaciones del banco: cemento 1,7 kg / 50 = 0,034 bolsa; cal hidratada 3,1 kg / 25 = 0,124 bolsa. La fuente no declara los dosajes de sus mezclas: se toman sus consumos, no los del dosaje del título. El análisis de la fuente no lleva azotado ni hidrófugo, y esta partida tampoco. La línea de equipos y herramientas menores no figura en la fuente: se conserva la del banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,80 h de oficial y 0,45 h de ayudante; 0,034 bolsa de cemento, 4 kg de cal hidráulica y 0,03 m³ de arena mediana por m², sin fuente declarada), que no tenían una fuente que se pudiera cotejar. INCLUYE: la mano de obra del revoque grueso y del fino; cemento, cal hidratada y arena mediana; equipos y herramientas menores. NO INCLUYE: azotado hidrófugo, agua de amasado ni andamios. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Revoque interior completo, grueso y fino a la cal; el título indica las mezclas «az.:gr.: 1/4 : 1 : 3 : 1» y «fn.: 1/8 : 1 : 3». Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 5.2 «Revoque completo terminado a la cal para interiores» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,80 h de oficial y 0,45 h de ayudante por m², con 1,7 kg de cemento portland, 3,1 kg de cal hidratada y 0,03 m³ de arena mediana. Conversiones a las presentaciones del banco: cemento 1,7 kg / 50 = 0,034 bolsa; cal hidratada 3,1 kg / 25 = 0,124 bolsa. La fuente no declara los dosajes de sus mezclas: se toman sus consumos, no los del dosaje del título. El análisis de la fuente no lleva azotado ni hidrófugo, y esta partida tampoco. La línea de equipos y herramientas menores no figura en la fuente: se conserva la del banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,80 h de oficial y 0,45 h de ayudante; 0,034 bolsa de cemento, 4 kg de cal hidráulica y 0,03 m³ de arena mediana por m², sin fuente declarada), que no tenían una fuente que se pudiera cotejar. INCLUYE: la mano de obra del revoque grueso y del fino; cemento, cal hidratada y arena mediana; equipos y herramientas menores. NO INCLUYE: azotado hidrófugo, agua de amasado ni andamios. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 07.09: el costo de esta partida es el del rubro «Interior a la cal común completo» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 19.612,44 de ejecución y $ 3.272,10 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,145 y las de materiales por 1,403. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.748Z",
+      "updatedAt": "2026-11-19T12:37:28.324Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1745,5 +1808,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

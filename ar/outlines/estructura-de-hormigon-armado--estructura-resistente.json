@@ -6,7 +6,7 @@
       "g": [],
       "id": "wi-ar-columna-de-hormigon-armado",
       "m": 10,
-      "p": 1061133.51,
+      "p": 1021537.33,
       "s": "Columna de hormigón armado",
       "u": "m3"
     },
@@ -15,7 +15,7 @@
       "g": [],
       "id": "wi-ar-encadenado-horizontal-de-hormigon-armado",
       "m": 10,
-      "p": 1103976.48,
+      "p": 916269.5,
       "s": "Encadenado horizontal de hormigón armado",
       "u": "m3"
     },
@@ -24,7 +24,7 @@
       "g": [],
       "id": "wi-ar-losa-maciza-de-hormigon-armado",
       "m": 10,
-      "p": 900661.53,
+      "p": 926661.3,
       "s": "Losa maciza de hormigón armado",
       "u": "m3"
     },
@@ -33,11 +33,11 @@
       "g": [],
       "id": "wi-ar-viga-resistente-de-hormigon-armado",
       "m": 10,
-      "p": 1328011.6,
+      "p": 1306410.47,
       "s": "Viga resistente de hormigón armado",
       "u": "m3"
     }
   ],
   "title": "Estructura de hormigón armado > Estructura resistente",
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

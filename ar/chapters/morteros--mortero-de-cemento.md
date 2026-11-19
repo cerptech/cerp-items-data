@@ -1,6 +1,6 @@
 # Morteros > Mortero de cemento
 
-Banco de ítems de construcción CERP v0.11.0 — 1 ítems. Datos estructurados en [`morteros--mortero-de-cemento.json`](./morteros--mortero-de-cemento.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.12.0 — 1 ítems. Datos estructurados en [`morteros--mortero-de-cemento.json`](./morteros--mortero-de-cemento.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
 > Costos unitarios por rubro y precios de materiales de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar
 > Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo
@@ -8,4 +8,4 @@ Banco de ítems de construcción CERP v0.11.0 — 1 ítems. Datos estructurados 
 
 | id | resumen | ud | precio ARS | fecha | descomposición (ref × cantidad) |
 |----|---------|----|-----------:|-------|---------------------------------|
-| `wi-ar-mortero-de-cemento-1-6-preparado-en-obra` | Mortero de cemento 1:6 preparado en obra | m3 | 130259.3 | 2026-11 | mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg ×5.16<br>mt-ar-arena-gruesa-a-granel ×1.102<br>mo-ar-ayudante-cct-76-75 ×1.03 |
+| `wi-ar-mortero-de-cemento-1-6-preparado-en-obra` | Mortero de cemento 1:6 preparado en obra | m3 | 127444.21 | 2026-11 | mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg ×5.16<br>mt-ar-arena-gruesa-a-granel ×1.102<br>mo-ar-ayudante-cct-76-75 ×1.03 |

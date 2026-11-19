@@ -90,7 +90,7 @@
       "g": [],
       "id": "wi-ar-piso-de-cemento-alisado",
       "m": 5,
-      "p": 16708.23,
+      "p": 18109.85,
       "s": "Piso de cemento alisado",
       "u": "m2"
     },
@@ -106,7 +106,7 @@
       "g": [],
       "id": "wi-ar-piso-de-ceramico-esmaltado-51x51-cm",
       "m": 5,
-      "p": 35254.56,
+      "p": 56989.34,
       "s": "Piso de cerámico esmaltado 51x51 cm",
       "u": "m2"
     },
@@ -115,7 +115,7 @@
       "g": [],
       "id": "wi-ar-piso-de-mosaico-granitico-30x30-cm",
       "m": 6,
-      "p": 48154.69,
+      "p": 56651.33,
       "s": "Piso de mosaico granítico 30x30 cm",
       "u": "m2"
     },
@@ -124,7 +124,7 @@
       "g": [],
       "id": "wi-ar-piso-de-porcelanato-60x60-cm",
       "m": 5,
-      "p": 55463.89,
+      "p": 68232.21,
       "s": "Piso de porcelanato 60x60 cm",
       "u": "m2"
     },
@@ -133,11 +133,11 @@
       "g": [],
       "id": "wi-ar-piso-flotante-laminado-ac4-de-8-mm",
       "m": 3,
-      "p": 53013.6,
+      "p": 58166.53,
       "s": "Piso flotante laminado AC4 de 8 mm",
       "u": "m2"
     }
   ],
   "title": "Solados > Pisos",
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

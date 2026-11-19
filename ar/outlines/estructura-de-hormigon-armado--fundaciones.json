@@ -6,7 +6,7 @@
       "g": [],
       "id": "wi-ar-base-de-hormigon-armado",
       "m": 7,
-      "p": 693398.31,
+      "p": 690091.95,
       "s": "Base de hormigón armado",
       "u": "m3"
     },
@@ -24,11 +24,11 @@
       "g": [],
       "id": "wi-ar-viga-de-fundacion-de-hormigon-armado",
       "m": 9,
-      "p": 1023281.88,
+      "p": 1018851.41,
       "s": "Viga de fundación de hormigón armado",
       "u": "m3"
     }
   ],
   "title": "Estructura de hormigón armado > Fundaciones",
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

@@ -96,7 +96,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28681.11
+          "value": 28649.07
         },
         {
           "currency": "ARS",
@@ -109,7 +109,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 30021.35
+          "value": 29989.31
         },
         {
           "currency": "ARS",
@@ -122,7 +122,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 37741.94
+          "value": 37709.9
         },
         {
           "currency": "ARS",
@@ -135,7 +135,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 40586.72
+          "value": 40554.68
         }
       ],
       "sources": [
@@ -152,7 +152,7 @@
       ],
       "text": "Cielorraso de fibras de vidrio revestido en pvc-desmontable, espesor 25 mm.placas de 0,61m x 1,21 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:14.982Z",
+      "updatedAt": "2026-11-19T12:06:22.773Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -163,55 +163,55 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.65,
+          "quantity": 0.46833402,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.65,
+          "quantity": 0.46833402,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 13,
+          "quantity": 12.28019079,
           "ref": "mt-ar-tornillo-autoperforante-t2-para-placa-de-roca-de-yeso",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.011001,
+          "quantity": 0.01039188,
           "ref": "mt-ar-cinta-de-papel-microperforada-para-juntas-en-rollo-de-150-m",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.05,
+          "quantity": 0.0472315,
           "ref": "mt-ar-masilla-para-juntas-de-placa-de-roca-de-yeso-en-balde-de-18",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 2.45,
+          "quantity": 2.31434365,
           "ref": "mt-ar-perfil-omega",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 3.5,
+          "quantity": 3.30620521,
           "ref": "mt-ar-fijacion-de-tornillo-y-taco",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.705924,
+          "quantity": 0.66683703,
           "ref": "mt-ar-placa-de-roca-de-yeso-de-9-5-mm-de-1-20-x-2-40-m",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.02,
+          "quantity": 0.01441028,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -237,7 +237,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 31833.72
+          "value": 24652.59
         },
         {
           "currency": "ARS",
@@ -250,7 +250,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33769.63
+          "value": 26047.44
         },
         {
           "currency": "ARS",
@@ -263,7 +263,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 44921.59
+          "value": 34082.58
         },
         {
           "currency": "ARS",
@@ -276,7 +276,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 49030.71
+          "value": 37043.26
         }
       ],
       "sources": [
@@ -285,15 +285,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "09.05",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Cielorraso de placas de roca de yeso aplicado bajo losa, placa común 1,22 m x 2,44 m-esp: 9,5mm",
       "tags": [
         "construcción en seco"
       ],
-      "text": "Cielorraso de placas de roca de yeso aplicado bajo losa, placa común 1,22 m x 2,44 m-esp: 9,5mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Cielorraso de placas de roca de yeso aplicado bajo losa, placa común 1,22 m x 2,44 m-esp: 9,5mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 09.05: el costo de esta partida es el del rubro «Placa de yeso común junta tomada, s/aislación» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 12.407,53 de ejecución y $ 12.245,06 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,721 y las de materiales por 0,945. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:14.998Z",
+      "updatedAt": "2026-11-19T12:37:28.275Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -304,55 +311,55 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.45,
+          "quantity": 0.52915491,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.45,
+          "quantity": 0.52915491,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.8,
+          "quantity": 2.14716918,
           "ref": "mt-ar-perfil-larguero-para-cielorraso-desmontable",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.8,
+          "quantity": 0.95429741,
           "ref": "mt-ar-perfil-travesano-para-cielorraso-desmontable",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1.5,
+          "quantity": 1.78930765,
           "ref": "mt-ar-perfil-perimetral-para-cielorraso",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 6,
+          "quantity": 7.1572306,
           "ref": "mt-ar-tornillo-con-taco-n-8",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 6,
+          "quantity": 7.1572306,
           "ref": "mt-ar-tornillo-autoperforante-t2-para-placa-de-roca-de-yeso",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.361571,
+          "quantity": 0.43130784,
           "ref": "mt-ar-placa-de-roca-de-yeso-de-9-5-mm-de-1-20-x-2-40-m",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.01,
+          "quantity": 0.011759,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -378,7 +385,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22919.16
+          "value": 27053.7
         },
         {
           "currency": "ARS",
@@ -391,7 +398,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24259.4
+          "value": 28629.69
         },
         {
           "currency": "ARS",
@@ -404,7 +411,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 31979.99
+          "value": 37708.33
         },
         {
           "currency": "ARS",
@@ -417,7 +424,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 34824.76
+          "value": 41053.5
         }
       ],
       "sources": [
@@ -426,15 +433,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "09.08",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Cielorraso de placas de roca de yeso-desmontable",
       "tags": [
         "construcción en seco"
       ],
-      "text": "Cielorraso de placas de roca de yeso-desmontable. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Cielorraso de placas de roca de yeso-desmontable. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 09.08: el costo de esta partida es el del rubro «Placa vinílica texturada desmontable, s/aislación» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 14.013,88 de ejecución y $ 13.039,83 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,176 y las de materiales por 1,193. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.004Z",
+      "updatedAt": "2026-11-19T12:37:28.275Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -531,7 +545,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 46235.76
+          "value": 46203.72
         },
         {
           "currency": "ARS",
@@ -544,7 +558,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 47576
+          "value": 47543.96
         },
         {
           "currency": "ARS",
@@ -557,7 +571,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 55296.59
+          "value": 55264.55
         },
         {
           "currency": "ARS",
@@ -570,7 +584,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 58141.37
+          "value": 58109.33
         }
       ],
       "sources": [
@@ -587,7 +601,7 @@
       ],
       "text": "Cielorraso suspendido de fibras minerales 61x61cm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.026Z",
+      "updatedAt": "2026-11-19T12:06:22.779Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -690,7 +704,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 74228.6
+          "value": 64510.12
         },
         {
           "currency": "ARS",
@@ -703,7 +717,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 77266.49
+          "value": 67548
         },
         {
           "currency": "ARS",
@@ -716,7 +730,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 94766.49
+          "value": 85048
         },
         {
           "currency": "ARS",
@@ -729,7 +743,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 101214.65
+          "value": 91496.17
         }
       ],
       "sources": [
@@ -746,7 +760,7 @@
       ],
       "text": "Pared divisoria resistente al fuego, placa resistente al fuego 1,22 mx 2,44 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.638Z",
+      "updatedAt": "2026-11-19T12:06:23.006Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -757,73 +771,73 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1.2,
+          "quantity": 0.29900037,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.2,
+          "quantity": 0.29900037,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 0.54955673,
           "ref": "mt-ar-perfil-solera-de-70-mm-para-tabique",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 2.999997,
+          "quantity": 1.64866855,
           "ref": "mt-ar-perfil-montante-de-69-mm-para-tabique",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.1,
+          "quantity": 0.05495567,
           "ref": "mt-ar-tornillo-t1-para-perfileria-de-construccion-en-seco-en-caja",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 15,
+          "quantity": 8.24335101,
           "ref": "mt-ar-tornillo-autoperforante-t2-para-placa-de-roca-de-yeso",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.3,
+          "quantity": 0.16486702,
           "ref": "mt-ar-tornillo-t3-para-placa-de-roca-de-yeso-en-caja-de-100",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.022001,
+          "quantity": 0.0120908,
           "ref": "mt-ar-cinta-de-papel-microperforada-para-juntas-en-rollo-de-150-m",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.100001,
+          "quantity": 0.05495622,
           "ref": "mt-ar-masilla-para-juntas-de-placa-de-roca-de-yeso-en-balde-de-18",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 3.5,
+          "quantity": 1.92344857,
           "ref": "mt-ar-fijacion-de-tornillo-y-taco",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.711805,
+          "quantity": 0.39117723,
           "ref": "mt-ar-placa-de-roca-de-yeso-estandar-de-12-5-mm-de-1-20-x-2-40-m",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.02,
+          "quantity": 0.00498334,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -849,7 +863,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 57581.15
+          "value": 18680.61
         },
         {
           "currency": "ARS",
@@ -862,7 +876,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 61155.13
+          "value": 19571.13
         },
         {
           "currency": "ARS",
@@ -875,7 +889,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 81743.37
+          "value": 24701.04
         },
         {
           "currency": "ARS",
@@ -888,7 +902,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 89329.44
+          "value": 26591.24
         }
       ],
       "sources": [
@@ -897,15 +911,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "04.18",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Pared doble, placa común 1,22 m x 2,44 m-esp: 12,5mm",
       "tags": [
         "construcción en seco"
       ],
-      "text": "Pared doble, placa común 1,22 m x 2,44 m-esp: 12,5mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Pared doble, placa común 1,22 m x 2,44 m-esp: 12,5mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 04.18: el costo de esta partida es el del rubro «Placa de yeso simple esp.9,5cm interior, s/aislación» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 7.916,75 de ejecución y $ 10.763,86 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,249 y las de materiales por 0,55. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.640Z",
+      "updatedAt": "2026-11-19T12:37:28.313Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -916,67 +937,67 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.3,
+          "quantity": 0.48076141,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.45,
+          "quantity": 0.72114212,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 1.2492375,
           "ref": "mt-ar-perfil-solera-de-70-mm-para-tabique",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 2.499996,
+          "quantity": 3.12308877,
           "ref": "mt-ar-perfil-montante-de-69-mm-para-tabique",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.08,
+          "quantity": 0.099939,
           "ref": "mt-ar-tornillo-t1-para-perfileria-de-construccion-en-seco-en-caja",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 26,
+          "quantity": 32.48017513,
           "ref": "mt-ar-tornillo-autoperforante-t2-para-placa-de-roca-de-yeso",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.022001,
+          "quantity": 0.02748447,
           "ref": "mt-ar-cinta-de-papel-microperforada-para-juntas-en-rollo-de-150-m",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.100001,
+          "quantity": 0.124925,
           "ref": "mt-ar-masilla-para-juntas-de-placa-de-roca-de-yeso-en-balde-de-18",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 3.5,
+          "quantity": 4.37233127,
           "ref": "mt-ar-fijacion-de-tornillo-y-taco",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.711805,
+          "quantity": 0.8892135,
           "ref": "mt-ar-placa-de-roca-de-yeso-estandar-de-12-5-mm-de-1-20-x-2-40-m",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.01,
+          "quantity": 0.01602538,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -1002,7 +1023,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32729.05
+          "value": 37021.43
         },
         {
           "currency": "ARS",
@@ -1015,7 +1036,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33832.31
+          "value": 38789.45
         },
         {
           "currency": "ARS",
@@ -1028,7 +1049,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 40326.34
+          "value": 49196.38
         },
         {
           "currency": "ARS",
@@ -1041,7 +1062,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 42490.27
+          "value": 52664.15
         }
       ],
       "sources": [
@@ -1050,15 +1071,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "04.15",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Pared simple divisoria de locales humedos, placa resistente a la humedad 1,22 m x 2,44 m",
       "tags": [
         "construcción en seco"
       ],
-      "text": "Pared simple divisoria de locales húmedos de construcción en seco, con estructura de soleras de 70 mm y montantes de 69 mm de chapa galvanizada y una placa de roca de yeso de 12,5 mm por cara, atornillada, con juntas tomadas con cinta y masilla. Medida por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítem 4.3 «Tabique simple Drywall» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema en seco, edición octubre 2026, publicación de descarga libre), que asigna 0,30 h de oficial y 0,45 h de ayudante por m². Se tomó solo la mano de obra: la fuente describe el mismo tabique (estructura de 70 mm y placa de 12,5 mm en las dos caras) pero con otra especificación de materiales: placa estándar en lugar de placa resistente a la humedad, lana de vidrio de 50 mm (1 m² por m²) y cantonera metálica (2 m por m²), y computa montantes y soleras por unidad sin declarar el largo de la barra. Por eso se conservan los materiales que ya tenía la partida: sus cantidades y la línea de equipos y herramientas menores no tienen fuente declarada. Las horas de la fuente incluyen la colocación de la lana de vidrio y de la cantonera, que esta partida no lleva. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,90 h de oficial y 0,90 h de ayudante; materiales sin cambio), que no tenían una fuente que se pudiera cotejar. INCLUYE: 0,30 h de oficial; 0,45 h de ayudante; 1 m de perfil solera de 70 mm para tabique; 2,499996 m de perfil montante de 69 mm para tabique; 0,08 u de tornillo T1 para perfilería de construcción en seco en caja de 100; 26 u de tornillo autoperforante T2 para placa de roca de yeso; 0,022001 u de cinta de papel microperforada para juntas en rollo de 150 m; 0,100001 u de masilla para juntas de placa de roca de yeso en balde de 18 kg; 3,50 u de fijación de tornillo y taco; 0,711805 u de placa de roca de yeso estándar de 12,5 mm de 1,20 x 2,40 m; 0,01 h de equipos y herramientas menores (por hora de uso). La placa se cotiza como placa estándar de 12,5 mm porque el banco todavía no tiene precio para la placa resistente a la humedad. NO INCLUYE: aislación de lana de vidrio (la fuente lleva 1 m² de lana de vidrio de 50 mm por m²), cantoneras (la fuente lleva 2 m por m²), tratamiento hidrófugo adicional, ni pintura. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Pared simple divisoria de locales húmedos de construcción en seco, con estructura de soleras de 70 mm y montantes de 69 mm de chapa galvanizada y una placa de roca de yeso de 12,5 mm por cara, atornillada, con juntas tomadas con cinta y masilla. Medida por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítem 4.3 «Tabique simple Drywall» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema en seco, edición octubre 2026, publicación de descarga libre), que asigna 0,30 h de oficial y 0,45 h de ayudante por m². Se tomó solo la mano de obra: la fuente describe el mismo tabique (estructura de 70 mm y placa de 12,5 mm en las dos caras) pero con otra especificación de materiales: placa estándar en lugar de placa resistente a la humedad, lana de vidrio de 50 mm (1 m² por m²) y cantonera metálica (2 m por m²), y computa montantes y soleras por unidad sin declarar el largo de la barra. Por eso se conservan los materiales que ya tenía la partida: sus cantidades y la línea de equipos y herramientas menores no tienen fuente declarada. Las horas de la fuente incluyen la colocación de la lana de vidrio y de la cantonera, que esta partida no lleva. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,90 h de oficial y 0,90 h de ayudante; materiales sin cambio), que no tenían una fuente que se pudiera cotejar. INCLUYE: 0,30 h de oficial; 0,45 h de ayudante; 1 m de perfil solera de 70 mm para tabique; 2,499996 m de perfil montante de 69 mm para tabique; 0,08 u de tornillo T1 para perfilería de construcción en seco en caja de 100; 26 u de tornillo autoperforante T2 para placa de roca de yeso; 0,022001 u de cinta de papel microperforada para juntas en rollo de 150 m; 0,100001 u de masilla para juntas de placa de roca de yeso en balde de 18 kg; 3,50 u de fijación de tornillo y taco; 0,711805 u de placa de roca de yeso estándar de 12,5 mm de 1,20 x 2,40 m; 0,01 h de equipos y herramientas menores (por hora de uso). La placa se cotiza como placa estándar de 12,5 mm porque el banco todavía no tiene precio para la placa resistente a la humedad. NO INCLUYE: aislación de lana de vidrio (la fuente lleva 1 m² de lana de vidrio de 50 mm por m²), cantoneras (la fuente lleva 2 m por m²), tratamiento hidrófugo adicional, ni pintura. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 04.15: el costo de esta partida es el del rubro «Placa de yeso resistente a la humedad esp.9,5cm» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 15.661,38 de ejecución y $ 21.360,05 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,603 y las de materiales por 1,249. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.606Z",
+      "updatedAt": "2026-11-19T12:37:28.313Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1069,67 +1097,67 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.27873666,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.27873666,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 0.73878916,
           "ref": "mt-ar-perfil-solera-de-70-mm-para-tabique",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 2.499996,
+          "quantity": 1.84696994,
           "ref": "mt-ar-perfil-montante-de-69-mm-para-tabique",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.08,
+          "quantity": 0.05910313,
           "ref": "mt-ar-tornillo-t1-para-perfileria-de-construccion-en-seco-en-caja",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 13,
+          "quantity": 9.60425903,
           "ref": "mt-ar-tornillo-autoperforante-t2-para-placa-de-roca-de-yeso",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.011001,
+          "quantity": 0.00812742,
           "ref": "mt-ar-cinta-de-papel-microperforada-para-juntas-en-rollo-de-150-m",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.05,
+          "quantity": 0.03693946,
           "ref": "mt-ar-masilla-para-juntas-de-placa-de-roca-de-yeso-en-balde-de-18",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 3.5,
+          "quantity": 2.58576205,
           "ref": "mt-ar-fijacion-de-tornillo-y-taco",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.364583,
+          "quantity": 0.26934997,
           "ref": "mt-ar-placa-de-roca-de-yeso-estandar-de-12-5-mm-de-1-20-x-2-40-m",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.008,
+          "quantity": 0.00371649,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -1155,7 +1183,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 31716.17
+          "value": 15809.56
         },
         {
           "currency": "ARS",
@@ -1168,7 +1196,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33503.16
+          "value": 16639.73
         },
         {
           "currency": "ARS",
@@ -1181,7 +1209,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 43797.28
+          "value": 21421.97
         },
         {
           "currency": "ARS",
@@ -1194,7 +1222,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 47590.31
+          "value": 23184.07
         }
       ],
       "sources": [
@@ -1203,15 +1231,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "04.16",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Pared simple revestida de un solo lado, espesor de pared 8,25 cm",
       "tags": [
         "construcción en seco"
       ],
-      "text": "Pared simple revestida de un solo lado, espesor de pared 8,25 cm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Pared simple revestida de un solo lado, espesor de pared 8,25 cm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 04.16: el costo de esta partida es el del rubro «Placa de yeso simple esp.8,5cm medio tabique interior» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 7.379,20 de ejecución y $ 8.430,36 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,465 y las de materiales por 0,739. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.647Z",
+      "updatedAt": "2026-11-19T12:37:28.313Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1296,7 +1331,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 19696.53
+          "value": 16802.27
         },
         {
           "currency": "ARS",
@@ -1309,7 +1344,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 20321.98
+          "value": 17427.72
         },
         {
           "currency": "ARS",
@@ -1322,7 +1357,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23924.92
+          "value": 21030.66
         },
         {
           "currency": "ARS",
@@ -1335,7 +1370,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25252.48
+          "value": 22358.22
         }
       ],
       "sources": [
@@ -1358,7 +1393,7 @@
       ],
       "text": "Revestimiento de pared existente con una placa de roca de yeso común de 12,5 mm atornillada sobre perfiles omega de chapa galvanizada fijados al muro con tornillo y taco, con juntas tomadas con cinta y masilla. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: adaptado de la partida «Revestido placas yeso laminado 13 mm perf. ac. gal. fij. mec.» (código 10LWW90013) de la Base de Costes de la Construcción de Andalucía (BCCA, edición 2024-01, datos abiertos de la Junta de Andalucía); es práctica española, a contrastar. Se usa porque ni el Colegio de Arquitectos de Salta ni la FACET tienen revestimiento de muro con placa de yeso sobre perfilería (el Colegio de Arquitectos de Salta solo trae tabique completo de placa, con montantes y aislación). La BCCA asigna 0,21 h por m² de una cuadrilla formada por un oficial de primera de albañilería y un peón especial (0,21 h de cada uno), que se cargan como oficial y ayudante, para una placa de 13 mm sobre perfilería de acero galvanizado con fijación mecánica, con replanteo, aplomado y repaso de juntas. Se tomó solo la mano de obra: la fuente da 1,05 m² de placa (que coincide con la cantidad de la partida: 1,05 m² / 2,88 m² por placa de 1,20 x 2,40 m = 0,3646 placa) y agrupa perfiles, tornillos, cinta y masilla en un «material complementario» sin detalle, así que se conservan los accesorios que ya tenía la partida: sus cantidades y la línea de equipos y herramientas menores no tienen fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,50 h de oficial y 0,50 h de ayudante), que no tenían una fuente que se pudiera cotejar. INCLUYE: 0,21 h de oficial y 0,21 h de ayudante; 0,3646 placa de roca de yeso estándar de 12,5 mm de 1,20 x 2,40 m; 3,00 m de perfil omega; 8 fijaciones de tornillo y taco; 15 tornillos autoperforantes T2; 0,011 rollo de cinta de papel microperforada; 0,05 balde de masilla para juntas; 0,01 h de equipos y herramientas menores. NO INCLUYE: aislación térmica o acústica, cantoneras, enduido total ni pintura. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Rendimientos adaptados de BCCA wi-revestido-placas-yeso-laminado-13mm-perf-ac-gal-fij-mec: horas y consumos adaptados como se detalla en la descripción; es práctica española, a contrastar con experiencia local",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.694Z",
+      "updatedAt": "2026-11-19T12:06:23.059Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1443,7 +1478,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36521.95
+          "value": 33421.36
         },
         {
           "currency": "ARS",
@@ -1456,7 +1491,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 37713.28
+          "value": 34612.69
         },
         {
           "currency": "ARS",
@@ -1469,7 +1504,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 44576.02
+          "value": 41475.43
         },
         {
           "currency": "ARS",
@@ -1482,7 +1517,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 47104.71
+          "value": 44004.12
         }
       ],
       "sources": [
@@ -1499,7 +1534,7 @@
       ],
       "text": "Tabique con estructura de madera 1\" x 2\", placa común 1,22 m x 2,44 m-esp: 12,5mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.848Z",
+      "updatedAt": "2026-11-19T12:06:23.105Z",
       "verification": {
         "findings": [
           "duplicate_candidate-d979eaded17683ed"
@@ -1586,7 +1621,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 46574.23
+          "value": 43280.24
         },
         {
           "currency": "ARS",
@@ -1599,7 +1634,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 47914.48
+          "value": 44620.48
         },
         {
           "currency": "ARS",
@@ -1612,7 +1647,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 55635.06
+          "value": 52341.07
         },
         {
           "currency": "ARS",
@@ -1625,7 +1660,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 58479.84
+          "value": 55185.85
         }
       ],
       "sources": [
@@ -1642,7 +1677,7 @@
       ],
       "text": "Tabique con estructura de madera 2\" x 2\", placa común 1,22 m x 2,44 m-esp: 12,5mm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.853Z",
+      "updatedAt": "2026-11-19T12:06:23.107Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1650,5 +1685,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

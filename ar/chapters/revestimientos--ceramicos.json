@@ -10,31 +10,31 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1.38,
+          "quantity": 1.15354409,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.79,
+          "quantity": 0.6603622,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.05,
+          "quantity": 1.38258553,
           "ref": "mt-ar-revestimiento-ceramico-esmaltado-blanco-20x30-cm",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.125,
+          "quantity": 0.16459351,
           "ref": "mt-ar-adhesivo-impermeable-para-ceramicos-en-bolsa-de-30-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.2,
+          "quantity": 0.26334962,
           "ref": "mt-ar-pastina-para-juntas",
           "role": "material"
         }
@@ -61,7 +61,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 53184.67
+          "value": 55923.48
         },
         {
           "currency": "ARS",
@@ -74,7 +74,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 56469.69
+          "value": 58669.43
         },
         {
           "currency": "ARS",
@@ -87,7 +87,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 74848.07
+          "value": 74031.94
         },
         {
           "currency": "ARS",
@@ -100,7 +100,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 82520.24
+          "value": 80445.13
         }
       ],
       "sources": [
@@ -109,6 +109,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "10.02",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Revestimiento cerámico esmaltado 20x30 cm",
@@ -118,9 +125,9 @@
         "pared",
         "baño"
       ],
-      "text": "Revestimiento de paramento con cerámico esmaltado de 20x30 cm colocado con adhesivo impermeable sobre revoque grueso, con junta tomada con pastina. Medido por metro cuadrado de superficie ejecutada; cortes y desperdicios incluidos en el consumo de piezas. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 8.1 «Revestimiento cerámico esmaltado» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 1,38 h de oficial y 0,79 h de ayudante por m², con 1,05 m² de cerámico esmaltado, 3,75 kg de pegamento para cerámico impermeable y 0,2 kg de pastina para cerámicos. Adaptación: el pegamento se carga en bolsas de 30 kg de adhesivo impermeable para cerámicos (3,75 kg / 30 kg = 0,125 bolsa). La fuente no fija la medida de la pieza; se usa el cerámico esmaltado blanco de 20x30 cm que describe la partida, con el consumo de la fuente. CORRECCIÓN (noviembre 2026): la cita pasa de la edición julio 2025 a la de octubre 2026. Las horas ya coincidían con el ítem citado (1,38 h de oficial y 0,79 h de ayudante) y la pastina también (0,2 kg). Cambian dos consumos que no eran los del ítem: el cerámico pasa de 1,07 m² a 1,05 m², y el adhesivo pasa de 0,1 bolsa de 30 kg (3 kg) a 0,125 bolsa (3,75 kg). INCLUYE: cerámico esmaltado de 20x30 cm con su desperdicio, adhesivo impermeable para cerámicos, pastina para juntas y mano de obra de oficial y ayudante para la colocación y el tomado de juntas. NO INCLUYE: revoque grueso bajo revestimiento (va por su propia partida), guardacantos ni piezas especiales, que la fuente no trae en este ítem. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Revestimiento de paramento con cerámico esmaltado de 20x30 cm colocado con adhesivo impermeable sobre revoque grueso, con junta tomada con pastina. Medido por metro cuadrado de superficie ejecutada; cortes y desperdicios incluidos en el consumo de piezas. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 8.1 «Revestimiento cerámico esmaltado» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 1,38 h de oficial y 0,79 h de ayudante por m², con 1,05 m² de cerámico esmaltado, 3,75 kg de pegamento para cerámico impermeable y 0,2 kg de pastina para cerámicos. Adaptación: el pegamento se carga en bolsas de 30 kg de adhesivo impermeable para cerámicos (3,75 kg / 30 kg = 0,125 bolsa). La fuente no fija la medida de la pieza; se usa el cerámico esmaltado blanco de 20x30 cm que describe la partida, con el consumo de la fuente. CORRECCIÓN (noviembre 2026): la cita pasa de la edición julio 2025 a la de octubre 2026. Las horas ya coincidían con el ítem citado (1,38 h de oficial y 0,79 h de ayudante) y la pastina también (0,2 kg). Cambian dos consumos que no eran los del ítem: el cerámico pasa de 1,07 m² a 1,05 m², y el adhesivo pasa de 0,1 bolsa de 30 kg (3 kg) a 0,125 bolsa (3,75 kg). INCLUYE: cerámico esmaltado de 20x30 cm con su desperdicio, adhesivo impermeable para cerámicos, pastina para juntas y mano de obra de oficial y ayudante para la colocación y el tomado de juntas. NO INCLUYE: revoque grueso bajo revestimiento (va por su propia partida), guardacantos ni piezas especiales, que la fuente no trae en este ítem. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 10.02: el costo de esta partida es el del rubro «Cerámicos esmaltados» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 24.524,13 de ejecución y $ 31.399,36 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,836 y las de materiales por 1,317. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.684Z",
+      "updatedAt": "2026-11-19T12:37:28.319Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -131,31 +138,31 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1.3,
+          "quantity": 0.9597128,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.85,
+          "quantity": 0.62750452,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.1,
+          "quantity": 2.05605749,
           "ref": "mt-ar-porcelanato-esmaltado-60x60-cm",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.32,
+          "quantity": 0.59812582,
           "ref": "mt-ar-adhesivo-cementicio-para-porcelanato-en-bolsa-de-25-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.25,
+          "quantity": 0.46728579,
           "ref": "mt-ar-pastina-para-juntas",
           "role": "material"
         }
@@ -182,7 +189,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 55463.89
+          "value": 70959.33
         },
         {
           "currency": "ARS",
@@ -195,7 +202,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 58706.41
+          "value": 73353.09
         },
         {
           "currency": "ARS",
@@ -208,7 +215,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 76969.42
+          "value": 86835.58
         },
         {
           "currency": "ARS",
@@ -221,7 +228,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 84385.44
+          "value": 92310.39
         }
       ],
       "sources": [
@@ -230,6 +237,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "10.08",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Revestimiento de porcelanato en paramento",
@@ -238,9 +252,9 @@
         "porcelanato",
         "pared"
       ],
-      "text": "Revestimiento de paramento con porcelanato esmaltado de 60x60 cm, de primera, colocado con adhesivo cementicio para porcelanato sobre revoque grueso, con junta mínima tomada con pastina. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO DE FUENTE: mano de obra (oficial 1,30 h, ayudante 0,85 h), porcelanato 1,10 m2 y pastina 0,25 kg por m2 transcriptos del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, ítems 7.2 «Piso porcelanato» y 8.2 «Revestimiento porcelanato», edición octubre 2026, con los mismos valores que la de julio 2025; publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste. PISO Y PARED LLEVAN LA MISMA DESCOMPOSICIÓN porque la fuente da valores idénticos para los dos ítems (7.2 y 8.2); no hay hoy una fuente permitida que los diferencie. DECISIONES DE CURACIÓN CERP (2026-11): (1) Porcelanato y pastina se alinearon con la fuente (antes 1,07 m2 y 0,15 kg, sin fuente declarada). (2) El adhesivo pasó del impermeable para cerámicos al adhesivo cementicio para porcelanato, que es el que corresponde a la pieza. (3) Consumo de adhesivo: 8 kg/m2 (0,32 bolsa de 25 kg), del fabricante y no de la fuente de rendimientos: la hoja de datos «Klaukol grandes piezas porcellanato» (Sika Argentina, octubre 2026, versión 01.04, arg.sika.com) da 6 kg/m2 con llana de 12 mm y 2 kg/m2 más cuando se realiza doble encolado, y sugiere aplicar adhesivo también en el reverso en colocaciones de alta exigencia o cuando el contacto de la placa es defectuoso. El CAS 3 da 3,75 kg/m2, la mitad. Que una pieza de 60x60 se coloque con doble encolado es criterio de curación CERP (práctica habitual para gran formato), no un dato de la hoja argentina. PRECIO: los precios de materiales y jornales son los vigentes en el banco a la fecha de cálculo; porcelanato y adhesivo se relevaron el 14-11-2026.",
+      "text": "Revestimiento de paramento con porcelanato esmaltado de 60x60 cm, de primera, colocado con adhesivo cementicio para porcelanato sobre revoque grueso, con junta mínima tomada con pastina. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO DE FUENTE: mano de obra (oficial 1,30 h, ayudante 0,85 h), porcelanato 1,10 m2 y pastina 0,25 kg por m2 transcriptos del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, ítems 7.2 «Piso porcelanato» y 8.2 «Revestimiento porcelanato», edición octubre 2026, con los mismos valores que la de julio 2025; publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste. PISO Y PARED LLEVAN LA MISMA DESCOMPOSICIÓN porque la fuente da valores idénticos para los dos ítems (7.2 y 8.2); no hay hoy una fuente permitida que los diferencie. DECISIONES DE CURACIÓN CERP (2026-11): (1) Porcelanato y pastina se alinearon con la fuente (antes 1,07 m2 y 0,15 kg, sin fuente declarada). (2) El adhesivo pasó del impermeable para cerámicos al adhesivo cementicio para porcelanato, que es el que corresponde a la pieza. (3) Consumo de adhesivo: 8 kg/m2 (0,32 bolsa de 25 kg), del fabricante y no de la fuente de rendimientos: la hoja de datos «Klaukol grandes piezas porcellanato» (Sika Argentina, octubre 2026, versión 01.04, arg.sika.com) da 6 kg/m2 con llana de 12 mm y 2 kg/m2 más cuando se realiza doble encolado, y sugiere aplicar adhesivo también en el reverso en colocaciones de alta exigencia o cuando el contacto de la placa es defectuoso. El CAS 3 da 3,75 kg/m2, la mitad. Que una pieza de 60x60 se coloque con doble encolado es criterio de curación CERP (práctica habitual para gran formato), no un dato de la hoja argentina. PRECIO: los precios de materiales y jornales son los vigentes en el banco a la fecha de cálculo; porcelanato y adhesivo se relevaron el 14-11-2026. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 10.08: el costo de esta partida es el del rubro «Porcelanato sin rectificar» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 21.353,13 de ejecución y $ 49.606,20 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,738 y las de materiales por 1,869. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-15T22:13:15.107Z",
+      "updatedAt": "2026-11-19T12:37:28.320Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -248,5 +262,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

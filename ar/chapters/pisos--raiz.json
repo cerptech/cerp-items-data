@@ -66,7 +66,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 61803.09
+          "value": 61660.16
         },
         {
           "currency": "ARS",
@@ -79,7 +79,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 63310.4
+          "value": 63167.46
         },
         {
           "currency": "ARS",
@@ -92,7 +92,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 71808.55
+          "value": 71665.62
         },
         {
           "currency": "ARS",
@@ -105,7 +105,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 75245.05
+          "value": 75102.11
         }
       ],
       "sources": [
@@ -122,7 +122,7 @@
       ],
       "text": "Piso de adoquines sobre contrapiso, adoquín de piedra natural 10x10x2cm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.681Z",
+      "updatedAt": "2026-11-19T12:06:23.031Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -195,7 +195,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 37121.61
+          "value": 37099.78
         },
         {
           "currency": "ARS",
@@ -208,7 +208,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 39400.72
+          "value": 39378.89
         },
         {
           "currency": "ARS",
@@ -221,7 +221,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 52067.67
+          "value": 52045.85
         },
         {
           "currency": "ARS",
@@ -234,7 +234,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 57498.04
+          "value": 57476.21
         }
       ],
       "sources": [
@@ -251,7 +251,7 @@
       ],
       "text": "Piso de baldosas calcáreas de 20x20 cm para azotea, asentadas con mortero de cal reforzado sobre la superficie preparada, con junta cerrada. Medida por m2 de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Pisos — Mosaico calcareo\", que asigna 1,00 h de oficial y 0,50 h de ayudante por m², con 1,00 m² de mosaico, 2 kg de cemento, 2,9 kg de cal y 0,025 m³ de arena gruesa. Adaptación: el cemento de la fuente en kg se pasa a bolsa de 50 kg (2 / 50 = 0,04 bolsa) y la cal en kg a bolsa de 25 kg de cal hidratada (2,9 / 25 = 0,116 bolsa). La fuente no tiene un ítem específico de azotea: se aplica el del piso de mosaico calcáreo. Para baldosa cerámica de 20x20 la misma fuente tiene otro ítem (1,20 h de oficial y 0,80 h de ayudante, 1,05 m² de baldosa, 2 kg de cemento, 2,3 kg de cal y 0,03 m³ de arena mediana), que no es el de esta partida. La fuente carga 1,00 m² de mosaico por m², sin desperdicio, y así se transcribe. Las herramientas menores (0,015 h por m²) quedan como estaban en el banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (1,00 h de oficial y 0,65 h de ayudante; 0,0468 bolsa de cemento, 0,1952 bolsa de cal hidratada y 0,032 m³ de arena fina por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: baldosas calcáreas de 20x20 cm, mortero de asiento de cemento, cal y arena gruesa, mano de obra y herramientas menores. NO INCLUYE: contrapiso con pendiente, carpeta, aislación hidrófuga o membrana de la azotea, juntas de dilatación ni desperdicio de piezas por cortes (la fuente no lo computa). La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.617Z",
+      "updatedAt": "2026-11-19T12:06:23.033Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -262,31 +262,31 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.54443376,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.3,
+          "quantity": 0.27221688,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.3,
+          "quantity": 0.40385265,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.03125,
+          "quantity": 0.04206798,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.01,
+          "quantity": 0.0090739,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -312,7 +312,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 17605.51
+          "value": 18109.85
         },
         {
           "currency": "ARS",
@@ -325,7 +325,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 18972.97
+          "value": 19350.68
         },
         {
           "currency": "ARS",
@@ -338,7 +338,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26573.15
+          "value": 26246.99
         },
         {
           "currency": "ARS",
@@ -351,7 +351,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29831.37
+          "value": 29203.47
         }
       ],
       "sources": [
@@ -360,15 +360,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "11.03",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Piso de cemento alisado-rodillado o cepillado, espesor 2,5 cm-(2 + 0,5 cm)",
       "tags": [
         "pisos"
       ],
-      "text": "Piso de cemento alisado, rodillado o cepillado de 2,5 cm de espesor total (2 cm de mortero de base más 0,5 cm de terminación). Medida por m2 de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Pisos — Cemento alisado (e = 2 cm.)\", que asigna 0,60 h de oficial y 0,30 h de ayudante por m², con 12 kg de cemento, 0,025 m³ de arena mediana y 0,05 kg de colorante en polvo para 2 cm de espesor. Adaptación: la fuente da un solo espesor, así que las horas se aplican sin escalar y los materiales se escalan por geometría a 2,5 cm: cemento 12 kg × 2,5 / 2 = 15 kg = 0,30 bolsa de 50 kg; arena mediana 0,025 m³ × 2,5 / 2 = 0,03125 m³ (la partida usaba arena fina; se pasa a arena mediana, que es la de la fuente). La fuente no separa la base de la terminación: el material se escala sobre el espesor total de 2,5 cm. Las herramientas menores (0,01 h por m²) quedan como estaban en el banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,70 h de oficial y 0,34 h de ayudante; 0,2826 bolsa de cemento y 0,031 m³ de arena fina por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: mortero de cemento y arena mediana para 2,5 cm de espesor, terminación alisada, rodillada o cepillada, mano de obra y herramientas menores. NO INCLUYE: contrapiso, aislación hidrófuga, juntas de dilatación, endurecedor superficial ni el colorante que lleva la fuente (0,0625 kg por m² escalado a 2,5 cm), porque esta partida es sin pigmentar. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Piso de cemento alisado, rodillado o cepillado de 2,5 cm de espesor total (2 cm de mortero de base más 0,5 cm de terminación). Medida por m2 de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Pisos — Cemento alisado (e = 2 cm.)\", que asigna 0,60 h de oficial y 0,30 h de ayudante por m², con 12 kg de cemento, 0,025 m³ de arena mediana y 0,05 kg de colorante en polvo para 2 cm de espesor. Adaptación: la fuente da un solo espesor, así que las horas se aplican sin escalar y los materiales se escalan por geometría a 2,5 cm: cemento 12 kg × 2,5 / 2 = 15 kg = 0,30 bolsa de 50 kg; arena mediana 0,025 m³ × 2,5 / 2 = 0,03125 m³ (la partida usaba arena fina; se pasa a arena mediana, que es la de la fuente). La fuente no separa la base de la terminación: el material se escala sobre el espesor total de 2,5 cm. Las herramientas menores (0,01 h por m²) quedan como estaban en el banco, sin fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,70 h de oficial y 0,34 h de ayudante; 0,2826 bolsa de cemento y 0,031 m³ de arena fina por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: mortero de cemento y arena mediana para 2,5 cm de espesor, terminación alisada, rodillada o cepillada, mano de obra y herramientas menores. NO INCLUYE: contrapiso, aislación hidrófuga, juntas de dilatación, endurecedor superficial ni el colorante que lleva la fuente (0,0625 kg por m² escalado a 2,5 cm), porque esta partida es sin pigmentar. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 11.03: el costo de esta partida es el del rubro «Cemento alisado» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 11.104,77 de ejecución y $ 7.005,08 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,907 y las de materiales por 1,346. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.629Z",
+      "updatedAt": "2026-11-19T12:37:28.315Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -441,7 +448,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 35160.86
+          "value": 35014.32
         },
         {
           "currency": "ARS",
@@ -454,7 +461,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 38053.78
+          "value": 37907.25
         },
         {
           "currency": "ARS",
@@ -467,7 +474,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 54071.83
+          "value": 53925.3
         },
         {
           "currency": "ARS",
@@ -480,7 +487,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 61042.17
+          "value": 60895.64
         }
       ],
       "sources": [
@@ -497,7 +504,7 @@
       ],
       "text": "Piso de ladrillos comunes de 25x12x5 cm colocados de plano, con junta recta, asentados con mortero de cemento, cal y arena gruesa, con junta abierta. Medida por m2. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem \"Ladrillos comunes (e = 4,5 cm)\" del rubro Pisos de \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), que asigna 1,30 h de oficial y 0,60 h de ayudante por m², con 27 ladrillos, 1,28 kg de cemento, 2,6 kg de cal y 0,025 m³ de arena gruesa. Adaptación: el cemento se carga en bolsas de 50 kg (1,28 kg / 50 = 0,0256 bolsa) y la cal, que la fuente no especifica, como cal hidratada en bolsa de 25 kg (2,6 kg / 25 = 0,104 bolsa). La fuente no detalla la toma de la junta abierta: se toma que su mortero la incluye, y la partida no lleva un mortero de cemento aparte para las juntas. Las 0,015 h de equipos y herramientas menores no vienen de la fuente: se conservan de la versión anterior. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,93 h de oficial y 0,60 h de ayudante; 28 ladrillos, 0,114 bolsa de cemento, 5,78 kg de cal hidráulica y 0,042 m³ de arena fina), que no tenían una fuente que se pudiera cotejar. INCLUYE: ladrillos comunes, mortero de asiento (cemento, cal hidratada y arena gruesa), que se toma como suficiente para la junta, mano de obra de oficial y ayudante y uso de herramientas menores. NO INCLUYE: contrapiso ni carpeta de base, ni tratamiento superficial (sellador o impermeabilizante) del piso terminado. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.670Z",
+      "updatedAt": "2026-11-19T12:06:23.039Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -570,7 +577,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 47781.5
+          "value": 47290.46
         },
         {
           "currency": "ARS",
@@ -583,7 +590,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 50461.99
+          "value": 49970.95
         },
         {
           "currency": "ARS",
@@ -596,7 +603,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 65903.16
+          "value": 65412.13
         },
         {
           "currency": "ARS",
@@ -609,7 +616,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 71592.72
+          "value": 71101.68
         }
       ],
       "sources": [
@@ -626,7 +633,7 @@
       ],
       "text": "Piso de lajas irregulares, junta tomada con concreto. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-14T22:02:33.450Z",
+      "updatedAt": "2026-11-19T12:06:23.041Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -637,49 +644,49 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1.19,
+          "quantity": 1.2297474,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.77,
+          "quantity": 0.7957189,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.0468,
+          "quantity": 0.04514106,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.1952,
+          "quantity": 0.18828065,
           "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.032,
+          "quantity": 0.03086568,
           "ref": "mt-ar-arena-fina-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1.08,
+          "quantity": 1.04171669,
           "ref": "mt-ar-mosaico-granitico-30x30-cm",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.4,
+          "quantity": 0.38582099,
           "ref": "mt-ar-pastina-para-juntas",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.015,
+          "quantity": 0.01550102,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -705,7 +712,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 57196.56
+          "value": 56651.32
         },
         {
           "currency": "ARS",
@@ -718,7 +725,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 60153.43
+          "value": 59706.95
         },
         {
           "currency": "ARS",
@@ -731,7 +738,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 76798.57
+          "value": 76908.06
         },
         {
           "currency": "ARS",
@@ -744,7 +751,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 83572.68
+          "value": 83908.44
         }
       ],
       "sources": [
@@ -753,15 +760,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "11.13",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Piso de mosaicos graniticos, en locales sanitarios",
       "tags": [
         "pisos"
       ],
-      "text": "Piso de mosaicos graniticos, en locales sanitarios. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Piso de mosaicos graniticos, en locales sanitarios. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 11.13: el costo de esta partida es el del rubro «Mosaicos graníticos 30x30cm» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 27.276,81 de ejecución y $ 29.374,52 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,033 y las de materiales por 0,965. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-14T22:02:33.453Z",
+      "updatedAt": "2026-11-19T12:37:28.317Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -772,37 +786,37 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.5,
+          "quantity": 0.8885776,
           "ref": "mo-ar-oficial-especializado-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.3,
+          "quantity": 0.53314656,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.05,
+          "quantity": 0.58669386,
           "ref": "mt-ar-tabla-de-1x3-pulgadas-para-deck",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 24,
+          "quantity": 13.41014544,
           "ref": "mt-ar-tornillo-para-madera",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 2,
+          "quantity": 1.11751212,
           "ref": "mt-ar-clavadera-de-pino-de-2x2-pulgadas",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.15,
+          "quantity": 0.26657328,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -828,7 +842,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 59602.83
+          "value": 48130.97
         },
         {
           "currency": "ARS",
@@ -841,7 +855,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 60941.48
+          "value": 50509.95
         },
         {
           "currency": "ARS",
@@ -854,7 +868,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 67189.12
+          "value": 61612.99
         },
         {
           "currency": "ARS",
@@ -867,7 +881,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 71608.58
+          "value": 69467.04
         }
       ],
       "sources": [
@@ -876,15 +890,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "11.12",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Piso deck-madera, bastidor clavadera cada 60 cm",
       "tags": [
         "pisos"
       ],
-      "text": "Piso deck-madera, bastidor clavadera cada 60 cm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Piso deck-madera, bastidor clavadera cada 60 cm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 11.12: el costo de esta partida es el del rubro «Madera semidura tipo deck» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 21.627,41 de ejecución y $ 26.503,56 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,777 y las de materiales por 0,559. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.708Z",
+      "updatedAt": "2026-11-19T12:37:28.317Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1018,37 +1039,37 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 1.08927589,
           "ref": "mo-ar-oficial-especializado-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.4,
+          "quantity": 0.72618392,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.05,
+          "quantity": 0.87367038,
           "ref": "mt-ar-tabla-de-madera-cepillada-10-x-120-x-2-cm",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 2,
+          "quantity": 1.66413406,
           "ref": "mt-ar-brea-en-panes",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 30,
+          "quantity": 24.96201089,
           "ref": "mt-ar-juego-de-tarugo-y-tornillo-para-piso-de-madera",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.3,
+          "quantity": 0.54463794,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -1074,7 +1095,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 49439.75
+          "value": 56106.45
         },
         {
           "currency": "ARS",
@@ -1087,7 +1108,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 51102.07
+          "value": 59124.31
         },
         {
           "currency": "ARS",
@@ -1100,7 +1121,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 58958.44
+          "value": 73387.23
         },
         {
           "currency": "ARS",
@@ -1113,7 +1134,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 64333.09
+          "value": 83144.7
         }
       ],
       "sources": [
@@ -1122,15 +1143,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "11.11",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Piso madera tarugada-sobre  carpeta o piso liso existente, espesor de madera 2 cm",
       "tags": [
         "pisos"
       ],
-      "text": "Piso madera tarugada-sobre  carpeta o piso liso existente, espesor de madera 2 cm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Piso madera tarugada-sobre  carpeta o piso liso existente, espesor de madera 2 cm. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 11.11: el costo de esta partida es el del rubro «Madera parquet algarrobo e=19mm» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 27.635,02 de ejecución y $ 28.471,42 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,815 y las de materiales por 0,832. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.719Z",
+      "updatedAt": "2026-11-19T12:37:28.317Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1249,5 +1277,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

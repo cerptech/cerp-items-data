@@ -15,7 +15,7 @@
       "g": [],
       "id": "wi-ar-hormigon-h-17-elaborado-en-obra",
       "m": 6,
-      "p": 203764.89,
+      "p": 200382.42,
       "s": "Hormigón H-17 elaborado en obra",
       "u": "m3"
     },
@@ -24,11 +24,11 @@
       "g": [],
       "id": "wi-ar-hormigon-pobre-elaborado-en-obra",
       "m": 6,
-      "p": 157421.31,
+      "p": 155511.85,
       "s": "Hormigón pobre elaborado en obra",
       "u": "m3"
     }
   ],
   "title": "Estructura de hormigón armado > Hormigones",
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

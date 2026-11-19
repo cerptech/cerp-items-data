@@ -10,31 +10,31 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.19,
+          "quantity": 0.51992096,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.03,
+          "quantity": 0.08209278,
           "ref": "mo-ar-medio-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.03,
+          "quantity": 0.08209278,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.28,
+          "quantity": 1.61750315,
           "ref": "mt-ar-cano-de-polipropileno-para-termofusion-de-25-mm-en-barra-de",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.8,
+          "quantity": 4.62143758,
           "ref": "mt-ar-accesorio-de-polipropileno-para-termofusion",
           "role": "material"
         }
@@ -61,7 +61,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 6798.24
+          "value": 28698.22
         },
         {
           "currency": "ARS",
@@ -74,7 +74,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 7183.41
+          "value": 29752.22
         },
         {
           "currency": "ARS",
@@ -87,7 +87,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 9263.48
+          "value": 35444.17
         },
         {
           "currency": "ARS",
@@ -100,7 +100,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 10275.7
+          "value": 38214.04
         }
       ],
       "sources": [
@@ -121,6 +121,13 @@
           "edition": "2024-01",
           "matchedBy": "manual",
           "source": "bcca"
+        },
+        {
+          "code": "17.14",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Cañería de agua de polipropileno por termofusión de ø25 mm",
@@ -130,9 +137,9 @@
         "polipropileno",
         "termofusión"
       ],
-      "text": "Cañería de agua fría o caliente de polipropileno copolímero random unida por termofusión, de ø25 mm, embutida en muro o bajo losa, incluidos accesorios, canaleteado, amure y prueba hidráulica. Medida por metro lineal de cañería instalada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: adaptado de la partida «Canalización polipropileno, empotrado, diám. 25x2,3 mm» (08FFP90510) de la Base de Costes de la Construcción de Andalucía (BCCA, edición 2024-01, datos abiertos de la Junta de Andalucía); es práctica española, a contrastar. Esa partida asigna por metro 0,19 h de oficial de primera fontanero más 0,03 h de cuadrilla de albañilería (0,03 h de oficial de segunda y 0,03 h de peón especial), con tubo de polipropileno, funda corrugada de protección, piezas especiales y ayudas de albañilería. Se reasignó a las categorías del CCT 76/75: 0,19 h de oficial, 0,03 h de medio oficial y 0,03 h de ayudante. Solo se tomaron las horas: los materiales quedan como estaban en el banco, porque la partida española lleva otro caño (25x2,3 mm, PN 10), enfundado, y piezas especiales y pequeño material valorados sin desglose. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,08 h de oficial y 0,13 h de ayudante), que estaban adaptados de otra partida de la Base de Costes de la Construcción de Andalucía. INCLUYE: 0,19 h de oficial, 0,03 h de medio oficial, 0,03 h de ayudante, 0,28 barra de 4 m de caño de polipropileno para termofusión de ø25 mm y 0,8 accesorio de polipropileno para termofusión por metro. NO INCLUYE: funda corrugada de protección del caño (la partida española la lleva, 1,01 m por metro) ni llaves de paso. Las horas son de práctica española y no tienen todavía contraste con una fuente argentina: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. LÍMITE CONOCIDO: con estos rendimientos y consumos la partida queda por debajo de los valores de mercado con los que se la contrastó en noviembre de 2026. Contrastala con tu experiencia antes de usarla en una oferta. Rendimientos adaptados de BCCA wi-canalizacion-polipropileno-empotrado-diam-25x2-3-mm: horas y consumos adaptados como se detalla en la descripción; es práctica española, a contrastar con experiencia local",
+      "text": "Cañería de agua fría o caliente de polipropileno copolímero random unida por termofusión, de ø25 mm, embutida en muro o bajo losa, incluidos accesorios, canaleteado, amure y prueba hidráulica. Medida por metro lineal de cañería instalada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: adaptado de la partida «Canalización polipropileno, empotrado, diám. 25x2,3 mm» (08FFP90510) de la Base de Costes de la Construcción de Andalucía (BCCA, edición 2024-01, datos abiertos de la Junta de Andalucía); es práctica española, a contrastar. Esa partida asigna por metro 0,19 h de oficial de primera fontanero más 0,03 h de cuadrilla de albañilería (0,03 h de oficial de segunda y 0,03 h de peón especial), con tubo de polipropileno, funda corrugada de protección, piezas especiales y ayudas de albañilería. Se reasignó a las categorías del CCT 76/75: 0,19 h de oficial, 0,03 h de medio oficial y 0,03 h de ayudante. Solo se tomaron las horas: los materiales quedan como estaban en el banco, porque la partida española lleva otro caño (25x2,3 mm, PN 10), enfundado, y piezas especiales y pequeño material valorados sin desglose. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,08 h de oficial y 0,13 h de ayudante), que estaban adaptados de otra partida de la Base de Costes de la Construcción de Andalucía. INCLUYE: 0,19 h de oficial, 0,03 h de medio oficial, 0,03 h de ayudante, 0,28 barra de 4 m de caño de polipropileno para termofusión de ø25 mm y 0,8 accesorio de polipropileno para termofusión por metro. NO INCLUYE: funda corrugada de protección del caño (la partida española la lleva, 1,01 m por metro) ni llaves de paso. Las horas son de práctica española y no tienen todavía contraste con una fuente argentina: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Rendimientos adaptados de BCCA wi-canalizacion-polipropileno-empotrado-diam-25x2-3-mm: horas y consumos adaptados como se detalla en la descripción; es práctica española, a contrastar con experiencia local Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 17.14: el costo de esta partida es el del rubro «Cañería PP TF Ø 25mm» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 9.516,77 de ejecución y $ 19.181,45 de materiales por m, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 2,736 y las de materiales por 5,777. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m",
-      "updatedAt": "2026-11-18T11:16:50.049Z",
+      "updatedAt": "2026-11-19T12:37:28.269Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -143,7 +150,7 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 2.02007725,
           "ref": "mt-ar-tanque-de-reserva-tricapa-de-1-000-litros",
           "role": "material"
         }
@@ -169,7 +176,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 208244.63
+          "value": 420670.24
         }
       ],
       "sources": [
@@ -178,6 +185,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "17.22",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Colocación de tanque de reserva tricapa de 1.000 litros",
@@ -186,9 +200,9 @@
         "reserva",
         "tricapa"
       ],
-      "text": "Provisión y colocación de tanque de reserva de polietileno tricapa de 1.000 litros sobre base, incluidos colector, flotante, llaves de limpieza y bajadas. Medida por unidad colocada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. No se localizó rendimiento de mano de obra en ninguna fuente pública argentina para esta partida: no se carga mano de obra hasta conseguirlo. Ningún organismo público argentino publica rendimientos (los pliegos fijan la forma de medición, pero el análisis de precio lo presenta el oferente).",
+      "text": "Provisión y colocación de tanque de reserva de polietileno tricapa de 1.000 litros sobre base, incluidos colector, flotante, llaves de limpieza y bajadas. Medida por unidad colocada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. No se localizó rendimiento de mano de obra en ninguna fuente pública argentina para esta partida: no se carga mano de obra hasta conseguirlo. Ningún organismo público argentino publica rendimientos (los pliegos fijan la forma de medición, pero el análisis de precio lo presenta el oferente). Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 17.22: el costo de esta partida es el del rubro «Tanque de agua polietileno tricapa 1100ls» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 58.132,77 de ejecución y $ 362.537,47 de materiales por u, sin IVA, en zona A. Para llegar a ese costo, todas las cantidades de la descomposición se multiplicaron por 2,02. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "u",
-      "updatedAt": "2026-11-06T14:19:15.082Z",
+      "updatedAt": "2026-11-19T12:37:28.278Z",
       "verification": {
         "findings": [
           "execution_without_labor-23e336f04c235362"
@@ -198,5 +212,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

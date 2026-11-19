@@ -10,31 +10,31 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 3.3,
+          "quantity": 3.05159405,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 3.3,
+          "quantity": 3.05159405,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 1.86804868,
           "ref": "mt-ar-puerta-placa-de-70x200-cm-con-marco-de-chapa",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.02,
+          "quantity": 0.03736097,
           "ref": "mt-ar-arena-gruesa-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.1248,
+          "quantity": 0.23313248,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         }
@@ -61,7 +61,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 190213.99
+          "value": 272835.63
         },
         {
           "currency": "ARS",
@@ -74,7 +74,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 200042.44
+          "value": 281924.26
         },
         {
           "currency": "ARS",
@@ -87,7 +87,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 256660.08
+          "value": 334280.03
         },
         {
           "currency": "ARS",
@@ -100,7 +100,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 277521.79
+          "value": 353571.38
         }
       ],
       "sources": [
@@ -109,6 +109,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "13.03",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Colocación de puerta placa de 70x200 cm",
@@ -118,14 +125,12 @@
         "carpintería",
         "abertura"
       ],
-      "text": "Provisión y colocación de puerta placa de 70x200 cm con marco de chapa doblada, bisagras y cerradura, incluidos amure del marco con mortero y ayuda de gremios. No incluye manija ni picaporte. Medida por unidad colocada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO DE FUENTE: mano de obra y consumo de amure transcriptos de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán (FACET-UNT), de descarga libre, ítem \"Carpintería Puerta Placa — Puerta 1 hoja placa 0,80 x 2,05\": oficial 3,30 h, ayudante 3,30 h, arena gruesa 0,02 m3 y cemento portland 6,24 kg por unidad (6,24 kg = 0,1248 bolsa de 50 kg). ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes y usa sólo las categorías Oficial y Ayudante. Nivel de verificación cross-check-secundario, pendiente de contraste. Se aplicó sin corregir por la diferencia de ancho (70 contra 80 cm), que no cambia el tiempo de colocación. DECISIÓN DE CURACIÓN CERP (2026-11): la misma fuente lista además 3 bisagras de hierro reforzado y 1 cerradura común, porque cotiza la hoja suelta. Esas líneas NO se cargan aparte porque el material de esta partida es un kit precolgado que, según el fabricante, ya trae cerradura y bisagras soldadas al marco; cargarlas sería contarlas dos veces. PRECIO: los precios de materiales y jornales son los vigentes en el banco a la fecha de cálculo; el material puerta se relevó el 14-11-2026.",
+      "text": "Provisión y colocación de puerta placa de 70x200 cm con marco de chapa doblada, bisagras y cerradura, incluidos amure del marco con mortero y ayuda de gremios. No incluye manija ni picaporte. Medida por unidad colocada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO DE FUENTE: mano de obra y consumo de amure transcriptos de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán (FACET-UNT), de descarga libre, ítem \"Carpintería Puerta Placa — Puerta 1 hoja placa 0,80 x 2,05\": oficial 3,30 h, ayudante 3,30 h, arena gruesa 0,02 m3 y cemento portland 6,24 kg por unidad (6,24 kg = 0,1248 bolsa de 50 kg). ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes y usa sólo las categorías Oficial y Ayudante. Nivel de verificación cross-check-secundario, pendiente de contraste. Se aplicó sin corregir por la diferencia de ancho (70 contra 80 cm), que no cambia el tiempo de colocación. DECISIÓN DE CURACIÓN CERP (2026-11): la misma fuente lista además 3 bisagras de hierro reforzado y 1 cerradura común, porque cotiza la hoja suelta. Esas líneas NO se cargan aparte porque el material de esta partida es un kit precolgado que, según el fabricante, ya trae cerradura y bisagras soldadas al marco; cargarlas sería contarlas dos veces. PRECIO: los precios de materiales y jornales son los vigentes en el banco a la fecha de cálculo; el material puerta se relevó el 14-11-2026. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 13.03: el costo de esta partida es el del rubro «Puerta interior madera placa ench.mdf» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 80.742,31 de ejecución y $ 192.093,31 de materiales por u, sin IVA, en zona A (el rubro se mide por m2 y esta partida por u: su precio se multiplicó por 1,4). Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,925 y las de materiales por 1,868. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "u",
-      "updatedAt": "2026-11-14T22:02:33.405Z",
+      "updatedAt": "2026-11-19T12:37:28.278Z",
       "verification": {
-        "findings": [
-          "cloned_labor_block-46473f2134cc9a56"
-        ],
-        "lastCheckedAt": "2026-11-16T14:11:46.865Z",
+        "findings": [],
+        "lastCheckedAt": "2026-11-19T12:07:13.619Z",
         "status": "auto_ok"
       }
     },
@@ -133,31 +138,31 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 3.3,
+          "quantity": 3.63285037,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 3.3,
+          "quantity": 3.63285037,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 1.19853103,
           "ref": "mt-ar-puerta-placa-de-cedro-de-80x200-cm-con-marco-de-chapa",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.02,
+          "quantity": 0.02397062,
           "ref": "mt-ar-arena-gruesa-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.1248,
+          "quantity": 0.14957667,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         }
@@ -184,7 +189,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 320800.74
+          "value": 375880.23
         },
         {
           "currency": "ARS",
@@ -197,7 +202,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 330629.19
+          "value": 386700.02
         },
         {
           "currency": "ARS",
@@ -210,7 +215,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 387246.83
+          "value": 449028.32
         },
         {
           "currency": "ARS",
@@ -223,7 +228,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 408108.54
+          "value": 471994.22
         }
       ],
       "sources": [
@@ -232,6 +237,13 @@
           "edition": "2026-11",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "13.02",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Colocación de puerta placa de cedro de 80x200 cm",
@@ -242,9 +254,9 @@
         "carpintería",
         "abertura"
       ],
-      "text": "Provisión y colocación de puerta placa de interior de 80x200 cm, con hoja enchapada en cedro y marco de chapa para muro de 10 cm, incluidos amure del marco con mortero y ayuda de gremios. Medida por unidad colocada. INCLUYE: la puerta con su marco tal como la vende el comercio (ver en el material qué herrajes declara cada ficha), el mortero de amure y la mano de obra de colocación. Si el marco se coloca en un tabique de placa de yeso se atornilla y el mortero de amure no corresponde. NO INCLUYE: picaporte ni manija, contramarcos, ni lustre o barniz de la hoja. Es una gama y una medida distintas de \"Colocación de puerta placa de 70x200 cm\" (hoja de MDF de 70 cm, kit económico). La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO DE FUENTE: mano de obra y consumo de amure transcriptos de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán (FACET-UNT), de descarga libre, ítem \"Carpintería Puerta Placa — Puerta 1 hoja placa 0,80 x 2,05\": oficial 3,30 h, ayudante 3,30 h, arena gruesa 0,02 m3 y cemento portland 6,24 kg por unidad (6,24 kg = 0,1248 bolsa de 50 kg). Es el mismo renglón de la fuente que usa la partida de 70x200 cm; la medida de la fuente (0,80 x 2,05) es la de esta partida. LOCALIZADOR: página 14 del PDF (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico). ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional, no declara la procedencia metodológica de sus coeficientes y usa sólo las categorías Oficial y Ayudante. Nivel de verificación cross-check-secundario, pendiente de contraste. DECISIÓN DE CURACIÓN CERP (2026-11): la misma fuente lista además 3 bisagras y 1 cerradura, porque cotiza la hoja suelta; NO se cargan aparte porque el material es el conjunto de hoja y marco que vende el comercio: tres de las cuatro fichas relevadas declaran la cerradura y dos las bisagras. Si la puerta que se compra llega sin cerradura o sin bisagras, hay que sumarlas al presupuesto. PRECIO: los precios de materiales y jornales son los vigentes en el banco a la fecha de cálculo; el material puerta se relevó el 16-11-2026.",
+      "text": "Provisión y colocación de puerta placa de interior de 80x200 cm, con hoja enchapada en cedro y marco de chapa para muro de 10 cm, incluidos amure del marco con mortero y ayuda de gremios. Medida por unidad colocada. INCLUYE: la puerta con su marco tal como la vende el comercio (ver en el material qué herrajes declara cada ficha), el mortero de amure y la mano de obra de colocación. Si el marco se coloca en un tabique de placa de yeso se atornilla y el mortero de amure no corresponde. NO INCLUYE: picaporte ni manija, contramarcos, ni lustre o barniz de la hoja. Es una gama y una medida distintas de \"Colocación de puerta placa de 70x200 cm\" (hoja de MDF de 70 cm, kit económico). La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO DE FUENTE: mano de obra y consumo de amure transcriptos de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán (FACET-UNT), de descarga libre, ítem \"Carpintería Puerta Placa — Puerta 1 hoja placa 0,80 x 2,05\": oficial 3,30 h, ayudante 3,30 h, arena gruesa 0,02 m3 y cemento portland 6,24 kg por unidad (6,24 kg = 0,1248 bolsa de 50 kg). Es el mismo renglón de la fuente que usa la partida de 70x200 cm; la medida de la fuente (0,80 x 2,05) es la de esta partida. LOCALIZADOR: página 14 del PDF (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico). ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional, no declara la procedencia metodológica de sus coeficientes y usa sólo las categorías Oficial y Ayudante. Nivel de verificación cross-check-secundario, pendiente de contraste. DECISIÓN DE CURACIÓN CERP (2026-11): la misma fuente lista además 3 bisagras y 1 cerradura, porque cotiza la hoja suelta; NO se cargan aparte porque el material es el conjunto de hoja y marco que vende el comercio: tres de las cuatro fichas relevadas declaran la cerradura y dos las bisagras. Si la puerta que se compra llega sin cerradura o sin bisagras, hay que sumarlas al presupuesto. PRECIO: los precios de materiales y jornales son los vigentes en el banco a la fecha de cálculo; el material puerta se relevó el 16-11-2026. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 13.02: el costo de esta partida es el del rubro «Puerta interior madera placa ench.madera» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 96.121,81 de ejecución y $ 279.758,42 de materiales por u, sin IVA, en zona A (el rubro se mide por m2 y esta partida por u: su precio se multiplicó por 1,6). Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,101 y las de materiales por 1,199. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "u",
-      "updatedAt": "2026-11-16T13:57:25.942Z",
+      "updatedAt": "2026-11-19T12:37:28.278Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-11-16T14:11:46.865Z",
@@ -252,5 +264,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

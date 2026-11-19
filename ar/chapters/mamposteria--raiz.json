@@ -10,43 +10,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 9,
+          "quantity": 8.1565271,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 8.8,
+          "quantity": 7.97527094,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.56,
+          "quantity": 1.01271633,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 47,
+          "quantity": 84.99583464,
           "ref": "mt-ar-cal-hidraulica-en-polvo-por-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.24,
+          "quantity": 0.43402128,
           "ref": "mt-ar-arena-fina-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 408,
+          "quantity": 737.8361816,
           "ref": "mt-ar-ladrillo-semivista",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.25,
+          "quantity": 0.2265702,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -72,7 +72,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 393890.34
+          "value": 494520.41
         },
         {
           "currency": "ARS",
@@ -85,7 +85,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 420415.53
+          "value": 518559.69
         },
         {
           "currency": "ARS",
@@ -98,7 +98,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 573031.31
+          "value": 656872.43
         },
         {
           "currency": "ARS",
@@ -111,7 +111,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 629570.33
+          "value": 708112.67
         }
       ],
       "sources": [
@@ -120,15 +120,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "04.10",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "De ladrillos comunes a la vista-0,15 a 0,30 m esp, mezcla: 1/4 : 1 : 3",
       "tags": [
         "mampostería"
       ],
-      "text": "De ladrillos comunes a la vista-0,15 a 0,30 m esp, mezcla: 1/4 : 1 : 3. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
+      "text": "De ladrillos comunes a la vista-0,15 a 0,30 m esp, mezcla: 1/4 : 1 : 3. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 04.10: el costo de esta partida es el del rubro «Ladrillos comunes a la vista en elevación» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 213.859,02 de ejecución y $ 280.661,40 de materiales por m3, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,906 y las de materiales por 1,808. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m3",
-      "updatedAt": "2026-11-06T14:19:15.268Z",
+      "updatedAt": "2026-11-19T12:37:28.287Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -139,37 +146,37 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 6,
+          "quantity": 6.28528494,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 7,
+          "quantity": 7.33283243,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 53,
+          "quantity": 71.86866082,
           "ref": "mt-ar-cal-hidraulica-en-polvo-por-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.27,
+          "quantity": 0.36612337,
           "ref": "mt-ar-arena-fina-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 408,
+          "quantity": 553.25308708,
           "ref": "mt-ar-ladrillo-comun-de-tierra-cocida-25x12x5-cm",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.25,
+          "quantity": 0.26188687,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -195,7 +202,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 304901.22
+          "value": 354245.14
         },
         {
           "currency": "ARS",
@@ -208,7 +215,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 324169.56
+          "value": 374429.64
         },
         {
           "currency": "ARS",
@@ -221,7 +228,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 436090.53
+          "value": 491672.17
         },
         {
           "currency": "ARS",
@@ -234,7 +241,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 475803.64
+          "value": 533273.54
         }
       ],
       "sources": [
@@ -243,15 +250,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "04.12",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "De ladrillos comunes en elevacion-0,15 a 0,30 m esp, más de 10 m de altura",
       "tags": [
         "mampostería"
       ],
-      "text": "De ladrillos comunes en elevacion-0,15 a 0,30 m esp, más de 10 m de altura. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
+      "text": "De ladrillos comunes en elevacion-0,15 a 0,30 m esp, más de 10 m de altura. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 04.12: el costo de esta partida es el del rubro «Ladrillos comunes en elevación» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 179.329,99 de ejecución y $ 174.915,14 de materiales por m3, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,048 y las de materiales por 1,356. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m3",
-      "updatedAt": "2026-11-06T14:19:15.274Z",
+      "updatedAt": "2026-11-19T12:37:28.288Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -262,43 +276,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 5.5,
+          "quantity": 6.49402773,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 6,
+          "quantity": 7.08439389,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 400,
+          "quantity": 488.59274494,
           "ref": "mt-ar-ladrillo-comun-de-tierra-cocida-25x12x5-cm",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.4,
+          "quantity": 0.48859274,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 2.12,
+          "quantity": 2.58954155,
           "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.48,
+          "quantity": 0.58631129,
           "ref": "mt-ar-arena-gruesa-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.25,
+          "quantity": 0.29518308,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -324,7 +338,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 297261.66
+          "value": 354245.13
         },
         {
           "currency": "ARS",
@@ -337,7 +351,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 314341.63
+          "value": 374412
         },
         {
           "currency": "ARS",
@@ -350,7 +364,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 413194.27
+          "value": 491130.5
         },
         {
           "currency": "ARS",
@@ -363,7 +377,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 448855.15
+          "value": 533236.45
         }
       ],
       "sources": [
@@ -372,15 +386,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "04.12",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "De ladrillos comunes en elevacion-0,15 a 0,30 m esp, para cimientos o medianerías",
       "tags": [
         "mampostería"
       ],
-      "text": "Mampostería de ladrillos comunes en elevación, de 0,15 a 0,30 m de espesor, para cimientos o medianerías, asentada con mezcla de cemento, cal y arena gruesa. Medida por metro cúbico de muro ejecutado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Ladrillos comunes\" de la sección Mamposterías (página 3), que asigna 5,50 h de oficial y 6,00 h de ayudante por m³, con 400 ladrillos, 20 kg de cemento, 53 kg de cal y 0,48 m³ de arena gruesa. Adaptación: cemento 20 kg / 50 kg por bolsa = 0,40 bolsa; cal 53 kg / 25 kg por bolsa = 2,12 bolsas de cal hidratada. La fuente da un único rendimiento por m³, sin distinguir espesor ni destino del muro, y se aplica a todo el rango de 0,15 a 0,30 m. Se toma el ítem de mampostería en elevación; para muros de cimiento la misma fuente tiene un ítem propio («Ladrillo común», sección Cimientos, página 2) con otros consumos y horas. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (7,00 h de oficial y 8,00 h de ayudante; 408 ladrillos, 0,56 bolsas de cemento, 47 kg de cal hidráulica en polvo y 0,24 m³ de arena fina por m³), que no tenían una fuente que se pudiera cotejar. INCLUYE: 5,50 h de oficial y 6,00 h de ayudante por m³; 400 ladrillos comunes de tierra cocida de 25x12x5 cm, 0,40 bolsa de 50 kg de cemento portland compuesto CPC40, 2,12 bolsas de 25 kg de cal hidratada y 0,48 m³ de arena gruesa por m³; 0,25 h de equipos y herramientas menores por m³ (línea del banco sin fuente declarada, que se conserva sin cambio). NO INCLUYE: excavación, capa aisladora horizontal, andamios, encadenados y revoques. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Mampostería de ladrillos comunes en elevación, de 0,15 a 0,30 m de espesor, para cimientos o medianerías, asentada con mezcla de cemento, cal y arena gruesa. Medida por metro cúbico de muro ejecutado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Ladrillos comunes\" de la sección Mamposterías (página 3), que asigna 5,50 h de oficial y 6,00 h de ayudante por m³, con 400 ladrillos, 20 kg de cemento, 53 kg de cal y 0,48 m³ de arena gruesa. Adaptación: cemento 20 kg / 50 kg por bolsa = 0,40 bolsa; cal 53 kg / 25 kg por bolsa = 2,12 bolsas de cal hidratada. La fuente da un único rendimiento por m³, sin distinguir espesor ni destino del muro, y se aplica a todo el rango de 0,15 a 0,30 m. Se toma el ítem de mampostería en elevación; para muros de cimiento la misma fuente tiene un ítem propio («Ladrillo común», sección Cimientos, página 2) con otros consumos y horas. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (7,00 h de oficial y 8,00 h de ayudante; 408 ladrillos, 0,56 bolsas de cemento, 47 kg de cal hidráulica en polvo y 0,24 m³ de arena fina por m³), que no tenían una fuente que se pudiera cotejar. INCLUYE: 5,50 h de oficial y 6,00 h de ayudante por m³; 400 ladrillos comunes de tierra cocida de 25x12x5 cm, 0,40 bolsa de 50 kg de cemento portland compuesto CPC40, 2,12 bolsas de 25 kg de cal hidratada y 0,48 m³ de arena gruesa por m³; 0,25 h de equipos y herramientas menores por m³ (línea del banco sin fuente declarada, que se conserva sin cambio). NO INCLUYE: excavación, capa aisladora horizontal, andamios, encadenados y revoques. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 04.12: el costo de esta partida es el del rubro «Ladrillos comunes en elevación» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 179.329,99 de ejecución y $ 174.915,14 de materiales por m3, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,181 y las de materiales por 1,221. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m3",
-      "updatedAt": "2026-11-18T11:16:50.296Z",
+      "updatedAt": "2026-11-19T12:37:28.288Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -391,43 +412,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 5.5,
+          "quantity": 6.49402773,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 6,
+          "quantity": 7.08439389,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 400,
+          "quantity": 488.59274494,
           "ref": "mt-ar-ladrillo-comun-de-tierra-cocida-25x12x5-cm",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.4,
+          "quantity": 0.48859274,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 2.12,
+          "quantity": 2.58954155,
           "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.48,
+          "quantity": 0.58631129,
           "ref": "mt-ar-arena-gruesa-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.25,
+          "quantity": 0.29518308,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -453,7 +474,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 297261.66
+          "value": 354245.13
         },
         {
           "currency": "ARS",
@@ -466,7 +487,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 314341.63
+          "value": 374412
         },
         {
           "currency": "ARS",
@@ -479,7 +500,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 413194.27
+          "value": 491130.5
         },
         {
           "currency": "ARS",
@@ -492,7 +513,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 448855.15
+          "value": 533236.45
         }
       ],
       "sources": [
@@ -501,15 +522,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "04.12",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "De ladrillos comunes en elevacion-0,30 a 0,45 m esp, hasta 10 m de altura",
       "tags": [
         "mampostería"
       ],
-      "text": "Mampostería de ladrillos comunes en elevación, de 0,30 a 0,45 m de espesor, hasta 10 m de altura, asentada con mezcla de cemento, cal y arena gruesa. Medida por metro cúbico de muro ejecutado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Ladrillos comunes\" de la sección Mamposterías (página 3), que asigna 5,50 h de oficial y 6,00 h de ayudante por m³, con 400 ladrillos, 20 kg de cemento, 53 kg de cal y 0,48 m³ de arena gruesa. Adaptación: cemento 20 kg / 50 kg por bolsa = 0,40 bolsa; cal 53 kg / 25 kg por bolsa = 2,12 bolsas de cal hidratada. La fuente da un único rendimiento por m³, sin distinguir espesor ni altura, y se aplica a todo el rango de esta partida. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (5,50 h de oficial y 7,00 h de ayudante; 408 ladrillos, 53 kg de cal hidráulica en polvo y 0,27 m³ de arena fina por m³, sin cemento), que no tenían una fuente que se pudiera cotejar. INCLUYE: 5,50 h de oficial y 6,00 h de ayudante por m³; 400 ladrillos comunes de tierra cocida de 25x12x5 cm, 0,40 bolsa de 50 kg de cemento portland compuesto CPC40, 2,12 bolsas de 25 kg de cal hidratada y 0,48 m³ de arena gruesa por m³; 0,25 h de equipos y herramientas menores por m³ (línea del banco sin fuente declarada, que se conserva sin cambio). NO INCLUYE: andamios, encadenados, capa aisladora y revoques. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Mampostería de ladrillos comunes en elevación, de 0,30 a 0,45 m de espesor, hasta 10 m de altura, asentada con mezcla de cemento, cal y arena gruesa. Medida por metro cúbico de muro ejecutado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Ladrillos comunes\" de la sección Mamposterías (página 3), que asigna 5,50 h de oficial y 6,00 h de ayudante por m³, con 400 ladrillos, 20 kg de cemento, 53 kg de cal y 0,48 m³ de arena gruesa. Adaptación: cemento 20 kg / 50 kg por bolsa = 0,40 bolsa; cal 53 kg / 25 kg por bolsa = 2,12 bolsas de cal hidratada. La fuente da un único rendimiento por m³, sin distinguir espesor ni altura, y se aplica a todo el rango de esta partida. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (5,50 h de oficial y 7,00 h de ayudante; 408 ladrillos, 53 kg de cal hidráulica en polvo y 0,27 m³ de arena fina por m³, sin cemento), que no tenían una fuente que se pudiera cotejar. INCLUYE: 5,50 h de oficial y 6,00 h de ayudante por m³; 400 ladrillos comunes de tierra cocida de 25x12x5 cm, 0,40 bolsa de 50 kg de cemento portland compuesto CPC40, 2,12 bolsas de 25 kg de cal hidratada y 0,48 m³ de arena gruesa por m³; 0,25 h de equipos y herramientas menores por m³ (línea del banco sin fuente declarada, que se conserva sin cambio). NO INCLUYE: andamios, encadenados, capa aisladora y revoques. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 04.12: el costo de esta partida es el del rubro «Ladrillos comunes en elevación» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 179.329,99 de ejecución y $ 174.915,14 de materiales por m3, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,181 y las de materiales por 1,221. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m3",
-      "updatedAt": "2026-11-18T11:16:50.301Z",
+      "updatedAt": "2026-11-19T12:37:28.288Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -520,43 +548,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1.65,
+          "quantity": 1.95079872,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.8,
+          "quantity": 2.12814406,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.1138,
+          "quantity": 0.15365147,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 25.9,
+          "quantity": 34.96988616,
           "ref": "mt-ar-cal-hidraulica-en-polvo-por-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.114,
+          "quantity": 0.15392151,
           "ref": "mt-ar-arena-fina-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 104,
+          "quantity": 140.41962012,
           "ref": "mt-ar-ladrillo-comun-de-tierra-cocida-25x12x5-cm",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.02,
+          "quantity": 0.02364605,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -582,7 +610,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 86087.39
+          "value": 106273.54
         },
         {
           "currency": "ARS",
@@ -595,7 +623,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 91211.38
+          "value": 112331.65
         },
         {
           "currency": "ARS",
@@ -608,7 +636,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 120867.17
+          "value": 147393.75
         },
         {
           "currency": "ARS",
@@ -621,7 +649,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 131565.43
+          "value": 160042.34
         }
       ],
       "sources": [
@@ -630,15 +658,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "04.12",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Mampostería 0,30m-ladrillos comunes, mezcla: 1/8 : 1 : 3",
       "tags": [
         "mampostería"
       ],
-      "text": "Mampostería de ladrillos comunes de 0,30 m de espesor, asentada con mezcla 1/8 : 1 : 3 (cemento, cal y arena). Medida por metro cuadrado de muro ejecutado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Ladrillos comunes\" de la sección Mamposterías (página 3), que asigna 5,50 h de oficial y 6,00 h de ayudante por m³. Adaptación: la fuente mide por m³ y esta partida por m² de muro de 0,3 m, así que las horas se multiplican por el espesor: 5,50 × 0,3 = 1,65 h de oficial y 6,00 × 0,3 = 1,80 h de ayudante por m². La fuente lleva 400 ladrillos, 20 kg de cemento, 53 kg de cal y 0,48 m³ de arena gruesa por m³, sin declarar la dosificación; esta partida especifica la mezcla 1/8 : 1 : 3 (cemento, cal y arena), otra especificación de material, por eso de la fuente se toman solo las horas y se conservan los materiales del banco. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (1,86 h de oficial y 1,86 h de ayudante por m²), que no tenían una fuente que se pudiera cotejar; los materiales no cambian y siguen sin fuente declarada. INCLUYE: 1,65 h de oficial y 1,80 h de ayudante por m²; materiales del banco por m²: 104 ladrillos comunes de tierra cocida de 25x12x5 cm, 0,1138 bolsas de 50 kg de cemento portland compuesto CPC40, 25,9 kg de cal hidráulica en polvo, 0,114 m³ de arena fina y 0,02 h de equipos y herramientas menores. NO INCLUYE: andamios, encadenados, capa aisladora y revoques. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Mampostería de ladrillos comunes de 0,30 m de espesor, asentada con mezcla 1/8 : 1 : 3 (cemento, cal y arena). Medida por metro cuadrado de muro ejecutado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Ladrillos comunes\" de la sección Mamposterías (página 3), que asigna 5,50 h de oficial y 6,00 h de ayudante por m³. Adaptación: la fuente mide por m³ y esta partida por m² de muro de 0,3 m, así que las horas se multiplican por el espesor: 5,50 × 0,3 = 1,65 h de oficial y 6,00 × 0,3 = 1,80 h de ayudante por m². La fuente lleva 400 ladrillos, 20 kg de cemento, 53 kg de cal y 0,48 m³ de arena gruesa por m³, sin declarar la dosificación; esta partida especifica la mezcla 1/8 : 1 : 3 (cemento, cal y arena), otra especificación de material, por eso de la fuente se toman solo las horas y se conservan los materiales del banco. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (1,86 h de oficial y 1,86 h de ayudante por m²), que no tenían una fuente que se pudiera cotejar; los materiales no cambian y siguen sin fuente declarada. INCLUYE: 1,65 h de oficial y 1,80 h de ayudante por m²; materiales del banco por m²: 104 ladrillos comunes de tierra cocida de 25x12x5 cm, 0,1138 bolsas de 50 kg de cemento portland compuesto CPC40, 25,9 kg de cal hidráulica en polvo, 0,114 m³ de arena fina y 0,02 h de equipos y herramientas menores. NO INCLUYE: andamios, encadenados, capa aisladora y revoques. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 04.12: el costo de esta partida es el del rubro «Ladrillos comunes en elevación» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 53.799,00 de ejecución y $ 52.474,54 de materiales por m2, sin IVA, en zona A (el rubro se mide por m3 y esta partida por m2: su precio se multiplicó por 0,3). Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,182 y las de materiales por 1,35. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.537Z",
+      "updatedAt": "2026-11-19T12:37:28.309Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -649,43 +684,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1.8,
+          "quantity": 2.17398837,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 2.25,
+          "quantity": 2.71748546,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.1138,
+          "quantity": 0.21647772,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 25.9,
+          "quantity": 49.26865538,
           "ref": "mt-ar-cal-hidraulica-en-polvo-por-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.114,
+          "quantity": 0.21685817,
           "ref": "mt-ar-arena-fina-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 104,
+          "quantity": 197.83552738,
           "ref": "mt-ar-ladrillo-semivista",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.02,
+          "quantity": 0.02415543,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -711,7 +746,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 98591.5
+          "value": 148356.12
         },
         {
           "currency": "ARS",
@@ -724,7 +759,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 104581.76
+          "value": 155590.99
         },
         {
           "currency": "ARS",
@@ -737,7 +772,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 139505.02
+          "value": 197770.31
         },
         {
           "currency": "ARS",
@@ -750,7 +785,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 151686.37
+          "value": 212482.58
         }
       ],
       "sources": [
@@ -759,15 +794,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "04.10",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Mampostería 0,30m-ladrillos vista, mezcla: 1/8 : 1 : 3",
       "tags": [
         "mampostería"
       ],
-      "text": "Mampostería de ladrillos a la vista de 0,30 m de espesor, asentada con mezcla 1/8 : 1 : 3 (cemento, cal y arena). Medida por metro cuadrado de muro ejecutado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Ladrillos comunes - A la vista una cara\" de la sección Mamposterías (página 3), que asigna 6,00 h de oficial y 7,50 h de ayudante por m³. Adaptación: la fuente mide por m³ y esta partida por m² de muro de 0,3 m, así que las horas se multiplican por el espesor: 6,00 × 0,3 = 1,80 h de oficial y 7,50 × 0,3 = 2,25 h de ayudante por m². La fuente lleva 400 ladrillos, 39,5 kg de cemento, 53 kg de cal y 0,48 m³ de arena gruesa por m³, sin declarar la dosificación; esta partida especifica la mezcla 1/8 : 1 : 3 (cemento, cal y arena), otra especificación de material, por eso de la fuente se toman solo las horas y se conservan los materiales del banco. Se toma el ítem de una sola cara vista porque la partida no indica que sean dos. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (2,46 h de oficial y 1,85 h de ayudante por m²), que no tenían una fuente que se pudiera cotejar; los materiales no cambian y siguen sin fuente declarada. INCLUYE: 1,80 h de oficial y 2,25 h de ayudante por m²; materiales del banco por m²: 104 ladrillos semivista, 0,1138 bolsas de 50 kg de cemento portland compuesto CPC40, 25,9 kg de cal hidráulica en polvo, 0,114 m³ de arena fina y 0,02 h de equipos y herramientas menores. NO INCLUYE: andamios, limpieza o tratamiento impermeable del paramento visto y revoque de la cara no vista. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Mampostería de ladrillos a la vista de 0,30 m de espesor, asentada con mezcla 1/8 : 1 : 3 (cemento, cal y arena). Medida por metro cuadrado de muro ejecutado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Ladrillos comunes - A la vista una cara\" de la sección Mamposterías (página 3), que asigna 6,00 h de oficial y 7,50 h de ayudante por m³. Adaptación: la fuente mide por m³ y esta partida por m² de muro de 0,3 m, así que las horas se multiplican por el espesor: 6,00 × 0,3 = 1,80 h de oficial y 7,50 × 0,3 = 2,25 h de ayudante por m². La fuente lleva 400 ladrillos, 39,5 kg de cemento, 53 kg de cal y 0,48 m³ de arena gruesa por m³, sin declarar la dosificación; esta partida especifica la mezcla 1/8 : 1 : 3 (cemento, cal y arena), otra especificación de material, por eso de la fuente se toman solo las horas y se conservan los materiales del banco. Se toma el ítem de una sola cara vista porque la partida no indica que sean dos. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (2,46 h de oficial y 1,85 h de ayudante por m²), que no tenían una fuente que se pudiera cotejar; los materiales no cambian y siguen sin fuente declarada. INCLUYE: 1,80 h de oficial y 2,25 h de ayudante por m²; materiales del banco por m²: 104 ladrillos semivista, 0,1138 bolsas de 50 kg de cemento portland compuesto CPC40, 25,9 kg de cal hidráulica en polvo, 0,114 m³ de arena fina y 0,02 h de equipos y herramientas menores. NO INCLUYE: andamios, limpieza o tratamiento impermeable del paramento visto y revoque de la cara no vista. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 04.10: el costo de esta partida es el del rubro «Ladrillos comunes a la vista en elevación» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 64.157,71 de ejecución y $ 84.198,42 de materiales por m2, sin IVA, en zona A (el rubro se mide por m3 y esta partida por m2: su precio se multiplicó por 0,3). Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,208 y las de materiales por 1,902. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.542Z",
+      "updatedAt": "2026-11-19T12:37:28.309Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -778,43 +820,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1.04,
+          "quantity": 1.39676366,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.78,
+          "quantity": 1.04757275,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 4.56,
+          "quantity": 7.56430497,
           "ref": "mt-ar-cemento-de-albanileria-en-bolsa-de-30-kg-por-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.015,
+          "quantity": 0.02488258,
           "ref": "mt-ar-arena-fina-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 12.5,
+          "quantity": 20.73548511,
           "ref": "mt-ar-bloque-de-hormigon-10x20x40-cm",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.5,
+          "quantity": 0.8294194,
           "ref": "mt-ar-velo-para-juntas",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.02,
+          "quantity": 0.02686084,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -840,7 +882,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 39004.07
+          "value": 56752.87
         },
         {
           "currency": "ARS",
@@ -853,7 +895,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 41737.94
+          "value": 60424.56
         },
         {
           "currency": "ARS",
@@ -866,7 +908,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 57246.32
+          "value": 81252.97
         },
         {
           "currency": "ARS",
@@ -879,7 +921,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 63357.41
+          "value": 89460.42
         }
       ],
       "sources": [
@@ -888,15 +930,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "04.04",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Mampostería de bloques de hormigón 10x20x40, mezcla: con cemento de albañilería",
       "tags": [
         "mampostería"
       ],
-      "text": "Mampostería de bloques de hormigón 10x20x40, mezcla: con cemento de albañilería. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Mampostería de bloques de hormigón 10x20x40, mezcla: con cemento de albañilería. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 04.04: el costo de esta partida es el del rubro «Bloques de hormigón 10x20x40cm» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 32.740,10 de ejecución y $ 24.012,77 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,343 y las de materiales por 1,659. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.600Z",
+      "updatedAt": "2026-11-19T12:37:28.310Z",
       "verification": {
         "findings": [
           "duplicate_candidate-0968628d736e45f8"
@@ -971,7 +1020,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 53586.41
+          "value": 53395.33
         },
         {
           "currency": "ARS",
@@ -984,7 +1033,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 57071.04
+          "value": 56879.97
         },
         {
           "currency": "ARS",
@@ -997,7 +1046,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 77144.57
+          "value": 76953.49
         },
         {
           "currency": "ARS",
@@ -1010,7 +1059,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 84540.99
+          "value": 84349.92
         }
       ],
       "sources": [
@@ -1027,7 +1076,7 @@
       ],
       "text": "Mampostería de bloques de hormigón 15x20x40, mezcla: con cemento de albañilería. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.603Z",
+      "updatedAt": "2026-11-19T12:06:22.980Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1100,7 +1149,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 344883.73
+          "value": 338935.97
         },
         {
           "currency": "ARS",
@@ -1113,7 +1162,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 366431.18
+          "value": 360483.42
         },
         {
           "currency": "ARS",
@@ -1126,7 +1175,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 491019.11
+          "value": 485071.34
         },
         {
           "currency": "ARS",
@@ -1139,7 +1188,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 536162.58
+          "value": 530214.82
         }
       ],
       "sources": [
@@ -1156,7 +1205,7 @@
       ],
       "text": "Mampostería de ladrillos comunes para pilares, asentada con mezcla 1 : 1 : 5 (cemento, cal y arena). Medida por metro cúbico de pilar ejecutado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Ladrillos comunes para pilares\" de la sección Mamposterías (página 3), que asigna 7,00 h de oficial y 7,50 h de ayudante por m³. La fuente lleva 400 ladrillos, 50 kg de cemento, 53 kg de cal y 0,48 m³ de arena gruesa por m³, sin declarar la dosificación; esta partida especifica la mezcla 1 : 1 : 5 (cemento, cal y arena), otra especificación de material, por eso de la fuente se toman solo las horas y se conservan los materiales del banco. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (5,50 h de oficial y 5,50 h de ayudante por m³), que no tenían una fuente que se pudiera cotejar; los materiales no cambian y siguen sin fuente declarada. INCLUYE: 7,00 h de oficial y 7,50 h de ayudante por m³; materiales del banco por m³: 408 ladrillos comunes de tierra cocida de 25x12x5 cm, 1,7 bolsas de 50 kg de cemento portland compuesto CPC40, 35 kg de cal hidráulica en polvo, 0,3 m³ de arena fina y 0,02 h de equipos y herramientas menores. NO INCLUYE: andamios, armaduras o rellenos de hormigón y revoques. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m3",
-      "updatedAt": "2026-11-18T11:16:50.576Z",
+      "updatedAt": "2026-11-19T12:06:22.987Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1167,43 +1216,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 5.7,
+          "quantity": 6.77665181,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 5.7,
+          "quantity": 6.77665181,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.34,
+          "quantity": 1.57727418,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 76,
+          "quantity": 89.45734179,
           "ref": "mt-ar-cal-hidraulica-en-polvo-por-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.34,
+          "quantity": 0.4002039,
           "ref": "mt-ar-arena-fina-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 385,
+          "quantity": 453.1720604,
           "ref": "mt-ar-ladrillo-comun-de-tierra-cocida-25x12x5-cm",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.02,
+          "quantity": 0.02377773,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -1229,7 +1278,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 305481.47
+          "value": 354245.13
         },
         {
           "currency": "ARS",
@@ -1242,7 +1291,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 322457.89
+          "value": 374428.17
         },
         {
           "currency": "ARS",
@@ -1255,7 +1304,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 420251.99
+          "value": 490694.24
         },
         {
           "currency": "ARS",
@@ -1268,7 +1317,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 456285.85
+          "value": 533534.4
         }
       ],
       "sources": [
@@ -1277,15 +1326,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "04.12",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Mampostería en sotanos",
       "tags": [
         "mampostería"
       ],
-      "text": "Mampostería en sotanos. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
+      "text": "Mampostería en sotanos. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 04.12: el costo de esta partida es el del rubro «Ladrillos comunes en elevación» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 179.329,99 de ejecución y $ 174.915,14 de materiales por m3, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,189 y las de materiales por 1,177. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m3",
-      "updatedAt": "2026-11-06T14:19:15.624Z",
+      "updatedAt": "2026-11-19T12:37:28.311Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1358,7 +1414,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 343077.15
+          "value": 336058.61
         },
         {
           "currency": "ARS",
@@ -1371,7 +1427,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 363554.97
+          "value": 356536.43
         },
         {
           "currency": "ARS",
@@ -1384,7 +1440,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 482258.41
+          "value": 475239.87
         },
         {
           "currency": "ARS",
@@ -1397,7 +1453,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 524775.84
+          "value": 517757.3
         }
       ],
       "sources": [
@@ -1414,7 +1470,7 @@
       ],
       "text": "Mampostería de ladrillos comunes en submuraciones, asentada con mezcla 1 : 1/2 : 4 (cemento, cal y arena). Medida por metro cúbico de submuración ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Submuración de ladrillos comunes\" de la sección Mamposterías (página 3), que asigna 6,50 h de oficial y 7,30 h de ayudante por m³. La fuente lleva 400 ladrillos, 140 kg de cemento, 46 kg de cal y 0,43 m³ de arena gruesa por m³, sin declarar la dosificación; esta partida especifica la mezcla 1 : 1/2 : 4 (cemento, cal y arena), otra especificación de material, por eso de la fuente se toman solo las horas y se conservan los materiales del banco. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (7,50 h de oficial y 7,50 h de ayudante por m³), que no tenían una fuente que se pudiera cotejar; los materiales no cambian y siguen sin fuente declarada. INCLUYE: 6,50 h de oficial y 7,30 h de ayudante por m³; materiales del banco por m³: 400 ladrillos comunes de tierra cocida de 25x12x5 cm, 2,26 bolsas de 50 kg de cemento portland compuesto CPC40, 32 kg de cal hidráulica en polvo, 0,38 m³ de arena fina y 0,02 h de equipos y herramientas menores. NO INCLUYE: excavación por tramos, apuntalamiento de la construcción existente y retiro de suelo. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m3",
-      "updatedAt": "2026-11-18T11:16:50.580Z",
+      "updatedAt": "2026-11-19T12:06:22.997Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1539,5 +1595,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

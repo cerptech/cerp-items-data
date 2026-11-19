@@ -72,7 +72,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 40267.43
+          "value": 39830.49
         },
         {
           "currency": "ARS",
@@ -85,7 +85,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 41723.92
+          "value": 41286.99
         },
         {
           "currency": "ARS",
@@ -98,7 +98,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 48963.17
+          "value": 48526.24
         },
         {
           "currency": "ARS",
@@ -111,7 +111,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 53261.57
+          "value": 52824.64
         }
       ],
       "sources": [
@@ -128,7 +128,7 @@
       ],
       "text": "Cielorraso de madera fenolico multilaminado. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:14.994Z",
+      "updatedAt": "2026-11-19T12:06:22.775Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -201,7 +201,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 21866.89
+          "value": 20485.83
         },
         {
           "currency": "ARS",
@@ -214,7 +214,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23205.53
+          "value": 21824.48
         },
         {
           "currency": "ARS",
@@ -227,7 +227,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29453.18
+          "value": 28072.12
         },
         {
           "currency": "ARS",
@@ -240,7 +240,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33872.64
+          "value": 32491.58
         }
       ],
       "sources": [
@@ -257,7 +257,7 @@
       ],
       "text": "Cielorraso de yeso aplicado con adhesivo sobre losa, placas pegadas con adhesivo sobre losa. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.016Z",
+      "updatedAt": "2026-11-19T12:06:22.778Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -268,43 +268,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1.6,
+          "quantity": 0.72951699,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.3,
+          "quantity": 0.59273255,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.1,
+          "quantity": 2.0207154,
           "ref": "mt-ar-machimbre-cepillado-de-3-4-x-4-pulgadas",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.5,
+          "quantity": 0.918507,
           "ref": "mt-ar-liston-de-saligna-de-2x3-pulgadas",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.5,
+          "quantity": 0.918507,
           "ref": "mt-ar-liston-cepillado-de-1-x-1-1-2-pulgadas",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.1,
+          "quantity": 0.1837014,
           "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.01,
+          "quantity": 0.00455948,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -330,7 +330,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 55217.77
+          "value": 47992.42
         },
         {
           "currency": "ARS",
@@ -343,7 +343,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 59563.56
+          "value": 49973.88
         },
         {
           "currency": "ARS",
@@ -356,7 +356,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 84320.59
+          "value": 61261.8
         },
         {
           "currency": "ARS",
@@ -369,7 +369,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 93900.54
+          "value": 65629.76
         }
       ],
       "sources": [
@@ -378,15 +378,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "09.02",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Cielorraso machimbre suspendido bajo losa",
       "tags": [
         "cielorrasos"
       ],
-      "text": "Cielorraso de machimbre cepillado de 3/4 x 4 pulgadas suspendido bajo losa, clavado sobre una estructura de listones de saligna de 2x3 pulgadas y listones cepillados de 1 x 1 1/2 pulgadas. Medida por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Cielorrasos – Madera machimbrada con aislante de telgopor\" (página 9), que asigna 1,60 h de oficial y 1,30 h de ayudante por m². Se tomó solo la mano de obra: la fuente describe machimbre de 1x6 pulgadas (10,50 pie² por m²) sobre tirantes de 2x3 pulgadas (7,21 pie²), con aislante de telgopor de 4,5 cm (1,00 m²) y 8 tornillos con arandela, y esta partida tiene otra especificación de materiales (machimbre de 3/4 x 4 pulgadas, listones y clavos, sin aislante), así que se conservan los materiales que ya tenía. Las cantidades de esos materiales (machimbre, listones y clavos) y la línea de equipos y herramientas menores son las que ya tenía la partida y no tienen fuente declarada. Las horas de la fuente incluyen la colocación del telgopor, que esta partida no lleva. Es el mismo criterio que el de la partida «Cielorraso de machimbre de pino de 1/2 pulgada». CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,25 h de oficial especializado y 0,25 h de ayudante), que no tenían una fuente que se pudiera cotejar. La fuente usa la categoría Oficial, por eso la mano de obra pasa de oficial especializado a oficial. INCLUYE: 1,60 h de oficial y 1,30 h de ayudante; 1,10 m² de machimbre cepillado de 3/4 x 4 pulgadas; 0,50 m de listón de saligna de 2x3 pulgadas; 0,50 m de listón cepillado de 1 x 1 1/2 pulgadas; 0,10 kg de clavos de punta París de 2 pulgadas; 0,01 h de equipos y herramientas menores. NO INCLUYE: aislante térmico (la fuente lleva 1,00 m² de telgopor de 4,5 cm y 8 tornillos con arandela por m²), ni barnizado, lustre o pintura de la madera. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Cielorraso de machimbre cepillado de 3/4 x 4 pulgadas suspendido bajo losa, clavado sobre una estructura de listones de saligna de 2x3 pulgadas y listones cepillados de 1 x 1 1/2 pulgadas. Medida por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Cielorrasos – Madera machimbrada con aislante de telgopor\" (página 9), que asigna 1,60 h de oficial y 1,30 h de ayudante por m². Se tomó solo la mano de obra: la fuente describe machimbre de 1x6 pulgadas (10,50 pie² por m²) sobre tirantes de 2x3 pulgadas (7,21 pie²), con aislante de telgopor de 4,5 cm (1,00 m²) y 8 tornillos con arandela, y esta partida tiene otra especificación de materiales (machimbre de 3/4 x 4 pulgadas, listones y clavos, sin aislante), así que se conservan los materiales que ya tenía. Las cantidades de esos materiales (machimbre, listones y clavos) y la línea de equipos y herramientas menores son las que ya tenía la partida y no tienen fuente declarada. Las horas de la fuente incluyen la colocación del telgopor, que esta partida no lleva. Es el mismo criterio que el de la partida «Cielorraso de machimbre de pino de 1/2 pulgada». CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,25 h de oficial especializado y 0,25 h de ayudante), que no tenían una fuente que se pudiera cotejar. La fuente usa la categoría Oficial, por eso la mano de obra pasa de oficial especializado a oficial. INCLUYE: 1,60 h de oficial y 1,30 h de ayudante; 1,10 m² de machimbre cepillado de 3/4 x 4 pulgadas; 0,50 m de listón de saligna de 2x3 pulgadas; 0,50 m de listón cepillado de 1 x 1 1/2 pulgadas; 0,10 kg de clavos de punta París de 2 pulgadas; 0,01 h de equipos y herramientas menores. NO INCLUYE: aislante térmico (la fuente lleva 1,00 m² de telgopor de 4,5 cm y 8 tornillos con arandela por m²), ni barnizado, lustre o pintura de la madera. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 09.02: el costo de esta partida es el del rubro «Madera machimbrada (suspendido c/estructura de madera)» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 17.643,92 de ejecución y $ 30.348,50 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,456 y las de materiales por 1,837. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.169Z",
+      "updatedAt": "2026-11-19T12:37:28.275Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -397,55 +404,55 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.45,
+          "quantity": 0.48493992,
           "ref": "mo-ar-oficial-especializado-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.45,
+          "quantity": 0.48493992,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.5,
+          "quantity": 1.0834269,
           "ref": "mt-ar-perfil-perimetral-para-cielorraso",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1.6,
+          "quantity": 1.15565536,
           "ref": "mt-ar-perfil-larguero-para-cielorraso-desmontable",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1.6,
+          "quantity": 1.15565536,
           "ref": "mt-ar-perfil-travesano-para-cielorraso-desmontable",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 6,
+          "quantity": 4.33370759,
           "ref": "mt-ar-fijacion-de-tornillo-y-taco",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1.3,
+          "quantity": 0.93896998,
           "ref": "mt-ar-alambre-galvanizado-n-14",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1.05,
+          "quantity": 0.75839883,
           "ref": "mt-ar-placa-de-cielorraso-desmontable-de-0-61-x-0-61-m",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.01,
+          "quantity": 0.01077644,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -471,7 +478,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 31057.77
+          "value": 27053.71
         },
         {
           "currency": "ARS",
@@ -484,7 +491,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32514.27
+          "value": 28623.3
         },
         {
           "currency": "ARS",
@@ -497,7 +504,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 39753.52
+          "value": 36424.63
         },
         {
           "currency": "ARS",
@@ -510,7 +517,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 44051.92
+          "value": 41056.78
         }
       ],
       "sources": [
@@ -519,15 +526,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "09.08",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Cielorraso suspendido desmontable tipo durlock, modulacion 0,61 x 0,61 m",
       "tags": [
         "cielorrasos"
       ],
-      "text": "Cielorraso suspendido desmontable tipo durlock, modulacion 0,61 x 0,61 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Cielorraso suspendido desmontable tipo durlock, modulacion 0,61 x 0,61 m. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 09.08: el costo de esta partida es el del rubro «Placa vinílica texturada desmontable, s/aislación» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 14.013,88 de ejecución y $ 13.039,83 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,078 y las de materiales por 0,722. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.035Z",
+      "updatedAt": "2026-11-19T12:37:28.276Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -600,7 +614,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 20835.16
+          "value": 20133.94
         },
         {
           "currency": "ARS",
@@ -613,7 +627,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22475.48
+          "value": 21774.27
         },
         {
           "currency": "ARS",
@@ -626,7 +640,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 30425.47
+          "value": 29724.26
         },
         {
           "currency": "ARS",
@@ -639,7 +653,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 35500.8
+          "value": 34799.58
         }
       ],
       "sources": [
@@ -656,7 +670,7 @@
       ],
       "text": "Engrosado de yeso a la cal. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-14T22:02:33.414Z",
+      "updatedAt": "2026-11-19T12:06:22.854Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -717,7 +731,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26760.6
+          "value": 23594.41
         },
         {
           "currency": "ARS",
@@ -730,7 +744,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28816.5
+          "value": 25650.31
         },
         {
           "currency": "ARS",
@@ -743,7 +757,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 38730.59
+          "value": 35564.39
         },
         {
           "currency": "ARS",
@@ -756,7 +770,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 45149.58
+          "value": 41983.38
         }
       ],
       "sources": [
@@ -773,7 +787,7 @@
       ],
       "text": "Engrosado de yeso reforzado con cemento, usado bajo revestimientos que exigen sup.lisa. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.316Z",
+      "updatedAt": "2026-11-19T12:06:22.855Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -840,7 +854,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 45781.51
+          "value": 41278.99
         },
         {
           "currency": "ARS",
@@ -853,7 +867,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 48647.21
+          "value": 44144.69
         },
         {
           "currency": "ARS",
@@ -866,7 +880,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 64785.68
+          "value": 60283.15
         },
         {
           "currency": "ARS",
@@ -879,7 +893,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 71342.57
+          "value": 66840.05
         }
       ],
       "sources": [
@@ -896,7 +910,7 @@
       ],
       "text": "Estructura de hierro redondo para cielorrasos suspendidos, colgados de losa. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.358Z",
+      "updatedAt": "2026-11-19T12:06:22.859Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -969,7 +983,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36340.19
+          "value": 36108.77
         },
         {
           "currency": "ARS",
@@ -982,7 +996,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 39108.74
+          "value": 38877.32
         },
         {
           "currency": "ARS",
@@ -995,7 +1009,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 54918.63
+          "value": 54687.21
         },
         {
           "currency": "ARS",
@@ -1008,7 +1022,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 60972.95
+          "value": 60741.53
         }
       ],
       "sources": [
@@ -1025,7 +1039,7 @@
       ],
       "text": "Estructura de madera para cielorrasos suspendidos, para luces entre 3 y 5 mts. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.360Z",
+      "updatedAt": "2026-11-19T12:06:22.860Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1098,7 +1112,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 64366.46
+          "value": 60200.58
         },
         {
           "currency": "ARS",
@@ -1111,7 +1125,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 67451
+          "value": 63285.12
         },
         {
           "currency": "ARS",
@@ -1124,7 +1138,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 84896.3
+          "value": 80730.41
         },
         {
           "currency": "ARS",
@@ -1137,7 +1151,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 91858.42
+          "value": 87692.53
         }
       ],
       "sources": [
@@ -1154,7 +1168,7 @@
       ],
       "text": "Estructura independiente de hierro para cielorrasos susp, de perfiles metálicos y hierros redondos. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.377Z",
+      "updatedAt": "2026-11-19T12:06:22.862Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1209,7 +1223,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26837.02
+          "value": 26624.91
         },
         {
           "currency": "ARS",
@@ -1222,7 +1236,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29097.99
+          "value": 28885.87
         },
         {
           "currency": "ARS",
@@ -1235,7 +1249,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 41845.22
+          "value": 41633.1
         },
         {
           "currency": "ARS",
@@ -1248,7 +1262,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 46999.96
+          "value": 46787.84
         }
       ],
       "sources": [
@@ -1265,7 +1279,7 @@
       ],
       "text": "Fino de base cementicia-con mezcla predosificada. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.485Z",
+      "updatedAt": "2026-11-19T12:06:22.909Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1276,25 +1290,25 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.4,
+          "quantity": 0.5956708,
           "ref": "mo-ar-oficial-especializado-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.45,
+          "quantity": 0.67012965,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 4.3,
+          "quantity": 5.75905809,
           "ref": "mt-ar-yeso-en-bolsa-de-25-kg-por-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.01,
+          "quantity": 0.01489177,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -1320,7 +1334,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 14249.36
+          "value": 19709.12
         },
         {
           "currency": "ARS",
@@ -1333,7 +1347,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 15613.94
+          "value": 21741.23
         },
         {
           "currency": "ARS",
@@ -1346,7 +1360,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22497.82
+          "value": 31992.54
         },
         {
           "currency": "ARS",
@@ -1359,7 +1373,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26407.76
+          "value": 37815.13
         }
       ],
       "sources": [
@@ -1368,15 +1382,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "07.06",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Fino de yeso sobre grueso a la cal, tambien para aplicar sobre cualquier otra sup.lisa",
       "tags": [
         "cielorrasos"
       ],
-      "text": "Fino de yeso sobre grueso a la cal, tambien para aplicar sobre cualquier otra sup.lisa. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Fino de yeso sobre grueso a la cal, tambien para aplicar sobre cualquier otra sup.lisa. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 07.06: el costo de esta partida es el del rubro «Fino/Estucado de yeso» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 18.121,11 de ejecución y $ 1.588,00 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,489 y las de materiales por 1,339. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.489Z",
+      "updatedAt": "2026-11-19T12:37:28.302Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1431,7 +1452,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 14716.21
+          "value": 14662.37
         },
         {
           "currency": "ARS",
@@ -1444,7 +1465,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16176.12
+          "value": 16122.28
         },
         {
           "currency": "ARS",
@@ -1457,7 +1478,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24428.96
+          "value": 24375.12
         },
         {
           "currency": "ARS",
@@ -1470,7 +1491,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27729.29
+          "value": 27675.44
         }
       ],
       "sources": [
@@ -1487,7 +1508,7 @@
       ],
       "text": "Fino predosificado bajo losa, terminación al fieltro. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.491Z",
+      "updatedAt": "2026-11-19T12:06:22.912Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1542,7 +1563,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 13715.34
+          "value": 13661.5
         },
         {
           "currency": "ARS",
@@ -1555,7 +1576,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 15064.66
+          "value": 15010.82
         },
         {
           "currency": "ARS",
@@ -1568,7 +1589,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22745.11
+          "value": 22691.27
         },
         {
           "currency": "ARS",
@@ -1581,7 +1602,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25727.7
+          "value": 25673.86
         }
       ],
       "sources": [
@@ -1598,7 +1619,7 @@
       ],
       "text": "Fino predosificado bajo losa, terminación fratasada. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.493Z",
+      "updatedAt": "2026-11-19T12:06:22.913Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1665,7 +1686,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 20183.65
+          "value": 19886.89
         },
         {
           "currency": "ARS",
@@ -1678,7 +1699,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22110.48
+          "value": 21813.72
         },
         {
           "currency": "ARS",
@@ -1691,7 +1712,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33302.58
+          "value": 33005.82
         },
         {
           "currency": "ARS",
@@ -1704,7 +1725,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 37273.89
+          "value": 36977.13
         }
       ],
       "sources": [
@@ -1721,7 +1742,7 @@
       ],
       "text": "Grueso bajo fino a la cal, mezcla: 1/8 : 1 : 3. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.496Z",
+      "updatedAt": "2026-11-19T12:06:22.915Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1788,7 +1809,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22247.97
+          "value": 21891.97
         },
         {
           "currency": "ARS",
@@ -1801,7 +1822,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24323.72
+          "value": 23967.72
         },
         {
           "currency": "ARS",
@@ -1814,7 +1835,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36373.66
+          "value": 36017.66
         },
         {
           "currency": "ARS",
@@ -1827,7 +1848,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 40661.06
+          "value": 40305.05
         }
       ],
       "sources": [
@@ -1844,7 +1865,7 @@
       ],
       "text": "Grueso bajo fino cementicio, mezcla: 1 : 1 : 5. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.498Z",
+      "updatedAt": "2026-11-19T12:06:22.917Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1911,7 +1932,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 20335.56
+          "value": 20045.6
         },
         {
           "currency": "ARS",
@@ -1924,7 +1945,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 22262.39
+          "value": 21972.44
         },
         {
           "currency": "ARS",
@@ -1937,7 +1958,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33454.49
+          "value": 33164.53
         },
         {
           "currency": "ARS",
@@ -1950,7 +1971,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 37425.8
+          "value": 37135.85
         }
       ],
       "sources": [
@@ -1967,7 +1988,7 @@
       ],
       "text": "Grueso bajo yeso, mezcla: 1/4 : 1 : 3. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.504Z",
+      "updatedAt": "2026-11-19T12:06:22.919Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2028,7 +2049,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 5948.22
+          "value": 5875.57
         },
         {
           "currency": "ARS",
@@ -2041,7 +2062,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 6534.81
+          "value": 6462.16
         },
         {
           "currency": "ARS",
@@ -2054,7 +2075,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 10006.32
+          "value": 9933.67
         },
         {
           "currency": "ARS",
@@ -2067,7 +2088,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 11132.85
+          "value": 11060.2
         }
       ],
       "sources": [
@@ -2084,7 +2105,7 @@
       ],
       "text": "Salpicado de concreto sobre losa para recibir grueso, mezcla: 1 : 3. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.834Z",
+      "updatedAt": "2026-11-19T12:06:23.102Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2145,7 +2166,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 11171.84
+          "value": 10972.35
         },
         {
           "currency": "ARS",
@@ -2158,7 +2179,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 12205.18
+          "value": 12005.68
         },
         {
           "currency": "ARS",
@@ -2171,7 +2192,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 18250.22
+          "value": 18050.72
         },
         {
           "currency": "ARS",
@@ -2184,7 +2205,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 20325.01
+          "value": 20125.51
         }
       ],
       "sources": [
@@ -2201,7 +2222,7 @@
       ],
       "text": "Salpicado de concreto sobre metal desplegado, mezcla 1 : 3. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.838Z",
+      "updatedAt": "2026-11-19T12:06:23.103Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -2209,5 +2230,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

@@ -1,6 +1,6 @@
 # Instalación de agua
 
-Banco de ítems de construcción CERP v0.11.0 — 1 ítems. Datos estructurados en [`instalacion-de-agua--raiz.json`](./instalacion-de-agua--raiz.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.12.0 — 1 ítems. Datos estructurados en [`instalacion-de-agua--raiz.json`](./instalacion-de-agua--raiz.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
 > Costos unitarios por rubro y precios de materiales de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar
 > Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo
@@ -8,4 +8,4 @@ Banco de ítems de construcción CERP v0.11.0 — 1 ítems. Datos estructurados 
 
 | id | resumen | ud | precio ARS | fecha | descomposición (ref × cantidad) |
 |----|---------|----|-----------:|-------|---------------------------------|
-| `wi-ar-tanque-de-reserva-domiciliario-cap-1100-lts-tanque-tricapa-1` | Tanque de reserva domiciliario-cap. 1100 lts, tanque tricapa 1,44 m altura, 1,10 m diametro. se considera que el… | u | 481738.11 | 2026-11 | mo-ar-oficial-especializado-cct-76-75 ×2<br>mo-ar-ayudante-cct-76-75 ×2<br>mt-ar-tanque-de-agua-tricapa-de-1-100-l ×1<br>mt-ar-base-de-apoyo-para-tanque-de-agua ×1<br>mt-ar-aireador-para-tanque-de-agua ×1<br>mt-ar-flotante-mecanico-para-tanque-de-agua ×1<br>mt-ar-valvula-de-seguridad-para-tanque-de-agua ×1<br>mt-ar-brida-para-colector-de-polipropileno-de-1-pulgada ×1<br>mq-ar-equipos-y-herramientas-menores-por-hora-de-uso ×0.5 |
+| `wi-ar-tanque-de-reserva-domiciliario-cap-1100-lts-tanque-tricapa-1` | Tanque de reserva domiciliario-cap. 1100 lts, tanque tricapa 1,44 m altura, 1,10 m diametro. se considera que el… | u | 420670.24 | 2026-11 | mo-ar-oficial-especializado-cct-76-75 ×1.9943<br>mo-ar-ayudante-cct-76-75 ×1.9943<br>mt-ar-tanque-de-agua-tricapa-de-1-100-l ×1.2187<br>mt-ar-base-de-apoyo-para-tanque-de-agua ×1.2187<br>mt-ar-aireador-para-tanque-de-agua ×1.2187<br>mt-ar-flotante-mecanico-para-tanque-de-agua ×1.2187<br>mt-ar-valvula-de-seguridad-para-tanque-de-agua ×1.2187<br>mt-ar-brida-para-colector-de-polipropileno-de-1-pulgada ×1.2187<br>mq-ar-equipos-y-herramientas-menores-por-hora-de-uso ×0.4986 |

@@ -1,6 +1,6 @@
 # Estructura de hormigón armado > Encofrados
 
-Banco de ítems de construcción CERP v0.11.0 — 1 ítems. Datos estructurados en [`estructura-de-hormigon-armado--encofrados.json`](./estructura-de-hormigon-armado--encofrados.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.12.0 — 1 ítems. Datos estructurados en [`estructura-de-hormigon-armado--encofrados.json`](./estructura-de-hormigon-armado--encofrados.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
 > Costos unitarios por rubro y precios de materiales de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar
 > Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo

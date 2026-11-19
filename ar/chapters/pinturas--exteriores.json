@@ -10,25 +10,25 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.4,
+          "quantity": 0.39218489,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.58827734,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.01667,
+          "quantity": 0.05094921,
           "ref": "mt-ar-pintura-latex-acrilico-para-exteriores-en-balde-de-20-litros",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.006,
+          "quantity": 0.01833805,
           "ref": "mt-ar-fijador-sellador-al-agua-en-balde-de-20-litros",
           "role": "material"
         }
@@ -55,7 +55,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16272.52
+          "value": 20830.15
         },
         {
           "currency": "ARS",
@@ -68,7 +68,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 17743.53
+          "value": 22272.42
         },
         {
           "currency": "ARS",
@@ -81,7 +81,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26402.24
+          "value": 30761.96
         },
         {
           "currency": "ARS",
@@ -94,7 +94,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29287.48
+          "value": 33590.82
         }
       ],
       "sources": [
@@ -103,6 +103,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "15.04",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Pintura al látex acrílico para exteriores, tres manos",
@@ -112,9 +119,9 @@
         "acrílico",
         "pintura"
       ],
-      "text": "Pintura al látex acrílico para exteriores sobre revoque, en tres manos, con fijador al agua previo (en revisión, ver más abajo) y con la mano de obra de sellado de fisuras; el material de sellado no está incluido. Medida por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: fuente, ítem 21.1 «Pintura al látex en exteriores» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre; sus rendimientos son idénticos a los de la edición julio 2025 citada antes), que asigna 0,20 h de oficial y 0,30 h de ayudante por m² para un consumo de 0,15 l/m² de pintura. DECISIÓN DE CURACIÓN (noviembre 2026): por su consumo, ese análisis equivale a una mano o a una mano y media, y esta partida declara tres manos; en esa decisión se cargaron con 0,30 l/m² de pintura. Las horas se escalaron en proporción a ese consumo frente al del análisis del CAS: 0,30 / 0,15 = 2,0, con lo que quedan 0,4 h de oficial y 0,6 h de ayudante por m². El CAS no declara cuántas manos cubre su análisis: la equivalencia es una inferencia por consumo. El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste. CONSUMO DE PINTURA (corrección de noviembre 2026): 0,333 l/m², es decir un litro cada 3 m² (0,01667 balde de 20 l). Sale del fabricante, no de la fuente de rendimientos. La ficha técnica de «Recuplast Frentes» (Sinteplast, REV_01, mayo de 2019, sinteplast.com.ar) da 3 m² por litro con el trabajo terminado, en una mano diluida y dos sin diluir como mínimo. Es un recubrimiento acrílico impermeabilizante y su cotización es la mediana del precio relevado para este material; con un látex para exteriores común el consumo puede ser distinto. Reemplaza al consumo anterior de 0,30 l/m², que no declaraba fuente. Las horas siguen calculadas con 0,30 l/m² (factor 2,0); con el consumo nuevo el factor sería 2,22, y no se cambian porque la ficha del fabricante no es fuente de rendimiento de mano de obra. CORRECCIÓN (noviembre 2026): no cambia ningún número. El ítem 21.1 del CAS también lleva 0,34 l de enduido plástico y 0,25 de papel de lija por m², que esta partida no carga y que el texto no declaraba; ahora figuran en «NO INCLUYE». INCLUYE: la pintura, el fijador y la mano de obra de preparación y de aplicación de las tres manos. NO INCLUYE: el material para sellar fisuras (solo su mano de obra); el enduido plástico (0,34 l/m² en el ítem 21.1 del CAS), porque el banco solo tiene enduido de uso interior; el papel de lija (0,25 por m² en el mismo ítem), porque el banco no tiene esa hoja; andamios ni medios de elevación, ni la reparación del revoque. La cantidad de fijador (0,12 l/m², 0,006 balde de 20 l) es la del ítem 21.1 del CAS. EN REVISIÓN: el fijador con el que se relevó el precio es un sellador fijador al agua de Alba que el comercio vende como sellador para paredes interiores, y la ficha técnica de Alba «Sellador fijador al agua» de la línea alta performance (revisión 1, enero de 2013) indica «uso exclusivo en interiores». La ficha de la pintura no pide fijador sobre superficie firme y llama imprimación a la primera mano diluida; sobre superficies pulverulentas o deterioradas pide un fijador al aceite. Queda pendiente definir si la partida lleva un fijador para exteriores o ninguno; hasta entonces la línea se conserva como estaba. LÍMITE CONOCIDO: la pintura se calcula con el rendimiento de la ficha del fabricante y el fijador con el ítem 21.1 del CAS, con precios de comercio y sin desperdicio ni consumibles. Conviene ajustarla con consumos y precios propios. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Pintura al látex acrílico para exteriores sobre revoque, en tres manos, con fijador al agua previo (en revisión, ver más abajo) y con la mano de obra de sellado de fisuras; el material de sellado no está incluido. Medida por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: fuente, ítem 21.1 «Pintura al látex en exteriores» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre; sus rendimientos son idénticos a los de la edición julio 2025 citada antes), que asigna 0,20 h de oficial y 0,30 h de ayudante por m² para un consumo de 0,15 l/m² de pintura. DECISIÓN DE CURACIÓN (noviembre 2026): por su consumo, ese análisis equivale a una mano o a una mano y media, y esta partida declara tres manos; en esa decisión se cargaron con 0,30 l/m² de pintura. Las horas se escalaron en proporción a ese consumo frente al del análisis del CAS: 0,30 / 0,15 = 2,0, con lo que quedan 0,4 h de oficial y 0,6 h de ayudante por m². El CAS no declara cuántas manos cubre su análisis: la equivalencia es una inferencia por consumo. El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste. CONSUMO DE PINTURA (corrección de noviembre 2026): 0,333 l/m², es decir un litro cada 3 m² (0,01667 balde de 20 l). Sale del fabricante, no de la fuente de rendimientos. La ficha técnica de «Recuplast Frentes» (Sinteplast, REV_01, mayo de 2019, sinteplast.com.ar) da 3 m² por litro con el trabajo terminado, en una mano diluida y dos sin diluir como mínimo. Es un recubrimiento acrílico impermeabilizante y su cotización es la mediana del precio relevado para este material; con un látex para exteriores común el consumo puede ser distinto. Reemplaza al consumo anterior de 0,30 l/m², que no declaraba fuente. Las horas siguen calculadas con 0,30 l/m² (factor 2,0); con el consumo nuevo el factor sería 2,22, y no se cambian porque la ficha del fabricante no es fuente de rendimiento de mano de obra. CORRECCIÓN (noviembre 2026): no cambia ningún número. El ítem 21.1 del CAS también lleva 0,34 l de enduido plástico y 0,25 de papel de lija por m², que esta partida no carga y que el texto no declaraba; ahora figuran en «NO INCLUYE». INCLUYE: la pintura, el fijador y la mano de obra de preparación y de aplicación de las tres manos. NO INCLUYE: el material para sellar fisuras (solo su mano de obra); el enduido plástico (0,34 l/m² en el ítem 21.1 del CAS), porque el banco solo tiene enduido de uso interior; el papel de lija (0,25 por m² en el mismo ítem), porque el banco no tiene esa hoja; andamios ni medios de elevación, ni la reparación del revoque. La cantidad de fijador (0,12 l/m², 0,006 balde de 20 l) es la del ítem 21.1 del CAS. EN REVISIÓN: el fijador con el que se relevó el precio es un sellador fijador al agua de Alba que el comercio vende como sellador para paredes interiores, y la ficha técnica de Alba «Sellador fijador al agua» de la línea alta performance (revisión 1, enero de 2013) indica «uso exclusivo en interiores». La ficha de la pintura no pide fijador sobre superficie firme y llama imprimación a la primera mano diluida; sobre superficies pulverulentas o deterioradas pide un fijador al aceite. Queda pendiente definir si la partida lleva un fijador para exteriores o ninguno; hasta entonces la línea se conserva como estaba. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 15.04: el costo de esta partida es el del rubro «Látex en muros exteriores» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 12.761,52 de ejecución y $ 8.068,65 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,98 y las de materiales por 3,056. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:10:48.156Z",
+      "updatedAt": "2026-11-19T12:37:28.314Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -122,5 +129,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

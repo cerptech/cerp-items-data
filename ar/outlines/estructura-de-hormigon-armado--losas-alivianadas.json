@@ -20,11 +20,11 @@
       "u": "u"
     },
     {
-      "d": "2026-08",
+      "d": "2026-11",
       "g": [],
       "id": "mt-ar-malla-electrosoldada-q131-en-pano-de-2-40-x-6-00-m",
       "m": 0,
-      "p": 63590.08,
+      "p": 68510.12,
       "s": "Malla electrosoldada Q131 en paño de 2,40 x 6,00 m",
       "u": "u"
     },
@@ -38,11 +38,11 @@
       "u": "u"
     },
     {
-      "d": "2026-08",
+      "d": "2026-11",
       "g": [],
       "id": "mt-ar-vigueta-pretensada-de-hormigon-para-losa-en-pieza-de-4-m",
       "m": 0,
-      "p": 15537.19,
+      "p": 15803.47,
       "s": "Vigueta pretensada de hormigón para losa en pieza de 4 m",
       "u": "u"
     },
@@ -51,7 +51,7 @@
       "g": [],
       "id": "wi-ar-losa-alivianada-de-viguetas-pretensadas-y-bloque-de-poliesti",
       "m": 10,
-      "p": 120500.91,
+      "p": 134979.2,
       "s": "Losa alivianada de viguetas pretensadas y bloque de poliestireno para luz de hasta 4 m",
       "u": "m2"
     },
@@ -60,11 +60,11 @@
       "g": [],
       "id": "wi-ar-losa-alivianada-de-viguetas-pretensadas-y-ladrillo-ceramico",
       "m": 10,
-      "p": 130259.61,
+      "p": 130569.36,
       "s": "Losa alivianada de viguetas pretensadas y ladrillo cerámico para luz de hasta 4 m",
       "u": "m2"
     }
   ],
   "title": "Estructura de hormigón armado > Losas alivianadas",
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

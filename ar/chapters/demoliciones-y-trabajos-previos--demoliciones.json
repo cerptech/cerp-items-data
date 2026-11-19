@@ -86,7 +86,7 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 3,
+          "quantity": 11.10052907,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         }
@@ -113,7 +113,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 36482.88
+          "value": 134993.09
         },
         {
           "currency": "ARS",
@@ -126,7 +126,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 40678.14
+          "value": 150516.29
         },
         {
           "currency": "ARS",
@@ -139,7 +139,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 67617.57
+          "value": 250196.93
         },
         {
           "currency": "ARS",
@@ -152,7 +152,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 72965.76
+          "value": 269986.18
         }
       ],
       "sources": [
@@ -161,6 +161,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "01.09",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Demolición de mampostería de ladrillo común a mano",
@@ -169,9 +176,9 @@
         "refacción",
         "trabajos previos"
       ],
-      "text": "Demolición de muro de mampostería de ladrillo común de tierra cocida con medios manuales, incluido el acopio del escombro en obra. Medida por metro cúbico de mampostería demolida sobre las dimensiones del muro previo a la demolición. No incluye el retiro del escombro, que va por su propia partida. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO INCORPORADO EN SEPTIEMBRE DE 2026. Rendimiento de mano de obra transcripto de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán, de descarga libre. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes, y usa sólo las categorías Oficial y Ayudante, sin medio oficial. Nivel de verificación cross-check-secundario, pendiente de contraste. Corresponde al ítem \"Demoliciones — Demolición de Mampostería\", que la fuente resuelve enteramente con ayudante, sin oficial. La fuente separa 3,00 horas de demolición y 1,00 hora de retiro de escombros fuera de obra; acá se tomaron sólo las 3,00 de demolición, porque el retiro va por su propia partida y sumarlo duplicaría el cómputo.",
+      "text": "Demolición de muro de mampostería de ladrillo común de tierra cocida con medios manuales, incluido el acopio del escombro en obra. Medida por metro cúbico de mampostería demolida sobre las dimensiones del muro previo a la demolición. No incluye el retiro del escombro, que va por su propia partida. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO INCORPORADO EN SEPTIEMBRE DE 2026. Rendimiento de mano de obra transcripto de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán, de descarga libre. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes, y usa sólo las categorías Oficial y Ayudante, sin medio oficial. Nivel de verificación cross-check-secundario, pendiente de contraste. Corresponde al ítem \"Demoliciones — Demolición de Mampostería\", que la fuente resuelve enteramente con ayudante, sin oficial. La fuente separa 3,00 horas de demolición y 1,00 hora de retiro de escombros fuera de obra; acá se tomaron sólo las 3,00 de demolición, porque el retiro va por su propia partida y sumarlo duplicaría el cómputo. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 01.09: el costo de esta partida es el del rubro «Demolición de mamposterías de ladrillos comunes» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 134.993,09 de ejecución y $ 0,00 de materiales por m3, sin IVA, en zona A. Para llegar a ese costo, todas las cantidades de la descomposición se multiplicaron por 3,7. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m3",
-      "updatedAt": "2026-11-06T14:19:15.287Z",
+      "updatedAt": "2026-11-19T12:37:28.288Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -182,7 +189,7 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.36,
+          "quantity": 1.91404434,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         }
@@ -209,7 +216,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4377.95
+          "value": 23276.62
         },
         {
           "currency": "ARS",
@@ -222,7 +229,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 4881.38
+          "value": 25953.25
         },
         {
           "currency": "ARS",
@@ -235,7 +242,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 8114.11
+          "value": 43141.01
         },
         {
           "currency": "ARS",
@@ -248,7 +255,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 8755.89
+          "value": 46553.23
         }
       ],
       "sources": [
@@ -257,6 +264,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "01.10",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Demolición de tabique de ladrillo hueco",
@@ -265,9 +279,9 @@
         "refacción",
         "trabajos previos"
       ],
-      "text": "Demolición de tabique interior de ladrillo hueco cerámico revestido, con medios manuales, incluido el acopio del escombro en obra. Medida por metro cuadrado de tabique demolido. No incluye el retiro del escombro. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO INCORPORADO EN SEPTIEMBRE DE 2026. Rendimiento de mano de obra transcripto de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán, de descarga libre. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes, y usa sólo las categorías Oficial y Ayudante, sin medio oficial. Nivel de verificación cross-check-secundario, pendiente de contraste. RENDIMIENTO DERIVADO: la fuente sólo tiene demolición de mampostería por metro cúbico (3,00 horas de ayudante). Esta partida se mide por metro cuadrado de tabique, así que se multiplicó por el espesor de 0,12 m del tabique de ladrillo hueco. La derivación es aritmética y queda declarada; no incluye el retiro de escombros, que va por su propia partida.",
+      "text": "Demolición de tabique interior de ladrillo hueco cerámico revestido, con medios manuales, incluido el acopio del escombro en obra. Medida por metro cuadrado de tabique demolido. No incluye el retiro del escombro. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO INCORPORADO EN SEPTIEMBRE DE 2026. Rendimiento de mano de obra transcripto de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán, de descarga libre. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes, y usa sólo las categorías Oficial y Ayudante, sin medio oficial. Nivel de verificación cross-check-secundario, pendiente de contraste. RENDIMIENTO DERIVADO: la fuente sólo tiene demolición de mampostería por metro cúbico (3,00 horas de ayudante). Esta partida se mide por metro cuadrado de tabique, así que se multiplicó por el espesor de 0,12 m del tabique de ladrillo hueco. La derivación es aritmética y queda declarada; no incluye el retiro de escombros, que va por su propia partida. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 01.10: el costo de esta partida es el del rubro «Demolición de mamposterías de ladrillos huecos» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 23.276,64 de ejecución y $ 0,00 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, todas las cantidades de la descomposición se multiplicaron por 5,317. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.292Z",
+      "updatedAt": "2026-11-19T12:37:28.289Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -278,7 +292,7 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.5,
+          "quantity": 1.36124533,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         }
@@ -305,7 +319,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 6080.48
+          "value": 16554.05
         },
         {
           "currency": "ARS",
@@ -318,7 +332,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 6779.69
+          "value": 18457.64
         },
         {
           "currency": "ARS",
@@ -331,7 +345,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 11269.6
+          "value": 30681.37
         },
         {
           "currency": "ARS",
@@ -344,7 +358,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 12160.96
+          "value": 33108.1
         }
       ],
       "sources": [
@@ -353,6 +367,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "01.11",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Picado de revoque en paredes",
@@ -361,9 +382,9 @@
         "refacción",
         "trabajos previos"
       ],
-      "text": "Picado y eliminación de revoque existente en paramento vertical hasta 3 m de altura, con medios manuales y sin deteriorar el soporte, incluido el acopio del escombro en obra. Medido por metro cuadrado de paramento picado. No incluye el retiro del escombro. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO INCORPORADO EN SEPTIEMBRE DE 2026. Rendimiento de mano de obra transcripto de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán, de descarga libre. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes, y usa sólo las categorías Oficial y Ayudante, sin medio oficial. Nivel de verificación cross-check-secundario, pendiente de contraste. Corresponde al ítem \"Demoliciones — Picado Revoque existente y limpieza de junta\", resuelto enteramente con ayudante. Se tomaron sólo las 0,50 horas de ayudante de picado y limpieza; la fuente agrega otras 0,05 de retiro de escombros fuera de obra, que acá va por su propia partida. CORRECCIÓN (noviembre 2026): se habían cargado 0,30 horas, que son las del ítem \"Sacar piso existente y emparejar contrapiso\"; la versión anterior había cargado las horas de un renglón vecino del PDF, por una lectura del documento con las columnas desalineadas; se verificó contra la extracción del PDF en modo tabla, donde cada renglón cierra con su propia lista de insumos. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Picado y eliminación de revoque existente en paramento vertical hasta 3 m de altura, con medios manuales y sin deteriorar el soporte, incluido el acopio del escombro en obra. Medido por metro cuadrado de paramento picado. No incluye el retiro del escombro. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO INCORPORADO EN SEPTIEMBRE DE 2026. Rendimiento de mano de obra transcripto de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán, de descarga libre. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes, y usa sólo las categorías Oficial y Ayudante, sin medio oficial. Nivel de verificación cross-check-secundario, pendiente de contraste. Corresponde al ítem \"Demoliciones — Picado Revoque existente y limpieza de junta\", resuelto enteramente con ayudante. Se tomaron sólo las 0,50 horas de ayudante de picado y limpieza; la fuente agrega otras 0,05 de retiro de escombros fuera de obra, que acá va por su propia partida. CORRECCIÓN (noviembre 2026): se habían cargado 0,30 horas, que son las del ítem \"Sacar piso existente y emparejar contrapiso\"; la versión anterior había cargado las horas de un renglón vecino del PDF, por una lectura del documento con las columnas desalineadas; se verificó contra la extracción del PDF en modo tabla, donde cada renglón cierra con su propia lista de insumos. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 01.11: el costo de esta partida es el del rubro «Picado de revoques» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 16.554,05 de ejecución y $ 0,00 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, todas las cantidades de la descomposición se multiplicaron por 2,722. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-14T22:02:33.441Z",
+      "updatedAt": "2026-11-19T12:37:28.314Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -450,7 +471,7 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 1.46004594,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         }
@@ -477,7 +498,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 7296.58
+          "value": 17755.56
         },
         {
           "currency": "ARS",
@@ -490,7 +511,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 8135.63
+          "value": 19797.32
         },
         {
           "currency": "ARS",
@@ -503,7 +524,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 13523.51
+          "value": 32908.25
         },
         {
           "currency": "ARS",
@@ -516,7 +537,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 14593.15
+          "value": 35511.12
         }
       ],
       "sources": [
@@ -525,6 +546,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "01.12",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Retiro de piso cerámico",
@@ -533,9 +561,9 @@
         "refacción",
         "trabajos previos"
       ],
-      "text": "Retiro de piso cerámico existente con medios manuales, incluido el picado del adhesivo y el acopio del escombro en obra. Medido por metro cuadrado de piso retirado. NO incluye la carpeta ni el contrapiso de asiento, que van por su propia partida: es una distinción que las fuentes públicas hacen y que conviene mantener para no medir dos veces. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO INCORPORADO EN SEPTIEMBRE DE 2026. Rendimiento de mano de obra transcripto de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán, de descarga libre. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes, y usa sólo las categorías Oficial y Ayudante, sin medio oficial. Nivel de verificación cross-check-secundario, pendiente de contraste. Corresponde al ítem \"Demoliciones — Sacar piso existente y emparejar contrapiso\": 0,30 horas de ayudante para sacar el piso y retirarlo fuera de obra y 0,30 para emparejar y acondicionar el contrapiso; se cargan las dos, 0,60 horas. SALVEDAD: en la fuente las primeras 0,30 horas incluyen el retiro fuera de obra, que en este banco va por su propia partida, de modo que el valor cargado sobrestima levemente. Queda declarado. CORRECCIÓN (noviembre 2026): se habían cargado 0,55 horas con un desglose (0,50 + 0,05) que es el del ítem \"Picado Revoque existente y limpieza de junta\"; la versión anterior había cargado las horas de un renglón vecino del PDF, por una lectura del documento con las columnas desalineadas; se verificó contra la extracción del PDF en modo tabla, donde cada renglón cierra con su propia lista de insumos. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Retiro de piso cerámico existente con medios manuales, incluido el picado del adhesivo y el acopio del escombro en obra. Medido por metro cuadrado de piso retirado. NO incluye la carpeta ni el contrapiso de asiento, que van por su propia partida: es una distinción que las fuentes públicas hacen y que conviene mantener para no medir dos veces. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO INCORPORADO EN SEPTIEMBRE DE 2026. Rendimiento de mano de obra transcripto de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán, de descarga libre. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes, y usa sólo las categorías Oficial y Ayudante, sin medio oficial. Nivel de verificación cross-check-secundario, pendiente de contraste. Corresponde al ítem \"Demoliciones — Sacar piso existente y emparejar contrapiso\": 0,30 horas de ayudante para sacar el piso y retirarlo fuera de obra y 0,30 para emparejar y acondicionar el contrapiso; se cargan las dos, 0,60 horas. SALVEDAD: en la fuente las primeras 0,30 horas incluyen el retiro fuera de obra, que en este banco va por su propia partida, de modo que el valor cargado sobrestima levemente. Queda declarado. CORRECCIÓN (noviembre 2026): se habían cargado 0,55 horas con un desglose (0,50 + 0,05) que es el del ítem \"Picado Revoque existente y limpieza de junta\"; la versión anterior había cargado las horas de un renglón vecino del PDF, por una lectura del documento con las columnas desalineadas; se verificó contra la extracción del PDF en modo tabla, donde cada renglón cierra con su propia lista de insumos. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 01.12: el costo de esta partida es el del rubro «Retiro de pisos/revestimientos» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 17.755,57 de ejecución y $ 0,00 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, todas las cantidades de la descomposición se multiplicaron por 2,433. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-14T22:02:33.460Z",
+      "updatedAt": "2026-11-19T12:37:28.319Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -543,5 +571,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

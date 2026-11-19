@@ -10,25 +10,25 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.81014415,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.3,
+          "quantity": 0.40507207,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 1.10699666,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.03,
+          "quantity": 0.05534983,
           "ref": "mt-ar-arena-gruesa-a-granel",
           "role": "material"
         }
@@ -55,7 +55,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 21770.74
+          "value": 33513.52
         },
         {
           "currency": "ARS",
@@ -68,7 +68,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23138.2
+          "value": 35359.93
         },
         {
           "currency": "ARS",
@@ -81,7 +81,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 30738.37
+          "value": 45621.99
         },
         {
           "currency": "ARS",
@@ -94,7 +94,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33996.59
+          "value": 50021.37
         }
       ],
       "sources": [
@@ -103,6 +103,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "08.02",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Contrapiso alivianado con esferas de poliestireno expandido de 8 cm",
@@ -112,9 +119,9 @@
         "eps",
         "poliestireno"
       ],
-      "text": "Contrapiso alivianado de 8 cm de espesor con esferas de poliestireno expandido, sobre losa, para reducción de carga y mejora de la aislación térmica. Medido por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítem 6.5 «Contrapiso Hº simple e=8cm» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,60 h de oficial y 0,30 h de ayudante por m². El ítem no indica sobre qué base apoya: es el único contrapiso de la fuente que no se titula «sobre terreno natural» (los ítems 6.2 a 6.4 sí lo hacen) y es el mismo que usan las partidas hermanas de contrapiso sobre losa de cascote y de arcilla expandida. Tiene el mismo espesor que esta partida, así que las horas se aplican sin escalar. La fuente no tiene contrapiso alivianado con esferas de poliestireno: el ítem computa hormigón simple de ripio (0,04 m³ de arena mediana lavada, 0,061 m³ de ripio zarandeado 1/3, 28 kg de cemento portland y 0,1 m² de poliestireno expandido de 20 mm por m²), que es otra especificación de material; por eso de la fuente se toman solo las horas y se conservan los materiales de la partida, sin fuente declarada. CORRECCIÓN (noviembre 2026): la partida citaba, como aproximación por espesor, el ítem «Hº de ripio bruto - espesor = 7 cm» de los «Coeficientes de Consumo» de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), y sus horas, 0,18 h de oficial y 0,60 h de ayudante por m², coincidían con ese ítem. Se pasa al ítem 6.5 del CAS, que es la fuente preferente, tiene el mismo espesor de 8 cm y es el que usan los demás contrapisos sobre losa del banco: las horas pasan a 0,60 h de oficial y 0,30 h de ayudante por m². Los materiales no cambian. Se quita además la frase del texto anterior que decía que no se cargaba mano de obra por falta de fuente. INCLUYE: 0,60 h de oficial y 0,30 h de ayudante por m²; 0,6 bolsas de 50 kg de cemento portland compuesto CPC40 y 0,03 m³ de arena gruesa por m², consumos sin fuente declarada. NO INCLUYE: las esferas de poliestireno expandido, que la partida no computa y cuyo consumo no da ninguna fuente permitida; el poliestireno expandido de 20 mm que lleva el ítem de la fuente (0,1 m² por m²); la losa de apoyo, la carpeta ni el solado; equipos y herramientas menores. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. LÍMITE CONOCIDO: con estos rendimientos y consumos la partida queda por debajo de los valores de mercado con los que se la contrastó en noviembre de 2026. Contrastala con tu experiencia antes de usarla en una oferta.",
+      "text": "Contrapiso alivianado de 8 cm de espesor con esferas de poliestireno expandido, sobre losa, para reducción de carga y mejora de la aislación térmica. Medido por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítem 6.5 «Contrapiso Hº simple e=8cm» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,60 h de oficial y 0,30 h de ayudante por m². El ítem no indica sobre qué base apoya: es el único contrapiso de la fuente que no se titula «sobre terreno natural» (los ítems 6.2 a 6.4 sí lo hacen) y es el mismo que usan las partidas hermanas de contrapiso sobre losa de cascote y de arcilla expandida. Tiene el mismo espesor que esta partida, así que las horas se aplican sin escalar. La fuente no tiene contrapiso alivianado con esferas de poliestireno: el ítem computa hormigón simple de ripio (0,04 m³ de arena mediana lavada, 0,061 m³ de ripio zarandeado 1/3, 28 kg de cemento portland y 0,1 m² de poliestireno expandido de 20 mm por m²), que es otra especificación de material; por eso de la fuente se toman solo las horas y se conservan los materiales de la partida, sin fuente declarada. CORRECCIÓN (noviembre 2026): la partida citaba, como aproximación por espesor, el ítem «Hº de ripio bruto - espesor = 7 cm» de los «Coeficientes de Consumo» de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), y sus horas, 0,18 h de oficial y 0,60 h de ayudante por m², coincidían con ese ítem. Se pasa al ítem 6.5 del CAS, que es la fuente preferente, tiene el mismo espesor de 8 cm y es el que usan los demás contrapisos sobre losa del banco: las horas pasan a 0,60 h de oficial y 0,30 h de ayudante por m². Los materiales no cambian. Se quita además la frase del texto anterior que decía que no se cargaba mano de obra por falta de fuente. INCLUYE: 0,60 h de oficial y 0,30 h de ayudante por m²; 0,6 bolsas de 50 kg de cemento portland compuesto CPC40 y 0,03 m³ de arena gruesa por m², consumos sin fuente declarada. NO INCLUYE: las esferas de poliestireno expandido, que la partida no computa y cuyo consumo no da ninguna fuente permitida; el poliestireno expandido de 20 mm que lleva el ítem de la fuente (0,1 m² por m²); la losa de apoyo, la carpeta ni el solado; equipos y herramientas menores. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 08.02: el costo de esta partida es el del rubro «Hormigón alivianado c/poliestireno expandido e=08cm» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 16.509,59 de ejecución y $ 17.003,93 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,35 y las de materiales por 1,845. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.217Z",
+      "updatedAt": "2026-11-19T12:37:28.281Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -125,43 +132,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.5,
+          "quantity": 0.96216757,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.5,
+          "quantity": 0.96216757,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.72,
+          "quantity": 1.18921094,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.06,
+          "quantity": 0.09910091,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.08,
+          "quantity": 0.13213455,
           "ref": "mt-ar-ripio-1-a-3-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.072917,
+          "quantity": 0.12043569,
           "ref": "mt-ar-malla-electrosoldada-q188-en-pano-de-2-40-x-6-00-m",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.02,
+          "quantity": 0.0384867,
           "ref": "mq-ar-hormigonera-de-130-litros-en-alquiler",
           "role": "machinery"
         }
@@ -188,7 +195,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 40083.72
+          "value": 69231.44
         },
         {
           "currency": "ARS",
@@ -201,7 +208,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 41572.88
+          "value": 72097.08
         },
         {
           "currency": "ARS",
@@ -214,7 +221,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 50151.31
+          "value": 88604.86
         },
         {
           "currency": "ARS",
@@ -227,7 +234,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 53312.17
+          "value": 94687.42
         }
       ],
       "sources": [
@@ -236,6 +243,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "08.06",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Contrapiso de hormigón armado con malla Q188 de 12 cm elaborado en obra",
@@ -245,9 +259,9 @@
         "malla",
         "q188"
       ],
-      "text": "Contrapiso de hormigón armado de 12 cm de espesor con malla electrosoldada Q188, ejecutado con hormigón preparado en obra sobre terreno compactado. Es la alternativa costeable a la partida hermana que usa hormigón elaborado de planta, que sigue sin precio porque ninguna hormigonera del AMBA lo cotiza en público. Medido por m² de contrapiso ejecutado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 6.4 «Contrapiso sobre terreno natural de Hº armado e=12cm con malla Q92» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,50 h de oficial y 0,50 h de ayudante por m², con 0,06 m³ de arena mediana lavada, 0,08 m³ de ripio zarandeado 1/3, 36 kg de cemento portland, 1,05 m² de malla de 15 x 15 cm (la línea de material nombra una malla Q131 en paño de 6,00 x 2,40 m) y 0,6 kg de alquitrán por m². Es el mismo trabajo: contrapiso armado de 12 cm sobre terreno natural, con el hormigón preparado en obra. El cemento se pasa a bolsas de 50 kg: 36 / 50 = 0,72 bolsas por m². El ripio zarandeado 1/3 se carga con la hoja de ripio 1 a 3 a granel del banco. La malla es Q188 por especificación de la partida: se toma el consumo de la fuente, 1,05 m² de malla por m², que tiene la misma cuadrícula de 15 x 15 cm, y se pasa a paños de 2,40 x 6,00 m (14,4 m²): 1,05 / 14,4 = 0,0729 paños por m². La hormigonera (0,02 días por m²) queda como estaba: la fuente no la computa y no tiene fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores, que citaban el ítem «Hº de ripio bruto - espesor = 10 cm» de los «Coeficientes de Consumo» de la FACET escalado a 12 cm: 0,30 h de oficial y 0,90 h de ayudante por m² (la FACET da 0,25 h y 0,75 h para 10 cm, y las horas se habían escalado en proporción al espesor), 0,53 bolsas de cemento, 0,06 m³ de arena gruesa, 0,09 m³ de piedra partida de 6 a 20 mm y 0,0833 paños de malla. Ese ítem es un hormigón sin armar de cemento y ripio bruto (22 kg y 0,12 m³ para 10 cm), así que la arena, la piedra y la malla no salían de él; y 0,0833 paños no correspondía a los 14,4 m² por paño que declaraba el propio texto (1 / 14,4 = 0,0694). Se pasa al ítem del CAS, que tiene el contrapiso armado de 12 cm. INCLUYE: 0,50 h de oficial y 0,50 h de ayudante por m²; 0,72 bolsas de 50 kg de cemento portland compuesto CPC40, 0,06 m³ de arena mediana y 0,08 m³ de ripio 1 a 3 por m²; 0,0729 paños de malla electrosoldada Q188 de 2,40 x 6,00 m por m²; 0,02 días de hormigonera de 130 litros por m², línea que ya tenía la partida y que no tiene fuente declarada. NO INCLUYE: 0,6 kg de alquitrán por m² que lleva la fuente, porque el banco no tiene esa hoja; la preparación y la compactación del terreno; el film de polietileno bajo el contrapiso; la carpeta ni el solado. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Contrapiso de hormigón armado de 12 cm de espesor con malla electrosoldada Q188, ejecutado con hormigón preparado en obra sobre terreno compactado. Es la alternativa costeable a la partida hermana que usa hormigón elaborado de planta, que sigue sin precio porque ninguna hormigonera del AMBA lo cotiza en público. Medido por m² de contrapiso ejecutado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 6.4 «Contrapiso sobre terreno natural de Hº armado e=12cm con malla Q92» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,50 h de oficial y 0,50 h de ayudante por m², con 0,06 m³ de arena mediana lavada, 0,08 m³ de ripio zarandeado 1/3, 36 kg de cemento portland, 1,05 m² de malla de 15 x 15 cm (la línea de material nombra una malla Q131 en paño de 6,00 x 2,40 m) y 0,6 kg de alquitrán por m². Es el mismo trabajo: contrapiso armado de 12 cm sobre terreno natural, con el hormigón preparado en obra. El cemento se pasa a bolsas de 50 kg: 36 / 50 = 0,72 bolsas por m². El ripio zarandeado 1/3 se carga con la hoja de ripio 1 a 3 a granel del banco. La malla es Q188 por especificación de la partida: se toma el consumo de la fuente, 1,05 m² de malla por m², que tiene la misma cuadrícula de 15 x 15 cm, y se pasa a paños de 2,40 x 6,00 m (14,4 m²): 1,05 / 14,4 = 0,0729 paños por m². La hormigonera (0,02 días por m²) queda como estaba: la fuente no la computa y no tiene fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores, que citaban el ítem «Hº de ripio bruto - espesor = 10 cm» de los «Coeficientes de Consumo» de la FACET escalado a 12 cm: 0,30 h de oficial y 0,90 h de ayudante por m² (la FACET da 0,25 h y 0,75 h para 10 cm, y las horas se habían escalado en proporción al espesor), 0,53 bolsas de cemento, 0,06 m³ de arena gruesa, 0,09 m³ de piedra partida de 6 a 20 mm y 0,0833 paños de malla. Ese ítem es un hormigón sin armar de cemento y ripio bruto (22 kg y 0,12 m³ para 10 cm), así que la arena, la piedra y la malla no salían de él; y 0,0833 paños no correspondía a los 14,4 m² por paño que declaraba el propio texto (1 / 14,4 = 0,0694). Se pasa al ítem del CAS, que tiene el contrapiso armado de 12 cm. INCLUYE: 0,50 h de oficial y 0,50 h de ayudante por m²; 0,72 bolsas de 50 kg de cemento portland compuesto CPC40, 0,06 m³ de arena mediana y 0,08 m³ de ripio 1 a 3 por m²; 0,0729 paños de malla electrosoldada Q188 de 2,40 x 6,00 m por m²; 0,02 días de hormigonera de 130 litros por m², línea que ya tenía la partida y que no tiene fuente declarada. NO INCLUYE: 0,6 kg de alquitrán por m² que lleva la fuente, porque el banco no tiene esa hoja; la preparación y la compactación del terreno; el film de polietileno bajo el contrapiso; la carpeta ni el solado. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 08.06: el costo de esta partida es el del rubro «Hormigón armado e=12cm terminación a la llana» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 25.935,15 de ejecución y $ 43.296,28 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,924 y las de materiales por 1,652. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.233Z",
+      "updatedAt": "2026-11-19T12:37:28.282Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -258,37 +272,37 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.5,
+          "quantity": 0.98019922,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.5,
+          "quantity": 0.98019922,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.72,
+          "quantity": 1.56470192,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.06,
+          "quantity": 0.13039183,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.08,
+          "quantity": 0.17385577,
           "ref": "mt-ar-ripio-1-a-3-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.081395,
+          "quantity": 0.17688738,
           "ref": "mt-ar-malla-de-acero-soldada-q92-en-pano-de-2-15-x-6-00-m",
           "role": "material"
         }
@@ -315,7 +329,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33545.18
+          "value": 69231.42
         },
         {
           "currency": "ARS",
@@ -328,7 +342,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 35034.34
+          "value": 72150.77
         },
         {
           "currency": "ARS",
@@ -341,7 +355,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 43612.77
+          "value": 88967.91
         },
         {
           "currency": "ARS",
@@ -354,7 +368,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 46773.63
+          "value": 95164.46
         }
       ],
       "sources": [
@@ -363,6 +377,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "08.06",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Contrapiso de hormigón armado con malla Q92 de 12 cm",
@@ -372,9 +393,9 @@
         "malla",
         "q92"
       ],
-      "text": "Contrapiso de hormigón armado de 12 cm de espesor con malla de acero soldada Q92, sobre suelo compactado, incluidos nivelación, reglado y curado. Medido por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 6.4 «Contrapiso sobre terreno natural de Hº armado e=12cm con malla Q92» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,50 h de oficial y 0,50 h de ayudante por m², con 0,06 m³ de arena mediana lavada, 0,08 m³ de ripio zarandeado 1/3, 36 kg de cemento portland, 1,05 m² de malla y 0,6 kg de alquitrán por m²: computa los componentes del hormigón, que se prepara en obra, y no hormigón elaborado. El título del ítem nombra la malla Q92, como esta partida, aunque su línea de material dice «Malla Sima Q131 15x15x5 6,00x2,40»: se carga la malla Q92 de la partida, de la misma cuadrícula de 15 x 15 cm, con el consumo de la fuente, 1,05 m² por m², en paños de 2,15 x 6,00 m (12,9 m²): 1,05 / 12,9 = 0,0814 paños por m². El cemento se pasa a bolsas de 50 kg: 36 / 50 = 0,72 bolsas por m². El ripio zarandeado 1/3 se carga con la hoja de ripio 1 a 3 a granel del banco. CORRECCIÓN (noviembre 2026): las horas, 0,50 h de oficial y 0,50 h de ayudante, ya eran las del ítem citado y no cambian. Cambian los materiales, que no eran los del ítem: los 0,125 m³ de hormigón elaborado H-17 por m² se reemplazan por los componentes del hormigón que da la fuente (0,72 bolsas de cemento, 0,06 m³ de arena mediana y 0,08 m³ de ripio 1 a 3), y la malla pasa de 0,085 a 0,0814 paños por m². La cita se actualiza de la edición julio 2025 a la edición octubre 2026. INCLUYE: 0,50 h de oficial y 0,50 h de ayudante por m²; 0,72 bolsas de 50 kg de cemento portland compuesto CPC40, 0,06 m³ de arena mediana y 0,08 m³ de ripio 1 a 3 por m²; 0,0814 paños de malla de acero soldada Q92 de 2,15 x 6,00 m por m². NO INCLUYE: 0,6 kg de alquitrán por m² que lleva la fuente, porque el banco no tiene esa hoja; hormigonera, equipos y herramientas menores, que la fuente no computa; la preparación y la compactación del terreno; el film de polietileno bajo el contrapiso; la carpeta ni el solado. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Contrapiso de hormigón armado de 12 cm de espesor con malla de acero soldada Q92, sobre suelo compactado, incluidos nivelación, reglado y curado. Medido por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 6.4 «Contrapiso sobre terreno natural de Hº armado e=12cm con malla Q92» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,50 h de oficial y 0,50 h de ayudante por m², con 0,06 m³ de arena mediana lavada, 0,08 m³ de ripio zarandeado 1/3, 36 kg de cemento portland, 1,05 m² de malla y 0,6 kg de alquitrán por m²: computa los componentes del hormigón, que se prepara en obra, y no hormigón elaborado. El título del ítem nombra la malla Q92, como esta partida, aunque su línea de material dice «Malla Sima Q131 15x15x5 6,00x2,40»: se carga la malla Q92 de la partida, de la misma cuadrícula de 15 x 15 cm, con el consumo de la fuente, 1,05 m² por m², en paños de 2,15 x 6,00 m (12,9 m²): 1,05 / 12,9 = 0,0814 paños por m². El cemento se pasa a bolsas de 50 kg: 36 / 50 = 0,72 bolsas por m². El ripio zarandeado 1/3 se carga con la hoja de ripio 1 a 3 a granel del banco. CORRECCIÓN (noviembre 2026): las horas, 0,50 h de oficial y 0,50 h de ayudante, ya eran las del ítem citado y no cambian. Cambian los materiales, que no eran los del ítem: los 0,125 m³ de hormigón elaborado H-17 por m² se reemplazan por los componentes del hormigón que da la fuente (0,72 bolsas de cemento, 0,06 m³ de arena mediana y 0,08 m³ de ripio 1 a 3), y la malla pasa de 0,085 a 0,0814 paños por m². La cita se actualiza de la edición julio 2025 a la edición octubre 2026. INCLUYE: 0,50 h de oficial y 0,50 h de ayudante por m²; 0,72 bolsas de 50 kg de cemento portland compuesto CPC40, 0,06 m³ de arena mediana y 0,08 m³ de ripio 1 a 3 por m²; 0,0814 paños de malla de acero soldada Q92 de 2,15 x 6,00 m por m². NO INCLUYE: 0,6 kg de alquitrán por m² que lleva la fuente, porque el banco no tiene esa hoja; hormigonera, equipos y herramientas menores, que la fuente no computa; la preparación y la compactación del terreno; el film de polietileno bajo el contrapiso; la carpeta ni el solado. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 08.06: el costo de esta partida es el del rubro «Hormigón armado e=12cm terminación a la llana» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 25.935,15 de ejecución y $ 43.296,28 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,96 y las de materiales por 2,173. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.236Z",
+      "updatedAt": "2026-11-19T12:37:28.282Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -385,31 +406,31 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.6884772,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.3,
+          "quantity": 0.3442386,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.09,
+          "quantity": 0.04751309,
           "ref": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.31675391,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.035,
+          "quantity": 0.01847731,
           "ref": "mt-ar-arena-gruesa-a-granel",
           "role": "material"
         }
@@ -436,7 +457,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24869.35
+          "value": 20531.49
         },
         {
           "currency": "ARS",
@@ -449,7 +470,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26236.81
+          "value": 22100.6
         },
         {
           "currency": "ARS",
@@ -462,7 +483,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 33836.99
+          "value": 30821.51
         },
         {
           "currency": "ARS",
@@ -475,7 +496,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 37095.21
+          "value": 34560.2
         }
       ],
       "sources": [
@@ -484,6 +505,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "08.07",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Contrapiso de hormigón de cascote sobre losa de 8 cm",
@@ -492,9 +520,9 @@
         "cascote",
         "losa"
       ],
-      "text": "Contrapiso de hormigón de cascote de 8 cm de espesor sobre losa, incluidos nivelación y reglado, para recibir carpeta y solado. Medido por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítem 6.5 «Contrapiso Hº simple e=8cm» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,60 h de oficial y 0,30 h de ayudante por m². El ítem no indica sobre qué base apoya: es el único contrapiso de la fuente que no se titula «sobre terreno natural» (los ítems 6.2 a 6.4 sí lo hacen), y tiene el mismo espesor que la partida, de modo que las horas se aplican sin escalar. El ítem es de hormigón simple de ripio (0,04 m³ de arena mediana lavada, 0,061 m³ de ripio zarandeado 1/3, 28 kg de cemento portland y 0,1 m² de poliestireno expandido de 20 mm por m²), no de cascote: de la fuente se toman solo las horas, y los materiales de la partida (cascote, cemento y arena gruesa) se conservan, sin fuente declarada. CORRECCIÓN (noviembre 2026): las horas, 0,60 h de oficial y 0,30 h de ayudante, coinciden con el ítem 6.5 de la edición octubre 2026 y no cambian; se actualiza la cita, que decía julio 2025 sin nombrar el ítem, y se aclara que los materiales no salen de la fuente. INCLUYE: 0,60 h de oficial y 0,30 h de ayudante por m²; 0,09 m³ de cascote de ladrillo triturado, 0,6 bolsas de 50 kg de cemento portland compuesto CPC40 y 0,035 m³ de arena gruesa por m², consumos sin fuente declarada. NO INCLUYE: el poliestireno expandido de 20 mm que lleva el ítem de la fuente (0,1 m² por m²); la losa, la carpeta ni el solado; equipos y herramientas menores. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Contrapiso de hormigón de cascote de 8 cm de espesor sobre losa, incluidos nivelación y reglado, para recibir carpeta y solado. Medido por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítem 6.5 «Contrapiso Hº simple e=8cm» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,60 h de oficial y 0,30 h de ayudante por m². El ítem no indica sobre qué base apoya: es el único contrapiso de la fuente que no se titula «sobre terreno natural» (los ítems 6.2 a 6.4 sí lo hacen), y tiene el mismo espesor que la partida, de modo que las horas se aplican sin escalar. El ítem es de hormigón simple de ripio (0,04 m³ de arena mediana lavada, 0,061 m³ de ripio zarandeado 1/3, 28 kg de cemento portland y 0,1 m² de poliestireno expandido de 20 mm por m²), no de cascote: de la fuente se toman solo las horas, y los materiales de la partida (cascote, cemento y arena gruesa) se conservan, sin fuente declarada. CORRECCIÓN (noviembre 2026): las horas, 0,60 h de oficial y 0,30 h de ayudante, coinciden con el ítem 6.5 de la edición octubre 2026 y no cambian; se actualiza la cita, que decía julio 2025 sin nombrar el ítem, y se aclara que los materiales no salen de la fuente. INCLUYE: 0,60 h de oficial y 0,30 h de ayudante por m²; 0,09 m³ de cascote de ladrillo triturado, 0,6 bolsas de 50 kg de cemento portland compuesto CPC40 y 0,035 m³ de arena gruesa por m², consumos sin fuente declarada. NO INCLUYE: el poliestireno expandido de 20 mm que lleva el ítem de la fuente (0,1 m² por m²); la losa, la carpeta ni el solado; equipos y herramientas menores. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 08.07: el costo de esta partida es el del rubro «Hormigón de cascotes e=08cm» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 14.030,19 de ejecución y $ 6.501,30 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,147 y las de materiales por 0,528. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:10:48.086Z",
+      "updatedAt": "2026-11-19T12:37:28.283Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -505,31 +533,31 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.36,
+          "quantity": 0.66755414,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.44,
+          "quantity": 0.8158995,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.13,
+          "quantity": 0.08695031,
           "ref": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.9,
+          "quantity": 0.60196367,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.05,
+          "quantity": 0.03344243,
           "ref": "mt-ar-arena-gruesa-a-granel",
           "role": "material"
         }
@@ -556,7 +584,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 29195.4
+          "value": 31644.11
         },
         {
           "currency": "ARS",
@@ -569,7 +597,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 30379.47
+          "value": 33839.75
         },
         {
           "currency": "ARS",
@@ -582,7 +610,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 37274.33
+          "value": 46624.99
         },
         {
           "currency": "ARS",
@@ -595,7 +623,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 39692.77
+          "value": 51109.55
         }
       ],
       "sources": [
@@ -604,6 +632,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "08.09",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Contrapiso de hormigón de cascote sobre terreno natural de 12 cm",
@@ -612,9 +647,9 @@
         "cascote",
         "terreno natural"
       ],
-      "text": "Contrapiso de hormigón de cascote de 12 cm de espesor sobre terreno natural compactado, incluidos nivelación y reglado. Medido por m² de superficie ejecutada. En Argentina se dice «contrapiso», no «solera». La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítem 6.3 «Contrapiso sobre terreno natural de Hº simple e=12cm» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,36 h de oficial y 0,44 h de ayudante por m². Es la misma tarea, con el mismo espesor y el mismo apoyo. El ítem es de hormigón simple de ripio (0,06 m³ de arena mediana lavada, 0,09 m³ de ripio zarandeado 1/3 y 32,2 kg de cemento portland por m²), no de cascote: de la fuente se toman solo las horas, y los materiales de la partida (cascote, cemento y arena gruesa) se conservan, sin fuente declarada. CORRECCIÓN (noviembre 2026): las horas, 0,36 h de oficial y 0,44 h de ayudante, coinciden con el ítem 6.3 de la edición octubre 2026 y no cambian; se actualiza la cita, que decía julio 2025 sin nombrar el ítem, y se aclara que los materiales no salen de la fuente. INCLUYE: 0,36 h de oficial y 0,44 h de ayudante por m²; 0,13 m³ de cascote de ladrillo triturado, 0,9 bolsas de 50 kg de cemento portland compuesto CPC40 y 0,05 m³ de arena gruesa por m², consumos sin fuente declarada. NO INCLUYE: la preparación y la compactación del terreno; el film de polietileno o la capa aisladora bajo el contrapiso; la carpeta ni el solado; equipos y herramientas menores. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Contrapiso de hormigón de cascote de 12 cm de espesor sobre terreno natural compactado, incluidos nivelación y reglado. Medido por m² de superficie ejecutada. En Argentina se dice «contrapiso», no «solera». La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítem 6.3 «Contrapiso sobre terreno natural de Hº simple e=12cm» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,36 h de oficial y 0,44 h de ayudante por m². Es la misma tarea, con el mismo espesor y el mismo apoyo. El ítem es de hormigón simple de ripio (0,06 m³ de arena mediana lavada, 0,09 m³ de ripio zarandeado 1/3 y 32,2 kg de cemento portland por m²), no de cascote: de la fuente se toman solo las horas, y los materiales de la partida (cascote, cemento y arena gruesa) se conservan, sin fuente declarada. CORRECCIÓN (noviembre 2026): las horas, 0,36 h de oficial y 0,44 h de ayudante, coinciden con el ítem 6.3 de la edición octubre 2026 y no cambian; se actualiza la cita, que decía julio 2025 sin nombrar el ítem, y se aclara que los materiales no salen de la fuente. INCLUYE: 0,36 h de oficial y 0,44 h de ayudante por m²; 0,13 m³ de cascote de ladrillo triturado, 0,9 bolsas de 50 kg de cemento portland compuesto CPC40 y 0,05 m³ de arena gruesa por m², consumos sin fuente declarada. NO INCLUYE: la preparación y la compactación del terreno; el film de polietileno o la capa aisladora bajo el contrapiso; la carpeta ni el solado; equipos y herramientas menores. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 08.09: el costo de esta partida es el del rubro «Hormigón de cascotes e=12cm» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 19.466,88 de ejecución y $ 12.177,23 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,854 y las de materiales por 0,669. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:10:48.087Z",
+      "updatedAt": "2026-11-19T12:37:28.283Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -622,5 +657,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

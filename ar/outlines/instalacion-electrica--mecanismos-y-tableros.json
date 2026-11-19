@@ -2,11 +2,11 @@
   "key": "instalacion-electrica--mecanismos-y-tableros",
   "rows": [
     {
-      "d": "2026-08",
+      "d": "2026-11",
       "g": [],
       "id": "mt-ar-gabinete-para-tablero-seccional-de-12-modulos",
       "m": 0,
-      "p": 16257.02,
+      "p": 15225.11,
       "s": "Gabinete para tablero seccional de 12 módulos",
       "u": "u"
     },
@@ -48,5 +48,5 @@
     }
   ],
   "title": "Instalación eléctrica > Mecanismos y tableros",
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

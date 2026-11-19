@@ -96,7 +96,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1667857.57
+          "value": 1659237.75
         },
         {
           "currency": "ARS",
@@ -109,7 +109,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1798412.3
+          "value": 1789792.48
         },
         {
           "currency": "ARS",
@@ -122,7 +122,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 2485053.98
+          "value": 2476434.15
         },
         {
           "currency": "ARS",
@@ -135,7 +135,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 2826742.35
+          "value": 2818122.53
         }
       ],
       "sources": [
@@ -152,7 +152,7 @@
       ],
       "text": "Pozo absorvente, 4,5 m3, diametro 1,20 m-profundidad 4,00 mts. Análisis de precio unitario. Medida por u. Precio computado desde la descomposición.",
       "unit": "u",
-      "updatedAt": "2026-11-14T22:02:33.457Z",
+      "updatedAt": "2026-11-19T12:06:23.047Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -160,5 +160,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

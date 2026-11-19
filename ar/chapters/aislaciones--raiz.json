@@ -66,7 +66,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 50438.18
+          "value": 50257.02
         },
         {
           "currency": "ARS",
@@ -79,7 +79,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 52337.79
+          "value": 52156.64
         },
         {
           "currency": "ARS",
@@ -92,7 +92,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 63650.3
+          "value": 63469.15
         },
         {
           "currency": "ARS",
@@ -105,7 +105,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 67208.17
+          "value": 67027.02
         }
       ],
       "sources": [
@@ -122,7 +122,7 @@
       ],
       "text": "Capa de asfalto en caliente de 10 kg/m2 sobre superficie semialisada. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:14.897Z",
+      "updatedAt": "2026-11-19T12:06:22.748Z",
       "verification": {
         "findings": [
           "duplicate_candidate-f9a34fddc62db42f"
@@ -191,7 +191,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 96404.62
+          "value": 96223.47
         },
         {
           "currency": "ARS",
@@ -204,7 +204,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 97936.48
+          "value": 97755.33
         },
         {
           "currency": "ARS",
@@ -217,7 +217,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 107084.32
+          "value": 106903.16
         },
         {
           "currency": "ARS",
@@ -230,7 +230,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 109920.88
+          "value": 109739.72
         }
       ],
       "sources": [
@@ -247,7 +247,7 @@
       ],
       "text": "Capa de asfalto en caliente de 26 kg/m2 sobre superficie semialisada. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:14.905Z",
+      "updatedAt": "2026-11-19T12:06:22.750Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -255,5 +255,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

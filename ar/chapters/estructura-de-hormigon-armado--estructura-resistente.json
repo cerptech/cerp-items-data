@@ -10,61 +10,61 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 17.4,
+          "quantity": 17.05599024,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 20.2,
+          "quantity": 19.80063235,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 6.3,
+          "quantity": 6.01973923,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.5733085,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.7,
+          "quantity": 0.66885991,
           "ref": "mt-ar-ripio-1-a-3-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 149,
+          "quantity": 142.37161037,
           "ref": "mt-ar-acero-de-construccion-en-barras",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.5733085,
           "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 2,
+          "quantity": 1.91102833,
           "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 2.86,
+          "quantity": 2.73277051,
           "ref": "mt-ar-tabla-de-madera-de-1-pulgada",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.4,
+          "quantity": 0.38220567,
           "ref": "mt-ar-tirante-de-2x4-pulgadas",
           "role": "material"
         }
@@ -91,7 +91,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1061133.51
+          "value": 1021537.33
         },
         {
           "currency": "ARS",
@@ -104,7 +104,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1116871.86
+          "value": 1076173.69
         },
         {
           "currency": "ARS",
@@ -117,7 +117,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1440544.69
+          "value": 1393447.29
         },
         {
           "currency": "ARS",
@@ -130,7 +130,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1555534.44
+          "value": 1506163.62
         }
       ],
       "sources": [
@@ -139,6 +139,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "03.01",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Columna de hormigón armado",
@@ -148,9 +155,9 @@
         "hºaº",
         "pilar"
       ],
-      "text": "Columna resistente de hormigón armado, de sección rectangular o cuadrada, incluidos preparación del hormigón en obra, armadura elaborada y colocada, encofrado de madera con tablas y tirantes, colado, vibrado, curado y desencofrado. Medida por volumen neto de la pieza terminada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 3.4 «Hormigón armado para columnas resistentes» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 17,4 h de oficial y 20,2 h de ayudante por m³, con 315 kg de cemento portland, 0,6 m³ de arena mediana lavada, 0,7 m³ de ripio zarandeado 1/3, 149 kg de hierro promedio, 0,6 kg de alambre negro n.º 14, 2 kg de clavos de 2 1/2\", 2,86 m² de tabla de pino y 0,4 m de tirante de pino de 3\"x3\". Adaptaciones: la fuente prepara el hormigón en obra con cemento, arena y ripio, y sus horas corresponden a ese hormigón preparado en obra, por eso la partida deja de usar hormigón elaborado H-21 de planta y toma la dosificación de la fuente. Equivalencias declaradas: el cemento se pasa a bolsas de 50 kg (315 kg / 50 = 6,3 bolsas); la arena mediana lavada y el ripio zarandeado 1/3 se cargan con la arena mediana y el ripio 1 a 3 a granel del banco, en la misma cantidad; el hierro promedio se carga como acero de construcción en barras, por kilogramo, sin agregar desperdicio porque la fuente no lo declara; el alambre negro n.º 14 de la fuente se carga con el alambre recocido n.º 16 para atado de armaduras del banco, el mismo insumo en otro calibre, con los mismos kilogramos; los clavos de 2 1/2\" se cargan con los clavos de punta París de 2\" del banco, la medida más cercana que tiene, por kilogramo; la tabla de pino en m² se carga con la tabla de madera de 1 pulgada del banco, también en m²; el tirante de 3\"x3\" (9 pulgadas² de sección), que el banco no tiene, se carga con el tirante de 2\"x4\" (8 pulgadas², un 11 % menos de sección), por metro y con la misma cantidad. La madera se carga como en la fuente, que no declara cuántas veces se reutiliza: si se reutiliza o se usan puntales metálicos, descontarla. Como el ítem de la fuente lleva madera de encofrado, sus horas incluyen previsiblemente el armado y desarme del encofrado: si además se computa una partida de encofrado aparte, esa mano de obra puede quedar contada dos veces. CORRECCIÓN (noviembre 2026): las horas anteriores, 2,86 h de oficial y ninguna de ayudante, no son las del ítem citado: 2,86 coincide con los m² de tabla de pino del mismo ítem, y el «rendimiento de ayudante de 0,40 h/m³» que el texto anterior descartaba por inconsistente coincide con los metros de tirante. El ítem asigna 17,4 h de oficial y 20,2 h de ayudante por m³. Tampoco lo eran los materiales: la partida cargaba 1,03 m³ de hormigón elaborado H-21 de planta y 0,8 kg de alambre, sin hierro ni madera; ahora lleva la dosificación, los 149 kg de hierro, los 0,6 kg de alambre y la madera y los clavos del ítem 3.4. El encofrado pasa de fenólico, que la fuente no lista, a tabla de pino y tirante, como en la fuente. La cita se actualiza de la edición julio 2025 a la de octubre 2026. DIFERENCIA CON LA PARTIDA «Hormigón armado para columnas elaborado en obra»: aquella transcribe la FACET (24 h de oficial, 23 h de ayudante y 100 kg de hierro por m³) y excluye el encofrado, que va por su propia partida; esta, el CAS, con el encofrado incluido. No sumar las dos ni sumar a esta la partida de encofrado. INCLUYE: mano de obra de oficial y ayudante, que previsiblemente incluye el armado y desarme del encofrado; cemento, arena mediana y ripio para el hormigón preparado en obra; acero en barras y alambre de atado; tabla de pino, tirante y clavos del encofrado. NO INCLUYE: placa fenólica, desencofrante, separadores ni equipos (hormigonera, vibrador), que la fuente no lista; hormigón elaborado de planta. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Columna resistente de hormigón armado, de sección rectangular o cuadrada, incluidos preparación del hormigón en obra, armadura elaborada y colocada, encofrado de madera con tablas y tirantes, colado, vibrado, curado y desencofrado. Medida por volumen neto de la pieza terminada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 3.4 «Hormigón armado para columnas resistentes» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 17,4 h de oficial y 20,2 h de ayudante por m³, con 315 kg de cemento portland, 0,6 m³ de arena mediana lavada, 0,7 m³ de ripio zarandeado 1/3, 149 kg de hierro promedio, 0,6 kg de alambre negro n.º 14, 2 kg de clavos de 2 1/2\", 2,86 m² de tabla de pino y 0,4 m de tirante de pino de 3\"x3\". Adaptaciones: la fuente prepara el hormigón en obra con cemento, arena y ripio, y sus horas corresponden a ese hormigón preparado en obra, por eso la partida deja de usar hormigón elaborado H-21 de planta y toma la dosificación de la fuente. Equivalencias declaradas: el cemento se pasa a bolsas de 50 kg (315 kg / 50 = 6,3 bolsas); la arena mediana lavada y el ripio zarandeado 1/3 se cargan con la arena mediana y el ripio 1 a 3 a granel del banco, en la misma cantidad; el hierro promedio se carga como acero de construcción en barras, por kilogramo, sin agregar desperdicio porque la fuente no lo declara; el alambre negro n.º 14 de la fuente se carga con el alambre recocido n.º 16 para atado de armaduras del banco, el mismo insumo en otro calibre, con los mismos kilogramos; los clavos de 2 1/2\" se cargan con los clavos de punta París de 2\" del banco, la medida más cercana que tiene, por kilogramo; la tabla de pino en m² se carga con la tabla de madera de 1 pulgada del banco, también en m²; el tirante de 3\"x3\" (9 pulgadas² de sección), que el banco no tiene, se carga con el tirante de 2\"x4\" (8 pulgadas², un 11 % menos de sección), por metro y con la misma cantidad. La madera se carga como en la fuente, que no declara cuántas veces se reutiliza: si se reutiliza o se usan puntales metálicos, descontarla. Como el ítem de la fuente lleva madera de encofrado, sus horas incluyen previsiblemente el armado y desarme del encofrado: si además se computa una partida de encofrado aparte, esa mano de obra puede quedar contada dos veces. CORRECCIÓN (noviembre 2026): las horas anteriores, 2,86 h de oficial y ninguna de ayudante, no son las del ítem citado: 2,86 coincide con los m² de tabla de pino del mismo ítem, y el «rendimiento de ayudante de 0,40 h/m³» que el texto anterior descartaba por inconsistente coincide con los metros de tirante. El ítem asigna 17,4 h de oficial y 20,2 h de ayudante por m³. Tampoco lo eran los materiales: la partida cargaba 1,03 m³ de hormigón elaborado H-21 de planta y 0,8 kg de alambre, sin hierro ni madera; ahora lleva la dosificación, los 149 kg de hierro, los 0,6 kg de alambre y la madera y los clavos del ítem 3.4. El encofrado pasa de fenólico, que la fuente no lista, a tabla de pino y tirante, como en la fuente. La cita se actualiza de la edición julio 2025 a la de octubre 2026. DIFERENCIA CON LA PARTIDA «Hormigón armado para columnas elaborado en obra»: aquella transcribe la FACET (24 h de oficial, 23 h de ayudante y 100 kg de hierro por m³) y excluye el encofrado, que va por su propia partida; esta, el CAS, con el encofrado incluido. No sumar las dos ni sumar a esta la partida de encofrado. INCLUYE: mano de obra de oficial y ayudante, que previsiblemente incluye el armado y desarme del encofrado; cemento, arena mediana y ripio para el hormigón preparado en obra; acero en barras y alambre de atado; tabla de pino, tirante y clavos del encofrado. NO INCLUYE: placa fenólica, desencofrante, separadores ni equipos (hormigonera, vibrador), que la fuente no lista; hormigón elaborado de planta. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 03.01: el costo de esta partida es el del rubro «Columnas H°A° - H21/90kg» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 484.662,95 de ejecución y $ 536.874,38 de materiales por m3, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,98 y las de materiales por 0,956. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m3",
-      "updatedAt": "2026-11-18T11:16:50.211Z",
+      "updatedAt": "2026-11-19T12:37:28.280Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -161,61 +168,61 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 25.5,
+          "quantity": 21.43934188,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 17.1,
+          "quantity": 14.37697044,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 6.2,
+          "quantity": 5.11524163,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.49502338,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.7,
+          "quantity": 0.57752728,
           "ref": "mt-ar-ripio-1-a-3-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 134,
+          "quantity": 110.55522232,
           "ref": "mt-ar-acero-de-construccion-en-barras",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.4,
+          "quantity": 0.33001559,
           "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 0.82503897,
           "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 3,
+          "quantity": 2.47511692,
           "ref": "mt-ar-tabla-de-madera-de-1-pulgada",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 2.5,
+          "quantity": 2.06259743,
           "ref": "mt-ar-tirante-de-2x4-pulgadas",
           "role": "material"
         }
@@ -242,7 +249,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1103976.48
+          "value": 916269.5
         },
         {
           "currency": "ARS",
@@ -255,7 +262,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1168176.91
+          "value": 970246.56
         },
         {
           "currency": "ARS",
@@ -268,7 +275,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1530246.44
+          "value": 1274659.6
         },
         {
           "currency": "ARS",
@@ -281,7 +288,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1676475.62
+          "value": 1397603.03
         }
       ],
       "sources": [
@@ -290,6 +297,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "03.02",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Encadenado horizontal de hormigón armado",
@@ -298,9 +312,9 @@
         "hormigón armado",
         "hºaº"
       ],
-      "text": "Encadenado horizontal de hormigón armado sobre mampostería, incluidos preparación del hormigón en obra, armadura elaborada y colocada, encofrado de madera, colado y curado. Medido por volumen neto de la pieza terminada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 3.5 «Hormigón armado para encadenados horizontales y verticales» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 25,5 h de oficial y 17,1 h de ayudante por m³, con 310 kg de cemento portland, 0,6 m³ de arena mediana lavada, 0,7 m³ de ripio zarandeado 1/3, 134 kg de hierro promedio, 0,4 kg de alambre negro n.º 14, 1 kg de clavos de 2 1/2\", 3 m² de tabla de pino y 2,5 m de tirante de pino de 3\"x3\". Adaptaciones: la fuente prepara el hormigón en obra con cemento, arena y ripio, y sus horas corresponden a ese hormigón preparado en obra, por eso la partida deja de usar hormigón elaborado H-21 de planta y toma la dosificación de la fuente. El ítem cubre encadenados horizontales y verticales; esta partida es la horizontal. Equivalencias declaradas: el cemento se pasa a bolsas de 50 kg (310 kg / 50 = 6,2 bolsas); la arena mediana lavada y el ripio zarandeado 1/3 se cargan con la arena mediana y el ripio 1 a 3 a granel del banco, en la misma cantidad; el hierro promedio se carga como acero de construcción en barras, por kilogramo, sin agregar desperdicio porque la fuente no lo declara; el alambre negro n.º 14 de la fuente se carga con el alambre recocido n.º 16 para atado de armaduras del banco, el mismo insumo en otro calibre, con los mismos kilogramos; los clavos de 2 1/2\" se cargan con los clavos de punta París de 2\" del banco, la medida más cercana que tiene, por kilogramo; la tabla de pino en m² se carga con la tabla de madera de 1 pulgada del banco, también en m²; el tirante de 3\"x3\" (9 pulgadas² de sección), que el banco no tiene, se carga con el tirante de 2\"x4\" (8 pulgadas², un 11 % menos de sección), por metro y con la misma cantidad. La madera se carga como en la fuente, que no declara cuántas veces se reutiliza: si se reutiliza o se usan puntales metálicos, descontarla. Como el ítem de la fuente lleva madera de encofrado, sus horas incluyen previsiblemente el armado y desarme del encofrado: si además se computa una partida de encofrado aparte, esa mano de obra puede quedar contada dos veces. CORRECCIÓN (noviembre 2026): las horas anteriores, 2,5 h de oficial y 3 h de ayudante por m³, no son las del ítem citado: coinciden con los metros de tirante (2,5 m) y los m² de tabla (3 m²) del mismo ítem. El ítem asigna 25,5 h de oficial y 17,1 h de ayudante por m³. Tampoco lo eran los materiales: la partida cargaba 1,03 m³ de hormigón elaborado H-21 de planta y 0,8 kg de alambre, sin hierro ni madera; ahora lleva la dosificación, los 134 kg de hierro, los 0,4 kg de alambre y la madera y los clavos del ítem 3.5. La cita se actualiza de la edición julio 2025 a la de octubre 2026. DIFERENCIA CON LA PARTIDA «Hormigón armado para encadenados elaborado en obra»: aquella transcribe la FACET (17 h de oficial, 14 h de ayudante y 80 kg de hierro por m³) y excluye el encofrado, que va por su propia partida; esta, el CAS, con el encofrado incluido. No sumar a esta la partida de encofrado. INCLUYE: mano de obra de oficial y ayudante, que previsiblemente incluye el armado y desarme del encofrado; cemento, arena mediana y ripio para el hormigón preparado en obra; acero en barras y alambre de atado; tabla de pino, tirante y clavos del encofrado. NO INCLUYE: desencofrante, separadores ni equipos (hormigonera, vibrador), que la fuente no lista; hormigón elaborado de planta. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Encadenado horizontal de hormigón armado sobre mampostería, incluidos preparación del hormigón en obra, armadura elaborada y colocada, encofrado de madera, colado y curado. Medido por volumen neto de la pieza terminada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 3.5 «Hormigón armado para encadenados horizontales y verticales» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 25,5 h de oficial y 17,1 h de ayudante por m³, con 310 kg de cemento portland, 0,6 m³ de arena mediana lavada, 0,7 m³ de ripio zarandeado 1/3, 134 kg de hierro promedio, 0,4 kg de alambre negro n.º 14, 1 kg de clavos de 2 1/2\", 3 m² de tabla de pino y 2,5 m de tirante de pino de 3\"x3\". Adaptaciones: la fuente prepara el hormigón en obra con cemento, arena y ripio, y sus horas corresponden a ese hormigón preparado en obra, por eso la partida deja de usar hormigón elaborado H-21 de planta y toma la dosificación de la fuente. El ítem cubre encadenados horizontales y verticales; esta partida es la horizontal. Equivalencias declaradas: el cemento se pasa a bolsas de 50 kg (310 kg / 50 = 6,2 bolsas); la arena mediana lavada y el ripio zarandeado 1/3 se cargan con la arena mediana y el ripio 1 a 3 a granel del banco, en la misma cantidad; el hierro promedio se carga como acero de construcción en barras, por kilogramo, sin agregar desperdicio porque la fuente no lo declara; el alambre negro n.º 14 de la fuente se carga con el alambre recocido n.º 16 para atado de armaduras del banco, el mismo insumo en otro calibre, con los mismos kilogramos; los clavos de 2 1/2\" se cargan con los clavos de punta París de 2\" del banco, la medida más cercana que tiene, por kilogramo; la tabla de pino en m² se carga con la tabla de madera de 1 pulgada del banco, también en m²; el tirante de 3\"x3\" (9 pulgadas² de sección), que el banco no tiene, se carga con el tirante de 2\"x4\" (8 pulgadas², un 11 % menos de sección), por metro y con la misma cantidad. La madera se carga como en la fuente, que no declara cuántas veces se reutiliza: si se reutiliza o se usan puntales metálicos, descontarla. Como el ítem de la fuente lleva madera de encofrado, sus horas incluyen previsiblemente el armado y desarme del encofrado: si además se computa una partida de encofrado aparte, esa mano de obra puede quedar contada dos veces. CORRECCIÓN (noviembre 2026): las horas anteriores, 2,5 h de oficial y 3 h de ayudante por m³, no son las del ítem citado: coinciden con los metros de tirante (2,5 m) y los m² de tabla (3 m²) del mismo ítem. El ítem asigna 25,5 h de oficial y 17,1 h de ayudante por m³. Tampoco lo eran los materiales: la partida cargaba 1,03 m³ de hormigón elaborado H-21 de planta y 0,8 kg de alambre, sin hierro ni madera; ahora lleva la dosificación, los 134 kg de hierro, los 0,4 kg de alambre y la madera y los clavos del ítem 3.5. La cita se actualiza de la edición julio 2025 a la de octubre 2026. DIFERENCIA CON LA PARTIDA «Hormigón armado para encadenados elaborado en obra»: aquella transcribe la FACET (17 h de oficial, 14 h de ayudante y 80 kg de hierro por m³) y excluye el encofrado, que va por su propia partida; esta, el CAS, con el encofrado incluido. No sumar a esta la partida de encofrado. INCLUYE: mano de obra de oficial y ayudante, que previsiblemente incluye el armado y desarme del encofrado; cemento, arena mediana y ripio para el hormigón preparado en obra; acero en barras y alambre de atado; tabla de pino, tirante y clavos del encofrado. NO INCLUYE: desencofrante, separadores ni equipos (hormigonera, vibrador), que la fuente no lista; hormigón elaborado de planta. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 03.02: el costo de esta partida es el del rubro «Encadenado H°A° - H21/65kg» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 481.379,62 de ejecución y $ 434.889,89 de materiales por m3, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,841 y las de materiales por 0,825. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m3",
-      "updatedAt": "2026-11-18T11:16:50.307Z",
+      "updatedAt": "2026-11-19T12:37:28.289Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -311,61 +325,61 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 19.3,
+          "quantity": 18.51814327,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 18.2,
+          "quantity": 17.46270505,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 6.2,
+          "quantity": 6.99195533,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.67664084,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.7,
+          "quantity": 0.78941431,
           "ref": "mt-ar-ripio-1-a-3-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 80,
+          "quantity": 90.2187785,
           "ref": "mt-ar-acero-de-construccion-en-barras",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.67664084,
           "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 1.12773473,
           "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 3.43,
+          "quantity": 3.86813013,
           "ref": "mt-ar-tabla-de-madera-de-1-pulgada",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1.7,
+          "quantity": 1.91714904,
           "ref": "mt-ar-tirante-de-2x4-pulgadas",
           "role": "material"
         }
@@ -392,7 +406,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 900661.53
+          "value": 926661.3
         },
         {
           "currency": "ARS",
@@ -405,7 +419,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 956604.84
+          "value": 980338.31
         },
         {
           "currency": "ARS",
@@ -418,7 +432,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1277854.45
+          "value": 1288573.86
         },
         {
           "currency": "ARS",
@@ -431,7 +445,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1397902.84
+          "value": 1403759
         }
       ],
       "sources": [
@@ -440,6 +454,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "03.06",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Losa maciza de hormigón armado",
@@ -449,9 +470,9 @@
         "hormigón armado",
         "hºaº"
       ],
-      "text": "Losa maciza de hormigón armado, con hormigón preparado en obra, armadura cortada, doblada, atada y colocada, y encofrado y apuntalamiento de tablas y tirantes de madera, incluidos colado, vibrado, curado y desencofrado. Medida por volumen neto de la pieza terminada. En Argentina se dice \"losa\": el término español \"forjado\" no se usa. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 3.7 «Hormigón armado para losa maciza» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 19,3 h de oficial y 18,2 h de ayudante por m³, con 310 kg de cemento portland, 0,6 m³ de arena mediana lavada, 0,7 m³ de ripio zarandeado 1/3, 80 kg de hierro promedio, 0,6 kg de alambre negro N.º 14, 1 kg de clavos de punta París de 2 1/2 pulgadas, 3,43 m² de tabla de pino nacional de primera y 1,7 m de tirante de pino de 3x3 pulgadas sin cepillar. Adaptaciones: la fuente prepara el hormigón en obra con cemento, arena y ripio, y sus horas corresponden a ese hormigón preparado en obra, por eso la partida deja de usar hormigón elaborado H-21 de planta y toma la dosificación de la fuente, como las demás partidas de hormigón armado que usan el mismo análisis. Equivalencias: el cemento se carga en bolsas de 50 kg (310 kg / 50 = 6,2 bolsas); la arena mediana lavada y el ripio zarandeado 1/3 se cargan con la arena mediana y el ripio 1 a 3 a granel del banco, en la misma cantidad; el hierro promedio se carga como acero de construcción en barras, por kilogramo, sin agregar desperdicio porque la fuente no lo da; el alambre negro N.º 14 se carga con el alambre recocido N.º 16 para atado de armaduras del banco, que es otro calibre, con los mismos kilogramos; los clavos de punta París de 2 1/2 pulgadas se cargan con los de 2 pulgadas del banco, que es otra medida y se cotiza por kilogramo, con los mismos kilogramos; la tabla de pino en m² se carga con la tabla de madera de 1 pulgada del banco, también en m²; el tirante de 3x3 pulgadas, que el banco no tiene, se carga con el tirante de 2x4 pulgadas, con el mismo largo y una sección un 11 % menor (8 contra 9 pulgadas cuadradas). La fuente da un solo análisis por m³ de losa maciza, sin declarar el espesor de referencia, de modo que sus horas y consumos se aplican sin escalar. La madera se carga como en la fuente, que no declara cuántas veces se reutiliza: si se reutiliza o se usan puntales metálicos, descontarla. Como el ítem de la fuente lleva madera de encofrado, sus horas incluyen previsiblemente el armado y desarme del encofrado: si además se computa una partida de encofrado aparte, esa mano de obra puede quedar contada dos veces. DIFERENCIA CON LA PARTIDA «Hormigón armado para losas macizas elaborado en obra»: aquella transcribe la FACET y excluye el encofrado, que va por su propia partida; esta transcribe el CAS, con el encofrado incluido. No sumar las dos ni sumar a esta una partida de encofrado. CORRECCIÓN (noviembre 2026): la partida citaba este análisis en su edición julio 2025 sin indicar el ítem y cargaba 3,43 h de oficial, 1,70 h de ayudante, 1,03 m³ de hormigón elaborado H-21 puesto en obra y 1 kg de alambre, sin hierro ni madera, aunque su descripción incluía armadura y encofrado. Esas horas no coinciden con las del ítem 3.7 de la edición octubre 2026 (19,3 h de oficial y 18,2 h de ayudante); coinciden, en cambio, con los 3,43 m² de tabla y los 1,70 m de tirante del mismo ítem. Se cargan las horas del ítem; el hormigón preparado en obra con su dosificación en lugar del hormigón elaborado H-21; los 80 kg de hierro; 0,6 kg de alambre en lugar de 1 kg, y la madera y los clavos del encofrado. El encofrado, que la descripción anterior daba de fenólico, pasa a tabla y tirante de pino, como en la fuente. La cita se actualiza a la edición octubre 2026. INCLUYE: 19,3 h de oficial y 18,2 h de ayudante por m³; hormigón preparado en obra con 6,2 bolsas de cemento portland de 50 kg, 0,6 m³ de arena mediana y 0,7 m³ de ripio 1 a 3; 80 kg de acero de construcción en barras y 0,6 kg de alambre de atado; 3,43 m² de tabla de madera de 1 pulgada, 1,7 m de tirante de 2x4 pulgadas y 1 kg de clavos de punta París de 2 pulgadas para el encofrado y apuntalamiento. NO INCLUYE: hormigón elaborado de planta, alquiler de hormigonera y de vibrador, bombeo, aditivos, desencofrante, separadores, ensayos ni corte y doblado del hierro en taller, que la fuente no lista. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Losa maciza de hormigón armado, con hormigón preparado en obra, armadura cortada, doblada, atada y colocada, y encofrado y apuntalamiento de tablas y tirantes de madera, incluidos colado, vibrado, curado y desencofrado. Medida por volumen neto de la pieza terminada. En Argentina se dice \"losa\": el término español \"forjado\" no se usa. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 3.7 «Hormigón armado para losa maciza» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 19,3 h de oficial y 18,2 h de ayudante por m³, con 310 kg de cemento portland, 0,6 m³ de arena mediana lavada, 0,7 m³ de ripio zarandeado 1/3, 80 kg de hierro promedio, 0,6 kg de alambre negro N.º 14, 1 kg de clavos de punta París de 2 1/2 pulgadas, 3,43 m² de tabla de pino nacional de primera y 1,7 m de tirante de pino de 3x3 pulgadas sin cepillar. Adaptaciones: la fuente prepara el hormigón en obra con cemento, arena y ripio, y sus horas corresponden a ese hormigón preparado en obra, por eso la partida deja de usar hormigón elaborado H-21 de planta y toma la dosificación de la fuente, como las demás partidas de hormigón armado que usan el mismo análisis. Equivalencias: el cemento se carga en bolsas de 50 kg (310 kg / 50 = 6,2 bolsas); la arena mediana lavada y el ripio zarandeado 1/3 se cargan con la arena mediana y el ripio 1 a 3 a granel del banco, en la misma cantidad; el hierro promedio se carga como acero de construcción en barras, por kilogramo, sin agregar desperdicio porque la fuente no lo da; el alambre negro N.º 14 se carga con el alambre recocido N.º 16 para atado de armaduras del banco, que es otro calibre, con los mismos kilogramos; los clavos de punta París de 2 1/2 pulgadas se cargan con los de 2 pulgadas del banco, que es otra medida y se cotiza por kilogramo, con los mismos kilogramos; la tabla de pino en m² se carga con la tabla de madera de 1 pulgada del banco, también en m²; el tirante de 3x3 pulgadas, que el banco no tiene, se carga con el tirante de 2x4 pulgadas, con el mismo largo y una sección un 11 % menor (8 contra 9 pulgadas cuadradas). La fuente da un solo análisis por m³ de losa maciza, sin declarar el espesor de referencia, de modo que sus horas y consumos se aplican sin escalar. La madera se carga como en la fuente, que no declara cuántas veces se reutiliza: si se reutiliza o se usan puntales metálicos, descontarla. Como el ítem de la fuente lleva madera de encofrado, sus horas incluyen previsiblemente el armado y desarme del encofrado: si además se computa una partida de encofrado aparte, esa mano de obra puede quedar contada dos veces. DIFERENCIA CON LA PARTIDA «Hormigón armado para losas macizas elaborado en obra»: aquella transcribe la FACET y excluye el encofrado, que va por su propia partida; esta transcribe el CAS, con el encofrado incluido. No sumar las dos ni sumar a esta una partida de encofrado. CORRECCIÓN (noviembre 2026): la partida citaba este análisis en su edición julio 2025 sin indicar el ítem y cargaba 3,43 h de oficial, 1,70 h de ayudante, 1,03 m³ de hormigón elaborado H-21 puesto en obra y 1 kg de alambre, sin hierro ni madera, aunque su descripción incluía armadura y encofrado. Esas horas no coinciden con las del ítem 3.7 de la edición octubre 2026 (19,3 h de oficial y 18,2 h de ayudante); coinciden, en cambio, con los 3,43 m² de tabla y los 1,70 m de tirante del mismo ítem. Se cargan las horas del ítem; el hormigón preparado en obra con su dosificación en lugar del hormigón elaborado H-21; los 80 kg de hierro; 0,6 kg de alambre en lugar de 1 kg, y la madera y los clavos del encofrado. El encofrado, que la descripción anterior daba de fenólico, pasa a tabla y tirante de pino, como en la fuente. La cita se actualiza a la edición octubre 2026. INCLUYE: 19,3 h de oficial y 18,2 h de ayudante por m³; hormigón preparado en obra con 6,2 bolsas de cemento portland de 50 kg, 0,6 m³ de arena mediana y 0,7 m³ de ripio 1 a 3; 80 kg de acero de construcción en barras y 0,6 kg de alambre de atado; 3,43 m² de tabla de madera de 1 pulgada, 1,7 m de tirante de 2x4 pulgadas y 1 kg de clavos de punta París de 2 pulgadas para el encofrado y apuntalamiento. NO INCLUYE: hormigón elaborado de planta, alquiler de hormigonera y de vibrador, bombeo, aditivos, desencofrante, separadores, ensayos ni corte y doblado del hierro en taller, que la fuente no lista. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 03.06: el costo de esta partida es el del rubro «Losa HºAº macizas H21/60kg» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 477.137,52 de ejecución y $ 449.523,77 de materiales por m3, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,959 y las de materiales por 1,128. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m3",
-      "updatedAt": "2026-11-18T11:16:50.535Z",
+      "updatedAt": "2026-11-19T12:37:28.309Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -462,61 +483,61 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 32.3,
+          "quantity": 30.83260661,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 18.4,
+          "quantity": 17.5640855,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 6.2,
+          "quantity": 6.34472703,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.61400584,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.7,
+          "quantity": 0.71634015,
           "ref": "mt-ar-ripio-1-a-3-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 175,
+          "quantity": 179.08503715,
           "ref": "mt-ar-acero-de-construccion-en-barras",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.84,
+          "quantity": 0.85960818,
           "ref": "mt-ar-alambre-recocido-n-16-para-atado-de-armaduras",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1.5,
+          "quantity": 1.5350146,
           "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 4.2,
+          "quantity": 4.29804089,
           "ref": "mt-ar-tabla-de-madera-de-1-pulgada",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.7,
+          "quantity": 0.71634015,
           "ref": "mt-ar-tirante-de-2x4-pulgadas",
           "role": "material"
         }
@@ -543,7 +564,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1328011.6
+          "value": 1306410.47
         },
         {
           "currency": "ARS",
@@ -556,7 +577,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1404773.29
+          "value": 1379684.87
         },
         {
           "currency": "ARS",
@@ -569,7 +590,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1834120.51
+          "value": 1789526.79
         },
         {
           "currency": "ARS",
@@ -582,7 +603,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 2013532.44
+          "value": 1960788.01
         }
       ],
       "sources": [
@@ -591,6 +612,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "03.09",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Viga resistente de hormigón armado",
@@ -599,9 +627,9 @@
         "hormigón armado",
         "hºaº"
       ],
-      "text": "Viga resistente de hormigón armado, con hormigón preparado en obra, armadura cortada, doblada, atada y colocada, y encofrado y apuntalamiento de tablas y tirantes de madera, incluidos colado, vibrado, curado y desencofrado. Medida por volumen neto de la pieza terminada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 3.6 «Hormigón armado para vigas resistentes» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 32,3 h de oficial y 18,4 h de ayudante por m³, con 310 kg de cemento portland, 0,6 m³ de arena mediana lavada, 0,7 m³ de ripio zarandeado 1/3, 175 kg de hierro promedio, 0,84 kg de alambre negro N.º 14, 1,5 kg de clavos de punta París de 2 1/2 pulgadas, 4,2 m² de tabla de pino nacional de primera y 0,7 m de tirante de pino de 3x3 pulgadas sin cepillar. Adaptaciones: la fuente prepara el hormigón en obra con cemento, arena y ripio, y sus horas corresponden a ese hormigón preparado en obra, por eso la partida deja de usar hormigón elaborado H-21 de planta y toma la dosificación de la fuente, como las demás partidas de hormigón armado que usan el mismo análisis. Equivalencias: el cemento se carga en bolsas de 50 kg (310 kg / 50 = 6,2 bolsas); la arena mediana lavada y el ripio zarandeado 1/3 se cargan con la arena mediana y el ripio 1 a 3 a granel del banco, en la misma cantidad; el hierro promedio se carga como acero de construcción en barras, por kilogramo, sin agregar desperdicio porque la fuente no lo da; el alambre negro N.º 14 se carga con el alambre recocido N.º 16 para atado de armaduras del banco, que es otro calibre, con los mismos kilogramos; los clavos de punta París de 2 1/2 pulgadas se cargan con los de 2 pulgadas del banco, que es otra medida y se cotiza por kilogramo, con los mismos kilogramos; la tabla de pino en m² se carga con la tabla de madera de 1 pulgada del banco, también en m²; el tirante de 3x3 pulgadas, que el banco no tiene, se carga con el tirante de 2x4 pulgadas, con el mismo largo y una sección un 11 % menor (8 contra 9 pulgadas cuadradas). La fuente da un solo análisis de vigas resistentes, sin declarar la sección de referencia, de modo que sus horas y consumos se aplican sin escalar. La madera se carga como en la fuente, que no declara cuántas veces se reutiliza: si se reutiliza o se usan puntales metálicos, descontarla. Como el ítem de la fuente lleva madera de encofrado, sus horas incluyen previsiblemente el armado y desarme del encofrado: si además se computa una partida de encofrado aparte, esa mano de obra puede quedar contada dos veces. DIFERENCIA CON LA PARTIDA «Hormigón armado para vigas elaborado en obra»: aquella transcribe la FACET y excluye el encofrado, que va por su propia partida; esta transcribe el CAS, con el encofrado incluido. No sumar las dos ni sumar a esta una partida de encofrado. CORRECCIÓN (noviembre 2026): la partida citaba este análisis en su edición julio 2025 y cargaba 4,20 h de oficial, ninguna hora de ayudante, 1,03 m³ de hormigón elaborado H-21 puesto en obra y 0,8 kg de alambre, sin hierro ni madera, aunque su descripción incluía armadura y encofrado; el texto anterior descartaba por inconsistente un rendimiento de ayudante de 0,70 h/m³. En la edición octubre 2026 el ítem 3.6 asigna 32,3 h de oficial y 18,4 h de ayudante; 4,20 coincide con los m² de tabla y 0,70 con los metros de tirante del mismo ítem. Se cargan las dos horas del ítem; el hormigón preparado en obra con su dosificación en lugar del hormigón elaborado H-21; los 175 kg de hierro; 0,84 kg de alambre en lugar de 0,8 kg, y la madera y los clavos del encofrado. El encofrado, que la descripción anterior daba de fenólico, pasa a tabla y tirante de pino, como en la fuente. La cita se actualiza a la edición octubre 2026. INCLUYE: 32,3 h de oficial y 18,4 h de ayudante por m³; hormigón preparado en obra con 6,2 bolsas de cemento portland de 50 kg, 0,6 m³ de arena mediana y 0,7 m³ de ripio 1 a 3; 175 kg de acero de construcción en barras y 0,84 kg de alambre de atado; 4,2 m² de tabla de madera de 1 pulgada, 0,7 m de tirante de 2x4 pulgadas y 1,5 kg de clavos de punta París de 2 pulgadas para el encofrado y apuntalamiento. NO INCLUYE: hormigón elaborado de planta, alquiler de hormigonera y de vibrador, bombeo, aditivos, desencofrante, separadores, ensayos ni corte y doblado del hierro en taller, que la fuente no lista. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Viga resistente de hormigón armado, con hormigón preparado en obra, armadura cortada, doblada, atada y colocada, y encofrado y apuntalamiento de tablas y tirantes de madera, incluidos colado, vibrado, curado y desencofrado. Medida por volumen neto de la pieza terminada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 3.6 «Hormigón armado para vigas resistentes» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 32,3 h de oficial y 18,4 h de ayudante por m³, con 310 kg de cemento portland, 0,6 m³ de arena mediana lavada, 0,7 m³ de ripio zarandeado 1/3, 175 kg de hierro promedio, 0,84 kg de alambre negro N.º 14, 1,5 kg de clavos de punta París de 2 1/2 pulgadas, 4,2 m² de tabla de pino nacional de primera y 0,7 m de tirante de pino de 3x3 pulgadas sin cepillar. Adaptaciones: la fuente prepara el hormigón en obra con cemento, arena y ripio, y sus horas corresponden a ese hormigón preparado en obra, por eso la partida deja de usar hormigón elaborado H-21 de planta y toma la dosificación de la fuente, como las demás partidas de hormigón armado que usan el mismo análisis. Equivalencias: el cemento se carga en bolsas de 50 kg (310 kg / 50 = 6,2 bolsas); la arena mediana lavada y el ripio zarandeado 1/3 se cargan con la arena mediana y el ripio 1 a 3 a granel del banco, en la misma cantidad; el hierro promedio se carga como acero de construcción en barras, por kilogramo, sin agregar desperdicio porque la fuente no lo da; el alambre negro N.º 14 se carga con el alambre recocido N.º 16 para atado de armaduras del banco, que es otro calibre, con los mismos kilogramos; los clavos de punta París de 2 1/2 pulgadas se cargan con los de 2 pulgadas del banco, que es otra medida y se cotiza por kilogramo, con los mismos kilogramos; la tabla de pino en m² se carga con la tabla de madera de 1 pulgada del banco, también en m²; el tirante de 3x3 pulgadas, que el banco no tiene, se carga con el tirante de 2x4 pulgadas, con el mismo largo y una sección un 11 % menor (8 contra 9 pulgadas cuadradas). La fuente da un solo análisis de vigas resistentes, sin declarar la sección de referencia, de modo que sus horas y consumos se aplican sin escalar. La madera se carga como en la fuente, que no declara cuántas veces se reutiliza: si se reutiliza o se usan puntales metálicos, descontarla. Como el ítem de la fuente lleva madera de encofrado, sus horas incluyen previsiblemente el armado y desarme del encofrado: si además se computa una partida de encofrado aparte, esa mano de obra puede quedar contada dos veces. DIFERENCIA CON LA PARTIDA «Hormigón armado para vigas elaborado en obra»: aquella transcribe la FACET y excluye el encofrado, que va por su propia partida; esta transcribe el CAS, con el encofrado incluido. No sumar las dos ni sumar a esta una partida de encofrado. CORRECCIÓN (noviembre 2026): la partida citaba este análisis en su edición julio 2025 y cargaba 4,20 h de oficial, ninguna hora de ayudante, 1,03 m³ de hormigón elaborado H-21 puesto en obra y 0,8 kg de alambre, sin hierro ni madera, aunque su descripción incluía armadura y encofrado; el texto anterior descartaba por inconsistente un rendimiento de ayudante de 0,70 h/m³. En la edición octubre 2026 el ítem 3.6 asigna 32,3 h de oficial y 18,4 h de ayudante; 4,20 coincide con los m² de tabla y 0,70 con los metros de tirante del mismo ítem. Se cargan las dos horas del ítem; el hormigón preparado en obra con su dosificación en lugar del hormigón elaborado H-21; los 175 kg de hierro; 0,84 kg de alambre en lugar de 0,8 kg, y la madera y los clavos del encofrado. El encofrado, que la descripción anterior daba de fenólico, pasa a tabla y tirante de pino, como en la fuente. La cita se actualiza a la edición octubre 2026. INCLUYE: 32,3 h de oficial y 18,4 h de ayudante por m³; hormigón preparado en obra con 6,2 bolsas de cemento portland de 50 kg, 0,6 m³ de arena mediana y 0,7 m³ de ripio 1 a 3; 175 kg de acero de construcción en barras y 0,84 kg de alambre de atado; 4,2 m² de tabla de madera de 1 pulgada, 0,7 m de tirante de 2x4 pulgadas y 1,5 kg de clavos de punta París de 2 pulgadas para el encofrado y apuntalamiento. NO INCLUYE: hormigón elaborado de planta, alquiler de hormigonera y de vibrador, bombeo, aditivos, desencofrante, separadores, ensayos ni corte y doblado del hierro en taller, que la fuente no lista. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 03.09: el costo de esta partida es el del rubro «Vigas H°A° - H21/120kg» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 654.443,83 de ejecución y $ 651.966,63 de materiales por m3, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,955 y las de materiales por 1,023. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m3",
-      "updatedAt": "2026-11-18T11:16:50.817Z",
+      "updatedAt": "2026-11-19T12:37:28.326Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -609,5 +637,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

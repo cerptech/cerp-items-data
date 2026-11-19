@@ -10,37 +10,37 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.60601705,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.5,
+          "quantity": 0.50501421,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.088,
+          "quantity": 0.11020853,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.096,
+          "quantity": 0.12022748,
           "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.022,
+          "quantity": 0.02755213,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.013,
+          "quantity": 0.01628081,
           "ref": "mt-ar-hidrofugo-inorganico-en-bidon-de-10-l",
           "role": "material"
         }
@@ -67,7 +67,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 17585.43
+          "value": 18410.77
         },
         {
           "currency": "ARS",
@@ -80,7 +80,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 19232.58
+          "value": 20074.44
         },
         {
           "currency": "ARS",
@@ -93,7 +93,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28628.72
+          "value": 29564.81
         },
         {
           "currency": "ARS",
@@ -106,7 +106,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 32243.48
+          "value": 33215.82
         }
       ],
       "sources": [
@@ -115,6 +115,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "07.10",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Revoque grueso bajo revestimiento",
@@ -123,9 +130,9 @@
         "bajo revestimiento",
         "grueso"
       ],
-      "text": "Revoque grueso impermeable bajo revestimiento cerámico, de mortero de cemento, cal hidratada y arena con hidrófugo, reglado y sin fratasar, para recibir el adhesivo. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 5.3 «Revoque bajo revestimiento» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,60 h de oficial y 0,50 h de ayudante por m², con 4,4 kg de cemento portland, 2,4 kg de cal hidratada, 0,022 m³ de arena mediana lavada y 0,13 l de hidrófugo. Conversiones a las presentaciones del banco: cemento 4,4 kg / 50 = 0,088 bolsa; cal hidratada 2,4 kg / 25 = 0,096 bolsa; hidrófugo 0,13 l / 10 l = 0,013 bidón. La fuente no declara el dosaje de su mezcla; se toman sus consumos. CORRECCIÓN (noviembre 2026): la cita pasa de la edición julio 2025 a la de octubre 2026, y los consumos se igualan al ítem citado. Las horas ya coincidían (0,60 h de oficial y 0,50 h de ayudante). Los materiales no eran los del ítem: la partida tenía 0,2 bolsa de cemento (10 kg por m², contra 4,4 kg del ítem), no llevaba la cal hidratada del ítem (2,4 kg), tenía 0,02 m³ de arena gruesa (el ítem lleva 0,022 m³ de arena mediana) y 0,01 bidón de hidrófugo (0,10 l, contra 0,13 l). Quedan 0,088 bolsa de cemento, 0,096 bolsa de cal hidratada, 0,022 m³ de arena mediana y 0,013 bidón de hidrófugo. INCLUYE: la mano de obra de preparación, aplicación y reglado del grueso; cemento, cal hidratada, arena mediana e hidrófugo. NO INCLUYE: el revestimiento, su adhesivo ni su colocación, agua de amasado, equipos y herramientas menores, ni andamios. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Revoque grueso impermeable bajo revestimiento cerámico, de mortero de cemento, cal hidratada y arena con hidrófugo, reglado y sin fratasar, para recibir el adhesivo. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem 5.3 «Revoque bajo revestimiento» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,60 h de oficial y 0,50 h de ayudante por m², con 4,4 kg de cemento portland, 2,4 kg de cal hidratada, 0,022 m³ de arena mediana lavada y 0,13 l de hidrófugo. Conversiones a las presentaciones del banco: cemento 4,4 kg / 50 = 0,088 bolsa; cal hidratada 2,4 kg / 25 = 0,096 bolsa; hidrófugo 0,13 l / 10 l = 0,013 bidón. La fuente no declara el dosaje de su mezcla; se toman sus consumos. CORRECCIÓN (noviembre 2026): la cita pasa de la edición julio 2025 a la de octubre 2026, y los consumos se igualan al ítem citado. Las horas ya coincidían (0,60 h de oficial y 0,50 h de ayudante). Los materiales no eran los del ítem: la partida tenía 0,2 bolsa de cemento (10 kg por m², contra 4,4 kg del ítem), no llevaba la cal hidratada del ítem (2,4 kg), tenía 0,02 m³ de arena gruesa (el ítem lleva 0,022 m³ de arena mediana) y 0,01 bidón de hidrófugo (0,10 l, contra 0,13 l). Quedan 0,088 bolsa de cemento, 0,096 bolsa de cal hidratada, 0,022 m³ de arena mediana y 0,013 bidón de hidrófugo. INCLUYE: la mano de obra de preparación, aplicación y reglado del grueso; cemento, cal hidratada, arena mediana e hidrófugo. NO INCLUYE: el revestimiento, su adhesivo ni su colocación, agua de amasado, equipos y herramientas menores, ni andamios. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 07.10: el costo de esta partida es el del rubro «Interior azotado y grueso b/revestimientos» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 14.806,35 de ejecución y $ 3.604,42 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,01 y las de materiales por 1,252. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.730Z",
+      "updatedAt": "2026-11-19T12:37:28.322Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -136,31 +143,31 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.8,
+          "quantity": 0.92780057,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.45,
+          "quantity": 0.52188782,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.7,
+          "quantity": 0.36770953,
           "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.12,
+          "quantity": 0.06303592,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.025,
+          "quantity": 0.01313248,
           "ref": "mt-ar-arena-fina-a-granel",
           "role": "material"
         }
@@ -187,7 +194,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23456.82
+          "value": 22884.54
         },
         {
           "currency": "ARS",
@@ -200,7 +207,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25350.03
+          "value": 25080.19
         },
         {
           "currency": "ARS",
@@ -213,7 +220,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 35932.58
+          "value": 37353.32
         },
         {
           "currency": "ARS",
@@ -226,7 +233,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 40366.01
+          "value": 42494.99
         }
       ],
       "sources": [
@@ -235,6 +242,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "07.09",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Revoque interior completo a la cal, grueso y fino",
@@ -245,9 +259,9 @@
         "cal",
         "interior"
       ],
-      "text": "Revoque interior completo sobre paramento de mampostería, compuesto por revoque grueso (jaharro) de mortero de cal reforzado y revoque fino (enlucido) a la cal, con espesor total mínimo de 1,5 cm, de los cuales de 3 a 5 mm corresponden al enlucido. Medido por metro cuadrado de superficie ejecutada. En el oficio el revoque grueso se llama \"jaharro\" y el fino \"enlucido\". La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste.",
+      "text": "Revoque interior completo sobre paramento de mampostería, compuesto por revoque grueso (jaharro) de mortero de cal reforzado y revoque fino (enlucido) a la cal, con espesor total mínimo de 1,5 cm, de los cuales de 3 a 5 mm corresponden al enlucido. Medido por metro cuadrado de superficie ejecutada. En el oficio el revoque grueso se llama \"jaharro\" y el fino \"enlucido\". La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, julio 2025, publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 07.09: el costo de esta partida es el del rubro «Interior a la cal común completo» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 19.612,44 de ejecución y $ 3.272,10 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,16 y las de materiales por 0,525. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-14T22:02:33.471Z",
+      "updatedAt": "2026-11-19T12:37:28.323Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -255,5 +269,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

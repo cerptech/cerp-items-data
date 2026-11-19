@@ -10,43 +10,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.3,
+          "quantity": 0.69051519,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.5,
+          "quantity": 1.15085864,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 3,
+          "quantity": 4.77393948,
           "ref": "mt-ar-amortizacion-de-poste-de-madera-3x3-pulgadas-para-cerco-de-o",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 2,
+          "quantity": 3.18262632,
           "ref": "mt-ar-amortizacion-de-tablero-de-1-22-x-2-44-m-para-cerco-de-obra",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.1,
+          "quantity": 0.15913132,
           "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.1,
+          "quantity": 0.15913132,
           "ref": "mt-ar-esmalte-sintetico-brillante-en-lata-de-4-litros",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.1,
+          "quantity": 0.23017173,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -72,7 +72,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 30473.14
+          "value": 55937.28
         },
         {
           "currency": "ARS",
@@ -85,7 +85,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 31646.32
+          "value": 58637.61
         },
         {
           "currency": "ARS",
@@ -98,7 +98,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 38589.34
+          "value": 74618.48
         },
         {
           "currency": "ARS",
@@ -111,7 +111,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 40842.4
+          "value": 79804.4
         }
       ],
       "sources": [
@@ -120,15 +120,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "01.02",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Cerco de obra-madera, altura 1,80 m-postes cada 2,40 m",
       "tags": [
         "obrador y cercos"
       ],
-      "text": "Cerco de obra-madera, altura 1,80 m-postes cada 2,40 m. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
+      "text": "Cerco de obra-madera, altura 1,80 m-postes cada 2,40 m. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 01.02: el costo de esta partida es el del rubro «Cerco de Obra» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 24.121,79 de ejecución y $ 31.815,49 de materiales por m, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 2,302 y las de materiales por 1,591. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m",
-      "updatedAt": "2026-11-06T14:19:14.961Z",
+      "updatedAt": "2026-11-19T12:37:28.273Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -139,43 +146,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.35,
+          "quantity": 0.90096295,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.35,
+          "quantity": 0.90096295,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 3,
+          "quantity": 12.20177977,
           "ref": "mt-ar-amortizacion-de-poste-de-madera-3x3-pulgadas-para-cerco-de-o",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 2,
+          "quantity": 8.13451985,
           "ref": "mt-ar-amortizacion-de-malla-de-acero-soldada-15x15-cm-para-cerco-d",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.1,
+          "quantity": 0.40672599,
           "ref": "mt-ar-clavos-de-punta-paris-de-2-pulgadas",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.0375,
+          "quantity": 0.15252225,
           "ref": "mt-ar-antioxido-al-cromato-en-lata-de-4-l",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.1,
+          "quantity": 0.25741799,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -201,7 +208,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 17193.01
+          "value": 55937.29
         },
         {
           "currency": "ARS",
@@ -214,7 +221,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 18235.42
+          "value": 58620.64
         },
         {
           "currency": "ARS",
@@ -227,7 +234,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24240.33
+          "value": 74078.34
         },
         {
           "currency": "ARS",
@@ -240,7 +247,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 26452.93
+          "value": 79773.98
         }
       ],
       "sources": [
@@ -249,15 +256,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "01.02",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Cerco de obra-metalico, altura 2,00 m-postes cada 2,50 m",
       "tags": [
         "obrador y cercos"
       ],
-      "text": "Cerco de obra-metalico, altura 2,00 m-postes cada 2,50 m. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
+      "text": "Cerco de obra-metalico, altura 2,00 m-postes cada 2,50 m. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 01.02: el costo de esta partida es el del rubro «Cerco de Obra» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 24.121,79 de ejecución y $ 31.815,49 de materiales por m, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 2,574 y las de materiales por 4,067. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m",
-      "updatedAt": "2026-11-06T14:19:14.964Z",
+      "updatedAt": "2026-11-19T12:37:28.273Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -360,7 +374,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 66886.29
+          "value": 66820.83
         },
         {
           "currency": "ARS",
@@ -373,7 +387,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 70144.3
+          "value": 70078.83
         },
         {
           "currency": "ARS",
@@ -386,7 +400,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 89097.12
+          "value": 89031.65
         },
         {
           "currency": "ARS",
@@ -399,7 +413,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 95775.39
+          "value": 95709.93
         }
       ],
       "sources": [
@@ -416,7 +430,7 @@
       ],
       "text": "Cerco olimpico, altura 2,40m-con alambre romboidal. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-11-06T14:19:14.966Z",
+      "updatedAt": "2026-11-19T12:06:22.765Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -543,7 +557,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 49005.22
+          "value": 48794.03
         },
         {
           "currency": "ARS",
@@ -556,7 +570,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 50944.97
+          "value": 50733.78
         },
         {
           "currency": "ARS",
@@ -569,7 +583,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 62534.9
+          "value": 62323.71
         },
         {
           "currency": "ARS",
@@ -582,7 +596,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 66118.69
+          "value": 65907.5
         }
       ],
       "sources": [
@@ -599,7 +613,7 @@
       ],
       "text": "Cerco olimpico con postes de hormigón premoldeados, altura 2,40m-con postes con codo. sin viga encad. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-11-06T14:19:14.974Z",
+      "updatedAt": "2026-11-19T12:06:22.766Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -607,5 +621,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

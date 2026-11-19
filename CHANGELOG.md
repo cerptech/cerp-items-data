@@ -16,6 +16,68 @@ Formato: [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/).
 
 ## [Unreleased]
 
+## [0.12.0] - 2026-11-19
+
+Argentina deja de tener copias de Revista CIFRAS. Las partidas y los
+materiales del banco toman el precio de la revista donde son el mismo
+trabajo o el mismo producto, y las copias se borran.
+
+### Qué cambia
+
+- **Se borran las copias.** Salen las 236 partidas «Cifras NN.NN · …» de la
+  0.10.0, los 470 materiales «Cifras · …» de la 0.11.0 y las dos hojas en
+  pesos que usaban esas partidas. Ya no hay dos ítems para el mismo
+  trabajo con dos precios distintos.
+- **123 partidas propias cuestan lo que dice Cifras.** Son las que hacen el
+  mismo trabajo que un rubro de la tabla «Costos unitarios por rubros» del
+  n.º 368, en la misma unidad o con una conversión directa (por ejemplo,
+  una puerta de 0,80 x 2,00 m vale 1,6 m² del rubro). Se multiplicaron las
+  cantidades de su descomposición para que en zona A cuesten exactamente
+  la ejecución y los materiales de la revista. En las otras zonas se
+  aplican los mismos multiplicadores, y el costo que resulta depende de la
+  mano de obra de cada zona. El texto de cada partida dice el rubro, los dos
+  importes y por cuánto se multiplicó.
+- **58 materiales propios tienen el precio de la lista de materiales** de la
+  revista (n.º 368, relevado al 30-09-2026, sin IVA): cemento, ladrillos,
+  hierros, hormigón elaborado, placas y perfiles de construcción en seco,
+  cables y otros. Si la revista trae el producto en varios comercios, se
+  tomó la mediana. El precio anterior queda en el historial del ítem.
+- Tres materiales equivalentes se quedan con su precio propio, porque se
+  relevó en noviembre y es más nuevo que el de la revista: cal hidratada
+  en bolsa de 25 kg, cable unipolar de 2,5 mm² y vigueta pretensada por
+  metro.
+- Por el cambio de esos materiales, otras 127 partidas cambian de precio
+  (mediana −0,6 %). 72 partidas no cambian.
+- Con el precio de Cifras, las 123 partidas suben en mediana 17,6 %.
+  Las que más suben son las estructuras de hierro (unas 5 veces), las
+  demoliciones, los cercos de obra, las bocas eléctricas y las cañerías de
+  agua y de gas, que tenían la descomposición incompleta o muy por debajo.
+- Para costar lo de la revista se multiplicaron las cantidades: la
+  descomposición de esas partidas ya no es un consumo real de obra (por
+  ejemplo, el muro de ladrillo hueco de 12 lleva 26,7 ladrillos por m²).
+  Sirve para el costo, no para pedir materiales.
+
+### Qué hay que saber
+
+- Las cantidades que menciona el texto de esas 123 partidas son las de su
+  fuente original. Las de la descomposición son las ajustadas.
+- La revista sigue citada como fuente de cada partida y material que toma
+  su precio. Su nombre ya no aparece en el nombre de ningún ítem.
+- No pasaron a precio de Cifras: los rubros de la revista sin una partida
+  propia equivalente (151 de 236), los renglones de la lista sin un
+  material propio equivalente (383 de 470), los materiales que la revista
+  vende en un envase más chico que el del banco (el precio por litro o por
+  kilo no es el mismo) y las partidas de hormigón armado que no incluyen el
+  encofrado (Cifras sí lo incluye y se pagaría dos veces).
+- Dos partidas equivalentes no se pudieron ajustar porque hoy tienen un
+  material sin precio: «Demolición de contrapiso y piso» y «Piso de
+  cerámico esmaltado 30x30 cm».
+
+### Sin cambios
+
+- Los ids de las partidas y materiales propios y todo el catálogo de
+  España.
+
 ## [0.11.0] - 2026-11-18
 
 Argentina suma la lista de precios de materiales de Revista CIFRAS, cargada

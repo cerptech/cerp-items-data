@@ -66,7 +66,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 11530.41
+          "value": 11516.11
         },
         {
           "currency": "ARS",
@@ -79,7 +79,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 12284.06
+          "value": 12269.77
         },
         {
           "currency": "ARS",
@@ -92,7 +92,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16533.14
+          "value": 16518.84
         },
         {
           "currency": "ARS",
@@ -105,7 +105,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 18251.38
+          "value": 18237.09
         }
       ],
       "sources": [
@@ -122,7 +122,7 @@
       ],
       "text": "Zócalo de adoquín 10x10, mezcla: 1 : 3. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-11-06T14:19:15.915Z",
+      "updatedAt": "2026-11-19T12:06:23.133Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -195,7 +195,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 9895.18
+          "value": 9847.64
         },
         {
           "currency": "ARS",
@@ -208,7 +208,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 10685.88
+          "value": 10638.34
         },
         {
           "currency": "ARS",
@@ -221,7 +221,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 15074.41
+          "value": 15026.88
         },
         {
           "currency": "ARS",
@@ -234,7 +234,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16966.13
+          "value": 16918.59
         }
       ],
       "sources": [
@@ -251,7 +251,7 @@
       ],
       "text": "Zócalo de lajas irregulares, altura 10 cm. Análisis de precio unitario. Medida por m. Precio computado desde la descomposición.",
       "unit": "m",
-      "updatedAt": "2026-11-14T22:02:33.478Z",
+      "updatedAt": "2026-11-19T12:06:23.134Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -318,7 +318,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 15651.33
+          "value": 15637.04
         },
         {
           "currency": "ARS",
@@ -331,7 +331,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16948.88
+          "value": 16934.58
         },
         {
           "currency": "ARS",
@@ -344,7 +344,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 24100.06
+          "value": 24085.77
         },
         {
           "currency": "ARS",
@@ -357,7 +357,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 27269.14
+          "value": 27254.85
         }
       ],
       "sources": [
@@ -374,7 +374,7 @@
       ],
       "text": "Zócalo de piedra natural en placas de 12 mm de espesor y 10 cm de altura, de largo variable, asentado con mortero de cemento y arena. Medida por m. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítem \"Granítico (h = 0,10 m)\" del rubro Zócalos de \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), que asigna 0,60 h de oficial y 0,25 h de ayudante por metro lineal para colocar un zócalo en placa de 10 cm de alto con mortero. Adaptación: la fuente describe la misma tarea con placa granítica; esta partida usa piedra natural, así que de la fuente se toman solo las horas. Los materiales (3 kg de piedra natural, 0,0262 bolsa de cemento, 0,003 m³ de arena mediana y 0,001 h de herramientas menores) son los de la versión anterior y no tienen fuente declarada; la fuente lleva para su placa 0,3 kg de cemento, 0,8 kg de cal y 0,005 m³ de arena gruesa, que no se cargan. CORRECCIÓN (noviembre 2026): estas horas reemplazan a las anteriores (0,30 h de oficial y 0,20 h de ayudante), que no tenían una fuente que se pudiera cotejar. INCLUYE: piedra natural para zócalo, mortero de cemento y arena mediana, mano de obra de oficial y ayudante y uso de herramientas menores. NO INCLUYE: pulido o sellado de la piedra en obra, preparación del paramento, ni el piso. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m",
-      "updatedAt": "2026-11-18T11:16:50.858Z",
+      "updatedAt": "2026-11-19T12:06:23.137Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -382,5 +382,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

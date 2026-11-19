@@ -6,7 +6,7 @@
       "g": [],
       "id": "wi-ar-alisado-de-cemento-en-interiores-de-tanques-de-agua-espesor",
       "m": 5,
-      "p": 48857.69,
+      "p": 48736.03,
       "s": "Alisado de cemento-en interiores de tanques de agua, espesor gr: 1,5 cm-espesor f: 3 mm-alisado con llana",
       "u": "m2"
     },
@@ -15,7 +15,7 @@
       "g": [],
       "id": "wi-ar-alisado-de-cemento-en-paredes-espesor-gr-2-cm-espesor-f-3-mm",
       "m": 5,
-      "p": 33301.89,
+      "p": 51073.93,
       "s": "Alisado de cemento-en paredes, espesor gr: 2 cm-espesor f: 3 mm-alisado con llana",
       "u": "m2"
     },
@@ -24,7 +24,7 @@
       "g": [],
       "id": "wi-ar-revoque-exterior-completo-a-la-cal-incluye-planchado-de-azot",
       "m": 7,
-      "p": 35634.04,
+      "p": 33818,
       "s": "Revoque exterior completo a la cal, incluye planchado de azotado hidrófugo",
       "u": "m2"
     },
@@ -33,7 +33,7 @@
       "g": [],
       "id": "wi-ar-revoque-fino-a-la-cal-espesor-4-mm",
       "m": 6,
-      "p": 10488.84,
+      "p": 14458.05,
       "s": "Revoque fino a la cal, espesor 4 mm",
       "u": "m2"
     },
@@ -42,7 +42,7 @@
       "g": [],
       "id": "wi-ar-revoque-fino-a-la-cal-predosificado-espesor-3-mm-grueso-sin",
       "m": 4,
-      "p": 15312.53,
+      "p": 18924.04,
       "s": "Revoque fino a la cal-predosificado, espesor 3 mm-grueso sin peinar",
       "u": "m2"
     },
@@ -51,7 +51,7 @@
       "g": [],
       "id": "wi-ar-revoque-fino-exterior-a-la-cal-espesor-3-mm",
       "m": 6,
-      "p": 8704.96,
+      "p": 14458.05,
       "s": "Revoque fino exterior a la cal, espesor 3 mm",
       "u": "m2"
     },
@@ -60,7 +60,7 @@
       "g": [],
       "id": "wi-ar-revoque-fino-interior-a-la-cal-espesor-3-mm",
       "m": 6,
-      "p": 8651.21,
+      "p": 14458.05,
       "s": "Revoque fino interior a la cal, espesor 3 mm",
       "u": "m2"
     },
@@ -69,7 +69,7 @@
       "g": [],
       "id": "wi-ar-revoque-fino-para-frentes-predosificado-base-cement-salpicad",
       "m": 5,
-      "p": 17130.24,
+      "p": 16934.44,
       "s": "Revoque fino para frentes-predosificado-base cement, salpicado con molinete de mano",
       "u": "m2"
     },
@@ -78,7 +78,7 @@
       "g": [],
       "id": "wi-ar-revoque-grueso-de-perlita-de-2-cm-5-1-kg-de-cemento-por-m2",
       "m": 8,
-      "p": 22810.3,
+      "p": 22754.65,
       "s": "Revoque grueso de perlita de 2 cm, 5,1 kg de cemento por m2",
       "u": "m2"
     },
@@ -87,7 +87,7 @@
       "g": [],
       "id": "wi-ar-revoque-grueso-de-perlita-de-2-cm-5-9-kg-de-cemento-por-m2",
       "m": 8,
-      "p": 23447.88,
+      "p": 23383.28,
       "s": "Revoque grueso de perlita de 2 cm, 5,9 kg de cemento por m2",
       "u": "m2"
     },
@@ -96,7 +96,7 @@
       "g": [],
       "id": "wi-ar-revoque-grueso-de-vermiculita-como-aislante-termico-espesor",
       "m": 7,
-      "p": 39749.98,
+      "p": 39706.34,
       "s": "Revoque grueso de vermiculita, como aislante térmico-espesor 2 cm",
       "u": "m2"
     },
@@ -105,7 +105,7 @@
       "g": [],
       "id": "wi-ar-revoque-grueso-exterior-reforzado-espesor-2-2-cm",
       "m": 6,
-      "p": 13279.41,
+      "p": 13569.49,
       "s": "Revoque grueso exterior reforzado, espesor 2,2 cm",
       "u": "m2"
     },
@@ -114,7 +114,7 @@
       "g": [],
       "id": "wi-ar-revoque-grueso-interior-bajo-revestimiento-para-revestimient",
       "m": 7,
-      "p": 17607.43,
+      "p": 18410.77,
       "s": "Revoque grueso interior-bajo revestimiento, para revestimiento colocado a la cal",
       "u": "m2"
     },
@@ -123,11 +123,11 @@
       "g": [],
       "id": "wi-ar-revoque-interior-completo-mezcla-az-gr-1-4-1-3-1-fn-1-8-1-3",
       "m": 6,
-      "p": 19480.99,
+      "p": 22884.54,
       "s": "Revoque interior completo, mezcla: az.:gr.: 1/4 : 1 : 3 : 1, fn.: 1/8 : 1 : 3",
       "u": "m2"
     }
   ],
   "title": "Revoques",
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

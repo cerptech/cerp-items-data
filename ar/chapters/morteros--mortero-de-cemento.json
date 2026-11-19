@@ -49,7 +49,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 130259.3
+          "value": 127444.21
         },
         {
           "currency": "ARS",
@@ -62,7 +62,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 131699.67
+          "value": 128884.58
         },
         {
           "currency": "ARS",
@@ -75,7 +75,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 140948.87
+          "value": 138133.78
         },
         {
           "currency": "ARS",
@@ -88,7 +88,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 142785.09
+          "value": 139970
         }
       ],
       "sources": [
@@ -113,7 +113,7 @@
       ],
       "text": "Mortero de cemento portland y arena, dosaje 1:6 en volumen, preparado en obra para asiento de mampostería. Medida por m³ de mortero elaborado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: adaptado de la partida «MORTERO DE CEMENTO M5 (1:6) CEM II/A-L 32,5 N» (código AGM00500) de la Base de Costes de la Construcción de Andalucía (BCCA, edición 2024-01, datos abiertos de la Junta de Andalucía); es práctica española, a contrastar. Asigna 1,03 h de peón por m³, con 0,258 t de cemento, 1,102 m³ de arena gruesa y 0,263 m³ de agua. Ni el Análisis de Precios del Colegio de Arquitectos de Salta ni los Coeficientes de Consumo de la FACET (Universidad Nacional de Tucumán) traen un análisis de mortero por m³. El cemento CEM II/A-L de la fuente se valoriza con el cemento portland compuesto CPC40 del banco, en bolsas de 50 kg: 258 kg / 50 = 5,16 bolsas. El peón de la fuente se carga como ayudante. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (5,16 bolsas de cemento, 1,102 m³ de arena fina y 1,03 h de ayudante por m³; la arena pasa a ser gruesa, como en la fuente), que ya estaban adaptados de esta misma partida de la Base de Costes de la Construcción de Andalucía. INCLUYE: el cemento, la arena gruesa y la mano de obra de mezclado en obra. NO INCLUYE: el agua de amasado (0,263 m³ por m³ según la fuente), la hormigonera ni el transporte del mortero hasta el lugar de uso. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Rendimientos adaptados de BCCA wi-mortero-de-cemento-m5-1-6-cem-ii-a-l-32-5-n: horas y consumos adaptados como se detalla en la descripción; es práctica española, a contrastar con experiencia local",
       "unit": "m3",
-      "updatedAt": "2026-11-18T11:16:50.599Z",
+      "updatedAt": "2026-11-19T12:06:23.002Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-07-21T22:07:55.939Z",
@@ -121,5 +121,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

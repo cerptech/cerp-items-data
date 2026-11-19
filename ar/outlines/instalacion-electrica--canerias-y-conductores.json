@@ -2,11 +2,11 @@
   "key": "instalacion-electrica--canerias-y-conductores",
   "rows": [
     {
-      "d": "2026-08",
+      "d": "2026-11",
       "g": [],
       "id": "mt-ar-cable-unipolar-de-1-5-mm2-en-rollo-de-100-m",
       "m": 0,
-      "p": 49209.09,
+      "p": 57861,
       "s": "Cable unipolar de 1,5 mm2 en rollo de 100 m",
       "u": "u"
     },
@@ -20,29 +20,29 @@
       "u": "u"
     },
     {
-      "d": "2026-08",
+      "d": "2026-11",
       "g": [],
       "id": "mt-ar-cable-unipolar-de-4-mm2-en-rollo-de-100-m",
       "m": 0,
-      "p": 130402.48,
+      "p": 151107,
       "s": "Cable unipolar de 4 mm2 en rollo de 100 m",
       "u": "u"
     },
     {
-      "d": "2026-08",
+      "d": "2026-11",
       "g": [],
       "id": "mt-ar-caja-octogonal-chica-de-chapa",
       "m": 0,
-      "p": 446.28,
+      "p": 400.5,
       "s": "Caja octogonal chica de chapa",
       "u": "u"
     },
     {
-      "d": "2026-08",
+      "d": "2026-11",
       "g": [],
       "id": "mt-ar-caja-rectangular-de-chapa-de-10x5-cm",
       "m": 0,
-      "p": 547.93,
+      "p": 400.5,
       "s": "Caja rectangular de chapa de 10x5 cm",
       "u": "u"
     },
@@ -57,5 +57,5 @@
     }
   ],
   "title": "Instalación eléctrica > Cañerías y conductores",
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

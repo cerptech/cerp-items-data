@@ -20,7 +20,7 @@
       "g": [],
       "id": "wi-ar-demolicion-de-mamposteria-de-ladrillo-comun-a-mano",
       "m": 1,
-      "p": 36482.88,
+      "p": 134993.09,
       "s": "Demolición de mampostería de ladrillo común a mano",
       "u": "m3"
     },
@@ -29,7 +29,7 @@
       "g": [],
       "id": "wi-ar-demolicion-de-tabique-de-ladrillo-hueco",
       "m": 1,
-      "p": 4377.95,
+      "p": 23276.62,
       "s": "Demolición de tabique de ladrillo hueco",
       "u": "m2"
     },
@@ -38,7 +38,7 @@
       "g": [],
       "id": "wi-ar-picado-de-revoque-en-paredes",
       "m": 1,
-      "p": 6080.48,
+      "p": 16554.05,
       "s": "Picado de revoque en paredes",
       "u": "m2"
     },
@@ -61,11 +61,11 @@
       "g": [],
       "id": "wi-ar-retiro-de-piso-ceramico",
       "m": 1,
-      "p": 7296.58,
+      "p": 17755.56,
       "s": "Retiro de piso cerámico",
       "u": "m2"
     }
   ],
   "title": "Demoliciones y trabajos previos > Demoliciones",
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

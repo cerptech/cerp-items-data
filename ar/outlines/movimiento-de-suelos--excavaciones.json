@@ -6,7 +6,7 @@
       "g": [],
       "id": "wi-ar-excavacion-de-bases-y-cabezales",
       "m": 2,
-      "p": 39707.33,
+      "p": 57637.29,
       "s": "Excavación de bases y cabezales",
       "u": "m3"
     },
@@ -15,11 +15,11 @@
       "g": [],
       "id": "wi-ar-excavacion-de-vigas-de-fundacion-y-tensores",
       "m": 2,
-      "p": 58479.47,
+      "p": 42865.45,
       "s": "Excavación de vigas de fundación y tensores",
       "u": "m3"
     }
   ],
   "title": "Movimiento de suelos > Excavaciones",
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

@@ -15,7 +15,7 @@
       "g": [],
       "id": "wi-ar-cenefa-de-madera",
       "m": 5,
-      "p": 13594.28,
+      "p": 13011.2,
       "s": "Cenefa de madera",
       "u": "m"
     },
@@ -33,7 +33,7 @@
       "g": [],
       "id": "wi-ar-cubierta-de-chapas-galvanizadas-onduladas-sobre-estructura-d",
       "m": 14,
-      "p": 78386.45,
+      "p": 78104.22,
       "s": "Cubierta de chapas galvanizadas onduladas, sobre estructura de madera cepillada",
       "u": "m2"
     },
@@ -42,7 +42,7 @@
       "g": [],
       "id": "wi-ar-cubierta-de-chapas-galvanizadas-trapezoidales-sobre-estructu",
       "m": 14,
-      "p": 105033.24,
+      "p": 104751.01,
       "s": "Cubierta de chapas galvanizadas trapezoidales, sobre estructura de madera cepillada",
       "u": "m2"
     },
@@ -51,11 +51,11 @@
       "g": [],
       "id": "wi-ar-cubierta-de-tejas-coloniales-espanolas-estructura-de-madera",
       "m": 13,
-      "p": 159304.4,
+      "p": 158854.62,
       "s": "Cubierta de tejas coloniales-españolas, estructura de madera sin cepillar",
       "u": "m2"
     }
   ],
   "title": "Cubiertas",
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

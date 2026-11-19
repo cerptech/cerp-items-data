@@ -1,6 +1,6 @@
 # Carpinterías > Chapa
 
-Banco de ítems de construcción CERP v0.11.0 — 1 ítems. Datos estructurados en [`carpinterias--chapa.json`](./carpinterias--chapa.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
+Banco de ítems de construcción CERP v0.12.0 — 1 ítems. Datos estructurados en [`carpinterias--chapa.json`](./carpinterias--chapa.json); conceptos simples referenciados por los BOM en [`../basicos.json`](../basicos.json).
 
 > Costos unitarios por rubro y precios de materiales de referencia: Revista CIFRAS — La Revista de la Construcción (Santa Fe, Argentina), www.cifrasonline.com.ar
 > Escala salarial del CCT 76/75 (UOCRA — CAMARCO/FAEC), según acuerdo homologado por la Secretaría de Trabajo
@@ -8,4 +8,4 @@ Banco de ítems de construcción CERP v0.11.0 — 1 ítems. Datos estructurados 
 
 | id | resumen | ud | precio ARS | fecha | descomposición (ref × cantidad) |
 |----|---------|----|-----------:|-------|---------------------------------|
-| `wi-ar-colocacion-de-puerta-de-chapa-doble-contacto-de-80x200-cm` | Colocación de puerta de chapa doble contacto de 80x200 cm | u | 313268.92 | 2026-11 | mo-ar-oficial-cct-76-75 ×3.3<br>mo-ar-ayudante-cct-76-75 ×3.3<br>mt-ar-puerta-de-chapa-doble-contacto-de-80x200-cm-con-marco ×1<br>mt-ar-arena-gruesa-a-granel ×0.02<br>mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg ×0.1248 |
+| `wi-ar-colocacion-de-puerta-de-chapa-doble-contacto-de-80x200-cm` | Colocación de puerta de chapa doble contacto de 80x200 cm | u | 313200.83 | 2026-11 | mo-ar-oficial-cct-76-75 ×3.3<br>mo-ar-ayudante-cct-76-75 ×3.3<br>mt-ar-puerta-de-chapa-doble-contacto-de-80x200-cm-con-marco ×1<br>mt-ar-arena-gruesa-a-granel ×0.02<br>mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg ×0.1248 |

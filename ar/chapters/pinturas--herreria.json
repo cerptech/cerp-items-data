@@ -10,19 +10,19 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1.4,
+          "quantity": 1.56689141,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.03,
+          "quantity": 0.17649609,
           "ref": "mt-ar-esmalte-sintetico-brillante-en-lata-de-4-litros",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.025,
+          "quantity": 0.14708007,
           "ref": "mt-ar-convertidor-de-oxido-en-lata-de-4-litros",
           "role": "material"
         }
@@ -49,7 +49,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 23642.86
+          "value": 43733.22
         },
         {
           "currency": "ARS",
@@ -62,7 +62,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25854.72
+          "value": 46208.75
         },
         {
           "currency": "ARS",
@@ -75,7 +75,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 37302.59
+          "value": 59021.3
         },
         {
           "currency": "ARS",
@@ -88,7 +88,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 43657.19
+          "value": 66133.42
         }
       ],
       "sources": [
@@ -97,6 +97,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "15.03",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Esmalte sintético sobre herrería con convertidor de óxido",
@@ -106,9 +113,9 @@
         "herrería",
         "antióxido"
       ],
-      "text": "Esmalte sintético brillante sobre herrería, en dos manos, previa limpieza mecánica y aplicación de convertidor de óxido. Medido por metro cuadrado de superficie desarrollada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem «Esmalte sintético sobre carpintería metálica (hojas)» de la sección Pinturas de \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), que asigna 1,40 h de oficial por m², sin ayudante, con 0,12 l de pintura y 0,10 l de antióxido. Conversiones a las presentaciones del banco: esmalte 0,12 l / 4 l por lata = 0,03 lata; el antióxido de la fuente se carga en la hoja de convertidor de óxido, que es el producto que especifica esta partida, con la misma cantidad: 0,10 l / 4 l por lata = 0,025 lata. La fuente no dice cuántas manos cubre su consumo de pintura. DECISIÓN DE CURACIÓN (noviembre 2026): antes se usaban las horas del ítem 21.4 «Esmalte sintético» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026: 0,27 h de oficial y 0,64 h de ayudante por m², con 0,15 l de esmalte). Ese consumo es comparable al de esta partida, así que el criterio de escalar las horas por consumo que se aplicó a las pinturas al látex no lo corrige, y esas horas resultaban bajas para una tarea de dos productos sobre metal. Se tomó el ítem de FACET porque cubre la misma tarea: esmalte con antióxido sobre metal. CORRECCIÓN (noviembre 2026): el esmalte pasa de 0,04 lata (0,16 l/m²) a 0,03 lata (0,12 l/m²), que es el consumo del ítem citado; el valor anterior no salía de esa fuente ni de otra declarada. Las horas (1,40 h de oficial) y el convertidor (0,10 l/m², 0,025 lata) ya coincidían con la fuente y no cambian. INCLUYE: la mano de obra de limpieza mecánica, aplicación del convertidor de óxido y de las dos manos de esmalte; el esmalte sintético y el convertidor de óxido. NO INCLUYE: ayudante (la fuente no lo asigna), aguarrás o diluyente, lijas, cepillos y otros consumibles, ni andamios. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014) y usa solo las categorías Oficial y Ayudante, sin medio oficial. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. LÍMITE CONOCIDO: con estos rendimientos y consumos la partida queda por debajo de los valores de mercado con los que se la contrastó en noviembre de 2026. Contrastala con tu experiencia antes de usarla en una oferta.",
+      "text": "Esmalte sintético brillante sobre herrería, en dos manos, previa limpieza mecánica y aplicación de convertidor de óxido. Medido por metro cuadrado de superficie desarrollada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: ítem «Esmalte sintético sobre carpintería metálica (hojas)» de la sección Pinturas de \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), que asigna 1,40 h de oficial por m², sin ayudante, con 0,12 l de pintura y 0,10 l de antióxido. Conversiones a las presentaciones del banco: esmalte 0,12 l / 4 l por lata = 0,03 lata; el antióxido de la fuente se carga en la hoja de convertidor de óxido, que es el producto que especifica esta partida, con la misma cantidad: 0,10 l / 4 l por lata = 0,025 lata. La fuente no dice cuántas manos cubre su consumo de pintura. DECISIÓN DE CURACIÓN (noviembre 2026): antes se usaban las horas del ítem 21.4 «Esmalte sintético» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026: 0,27 h de oficial y 0,64 h de ayudante por m², con 0,15 l de esmalte). Ese consumo es comparable al de esta partida, así que el criterio de escalar las horas por consumo que se aplicó a las pinturas al látex no lo corrige, y esas horas resultaban bajas para una tarea de dos productos sobre metal. Se tomó el ítem de FACET porque cubre la misma tarea: esmalte con antióxido sobre metal. CORRECCIÓN (noviembre 2026): el esmalte pasa de 0,04 lata (0,16 l/m²) a 0,03 lata (0,12 l/m²), que es el consumo del ítem citado; el valor anterior no salía de esa fuente ni de otra declarada. Las horas (1,40 h de oficial) y el convertidor (0,10 l/m², 0,025 lata) ya coincidían con la fuente y no cambian. INCLUYE: la mano de obra de limpieza mecánica, aplicación del convertidor de óxido y de las dos manos de esmalte; el esmalte sintético y el convertidor de óxido. NO INCLUYE: ayudante (la fuente no lo asigna), aguarrás o diluyente, lijas, cepillos y otros consumibles, ni andamios. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014) y usa solo las categorías Oficial y Ayudante, sin medio oficial. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 15.03: el costo de esta partida es el del rubro «Esmalte sintético para carpintería metálica» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 22.403,57 de ejecución y $ 21.329,67 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,119 y las de materiales por 5,883. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.325Z",
+      "updatedAt": "2026-11-19T12:37:28.295Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -116,5 +123,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

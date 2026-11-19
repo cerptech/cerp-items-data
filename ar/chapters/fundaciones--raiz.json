@@ -72,7 +72,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 742992.39
+          "value": 738889.78
         },
         {
           "currency": "ARS",
@@ -85,7 +85,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 779043.93
+          "value": 774941.32
         },
         {
           "currency": "ARS",
@@ -98,7 +98,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 990371.99
+          "value": 986269.38
         },
         {
           "currency": "ARS",
@@ -111,7 +111,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1062211.51
+          "value": 1058108.9
         }
       ],
       "sources": [
@@ -128,7 +128,7 @@
       ],
       "text": "Pilotín de hormigón armado ø 25 cm, 4 ø 12 mm (por m3). Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-11-06T14:19:15.660Z",
+      "updatedAt": "2026-11-19T12:06:23.020Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -201,7 +201,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 52746.58
+          "value": 52457.43
         },
         {
           "currency": "ARS",
@@ -214,7 +214,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 55329.93
+          "value": 55040.78
         },
         {
           "currency": "ARS",
@@ -227,7 +227,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 70442.52
+          "value": 70153.38
         },
         {
           "currency": "ARS",
@@ -240,7 +240,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 75629.5
+          "value": 75340.36
         }
       ],
       "sources": [
@@ -257,7 +257,7 @@
       ],
       "text": "Pilotín de hormigón armado ø 25 cm, 4 ø 12 mm (por unidad). Análisis de precio unitario. Medida por u. Precio computado desde la descomposición.",
       "unit": "u",
-      "updatedAt": "2026-11-06T14:19:15.663Z",
+      "updatedAt": "2026-11-19T12:06:23.024Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -348,7 +348,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 783308
+          "value": 777989.15
         },
         {
           "currency": "ARS",
@@ -361,7 +361,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 829514.15
+          "value": 824195.3
         },
         {
           "currency": "ARS",
@@ -374,7 +374,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1088434.35
+          "value": 1083115.5
         },
         {
           "currency": "ARS",
@@ -387,7 +387,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1195817.14
+          "value": 1190498.29
         }
       ],
       "sources": [
@@ -404,7 +404,7 @@
       ],
       "text": "Viga de fundación de hormigón armado preparado en obra, con encofrado de madera y una dosificación de 339 kg de cemento por m³. Medida por metro cúbico de hormigón colocado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítem 3.3 «Hormigón armado para vigas de fundación» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 19,20 h de oficial y 11,35 h de ayudante por m³. Adaptación: de la fuente se toman solo las horas, porque usa otra dosificación (300 kg de cemento por m³) y esta partida declara 339 kg. Los consumos de materiales se conservan del banco y no tienen fuente declarada: 6,78 bolsas de cemento, 0,57 m³ de arena mediana, 0,86 m³ de piedra partida, 70 kg de acero, 0,7 kg de alambre de atado, 2,8 m² de amortización de madera de encofrado, 2,4 kg de clavos y 1,35 h de equipos menores por m³. Como referencia, el mismo ítem de la fuente lleva por m³ 175 kg de hierro, 0,5 kg de alambre negro N° 14, 1 kg de clavos de 2 1/2\", 0,60 m³ de arena mediana, 0,70 m³ de ripio 1/3 y 2,10 m² de tabla de pino. CORRECCIÓN (noviembre 2026): estas horas reemplazan a las anteriores (18 h de oficial y 12 h de ayudante), que no tenían una fuente que se pudiera cotejar. INCLUYE: el hormigón preparado en obra, la armadura con su alambre de atado, la amortización de la madera de encofrado y los clavos, los equipos menores y la mano de obra de encofrado, armado, hormigonado y desencofrado. NO INCLUYE: la excavación ni el hormigón de limpieza bajo la viga, que son partidas aparte (ítems 2.3 y 3.1 de la misma fuente), ni el corte y doblado de hierro en taller. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m3",
-      "updatedAt": "2026-11-18T11:16:50.763Z",
+      "updatedAt": "2026-11-19T12:06:23.114Z",
       "verification": {
         "findings": [
           "cloned_labor_block-e8a57ab51c4f32c1",
@@ -500,7 +500,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 786641.86
+          "value": 780919.3
         },
         {
           "currency": "ARS",
@@ -513,7 +513,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 832848.01
+          "value": 827125.44
         },
         {
           "currency": "ARS",
@@ -526,7 +526,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1091768.21
+          "value": 1086045.65
         },
         {
           "currency": "ARS",
@@ -539,7 +539,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1199151
+          "value": 1193428.43
         }
       ],
       "sources": [
@@ -556,7 +556,7 @@
       ],
       "text": "Viga de fundación de hormigón armado con encofrado de madera, con hormigón elaborado en obra con 376 kg de cemento por m³. Medida por metro cúbico de hormigón colocado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítem 3.3 «Hormigón armado para vigas de fundación» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 19,20 h de oficial y 11,35 h de ayudante por m³ en un ítem que incluye encofrado de tabla de madera y armadura. Se toman solo las horas: el ítem del CAS lleva otra dosificación y otros consumos (300 kg de cemento portland, 0,60 m³ de arena, 0,70 m³ de ripio, 175 kg de hierro, 0,50 kg de alambre, 1 kg de clavos y 2,10 m² de tabla por m³), y esta partida está definida con 376 kg de cemento por m³, así que conserva sus consumos de material, que no tienen fuente declarada: 7,52 bolsas de 50 kg de cemento (376 kg), 0,48 m³ de arena mediana, 0,80 m³ de ripio 1 a 3, 70 kg de acero en barras, 0,7 kg de alambre de atar, 2,8 m² de amortización de madera de encofrado, 2,4 kg de clavos y 1,35 h de equipos menores. Las horas del CAS corresponden a una cuantía de 175 kg de hierro por m³, mayor que los 70 kg de esta partida; la fuente no da un ajuste por cuantía y las horas se aplican sin escalar. CORRECCIÓN (noviembre 2026): estas horas reemplazan a las anteriores (18 h de oficial y 12 h de ayudante por m³), que no tenían una fuente que se pudiera cotejar. INCLUYE: el hormigón elaborado en obra (cemento, arena y ripio), la armadura de acero en barras con su alambre de atar, el encofrado de madera (amortización y clavos), los equipos y herramientas menores y la mano de obra de encofrado, armado, hormigonado y desencofrado. NO INCLUYE: la excavación de la zanja, el hormigón de limpieza, el corte y doblado de hierro por servicio externo ni el relleno y compactación posteriores. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m3",
-      "updatedAt": "2026-11-18T11:16:50.772Z",
+      "updatedAt": "2026-11-19T12:06:23.115Z",
       "verification": {
         "findings": [
           "cloned_labor_block-150686636b8b536c",
@@ -639,7 +639,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 688312.94
+          "value": 682994.09
         },
         {
           "currency": "ARS",
@@ -652,7 +652,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 725995.64
+          "value": 720676.79
         },
         {
           "currency": "ARS",
@@ -665,7 +665,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 938449.49
+          "value": 933130.64
         },
         {
           "currency": "ARS",
@@ -678,7 +678,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1024361.79
+          "value": 1019042.93
         }
       ],
       "sources": [
@@ -695,7 +695,7 @@
       ],
       "text": "Viga de fundación de H°A° sin encofrado, 339 kg de cemento por m3. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-11-06T14:19:15.872Z",
+      "updatedAt": "2026-11-19T12:06:23.117Z",
       "verification": {
         "findings": [
           "duplicate_candidate-85881fea33ff0f15"
@@ -776,7 +776,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 690699.17
+          "value": 684976.6
         },
         {
           "currency": "ARS",
@@ -789,7 +789,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 728381.87
+          "value": 722659.3
         },
         {
           "currency": "ARS",
@@ -802,7 +802,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 940835.72
+          "value": 935113.15
         },
         {
           "currency": "ARS",
@@ -815,7 +815,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1026748.02
+          "value": 1021025.45
         }
       ],
       "sources": [
@@ -832,7 +832,7 @@
       ],
       "text": "Viga de fundación de H°A° sin encofrado, 376 kg de cemento por m3. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-11-06T14:19:15.873Z",
+      "updatedAt": "2026-11-19T12:06:23.119Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -843,43 +843,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.9,
+          "quantity": 1.88078626,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 4.5,
+          "quantity": 9.40393132,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 5.56,
+          "quantity": 8.08303914,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.42,
+          "quantity": 0.61058929,
           "ref": "mt-ar-arena-gruesa-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.85,
+          "quantity": 1.23571642,
           "ref": "mt-ar-ripio-1-a-3-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 30,
+          "quantity": 43.61352056,
           "ref": "mt-ar-acero-de-construccion-en-barras",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1.35,
+          "quantity": 2.8211794,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -905,7 +905,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 296930.23
+          "value": 471194.51
         },
         {
           "currency": "ARS",
@@ -918,7 +918,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 304645.03
+          "value": 487316.61
         },
         {
           "currency": "ARS",
@@ -931,7 +931,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 352413.52
+          "value": 587141.41
         },
         {
           "currency": "ARS",
@@ -944,7 +944,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 364520.9
+          "value": 612442.97
         }
       ],
       "sources": [
@@ -953,15 +953,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "03.11",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Zapata de hormigón armado, prof.=1,50 m-elaborado en hormigonera",
       "tags": [
         "fundaciones"
       ],
-      "text": "Zapata corrida (cimiento) de hormigón armado a 1,50 m de profundidad, con hormigón elaborado en obra con hormigonera y armadura de acero en barras. Medida por metro cúbico de hormigón colocado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), sección CIMIENTOS, ítem \"Hormigón Armado\", que asigna por m³ 278 kg de cemento, 0,42 m³ de arena gruesa, 0,85 m³ de ripio 1:3, 30 kg de hierro, 0,90 h de oficial y 4,50 h de ayudante. El documento no aclara si las horas son por persona o de cuadrilla. Equivalencias: el cemento se carga en bolsas de 50 kg (278 kg / 50 kg = 5,56 bolsas) y el hierro como acero de construcción en barras por kg. Las 1,35 h de equipos y herramientas menores se conservan del cómputo anterior: la fuente no las lista y no tienen fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (1,30 h de oficial y 6,49 h de ayudante; 6,8 bolsas de cemento, 0,57 m³ de arena mediana, 0,86 m³ de piedra partida 6 a 20 mm y 5,5 m² de malla de acero soldada de 4,2 mm por m³), que no tenían una fuente que se pudiera cotejar. La armadura pasa de malla soldada a 30 kg de acero en barras por m³, como indica la fuente. INCLUYE: el hormigón elaborado en obra (cemento, arena gruesa y ripio 1:3), 30 kg de acero en barras por m³, los equipos y herramientas menores y la mano de obra de armado y hormigonado. NO INCLUYE: la excavación, el encofrado (ni la fuente ni la partida lo llevan), el alambre de atar (la fuente no lo lleva), el hormigón de limpieza ni el relleno posterior. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Zapata corrida (cimiento) de hormigón armado a 1,50 m de profundidad, con hormigón elaborado en obra con hormigonera y armadura de acero en barras. Medida por metro cúbico de hormigón colocado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), sección CIMIENTOS, ítem \"Hormigón Armado\", que asigna por m³ 278 kg de cemento, 0,42 m³ de arena gruesa, 0,85 m³ de ripio 1:3, 30 kg de hierro, 0,90 h de oficial y 4,50 h de ayudante. El documento no aclara si las horas son por persona o de cuadrilla. Equivalencias: el cemento se carga en bolsas de 50 kg (278 kg / 50 kg = 5,56 bolsas) y el hierro como acero de construcción en barras por kg. Las 1,35 h de equipos y herramientas menores se conservan del cómputo anterior: la fuente no las lista y no tienen fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (1,30 h de oficial y 6,49 h de ayudante; 6,8 bolsas de cemento, 0,57 m³ de arena mediana, 0,86 m³ de piedra partida 6 a 20 mm y 5,5 m² de malla de acero soldada de 4,2 mm por m³), que no tenían una fuente que se pudiera cotejar. La armadura pasa de malla soldada a 30 kg de acero en barras por m³, como indica la fuente. INCLUYE: el hormigón elaborado en obra (cemento, arena gruesa y ripio 1:3), 30 kg de acero en barras por m³, los equipos y herramientas menores y la mano de obra de armado y hormigonado. NO INCLUYE: la excavación, el encofrado (ni la fuente ni la partida lo llevan), el alambre de atar (la fuente no lo lleva), el hormigón de limpieza ni el relleno posterior. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 03.11: el costo de esta partida es el del rubro «Zapata corrida muros HºAº» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 144.355,80 de ejecución y $ 326.838,72 de materiales por m3, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 2,09 y las de materiales por 1,454. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m3",
-      "updatedAt": "2026-11-18T11:16:50.823Z",
+      "updatedAt": "2026-11-19T12:37:28.327Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -972,37 +979,37 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1.3,
+          "quantity": 0.90598627,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 6.49,
+          "quantity": 4.52296224,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 154,
+          "quantity": 411.90334975,
           "ref": "mt-ar-cemento-de-albanileria-en-bolsa-de-30-kg-por-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 1.60481825,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.75,
+          "quantity": 2.00602281,
           "ref": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1.35,
+          "quantity": 0.9408319,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -1028,7 +1035,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 185352.24
+          "value": 299966.03
         },
         {
           "currency": "ARS",
@@ -1041,7 +1048,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 196481.85
+          "value": 307722.4
         },
         {
           "currency": "ARS",
@@ -1054,7 +1061,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 265390.99
+          "value": 355746.04
         },
         {
           "currency": "ARS",
@@ -1067,7 +1074,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 282861.6
+          "value": 367921.53
         }
       ],
       "sources": [
@@ -1076,15 +1083,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "03.10",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Zapata de hormigón pobre de cascotes, 154 kg/m3 de cemento de albañilería",
       "tags": [
         "fundaciones"
       ],
-      "text": "Zapata de hormigón pobre de cascotes, 154 kg/m3 de cemento de albañilería. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
+      "text": "Zapata de hormigón pobre de cascotes, 154 kg/m3 de cemento de albañilería. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 03.10: el costo de esta partida es el del rubro «Zapata corrida muros Hº cascotes» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 68.992,36 de ejecución y $ 230.973,68 de materiales por m3, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,697 y las de materiales por 2,675. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m3",
-      "updatedAt": "2026-11-06T14:19:15.895Z",
+      "updatedAt": "2026-11-19T12:37:28.327Z",
       "verification": {
         "findings": [
           "duplicate_candidate-0f291a30f89481ea"
@@ -1097,37 +1111,37 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1.3,
+          "quantity": 0.90598627,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 6.49,
+          "quantity": 4.52296224,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 220,
+          "quantity": 514.23048206,
           "ref": "mt-ar-cemento-de-albanileria-en-bolsa-de-30-kg-por-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.43,
+          "quantity": 1.00508685,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.83,
+          "quantity": 1.94005136,
           "ref": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1.35,
+          "quantity": 0.9408319,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -1153,7 +1167,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 197813.18
+          "value": 299966.03
         },
         {
           "currency": "ARS",
@@ -1166,7 +1180,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 208942.79
+          "value": 307722.4
         },
         {
           "currency": "ARS",
@@ -1179,7 +1193,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 277851.92
+          "value": 355746.04
         },
         {
           "currency": "ARS",
@@ -1192,7 +1206,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 295322.54
+          "value": 367921.53
         }
       ],
       "sources": [
@@ -1201,15 +1215,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "03.10",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Zapata de hormigón pobre de cascotes, 220 kg/m3 de cemento de albañilería",
       "tags": [
         "fundaciones"
       ],
-      "text": "Zapata de hormigón pobre de cascotes, 220 kg/m3 de cemento de albañilería. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
+      "text": "Zapata de hormigón pobre de cascotes, 220 kg/m3 de cemento de albañilería. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 03.10: el costo de esta partida es el del rubro «Zapata corrida muros Hº cascotes» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 68.992,36 de ejecución y $ 230.973,68 de materiales por m3, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,697 y las de materiales por 2,337. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m3",
-      "updatedAt": "2026-11-06T14:19:15.899Z",
+      "updatedAt": "2026-11-19T12:37:28.328Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1220,43 +1241,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1.3,
+          "quantity": 0.90598627,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 6.49,
+          "quantity": 4.52296224,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 2.7,
+          "quantity": 6.28147452,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 79,
+          "quantity": 183.79129148,
           "ref": "mt-ar-cal-hidraulica-en-polvo-por-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.42,
+          "quantity": 0.97711826,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.82,
+          "quantity": 1.90770708,
           "ref": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1.35,
+          "quantity": 0.9408319,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -1282,7 +1303,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 199750.83
+          "value": 299966.03
         },
         {
           "currency": "ARS",
@@ -1295,7 +1316,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 210880.45
+          "value": 307722.4
         },
         {
           "currency": "ARS",
@@ -1308,7 +1329,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 279789.58
+          "value": 355746.04
         },
         {
           "currency": "ARS",
@@ -1321,7 +1342,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 297260.19
+          "value": 367921.53
         }
       ],
       "sources": [
@@ -1330,15 +1351,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "03.10",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Zapata de hormigón pobre de cascotes con cal, 135 kg de cemento por m3",
       "tags": [
         "fundaciones"
       ],
-      "text": "Zapata de hormigón pobre de cascotes con cal, 135 kg de cemento por m3. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
+      "text": "Zapata de hormigón pobre de cascotes con cal, 135 kg de cemento por m3. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 03.10: el costo de esta partida es el del rubro «Zapata corrida muros Hº cascotes» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 68.992,36 de ejecución y $ 230.973,68 de materiales por m3, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,697 y las de materiales por 2,326. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m3",
-      "updatedAt": "2026-11-06T14:19:15.902Z",
+      "updatedAt": "2026-11-19T12:37:28.328Z",
       "verification": {
         "findings": [
           "duplicate_candidate-bd45f62b902be3d7"
@@ -1351,43 +1379,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1.3,
+          "quantity": 0.90598627,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 6.49,
+          "quantity": 4.52296224,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.84,
+          "quantity": 4.76532144,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 80,
+          "quantity": 207.1878888,
           "ref": "mt-ar-cal-hidraulica-en-polvo-por-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.43,
+          "quantity": 1.1136349,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.84,
+          "quantity": 2.17547283,
           "ref": "mt-ar-cascote-de-ladrillo-triturado-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 1.35,
+          "quantity": 0.9408319,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -1413,7 +1441,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 189185.23
+          "value": 299966.05
         },
         {
           "currency": "ARS",
@@ -1426,7 +1454,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 200314.85
+          "value": 307722.42
         },
         {
           "currency": "ARS",
@@ -1439,7 +1467,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 269223.98
+          "value": 355746.06
         },
         {
           "currency": "ARS",
@@ -1452,7 +1480,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 286694.6
+          "value": 367921.55
         }
       ],
       "sources": [
@@ -1461,15 +1489,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "03.10",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Zapata de hormigón pobre de cascotes con cal, 92 kg de cemento por m3",
       "tags": [
         "fundaciones"
       ],
-      "text": "Zapata de hormigón pobre de cascotes con cal, 92 kg de cemento por m3. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
+      "text": "Zapata de hormigón pobre de cascotes con cal, 92 kg de cemento por m3. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 03.10: el costo de esta partida es el del rubro «Zapata corrida muros Hº cascotes» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 68.992,36 de ejecución y $ 230.973,68 de materiales por m3, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,697 y las de materiales por 2,59. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m3",
-      "updatedAt": "2026-11-06T14:19:15.905Z",
+      "updatedAt": "2026-11-19T12:37:28.328Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1536,7 +1571,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 275670.25
+          "value": 271960.44
         },
         {
           "currency": "ARS",
@@ -1549,7 +1584,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 286789.3
+          "value": 283079.49
         },
         {
           "currency": "ARS",
@@ -1562,7 +1597,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 355138.55
+          "value": 351428.74
         },
         {
           "currency": "ARS",
@@ -1575,7 +1610,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 373226.93
+          "value": 369517.12
         }
       ],
       "sources": [
@@ -1592,7 +1627,7 @@
       ],
       "text": "Zapata de hormigón simple, prof.=1,50 m-elaborado en hormigonera. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
       "unit": "m3",
-      "updatedAt": "2026-11-06T14:19:15.907Z",
+      "updatedAt": "2026-11-19T12:06:23.128Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1603,43 +1638,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 4.4,
+          "quantity": 4.38278327,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 5.85,
+          "quantity": 5.82710957,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.24,
+          "quantity": 0.30151994,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 84,
+          "quantity": 105.53197808,
           "ref": "mt-ar-cemento-de-albanileria-en-bolsa-de-30-kg-por-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.38,
+          "quantity": 0.47740657,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 370,
+          "quantity": 464.84323677,
           "ref": "mt-ar-ladrillo-comun-de-tierra-cocida-25x12x5-cm",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.9,
+          "quantity": 0.8964784,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -1665,7 +1700,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 273936.27
+          "value": 306563.85
         },
         {
           "currency": "ARS",
@@ -1678,7 +1713,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 289068.58
+          "value": 321636.96
         },
         {
           "currency": "ARS",
@@ -1691,7 +1726,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 377579.49
+          "value": 409801.53
         },
         {
           "currency": "ARS",
@@ -1704,7 +1739,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 407980.06
+          "value": 440083.15
         }
       ],
       "sources": [
@@ -1713,15 +1748,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "04.11",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Zapata de mampostería ladrillos comunes, con cemento de albañilería",
       "tags": [
         "fundaciones"
       ],
-      "text": "Zapata de mampostería ladrillos comunes, con cemento de albañilería. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
+      "text": "Zapata de mampostería ladrillos comunes, con cemento de albañilería. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 04.11: el costo de esta partida es el del rubro «Ladrillos comunes en cimientos» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 134.514,85 de ejecución y $ 172.049,01 de materiales por m3, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,996 y las de materiales por 1,256. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m3",
-      "updatedAt": "2026-11-06T14:19:15.910Z",
+      "updatedAt": "2026-11-19T12:37:28.329Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1732,43 +1774,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 4.4,
+          "quantity": 4.38278327,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 5.85,
+          "quantity": 5.82710957,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.72,
+          "quantity": 0.8669818,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 82,
+          "quantity": 98.73959385,
           "ref": "mt-ar-cal-hidraulica-en-polvo-por-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.36,
+          "quantity": 0.4334909,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 370,
+          "quantity": 445.53231369,
           "ref": "mt-ar-ladrillo-comun-de-tierra-cocida-25x12x5-cm",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.9,
+          "quantity": 0.8964784,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -1794,7 +1836,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 280133.83
+          "value": 306563.85
         },
         {
           "currency": "ARS",
@@ -1807,7 +1849,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 295266.14
+          "value": 321636.96
         },
         {
           "currency": "ARS",
@@ -1820,7 +1862,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 383777.05
+          "value": 409801.53
         },
         {
           "currency": "ARS",
@@ -1833,7 +1875,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 414177.62
+          "value": 440083.15
         }
       ],
       "sources": [
@@ -1842,15 +1884,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "04.11",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Zapata de mampostería ladrillos comunes, mezcla: 1/4 : 1 : 3",
       "tags": [
         "fundaciones"
       ],
-      "text": "Zapata de mampostería ladrillos comunes, mezcla: 1/4 : 1 : 3. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición.",
+      "text": "Zapata de mampostería ladrillos comunes, mezcla: 1/4 : 1 : 3. Análisis de precio unitario. Medida por m3. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 04.11: el costo de esta partida es el del rubro «Ladrillos comunes en cimientos» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 134.514,85 de ejecución y $ 172.049,01 de materiales por m3, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,996 y las de materiales por 1,204. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m3",
-      "updatedAt": "2026-11-06T14:19:15.912Z",
+      "updatedAt": "2026-11-19T12:37:28.329Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1858,5 +1907,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

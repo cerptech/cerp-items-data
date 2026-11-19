@@ -10,31 +10,31 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.54492355,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.3,
+          "quantity": 0.27246178,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.24,
+          "quantity": 0.38647473,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.025,
+          "quantity": 0.04025778,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.0025,
+          "quantity": 0.00402578,
           "ref": "mt-ar-ferrite-oxido-de-hierro-pigmento-en-bolsa-de-20-kg",
           "role": "material"
         }
@@ -61,7 +61,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 16708.23
+          "value": 18109.85
         },
         {
           "currency": "ARS",
@@ -74,7 +74,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 18075.69
+          "value": 19351.79
         },
         {
           "currency": "ARS",
@@ -87,7 +87,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 25675.87
+          "value": 26254.32
         },
         {
           "currency": "ARS",
@@ -100,7 +100,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 28934.08
+          "value": 29213.45
         }
       ],
       "sources": [
@@ -109,6 +109,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "11.03",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Piso de cemento alisado",
@@ -118,9 +125,9 @@
         "solado",
         "llaneado"
       ],
-      "text": "Piso de mortero de cemento y arena mediana de 2 cm de espesor, con colorante en polvo, alisado a llana metálica. En Argentina se dice «cemento alisado». Medido por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: «Coeficientes de Consumo» de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem «Pisos — Cemento alisado (e = 2 cm.)», que asigna 0,60 h de oficial y 0,30 h de ayudante por m², con 12 kg de cemento, 0,025 m³ de arena mediana y 0,05 kg de colorante en polvo. Adaptación: el cemento se carga en bolsas de 50 kg (12 kg / 50 = 0,24 bolsa) y el colorante en polvo como pigmento de óxido de hierro en bolsa de 20 kg (0,05 kg / 20 = 0,0025 bolsa). ELECCIÓN ENTRE ÍTEMS DE LA FUENTE (decisión de curación CERP, noviembre 2026), que se conserva: la fuente publica dos ítems llamados «Cemento alisado». Se usa el del rubro PISOS porque es el piso que describe esta partida. El otro está en el rubro UMBRALES (1,20 h de oficial y 0,60 h de ayudante por m², con 12 kg de cemento y 0,025 m³ de arena gruesa): CERP lo interpreta como la terminación de un umbral (pieza angosta, con menos m² por hora) y no lo aplica a un piso; la fuente no explica la diferencia. CORRECCIÓN (noviembre 2026): las horas ya eran las del ítem citado (0,60 h de oficial y 0,30 h de ayudante; antes se habían cargado por error 1,80 h y 0,90 h, que son las del ítem «Cielorrasos — Yeso bajo losa»). Cambian los materiales, que no eran los del ítem citado y quedaban declarados como pendientes de revisión: el cemento pasa de 0,5 bolsa (25 kg) a 0,24 bolsa (12 kg); la arena pasa de 0,04 m³ de arena gruesa a 0,025 m³ de arena mediana; y se agrega el colorante en polvo, que faltaba. INCLUYE: mortero de cemento y arena mediana para 2 cm de espesor, colorante en polvo, alisado a llana y mano de obra de oficial y ayudante. NO INCLUYE: contrapiso, carpeta niveladora, endurecedor superficial ni juntas de dilatación, que la fuente no trae en este ítem. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Piso de mortero de cemento y arena mediana de 2 cm de espesor, con colorante en polvo, alisado a llana metálica. En Argentina se dice «cemento alisado». Medido por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: «Coeficientes de Consumo» de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem «Pisos — Cemento alisado (e = 2 cm.)», que asigna 0,60 h de oficial y 0,30 h de ayudante por m², con 12 kg de cemento, 0,025 m³ de arena mediana y 0,05 kg de colorante en polvo. Adaptación: el cemento se carga en bolsas de 50 kg (12 kg / 50 = 0,24 bolsa) y el colorante en polvo como pigmento de óxido de hierro en bolsa de 20 kg (0,05 kg / 20 = 0,0025 bolsa). ELECCIÓN ENTRE ÍTEMS DE LA FUENTE (decisión de curación CERP, noviembre 2026), que se conserva: la fuente publica dos ítems llamados «Cemento alisado». Se usa el del rubro PISOS porque es el piso que describe esta partida. El otro está en el rubro UMBRALES (1,20 h de oficial y 0,60 h de ayudante por m², con 12 kg de cemento y 0,025 m³ de arena gruesa): CERP lo interpreta como la terminación de un umbral (pieza angosta, con menos m² por hora) y no lo aplica a un piso; la fuente no explica la diferencia. CORRECCIÓN (noviembre 2026): las horas ya eran las del ítem citado (0,60 h de oficial y 0,30 h de ayudante; antes se habían cargado por error 1,80 h y 0,90 h, que son las del ítem «Cielorrasos — Yeso bajo losa»). Cambian los materiales, que no eran los del ítem citado y quedaban declarados como pendientes de revisión: el cemento pasa de 0,5 bolsa (25 kg) a 0,24 bolsa (12 kg); la arena pasa de 0,04 m³ de arena gruesa a 0,025 m³ de arena mediana; y se agrega el colorante en polvo, que faltaba. INCLUYE: mortero de cemento y arena mediana para 2 cm de espesor, colorante en polvo, alisado a llana y mano de obra de oficial y ayudante. NO INCLUYE: contrapiso, carpeta niveladora, endurecedor superficial ni juntas de dilatación, que la fuente no trae en este ítem. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 11.03: el costo de esta partida es el del rubro «Cemento alisado» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 11.104,77 de ejecución y $ 7.005,08 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,908 y las de materiales por 1,61. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.637Z",
+      "updatedAt": "2026-11-19T12:37:28.316Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -199,31 +206,31 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 0.98,
+          "quantity": 1.07482935,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.64,
+          "quantity": 0.70192937,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.05,
+          "quantity": 2.58105214,
           "ref": "mt-ar-ceramico-esmaltado-para-piso-51x51-cm",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.125,
+          "quantity": 0.30726811,
           "ref": "mt-ar-adhesivo-impermeable-para-ceramicos-en-bolsa-de-30-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.25,
+          "quantity": 0.61453622,
           "ref": "mt-ar-pastina-para-juntas",
           "role": "material"
         }
@@ -250,7 +257,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 35254.56
+          "value": 56989.34
         },
         {
           "currency": "ARS",
@@ -263,7 +270,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 37697.85
+          "value": 59669.05
         },
         {
           "currency": "ARS",
@@ -276,7 +283,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 51458.44
+          "value": 74761.18
         },
         {
           "currency": "ARS",
@@ -289,7 +296,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 57047.61
+          "value": 80891.18
         }
       ],
       "sources": [
@@ -298,6 +305,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "11.06",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Piso de cerámico esmaltado 51x51 cm",
@@ -307,9 +321,9 @@
         "esmaltado",
         "solado"
       ],
-      "text": "Piso de cerámico esmaltado de 51x51 cm colocado con adhesivo cementicio sobre carpeta, con junta tomada con pastina. Medido por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Acuñada en agosto de 2026 para reemplazar a la partida de 30x30, cuyo material está descatalogado. Rendimiento de mano de obra y consumos: ítem 7.1 «Piso ceramico esmaltado» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,98 h de oficial y 0,64 h de ayudante por m², con 1,05 m² de cerámico esmaltado de alto tránsito, 3,75 kg de pegamento para cerámico y 0,25 kg de pastina. El ítem no indica el formato de la pieza. Adaptación: el cerámico se carga como el cerámico esmaltado para piso de 51x51 cm del banco, que es el de esta partida (1,05 m² por m², como en la fuente, que no explica el 5 % adicional). El pegamento se carga como adhesivo impermeable para cerámicos en bolsa de 30 kg (3,75 kg / 30 = 0,125 bolsa), porque el banco no tiene pegamento común: es otro producto, de prestación superior a la que pide la fuente. CORRECCIÓN (noviembre 2026): las horas (0,98 h de oficial y 0,64 h de ayudante) ya eran las del ítem citado y no cambian. Cambian los consumos, que no coincidían con el ítem: el cerámico pasa de 1,07 m² a 1,05 m²; el adhesivo, de 0,1 bolsa (3 kg) a 0,125 bolsa (3,75 kg); y la pastina, de 0,2 kg a 0,25 kg. La cita pasa de la edición julio 2025 a la de octubre 2026, y se quita la afirmación de que la fuente declara el rendimiento para formato chico: el ítem no lo dice. INCLUYE: cerámico esmaltado de 51x51 cm, adhesivo, pastina y mano de obra de oficial y ayudante. NO INCLUYE: carpeta, contrapiso, zócalo ni piezas especiales. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Piso de cerámico esmaltado de 51x51 cm colocado con adhesivo cementicio sobre carpeta, con junta tomada con pastina. Medido por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Acuñada en agosto de 2026 para reemplazar a la partida de 30x30, cuyo material está descatalogado. Rendimiento de mano de obra y consumos: ítem 7.1 «Piso ceramico esmaltado» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 0,98 h de oficial y 0,64 h de ayudante por m², con 1,05 m² de cerámico esmaltado de alto tránsito, 3,75 kg de pegamento para cerámico y 0,25 kg de pastina. El ítem no indica el formato de la pieza. Adaptación: el cerámico se carga como el cerámico esmaltado para piso de 51x51 cm del banco, que es el de esta partida (1,05 m² por m², como en la fuente, que no explica el 5 % adicional). El pegamento se carga como adhesivo impermeable para cerámicos en bolsa de 30 kg (3,75 kg / 30 = 0,125 bolsa), porque el banco no tiene pegamento común: es otro producto, de prestación superior a la que pide la fuente. CORRECCIÓN (noviembre 2026): las horas (0,98 h de oficial y 0,64 h de ayudante) ya eran las del ítem citado y no cambian. Cambian los consumos, que no coincidían con el ítem: el cerámico pasa de 1,07 m² a 1,05 m²; el adhesivo, de 0,1 bolsa (3 kg) a 0,125 bolsa (3,75 kg); y la pastina, de 0,2 kg a 0,25 kg. La cita pasa de la edición julio 2025 a la de octubre 2026, y se quita la afirmación de que la fuente declara el rendimiento para formato chico: el ítem no lo dice. INCLUYE: cerámico esmaltado de 51x51 cm, adhesivo, pastina y mano de obra de oficial y ayudante. NO INCLUYE: carpeta, contrapiso, zócalo ni piezas especiales. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 11.06: el costo de esta partida es el del rubro «Cerámicas esmaltadas» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 23.904,15 de ejecución y $ 33.085,18 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,097 y las de materiales por 2,458. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.641Z",
+      "updatedAt": "2026-11-19T12:37:28.316Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -320,37 +334,37 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1,
+          "quantity": 1.33850396,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.5,
+          "quantity": 0.66925198,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.05,
+          "quantity": 1.11129652,
           "ref": "mt-ar-mosaico-granitico-30x30-cm",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.04,
+          "quantity": 0.04233511,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.116,
+          "quantity": 0.12277181,
           "ref": "mt-ar-cal-hidratada-en-bolsa-de-25-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.025,
+          "quantity": 0.02645944,
           "ref": "mt-ar-arena-gruesa-a-granel",
           "role": "material"
         }
@@ -377,7 +391,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 48154.69
+          "value": 56651.33
         },
         {
           "currency": "ARS",
@@ -390,7 +404,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 50433.8
+          "value": 59701.93
         },
         {
           "currency": "ARS",
@@ -403,7 +417,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 63100.76
+          "value": 76656.7
         },
         {
           "currency": "ARS",
@@ -416,7 +430,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 68531.12
+          "value": 83925.26
         }
       ],
       "sources": [
@@ -425,6 +439,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "11.13",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Piso de mosaico granítico 30x30 cm",
@@ -434,9 +455,9 @@
         "granítico",
         "solado"
       ],
-      "text": "Piso de mosaico granítico compacto de 30x30 cm colocado con mortero de cal reforzado (cemento, cal y arena gruesa) sobre carpeta o contrapiso. Medido por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: «Coeficientes de Consumo» de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem «Pisos — Mosaico granitico (0,30 x 0,30)», que asigna 1,00 h de oficial y 0,50 h de ayudante por m², con 1,05 m² de mosaico, 2 kg de cemento, 2,9 kg de cal y 0,025 m³ de arena gruesa. Como referencia de la propia fuente, el formato de 0,15 x 0,15 lleva 1,10 h de oficial y 0,50 h de ayudante. Adaptación: el cemento se carga en bolsas de 50 kg (2 kg / 50 = 0,04 bolsa) y la cal como cal hidratada en bolsa de 25 kg (2,9 kg / 25 = 0,116 bolsa). CORRECCIÓN (noviembre 2026): las horas ya eran las del ítem citado (1,00 h de oficial y 0,50 h de ayudante; antes se habían cargado por error 1,40 h y 0,90 h, que son las del ítem «Umbrales — Mármol»). Cambian los materiales, que no eran los del ítem citado: el cemento pasa de 0,25 bolsa (12,5 kg) a 0,04 bolsa (2 kg) y se agrega la cal (0,116 bolsa), que faltaba; el mosaico (1,05 m²) y la arena gruesa (0,025 m³) ya coincidían. Se quita de la descripción «con pulido y lustrado en obra»: el ítem de la fuente no los nombra y la descomposición nunca los llevó. INCLUYE: mosaico granítico de 30x30 cm, mortero de asiento de cemento, cal y arena gruesa y mano de obra de oficial y ayudante. NO INCLUYE: carpeta o contrapiso, pastina o lechada de juntas, pulido y lustrado en obra ni zócalo, que la fuente no trae en este ítem. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Piso de mosaico granítico compacto de 30x30 cm colocado con mortero de cal reforzado (cemento, cal y arena gruesa) sobre carpeta o contrapiso. Medido por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: «Coeficientes de Consumo» de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem «Pisos — Mosaico granitico (0,30 x 0,30)», que asigna 1,00 h de oficial y 0,50 h de ayudante por m², con 1,05 m² de mosaico, 2 kg de cemento, 2,9 kg de cal y 0,025 m³ de arena gruesa. Como referencia de la propia fuente, el formato de 0,15 x 0,15 lleva 1,10 h de oficial y 0,50 h de ayudante. Adaptación: el cemento se carga en bolsas de 50 kg (2 kg / 50 = 0,04 bolsa) y la cal como cal hidratada en bolsa de 25 kg (2,9 kg / 25 = 0,116 bolsa). CORRECCIÓN (noviembre 2026): las horas ya eran las del ítem citado (1,00 h de oficial y 0,50 h de ayudante; antes se habían cargado por error 1,40 h y 0,90 h, que son las del ítem «Umbrales — Mármol»). Cambian los materiales, que no eran los del ítem citado: el cemento pasa de 0,25 bolsa (12,5 kg) a 0,04 bolsa (2 kg) y se agrega la cal (0,116 bolsa), que faltaba; el mosaico (1,05 m²) y la arena gruesa (0,025 m³) ya coincidían. Se quita de la descripción «con pulido y lustrado en obra»: el ítem de la fuente no los nombra y la descomposición nunca los llevó. INCLUYE: mosaico granítico de 30x30 cm, mortero de asiento de cemento, cal y arena gruesa y mano de obra de oficial y ayudante. NO INCLUYE: carpeta o contrapiso, pastina o lechada de juntas, pulido y lustrado en obra ni zócalo, que la fuente no trae en este ítem. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 11.13: el costo de esta partida es el del rubro «Mosaicos graníticos 30x30cm» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 27.276,81 de ejecución y $ 29.374,52 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,339 y las de materiales por 1,058. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.675Z",
+      "updatedAt": "2026-11-19T12:37:28.316Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -447,31 +468,31 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1.3,
+          "quantity": 1.00838715,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.85,
+          "quantity": 0.65933006,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.1,
+          "quantity": 1.89813802,
           "ref": "mt-ar-porcelanato-esmaltado-60x60-cm",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.32,
+          "quantity": 0.55218561,
           "ref": "mt-ar-adhesivo-cementicio-para-porcelanato-en-bolsa-de-25-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.25,
+          "quantity": 0.43139501,
           "ref": "mt-ar-pastina-para-juntas",
           "role": "material"
         }
@@ -498,7 +519,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 55463.89
+          "value": 68232.21
         },
         {
           "currency": "ARS",
@@ -511,7 +532,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 58706.41
+          "value": 70747.38
         },
         {
           "currency": "ARS",
@@ -524,7 +545,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 76969.42
+          "value": 84913.67
         },
         {
           "currency": "ARS",
@@ -537,7 +558,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 84385.44
+          "value": 90666.15
         }
       ],
       "sources": [
@@ -546,6 +567,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "11.16",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Piso de porcelanato 60x60 cm",
@@ -554,9 +582,9 @@
         "porcelanato",
         "solado"
       ],
-      "text": "Piso de porcelanato esmaltado de 60x60 cm, de primera, colocado con adhesivo cementicio para porcelanato sobre carpeta, con junta mínima tomada con pastina. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO DE FUENTE: mano de obra (oficial 1,30 h, ayudante 0,85 h), porcelanato 1,10 m2 y pastina 0,25 kg por m2 transcriptos del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, ítems 7.2 «Piso porcelanato» y 8.2 «Revestimiento porcelanato», edición octubre 2026, con los mismos valores que la de julio 2025; publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste. PISO Y PARED LLEVAN LA MISMA DESCOMPOSICIÓN porque la fuente da valores idénticos para los dos ítems (7.2 y 8.2); no hay hoy una fuente permitida que los diferencie. DECISIONES DE CURACIÓN CERP (2026-11): (1) Porcelanato y pastina se alinearon con la fuente (antes 1,07 m2 y 0,15 kg, sin fuente declarada). (2) El adhesivo pasó del impermeable para cerámicos al adhesivo cementicio para porcelanato, que es el que corresponde a la pieza. (3) Consumo de adhesivo: 8 kg/m2 (0,32 bolsa de 25 kg), del fabricante y no de la fuente de rendimientos: la hoja de datos «Klaukol grandes piezas porcellanato» (Sika Argentina, octubre 2026, versión 01.04, arg.sika.com) da 6 kg/m2 con llana de 12 mm y 2 kg/m2 más cuando se realiza doble encolado, y sugiere aplicar adhesivo también en el reverso en colocaciones de alta exigencia o cuando el contacto de la placa es defectuoso. El CAS 3 da 3,75 kg/m2, la mitad. Que una pieza de 60x60 se coloque con doble encolado es criterio de curación CERP (práctica habitual para gran formato), no un dato de la hoja argentina. PRECIO: los precios de materiales y jornales son los vigentes en el banco a la fecha de cálculo; porcelanato y adhesivo se relevaron el 14-11-2026.",
+      "text": "Piso de porcelanato esmaltado de 60x60 cm, de primera, colocado con adhesivo cementicio para porcelanato sobre carpeta, con junta mínima tomada con pastina. Medido por metro cuadrado de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO DE FUENTE: mano de obra (oficial 1,30 h, ayudante 0,85 h), porcelanato 1,10 m2 y pastina 0,25 kg por m2 transcriptos del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, ítems 7.2 «Piso porcelanato» y 8.2 «Revestimiento porcelanato», edición octubre 2026, con los mismos valores que la de julio 2025; publicación de descarga libre). El documento no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario, pendiente de contraste. PISO Y PARED LLEVAN LA MISMA DESCOMPOSICIÓN porque la fuente da valores idénticos para los dos ítems (7.2 y 8.2); no hay hoy una fuente permitida que los diferencie. DECISIONES DE CURACIÓN CERP (2026-11): (1) Porcelanato y pastina se alinearon con la fuente (antes 1,07 m2 y 0,15 kg, sin fuente declarada). (2) El adhesivo pasó del impermeable para cerámicos al adhesivo cementicio para porcelanato, que es el que corresponde a la pieza. (3) Consumo de adhesivo: 8 kg/m2 (0,32 bolsa de 25 kg), del fabricante y no de la fuente de rendimientos: la hoja de datos «Klaukol grandes piezas porcellanato» (Sika Argentina, octubre 2026, versión 01.04, arg.sika.com) da 6 kg/m2 con llana de 12 mm y 2 kg/m2 más cuando se realiza doble encolado, y sugiere aplicar adhesivo también en el reverso en colocaciones de alta exigencia o cuando el contacto de la placa es defectuoso. El CAS 3 da 3,75 kg/m2, la mitad. Que una pieza de 60x60 se coloque con doble encolado es criterio de curación CERP (práctica habitual para gran formato), no un dato de la hoja argentina. PRECIO: los precios de materiales y jornales son los vigentes en el banco a la fecha de cálculo; porcelanato y adhesivo se relevaron el 14-11-2026. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 11.16: el costo de esta partida es el del rubro «Porcelanato sin pulir» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 22.436,11 de ejecución y $ 45.796,10 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,776 y las de materiales por 1,726. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-15T22:13:15.101Z",
+      "updatedAt": "2026-11-19T12:37:28.317Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -567,19 +595,19 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1.2,
+          "quantity": 1.38794192,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.6,
+          "quantity": 0.69397096,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.08,
+          "quantity": 1.13002837,
           "ref": "mt-ar-piso-flotante-laminado-ac4-de-8-mm",
           "role": "material"
         }
@@ -606,7 +634,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 53013.6
+          "value": 58166.53
         },
         {
           "currency": "ARS",
@@ -619,7 +647,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 55748.53
+          "value": 61329.8
         },
         {
           "currency": "ARS",
@@ -632,7 +660,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 70948.88
+          "value": 78910.8
         },
         {
           "currency": "ARS",
@@ -645,7 +673,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 77465.32
+          "value": 86447.83
         }
       ],
       "sources": [
@@ -654,6 +682,13 @@
           "edition": "2026-09",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "11.10",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Piso flotante laminado AC4 de 8 mm",
@@ -663,9 +698,9 @@
         "ac4",
         "solado"
       ],
-      "text": "Piso flotante laminado de 8 mm con clase de abrasión AC4, colocado flotante sobre manta de polietileno, con junta perimetral. Medido por metro cuadrado de superficie ejecutada. No incluye el zócalo. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO INCORPORADO EN SEPTIEMBRE DE 2026. Transcripto de \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán, de descarga libre, con las limitaciones ya conocidas de esa fuente: no lleva fecha ni encabezado institucional, no declara metodología y usa sólo Oficial y Ayudante. RENDIMIENTO DECLARADO COMO APROXIMACIÓN: la fuente no tiene piso flotante, así que se aplicó el de \"Pisos — Parquet sobre carpeta cementicia\" (1,20 h de oficial y 0,60 h de ayudante por m²), que es la tarea más cercana. El flotante con encastre mecánico se coloca más rápido que el parquet pegado, de modo que el valor queda del lado conservador. CORRECCIÓN: en la ronda anterior este rendimiento se había escrito por error en el archivo del MATERIAL homónimo en vez del de la partida, porque los dos comparten nombre y el buscador de archivos miraba primero la carpeta de materiales. El material quedó con una descomposición de mano de obra que no le correspondía y la partida sin rendimiento. Corregido acá. CORRECCIÓN DE NOVIEMBRE 2026: el valor cargado hasta entonces, 1,35 h de oficial y 1,25 h de ayudante, no era el del ítem de parquet sino el de \"Cubiertas — Baldosas cerámicas con aislación\"; la versión anterior había cargado las horas de un renglón vecino del PDF, por una lectura del documento con las columnas desalineadas; se verificó contra la extracción del PDF en modo tabla, donde cada renglón cierra con su propia lista de insumos. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
+      "text": "Piso flotante laminado de 8 mm con clase de abrasión AC4, colocado flotante sobre manta de polietileno, con junta perimetral. Medido por metro cuadrado de superficie ejecutada. No incluye el zócalo. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. RENDIMIENTO INCORPORADO EN SEPTIEMBRE DE 2026. Transcripto de \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán, de descarga libre, con las limitaciones ya conocidas de esa fuente: no lleva fecha ni encabezado institucional, no declara metodología y usa sólo Oficial y Ayudante. RENDIMIENTO DECLARADO COMO APROXIMACIÓN: la fuente no tiene piso flotante, así que se aplicó el de \"Pisos — Parquet sobre carpeta cementicia\" (1,20 h de oficial y 0,60 h de ayudante por m²), que es la tarea más cercana. El flotante con encastre mecánico se coloca más rápido que el parquet pegado, de modo que el valor queda del lado conservador. CORRECCIÓN: en la ronda anterior este rendimiento se había escrito por error en el archivo del MATERIAL homónimo en vez del de la partida, porque los dos comparten nombre y el buscador de archivos miraba primero la carpeta de materiales. El material quedó con una descomposición de mano de obra que no le correspondía y la partida sin rendimiento. Corregido acá. CORRECCIÓN DE NOVIEMBRE 2026: el valor cargado hasta entonces, 1,35 h de oficial y 1,25 h de ayudante, no era el del ítem de parquet sino el de \"Cubiertas — Baldosas cerámicas con aislación\"; la versión anterior había cargado las horas de un renglón vecino del PDF, por una lectura del documento con las columnas desalineadas; se verificó contra la extracción del PDF en modo tabla, donde cada renglón cierra con su propia lista de insumos. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 11.10: el costo de esta partida es el del rubro «Madera flotante simil algarrobo e=8mm» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 28.284,29 de ejecución y $ 29.882,24 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,157 y las de materiales por 1,046. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-14T22:02:33.456Z",
+      "updatedAt": "2026-11-19T12:37:28.317Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -673,5 +708,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

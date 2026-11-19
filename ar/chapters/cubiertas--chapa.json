@@ -34,7 +34,7 @@
       "prices": [
         {
           "currency": "ARS",
-          "date": "2026-08",
+          "date": "2026-11",
           "edition": "2026-11",
           "kind": "computed_from_bom",
           "scope": {
@@ -42,7 +42,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 14438.71
+          "value": 12341.42
         }
       ],
       "sources": [
@@ -62,7 +62,7 @@
       ],
       "text": "Cubierta de chapa de acero cincalum conformada trapezoidal T101 calibre Nº 25, fijada con tornillos autoperforantes con arandela de neopreno sobre correas, con solapes laterales y longitudinales. Medida por metro cuadrado de superficie cubierta; los solapes no se computan aparte, están en el rendimiento del material. No incluye la estructura de sostén. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. No se localizó rendimiento de mano de obra en ninguna fuente pública argentina para esta partida: no se carga mano de obra hasta conseguirlo. Ningún organismo público argentino publica rendimientos (los pliegos fijan la forma de medición, pero el análisis de precio lo presenta el oferente).",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.229Z",
+      "updatedAt": "2026-11-19T12:15:14.303Z",
       "verification": {
         "findings": [
           "execution_without_labor-c307120e978c7cda"
@@ -72,5 +72,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

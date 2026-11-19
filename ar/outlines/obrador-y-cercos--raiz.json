@@ -6,7 +6,7 @@
       "g": [],
       "id": "wi-ar-cerco-de-obra-madera-altura-1-80-m-postes-cada-2-40-m",
       "m": 7,
-      "p": 30473.14,
+      "p": 55937.28,
       "s": "Cerco de obra-madera, altura 1,80 m-postes cada 2,40 m",
       "u": "m"
     },
@@ -15,7 +15,7 @@
       "g": [],
       "id": "wi-ar-cerco-de-obra-metalico-altura-2-00-m-postes-cada-2-50-m",
       "m": 7,
-      "p": 17193.01,
+      "p": 55937.29,
       "s": "Cerco de obra-metalico, altura 2,00 m-postes cada 2,50 m",
       "u": "m"
     },
@@ -24,7 +24,7 @@
       "g": [],
       "id": "wi-ar-cerco-olimpico-altura-2-40m-con-alambre-romboidal",
       "m": 12,
-      "p": 66886.29,
+      "p": 66820.83,
       "s": "Cerco olimpico, altura 2,40m-con alambre romboidal",
       "u": "m"
     },
@@ -33,11 +33,11 @@
       "g": [],
       "id": "wi-ar-cerco-olimpico-con-postes-de-hormigon-premoldeados-altura-2",
       "m": 16,
-      "p": 49005.22,
+      "p": 48794.03,
       "s": "Cerco olimpico con postes de hormigón premoldeados, altura 2,40m-con postes con codo. sin viga encad",
       "u": "m"
     }
   ],
   "title": "Obrador y cercos",
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

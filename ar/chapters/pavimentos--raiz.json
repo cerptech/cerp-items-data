@@ -84,7 +84,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 58754.17
+          "value": 58454.51
         },
         {
           "currency": "ARS",
@@ -97,7 +97,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 59858.71
+          "value": 59559.05
         },
         {
           "currency": "ARS",
@@ -110,7 +110,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 66498.73
+          "value": 66199.07
         },
         {
           "currency": "ARS",
@@ -123,7 +123,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 68487.54
+          "value": 68187.88
         }
       ],
       "sources": [
@@ -140,7 +140,7 @@
       ],
       "text": "Pavimento de hormigón elaborado-armado, espesor 15 cm-sobre sub base existente. ejecutado con moldes rígidos y regla…. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.649Z",
+      "updatedAt": "2026-11-19T12:06:23.016Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -148,5 +148,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

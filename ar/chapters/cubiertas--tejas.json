@@ -61,7 +61,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 76660.87
+          "value": 76529.94
         },
         {
           "currency": "ARS",
@@ -74,7 +74,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 79323.21
+          "value": 79192.28
         },
         {
           "currency": "ARS",
@@ -87,7 +87,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 94844.66
+          "value": 94713.73
         },
         {
           "currency": "ARS",
@@ -100,7 +100,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 100258.59
+          "value": 100127.66
         }
       ],
       "sources": [
@@ -119,7 +119,7 @@
       ],
       "text": "Cubierta de teja colonial cerámica de 20x44 cm asentada con mortero sobre losa inclinada, con 25 unidades por metro cuadrado según el rendimiento declarado por el comercio. NO incluye cumbreras, terminales ni medias tejas, que cuestan entre 1,5 y 22 veces la teja de campo y se computan aparte por metro lineal de encuentro. Medida por metro cuadrado de faldón ejecutado en proyección sobre el plano del techo. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra transcripto de \"Coeficientes de Consumo\", material de la cátedra de Organización y Conducción de Obras de la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán, de descarga libre. ADVERTENCIAS DE LA FUENTE: el documento no lleva fecha ni encabezado institucional (el archivo está alojado en una carpeta de 2014 y sigue enlazado como material vigente del práctico), no declara la procedencia metodológica de sus coeficientes, y usa sólo las categorías Oficial y Ayudante, sin medio oficial. Nivel de verificación cross-check-secundario, pendiente de contraste. Corresponde al ítem \"Cubiertas — Tejas coloniales sobre losa\", que asigna 0,80 h de oficial y 1,00 h de ayudante por m² (el ítem \"Tejas francesas sobre losa\" da las mismas horas). Se tomó de él únicamente el rendimiento de mano de obra; la composición de materiales de esta partida es la curada antes. CORRECCIÓN (noviembre 2026): se habían cargado 1,35 h de oficial y 1,25 h de ayudante, que son las del ítem anterior de la fuente, \"Baldosas cerámicas con aislación\"; la versión anterior había cargado las horas de un renglón vecino del PDF, por una lectura del documento con las columnas desalineadas; se verificó contra la extracción del PDF en modo tabla, donde cada renglón cierra con su propia lista de insumos. El texto anterior decía además que la fuente no tiene teja colonial, y sí la tiene. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-14T22:02:33.412Z",
+      "updatedAt": "2026-11-19T12:06:22.843Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -127,5 +127,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

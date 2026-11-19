@@ -85,7 +85,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 810149.69
+          "value": 805204.11
         },
         {
           "currency": "ARS",
@@ -98,7 +98,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 865520.83
+          "value": 860575.25
         },
         {
           "currency": "ARS",
@@ -111,7 +111,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1181718.6
+          "value": 1176773.02
         },
         {
           "currency": "ARS",
@@ -124,7 +124,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 1302805.01
+          "value": 1297859.43
         }
       ],
       "sources": [
@@ -144,7 +144,7 @@
       ],
       "text": "Hormigón armado preparado EN OBRA con hormigonera, incluida la armadura elaborada y colocada. NO incluye el encofrado, que va por su propia partida y se mide en metros cuadrados: sumarlo acá lo mediría dos veces. Medido por metro cúbico de hormigón colocado. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Dosificación, cuantía de armadura y rendimiento transcriptos de \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem «Hº Aº para Dinteles»: 326 kg de cemento, 0,5 m³ de arena gruesa, 0,75 m³ de ripio, 60 kg de hierro y 0,6 kg de alambre por metro cúbico, con 20 horas de oficial y 17 de ayudante; el ítem lista además 30 pie² de tablas, 12 pie² de tirantes y 1 kg de clavos para el encofrado, que esta partida excluye porque el encofrado va por su propia partida. Equivalencias: el cemento se pasa a bolsas de 50 kg (326 / 50 = 6,52 bolsas); el ripio se carga con el ripio 1 a 3 a granel del banco, porque la fuente no aclara la granulometría; el hierro se carga como acero de construcción en barras, por kilogramo, sin desperdicio que la fuente no da; el alambre, con el alambre recocido n.º 16 para atado de armaduras. PRIMERA CORRECCIÓN (noviembre 2026, horas): se habían cargado los valores del ítem \"Hº Aº para Encadenados\" (80 kg de hierro, 17 h de oficial y 14 de ayudante); la versión anterior había cargado las horas de un renglón vecino del PDF, por una lectura del documento con las columnas desalineadas; se verificó contra la extracción del PDF en modo tabla, donde cada renglón cierra con su propia lista de insumos. CORRECCIÓN (noviembre 2026): las horas (20 h de oficial y 17 h de ayudante) y la dosificación de cemento y arena ya coincidían con el ítem y no cambian; el resto de los materiales no coincidía. El hierro se cargaba como 13,16 barras de 8 mm (13,16 × 4,74 kg = 62,38 kg, un 4 % más que los 60 kg de la fuente); el ripio, como piedra partida de 6 a 20 mm; el alambre, con 1,2 kg (la fuente da 0,6 kg), y se agregaban 24 separadores plásticos que la fuente no lista. Ahora: 60 kg de acero de construcción en barras, 0,75 m³ de ripio 1 a 3, 0,6 kg de alambre y sin separadores. Valen las mismas advertencias que en el resto de los ítems tomados de esa fuente: no tiene fecha ni encabezado institucional, no declara metodología y usa solo oficial y ayudante. El alquiler de hormigonera y de vibrador de inmersión es elaboración propia de CERP, sin fuente declarada; queda como estaba. CONTROL DE COHERENCIA QUE CONVIENE MIRAR: con este rendimiento la mano de obra queda cerca del 61 % del precio de la partida, proporción alta para hormigón estructural. Puede ser real en obra chica, donde el metro cúbico es caro en horas porque los volúmenes son mínimos, pero conviene contrastarlo contra una obra propia antes de usar estas partidas para presupuestar volumen grande. Tratá el precio como un techo. ADVERTENCIA DE ALCANCE (noviembre 2026): el ítem de la fuente incluye madera de encofrado (tablas y tirantes), de modo que sus horas probablemente incluyen el armado y desarme del encofrado. Si además se computa la partida de encofrado, esa mano de obra puede quedar contada dos veces. INCLUYE: mano de obra de oficial y ayudante; cemento, arena gruesa y ripio para el hormigón preparado en obra; acero en barras y alambre de atado; alquiler de hormigonera y de vibrador, sin fuente declarada. NO INCLUYE: encofrado (la madera y los clavos que lista la fuente: 30 pie² de tablas, unos 2,79 m², 12 pie² de tirantes, unos 5,49 m de tirante de 2x4 pulgadas (12 × 0,4572), y 1 kg de clavos por m³), que se computa con su propia partida; separadores, que la fuente no lista. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m3",
-      "updatedAt": "2026-11-18T11:16:50.425Z",
+      "updatedAt": "2026-11-19T12:06:22.923Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-09-08T09:19:43.233Z",
@@ -152,5 +152,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

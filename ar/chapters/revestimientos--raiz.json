@@ -238,37 +238,37 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1.04,
+          "quantity": 1.11907891,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.65,
+          "quantity": 0.69942432,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 1.05,
+          "quantity": 0.88383435,
           "ref": "mt-ar-azulejo-15x15-cm",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 3,
+          "quantity": 2.525241,
           "ref": "mt-ar-adhesivo-para-placas-aislantes",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.2,
+          "quantity": 0.1683494,
           "ref": "mt-ar-pastina-para-juntas",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.015,
+          "quantity": 0.01614056,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -294,7 +294,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 60093.76
+          "value": 55923.49
         },
         {
           "currency": "ARS",
@@ -307,7 +307,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 62645.83
+          "value": 58669.61
         },
         {
           "currency": "ARS",
@@ -320,7 +320,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 76986.84
+          "value": 74101.07
         },
         {
           "currency": "ARS",
@@ -333,7 +333,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 82866.17
+          "value": 80427.46
         }
       ],
       "sources": [
@@ -342,15 +342,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "10.02",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Revestimiento de azulejos 15x15 colocados con adhesivo",
       "tags": [
         "revestimientos"
       ],
-      "text": "Revestimiento de azulejos 15x15 colocados con adhesivo. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Revestimiento de azulejos 15x15 colocados con adhesivo. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 10.02: el costo de esta partida es el del rubro «Cerámicos esmaltados» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 24.524,13 de ejecución y $ 31.399,36 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 1,076 y las de materiales por 0,842. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.749Z",
+      "updatedAt": "2026-11-19T12:37:28.319Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -429,7 +436,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 69273.95
+          "value": 69252.13
         },
         {
           "currency": "ARS",
@@ -442,7 +449,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 73078.52
+          "value": 73056.7
         },
         {
           "currency": "ARS",
@@ -455,7 +462,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 94163.35
+          "value": 94141.53
         },
         {
           "currency": "ARS",
@@ -468,7 +475,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 103305.84
+          "value": 103284.01
         }
       ],
       "sources": [
@@ -485,7 +492,7 @@
       ],
       "text": "Revestimiento de paramento con azulejos de 15x15 cm asentados con mezcla de cemento, cal y arena mediana, con juntas tomadas. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra y consumos: \"Coeficientes de Consumo\" de la cátedra de Organización y Conducción de Obras de la FACET, Universidad Nacional de Tucumán (documento sin fecha), ítem \"Azulejo con mezcla\" (página 7), que asigna 1,70 h de oficial y 0,80 h de ayudante por m², con 1,05 m² de azulejos, 2,00 kg de cemento, 2,90 kg de cal, 0,30 kg de cemento blanco y 0,03 m³ de arena mediana. Adaptación: el cemento se pasa a bolsa de 50 kg (2 kg / 50 = 0,04 bolsa) y la cal a bolsa de 25 kg de cal hidratada (2,9 kg / 25 = 0,116 bolsa); la arena fina que tenía la partida se reemplaza por arena mediana, que es la que indica la fuente. La fuente toma las juntas con 0,30 kg de cemento blanco, que el banco no tiene: la partida conserva los 0,20 kg de pastina para juntas que ya tenía, y la línea de equipos y herramientas menores (0,02 h por m²) queda como estaba; ninguna de las dos tiene fuente declarada. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (1,29 h de oficial y 0,77 h de ayudante; 0,054 bolsa de cemento, 0,1096 bolsa de cal y 0,018 m³ de arena fina por m²), que no tenían una fuente que se pudiera cotejar. INCLUYE: 1,70 h de oficial y 0,80 h de ayudante; 1,05 m² de azulejo de 15x15 cm; 0,04 bolsa de cemento portland; 0,116 bolsa de cal hidratada; 0,03 m³ de arena mediana; 0,20 kg de pastina para juntas; 0,02 h de equipos y herramientas menores. NO INCLUYE: los 0,30 kg de cemento blanco por m² que la fuente lleva para el tomado de juntas, el revoque grueso de base, guardacantos ni piezas especiales. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.688Z",
+      "updatedAt": "2026-11-19T12:06:23.051Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -693,7 +700,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 66355.15
+          "value": 66180.84
         },
         {
           "currency": "ARS",
@@ -706,7 +713,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 72758.54
+          "value": 72584.23
         },
         {
           "currency": "ARS",
@@ -719,7 +726,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 109645.79
+          "value": 109471.48
         },
         {
           "currency": "ARS",
@@ -732,7 +739,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 123237.51
+          "value": 123063.2
         }
       ],
       "sources": [
@@ -749,7 +756,7 @@
       ],
       "text": "Revestimiento de cerámicos sobre escalera de hormigón, con nariz de madera, zócalo cerámico. Análisis de precio unitario. Medida por u. Precio computado desde la descomposición.",
       "unit": "u",
-      "updatedAt": "2026-11-14T22:02:33.462Z",
+      "updatedAt": "2026-11-19T12:06:23.056Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -828,7 +835,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 178963.7
+          "value": 177148.58
         },
         {
           "currency": "ARS",
@@ -841,7 +848,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 193469.62
+          "value": 191654.49
         },
         {
           "currency": "ARS",
@@ -854,7 +861,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 275045.36
+          "value": 273230.24
         },
         {
           "currency": "ARS",
@@ -867,7 +874,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 308384.26
+          "value": 306569.14
         }
       ],
       "sources": [
@@ -884,7 +891,7 @@
       ],
       "text": "Revestimiento de escalones con ladrillos de máquina, sobre terreno natural con base H° pobre. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.763Z",
+      "updatedAt": "2026-11-19T12:06:23.057Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1080,7 +1087,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 69946.36
+          "value": 69803.42
         },
         {
           "currency": "ARS",
@@ -1093,7 +1100,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 73515.22
+          "value": 73372.29
         },
         {
           "currency": "ARS",
@@ -1106,7 +1113,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 93519.49
+          "value": 93376.55
         },
         {
           "currency": "ARS",
@@ -1119,7 +1126,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 101806.01
+          "value": 101663.08
         }
       ],
       "sources": [
@@ -1136,7 +1143,7 @@
       ],
       "text": "Revestimiento de paramento con piedra natural en placas de 1,2 cm de espesor, asentadas con mortero de cemento y arena mediana. Medida por m² de superficie ejecutada. La forma de medición es por unidad ejecutada y la forma de pago por certificado de obra mensual del rubro ejecutado. Rendimiento de mano de obra: ítem 8.4 «Revestimiento piedra laja» del Análisis de Precios Unitarios del Colegio de Arquitectos de Salta (modelo CAS 3, sistema húmedo, edición octubre 2026, publicación de descarga libre), que asigna 1,48 h de oficial y 0,88 h de ayudante por m². Se tomó solo la mano de obra: la fuente coloca 1,30 m² de piedra laja «lince color óxido» con 4,85 kg de pegamento para cerámico impermeable por m², y esta partida tiene otra especificación de materiales (piedra natural medida en kg y asentada con mortero de cemento y arena), así que se conservan los materiales que ya tenía; sus consumos y la línea de equipos y herramientas menores no tienen fuente declarada. Las horas de la fuente son las de una colocación con pegamento; esta partida asienta la piedra con mortero. CORRECCIÓN (noviembre 2026): estos valores reemplazan a los anteriores (0,60 h de oficial y 0,40 h de ayudante), que no tenían una fuente que se pudiera cotejar. INCLUYE: 1,48 h de oficial y 0,88 h de ayudante; 28 kg de piedra natural; 0,262 bolsa de cemento portland; 0,033 m³ de arena mediana; 0,02 h de equipos y herramientas menores. NO INCLUYE: revoque grueso de base, sellado o impermeabilización de la piedra, tomado de juntas ni piezas de remate. La fuente no declara la procedencia metodológica de sus rendimientos: nivel de verificación cross-check-secundario. Los precios de materiales y de mano de obra son los del banco a la fecha de cómputo de la partida, no los de la fuente del rendimiento.",
       "unit": "m2",
-      "updatedAt": "2026-11-18T11:16:50.700Z",
+      "updatedAt": "2026-11-19T12:06:23.060Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1147,43 +1154,43 @@
       "bom": [
         {
           "factor": 1,
-          "quantity": 1.8,
+          "quantity": 1.75409419,
           "ref": "mo-ar-oficial-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.65,
+          "quantity": 0.6334229,
           "ref": "mo-ar-ayudante-cct-76-75",
           "role": "labor"
         },
         {
           "factor": 1,
-          "quantity": 0.11,
+          "quantity": 0.12171522,
           "ref": "mt-ar-cemento-portland-compuesto-cpc40-en-bolsa-de-50-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.01,
+          "quantity": 0.01106502,
           "ref": "mt-ar-arena-mediana-a-granel",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 6,
+          "quantity": 6.63901182,
           "ref": "mt-ar-adhesivo-cementicio-impermeable-para-ceramicos-por-kg",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 63,
+          "quantity": 69.70962407,
           "ref": "mt-ar-tejuela-imitacion-ladrillo-comun",
           "role": "material"
         },
         {
           "factor": 1,
-          "quantity": 0.015,
+          "quantity": 0.01461745,
           "ref": "mq-ar-equipos-y-herramientas-menores-por-hora-de-uso",
           "role": "machinery"
         }
@@ -1209,7 +1216,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 60971.77
+          "value": 62955.99
         },
         {
           "currency": "ARS",
@@ -1222,7 +1229,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 64724.56
+          "value": 66613.07
         },
         {
           "currency": "ARS",
@@ -1235,7 +1242,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 85280.13
+          "value": 86644.4
         },
         {
           "currency": "ARS",
@@ -1248,7 +1255,7 @@
           },
           "source": "cerp",
           "sourceCode": "BOM",
-          "value": 94609.1
+          "value": 95735.46
         }
       ],
       "sources": [
@@ -1257,15 +1264,22 @@
           "edition": "2026-10",
           "matchedBy": "manual",
           "source": "cerp"
+        },
+        {
+          "code": "10.09",
+          "edition": "2026-11",
+          "matchedBy": "manual",
+          "source": "cifras",
+          "url": "https://www.cifrasonline.com.ar/costos/"
         }
       ],
       "summary": "Revestimiento de tejuelas imitacion ladrillo comun, con tomado de juntas al concreto",
       "tags": [
         "revestimientos"
       ],
-      "text": "Revestimiento de tejuelas imitacion ladrillo comun, con tomado de juntas al concreto. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición.",
+      "text": "Revestimiento de tejuelas imitacion ladrillo comun, con tomado de juntas al concreto. Análisis de precio unitario. Medida por m2. Precio computado desde la descomposición. Fuente del costo: Revista CIFRAS (edición 2026-11), rubro 10.09: el costo de esta partida es el del rubro «Tejuelas refractarias» de la tabla «Costos unitarios por rubros» del n.º 368 (noviembre de 2026): $ 32.799,32 de ejecución y $ 30.156,66 de materiales por m2, sin IVA, en zona A. Para llegar a ese costo, las cantidades de mano de obra y equipos de la descomposición se multiplicaron por 0,974 y las de materiales por 1,107. Las cantidades que menciona el texto son las de la fuente original; las de la descomposición son las ajustadas. En las otras zonas se aplican los mismos multiplicadores a las cantidades; el costo que resulta depende de la mano de obra de cada zona.",
       "unit": "m2",
-      "updatedAt": "2026-11-06T14:19:15.788Z",
+      "updatedAt": "2026-11-19T12:37:28.321Z",
       "verification": {
         "findings": [],
         "lastCheckedAt": "2026-10-06T23:05:19.910Z",
@@ -1273,5 +1287,5 @@
       }
     }
   ],
-  "version": "0.11.0"
+  "version": "0.12.0"
 }
